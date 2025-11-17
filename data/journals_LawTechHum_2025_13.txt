@@ -1,0 +1,1777 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/LawTechHum/2025/13.html
+Scraped: 2025-11-17 15:12:56
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Lau, Pin Lean --- "Rewriting the Narrative of AI Bias: A Data Feminist Critique of Algorithmic Inequalities in Healthcare" [2025] LawTechHum 13; (2025) 7(2) Law, Technology and Humans 8
+Rewriting the Narrative of AI Bias: A Data Feminist Critique of
+Algorithmic Inequalities in Healthcare
+Pin Lean Lau
+Brunel University of London, United Kingdom
+Algorithm bias; AI health; techno-governance;
+data feminism; bias framing; androcentricity; intersectionality.
+1. Introduction: Framing AI Bias as a Structural Issue
+Narratives exert a profound and multifaceted
+influence on the construction and interpretation of real-life experiences,
+constituting
+a fundamental aspect of human cognition and socio-cultural
+interaction. Spanning diverse mediums such as literature, folklore and
+discourse, narratives serve as both reflective mirrors and active agents in
+shaping individual and collective identities,
+perceptions and interpretations of
+reality. They provide a structured framework through which individuals
+contextualise their past,
+negotiate their present circumstances and project
+aspirations for the future. They possess a compelling capacity to engender
+and facilitate intersubjective understanding by affording audiences the
+opportunity to vicariously engage with varied perspectives
+and lived realities.
+In essence, narratives emerge as pivotal conduits for the transmission of
+cultural values, ethical paradigms
+and collective memory, thereby contributing
+to the continual negotiation and evolution of societal norms and individual
+worldviews.
+In health and medicine, narratives and storytelling serve as indispensable
+tools for conveying patient experiences, disseminating
+medical knowledge and
+fostering empathy among healthcare practitioners. However, the translation of
+narratives into medical discourse
+can inadvertently perpetuate historical
+inaccuracies and biases, thereby distorting clinical perceptions and
+exacerbating healthcare
+disparities. Historical narratives, shaped by prevailing
+sociocultural norms and power dynamics, may inadvertently marginalise certain
+patient populations or perpetuate stereotypes based on race, gender or
+socioeconomic status. Moreover, the selective emphasis on
+certain medical
+‘stories’ over others may reinforce dominant biomedical paradigms
+while marginalising alternative healing
+traditions or patient perspectives.
+Consequently, this distortion has the potential to engender discriminatory
+practices within healthcare
+settings, further entrenching inequities in access
+to care and treatment outcomes. Thus, critical examination and contextualisation
+of these narratives are imperative to mitigate their potential for perpetuating
+historical inaccuracies and discriminatory practices
+within the field of
+Meanwhile, the intersection of medical narratives with healthcare delivery
+and artificial intelligence (AI) introduces a complex interplay
+subjective patient experiences, clinical data collection and algorithmic
+decision-making. While AI is increasingly being
+integrated into healthcare
+systems, promising efficiency, precision and improved patient outcomes, it is
+not neutral. It reflects
+the biases embedded in the data it processes, the
+algorithms that structure its decision-making, and the regulatory frameworks
+govern its deployment. The inherent subjectivity and contextuality of
+medical narratives may be lost in translation, leading to an
+oversimplification
+or misrepresentation of patient experiences within datasets. Consequently, AI
+algorithms trained on such data
+risk perpetuating the biases and
+disparities
+inherent in historical
+medical narratives, thereby compromising the equitable delivery of healthcare.
+The reliance on AI-driven decision
+support systems may exacerbate these issues
+by amplifying algorithmic biases and reinforcing existing healthcare
+inequalities.
+Despite these well-documented disparities, regulatory responses often frame
+bias as a technical flaw, a problem that can be corrected
+through mere improved
+data collection, algorithmic adjustments or transparency measures. This article
+challenges that assumption,
+arguing that AI bias is embedded within historical
+and legal narratives that have long marginalised intersectional identities in
+medicine and healthcare. Legal narratives do not merely describe reality; they
+construct it. As Sherwin argues, law operates through
+storytelling, shaping
+perceptions of justice, fairness and
+responsibility.
+In the case of AI
+bias, the dominant legal narrative treats discrimination as an anomaly –
+something that can be corrected
+through technical adjustments rather than
+structural reform. This formalist legal narrative is evident in the European
+Union Artificial
+Intelligence Act (‘the EU AI
+which adopts a
+risk-based classification system to regulate AI applications. While this
+approach appears neutral, it implicitly prioritises
+concerns that align with
+dominant narratives of technological governance – which often overlook the
+gendered and intersectional
+dimensions of bias. By categorising AI systems based
+on their potential harms, the EU AI Act assumes that bias can be mitigated
+technical safeguards rather than addressing the structural inequalities
+that shape algorithmic outcomes.
+This article argues that data feminism, a theoretical feminist and
+intersectional approach, provides a counter-narrative to dominant
+AI governance
+frameworks. Data feminism, as articulated by D’Ignazio and
+is a way of thinking about
+data, data systems and data science that encourages and validates a recognition
+that achieving true equality
+means needing to examine the root causes of
+inequalities that are faced particularly by intersectional
+By applying data feminism
+as a narrative framework, this article critiques the EU AI Act, demonstrating
+how its risk-based classification
+system, bias mitigation strategies and
+transparency requirements reinforce androcentric and technocratic assumptions in
+medicine. Hence, the inquiry of this article is threefold. First, how
+does the EU AI Act construct a regulatory narrative of AI bias,
+and what are its
+implications for health inequalities? Second, to what extent does the EU AI
+Act’s risk-based classification
+system reinforce androcentric assumption
+in AI governance? Finally, how can data feminism serve as a counter-narrative
+that provides
+a more effective framework for addressing AI bias in health and
+To achieve the answers to these questions, this article integrates three key
+approaches to demonstrate how AI bias is constructed
+within legal narratives or
+regulatory storytelling – and how this constructs visions of fairness,
+justice and inclusion (which
+often reinforces rather than dismantles systemic
+inequalities). The first approach utilises Sherwin’s legal narrative
+to demonstrate how law shapes perceptions of bias and
+The second approach
+relies on Kimberlé Crenshaw’s intersectionality framework, which
+analyses how AI bias disproportionately
+affects marginalised
+finally, the third approach
+carefully reflects Carol Smart’s socio-legal critique of
+androcentricity,
+which is applied
+to show how gendered assumptions persist in AI governance. To this end, section
+2 provides a background to AI bias
+and health inequalities, with section 3
+examining androcentricity and intersectionality in AI regulation, exploring how
+and racial biases persist in medical AI. Section 4 proposes the concept
+of data feminism as a counter-narrative and analyses the
+EU AI Act’s
+bias-mitigation strategies, transparency requirements and risk-classification
+system to demonstrate how these reinforce
+androcentric assumptions. Section 5
+concludes the article by advocating for a narrative transformation in AI
+regulation to ensure
+that AI systems actively work towards structural justice
+rather than merely mitigating bias.
+2. Narratives of AI Bias and Health Inequalities
+As indicated in section 1, this article challenges the framing of
+technologies as being neutral and objective. Despite the deployment
+of AI across
+healthcare systems, the reality is that it inherits and amplifies existing
+biases embedded in medical research, healthcare
+policies and systemic
+inequalities.
+These obscured and
+hidden biases encapsulate contributions that have been cloaked in the fabric of
+the development of AI systems
+tailored for healthcare applications. With the
+incessant surge in the evolution of both health and medical AI paradigms, it
+imperative to acknowledge the ramifications of these biases on diverse
+and intersectional demographic cohorts. There is now a need
+to accentuate the
+exigency for the adoption of intersectionality-conscious AI architectures aimed
+at curtailing the unintentional
+detriments engendered by AI biases.
+Marginalised communities – including women, racial minorities, disabled
+individuals, and lower-income
+disproportionately higher risks of misdiagnosis, inadequate treatment and
+exclusion from AI-driven healthcare
+innovations.
+These inequalities
+are not accidental; they are a direct result of androcentric and technocratic
+data practices, which prioritise
+dominant populations in algorithmic design
+while failing to account for intersectional health needs.
+2.1 The Structural Nature of AI Bias in Healthcare
+Technoscience and technocultural studies have historically been dominated by
+men – not only from a scientific perspective, but
+also through cultural
+and sociological practices.
+example, technologies viewed through the lens of techno-cultural
+storytelling
+excluded women and
+their bodies from the advancement of technologies. The pervasiveness of
+androcentricity
+in medicine also
+contributes to this exclusion, highlighting the likelihood that ‘ongoing
+discrepancies in the care of female
+do have a significant
+impact on patient care through the experience of female patients. However, women
+are not the only demographic
+to have traditionally been excluded in this manner.
+The systemic ‘othering’ of marginalised populations also operates
+within pre-existing social and medical hierarchies. This section of the article
+articulates how ‘othering’ functions
+as a mechanism of exclusion,
+constructing certain populations as deviant, invisible or secondary within
+dominant narratives. In AI-driven
+healthcare, ‘othering’ therefore
+manifests in ways that intertwine with AI biases.
+Even in the twenty-first century, ‘othering’ continues to be a
+problem. Described as ‘a set of dynamics, processes
+and structures that
+engender marginality and persistent inequality across any of the full range of
+human differences based on groups
+identities’,
+‘othering; is an unfortunate consequence of systemic discrimination and
+prejudice. While ‘othering’ can appear
+in many forms, including
+outward expressions of prejudice, it is also embedded in
+‘institutionalization and structural
+‘individual acts of discrimination have a cumulative and magnifying effect
+that may help explain many group-based
+inequalities’.
+manifestation of ‘othering’ in modern health and medicine is
+health inequalities, with the latter
+ultimately forming part of AI biases.
+There are several key sources of bias in medical and healthcare AI systems
+(this is not an exhaustive assessment). First, bias can
+emerge from historical
+bias in medical data, rendering some populations
+‘invisible’.
+AI models are disproportionately trained on white, male and economically
+privileged datasets, rendering women, racial minorities,
+disabled individuals
+and lower-income patients statistical outliers rather than central
+For example, it was
+found that AI-driven cardiovascular risk assessments under-estimate heart
+disease risk in women;
+reflecting decades of androcentric medical research that treats male physiology
+as the universal norm.
+Unwell Women
+, feminist cultural historian Elinor Cleghorn proclaims,
+in a powerful final paragraph in the introduction:
+Medicine must hear unwell women when they speak – not as females,
+weighed down by the myths of the man – made world, but
+as human beings.
+Medicine must listen to and believe our testimonies about our own bodies, and
+ultimately turn its energies, time,
+and money towards finally solving our
+medical mysteries. The answers reside in our bodies, and in the histories our
+bodies have always
+Cleghorn’s masterful work presents a woeful and disturbing view of the
+ways in which modern medicine and healthcare continue
+to fail women, often
+dismissing and disbelieving women’s symptoms of illness, disease and pain.
+While Cleghorn’s extensive
+investigation into the mistreatment of women in
+medicine is by no means completely novel, her findings show a ‘richly
+wide-ranging and enraging history of how conventional medicine has
+pathologized, dismissed and abused women from antiquity to the
+Second, biomedical ‘normativity’ and algorithmic deviance is
+another way of ignoring racial biases in predictive models.
+‘normativity’ refers to the implicit standards and assumptions that
+define what is considered ‘normal’
+or ‘healthy’ in
+medical science. It shapes diagnostic criteria, treatment protocols and
+healthcare policies, often reinforcing
+androcentric and Eurocentric biases.
+However, it has been argued that biomedical (or biological) normativity is
+historically constructed
+rather than an inherent property of
+For this reason, AI
+systems often flag marginalised groups as ‘deviant’ or
+‘atypical’ when their health indicators
+do not confirm to dominant
+biomedical standards – a further illustration of how
+‘othering’ continues to manifest.
+For example, it has been shown
+that race-based correction factors in AI-driven kidney function assessments
+delay referrals for Black
+Vyas et al., in this
+study, examined how kidney function assessments, pulmonary function tests and
+cardiology algorithms systematically
+adjust medical risk scores based on race,
+often delaying or denying necessary treatment for Black patients. The study
+calls for the
+abolition of race-based adjustments, emphasising that they are not
+scientifically justified and perpetuate health disparities. In
+another study by
+Hoffman et al.,
+racial biases in
+medical assessments of pain reveal how Black patients are systematically
+undertreated due to false beliefs about
+biological differences. The study found
+that half of medical students and residents believed Black patients had thicker
+skin or higher
+pain tolerance, leading to less pain medication being prescribed,
+compared with white patients with identical symptoms. This shows
+myths embedded in medical systems affect AI-driven pain-management tools,
+perpetuating algorithmic discrimination in healthcare.
+The third source of bias comes from socioeconomic perspectives, not only
+through the issue of access to AI-driven healthcare, but
+also in accessing
+healthcare. Predictive analytics in healthcare are increasingly
+used to determine insurance eligibility, hospital admissions and chronic
+management, yet these models frequently mis-clarify low-income patients as
+‘high risk’,
+identified by O’Neil. This leads to reduced access to preventive care and
+increased financial penalties. O’Neil also
+critiques the unchecked power
+of algorithms, arguing that big data models reinforce systemic inequalities
+rather than eliminate them.
+examines how automated
+decision-making systems in welfare, housing and child protection
+disproportionately target and punish low-income
+communities. She argues that
+digital tools used in public assistance programs are modern extensions of
+historical poverty-management
+strategies, reinforcing racial and economic
+disparities. Eubanks particularly addresses AI-driven insurance risk
+assessments, which
+disproportionately flag low-income individuals as more likely
+to require medical intervention. This results in higher premiums, denial
+coverage, and medical debt accumulation, reinforcing structural barriers to
+healthcare access.
+The socioeconomic ‘othering’ is also prevalent in AI-driven
+patient prioritisation. Hospitals increasingly use AI triage
+prioritise patient care, yet socioeconomic factors are rarely accounted for in
+algorithmic decision-making. AI models
+trained on datasets from wealthier
+populations often under-estimate the severity of medical conditions in
+low-income patients, further
+reinforcing the digital divide in access to
+healthcare.
+As an example,
+AI-driven emergency room admissions models frequently deprioritise uninsured
+patients or those with Medicaid, categorising
+them as less urgent cases even
+when their symptoms align with high-risk indicators.
+These narratives of AI bias have a direct correlation with health
+inequalities. These biases risk exclusion, trapping marginalised
+communities in
+cycles of poor health outcomes and financial insecurity. Rather than serving as
+neutral tools, AI biases automate
+discrimination, disproportionately targeting
+marginalised communities while denying equitable healthcare interventions. In
+with the fundamental tenets of this article, Eubanks warns that
+algorithmic governance is not neutral, calling for human-centred
+2.2 The Dominant Legal Narrative of AI Bias
+Law has always been more than rules: it is a storytelling device, a tool for
+shaping reality rather than simply describing it. As
+Sherwin argues, legal
+discourse functions as a frame, one that dictates who is seen, who is invisible,
+and what counts as truth.
+frames do not emerge in isolation, as they are historically contingent, shaped
+by dominant ideologies and institutional power
+structures.
+2.2.1 Bias and Affirmative Postmodern Storytelling
+In the case of AI bias, the dominant legal narrative follows a predictable
+arc, constructing discrimination as a technical malfunction
+rather than a
+systemic injustice woven into the fabric of healthcare data itself. This framing
+aligns with what Sherwin describes
+as ‘affirmative postmodern
+storytelling’, where law acknowledges complexity but ultimately reinforces
+dominant cultural
+myths. The EU AI Act exemplifies this approach, categorising
+AI systems based on risk levels (Article 6), requiring bias audits (Article
+and mandating transparency disclosures (Article 13) – all measures that
+treat bias as an issue to be fine-tuned rather
+than a structural consequence of
+exclusionary data practices.
+Sherwin’s affirmative postmodernism helps to reveal why regulatory
+frameworks often fail to address bias at its roots. He argues
+that postmodern
+legal narratives can take two forms. The first, sceptical
+postmodernism,
+rejects the
+possibility of objective truth, leading to fragmented and inconclusive legal
+reasoning. The second form, affirmative
+postmodernism,
+complexity while maintaining coherence, using cultural myths, metaphors and
+familiar character types to create meaning.
+It appears that the EU AI Act adopts
+an affirmative postmodern approach, recognising bias while framing it as a
+solvable technical
+issue (but also not clearly providing guidance as to what may
+constitute bias or how it is to be assessed); this is a narrative of
+rather than disruption. This allows AI developers and policy-makers to retain
+authority over algorithmic fairness, positioning
+bias as a predictable defect
+that can be optimised away through audits and procedural safeguards. But bias is
+not merely a glitch:
+it is embedded in the historical exclusions of medical AI,
+the privileging of androcentric research and the socioeconomic stratifications
+of healthcare access.
+A compelling historical example of affirmative postmodernism in legal
+narratives can be seen in the US Civil Rights Act of
+While the Act marked a
+legislative milestone by outlawing racial segregation and discrimination, its
+implementation reflected a narrative
+of inclusion that preserved existing
+hierarchies. The law acknowledged racial injustice, but did not directly
+challenge the economic
+and structural foundations of racial inequality, such as
+housing segregation, wealth disparities and exclusion from political power.
+Legal compliance was framed as sufficient – businesses, institutions and
+government entities were required to integrate without
+fundamentally altering
+the systemic conditions that produced racial disparities in the first place.
+Much like the EU AI Act’s approach to bias audits, the Civil Rights
+Act’s narrative of progress celebrated inclusivity
+while leaving the
+deeper architectures of discrimination largely intact. AI governance today
+mirrors this postmodern legal pattern,
+acknowledging bias through
+risk-management frameworks while avoiding direct confrontation with the
+exclusionary systems that generate
+algorithmic discrimination in healthcare,
+hiring, and predictive policing.
+Hence, this article challenges the EU AI Act’s risk-based storytelling
+approach, arguing that AI bias is not simply a technical
+anomaly; it is a
+product of legal narratives that sustain exclusion. A data feminist approach (as
+proposed in this article) would
+require reframing AI bias as a structural issue,
+ensuring that regulatory narratives do not merely acknowledge bias, but actively
+intervene in the power structures that sustain it. Just as Sherwin critiques the
+law’s tendency to transform complex injustices
+into manageable
+narratives,
+AI governance must
+resist the pull of technocratic storytelling, recognising that algorithmic bias
+demands structural transformation
+much more than compliance.
+2.2.2 Formalist Bias Framing in the EU AI Act
+The EU AI Act constructs a formalist legal narrative of AI bias – one
+that situates bias as a correctable flaw rather than an
+embedded structural
+issue. This framing aligns with what Sherwin describes as a formalist legal
+posture, where law is positioned
+as an objective mechanism for resolving
+disputes without acknowledging its own role in shaping social realities. This
+article highlights
+three specific obligations in the EU AI Act that exemplify
+formalist bias framing (these obligations are not intended to be exhaustive),
+which presupposes the mitigation of bias through technical safeguards instead of
+looking towards structural inequalities that shape
+algorithmic outcomes.
+The Act’s approach to bias mitigation reflects a technocratic
+governance model,
+assuming that
+algorithmic fairness can be achieved through risk classification, transparency
+measures and bias audits. However, this
+approach fails to account for historical
+exclusions, intersectional inequalities and androcentric assumptions embedded in
+AI systems.
+The EU AI Act
+primarily addresses technical safeguards as follows: first, through risk
+classification to determine the level of regulatory
+scrutiny required by an AI
+system (Title III, Chapter 2, Article 6); second, through bias audits to access
+whether AI systems produce
+discriminatory outcomes (Title III, Chapter 2,
+Article 10); and finally, in relation to transparency requirements for AI
+to disclose how algorithms function (Title III, Chapter 2, Article
+While these measures aim to mitigate bias, they reflect a formalist legal
+posture that assumes discrimination can be resolved through
+corrections rather than structural reform. Section 4 will further critically
+analyse each of these ‘safeguards’.
+2.3 Data Feminism as a Counter-Narrative
+In consideration of the foregoing sections, this article argues for data
+feminism as a counter-narrative to dominant legal narratives
+of AI bias in its
+governance framework. This will also be further elaborated upon in section 4. It
+is contended that data feminism
+that employs intersectionality discourse can
+develop ‘an empathetic approach to experiences and narratives of privilege
+healthcare’.
+feminist approach to AI regulation necessitates a shift from risk mitigation to
+equity-based intervention, ensuring that governance
+frameworks do not merely
+acknowledge bias, but actively dismantle exclusionary logics. Regulatory
+mechanisms must move beyond statistical
+and intervene at the
+level of the epistemological foundations of AI knowledge production,
+addressing how medical datasets, legal
+classifications and predictive models are
+constructed in the first place.
+Rather than treating bias as a technical problem that is solvable through
+compliance, AI governance must embrace structural justice,
+challenging the
+dominant narratives that position AI as an ethically neutral tool rather than a
+system embedded with historical inequities.
+3. Androcentricity and Intersectionality in AI Governance
+Androcentricity – the privilege of male-centred perspectives in
+knowledge production – has long shaped medical research,
+technological
+development and legal frameworks. It is relevant in contemporary AI governance
+discourse because its persistence has
+shaped AI development, regulation and
+deployment, often reinforcing gender biases in data, algorithms and policy
+frameworks. Coined
+by Charlotte Perkins
+the concept of
+androcentricity, which is based on the perspective that emphasises male
+experiences and viewpoints as the standard,
+has long influenced a variety of
+academic and social discussions. This male-centred perspective not only pushes
+women and individuals
+who identify as non-binary to the margins but also
+reinforces gender disparities in the realms of language and communication.
+Androcentricity is particularly observable in the latter part of the
+twentieth century, when medical trials were largely conducted
+participants, thus disregarding the distinct physiological and psychological
+characteristics of female
+individuals.
+This kind of
+practice contributed significantly to a widespread fallacy that the health
+issues faced by women could be extrapolated
+from male data, resulting in sub-par
+treatment protocols. For example, in Jerry Pinto's
+Em and the Big Hoom
+the complexities tied to
+the experience of mental illness – especially regarding women – are
+frequently masked by societal
+expectations that tend to pathologise their
+emotional states instead of recognising them as essential components of their
+lived experiences.
+Legal systems, too, have historically been androcentric, constructing
+male-centred epistemologies that shape governance frameworks.
+As Carol Smart
+argues, law does not merely reflect social
+it actively constructs
+gendered hierarchies, privileging male-coded rationality while marginalising
+women’s lived experiences.
+Smart challenges the assumption that law is
+neutral, arguing that legal discourse is deeply embedded in patriarchal
+knowledge production.
+She critiques the legal construction of “the
+showing how law
+frames women’s experiences through male-defined categories, often reducing
+gendered oppression to procedural
+inefficiencies rather than structural
+injustices.
+3.1 Historical Androcentric Bias in Health and Medical AI
+In the context of health and medical AI, both in deployment and governance,
+androcentrism continues to persist because medical AI
+systems inherit biases
+from historical medical research, where male bodies have been treated as the
+default standard for diagnosis
+and treatment.
+In reproductive healthcare, legal frameworks often prioritise biomedical
+expertise over embodied knowledge, sidelining women’s
+autonomy in medical
+decision-making.
+FemTech applications, designed with androcentric regulatory models, frequently
+fail to account for intersectional disparities,
+reinforcing gendered exclusions
+in algorithmic healthcare
+diagnostics.
+The exclusion of
+women from research studies has culminated in a significant shortage of female
+representation in studies that influence
+treatment protocols, even though women
+possess distinct physiological and psychological characteristics. This
+deficiency not only
+hinders the process of making accurate diagnoses but also
+perpetuates a deep-seated scepticism towards the healthcare
+This scepticism is
+highlighted by accounts from women experiencing chronic illnesses, who
+frequently state that their symptoms are
+often dismissed or minimised by medical
+professionals.
+The absence of research methodologies that are sensitive to gender further
+intensifies existing health disparities, highlighting an
+urgent requirement for
+extensive research that takes into consideration the differences associated with
+sex and gender in both biological
+and sociocultural
+frameworks.
+As a result,
+healthcare interventions frequently do not consider how aspects related to
+gender influence the manifestation of diseases
+and the effectiveness of
+treatments, thus worsening existing health inequalities. Additionally, the
+incorporation of AI in healthcare,
+which often reflects male-oriented datasets,
+creates algorithms that could unintentionally sustain gender disparities, thus
+ethical dilemmas regarding the careful advancement of health
+technologies.
+The representation deficit within health-relevant datasets significantly
+amplifies the impediments introduced by inherent algorithmic
+inclinations in
+medical AI systems, consequently reinforcing the long-standing inequities deeply
+embedded within the frameworks of
+healthcare provisions. Sub-groups,
+particularly racial and ethnic minorities, members of the LGBTQ+ community and
+individuals experiencing
+disabilities, are frequently either omitted or
+insufficiently encapsulated within health-relevant data
+This results in the
+creation of algorithmic formulations that fail to encompass their distinct
+medical necessitation and life experiences
+adequately. Such systemic
+non-inclusion of societal groups further magnifies the disparities prevalent in
+diagnostic, therapeutic
+and health outcome domains. The imperative to redress
+this is critical for ensuring we have ethically reliable and efficient AI-driven
+systems, purposed to dispense equitable healthcare solutions indiscriminately
+across diverse identity spectrums or
+backgrounds.
+While the issue of algorithm bias is not completely new, the use of AI in
+machine learning and in diagnosis protocols, for example,
+can be problematic.
+The most concerning issue in the use of AI algorithms for cardiovascular disease
+diagnosis is clearly articulated
+as follows:
+Women and minority groups are historically under-represented in cardiology,
+and the bulk of current evidence-based medicine might
+not necessarily apply to
+these populations. A systematic review of 207 trials found consistent
+under-reporting of female and Black
+patients from 2001 to 2018. Although the
+same proportion of women and men present with chest pain, men are 2·5 times
+more likely
+to be referred to a cardiologist for management than women.7 Black
+patients in the emergency room are 40% less likely to receive
+pain medication
+than White patients. These inequalities are preserved in troves of health data,
+which are being used to train AI
+algorithms. Obermeyer and colleagues found that
+use of a widely used commercial prediction algorithm resulted in significant
+bias in predicting outcomes. Specifically, the algorithm identified White
+patients to have higher risk scores and were more often
+selected to receive
+additional care than Black patients who were equally as sick. In a study by
+Nordling and colleagues, a machine
+learning algorithm identified the
+patient’s postcode as the number one predictor for prolonged hospital
+stay, correlating to
+areas of low income and predominantly Black neighbourhoods.
+From these findings, another ethical dilemma arises in using an algorithm
+decision making. If the algorithm was designed to optimise hospital resources,
+high-income White patients might be selected to
+receive the majority of hospital
+resources, further deepening the divide in access to care for minority and
+underserved groups.
+In cancer treatment, for example, researchers at the University of Chicago
+have found that deep learning models trained on extensive
+cancer genetic and
+tissue histology data can easily identify the institution that submitted the
+These models, which use
+machine learning to recognise specific cancer signatures, often rely on the
+submitting site as a shortcut
+for predicting patient outcomes. This approach
+groups all patients from the same site together, rather than considering the
+biology of each
+This flaw in the algorithm could result in biases and missed treatment
+opportunities, particularly for patients from racial or ethnic
+minority groups
+who are already under-represented and face challenges in accessing
+According to Alexander
+Pearson, a co-senior author of the study and Assistant Professor of Medicine at
+University of Chicago Medicine:
+[We] identified a glaring hole in the in the current methodology for deep
+learning model development which makes certain regions and
+patient populations
+more susceptible to be included in inaccurate algorithmic
+predictions.
+The repercussions of biased computational formulae continue to significantly
+echo for health and medical AI, continuing the propagation
+of discrepancies
+concerning both diagnostic precision alongside therapeutic results, especially
+within groups that are less represented
+or more marginalised. As biases within
+algorithms endure in shaping the modality of healthcare provisioning, an urgent
+emerges to embrace an AI schematic endowed with conscientiousness, one
+that venerates transparency, equity and accountability, as
+heralded within
+ethical paradigms and global directives.
+3.2 Intersectionality and AI Bias
+This section argues that Kimberlé Crenshaw’s intersectional
+framework provides a crucial lens for understanding how AI
+bias operates within
+legal narratives. A term coined by Crenshaw in 1989, intersectionality is
+‘a metaphor for understanding
+the ways that multiple forms of inequality
+or disadvantage sometimes compound themselves and create obstacles that often
+understood among conventional ways of
+However, the
+concept itself predates Crenshaw, with Black feminist literature, such as the
+Combahee River Collective’s 1977
+‘A Black Feminist
+Statement’,
+addressing the interconnectedness of race, gender and other social identities.
+Intersectionality remains a crucial analytical
+framework for understanding and
+addressing social inequalities, influencing academic research and driving
+societal and policy changes.
+In contemporary health discourse, the omission of intersectionality often
+leads to a fragmented understanding of well-being across
+diverse populations.
+Intersectionality, a framework that acknowledges the interconnected nature of
+social categorisations such as
+race, gender and socioeconomic status, serves as
+a crucial lens through which to analyse health disparities. By neglecting this
+multifaceted
+perspective, public health strategies may inadvertently reinforce
+systemic inequalities, undermining efforts to address the unique
+marginalised groups. An exploration of the negative ramifications of this
+oversight reveals not just gaps in research but
+real-world consequences that
+exacerbate health inequities. Establishing a comprehensive approach that
+incorporates intersectional
+considerations is essential for advancing health
+equity and fostering inclusive practices.
+The concept of intersectionality is critical for understanding health
+outcomes, as it examines how overlapping social identities –
+such as race,
+gender and socioeconomic status – interact to shape individual experiences
+and access to healthcare.
+Neglecting this framework can lead to a narrow view of health disparities,
+obscuring the complexities of how systemic inequalities
+manifest in healthcare
+settings. For instance, the experiences of informal caregivers –
+particularly those with migration backgrounds
+– are often overlooked,
+resulting in limited support and recognition within care
+These caregivers face
+unique challenges that are exacerbated by their social positioning and cultural
+contexts, highlighting the
+necessity for diversity-responsive policies to better
+address their needs. Similarly, social determinants such as community support
+and societal structures can influence pain management, emphasising that a
+multifaceted approach to health – integrating personal
+and social factors
+– is crucial for equitable healthcare
+In health and medical AI, health disparities are exacerbated when the concept
+of intersectionality is overlooked, as individuals with
+intersecting social
+identities often face compounded health risks. The interplay between race,
+gender, socioeconomic status and other
+factors creates unique vulnerabilities
+that cannot be fully understood through a singular lens. For example, Black
+women face not
+only the challenges of gender bias but also the systemic
+inequalities associated with race, leading to significantly higher rates
+maternal mortality compared with their white
+counterparts.
+Such disparities
+highlight the need for an intersectional approach in health research and policy
+formulation that acknowledges the
+complexity of identities and their combined
+effects on health outcomes. By failing to consider these interconnected
+dimensions, health
+interventions may not only be ineffective but could further
+entrench inequality.
+3.3 Intersectionality and Dimensions of Discrimination in the EU AI
+An intersectionality framework provides a crucial lens for understanding how
+AI bias operates within legal narratives, particularly
+in the EU AI Act.
+Intersectionality captures three dimensions of discrimination: structural
+intersectionality (how institutions reinforce
+inequalities); political
+intersectionality (how marginalised groups are excluded from policy discourse);
+and representational intersectionality
+(how narratives shape perceptions of
+identity and justice). The following sections explore how the EU AI Act
+engages with these dimensions
+of intersectional discrimination. This evaluation
+lends support to the article’s justification of reframing AI bias as a
+3.3.1 Structural Intersectionality
+Structural intersectionality refers to deeply embedded inequalities within
+institutions, policies and social systems that systematically
+disadvantage
+marginalised groups. Unlike individual discrimination, which occurs on a
+case-by-case basis, structural discrimination
+is woven into the fabric of legal,
+economic and technological frameworks, making exclusion self-reinforcing and
+difficult to dismantle.
+Crenshaw argues that legal frameworks and systems often
+fail to account for compounded discrimination, treating race and gender as
+separate categories rather than interconnected experiences. This oversight leads
+to policy failures, where laws designed to address
+bias do not fully protect
+those at the intersection of multiple marginalised identities.
+Examples of structural discrimination can be found in relation to healthcare
+disparities, many of which have already been highlighted
+in the preceding
+sections of this article These examples include situations where medical AI
+systems misdiagnose Black patients at
+higher rates, or where FemTech
+applications fail to account for reproductive health disparities among women of
+colour. It is also
+present in employment and economic inequality, and in
+predictive policing and surveillance. Structural discrimination in the EU AI
+is exemplified through the treatment of AI biases as technical flaws.
+Obligations under Article 6 (risk-based classification)
+or Article 10 (bias
+audits) fail to address how structural inequalities shape algorithmic
+decision-making and do not interrogate
+the epistemological foundations of AI
+3.3.2 Political Intersectionality
+This article argues that political discrimination in AI governance occurs
+when legal frameworks privilege dominant power structures,
+marginalised voices in
+policy-making.
+The EU AI Act,
+while aiming for fairness, has been critiqued for reinforcing technocratic
+governance, where corporate and state interests,
+rather than community-led
+interventions, shape AI regulation.
+While the EU AI Act’s consultation process included stakeholder
+engagement, feminist and intersectional perspectives were not
+systematically
+integrated. Feminist scholars and advocacy groups pushed for gender-responsible
+AI governance, but their recommendations
+were not fully incorporated into the
+final legislative framework. A feminist AI collective and
+proposed six action
+points for a feminist-informed AI Act, emphasising inclusive datasets,
+intersectional bias audits and participatory
+governance, but these were not
+prioritised in the final Act.
+report by the Centre for European Policy Studies (CEPS) found that industry
+stakeholders accounted for 47.2 per cent of responses
+consultation, while citizen participation remained limited at 5.74 per
+Tech corporations and AI
+developers had greater influence in shaping regulatory guidelines while
+grassroots organisations advocating
+for marginalised communities had minimal
+representation.
+To this end, it is not surprising to see how this dimension of discrimination
+has manifested in the EU AI Act – for example,
+resulting in bias audits
+(Article 10) that do not require intersectional evaluations and only focus on
+statistical fairness. The
+lack of public transparency (Article 13), in allowing
+private entities to conduct internal bias audits without external scrutiny,
+appears to prioritise corporate compliance over public accountability. Civil
+society organisations and digital rights groups have
+raised concerns that the
+Act therefore does not adequately protect against algorithmic discrimination in
+public services.
+3.3.3 Representational Intersectionality
+As theorised by Crenshaw, representational intersectionality refers to the
+ways in which marginalised identities are depicted –
+or erased –
+within dominant narratives, in the media and in legal discourse. It highlights
+how stereotypes, cultural framing
+and institutional biases shape public
+perceptions, reinforcing exclusionary structures. Crenshaw argues that
+representation is not
+merely symbolic: it has material consequences, influencing
+policy decisions, legal protections and access to justice.
+Ruha Benjamin’s scholarship extends Crenshaw’s critique to AI,
+demonstrating how algorithmic bias operates through invisibility
+misrepresentation.
+For example,
+facial recognition systems misclassify Black individuals at higher rates,
+reinforcing racialised
+surveillance.
+AI-driven hiring
+algorithms penalise women and racial minorities, embedding androcentric and
+Eurocentric labour hierarchies. Predictive
+policing tools disproportionately
+target Black and Latinx communities, replicating historical patterns of racial
+Consequently, the EU AI Act mirrors these representational failures, as
+demonstrated above with examples relevant to Article 10 (bias
+Article 13 (transparency), and Article 6 (risk-based classification).
+Collectively, the architecture of these provisions
+in the Act dismiss the notion
+of structural interventions, sweeping systemic injustice into the cracks of the
+algorithmic code.
+4. Data Feminism as a Counter-Narrative to the EU AI Act
+Section 2.3 provided a precursor to the argument that data feminism can serve
+as a counter-narrative to dominant legal narratives
+of AI bias in its governance
+framework. To do so, this section challenges the formalist bias framing (the
+legal narrative of AI bias)
+in the EU AI Act, and subsequently, explores the key
+principles of data feminism and its application to AI regulation.
+4.1 Challenging the Formalist Bias Framing in the EU AI Act
+The first frame of challenge is the risk-based classification of AI systems
+in the EU AI Act. The EU AI Act categorises AI systems
+based on their potential
+harm: Article 6 of the Act establishes the classification rules for high-risk AI
+systems. This article argues
+that this risk-based classification appears to
+prioritise financial or security concerns. Indeed, the EU AI Act presents
+rules for the market placement and use of AI in the European
+Under the Act, an AI
+system is classified as high risk if it is explicitly listed in Annex III of the
+Act, or if it is intended to
+be used as a safety component in regulated
+products. Hence, providers of high-risk AI systems must comply with strict
+requirements (Article 8), including risk management (Article 9), data
+governance (Article 10), technical documentation (Article 11),
+record-keeping
+(Article 12), transparency (Article 13), human oversight (Article 14) and
+accuracy, robustness and cybersecurity (Article
+15). It is particularly
+noteworthy that AI systems with significant societal impact must also undergo
+rigorous assessment under the
+Act before they are being deployed.
+The problem with this classification is that health-related AI applications
+that affect marginalised groups receive less scrutiny
+than AI used in financial
+or security contexts. Olofsson et
+argue that risk discourse is
+often used as a governance tool, framing social problems in terms of risk
+management rather than structural
+injustice. Risk-management practices create
+new divisions, reproducing existing forms of social inequality: gender, race,
+and other social categories shape the lived experience of
+with social institutions
+redefining marginalised groups as ‘risky’
+populations
+so they may
+reinforce exclusion through governance strategies. Lau additionally questions
+the fact that AI-driven women’s health
+diagnostics, more commonly known as
+‘FemTech’, are not classified as high risk, despite their potential
+to reinforce
+gendered health
+disparities.
+The second formalist bias frame in the EU AI Act that is challenged concerns
+bias audits without intersectional considerations. Article
+10, regarding data
+and data governance, specifically addresses bias and bias audits within AI
+systems, outlining requirements for
+high-risk AI systems to ensure training,
+validation and testing datasets are representative, error-free and free from
+discriminatory
+biases. However, this article argues that bias audits, which are
+aimed at detecting and mitigating algorithmic discrimination, often
+technical safeguards rather than structural interventions. They fail to address
+the deeper exclusions embedded in AI
+These audits rely on
+quantitative fairness metrics that obscure intersectional disparities, treating
+bias as a statistical error
+rather than a reproductive mechanism of systemic
+inequality.
+Furthermore, bias
+audits frequently prioritise regulatory compliance over ethical accountability,
+allowing developers to optimise
+risk classification without challenging the
+androcentric and technocratic foundations of
+AI governance.
+Potentially,
+the lack of public transparency in bias audits, where companies conduct internal
+assessments without disclosing methodologies,
+reinforce power asymmetries,
+making AI bias a controlled narrative rather than a site for structural
+transformation.
+An AI model may
+pass a bias audit if it achieves equal accuracy across male and female patients,
+but the audit does not account for
+how bias manifests differently across racial,
+socioeconomic, and gender intersections.
+A challenge to the third frame of formalist bias framing in the EU AI Act can
+be found in the obligation for transparency in Article
+13, which this article
+claims acts as a substitute for structural change. The Act mandates that AI
+developers provide explanations
+for how their systems make decisions. However,
+transparency alone does not eliminate bias; it merely makes bias more
+Phan and Wark examine
+how race is operationalised in AI models without explicit racial markers,
+meaning that bias persists even when
+race is not directly encoded. This
+phenomenon, known as proxy discrimination, allows AI systems to replicate
+historical exclusions
+under the guise of neutrality. For example, an AI-driven
+diagnostic tool may disclose that it under-diagnoses heart disease in women
+– but the Act does not require structural interventions to address the
+underlying biases in medical research that led to this
+Ultimately, the EU AI Act’s procedural safeguards operate within a
+formalist paradigm that needs to be dismantled. Bias is not
+simply a correctable
+technical error: this article has demonstrated that it is a structural
+consequence of exclusionary knowledge
+production. A continuation of these
+existing regulatory mechanisms risk perpetuating inequities under the guide of
+compliance if
+we do not take the necessary steps to interrogate the underlying
+androcentric, racialised and neoliberal logics embedded in AI governance.
+4.2 Key Principles of Data Feminism and its Application to AI
+Lau states that ‘in an idealised world, intersectionality and data
+feminism may be one of the solutions to address algorithm
+biases ... with the
+core of the theory providing specific strategies to data scientists in working
+towards attaining ethical, equitable,
+Data feminism
+provides a structural critique of androcentric data practices, demonstrating how
+AI systems inherit biases from historical
+exclusions in medical research and
+healthcare access. It emphasises examining the root causes of bias rather than
+merely correcting
+algorithmic outputs; centring marginalised voices in AI
+governance; and recognising that bias is not an isolated error, but a structural
+issue embedded in historical inequalities.
+In Table 1, each of the seven principles of data
+is described, with
+justification that challenge the conventional notions of bias mitigation and
+fairness in AI regulation and denotes
+what implications there may be for AI
+governance.
+Table 1. The principles of data feminism and its implication for AI
+Principle(s)
+Implication for AI governance
+Examine power
+This requires an interrogation into who controls data and AI development.
+Data are shaped by power relations, historical inequalities
+and dominant
+epistemologies. Data feminism argues that AI systems must not only audit bias
+but critically examine the power structures
+that sustain algorithmic exclusion.
+• Algorithmic bias in facial recognition technologies: the Gender
+Shades study found that leading facial recognition systems
+had error rates of up
+to 34.7 per cent for dark-skinned women, compared with less than 0.8 per cent
+for white men.
+• These errors have led to wrongful arrests, based on flawed
+AI-driven police identification.
+• The development of AI-driven facial recognition is largely
+controlled by tech corporations and law enforcement agencies, with
+public oversight or regulation.
+• Article 6 (Risk-Based Classification) acknowledges high-risk AI
+systems but does not mandate power redistribution in AI governance.
+• Article 13 (Transparency Requirements) requires AI disclosure but
+does not ensure participatory oversight for affected communities.
+• Solution: A data feminist approach would require community-led AI
+regulation, shifting decision-making power to those most
+affected by algorithmic
+Challenge power
+This requires regulatory systems to not only acknowledge bias but actively
+challenge exclusionary knowledge production.
+• Medical AI systems often fail to diagnose cardiovascular diseases
+in women, reinforcing androcentric medical bias.
+• Historically, medical research prioritised male-centric
+symptomatology, leading AI systems to under-diagnose heart attacks
+• The Apple Health app initially launched without a menstrual cycle
+tracker, reflecting gendered exclusions in digital health
+innovation.
+• Bias audits mandated in Article 10 focus on dataset fairness but do
+not interrogate androcentric medical epistemologies.
+• Solution: AI regulation must move beyond compliance-driven fairness
+metrics and engage with feminist critiques of healthcare
+data governance.
+Elevate marginalised voices
+AI governance must prioritise the knowledge and experiences of those most
+affected by algorithmic bias. An intersectional perspective
+should shape bias
+audits, transparency measures, and policy frameworks. This centres community-led
+AI regulation.
+• Indigenous communities have long challenged extractive data
+practices, where corporations collect and exploit Indigenous data
+• Google’s Project Maven, a military AI initiative, used
+Indigenous land-mapping data without transparent agreements.
+• Health AI systems trained on western biomedical models often fail
+to recognise Indigenous healing practices, reinforcing epistemic
+exclusions in
+medical AI governance.
+• The EU AI Act does not mandate Indigenous or intersectional
+participation in AI regulatory decision-making.
+• Solution: AI governance should integrate data sovereignty
+protections, ensuring that marginalised communities retain control
+Rethink binary systems
+Traditional AI governance relies on binary classifications, erasing
+fluidity and nuance in human identities. Data feminism advocates
+for relational,
+intersectional approaches to algorithmic fairness by rejecting fixed categories
+in AI decision-making.
+• AI-driven gender classification systems often fail to recognise
+non-binary and transgender identities, reinforcing binary
+epistemologies in
+algorithmic governance.
+• The US Department of State’s digital passport system now only
+allows “male" or "female" selections, excluding
+non-binary individuals
+from digital identity verification.
+• AI-powered hiring software often misgenders trans applicants,
+leading to discriminatory hiring outcomes.
+• The EU AI Act’s fairness assessments rely on fixed
+demographic categories, failing to address fluidity in gender and
+classification.
+• Solution: AI systems should incorporate participatory, adaptive
+modelling, ensuring inclusivity beyond binary fairness metrics.
+Principle(s)
+Implication for AI governance
+Embrace complexity
+Bias audits often reduce discrimination to numerical fairness metrics,
+masking deeper epistemological exclusions. Data feminism calls
+for qualitative,
+participatory mechanisms to account for algorithmic bias.
+• Credit scoring algorithms penalise low-income individuals,
+disproportionately affecting women and racial minorities.
+• AI-driven loan approval models use historical banking data, which
+reflects systemic exclusion of women and marginalised communities
+from financial
+• Even when bias audits correct statistical disparities, these
+systems still reinforce economic discrimination.
+• Bias audits in Article 10 fail to account for compounded financial
+exclusions, reinforcing economic inequalities.
+• Solution: AI regulation must move beyond formal fairness checks,
+integrating structural financial justice into algorithmic
+assessments.
+Make data work for justice
+It is imperative to ensure that AI serves the needs of marginalised
+communities. Regulatory systems should not merely mitigate harm
+actively promote equity.
+• FemTech applications often exclude marginalised reproductive health
+experiences, reinforcing androcentric medical governance.
+• AI-powered fertility trackers do not account for PCOS, menopause,
+and reproductive health disparities among women of colour,
+failing to provide
+equitable health interventions.
+• Data governance in reproductive health often prioritises commercial
+interests over user autonomy and privacy protections.
+• Bias audits in Article 10 of the EU AI Act do not mandate
+reproductive health equity in AI datasets.
+• Solution: AI governance should prioritise equity-based healthcare
+interventions, ensuring data transparency, consent, and
+intersectional medical
+representation.
+Recognise that data science is never neutral
+AI systems do not operate in isolation, as they reflect historical,
+cultural and institutional biases. Data feminism advocates for
+the challenging
+of AI’s false objectivity.
+• Predictive policing algorithms target Black communities
+disproportionately, embedding racialised assumptions into law enforcement
+governance.
+• The EU AI Act does not mandate anti-racist accountability
+frameworks, reinforcing racial exclusions in algorithmic risk assessment.
+• Solution: AI governance should incorporate abolitionist critiques,
+ensuring that data-driven systems actively dismantle systemic
+oppression.
+These seven principles of data feminism provide a critical blueprint for
+rethinking AI governance, demanding a shift from procedural
+fairness to
+structural justice and participatory accountability. Moving beyond
+compliance-driven regulations to the active interrogation
+of systemic exclusions
+is a crucial approach in dismantling the epistemological foundations of bias.
+4.3 Constructing an Alternative AI Governance Narrative with Data
+This article contends that there is a need to shift the formalist legal
+narrative of AI bias into an alternative AI governance narrative,
+a regulatory
+framework that embraces data feminism, integrating policies that challenge
+androcentric epistemologies, racialised surveillance
+and economic exclusion. The
+privilege of technocratic compliance is rejected in favour of systemic
+accountability. In Table 2, four
+key policy considerations are identified
+(although this is not an exhaustive list), which would assist in shifting the AI
+Table 2. Policy considerations and recommendations for alternative AI
+Recommendation
+Proposed Implementation
+Mandating intersectional bias audits beyond statistical fairness
+Require intersectional bias evaluations that go beyond fairness metrics.
+These should incorporate qualitative assessments that examine
+how AI systems
+encode structural inequalities.
+AI providers must engage independent intersectional oversight boards,
+ensuring that bias audits interrogate gendered, racialised and
+exclusions in algorithmic decision-making.
+Embedding data sovereignty in AI governance
+Implement data sovereignty mechanisms in AI governance, requiring
+consent-based data collection, with protections for Indigenous,
+racialised and
+gendered communities.
+AI governance and authoritative bodies must establish participatory
+regulatory frameworks where affected communities can co-author
+AI policies and
+monitor compliance.
+Redefining high-risk AI beyond formalist classifications
+Embed high-risk AI classifications to include structural bias assessments,
+ensuring that the systems used are evaluated through participatory
+AI regulators must shift from binary risk assessments to continuous
+equity-driven evaluations, requiring public transparency in algorithmic
+accountability reporting.
+Ensuring transparency and public accountability in AI decision-making
+Require public access to AI audits, governance reports and fairness
+assessments, ensuring civil society organisations, feminist scholars
+affected communities have oversight.
+Governments must establish open-access AI regulatory databases, where
+algorithmic governance is reviewed and challenged by intersectional
+In addition, this article aligns with feminist legal critiques, articulated
+via the scholarship of Carol Smart, Catherine MacKinnon,
+Crenshaw and Martha Fineman, amongst others; and challenges the EU AI
+Act’s formalist approach to bias mitigation,
+arguing that the Act fails to
+interrogate the structural, political, and representational inequalities
+embedded in AI systems. For
+example, Smart critiques law’s false
+and highlights how
+androcentric legal epistemologies mask gendered exclusions. This is a critique
+mirrored in bias audits (Article
+10) of the EU AI Act that treats fairness as a
+procedural safeguard rather than a site for structural intervention. MacKinnon
+that formal equality principles reinforce patriarchal
+governance;
+this article argues
+that this is evident in AI hiring algorithms that perpetuate workplace gender
+hierarchies. Meanwhile, Crenshaw
+exposes intersectional blind spots in legal
+frameworks,
+which have been
+extensively mapped out in the preceding sections of this article. Additionally,
+Fineman’s vulnerability
+critiques neoliberal
+regulatory models that privilege market-driven compliance over substantive
+justice, validating this article’s
+argument that risk-based classification
+of AI systems (Article 6) in the EU AI Act prioritises corporate AI ethics
+rather than systemic
+redistribution of protections.
+Hence, a data feminist approach to AI regulation, transformed into a new AI
+governance narrative as demonstrated, can assist in ensuring
+that governance
+frameworks actively dismantle exclusionary logics beyond the mere
+acknowledgement of bias. Embedding policy interventions
+grounded in
+intersectional justice, data sovereignty and participatory governance is
+critical for ensuring that AI regulation also
+serves the needs of marginalised
+communities.
+5. Conclusion
+The integration of health AI systems poses significant ethical considerations
+and regulatory challenges that must be rigorously addressed
+to ensure patient
+safety and promote equitable access to care. It is already known that machine
+learning models may inadvertently
+reflect societal biases and perpetuate health
+disparities if not properly monitored and regulated. While AI presents
+opportunities
+for innovation in drug development, regulatory frameworks have yet
+to keep pace with these advancements. Current guidance mechanisms
+inadequate, as highlighted by the need for regulatory authorities to establish
+appropriate oversight protocols that safeguard
+public welfare and streamline
+processes within the drug development
+life-cycle.
+It is also clear
+that the EU aims to position itself as a normative power, shaping global
+standards for AI that prioritise human-centric
+approaches, which is critical for
+ensuring ethical AI implementation in health
+However, these efforts
+are simply not inclusive enough.’
+Taking inspiration from Lau’s ‘ecosystem of
+interconnectedness”
+evolving frontier technologies such as the Metaverse and quantum technologies,
+and applying such an idea of an ecosystem to the
+governance of health and
+medical AI,
+concerted joint
+efforts are necessary. The implementation of stringent data governance measures,
+the adoption of inclusivity-oriented
+data accrual methodologies and the
+assimilation of AI models attentive to intersectionality are critical strategies
+designed to counteract
+these biases and elevate the voices that are
+traditionally marginalised within healthcare research and policy-making
+Implementing data
+feminism encourages and validates a recognition that achieving true equality
+means needing to examine the root
+causes of inequalities that are particularly
+faced by intersectional
+Such endeavours align
+with the imperatives of trustworthiness, transparency and accountability, deemed
+crucial in the progressive
+pursuit of equitable health AI. Without this
+awareness, health inequalities are bound to be exacerbated.
+Bibliography
+Behr, Hartmut. “Technocracy and the Tragedy
+of EU Governance.”
+Journal of Contemporary European Research
+https://doi.org/10.30950/jcer.v17i2.1178
+Benjamin, Ruha.
+Race After Technology: Abolitionist Tools for the New Jim
+. Cambridge: Polity Press, 2019.
+https://aas.princeton.edu/publications/research/race-after-technology-abolitionist-tools-new-jim-code
+Bey, Ganga. “Health Disparities at the Intersection of Gender and Race:
+Beyond Intersectionality Theory in Epidemiologic Research.”
+of Life – Biopsychosocial Perspectives
+. IntechOpen, 2020.
+https://doi.org/10.5772/intechopen.92248
+Brandão, Ana Paula. “The European Union Narrative on Artificial
+Intelligence: The Path to International Leadership.”
+Intelligence in Production Engineering and Management
+, edited by Carolina
+Machado and J. Paulo Davim, 145–191. Cambridge: Woodhead Publishing, 2024.
+https://doi.org/10.1016/B978-0-12-819471-3.00009-4
+Buolamwini, Joy and Timnit Gebru. “Gender Shades: Intersectional
+Accuracy Disparities in Commercial Gender Classification”.
+Proceedings of the 1st Conference on Fairness, Accountability and
+Transparency
+, 77–91. PMLR, 2018.
+https://proceedings.mlr.press/v81/buolamwini18a.html
+Butter, Susannah. “Caroline Criado Perez: How Healthcare is
+Discriminating against Women.”
+The Standard
+, 26 September 2019.
+https://www.standard.co.uk/futurelondon/health/gender-data-gap-caroline-criado-perez-on-how-healthcare-is-systematically-discriminating-against-women-a4246221.html
+Cleghorn, Elinor.
+Unwell Women: Misdiagnosis and Myth in a Man-Made
+. New York: Penguin Random House, 2021.
+Crenshaw, Kimberlé. “Demarginalizing the Intersection of Race
+and Sex: A Black Feminist Critique of Antidiscrimination
+Doctrine, Feminist
+Theory and Antiracist Politics.”
+University of Chicago Legal Forum
+1989, 139–167.
+Crenshaw, Kimberlé. “Mapping the Margins: Intersectionality,
+Identity Politics, and Violence Against Women of Color.”
+Stanford Law
+43, no 6 (1991): 1241–1299.
+Criado-Perez, Caroline.
+Invisible Women: Exposing Data Bias in a World
+Designed for Men
+. New York: Vintage Books, 2020.
+Das, Sayan, Md Moshabbir Alam and Sandip Sarkar. “Female Body-Corporeal
+as Both the Aetiological Site and the Site of Resistance:
+Conceptualizing Manic
+Depression in Jerry Pinto’s
+Em and the Big Hoom
+Sciences & Humanities Open
+10 (2024): 100914.
+https://doi.org/10.1016/j.ssaho.2024.100914
+D’Ignazio, Catherin, and Lauren F. Klein.
+Data Feminism.
+Cambridge, MA: MIT Press, 2020.
+D’Ignazio, Catherine and Lauren Klein. “The Seven Principles of
+Data Feminism.”
+Responsible Data
+https://responsibledata.io/anniversary/the-seven-principles-of-data-feminism
+Eubanks, Virginia.
+Automating Inequality: How High-Tech Tools Profile,
+Police, and Punish the Poor
+. New York: St Martin’s Press, 2019.
+EurekAlert! “Artificial Intelligence Models to Analyze Cancer Images
+Take Shortcuts That Introduce Bias.”
+https://www.eurekalert.org/news-releases/590103
+European Commission. “European Commission Releases Analysis of
+Stakeholder Feedback on AI Definitions and Prohibited Practices
+Consultations | Shaping Europe’s Digital Future.” December 5, 2025.
+https://digital-strategy.ec.europa.eu/en/library/european-commission-releases-analysis-stakeholder-feedback-ai-definitions-and-prohibited-practices
+Fineman, Martha Albertson. “The Vulnerable Subject: Anchoring Equality
+in the Human Condition.”
+Yale Journal of Law and Feminism
+(2010): 177–191.
+https://doi.org/10.4324/9780203848531-26
+Gemmati, Donato, Katia Varani, Barbara Bramanti, Roberta Piva, Gloria
+Bonaccorsi, Alessandro Trentini, Maria Cristina Manfrinato,
+Veronica Tisato,
+Alessandra Carè and Tiziana Bellini. “‘Bridging the
+Gap’ Everything That Could Have Been
+Avoided If We Had Applied Gender
+Medicine, Pharmacogenetics and Personalized Medicine in the Gender-Omics and
+Sex-Omics Era.”
+International Journal of Molecular Sciences
+1 (2020): 296.
+https://doi.org/10.3390/ijms21010296
+Gilman, Charlotte Perkins.
+The Man-Made World; Or, Our Androcentric
+. Gutenberg, 1911.
+Hengelaar, Aldiene Henrieke, Petra Verdonk, Margo van Hartingsveldt and
+Tineke Abma. “A Sense of Injustice in Care Networks:
+An Intersectional
+Exploration of the Collaboration Between Professionals and Carers with a
+Migration Background.”
+Social Science & Medicine
+356 (2024):
+https://doi.org/10.1016/j.socscimed.2024.117169
+Hoffman, Kelly M., Sophie Trawalter, Jordan R. Axt and M. Norman Oliver.
+“Racial Bias in Pain Assessment and Treatment Recommendations,
+Beliefs About Biological Differences Between Blacks and Whites.”
+Proceedings of the National Academy of Sciences
+113, no 16 (2016):
+https://doi.org/10.1073/pnas.1516047113
+Kapos, Flavia P., Kenneth D. Craig, Steven R. Anderson, Sónia F.
+Bernardes, Adam T. Hirsh, Kai Karos, Edmund Keogh et al. “Social
+Determinants and Consequences of Pain: Toward Multilevel, Intersectional, and
+Life Course Perspectives.”
+The Journal of Pain
+25, no 10 (2024).
+https://doi.org/10.1016/j.jpain.2024.104608
+Karagianni, Anastasia. ‘EU AI Act Policy Paper – A Feminist
+Vision for the EU AI Act – DATAWO’.
+September 27, 2023.
+https://www.datawo.org/2023/09/27/eu-ai-act-policy-paper-a-feminist-vision-for-the-eu-ai-act
+Kelly, Christine, Danielle Kasperavicius, Diane Duncan, Cole Etherington,
+Lora Giangregorio, Justin Presseau, Kathryn M. Sibley and
+Sharon Straus.
+“‘Doing’ or ‘Using’ Intersectionality?
+Opportunities and Challenges in Incorporating
+Intersectionality into Knowledge
+Translation Theory and Practice.”
+International Journal for Equity in
+20, no 1 (2021): 187.
+https://doi.org/10.1186/s12939-021-01509-z
+Lan, Kuo Wei. “Technofetishism of Posthuman Bodies: Representations of
+Cyborgs, Ghosts, and Monsters in Contemporary Japanese
+Science Fiction Film and
+Animation.” PhD dissertation, University of Sussex, 2012.
+Lau, Pin Lean. “AI Gender Biases in Women’s Healthcare:
+Perspectives from the United Kingdom and the European Legal Space.”
+YSEC Yearbook of Socio-Economic Constitutions 2023
+, edited by Eduardo
+Gill-Pedro and Andreas Moberg, 2023, 247–274. Cham: Springer, 2024.
+https://doi.org/10.1007/16495_2023_63
+Lau, Pin Lean. “The FemTech Jacquerie: Situating Co-Creation for
+Efficient Stewardship in Women’s Health vis-à-vis
+the European
+Union Artificial Intelligence Act.” In
+The Challenges of Artificial
+Intelligence for Law in Europe
+, edited by Marton Varju and Kitti Mezei,
+223–243. Cham: Springer, 2025.
+https://doi.org/10.1007/978-3-031-86813-9_11
+Lau, Pin Lean. “The Impact of AI-Driven Technologies on Key
+Populations: Navigating Health Inequalities in the EU.” Presented
+EU Health Policy Platform Thematic Network 2022, Brussels, October 17, 2022.
+Lau, Pin Lean. “The Murky Waters of the Metaverse: Addressing Some Key
+Legal Concerns.”
+Communications Law
+27, no 2 (2022): 76–83.
+https://doi.org/10.1177/20555636241246188
+Lau, Pin Lean, Janneke van Oirshot and Hannah von Kolfschooten.
+“Stakeholder Joint Statement on the Impact of Artificial Intelligence
+Health Outcomes for Key Populations: Navigating Health Inequalities in the
+EU.” European Commission Health Policy Platform,
+April 2023.
+Lister, Rolanda L, Wonder Drake, Baldwin H Scott and Cornelia Graves.
+“Black Maternal Mortality: The Elephant in the Room.”
+Journal of Gynecology & Women’s Health
+3, no 1 (2019).
+https://doi.org/10.33552/wjgwh.2019.03.000555
+MacKinnon, Catharine A.
+Feminism Unmodified: Discourses on Life and
+. Cambridge, MA: Harvard University Press, 1988.
+McNemar, Erin. “Detecting Artificial Intelligence Algorithm Bias in
+Cancer Treatment | TechTarget.” Healthtech Analytics,
+July 26, 2021.
+https://www.techtarget.com/healthtechanalytics/news/366591128/Detecting-Artificial-Intelligence-Algorithm-Bias-in-Cancer-Treatment
+Merone, Lea. “Exploring Androcentricity in Medicine, Medical Research
+and Education, and the Impacts on the Experiences of Female
+Patients.” PhD
+dissertation, James Cook University, 2022.
+Merone, Lea, Komla Tsey, Darren Russell and Cate Nagle. “Sex
+Inequalities in Medical Research: A Systematic Scoping Review of
+Literature.”
+Women’s Health Reports
+3, no 1 (2022):
+https://doi.org/10.1089/whr.2021.0083
+Merritt, Stephanie. “
+Unwell Women
+by Elinor Cleghorn Review:
+Battle for the Female Body.”
+The Observer
+, June 7, 2021.
+https://www.theguardian.com/books/2021/jun/07/unwell-women-by-elinor-cleghorn-review-battle-for-the-female-body
+Miquel, Paul-Antoine. “What is Biological Normativity?” In
+Canguilhem and Continental Philosophy of Biology
+, edited by Giuseppe
+Bianco, Charles T. Wolfe and Gertrudis Van de Vijver, 195–208. Cham:
+Springer, 2023.
+https://doi.org/10.1007/978-3-031-20529-3_11
+Nene, Linda, Brian Thabile Flepisi, Sarel Jacobus Brand, Charlise Basson and
+Marissa Balmith. “Evolution of Drug Development
+and Regulatory Affairs:
+The Demonstrated Power of Artificial Intelligence.”
+Therapeutics
+46, no. 8 (2024), E6–E14.
+https://doi.org/10.1016/j.clinthera.2024.05.012
+Noble, Safiya Umoja.
+Algorithms of Oppression: How Search Engines
+Reinforce Racism
+. New York: NYU Press, 2018.
+Olofsson, Anna, Jens O. Zinn, Gabriele Griffin, Katarina Giritli Nygren,
+Andreas Cebulla and Kelly Hannah-Moffat. “The Mutual
+Constitution
+and Inequalities: Intersectional Risk Theory.”
+Health, Risk &
+16, no 5 (2014): 417–430.
+https://doi.org/10.1080/13698575.2014.942258
+O’Neil, Cathy.
+Weapons of Math Destruction
+. New York: Crown
+Books, 2016.
+Paxling, Linda. “Transforming Technocultures: Feminist Technoscience,
+Critical Design Practices and Caring Imaginaries.”
+PhD dissertation,
+Blekinge Institute of Technology, 2019.
+Phan, Thao and Scott Wark. “Racial Formations as Data
+Formations.”
+Big Data & Society
+, 8, no 2 (2021).
+https://doi.org/10.1177/205395172110463
+Pidun, Ulrich, Niklas Knust, Julian Kawohl, Evangelos Avramakis and Andreas
+Klar. “The Untapped Potential of Ecosystems in Health
+(blog), 29 March 2021.
+https://www.bcg.com/publications/2021/five-principles-of-highly-successful-health-care-ecosystems
+Powell, John A. and Stephen Menendian. “The Problem of Othering:
+Towards Inclusiveness and Belonging.”
+Othering and Belonging
+(blog), June 29, 2017.
+http://www.otheringandbelonging.org/the-problem-of-othering
+Sau, Arunashis, Ewa Sieliwonczyk, Konstantinos Patlatzoglou, Libor Pastika,
+Kathryn A. McGurk, Antônio H. Ribeiro, Antonio Luiz
+P. Ribeiro et al.
+“Artificial Intelligence-Enhanced Electrocardiography for the
+Identification of a Sex-Related Cardiovascular
+Risk Continuum: A Retrospective
+Cohort Study.”
+The Lancet Digital Health
+7, no 3 (2025):
+https://doi.org/10.1016/j.landig.2024.12.003
+Shelby (Renee), Harb (Jenna) and Henne (Kathryn). “Whiteness in and
+Through Data Protection: An Intersectional Approach to Anti-Violence
+#MeToo Bots.” Info:eu-repo/semantics/article. Alexander von Humboldt
+Institute for Internet and Society gGmbH, December
+https://doi.org/10.14763/2021.4.1589
+Sherwin, Richard K. “Law Frames: Historical Truth and Narrative
+Necessity in a Criminal Case.”
+Stanford Law Review
+Smart, Carol.
+Feminism and the Power of Law
+. London: Routledge, 2002.
+https://doi.org/10.4324/9780203206164
+Smart, Carol. “The Woman of Legal Discourse.”
+Legal Studies
+1, no 1 (1992): 29–44.
+https://doi.org/10.1177/096466399200100103
+Steuernagel, Carolina Rau, Carolyn S. P. Lam and Trisha Greenhalgh.
+“Countering Sex and Gender Bias in Cardiovascular Research
+Requires More
+than Equal Recruitment and Sex Disaggregated Analyses.”
+(2023): e075031.
+https://doi.org/10.1136/bmj-2023-075031
+Tat, Emily, Deepak L Bhatt and Mark G Rabbat. “Addressing Bias:
+Artificial Intelligence in Cardiovascular Medicine.”
+The Lancet Digital
+2, no 12 (2020): e635–36.
+https://doi.org/10.1016/S2589-7500(20)30249-1
+Thomas, Scarlett. “
+Em and the Big Hoom
+by Jerry Pinto –
+Family Life and Mental Turmoil in Bombay.”
+The Guardian
+https://www.theguardian.com/books/2014/may/03/em-and-the-big-hoom-jerry-pinto-family-life-bombay
+Vyas, Darshali A., Leo G. Eisenstein and David S. Jones. “Hidden in
+Plain Sight: Reconsidering the Use of Race Correction in
+Algorithms.”
+New England Journal of Medicine
+383, no 9 (2020):
+https://doi.org/10.1056/NEJMms2004740
+Womack, Jess. “The Combahee River Collective and Intersectionality in
+the Age of Identity.”
+Retrospect Journal
+(blog), February 14, 2021.
+https://retrospectjournal.com/2021/02/14/the-combahee-river-collective-and-intersectionality-in-the-age-of-identity
+Wudel, Alexandra, Marco Wedel and Eva Gengler. “A Feminist Vision for
+the EU AI Act.” 2023.
+https://alexandra-wudel.com/wp-content/uploads/2023/10/A-feminist-vision-for-the-EU-AI-Act.pdf
+Secondary sources
+Civil Rights Act of 1964, Pub. L. No. 88–352 (1964).
+https://www.senate.gov/artandhistory/history/resources/pdf/CivilRightsActOf1964.pdf
+Regulation (EU) 2024/1689 of the European Parliament and of the Council of
+13 June 2024 laying down harmonised rules on artificial
+intelligence and
+amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013,
+(EU) 2018/858, (EU) 2018/1139 and (EU)
+2019/2144 and Directives 2014/90/EU, (EU)
+2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (Text with EEA
+relevance) (2024).
+http://data.europa.eu/eli/reg/2024/1689/oj/eng
+Benjamin, Race After
+Technology.
+Noble, Algorithms of
+Oppression.
+Sherwin, “Law
+Regulation (EU) 2024/1689 of
+the European Parliament and of the Council of 13 June 2024 laying down
+harmonised rules on artificial
+intelligence and amending Regulations (EC) No
+300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139
+2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828
+(Artificial Intelligence Act) (Text with EEA relevance).
+D’Ignazio and Klein, Data
+D’Ignazio and Klein,
+“The Seven Principles.”
+Sherwin, “Law
+Frames,” 40.
+“Demarginalizing the Intersection.”
+Smart, Feminism and the Power
+Benjamin, Race After
+Technology.
+Hoffman, “Racial
+Criado-Perez, Invisible
+Lan, “Technofetishism
+of Posthuman Bodies,” 166.
+Paxling, “Transforming
+Technocultures.”
+Merone, “Sex
+Inequalities in Medical Research.”
+Merone, “Exploring
+Androcentricity,” 6.
+Powell, “The Problem
+of Othering.”
+Powell, “The Problem
+of Othering.”
+Powell, “The Problem
+of Othering.”
+Criado-Perez, Invisible
+Butter, “Caroline
+Criado Perez.”
+Sau, “Artificial
+Intelligence-Enhanced Electrocardiography.”
+Steuernagel,
+“Countering Sex and Gender Bias.”
+Cleghorn, Unwell Women,
+Merritt, “Unwell Women
+Miquel, “What is
+Biological Normativity?”
+Vyas, “Hidden in Plain
+Hoffman, “Racial Bias
+in Pain Assessment.”
+O’Neil, Weapons of
+Math Destruction.
+Eubanks, Automating
+Inequality.
+Vyas, “Hidden in Plain
+Eubanks, Automating
+Inequality.
+Sherwin, “Law
+Frames,” 50.
+Sherwin, “Law
+Frames,” 69.
+Sherwin, “Law
+Frames,” 72.
+Criado-Perez, Invisible
+Civil Rights Act of
+Sherwin, “Law
+Frames,” 42.
+“Technocracy.”
+Lau, “AI Gender
+Biases,” 253.
+Lau, “The FemTech
+Jacquerie,” 236.
+Hoffman, “Racial Bias
+in Pain Assessment.”
+D’Ignazio, “The
+Seven Principles.”
+Gilman, The Man-Made
+Merone, “Exploring
+Androcentricity.”
+Thomas, “Em and the
+Big Hoom by Jerry Pinto.”
+Das, “Female
+Body-Corporeal.”
+Smart, Feminism and the
+Power of Law, 4.
+Smart, Feminism and the
+Power of Law, 96–97.
+Smart, “The Woman of
+Legal Discourse.”
+Lau, “AI Gender
+Biases,” 252.
+Lau, “The FemTech
+Jacquerie,” 231.
+Criado-Perez, Invisible
+Merone, “Exploring
+Androcentricity.”
+Gemmati, “Bridging the
+Lau, “The FemTech
+Jacquerie,” 230.
+Lau, “The Impact of
+AI-Driven Technologies.”
+Lau, “Stakeholder
+Joint Statement.”
+Tat, “Addressing
+McNemar, “Detecting
+Artificial Intelligence Algorithm Bias.”
+McNemar, “Detecting
+Artificial Intelligence Algorithm Bias.”
+McNemar, “Detecting
+Artificial Intelligence Algorithm Bias.”
+“Artificial
+Intelligence Models.”
+“Demarginalizing the Intersection.”
+Womack, “The Combahee
+River Collective.”
+Lau, “AI Gender
+“‘Doing’ or ‘Using’ Intersectionality?”
+Hengelaar, “A Sense of
+Injustice.”
+Kapos, “Social
+Determinants.”
+Lister, “Black
+Maternal Mortality.”
+Bey, “Health
+Disparities.”
+Lau, “Stakeholder
+Joint Statement.”
+Karagianni, “EU AI Act
+Policy Paper.”
+Wudel, “A Feminist
+Vision for the EU AI Act.”
+“European Commission
+Releases Analysis of Stakeholder Feedback.”
+Lau, “Stakeholder
+Joint Statement.”
+Benjamin, Race After
+Technology.
+Buolamwini, “Gender
+Lau, “The FemTech
+Jacquerie,” 234.
+Olofsson, “The Mutual
+Constitution
+Olofsson, “The Mutual
+Constitution
+Olofsson, “The Mutual
+Constitution
+Lau, “The FemTech
+Jacquerie,” 233.
+“Demarginalizing the Intersection.”
+Shelby, “Whiteness in
+and Through Data Protection.”
+Smart, Feminism and the
+Power of Law.
+Vyas, “Hidden in Plain
+Phan, “Racial
+Formations.”
+Lau, “The FemTech
+Jacquerie,” 237.
+D’Ignazio, “The
+Seven Principles.”
+Smart, Feminism and the
+Power of Law.
+MacKinnon, Feminism
+Unmodified, 2–3.
+Crenshaw, “Mapping the
+Fineman, “The
+Vulnerable Subject.”
+Nene, “Evolution of
+Drug Development.”
+Brandão, “The
+European Union Narrative.”
+Lau, “The Murky Waters
+of the Metaverse.”
+Pidun, “The Untapped
+Potential of Ecosystems.”
+Lau, “AI Gender
+“The Seven Principles.”
+Print (pretty)
+Print (eco-friendly)
+RTF format (403 KB)
+PDF format (530 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

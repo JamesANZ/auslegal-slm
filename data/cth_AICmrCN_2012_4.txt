@@ -1,0 +1,122 @@
+First State Super Trustee Corporation: Own motion investigation report [2012] AICmrCN 4 (1 June 2012)
+Timothy Pilgrim
+Relevant provisions of the Privacy Act
+NPP 2 Use and disclosure
+NPP 4 Data security
+Acronyms and abbreviations
+The Office of the Australian Information Commissioner (OAIC) opened an investigation after it was reported in the media
+that an unauthorised person had intentionally accessed the secure section of the First State Super Trustee Corporation (FSS) website
+and downloaded personal information belonging to 568 FSS members. This person's intention was to expose a weakness in FSS systems.
+The Privacy Commissioner’s (the Commissioner) investigation focused on whether FSS’s handling of the personal information held
+in its computer systems was consistent with the National Privacy Principles contained in Schedule 3 of the
+(Privacy Act). Those principles include requirements about when personal information may be disclosed (NPP 2), and that security
+measures must be in place to protect the personal information (NPP 4).
+In light of the information gathered from FSS, the Commissioner took the view that the above incident did not amount to an improper
+disclosure of customer information on the part of FSS.
+However, the Commissioner concluded that at the time of the incident, FSS did not have adequate security measures in place to protect
+the information held from misuse and from unauthorised access and disclosure. While it is acknowledged that upon becoming aware of
+the matter, FSS took immediate steps to remedy the situation, this still resulted in a breach of the National Privacy Principles
+(NPPs) in the
+On 21 September 2011, the secure section of the FSS website was accessed by an unauthorised person. It was alleged that the unauthorised
+person then downloaded 568 members’ statements from the site. It was also alleged that this person contacted FSS volunteering
+this information and promoting himself as a ‘white hat’ hacker intending to improve their computer security. He also stated that
+he runs a business specialising in firewall penetration and vulnerability assessment.
+At the time of the incident, members’ personal information was contained in the secure section of FSS’s website and was not published
+in a form easily accessible to the general public. In fact, FSS has indicated that specific knowledge of the vulnerabilities of the
+system would be required to access member information.
+Upon becoming aware of the breach, Pillar Administration (Pillar), an organisation contracted to manage FSS administrative duties
+(including the member section of the FSS website), immediately rectified the security issue. The next day, Pillar informed FSS of
+the incident and opened an investigation into the matter.
+FSS and Pillar took a number of steps to protect the personal information of FSS members, in response to this incident. Specifically,
+contained the breach by working to repair the flaw in its system and resolving the matter on the same day
+established the number and identities of affected members
+notified the affected members of the incident, providing them with the option of changing their member login numbers
+secured a statutory declaration from the hacker, stating he had destroyed all member information
+engaged an external IT specialist to conduct further penetration testing of its systems and has since implemented this specialist’s
+recommendations
+updated their policies and processes to address this issue
+Following media reports of this incident, the OAIC opened an own motion investigation on 19 October 2011. FSS advised the OAIC in
+the course of this investigation that the personal information downloaded included member names and addresses, details of superannuation
+account transactions and balances and the member’s current age. This information did not include dates of birth, tax file numbers
+or bank account details.
+FSS has implemented measures since the incident, to address the breach. FSS has advised that it engaged the services of a specialist
+IT consultant to conduct web penetration tests to determine the security of all its sites. Following its testing, on 28 November
+2011, the IT consultant provided FSS with a report concerning all sites Pillar manages for FSS. Seven recommendations were made
+that were classified by the IT Consultant as Low or Medium vubnerabilities. No High Risk vulnerabilities were identified. FSS implemented
+all seven recommendations made by the IT consultant by 31 January 2012.
+Pillar has enhanced its own security measures since the incident, by employing a security expert and by broadening the scope of its
+regular IT audits. These audits include conducting tests to assess the robustness of applications, performing a firewall review,
+as well as having an internal security review.
+Finally, FSS has reviewed its policies and procedures to identify any areas where security may be improved.
+There is currently no ongoing legal action against the hacker by either FSS or NSW police. Although the hacker offered his services
+to FSS, FSS has confirmed it has no business or contractual relationship with him.
+Relevant provisions of the Privacy Act
+contains 10 National Privacy Principles (NPPs) that regulate the way that organisations handle ‘personal information' about individuals.
+The Commissioner's investigation focused on whether the handling of personal information in FSS’s computer system was consistent
+NPP 2 (use and disclosure)—in particular NPP 2.1, which provides that an organisation must only use or disclose personal information
+for the primary purpose for which it was collected, unless at least one of a number of exceptions apply
+NPP 4 (data security)—in particular NPP 4.1, which requires organisations to take ‘reasonable steps' to protect the personal information
+they hold from misuse and loss and from unauthorised access, modification or disclosure.
+NPP 2 Use and disclosure
+The Commissioner found that FSS members’ personal information was compromised as a result of the hacker uncovering a weakness in
+its systems. The hacker was a member of FSS and he had to identify himself and use his personal password to access the member site.
+The weakness in the system was not exposed to the general public, only to members of FSS.
+The hacker identified himself to FSS, outlining details of the weakness he had found in their systems and offering his professional
+services to FSS. The hacker also informed them that he had an IT security background and he ran a business specialising in firewall
+penetration and vulnerability assessment.
+In general terms an organisation
+personal information when it releases information to others outside the organisation. The Commissioner concluded that, while the personal
+information was accessed by an unauthorised party; it was done so because of specific knowledge of the vulnerabilities of the FSS
+system. As actions to obtain the information were taken by an individual with that knowledge outside the control of FSS, this incident
+did not amount to an improper disclosure of personal information by FSS.
+NPP 4 Data security
+In order for an organisation to be compliant with NPP 4.1, it must take reasonable steps to protect the personal information it holds
+from misuse and loss and from unauthorised access, modification or disclosure.
+In assessing whether FSS took reasonable steps to comply with NPP 4.1, the Commissioner reviewed the overall security safeguards put
+in place by FSS prior to and following the incident.
+Generally, organisations will need to have a range of security safeguards in place to protect the information they hold. Such safeguards
+could include:
+physical security measures that, for example, only allow authorised persons to enter the premises
+secure storage and destruction facilities for personal information
+computer and network security measures
+communication security measures, for example, measures that protect emails from unauthorised intrusion and interception
+security protocols which include policies and procedures regulating how staff and others with access to personal information will
+access and handle that information.
+At the time the incident occurred, FSS had contracted Pillar to manage its day to day administrative duties, including managing member
+records and maintaining the online area for members.
+Security measures included the internal auditor of Pillar conducting security testing of its systems. Over 200 security tests were
+conducted by them prior to the incident occurring, which did not reveal the flaw in FSS’s systems. However, the testing involved
+only a sample of FSS’s activity, and as a result, the area of the website containing the vulnerability was not tested.
+The Commissioner acknowledged that FSS’s security systems were successful in identifying an issue with its server prior to FSS being
+of the incident.
+In the Commissioner’s view, FSS would therefore have had the capacity to remedy this flaw in its system, even if it had not been
+advised of the vulnerability by the hacker. However, because testing was limited, the vulnerability was not discovered until it had
+already been exploited. The Commissioner therefore concluded that FSS breached NPP 4.1 of the
+by failing to have adequate security measures in place to protect the personal information it held.
+On the basis of the information available to the Commissioner, he formed the view that the incident was not a disclosure in breach
+of NPP 2.1. However, he considered that, at the time of the incident, FSS had not taken reasonable steps to put in place security
+measures to protect the personal information it held in the member area of its online system. For this reason, the Commissioner formed
+the view that, at the time of the incident, FSS was in breach of NPP 4.1.
+The Commissioner acknowledges that upon becoming aware of this matter, FSS’s administrative manager, Pillar and FSS itself acted
+immediately to contain the incident, commenced an internal investigation of the incident, reviewed data security practices and sought
+external advice on how to handle the situation. Many of these steps are recommended by the OAIC in its
+Data breach notification
+guide. Consequently, the Commissioner ceased his own motion investigation into this matter, on the basis that the response to this
+incident appears adequate in the circumstances. The Commissioner’s file on the matter is now closed.
+The OAIC has not received any individual complaints in relation to this matter.
+The OAIC has advised FSS that should individual complaints be received about this matter, each complaint will be considered and information
+gathered as part of this investigation will be taken into account in any subsequent investigation.
+Acronyms and abbreviations
+Commissioner Privacy Commissioner
+Cth Commonwealth
+FSS First State Super
+NPPs National Privacy Principles (contained in Schedule 3 of the
+OAIC Office of the Australian Information Commissioner
+Pillar Pillar Administration
+NSW cops quiz Aussie security researcher
+' published 13 October 2011, on Risky.Biz -(
+http://risky.biz/fss_idiots
+Super bad: First State set police on man who showed them how 770,000 accounts could be ripped off
+' published 18 October 2011, in the Sydney Morning Herald (
+http://www.smh.com.au/it-pro/security-it/super-bad-first-state-set-police-on-man-who-showed-them-how--770000-accounts-could-be-ripped-off-20111018-1lvx1.html
+No downloadable files available

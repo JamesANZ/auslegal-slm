@@ -1,0 +1,1718 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/DTLJ/2000/4.html
+Scraped: 2025-11-17 14:54:30
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Lea, Gary --- "The Revolution That Never Was: A Cynic's Eye View of the Software, Business and E-Commerce Method Patenting Controversy in the Wake of State Street" [2000] DigTechLawJl 4; (2000) 2(1) Digital Technology Law Journal 4
+Revolution That Never Was: A Cynic's Eye View of the Software, Business
+E-Commerce Method Patenting Controversy in the Wake
+this piece, the author disputes the view
+that patentability of software related inventions or business methods
+and he also disputes the view that such patents, if granted,
+are harmful
+to the software industry and commerce. Starting with the
+accounts of
+the various supposed 'bars' to patentability of software and business
+inventions are given in order
+to show them in their true and proper
+whilst overviews of developments in the UK, Japan and the EPO are also
+Introduction
+wake of the
+decision of the Court of Appeals for the Federal Circuit ('CAFC') in
+Street Bank v Signature Financial
+State Street
+the US patent system has been wide
+open to applicants seeking to patent software related inventions
+business method
+related inventions ('BRIs') or their combination
+e-commerce related inventions ('ERIs')
+Some commentators
+have reacted as though
+represents an
+abandonment of long-cherished and well-grounded legal principles that
+BRIs and ERIs are unpatentable with a result
+not far away from the
+equivalent of Armageddon. It is the intention of this author to show
+represented no real break with the past and that,
+instead, it merely
+puts patent law and practice back to the position it started
+which it should have stayed at.
+of the above,
+it is strongly arguable that, whilst there are undoubtedly some genuine
+around SRI, BRI and ERI patents
+as granted, these should not relate to
+philosophical concerns over patentable subject matter but the more
+mundane, issues of novelty and inventive step; in other words, it is
+author's contention that many criticisms of the so-called
+no more than a rehash of that old avian cliché, "the sky is
+falling, the
+sky is falling".
+limits of patentability: initial
+considerations
+argue that,
+in any rational patent system, some things should not be patentable: at
+very least, one needs some basic
+indication of what actually
+constitutes an
+'invention' for the purposes of applying for a patent.
+the courts,
+in particular the Supreme Court, have been responsible for drawing the
+between patentable and non-patentable
+subject matter: the sequence of
+Acts, culminating with the current Patents Act 1952 as amended
+('USPA'), merely
+draws a broad
+framework for the classification of subject matter. At
+therefore, section 101 USPA simply states that patentable subject
+comprises any " ... [new and useful] process, machine, manufacture, or
+composition of matter, or any ... improvement thereof".
+the US courts
+drawn their lines traditionally? In a long line of decisions stretching
+Brother Seed v Kalo Innoculant
+the Supreme Court repeatedly declared that laws of nature, natural
+mathematical formulae and mere abstract ideas were
+not patentable per
+was a very limited list and it was not entirely condemnatory: the Court
+went on to emphasise that
+if an inventor devised something which
+utilised or
+applied any item(s) on the barred list then, subject to meeting the
+patentability
+criteria, that thing was patentable
+The baseline standard for
+'invention', therefore, appeared
+to be the identification of something artificial
+and actively functional
+had been carried forward without any gloss or extrinsic pressure, where
+it have left SRI, BRI and, later, ERI patent
+applications? The mere
+they almost certainly would have included ideas or mathematical
+formulae would
+not have automatically
+barred them from patentability. So why was there
+problem and a later reaction? In the case of SRIs, four factors are
+considered:
+the mutual misunderstanding of judges and the USPTO, a widespread
+understand software technology, an unnecessary judicial
+obsession with
+correct classification under the USPA section 101 framework and
+overly-ambitious claiming by applicants. In the
+case of BRIs and ERIs,
+two factors also apply but, in addition, we see specific factors such
+relationship of business
+to technology also coming into play.
+outside the US? One can point to specific statutory bars on
+patentability of
+subject matter comprising part or whole
+of SRI, BRI and ERI patent
+applications
+or patents in the laws of a number of countries; surely this proves
+something 'wrong'
+with patenting such 'inventions'. Below, the author
+indicate that the origin and nature of these bars has been
+misunderstood
+that, in fact, that there is often little substantial difference
+between the
+position of the US and other industrially significant
+course of this
+piece, consideration will be given to the patentability of SRIs, BRIs
+this will be primarily in relation
+to the US but with some
+consideration of
+matters arising in the UK, in Japan and under the EPC
+régime: mention will also
+made of various EC and TRIPS issues arising. However, before
+examining the
+various twists of patent law and policy dealing with the
+inventions in
+question, it is necessary to describe some of the technical issues at
+with a view to setting benchmarks against
+which the progress made can
+An appreciation
+Introduction
+related invention' is, by comparison to the others under investigation,
+broad and vague. Furthermore, a lack
+of proper understanding of
+technologies on the part of lawyers and judges in particular has had
+repercussions for
+the proper development of patent protection
+Start at the beginning: what is
+industry, a distinction is frequently drawn between hardware and
+hardware refers the physical parts of a
+computer whilst software is
+'everything
+else'; within that miscellaneous category, one finds computer programs,
+instruction materials,
+design materials and the like. However, software
+engineers will tell us that, strictly speaking, the miscellany does not
+items such as disks for storing programs or paper for
+instruction
+manuals, but the intangible elements of instruction, data and
+information:
+present purposes, therefore, software will take a more restrictive
+synonymous with computer program.
+imaginary patent system in which we leave aside what we know of the
+development
+of patent law for a moment, and we
+know only the Funk standard
+described above:
+any mention of instruction/data/information by a software engineer
+might raise
+a suspicion
+that, perhaps, this sort of subject matter does cross the
+unpatentable idea or mathematical formula. However, the point
+mind is this: a computer program is a polymorphic entity i.e. it is
+taking on different forms
+In source code form, it is informational and static in nature: in
+binary object
+code form, it is dynamic and functional - in plain
+English, it makes a
+active functionality as the touchstone for patentable subject matter in
+imaginary patent system, it stands
+to reason that
+elements of some
+manifestations
+of computer programs should, hypothetically,
+be patentable;
+however, on the other hand, it is equally clear something that is, or
+amounts, to the idea of doing something - a mere plan, a mere scheme
+more - should not be patentable. The difficult
+part thereafter lies in
+drawing of the dividing line. In order to make the required
+distinction, it is
+worth considering what
+the object code version of a computer program
+does when it is loaded into a computer and run: the short answer is
+directing it to perform a task or task it causes the logic circuits of
+machine to be reconfigured in a particular way. The
+reconfiguration is
+in effect, the programs are standing in for hard-wired links between
+of logic circuits in
+the machine; this means that programs 'stand in'
+hardware and, indeed, the two are, in fact, interchangeable
+software/hardware
+equivalence gives rise to another intriguing possibility: if hardware
+simulated in software and vice
+versa, might is not be possible to claim
+same program functionality either as a process or, if embodied, as
+In principle,
+yes and, furthermore, we might also entertain claims to
+'computer-as-programmed' as a 'new' machine. What, then, is the cut-off
+Under our hypothetical patentability standard, programming techniques,
+algorithms,
+design elements or the like but then
+only to the extent that
+things do not make a computer do something. The key distinction,
+therefore, is
+between the purely informational and the functional.
+‘natural’ approach to SRIs?
+imaginary patent system, it is important to note that that the patent
+a major industrialised nation,
+left largely untouched by external
+pressure, did
+indeed manage to reach exactly the same conclusions set out above
+without any
+of the ill consequences currently being trumpeted: the UK patent
+prior to entry into force of the Patents Act 1977. Under
+Patents Act
+1949, the UK system functioned somewhat like the US: although, unlike
+there was no rigid categorisation
+as between process, product and so
+left to the courts to determine what constituted patentable subject
+general rubric of 'manner of new manufacture'
+How did this work in the case of
+computer programs? The distinction between the informational and the
+was recognised in
+Slee & Harris' Appn
+where the applicants were seeking a patent for a linear
+function solution program, claimed in just those terms. The application
+refused on the basis that it did not disclose a physical effect which
+to manner of new manufacture
+and went to an Office Hearing at which it was held that, although the
+the program per se were unacceptable, it would be
+possible to submit
+drafted in terms of "methods of controlling data processing
+machinery".
+in February 1969, the UK Patent Office issued a practice note in which
+stated that whilst it held that computer programs as such
+patentable,
+it would accept applications for methods of programming a computer to
+in a certain way, for computers
+so programmed or media bearing programs
+controlled the operation of a computer in a stated way. Furthermore, no
+objection would be raised in relation to applications relating
+computer-controlled manufacturing or testing of computer equipment.
+point, the Patent Appeal Tribunal and the courts dealt with a series of
+decisions in which what appeared to be at stake
+was usually more a
+drafting than substantive issues of lack of 'physical effect'
+Inc.'s Appn.
+patent application for a method of computer-assisted plant design,
+claimed partly by relation to the program and partly
+by the method of
+rejected by the Office for lack of patentable subject matter, use of
+apparatus and use of known technique.
+On appeal to the PAT, the
+applications
+was remitted to the Office for consideration with revised claims
+directed to a
+"process for
+conditioning the operation of a computer and plotter of
+of process claim became standard.
+a patent application
+for a trade mark indexing program, originally claimed partly in
+relation to the
+program and partly in relation
+to the computer upon which used, was
+grounds of lack of patentable subject matter, use of known apparatus
+known technique. On appeal to the PAT, it was held that the claims
+worded and directed properly, and that, more importantly,
+program on a carrier
+patentable in the same way that a machine part which could condition
+operation of a known machine might be.
+(Perkins') Appn.
+a slight but significant shift occurred; this application involved a
+communicating data between a central computer and
+intelligent
+terminals and, on appeal to the PAT, it
+was held that the Patent Office's distinctions between the
+(unpatentable)
+programming of
+a computer and (patentable) controlling its operations
+artificial. The claims were, therefore, acceptable as they were.
+Furthermore,
+it was held that any residual reliance on older, restrictive test for
+patentable subject matter was to cease: once a computer
+program had
+form, either on a carrier or in a computer-as-programmed, such that
+it could be realised in practice, it
+should no longer be regarded as a
+conception for it has found a practical embodiment."
+breakthrough under the 'old' 1949 Act came in
+IBM Corp.'s
+in this action, IBM applied
+for revocation of a patent relating to a data handling system for
+market price
+matching in fungibles;
+this was done on a number of grounds relating to
+matter, known method and known machinery. The court rejected all the
+for revocation, holding that the mode of claiming used - pure computer
+claims - was wholly irrelevant; the substance of the
+invention was
+and, although a combination of known technique, machinery and other
+it was, when taken together
+and as claimed, novel.
+additional point of
+interest in
+is the evident admixture of a
+method of doing business;
+this did not cause a problem because, when implemented by the computer
+it was not just mere paper scheme or rule or method, but an active,
+component of a virtual market.
+An appreciation
+of BRIs and ERIs
+Introduction
+conceptually
+simpler than SRIs, the range of inventions covered by the acronyms BRI
+and ERI does
+warrant some further investigation.
+In the case of BRIs in particular,
+will turn on the issue of which business related activity is the
+subject of the
+application
+or patent in question. For present purposes, BRIs are taken
+cover 'methods for doing business'
+in the broad areas of
+advertising, marketing and
+accounting whilst ERIs are taken to cover the same things over computer
+Information v. function
+hypothetical patents system for a moment and consider the following:
+Smith wishes to obtain a patent
+for some "method of market
+management". If, as before, we take the requirements of artificiality
+active functionality as our
+starting point then it might be possible
+to obtain her patent provided that an examiner could be persuaded that
+method in question was more than a mere idea or formula: the
+line would lie, for example, between a method for conducting
+sales so as
+to lower transaction costs (patentable) and a method for the quick
+calculation
+of transaction costs within the
+share system (unpatentable)
+hypothetical patent system, as with SRIs, we find that there is no
+rule excluding BRIs or, by extension
+from both, ERIs: it will all
+determining the precise nature of the invention in question. Indeed, in
+case of ERIs there
+is one interesting additional point to consider:
+hypothetical system of patentability determination, an invention that
+unpatentable BRI may well acquire potentially patentable status as an
+automated: the transaction cost formula could
+be used as part of an
+system for tallying and deducting transaction costs (patentable). It is
+to remember, however,
+that this only relates to subject matter status:
+equally be the case that it would be "obvious" to automate
+transaction cost
+processing as described above, in which case a patent
+not be granted.
+to the real
+world, one of the great difficulties for BRI and ERI patents to
+overcome is the
+sentiment, often translated
+into patent policy, that the patent system
+concerned with matters scientific and not matters commercial; in truth,
+of this is correct only in so far as it relates to
+science and, more crucially, the exclusion cannot be axiomatically
+derived from
+the inclusion. Fuelling
+rightly points out that the service industries involve as much
+'technological
+art' as the traditional manufacturing industries
+and, in light of that, there is
+no more reason to reject
+BRIs and ERIs as unpatentable
+SRIs: the U.S.
+Initial SRI patenting problems
+in the U.S: 1966-1970
+patent system
+could adapt to software technology, what went wrong in the US? The
+began not in the courts but at
+the USPTO and for purely administrative
+Until the first half of 1966, the Office had accepted a few SRI patent
+applications
+and, in August, released its first set of draft
+"Guidelines
+to the Examination of Programs" which allowed programs to be claimed
+expressed as devices for controlling a computer. Worryingly, perhaps,
+went on to say that process-types claims would
+not be accepted since
+analogous to mere mental steps or ideas
+this, as we have seen, above was
+illogical nonsense and a
+sad triumph of claim form over inventive substance - if, as they were,
+and software were interchangeable, it did not matter how the claims
+expressed since they related to the same thing.
+event, the USPTO
+did not even get a chance to make the device/process mistake because,
+December 1966, the draft had been
+withdrawn; the main reason for this
+publication of the Commission Report on the Patents System
+which called for a bar on patentability
+of computer programs. The reasons offered up in the Report had little
+with subject
+matter arguments but, instead, pointed out that the USPTO
+already up to 4 years behind with patents applications, that there
+experienced staff and that there was very little prior art to search
+that was held within or available to the Office.
+thereafter, the
+USPTO underwent a Pauline conversion to a restrictive approach, seeking
+statutory bar on patentability in
+a 1967 amending Bill and, when that
+dropped, issued a set of extremely restrictive Guidelines in 1968;
+excluded any computer
+process that could be carried out by mental
+however, the 'mental steps' test as described by the Office, was so
+it covered any operation of a computer program that could be tracked by
+background,
+though, was the start of a simmering institutional argument: the Court
+Customs and Patent Appeals ('CCPA'),
+a body with special jurisdiction
+patent system
+already committed itself to a relatively liberal approach to SRI
+starting with
+Prater & Wei
+, it upheld SRI
+patent applications containing machine and, also, process claims,
+stating that the mental steps doctrine
+did not extend to everything
+be tracked by mental steps and, ultimately, forcing the USPTO to
+withdraw its
+1968 Guidelines
+Benson application and its aftermath:
+argument between
+CCPA and USPTO took on a new dimension with the involvement of the
+Court in the case of
+Gottschalk v Benson
+Benson's application related to an algorithm for transforming binary
+decimal numbers (BCD) into pure binary; the computing
+significance of
+the enhanced ability to convert quickly from decimal, used by humans,
+to an intermediate
+stage and then
+to binary used in computers such as 53 to 0101 0011 (5
+coded in binary) to 110101 in pure binary. The two main claims were
+algorithm (a) applied using a piece of hardware called a re-entrant
+and (b) recited as a method
+rejected the
+application but, on appeal, the CCPA upheld it as disclosing patentable
+matter: whilst the applicant
+was prepared to admit that the
+hardware-based
+claim did not really relate to any specific apparatus, the court took
+the claims could be construed as being limited to use on computer
+since they could only be deployed practically in that way
+unusual move, the
+Supreme Court allowed an appeal and quashed CCPA's decision; in the
+part of the
+judgment most often cited,
+it said that the main claims amounted to
+more than a sham pre-emption of a mathematical formula that was
+unpatentable
+These words were taken to mean
+by many that SRIs were not patentable and that other forms of program
+protection had to be sought.
+However, what is usually missed is that
+primary concern of the Supreme Court was the scope of the claims as
+so " ... so abstract and sweeping as to cover both known and
+unknown uses of BCD to pure binary conversion"
+. Secondly, the court itself was
+at pains to say that the
+decision was not a denial of the patentability of program elements in
+immediate and
+regrettable side-effect of
+was a diversion
+of effort by many
+lawyers and lobbyists into seeking 'strong copyright' protection rather
+looking properly at
+the effect of the
+decision and its progeny:
+following alterations to the
+1980 to accommodate
+software products, the race was on to try to stretch copyright to
+cover, first,
+program structure
+and, later, functional
+aspects of program code and user interface
+charted elsewhere
+to the task set for it; although admirably suited to protecting static,
+informational material such as that
+found in source code, instruction
+and the like, it showed itself to be manifestly unsuitable for
+functionality
+the thing which software
+producers prized above all else. However, it was only with the 2nd
+Court of Appeals decision in
+Computer Associates v Altai
+and the later 1st Circuit Court of Appeals decision in
+v Borland International
+courts finally halted the distortion of copyright, recognising the
+problem and
+restricting scope accordingly; in the former
+case, it was memorably and
+observed that putting program functionality under copyright's
+protection was
+like trying to put
+a square peg in a round hole.
+A war of nerves: 1972-1982
+wake of Benson,
+CCPA did not hesitate from playing 'tug-of-war' over SRI patents: in
+Benson and the two Supreme Court
+decisions listed below, CCPA kept
+liberal line on patentability issues with the result that, in many
+cases, those
+SRI patent applications that reached CCPA were granted
+because of the incredible rarity of Supreme Court
+intervention
+From a practical
+viewpoint, therefore, SRI patenting continued much as before, albeit at
+level, not so much because of any
+real bar but the perception of one
+by overly-broad readings of the Benson decision; nevertheless, it is
+even in the 'low ebb' period of 1972-1981, more than 2,000 SRI
+were granted, with 4,000 pending in 1980 alone
+the Supreme
+Court handed down another decision which seemed, at first glance, to
+'bar' which Benson had supposedly
+Parker v Flook
+it rejected a method for calculating and updating alarm
+limits in hydrocarbon chemical processing as unpatentable in that, when
+dissected, the invention supposedly embedded in the claims was revealed
+nothing more than a mathematical formula dressed up in
+an algorithm
+(confusingly
+described as a 'mathematical algorithm') with post-solution activity
+algorithm being merely 'token'
+for lack of definition and
+substantiality.
+decision was
+immediately taken to mean that computer-tested or computer-controlled
+and processes were unpatentable:
+again, however, the court had been at
+explain that it was not shutting the door entirely
+Moreover, when looked at from the point of the scope of the claims as
+and presented, the application in question was undoubtedly
+there was no detail at all on what alarm systems would be used, how
+be linked to the hardware on which
+the program ran and, most
+significantly,
+what range of trigger values would be used.
+the judicial
+tide in the Supreme Court finally turned; naturally, this was heralded
+significant but, given what the CCPA
+had been doing with USPTO Board of
+decisions for the last ten years, it did not have as much impact as
+thought. In
+Diamond v Diehr
+applicant had used a known mathematical formula, the so-called
+equation', as the basis for automated moulding and
+curing of rubber.
+The program
+which the applicant had written improved on existing manual uses of the
+equation in that it took information
+from sensors in the mould to
+real-time update of numeric variables; the equation was repeatedly
+through with revised
+variables to determine the precise moment at which
+mould should be released.
+decision, the
+court acknowledged the flaws in the
+'dissective'
+approach and,
+having properly taken the claims
+acknowledged them to
+represent patentable subject matter within section 101; the mere
+inclusion of
+program and hardware elements
+did not render the subject matter
+unpatentable.
+The court also limited the meaning of mathematical algorithm by analogy
+mathematical
+formula. In broad factual terms, it is difficult to
+but the answer lies in the
+wording of the claims: the
+thumbnail description of the invention given above, drawn from the
+shows that US patent attorneys had learnt their drafting lessons as the
+claims were much more narrowly drawn than in
+and they were clearly
+directed to the physical to ensure that there was an easily
+identifiable
+functional element to the process
+From CCPA to CAFC: 1982-1996
+onwards, the
+Supreme Court did not intervene in the subject matter conflict and
+left to preserve the crumbling
+remains of the SRI patentability 'bar'
+face of an ever-growing body of liberal CCPA decisions. Immediately
+its dissolution
+in 1982, CCPA gave judgement in a quartet of cases that
+out what it regarded as the boundaries for SRI patentability:
+In re Taner
+In re Abele
+In re Meyer
+successor, the
+Court of Appeals for the Federal Circuit ('CAFC'), was established on
+October 1982 but did not deal with
+any significant SRI patentability
+, the USPTO had put promulgated a new
+set of Guidelines for
+examinations of applications involving SRIs; they attempted to bring
+the whole of CCPA's and the Supreme Court's reasoning in the area and
+relied on a two step approach called the
+Freeman/Walter/Abele
+part of the
+test relied on seeing whether the claims recited a mathematical
+cautioning that although it would be easy
+to detect these in process form, it would be more difficult where
+claims were
+apparatus form and, in any event, claims should be treated
+carefully in
+light of supporting disclosure. If the claims did recite
+a mathematical
+algorithm, the second question asked was whether it was applied in any
+to physical elements or process steps;
+if so, it was patentable subject
+just after the
+USPTO created its friendlier Guidelines, CAFC promptly extended the
+which claims could be framed,
+thereby widening the gateway of
+opportunity for
+SRI patent applicants still further. In
+the validity of 'means for' claiming was highlighted.
+Hitherto, SRI patent claims had usually been framed in terms of method
+process but this, both inevitably and wrongly, had tainted many of them
+the whiff of mathematical formula or mere idea. Here,
+the applicant had
+a valuable historical lesson about hardware/software equivalence and
+its invention for signal autocorrelation
+not as a method but as
+machine as follows:
+'means for' apparatus claims
+hardware element comprising
+a Read Only Memory with a look-up table of square values; and
+on claims linked to
+detailed description such that it was clear that the invention was "for
+in a computer for improved
+voice recognition".
+enthusiastically endorsed the approach, saying that although an
+algorithm was
+plainly involved, it had been physically implemented
+and this gave it
+subject matter status. Subsequently, 'means for' was used to railroad
+SRI patents relating to heart
+monitoring software in
+and even software for
+removing jagged edges from digital oscilloscope traces
+('anti-aliasing') in
+decision, the
+was treated as the 'gold
+standard' for patentability of SRIs
+main independent claim in the application, Claim 15, read as follows:
+rasterizer for converting vector list
+data representing sample magnitudes of an input waveform into
+anti-aliased
+pixel illumination
+intensity data to be displayed on a display means
+comprising:
+determining the vertical
+distance between the endpoints of each of the vectors in the data list;
+determining the elevation
+of a row of pixels that is spanned by the vector;
+nomalising the vertical
+distance and elevation; and
+outputting illumination
+intensity data as a predetermined function of the normalised vertical
+and elevation".
+specification
+disclosed an electronic circuit but the claims 'means for' format
+deployment in software. The Examiner
+rejected the application for
+nothing more than an algorithm whilst a Board of Appeal accepted that
+referred to a machine (whether real or virtual). A Full
+Appeal upheld the Examiner's decision on the narrower ground that,
+section 112(6) meant that 'means for claims' covered any and every
+extended to the interpretation of this claim
+as a disguised process
+an unpatentable mathematical algorithm. On appeal to CAFC, it was held
+language used in
+the specification clearly disclosed a machine (albeit
+which could be constructed in software) and, in light of this, the
+claims were suitably conditioned. Moreover, the invention was not
+unpatentable in
+any guise because it represented the application
+of an idea and not
+idea itself.
+slight pauses
+in the opening up of SRI patenting came in 1994 and 1995 when CAFC was
+with claims which, because of
+the invention, could not be directed to
+of post-solution activity i.e. pure program claims. In
+the court rejected a method of
+calculating competitive bids on a series of related items; this was
+done on the
+back of CCPA's older
+tests but, interestingly, the dissenting judgment
+Newman J. formed the basis for the new reasoning in
+somewhat more reticent panel than usual, in
+the CAFC rejected its much-loved 'means for' claims, this
+time covering an SRI which calculated the optimum path between two
+by reference to stated parameters such as time, cost, capacity and
+the post-solution activity here was confined
+to on-screen display and,
+the claims were transparently directed towards the program. In language
+reminiscent of
+the three judges on the initial
+appeal panel held the apparatus claims to be a mere 'guise' covering an
+unpatentable mathematical
+push forward,
+albeit on a different front, came in 1995 with the decisions in
+. Lowry related to a data
+structure for organisation and
+use of data stored in computer memory and the USPTO rejected by analogy
+minor exception to patentability relating to printed material; on
+CAFC, the applicability of this exclusion was rejected.
+However, the
+significance of the decision did not become clear until
+here, the USPTO had rejected claims to a computer program on a carrier
+same basis as
+and, having learnt, late of the
+CAFC decision,
+promptly withdrew. Thus a computer program on a carrier could be
+patentable as
+according to CCPA rulings starting with
+ending with
+, most SRIs were easily
+patentable; where
+they related to otherwise unpatentable subject matter, if claims were
+towards production
+of a useful, tangible or concrete result then that
+sufficient. Claims could be framed in terms of (virtual) machines,
+stored on media or, if necessary, by reference to processes. The USPTO
+in considerable difficulties as it produced draft
+after draft of
+Guidelines to
+before finally publishing in
+February 1996.
+were drafted with
+Freeman/Walter/Abele
+mind but with the
+overall emphasis on finding utility rather than trying to find some
+transformation or effect;
+this effectively widened protection to the
+demanded by
+. In addition, when considering
+classification of
+data structures, a form of SRI recognised in
+and computer
+programs as machine, process, etc., it was permissible to look at
+medium as grounding for a machine claim per
+BRIs and ERIs: the U.S. experience
+BRIs: an odd path
+discussed the
+bias against BRIs above, it is interesting to note that, in the US,
+cases cited
+against patentability were often
+decided on other grounds, a point
+emphasised strongly in
+State Street
+in other words, there seemed to be misdirection rather than a 'bar'.
+early decisions such as
+Munson v City of New York
+US Credit System Co. v American Credit Indemnity
+the issue of patentability was clouded by
+the issue of refusal of patents to 'printed materials' to avoid
+reduplication
+of protection
+with copyright. However, even in the two cases most often
+for the proposition that "methods of doing business are
+unpatentable",
+the decisions were actually made on other grounds.
+Checking Co. v Lorraine Co.
+held that means for avoiding employee theft by use of a
+specially-printed
+receipt slip was not patentable: although the court
+stated that "... a
+system of transacting business disconnected from the means for carrying
+system is not [patentable]" was
+a specific comment on the means for
+in question rather than a general ground for disposal, it was treated
+in reality,
+the court decided the case on lack of novelty.
+the claims related to a process for
+selling commodities by offering them for sale at remote points. Again,
+court decided the
+issue on the question of novelty and, indeed,
+specifically
+stated that it did not have to decide on the issue to dispose of
+patentability to dispose of the appeal.
+shifted to ERI patent applications, there were some indications that
+would consider BRI claims: in
+an application to patent a method of operating a system of factories
+produced products from raw materials having a plurality
+of market costs
+allowed to proceed by CCPA; in its judgment, it avoided the issue at
+saying that the invention was not
+a method of doing business.
+ERIs: a helping combination?
+the extent that
+the business method exception ever had any substance, it seemed that
+of unpatentable subject matter
+to create a functional marketing,
+accounting or advertising
+system could disclose patentable subject matter just as in the UK
+and within our hypothetical patent system: in
+a system for automated cheque clearance was held to be
+patentable subject matter (though the patent application failed for
+obviousness)
+Paine, Webber, Jackson &
+Curtis v Merrill Lynch,
+Pierce, Fenner and Smith
+, a trading
+system incorporating automated cash management functions was held to be
+subject of a valid patent on the basis that
+that the claims were
+directed to
+methods of operating a computer for actual market activities rather
+doing business per se.
+State Street:
+the final push
+content with its
+previous handiwork, CCPA moved again in 1998. Two years before, two
+mutual fund
+companies, State Street and Signature
+Financial Group, had been
+negotiating
+over use of business management software; the latter owned a patent on
+aspects of the
+software in question. Relations broke down and, seeking
+pre-empt an infringement action, State Street sought a declaratory
+non-infringement based on lack of patentable subject matter through the
+District Court for the District of Massachusetts.
+patent, US patent
+number 5,193,056 was entitled 'Data processing system for Hub and Spoke
+Financial Services Configuration' and
+was issued on 9 March 1993; its
+independent claim was as follows:
+data processing system for managing a
+financial services configuration of a portfolio established as a
+partnership,
+each partner
+being one of a plurality of funds comprising:
+processor means for
+processing data;
+means for storing data on a
+storage medium;
+means for initializing the
+storage medium;
+means for processing data
+regarding assets in the portfolio and each of the funds from previous
+data regarding increases
+or decreases in each of the fund's assets and
+allocating the percentage share that each fund holds in the portfolio;
+means for processing data
+regarding daily incremental income, expenses, and net realized gain or
+the portfolio, and
+for allocating data among each fund; and
+means for processing data
+regarding daily net unrealized gain or loss for the portfolio and
+such data among each
+means for processing data
+regarding aggregate year-end income, expenses and capital gain or loss
+portfolio and each
+of the funds."
+instance, the
+District court held that the patent was invalid for lack of patentable
+matter, under both the mathematical
+algorithm and business method
+exceptions.
+The case went on appeal to CAFC: here was the perfect chance to resolve
+BRI and ERI
+matters for once and for all.
+The ‘mathematical
+algorithm’ exclusion
+District court had
+treated the 'means for' claims as process claims and then promptly
+declared them
+poisoned by the algorithmic
+taint. CAFC stated that the claims had to
+as machine claims, directed, as per the specification, towards a
+more importantly, in any event it did not matter which of the
+categories at section 101 the inventions fell into since the test
+patentability was the same for each. The test to be deployed was a
+narrow one:
+given that Congress had intended "everything under
+the sun made by man
+be patentable", the language of section 101 was wide; any exclusion to
+patentability had to be clearly justified
+in light of this and also
+narrowly. Accordingly, classification did not matter: if one could
+practical utility
+and satisfy the other conditions of the Act, that was
+Mathematical algorithm and the search for post-solution activity were
+The ‘business
+method’ exclusion
+held that the
+origin of the business method exception could be traced in its modern
+Security Checking v Lorraine
+which a system for preventing tip fraud by waiters was rejected as
+unpatentable
+However, as CAFC noted, neither of these
+decisions relied on the purported exception in making a finding of
+and, in any
+event, such discussion as there was related to mere ideas:
+was no disclosed separate exception to patentability. Therefore,
+business method claim fell within the limited boundaries of mere ideas,
+could disclose patentable subject matter.
+State Street:
+the aftermath
+Supreme Court denied certiorari proceedings, thereby tacitly accepting
+approach. In a later case,
+AT&T v Excel
+the court emphasised that, in addition to categorisation, it no longer
+what claim format was used, the wide test applied
+and was the same for
+formats; here, too, Supreme Court certiorari was denied. In short,
+despite the
+softly whispered reservations
+of the USPTO
+the system had changed: whilst others may regard it as a revolution,
+history set out above, the author would argue that
+it was nothing more
+year ride in full circle.
+International,
+regional and national approaches
+International and regional
+true nature of bars to patentability relevant to SRIs, BRIs and ERIs
+found in international laws and agreements,
+specifically TRIPS, EC law
+Patent Co-operation Treaty 1970 ('PCT'). In addition, it should be
+that there is ever
+increasing co-ordination of approach as encouraged
+mechanisms such as the Trilateral Review
+and the meetings of the heads of the patent offices of certain
+case of TRIPS,
+attention has been directed towards Article 27(1) which provides that
+patents shall be available for all
+inventions, whether products or
+in all fields of technology, provided they are new, involve and
+inventive step
+capable of industrial application". Articles 27(2) and (3)
+for limited exceptions but computer programs are not listed therein
+fact that the exclusions are so limited is intriguing: is it possible
+taking up TRIPS obligations, signatories risk
+breach simply by virtue
+restrictions on patentability of programs? Bearing in mind that
+countries which
+have signed up
+to the EPC have included such restrictions, this is a
+possibility. Schiuma has examined this problem by trying to find the
+international law meaning of the provisions and seeing how they work in
+relation to the German Patent Act, one of the EPC-modelled
+Having concluded that, on any proper interpretation,
+software must be regarded as an invention in a field of technology, it
+seem that German law is, indeed, at variance with TRIPs requirements
+the country's declaration to the contrary
+notwithstanding
+the more complicated
+position of the EPO is considered below.
+TRIPs, the European Commission recognised the problem with SRI
+protection and
+proposed a harmonisation Directive
+for patent protection within the
+this is likely to be implemented
+in 2001/2002 and it is widely predicted will approximate the threshold
+protection to that available
+in the US as a result of
+Indeed, to the extent that Member States
+form the majority of EPC signatories, they will be obliged to push for
+harmonisation as
+between the national, EPC and projected Community
+in the case of
+the PCT, it is interesting to note that, whilst the Treaty does not
+directly with the scope of patentable
+subject matter, in relation to
+computer programs,
+Rules 39 and 67 only bar search or examination to the extent that the
+International
+Preliminary
+Examining Authority are not equipped to search the prior art
+this adds weight to the contention that, having been born
+out of administrative inconvenience rather than any great principle,
+restrictions
+on patentability of programs should be limited to the
+possible extent.
+practice under the EPC
+USPA, Article 52
+of the European Patent Convention 1973 expressly lists certain things
+not to be regarded as patentable
+inventions: in ad+dition to
+discoveries and
+mathematical formulae, schemes, rules or methods for doing business,
+act and computer programs are mentioned, as is the
+presentation of
+information. However, the restrictions are said to apply only
+early years of
+the European Patent Office's operation, much more attention was paid to
+exclusion than the proviso: as a
+result, the original 1978 examination
+Guidelines set a threshold that SRIs, BRIs and ERIs would find
+difficult to
+with the result that the EPO acquired
+a continuing reputation as a place through which such inventions could
+patented. In
+1985, however, the Guidelines were changed to take account
+industry concerns; although tied to claiming the program when loaded
+computer, they did at least allow that if a technical (in the sense of
+"technological") contribution was made to the known
+invention, patentability should not be denied merely because it was
+implemented
+in a computer program.
+Vicom/Image
+, the EPO's Boards of
+Appeal slowly began to sketch the boundaries between, on the one hand,
+computer program as such and, on the
+other, an invention making a
+contribution albeit that it was implemented in software; however, the
+trend was to
+place the marker ever further in favour of the latter at
+expense of the former
+a revised claim to a method of "digitally processing images in the form
+a two dimensional array" was allowed because the
+image was a physical
+entity and it was directed towards a technical process affecting it.
+on from the straight physical
+effect test applied in
+the EPO also
+began to accept applications where the invention overcame a technical
+this might involve maintaining or improving
+the operation of hardware
+software as in
+IBM/Data Processor Network Appn.
+whittled down, significant obstacles remained: claims other than to a
+as programmed were severely limited
+and, by virtue of unfortunately
+terminology and concepts, issues of technical contribution tended to
+into issues
+of novelty and obviousness. In a pair of decisions handed
+Technical Board of Appeal in 1998 and 1999, a determined effort
+bring clarity to the matter and to assimilate practice as far as
+possible with
+international norms (including TRIPS):
+IBM/Computer
+IBM/Computer programs II
+were to set the 'gold standard'
+around software operations: in the first, the claims, both to methods
+apparatus, related to a system for detecting
+overlaps of windows on
+screens and preventing the obscuring of information by causing display
+elsewhere whilst, in the second,
+they related to a system for recovery
+memory and other resources including procedural failsafes in the event
+non-recovery.
+In addition to the acceptable claim forms, the applicant
+included claims to program stored 'on medium'.
+explained in
+both instances that the mere fact of alteration of current flow in the
+by loading the program was
+insufficient to show 'technical character',
+replacement test requirement for 'technical contribution', of the sort
+exclusion of programs as such. Instead, the point at which
+invention should
+be considered should be that at which the program was
+executed to
+'further effects'; whether inside the machine or out was irrelevant,
+hardware or software was irrelevant
+provided such further effects could
+found. The effect was to limit the computer program as such limitation
+lowest possible
+despite the
+change in standard, the Board recognised that its new approach would
+leave 'on media' claims of the
+high and dry; recognising
+the illogicality of having something with the potential to have further
+technical effect left as unpatentable,
+it accepted that such claims
+assimilated and accepted. In addition, in
+IBM/Computer
+programs II
+particular, the Board acknowledged that Article 27 TRIPS was an issue.
+it held that since the EPO was neither a party
+to nor otherwise bound
+all that it could and should do was to acknowledge it as something to
+account when interpreting
+Article 52.
+ERIs, the EPO has had some dealings with the latter but, in view of
+requirements of 'technical contribution' and,
+latterly, 'technical
+character',
+some applications have fallen. However, there are two successful
+applications which
+show that, where
+suitable technical character can be identified, the
+method bar is not absolute.
+Sohei/General
+purpose management system
+apparatus and method claims were made for a system of administrative
+management task handling via a common booking slip for
+data storage and
+processing; as amended, the Board of Appeal characterised as relating
+interface rather than a computer
+program as such, a method of doing
+business as
+such and/or a presentation of information as such.
+Pettersson/Queuing
+a system for determining
+the queue sequence for customer service at a plurality of service
+points was said
+to be a method for doing
+business. However, the Board held that the
+main claim,
+Claim 1, related to apparatus, specifically a turn-number allocation
+not any method of use as such.
+Ultimately,
+as with the
+discussion of the US situation, the point should be made that, in
+many SRI and ERI applications
+are being accepted without subject matter
+objections; Cohen
+notes that by 1999,
+approximately 100 out of 15,000 applications had been rejected in this
+or, put another way, 99.33% overcame
+the subject matter threshold.
+following concerns in the 1990s
+practitioners are taking the view that difference between the EPO and
+SRI patentability is negligible but, with ERIs, care
+still must be
+drafting to identify some genuine and relevant 'technical effect'
+Law and practice in the U.K.
+case of the UK,
+it is ironic to note that after the entry into force of the Patents Act
+working from the same exclusions
+the courts and, perforce, the Patent Office have developed limits on
+patentability of SRIs, BRIs and ERIs which are recognised as
+than their Continental counterparts
+this is so despite the relaxed approach previously taken under the 1949
+hint of the
+problem came with
+Merrill Lynch Inc's. Appn.
+in which an application directly corresponding to the US
+trading system application noted above
+was rejected. Although the Court of Appeal rejected a dissective
+approach to
+claims analysis, it held that the invention as characterised
+a method of doing business. Although the reasoning of the analogous
+under the 1949 Act was raised, the court declined to follow it, failing
+recognise the difference between business schemes,
+rules or plans and
+realisation and the technical effect inherent in the virtual
+marketplace that
+the software created. However,
+it is worth noting that in the event, a
+set of apparatus claims was allowed to stand
+case of SRIs,
+whilst few doubted the correct decision had been reached by the Court
+Gale's Appn.
+in which the mode
+of storage of a program was held to be irrelevant to the patentability
+invention as claimed, a quartet of
+later applications
+were refused on the basis that
+they related to computer
+programs as such and/or schemes, rules or methods for performing a
+as such; the latter objection is highly questionable on the basis that
+judges and examiners concerned seem to have entirely
+overlooked the "as
+such" qualifier to section 1(2) in relation to it and the point that
+subject matter
+could not be carried out
+approach which the UK Patent Office was obliged to follow was a source
+concern during the 1990s
+though, when
+actual output of the Office was compared in terms of applications
+proceeding to
+grant, the comparisons with the US,
+Germany and Japan were less
+However, with the two pronged assault
+of TRIPS and the EC harmonisation Directive on the horizon, there
+should be no
+future and, even in the interim, the Patent Office has
+examination Guideline indicating its recognition of the recent IBM
+decisions in
+the EPO and its allowance of
+-style claims
+this has particular advantages since the protection
+afforded to processes under the 1977 Act is much more limited than that
+to products
+case of BRIs and
+ERIs, the situation is still not so clear: under the 1949 Act, some BRI
+applications were rejected as disclosing
+either mere schemes, rules or
+and/or on the basis of the printed
+matter exception
+Although the
+transition to the new Act meant that many old authorities were treated
+of doubtful relevance
+, BRI patent
+applications have continued to be treated with suspicion: on a broad
+construction of business, a corporal punishment
+scheme was rejected
+In light of the change in relation to
+SRIs and the shift to ERI patent applications, in the immediate future,
+Patent Office
+is likely to take its cue from decisions such as
+practice in Japan
+contrast to both US
+and EPC rules, Japanese patent law is marked out by a positive and
+specific approach to the definition
+of invention: Article 2, Patent Law
+that an invention is "the highly advanced creation of technical ideas
+which a law of
+nature is utilised"
+However, from this starting point, there is rapid convergence.
+concerned, the JPO's Guidelines
+should be taken as a whole
+when considering the issue of invention;
+a law of nature in
+information processing by software is patentable;
+a law of nature in
+hardware resources is patentable; and
+determining patentability, it is
+irrelevant whether the invention is claimed as a process or product.
+to set the patentability
+threshold at approximately the same level as the U.S.
+and it is considered unlikely
+that the Tokyo High Court
+will set any different standard in deciding future cases
+particularly in view of the fact that Japan has one of
+the largest sets of SRI patents and applications in the world.
+ERIs, although the JPO's Guidelines, currently under review
+are relatively generous towards BRIs and, by extension,
+to ERIs, there is, by contrast, a distinct shortage of patents granted
+compared to the US; the reason for this appears to be a reluctance on
+of the relevant commercial players to apply
+The real problem with SRIs, BRIs and ERIs
+Novelty, obviousness and utility
+greatest irony in
+this all is that the practical reasons proffered by the 1966 Commission
+on the US patent system for restricting
+SRI patenting has continued to
+true: a lack of experienced examining staff, time and prior art
+resources has
+meant that the
+quality of many US patents granted has been very suspect
+notorious example in recent time has been Compton's multimedia patent,
+5,242,671; this related to a database
+graphical and textual entry paths and the width of the claims was such
+make any multimedia
+when Compton's began demanding 1-3% royalties on multimedia database
+the industry at large
+problem with
+Compton's patent was that since the time of the development of
+hypertext in the
+1960s, such systems had been
+known and there was relevant prior art in
+engineering journals which showed virtually identical systems fully
+operational
+by 1986. Unfortunately, this had not been noticed by the USPTO which
+had proceeded
+to grant in August 1993.
+industry was so great that the then-Commissioner for Patents, Bruce
+took the rare step of calling the patent
+back in for re-examination: on
+March 1994, in light of the voluminous prior art, all 41 claims were
+In the aftermath,
+it was promised that examination would be improved by
+tighter internal quality controls and more, better-qualified staff.
+problem has
+been that this has not happened: in March 1999, the USPTO was forced to
+statement assuring all concerned
+that SRI, BRI and ERI handling would
+improved and that new staff would be taken on
+Has this change of handling worked well? Judging by the state of US
+6,041,310 for a system of selling cars via a computerised
+probably not.
+The chilling
+effect of patents
+of the 'new'
+approach to SRI, BRI and ERI patents which disturbs some critics is the
+possibility of 'chilling' or retardation
+of innovation in the relevant
+technical or commercial field; a recent case, often cited in this
+Inc. v Barnesandnoble.com Inc.
+which Amazon's patent for a method and system of 'one click' Internet
+once the product to be ordered is displayed to
+the consumer came under
+microscope; it was found to be valid and infringed but, subsequently,
+founder of Amazon, Mr Jeff
+Bezos, gave a speech in which he
+acknowledged that
+he was worried about the possible slowing down of e-commerce spread
+his company's patent
+exuded by Mr Bezos was pleasant but, it is submitted, not relevant: it
+subject to exclusive dealing agreements,
+remains possible for Amazon to
+the technology out. Furthermore, assuming that the court was right to
+the patent as
+valid, it also follows that there is no chilling issue:
+the infringer was trying to get a free technical and/or commercial
+all patent infringers seek to do. Similarly, although claims
+interpretation and
+infringement issues do arise in this
+case, this is equally true in any
+field. However, it must be acknowledged that in the case of 'bad'
+patents i.e.
+those granted
+without proper, strict examination as to novelty,
+obviousness and
+utility/industrial applicability, a genuine chilling issue does
+conclusion, Patent
+Offices around the world must sharpen up examination procedure as much
+possible to see that rogue SRI, BRI
+and ERI patents are not granted;
+is possible to challenge for invalidity, the cost and uncertainty of
+still hangs
+over others in the field and, here, the chilling effect is
+Examiners, particularly those in the US must use all information
+available to them - including the Internet - and not just rely on
+application or patent documents
+However, with real effort, the
+quality of software patents can
+be improved and those critics who continue to object to the 'new'
+examination and fee-related issues
+can ultimately be consoled.
+Fellow, Queen Mary Intellectual Property Research Institute, University
+[1998] USCAFED 107
+149 F.3d 1368 (Fed.
+cert. denied
+119 S. Ct. 85
+See Kang et al., " A
+practitioner's
+approach to strategic enforcement and analysis of business method
+the post-State Street
+40 Idea 226
+E.g. Raskind, "The State
+Street Bank
+decision: the bad business of unlimited patent protection for methods
+10 Fordham Intell. Prop., Media & Ent. LJ 61
+56 US 62 (1853) - Morse's
+telegraph patent.
+Claim 8 as filed claimed the concept of electronic communications
+as to apparatus; this was, unsurprisingly, rejected.
+[1948] USSC 22
+Claims to a mixture of
+strains of bacteria used in plant inoculation.
+Thus, absent any novelty,
+obviousness or
+utility problems, whilst X-rays were not patentable, a machine for
+taking X-ray
+photographs
+I.e. non-natural, the result
+of human intervention
+- later sonorously described by Congressional Reports accompanying USPA
+under the sun made by the hand of man': see OTA, "Finding a
+balance: computer software, intellectual property and the challenge of
+technological change" US Govt. Printing Office, Washington DC, 1992 at
+I.e. X-rays simply are whilst
+an x-ray machine
+A point examined in
+relation to the JPO and EPO
+rules examined below: for an Australian practitioner's view that the
+Australian, Japanese,
+US and EPO practice on software patenting was,
+essentially, harmonised by mid-1999, see McFarlane, "How to patent
+software" 113 PW
+See Beresford, "Patenting
+software under
+the European Patent Convention", Sweet & Maxwell, London, 2000
+See Appleton, "What is
+2CL&P 82 (1986).
+See von Hellfeld, "Hardware,
+firmware, software"
+Section 101, 1949 Act; this
+imported the traditional phrasing from the Statute of Monopolies
+[1966] RPC 194.
+i.e. under the broad test then
+taking root in the wake of
+NRDC's Appn.
+134 (Aus.).
+See Molyneaux, "A history of
+patenting software related inventions in the United Kingdom" [1996]
+[1970] RPC 36.
+[1970] RPC 91.
+Here, cardboard punchcards.
+[1974] RPC 147.
+I.e. those with advanced
+communications functions.
+Judgment at 158.
+[1980] FSR 564.
+As opposed to 'methods used in
+business', a term which may encompass virtually any invention.
+See, further, for real world
+considerations, Fuelling, "Manufacturing, selling and accounting:
+patenting business methods"
+76 JPTOS 471
+(1994) at p477.
+See n25 above.
+Ibid. at p476; this point was
+by the US Court of Customs and Patent Appeals in
+, 1974), rev'd on other grounds sub nom
+See Jacobs, "Computer
+technology (hardware and software): some legal implications for
+J Comp Tech & L 50 (1970).
+See "To Promote the Useful
+Arts" S. Doc. No. 5, 90th Congress, 1st Sess. (1967).
+See Kayton, "Patent
+protectability of software: background and current law"
+8 Jurimetrics
+The CCPA handled not just
+from inferior courts but also the Boards of Appeal of the USPTO.
+415 F.2d 1378
+415 F.2d 1393
+(1969) (method of spectrographic analysis utilising linear equations
+general purpose digital computer). On rehearing, CCPA
+'computer-as-programmed' machine claims in the application but rejected
+process claims as lacking limitation to machine
+implementation as
+417 F.2d 1395
+(1969) (method
+plotting 3D objects on planar surface utilising transformation
+equations solved
+by general purpose digital computer).
+'Computer-as-programmed' machine
+See, on similar grounds,
+431 F.2d 882 (CCPA
+, 1970) (method of
+signal generation and
+correction) and
+421 F.2d 742 (CCPA
+(method of bit stream
+synchronisation).
+[1972] USSC 223
+441 F.2d 682
+Judgment at 71.
+Judgment at 68.
+Judgment at 71.
+Associates Inc. v Jaslow Dental Laboratory Inc.
+[1986] USCA3 976
+Cf. the first instance
+decision in
+Development Corp. v Paperback Software International
+See Lea, "Software protection
+trends in the 1990s"
+7 Ent. LR 276
+Something, ironically,
+predicted by
+Commissioner Hershey when filing a dissent from the CONTU Report which
+the way for the
+1980 copyright amending legislation.
+20 USPQ 2d 1641
+34 USPQ 2d 1014
+See, for example,
+545 F.2d 141 (CCPA
+, 1974) (apparatus claims for
+graphics display
+upheld) and
+575 F.2d 872 (CCPA
+(machine translation).
+Peterson et al., "Patenting software"
+31 Idea 181
+(1990). Apart from
+the cases listed below, only in
+Dann v Johnston
+[1976] USSC 53
+the Supreme Court encounter an SRI patent; interestingly, it dealt with
+case on grounds of obviousness under s103
+and did not deal with any of
+patentable subject matter arguments in s101.
+See Soma & Smith,
+"Software trends: who's getting what of how many?"
+69 JPTOS 415
+[51]437 US 584.
+Judgment at 595.
+[1981] USSC 40
+See Schmidt,
+"Legal proprietary interests in computer programs: the American
+experience"
+21 Jurimetrics 345
+684 F.2d 912 (CCPA
+converting computer to parallel processing under compiler control; this
+characterised as an active control
+component of program execution
+rather than
+an unpatentable algorithm).
+681 F.2d 787 (CCPA
+of simulating seismic waves by summing signals of conventional waves;
+characterised as a physical conversion
+of summed signals and was,
+therefore, a
+patentable process).
+684 F.2d 902 (CCPA
+method of CAT scanning; mere inclusion of computer program did not
+invention unpatentable).
+688 F.2d 789 (CCPA
+(method and
+machine for storing and comparing medical test results; not applied to
+elements or process steps and,
+therefore, unpatentable).
+[1989] USCAFED 625
+888 F.2d 835 (Fed.
+Cir., 1989)
+(method for automated diagnosis from clinical test results; gathering
+summation of data as disclosed did not amount
+to patentable process).
+Derived cumulatively
+573 F.2d 1237 (CCPA
+In re Walter
+F.2d 758 (CCPA
+In re Abele
+684 F.2d 902 (CCPA
+"Patentability of computer related inventions in the USPTO"
+I.e. in the
+[1989] USCAFED 628
+888 F.2d 1370 (Fed.
+Cir., 1989).
+Permitted by s112,
+958 F.2d 1053
+[1994] USCAFED 665
+33 F.3d 1526
+See, though, for a
+critical view, Stern, "Patenting algorithms: the Gordian Knot
+retwisted" [1995] CTLR 13.
+[1994] USCAFED 373
+22 F.3d 290
+36 F.3d 1376
+Subsequently, some
+amelioration was later gained in an en banc hearing.
+32 F.3d 1579 (1994).
+[1995] USCAFED 610
+53 F.3d 1583
+See Laurenson,
+"Computer software 'article of manufacture' patents"
+77 JPTOS 811
+See Trzyna, "Patent protection
+for computer programs: scientific wisdom of US law turnabout tolls the
+the world" 77 PW 13
+See, for details of the
+changes in policy, Stewart, "Patenting of software - proposed
+and the magic dividing line
+that disappeared"
+77 JPTOS 681
+Gregory et al., "The US Patent Office Guidelines for
+computer-implemented
+inventions"
+[1996] EIPR 56.
+See Section 6.02 below.
+[1888] USSC 69
+Cir., 1908).
+24 USPQ 88 (CCPA
+193 USPQ 645 (CCPA
+See nn. 29 and 47 above.
+218 USPQ 212 (D.
+Del., 1983).
+"Abort, retry, fail: protection for software-related inventions in the
+wake of State Street Bank & Trust Co v Signature
+Group, Inc"
+85 Corn. L R 1118 (2000).
+See Section 5.01 above.
+See Thomas, "An
+epistemology of appropriation: patentable subject matter after State
+[2000] IPQ 27.
+176 F.3d 1352.
+"Patent eligibility in view of State Street and AT&T v Excel
+Communication"
+81 JPTOS 671
+See details of this
+EPO/USPTO/JPO
+consortium at
+http://www.uspto.gov/web/tws/index.html.
+See notes of the Second
+http://www.patent.gov.uk/snews/notices/meeting.html.
+"TRIPS and the exclusion of
+"as such" from patentability" 31 IIC 36 (2000).
+Ibid., p45.
+Ibid., p43.
+See para. 3.3,
+"Promoting innovation through patents: the follow up to the Green
+http://www.europa.eu.int/comm/internal_market/en/intprop/indprop/8682en.pdf.
+See Beresford, op.
+In the case of SRIs,
+for example, the Guidelines stated that claims should be rejected if
+contribution to the known art resided
+solely in a computer program,
+as to how presented in the claims.
+[1987] EPOR 74.
+To trace the progression over
+relatively short time, see Newman, "The patentability of computer
+inventions in Europe"
+[1997] EIPR 701
+, Davies, "Computer program
+claims: the final frontier for software inventions"
+[1998] EIPR 429
+Lakkonen & Whaite, "The EPO simplifies software patenting"
+[1990] OJ EPO 5
+[2000] EPOR 219.
+[1996] EPOR 255.
+[1996] EPOR 1.
+"The patenting of
+[1999] EIPR 607.
+See Harris, "Report on Union
+Round Table at the EPO" CIPA Feb. 1998, p107.
+See Godar, "Who's been
+patenting your business method" 21 BLR 66 (2000) and Dagg, "How to
+recognise when a software innovation or
+method of doing business is
+in Europe: Part I" (1999) 11 JIBFL 477.
+Compare s1(2) PA 1977 to Art.
+and 52(3), EPC.
+See Davis, "Patentability of
+programs" 149(6916) NLJ 1872 (1999).
+A point noted by Blakemore,
+"Patent protection in UK and Europe for computer program related
+inventions" 77 PW 21 (1995).
+[1989] RPC 561
+See Section 5.02.
+See Molyneaux,
+"Patenting software-related inventions in the UK: Part II" [1996]
+CTLR 51 at p53.
+[1991] RPC 305
+Inc's. Appn.
+(apparatus claims to expert system treated as claims to program
+Hitachi Ltd's Appn.
+[1991] RPC 415
+claims to mixed
+vector/scalar program compilation treated as claims to program as
+[1993] RPC 427
+(method and apparatus claims to
+automated ship
+silhouette recognition system treated as claims to scheme, rule or
+mental act) and
+Fujitsu Ltd's Appn.
+[1997] EWCA Civ 1174
+and apparatus for synthetic crystalline CAM unpatentable).
+I.e. the characterisation of
+inventions was too abstract; restricting this would have meant the
+between patentability
+and unpatentability in the
+cases (n. above), in the latter case because the claim that
+the application
+did not relate to a program as such was upheld on appeal.
+this latter
+point was welcomed as an advance by many practitioners: see Chahil,
+"Software patents: has Fujitsu taken us
+any further forward?" 95 PW
+See Blakemore, "The UK Patent
+Office Forum: legal protection for software related invention" 69 PW 39
+(1995): for a more sanguine
+view of slightly later vintage, see
+"The patenting of software in Europe and the UK" 91 PW 14 (1997).
+A point raised by Deputy
+Haselden, "Patents for software: the view from the British Patent
+Office" 105 PW 33 (1998).
+This is dated 19th April 1999
+it is available at
+http://www.patent.gov.uk.
+See, in particular, s60(1).
+& Larson's Appn.
+[1965] RPC 596
+(method and
+apparatus for passenger
+journey tracking).
+Johnsons' Appn.
+(1902) (apparatus for business correspondence).
+See para. 1.21, Patent Office
+Melia's Appn.
+(SRIS O/153/92).
+Law No. 121 of
+13th April 1959 as amended.
+Chapter I, published February
+See Mashima,
+"Examination of
+the interrelationship among Japanese IP protection for software, the
+industry and keiretsu"
+82 JPTOS 50
+The court, in effect, operates
+supervisory jurisdiction over the JPO roughly analogous to the CAFC's
+respect of the USPTO.
+See press announcement for
+http://www.jpo-miti.go.jp.
+See Tennesohn and Yamamoto,
+"Exporting State Street"
+See Rebeiro, "Compton's
+multimedia patent: should the patent system be used to protect
+[1995] CTLR 81.
+See USPTO White Paper,
+"Automated financial or management data processing (business
+methods)" 19th July 2000 at
+http://www.uspto.gov/web/menu/busmethp/index.html.
+53 USPQ 2d 1115 (WD
+Wa., 1999).
+"Another Amazon patent furor" at
+http://www.wirednews.com/news/print/0,1294,34670,00.html
+See, for more on examination
+practices in the US, Frome, "Prosecuting cyberspace patents" (1999)
+http://www.uiowa.edu/~cyberlaw/cls99/sempaper/fitzg331.html
+See, for example, Grover,
+"Software patents - damage limitation" 16 CLSR 39 (2000).
+Print (pretty)
+Print (eco-friendly)
+No downloadable files available
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

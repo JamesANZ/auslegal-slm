@@ -1,0 +1,1819 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/LawTechHum/2025/8.html
+Scraped: 2025-11-17 15:13:12
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Lin, Xi --- "Protecting AI-Generated Images as Works of Fine Art in China: Magnifying the Legacy of Art to Copyright" [2025] LawTechHum 8; (2025) 7(1) Law, Technology and Humans 107
+Protecting AI-Generated Images as Works of
+Fine Art in China: Magnifying the Legacy of Art to Copyright
+Maastricht University, The Netherlands
+Artificial intelligence; work of fine art;
+creation; originality; aesthetics
+1. Introduction
+On 27 November 2023, the Beijing Internet Court
+issued its judgment in
+Li Yunkai v Liu Yuanchun
+marking the first
+judicial decision in China to address copyrightability and authorship of
+AI-generated images. The case centred
+on text-to-image generation, where the
+plaintiff used Stable Diffusion by entering tailored prompts to produce an image
+later appropriated
+by the defendant. The court held that the AI-generated image
+constituted a work of fine art under Chinese copyright law, with authorship
+attributed to the user for their original textual input. This ruling diverges
+from prevailing academic narratives, which often reject
+AI-generated content (AIGC)
+its perceived lack of human creativity. By framing generative AI as a mere tool
+akin to a paintbrush or camera, the judiciary
+sidestepped debates about AI
+autonomy, instead focusing on user agency in shaping outputs.
+This article presents the split between the academic and judicial narratives
+under the background of
+. Based on the judicial narrative, it
+further investigates the legal bases for protecting AI-generated images as works
+of fine art
+in the Chinese copyright system, chiefly the Chinese Copyright
+and its Implementation
+Regulations.
+The investigation found that protecting AI-generated images as works of fine
+art requires copyright to keep up with the development
+of artistic narratives.
+The legal bases in the Chinese copyright system come from a
+lex specialis
+that admits aesthetic effects as originality. The reference to aesthetic effect
+adopts a zero-originality threshold. Additionally,
+in the context of fine art,
+the Chinese copyright system should accept that creating a work of fine art with
+generative AIs begins
+with tweaking the AIs’ initial outputs.
+After this introduction, this article presents an overview of
+and the general narrative about the protectability of AIGC and the assignment of
+their rights. It then examines the validity of its
+holding by first looking into
+the originality requirement to recognise works of fine art. It continues the
+examination by probing
+whether and how directing generative AIs with prompts
+could amount to human creation. Eventually, the article concludes by presenting
+its findings and implications.
+in the Copyright
+Narratives of AIGC
+Overall, the holdings of
+do not fit well in the academic
+narratives of AIGC in copyright. In academic narratives, copyright should not
+protect AIGC and the
+exclusive rights of AIGC should not be vested in users.
+Notwithstanding the collision, the holdings of
+should not be
+dismissed as they represent the judicial narrative of AIGC in Mainland
+2.1 Facts and Holdings of
+Artificial intelligence (AI) systems are known to generate various outputs,
+including literature, images, music, films and software.
+dispute centred exclusively on AI-generated images. The plaintiff utilised
+Stable Diffusion, an open-source generative AI model,
+to produce images through
+text-based prompts. After implementing a third-party fine-tuned model within the
+Stable Diffusion framework,
+the plaintiff input a series of keywords as prompts
+as shown in
+. Prompts used to generate the image in
+The plaintiff devised and entered 20 terms as the initial positive prompt.
+For the negative prompt, he input 120 terms, of which only
+the first was
+original; the remaining 119 were copied from third-party sources. After removing
+duplications, the negative prompt
+contained 75 unique terms. The plaintiff
+generated an initial image using these prompts, then added more keywords to the
+prompt to achieve various effects. He produced the image in dispute,
+after including ten more additional terms in the positive prompt. This image,
+along with others, was uploaded to his social media
+account and labelled with
+tags such as ‘AI’ and ‘AI illustration’.
+. Image in dispute in
+The defendant saw those tags, downloaded the disputed image from the
+plaintiff’s social media account, removed the identifying
+watermark and
+repurposed it as an illustration of his own poem on another platform. The
+plaintiff subsequently filed a lawsuit, alleging
+infringement of his right of
+authorship and right of communication through information network.
+The plaintiff clearly assumed that the image should be a work of fine art
+within the meaning of copyright and that he had created
+the image by entering
+the prompt. The Beijing Internet Court fully supported these assumptions. It
+held that the AI-generated image
+should be a work of fine art within the meaning
+of copyright because the plaintiff created it by entering an original prompt.
+judgment has taken effect in the absence of appeal.
+AIGC in the Academic Narrative of Copyright
+The ruling in
+appears to conflict with prevailing academic
+discourse on copyright protection for AIGC, which generally opposes classifying
+as protectable works or vesting exclusive rights in users. Central to this
+discourse is the principle that copyright law remains
+anthropocentric. If AIGC is produced through autonomous machine processes devoid
+of direct human agency, it should fall
+outside the scope of copyright
+protection, which requires human authorship.
+A work eligible for copyright protection must originate from a human creator.
+This requirement is rooted in anthropocentric philosophical
+foundations, such as
+personality theory. Hegelian philosophy posits that creative works embody the
+externalisation of an author’s
+personality,
+which justifies
+granting moral and economic rights. Early copyright advocacy, exemplified by
+Victor Hugo’s campaign for copyright
+legislation
+and the Berne
+Convention,
+institutionalised
+human race and sustaining the
+livelihood of individual creators. Legal
+frameworks further reflect this anthropocentrism through mechanisms such as
+moral rights,
+posthumous terms of
+all predicated on
+human authorship.
+Another branch of the anthropocentric tone of copyright is the labor theory
+and utilitarianism, represented by the United States.
+Historically, the
+mixture of the labour theory and
+utilitarianism, both relating to
+Property rights are a
+mechanism to administer scarcity, which is the premise for human labour and
+utility exchange. Copyright fulfils
+this task by tying the scarcity of content
+to the scarcity of copies
+authors can garner rewards and have incentives to
+The labour theory and
+utilitarianism are also anthropocentric because they cater to humans’
+needs and wants for incentives.
+Regional legal systems codify the requirement of human creation. The European
+Union, despite sectoral harmonisation of copyright,
+implicitly mandates human
+creation through rulings by the Court of Justice of the European Union (CJEU)
+and most of the member states’
+adherence to personality
+In the United States,
+Naruto v Slater
+(2018) precedent explicitly restricts copyright to
+human authors, as statutory language references heirs such as
+‘children’.
+works attributed to deities require human execution for
+protection.
+Consequently,
+US administrative bodies refuse to register AIGC as
+exclude AIGC from the
+protectable scope of works
+require disclosing the use of AI in the registration of
+AIGC does not fit well into the anthropocentric narrative of copyright. The
+crux of the problem is the overestimation of AI’s
+autonomy. While legal
+scholars often characterise AI content generation as
+‘autonomous’,
+computer scientists
+describe it as
+‘automated’ or ‘automatic’, emphasising human oversight
+in training, prompt engineering and
+output curation. True autonomy would require
+AI to self-define tasks and the fulfilment thereof, which are absent in current
+By conflating
+automation with autonomy, scholars risk misrepresenting AI as a rival to human
+A solution to incorporate AIGC into the anthropocentric narrative of
+Saudi Arabia
+granted full citizenship to a robot equipped with AI, but such practices have
+not been institutionalised.
+Further down this lane, it was proposed that partial personhood could be
+(re)introduced to accommodate AI as an intelligent agent
+to a human principal in
+corporations reflects partial
+personhood, as their personhood is limited to
+certain capacities compared with natural
+analogous to slaves and
+other discriminated-against
+Some legislative endeavours have acknowledged AI’s legal personhood.
+The European Parliament has adopted a resolution to legislate
+personhood of robots so that at least the most sophisticated robots, empowered
+by AI, should have the civil capacity to
+be liable for the damage they
+Compounded by the
+conflation of automation with autonomy, granting AI legal personhood may not be
+sound. The error in programming
+and the negligence in supervising their
+operation may materialise as civil liability or crime. The AIs’ legal
+personhood would
+breed moral hazards for the developers and owners as it would
+shield them from the responsibilities arising from their
+As an alternative to granting legal personhood to AIs, AIGC can be attributed
+to a human creator.
+candidate doctrines are the work-made-for-hire rule and the admission or
+relevance of creation in the recognition of work. The
+US Copyright Review Board
+is against using the work-made-for-hire rule to justify the copyright protection
+of AIGC because it is
+not a human creation, which prevents it from being a work
+and then forecloses the attribution of
+authorship.
+In comparison, attributing AIGC to human
+candidates seems more promising in terms of integrating AIGC into the
+anthropocentric narrative
+of copyright. A realistic evaluation of the level of
+automation of present-day generative AI suggests it is still a tool for humans
+to operate behind, and the right question is whose creation its output should
+the user, the developer or
+The answer to the question of attribution varies depending on the legal
+tradition. Following the personality theory, the creator of
+AIGC should be the
+person who controls the creative process – that is, the conception and
+execution of a creative plan. This
+theory is helpful where it is clear the
+developer or the user demonstrates adequate control over the creative
+However, in many cases
+the developers decide how to formulate the output and the users decide what the
+output should display, such
+as Stable Diffusion in
+. Under such
+circumstances, neither the developer nor the user conceives a complete creative
+plan individually, nor do they communicate
+to jointly develop a complete
+creative plan.
+protecting AIGC as works requires revising the admission of creation or the
+requirement of co-authorship.
+Following utilitarianism, AIGC can be attributed to AI developers or owners
+as their works. The protection of AIGC may take the analogy
+computer-generated work in the United Kingdom, which is also yielded in an
+automated process.
+The author of
+computer-generated work is ‘the person by whom the arrangements necessary
+for the creation of the work are undertaken”
+– usually the
+The attribution of
+authorship is a legal fiction to incentivise the development of information
+technologies. Accordingly, the developer
+and the owner should have a much bigger
+claim than the user because they need incentives to invest in the development of
+In parallel, the attribution of AIGC to the developers and owners may also
+refer to the copyright protection of the footage arising
+from operating early
+video games. The user’s intellectual contribution to the video was
+marginal compared with the programmer’s
+because the program would generate
+the same video regardless of who the user might
+In the interest of
+facilitating the exploitation of and investment in AI, such rights should be
+assigned to the owner of the AI to
+make the exercise of rights
+Since AIGC does not fit well in the anthropocentric narrative of copyright,
+it may well be protected by a
+sui generis
+right or a neighbouring
+This proposition is
+feasible, but not without a problem. AIGC can be the subject matter of a
+right because such right aims to incentivise investments rather than
+creation. In this spirit, if such a right subsists in AIGC,
+it should be awarded
+to the investor in the generative AI.
+Providing AIGC with a
+sui generis
+right can maintain the scarcity of
+consumable cultural goods, or at least keep the abundance of AIGC at bay with
+exclusivity. Copyright-free
+does not warrant that the access is free of charge
+because producing the access to carry out works in the public domain inflicts
+Neighbouring or
+rights have been proven to bring exclusivity to disseminating the
+works in the public domain. Furthermore, the condition to admit
+the subject
+matter of copyright and neighbouring rights is fluid. For example, Japan used to
+protect phonographic recordings as work
+– the subject matter of copyright
+instead of a related right.
+The downside of protecting AIGC with a
+sui generis
+right is that it
+creates a binary standard in protecting human creation and AIGC.
+rights may level the grounds between human creators and AI or AI
+users regarding the competitiveness of producing new
+They do not, however,
+provide an equal footing for human creation and AIGC in determining
+infringement. Generative AI cannot function
+without source material – that
+is, human creation. Using human creations to produce AIGC is more likely to be
+exempted than
+making new human creations due to non-expressive use or the
+exception of text-and-data
+rights are not a panacea for regulating AIGC.
+2.3 AIGC in the
+Judicial Narrative in China
+On the map of the academic narrative of AIGC, Chinese judges adopt the
+narrative that generative AIs are their users’ tools
+for creation. This
+narrative differs from the prevailing academic viewpoint by treating generative
+AI as a tool assisting human creation
+without distinguishing between the
+intellectual contributions of developers and users. Under this approach, AI
+functions as a mere
+tool, akin to a pen or Photoshop, and AIGC should not be
+treated differently from content created with conventional tools.
+The Chinese judicial authority officially announced this narrative at the
+WIPO Conversation on Intellectual Property (IP) and AI in
+On behalf of the Supreme
+People’s Court (SPC), China’s highest judicial
+Senior Judge Zhou Bo
+Gao v Youku
+to demonstrate China’s stance on how copyright
+should accommodate AIGC.
+plaintiffs in this case set off a balloon with a camera attached at a time and
+place of their choice. The camera recorded video
+according to a pre-installed
+program. The dispute concerned whether some frames taken from the recording
+could be protected as works
+of photography. The photos in dispute were slightly
+edited before they were made publicly accessible on the internet. The publicly
+accessible photos were then appropriated by the defendants as they were.
+The significance of
+Gao v Youku
+lies in both its legal rationale and
+its role in shaping regulations concerning generative AI. The trial court and
+appellate court
+differed in their interpretation of the minimal originality
+threshold required for copyright protection. The trial court applied
+‘personal touch’ standard, which requires a work to bear the
+author’s personality or
+individuality.
+It ruled that the
+photographs lacked originality because they were automatically recorded and did
+not reflect the plaintiffs’
+personality over the captured images.
+In contrast, the appellate court adopted a threshold higher than the
+‘sweat of the brow’ doctrine but lower than the ‘personal
+touch’ standard.
+‘sweat of the brow’ doctrine grants copyright based on labour alone,
+without necessitating a distinct personal
+The appellate court
+determined that the photographs met the minimal originality requirement. The
+originality was demonstrated by
+the intellectual labour devoted to their
+creation, which consisted of choosing the time and place, setting the parameters
+camera, and selecting and editing the photos. The reversal thus suggests
+that the minimal originality threshold in Mainland China
+aligns closely with the
+modicum of originality threshold.
+Referring to
+Gao v Youku
+in the context of regulating generative AI,
+however, denotes another significance: the constitution of creation. Creators
+must exercise
+control in the process of creation. The court of appeal rebutted
+the trial court in this regard when commenting on the originality
+of the photos.
+It held that the photos were original instead of random because the plaintiffs
+could repeat the process of setting
+off a balloon and recover the camera until
+they were satisfied with the results. Under this background, the
+plaintiff’s choice
+of time and place, as well as the selection and editing
+of frames, must be interpreted as exercising control. Such control was not
+affected by using an automated tool. Thus, the process of creation extends
+beyond the initial fixation of results; creators make
+choices not only through
+action but also through inaction, such as discontinuing the creative
+The judicial narrative does not seem to consider that the AI developer may
+interrupt the user’s intellectual contribution to
+the output. Ranking
+automation from high to low, the tools for creation can be categorised into
+ordinary tools, fully generative
+tools and partially generative
+The level of automation
+is the developers’ constraints on the users’ intellectual
+contribution to the output. The policy
+to regard AIGC as AI users’
+creation is native to ordinary tools. Ordinary tools rely entirely on their
+user’s creative
+contribution, and their developer’s creative
+contribution is negligible in the resulting
+The camera in
+was a case of an ordinary tool.
+Fully generative tools solely depend on their developer’s creative
+contribution and do not require their users to make creative
+In the academic
+narrative of creation, the output of fully generative AIs should be created by
+the developers. Chinese judges have
+so ruled in
+The defendant
+reposted a news article generated by Dreamwriter, a generative AI developed by
+the plaintiff. Dreamwriter gathered
+statistics from designated websites,
+organised them into sentences and paragraphs, and published the article on the
+plaintiff’s
+Consistent with
+Gao v Youku
+, the court in
+Tencent v Yingxun
+held that the process of creation extends beyond the automatic formulation of
+the content. It held that the article was the plaintiff’s
+because, on the one hand, the AI itself had no autonomy in determining its tasks
+or operation. On the other hand, the plaintiff
+adequately controlled the
+creative process. It directly caused the existence of the article by determining
+that the data input, the
+triggering conditions and templates amounted to the
+direct intellectual activity that caused the existence of the article.
+The holding of
+Tencent v Yingxun
+is compatible with the policy to
+treat AIGC as AI users’ creation.
+Tencent v Yingxun
+where the AI user overlapped with the AI developer. When a fully generative AI
+is leased to a third party, the leasing
+party can become the right holder by
+contractual agreement or based on employment work, similar to the
+work-made-for-hire doctrine
+in the United States.
+Partially generative tools combine their users’ and developers’
+creative contributions and fuse them inseparably in the
+In the academic
+narrative of creation, the output cannot be the individual creation of the AI
+developer or the AI user because no
+one conceives a complete creative plan. Nor
+can it be a joint creation because the developer and the user do not communicate
+a specific effect. Without a creator, the output could not be a human
+creation. The policy to protect AIGC as the AI users’
+creation is not
+compatible with this academic narrative.
+Chinese judges changed their stance on the output of partially generative AI.
+Before the policy of treating AIGC as AI users’
+creation was officially
+announced, they adhered to the academic narrative. In
+the Beijing Internet
+Court held that the output should not be a human creation. In this case, the
+plaintiff generated a report using
+a database and a generative AI service
+provided by Wolters Kluwer. The plaintiff set search and filter terms, then
+verified and corrected
+the statistics before publishing the report online. The
+defendant reuploaded the report, arguing that it was not a human creation,
+denying secondary liability. The court agreed, despite recognising that both the
+plaintiff and Wolters Kluwer had made intellectual
+contributions to the report.
+The same court later rendered
+, which diverged from the academic
+narrative. If the rationale of
+Feilin v Baidu
+were to prevail in
+, the AI-generated image should be a non-creation.
+The judicial narrative that generative AI should be its user’s tool for
+creation is maintained in subsequent disputes. Almost
+a year after
+, the Changshu People’s Court rendered
+Lin v Gauss
+, the second judgment protecting an AI-generated image as a work
+of fine art.
+The plaintiff
+entered textual prompts to generate an initial image with Midjourney, an AI that
+generates images based on text or
+imagery inputs. Finding the AI’s
+adjustments unsatisfactory, he refined the image with Photoshop before using the
+refined image
+as the input to Midjourney to develop the final image, which was
+allegedly infringed.
+The process of creation in
+Lin v Gauss Inflatable
+revealed that
+Midjourney was not a Photoshop-like tool. However, the court held that the AI
+user’s action amounted to creation
+and did not find it necessary to
+distinguish generating output with Midjourney from editing images with
+Photoshop. Even though the
+AI alone could not execute the plaintiff’s
+creative plan, the plaintiff still had other means – that is, Photoshop
+to reinforce the AI’s operation to get the desired result.
+Essentially, the court perceived generative AI as a tool, albeit
+one requiring
+greater efforts to control than Photoshop.
+There is no official explanation for why Chinese judges decided to hold
+generative AI users as the creators of the output. Some factors
+indicative. First, protecting AIGC as work is compatible with social perception.
+A survey has revealed that the reception
+of AIGC is much more positive among
+Chinese subjects than American subjects, both implicitly and
+explicitly.
+Due to the positive
+reception, the public may not feel the need to distinguish AIGC from
+conventional creation. It is possible that
+judges share this sentiment.
+Second, when an AI is partially generative, appointing its users as the
+creators of its output can integrate AIGC into the regulation
+of user-generated
+content (UGC). UGC is the digital content made by internet users, characterised
+by amateurism.
+The feature of
+amateurism distinguishes UGC from professionally generated content (PGC). PGC is
+the digital content made by individuals
+or organisations with professional
+skills, knowledge and expertise in a particular field, such as advertisements
+Compared with UGC, PGC
+is high in quality but costly to produce. In this regard, AIGC combines the
+advantages of both PGCs and UGCs,
+as generative AI improves the quality of
+the non-creation gap left by
+Feilin v Baidu
+, there is always a human
+content user responsible for creating AIGC, and the partially generative tool
+should be treated as if it
+were an ordinary tool. Accordingly, AIGC can be
+regulated as UGC.
+Lastly, protecting AIGC may suit future policies. China is still on the path
+of raising the awareness that IP rights should be protected.
+Denying copyright
+protection to AIGC, especially when they are indistinguishable from
+human-created works, could send a conflicting
+message. If AIGC were deemed
+ineligible for protection, users might withhold information about their reliance
+on AI, leading to uncertainty
+Moreover, as generative AIs develop, users may take on some of the
+developers’ roles in training the corresponding algorithms.
+For example,
+AI personal computers allow users to train and run AIs on local data instead of
+transmitting the request and data to
+Hence, in an optimistic
+light, generative AI may indeed become an ordinary tool for creation in the
+future, just as many ordinary
+tools for creation by contemporary standards, such
+as the camera, were regarded as highly autonomous centuries ago.
+3. Originality Requirement
+The ruling in
+faced criticism for recognising an AI-generated
+image as a work of fine art. The critique comprises two main prongs: (1) the
+should not be considered a human creation; and (2) it should not meet the
+minimal originality threshold. Assuming the image in
+as a human creation, this section examines the applicable minimal originality
+standard and whether the image satisfies
+3.1 Work in General
+As a general observation, the Chinese Copyright Law is a product of legal
+transplant. Mainland China transplanted established copyright
+rules without much
+commitment to the underlying philosophies. The transplanted rules and their
+application in China exhibit a postmodern
+character compared with their source
+unique dynamics
+of IP development in
+than Western legal
+traditions. On the other hand, from a Western perspective, Oriental philosophies
+were incorporated into postmodernism
+as a means of critiquing modernity,
+including the philosophies underlying copyright law.
+The definition of a ‘work’ exemplifies this phenomenon. Following
+the 2020 revision, Chinese copyright law defines a work
+‘intellectual achievement with
+duchuang xing
+in the literary,
+artistic, and scientific domains’ that ‘can be presented in a
+certain form’.
+duchuang xing
+encompasses both the originality requirement and the need
+for human creation. While often translated as ‘originality’,
+literally means ‘the nature of being independently created’. This
+concept aligns with the originality standard in
+US copyright law, which
+recognises works based on independent creation combined with a modicum of
+originality. Therefore, for an
+object to be considered a work under Chinese
+presented in a tangible form.
+Understanding the originality requirement needs to contextualise it with the
+other two requirements. The requirement of human creation
+relates to originality
+because creation is a process, but it does not always lead to originality. It is
+generally accepted that human
+creation imparts originality, but there may also
+be other conditions to admit originality, such as the form of presentation
+the definition of work.
+The requirement that a work be presented in a tangible form is another
+crucial but often overlooked criterion in assessing originality.
+requirement is generally interpreted as a ‘soft’ fixation standard,
+meaning that a work does not need to be permanently
+fixed but must be
+of being fixed to delineate its scope of copyright protection.
+More importantly, the Implementation Regulations define works based
+forms of presentation, particularly in the case of fine art. Consequently, the
+form of presentation can serve as an additional
+source of originality beyond
+human creation.
+The postmodern nature of the Chinese understanding of originality comes from
+weighing between human creation and forms of presentation
+as its source. The
+CJEU clearly revealed that human creation is the only source of originality. It
+that copyright aims to protect the expression of free
+and creative choices – that is,
+originality.
+, it further held that aesthetic effect is not necessarily original
+because it may also arise from technical function rather than
+the author’s
+free and creative choices.
+emphasis that originality must come from the creator’s free and creative
+choices is based on legal traditions established
+before modernity.
+Limiting originality to human creation induces a dilemma between the uniform
+protection of art and the protection of art with established
+and new aesthetic
+tastes. Only admitting the author’s own intellectual creation as
+originality reflects the
+unité de l’art
+theory. In the
+context of copyright, the theory advocates applying the same originality
+threshold to works of applied art and works
+of fine art
+treating them as
+indivisible. However, the
+unité de l’art
+principally a theory of art, which was proposed to advocate that all arts should
+be indivisible in their aesthetic merits,
+but only insofar as they conform to a
+certain taste. Equally importantly, it was advanced as a theory to exclude new
+art and aesthetics
+from the scope of art and denounce such things as
+‘false art’.
+Therefore, limiting the source of originality to human creation could entail an
+exclusion of art based on aesthetic taste.
+Chinese legislators took an aesthetic stance to list the form of presentation
+as a plausible source of originality. Ideally, copyright
+should refrain from
+judging creations based on their artistic
+In practice, however,
+even though lacking aesthetic merit should not be a ground to withhold
+is a factor for granting copyright among
+member states.
+The reason is
+that aesthetic merit demonstrates the uniqueness of creation – the
+creator’s individuated choice –
+which separates the creation from
+the generic or commonplace
+arrangement.
+Recognising the form of presentation as a parallel source of originality has
+its basis in postmodern art and philosophy. The role
+of presentation in defining
+artistic importance is evident in the theories of Jacques Lacan, the French
+psychologist and psychoanalyst
+known for critiquing premodern and modern
+philosophical frameworks, including those underlying copyright law.
+Lacan’s engagement
+with artists led him to conceptualise presentation as
+an act of framing – that is, an effort to impose aesthetic order, commonly
+referred to as
+Conventionally, gazing does not constitute creation as it does not generate
+something new. By acknowledging the form of presentation
+as an alternative
+source of originality, the legal framework becomes more inclusive in its
+recognition of creative works.
+3.2 Works of
+Fine Art in Specific: A Legacy of Artistic Narratives
+The admission of works of fine art is special within the Chinese copyright
+system. The Implementation Regulations define works of
+fine art as:
+two- or three-dimensional works of the plastic arts comprising lines, colors
+or other media which impart aesthetic effect, such as
+paintings, works of
+calligraphy and sculptures.
+This definition is a
+lex specialis
+because it conditions the
+recognition of works of fine art upon aesthetic effect. If we subsume this
+definition into a definition
+of works that states works of fine art are works,
+the aesthetic effects in lines, colours and other media in two or three
+must be taken as the contextualised originality requirement. Such
+reference is a
+lex specialis
+, as it only happens to works of fine art and
+architecture.
+Hence, protecting
+AI-generated images as works of fine art should be distinguished from protecting
+other forms of AIGC in the Chinese
+The reference to aesthetic effect is specific to works of fine art due to the
+development of art theories from modernism to postmodernism.
+Dada and its legacy
+in Lacanian theory opened a gateway to approaching the Chinese view of fine art
+and aesthetics from a Western
+background. Dada, or Dadaism, refers to ‘a
+movement of art and literature based on deliberate irrationality and negation of
+traditional artistic values’ that emerged after the outbreak of World War
+I or ‘the art and literature produced by this
+It is a bridge
+between Eastern and Western art theories because Dada, in its infancy, drew from
+the Daoist concept of change and
+the Buddhist idea of impermanence to criticise
+the pre-modern and modern paradigms of Western art and
+aesthetics.
+Among other things, Dada challenged the Kantian theory of art and aesthetics.
+Immanuel Kant used the term ‘interest’ to
+mean the delight connected
+with the representation of an object’s existence and defined beauty
+– or pure aesthetics –
+as pure disinterested
+Fine art is a scheme in
+the empirical judgement of taste as it evokes charm in addition to the delight
+Therefore, Kantian
+fine art is always an aesthetic order made of symbols representing pleasure.
+Dada rejected the Kantian theory by making or calling pieces that do not
+represent anything ‘art’. A notable example is
+The Fountain
+by Marcel Duchamp, a Dada artist. He made
+The Fountain
+as a sculpture in
+1917 and its 1964 replica is shown in
+Duchamp transformed a
+standard urinal into a sculpture by purchasing the object, signing the pseudonym
+‘R. Mutt’ on it
+and placing it on a pedestal to resemble a
+traditional sculpture. His manipulation aimed to show that aesthetics is
+everywhere in
+daily life.
+defence that the sculpture was aesthetic in the Kantian understanding, he called
+the sculpture ‘the Buddha of the
+. 1964 Replica of
+The Fountain
+The perception of the aesthetic effect of
+The Fountain
+evolved over
+time. Initially, critics condemned the piece as vulgar, a Kantian judgement of
+Decades later, it was
+accepted as a work of sculpture with aesthetics based on visual
+Lacan’s theory
+explains the evolution. In his framework, human cognition consists of three
+orders: the symbolic, the imaginary
+and the real
+emphasised.
+The symbolic has
+supremacy over the imaginary and the real, and the order of the symbolic is the
+mechanism underlying human
+In this sense,
+aesthetics is the result of framing a symbolic order. Duchamp established the
+aesthetic effect with
+The Fountain
+by presenting the urinal as a symbol
+that does not represent anything else.
+Since all effects framed in a piece are aesthetic, referring to aesthetic
+effect as originality denotes that Mainland China operates
+zero-originality threshold to admit works of fine art. The minimal originality
+threshold is generally considered a gatekeeper preventing
+protecting trivial objects. Dropping the minimal originality threshold to zero
+does not risk excessive protection.
+The real issue delineating the scope of
+admission of
+litigation, copyright is usually asserted and presumed because formality is not
+a prerequisite for protection. During litigation,
+judges compare two works to
+see whether they are substantially similar to establish infringement.
+Infringement can be dismissed when
+the similarity arises from the same
+commission requirement, public domain, commonplace arrangement or
+functionality.
+4. Requirement of Human Creation
+This section examines the requirement of human creation in relation to
+protecting AI-generated images as works of fine art. The Chinese
+system includes a
+lex specialis
+that recognises aesthetic effects as a
+criterion for originality in works of fine art. Accordingly, assessing the
+validity of the
+above argument necessitates evaluating whether this
+exempts works of fine art from the human creation requirement
+before examining whether and how text-to-image generation can constitute
+4.1 Authorship
+by Creation
+The definition of works of fine art raises the question of whether the
+requirement of human creation remains relevant to their admission
+Chinese Copyright Law requires that works must have
+duchuang xing
+that is, possessing the nature of being original and created by humans. This
+requirement is stipulated in law and applies
+to all works. In comparison, the
+reference to aesthetic effects as the originality is provided in the
+Implementation Regulations
+subordinate to the Chinese Copyright Law, and it
+applies specifically to works of fine art. Therefore, the reference to aesthetic
+effects only means the originality of a work of fine art may arise from
+aesthetics subsisting in the form of presentation. It does
+not, however,
+eliminate the fundamental requirement of human creation as part of
+Having affirmed that works of fine art must be human creations, the
+investigation should focus on what constitutes human creation.
+In this regard,
+article 2 of the Implementation Regulations defines ‘creation’
+as ‘the intellectual action that
+directly leads to the production of
+literary, artistic and scientific works’. The requirement of directness
+may be satisfied
+by directly conceiving and executing the creative plan because
+they are the two stages comprising of
+Some scholars propose that redaction may be a third stage of creation for
+being a stage to finalise a work as one may change the creative
+subsequently execute the change
+Nevertheless, since the
+formula of conception and execution accommodates revising the creative plan and
+executing the revised creative
+plan, the role of redaction should be understood
+as revising the creative plan and executing the revised plan, rather than
+the process of creation. The decision
+Gao v Youku
+supports this
+interpretation, as the Chinese judiciary recognised redaction as evidence of
+creation on the grounds that finalisation
+demonstrated the existence of a
+conceived and executed creative plan.
+Other scholars postulated authorial intention as a condition for
+In the Chinese
+of works. For example, people with
+severe mental illness can still be the
+authors of their creations, despite being physically and legally incapable of
+forming intentions.
+The relevance of intention is thus limited to creating
+inseparable joint work, which requires creators to communicate and jointly
+develop a specific result.
+Two aspects must be examined to assess the validity of recognising the
+AI-generated image in
+as a human creation: (1) whether the
+rationale presented in the judgment convincingly establishes that the AI
+user’s prompt
+sufficiently defined the expressive elements of the image;
+and (2) how the use of generative AI may satisfy the definition of creation.
+following sections explore these issues in detail.
+Sufficiency by Humans
+, the key argument for protecting the AI-generated image as
+a work of fine art was that the originality in the image came from the
+Therefore, the validity of this holding hinges on whether the prompt adequately
+defined the expressive elements of the image.
+The technology underlying the generative AI determines how direct
+users’ intellectual contributions may determine the expressive
+elements of
+the output.
+featured text-to-image generation, a technology that takes in the user’s
+textual command and delivers imagery results. In this
+content-generation
+mechanism, users directly provide a textual prompt rather than an image. If the
+aesthetic effects in lines, colours
+or other media in two or three dimensions
+hold the originality of works of fine art, then to create a work of fine art,
+directly define such effects.
+In text-to-image generation, the crux of admitting the users’ operation
+of generative AI as creation lies in the sufficiency
+of their prompt
+formulation. It is questionable whether language – written or spoken
+– can formulate expressive visual
+elements because it is more abstract
+than images as a means of expression. The abstract nature of language is
+reflected by the faculty
+enabling linguistic communication. Animals can process
+but processing language
+needs much greater cognitive faculty, which remains exclusively a human
+The abstract nature of language in spoken and written forms makes it
+difficult to define the expressive elements of images with text.
+The challenge
+comes from the idea–expression dichotomy, which limits copyright to
+expressions and forbids it to extend to ‘ideas,
+procedures, methods of
+operation or mathematical concepts as
+The term ‘as
+such’ reveals that ideas become expressions through concrete
+formulation.
+formulation can rarely define imagery expressive elements. The protection of
+fictional characters in the United States provides
+ample examples in this regard
+as they migrate in forms.
+For example, in
+on behalf of the
+Court of Appeals for the Seventh Circuit in the United States, Judge Posner
+elaborated on why copyright should differentiate
+the protection of literary and
+graphic characters as follows:
+A reader of unillustrated fiction completes the work in his mind; the reader
+of a comic book or the viewer of a movie is passive.
+That is why kids lose a lot
+when they don’t read fiction, even when the movies and television that
+they watch are aesthetically
+If the prompts in
+defined all expressive elements, they
+should have produced a result with a reasonable degree of certainty regarding
+the image’s
+appearance. In this regard, AI users are not required to
+define the exact result. For example, creation should be recognised in cases
+making photographs of the views of a
+kaleidoscope
+or setting, and
+placing a camera in the wild that is to be triggered by passing
+Nevertheless, the
+same verbal instruction may correspond to various expressions; settling on a
+particular expression calls for making
+choices, thereby evidencing the existence
+of creation. Subsequently, in a text-to-image generation, an AI user should
+formulate the
+prompt in a sufficiently concrete manner to create a work of fine
+Chinese judges have identified the volume of literary formulation as an
+indicator of concreteness in defining visual expressive elements.
+Jikang v Qujing Cigarette Factory
+, the Yunan High People’s Court had
+to decide whether ‘
+wuduo jinhua
+’ contained
+originality.
+literally means ‘five pieces of golden flowers’, and it figuratively
+means ‘five women with honorable
+characters’. It carries three
+significances in the dispute: the play co-authored by the plaintiff, the title
+of the play and
+the five figures in the play. The plaintiff sought protection of
+the term to exclude the defendant from using the term as a trademark.
+The Yunan High People’s Court held that the play and the characters in
+the context of the play were original because they conveyed
+the authors’
+ideas, emotions, personalities and styles. However, a viewer could not perceive
+originality by reading the short
+title alone. The literary formulation of the
+title did not accumulate to a degree that was sufficiently concrete to admit
+originality.
+Although the Chinese courts have not explicitly outlined how to determine
+whether literary formulation is sufficient to establish
+originality in works of
+fine art, insights can be drawn from jurisprudence in other jurisdictions. For
+example, the German Federal
+Court recognised the literary character Pippi
+Longstocking as a protected work under copyright
+Pippi Longstocking is
+the central character of a series of novels by Astrid Lindgren, which have been
+adapted into graphic and cinematic
+works. The court held that the character
+should be protected as a work independent of the novels because she was
+‘an unmistakable
+combination of external features, characteristics,
+abilities, and typical behaviours, thus being shaped into particularly distinct
+personalities and occurring in the story in a particular characteristic
+court’s reasoning suggests that the literary formulation of a character
+must be extensive to yield graphic expressions,
+as Lindgren devoted a series of
+novels to characterise her.
+By analogy, the formulation of the prompt in
+should not have
+justified holding the AI user as the creator of the AI-generated image. The
+were simply too
+short and too abstract to define the expressive elements of an image.
+Furthermore, most terms were allocated to the
+negative prompt to define what the
+output should not contain. The fact that such terms were mostly copied from
+third parties shows
+that they do not directly cause the expressive elements of a
+particular image. Subsequently, the rationale given in
+not justify holding the generative AI user as the creator of the AI-generated
+4.3 Prompt Sufficiency by Machines: Another
+Legacy of Artistic Narratives
+While prompts alone may not define all expressive elements of an AI-generated
+image, their implementation in the circumstances may
+constitute creation. The
+application of new technology may require reevaluating the process of creation.
+Just as art helps to interpret
+the Chinese originality threshold for works of
+fine art, it may also systematically reveal the meaning of direct causality to
+creation according to the Chinese Copyright Law.
+The major obstacle to recognising that generative AI users directly caused
+the originality of the generated images comes from the
+randomness in the
+AI’s functioning. Randomness implies that a person has diminished control
+in creation, and therefore weakens
+the claim that a user has defined all
+expressive elements.
+unpredictability also contributes to the perception of AI as possessing
+intelligence. For example, AlphaGo Zero randomly predicts
+the next few moves
+based on the existing moves rather than exhaustively predicting all scenarios
+because that is beyond the current
+computational
+Each modal of
+generative AI has its own mechanism to introduce randomness. The following gives
+a very streamlined illustration of
+the mechanism of Stable Diffusion, as it was
+the AI involved in
+Stable Diffusion generates images based on the diffusion model, which
+conceptually reverses the random Brownian motion when drops
+of colour diffuse in
+Stable Diffusion
+starts image generation with a random
+like the diffused
+solution. The tensor is a collection of data noise in latent space, which a user
+cannot see or decipher information
+The user’s prompt
+instructs the modal to predict what the noise should
+The noise predicted is
+subtracted layer-by-layer from the
+The cycle of
+predicting and removing noise from the tensor stops when the schedule reaches
+the user’s request.
+Eventually, the decoder translates the remaining data of the tensor from the
+latent space to an image in the foreground the user
+In the artistic practice, methodological randomness does not prejudice an
+artist’s conception and execution of a creative plan.
+A touchstone in this
+regard is Jackson Pollock’s painting
+One: Number 31
+Pollock was an
+American painter in the school of Abstract Expressionism. He was known for his
+‘action painting’, dripping
+and splattering paint onto the canvas,
+as embodied in
+One: Number
+The random quality is
+the very reason why it is a masterpiece and a recurring theme in copyright.
+One: Number
+Randomness is a part of Pollock’s painting methodology. According to
+Pollock, when he started creation, he only had a general
+idea of how the result
+would turn out.
+He could not
+envision where exactly a drop of paint would land on the canvas, although he
+chose paints in certain colors and of particular
+consistency. Furthermore, it is
+also questionable whether he could repeat the moves he made to create
+The randomness was inherent in his creative plan because, to him, the canvas
+is an arena where actions happen, and the paintings are
+only the records of
+those events.
+Accordingly, by
+planning how to act, Pollock defined the expressive elements of
+One: Number
+. The randomness that should prevent him from being recognised as the
+creator should rather be accidents such as unexpected forces
+If those events
+should happen, Pollock could reclaim the creative plan by undoing the traces of
+those events.
+The randomness in Pollock’s methodology is comparable to the
+functioning of generative AI. Using generative AI to derive images
+essentially
+uses Pollock’s methodology of action painting to produce a less
+avant-garde result. When users choose a generative
+AI or a model to generate
+images, they settle on the methodology to incorporate unknown randomness into
+creation, like Pollock. The
+correlation between text and image integrated into
+the automation of generative AI is a symbolic order. In Lacan’s cognitive
+theory, the symbolic order is the unconscious beyond
+individuals.
+randomness is an external factor to each individual self, the automation should
+not prejudice the conception of a creative
+The conception and execution of the user’s creative plan begins by
+tweaking the AI’s initial outputs. When users enter
+the initial prompts,
+they put forward a general idea of what to present and how to present that is
+not concrete enough to conceive
+a creative plan because the initial prompts
+could not define all expressive elements. Since the users cannot conceive a
+plan with the initial prompts, the initial output cannot be the
+execution of a creative plan.
+Regarding Stable Diffusion, the generative AI in
+initial prompt could give rise to multiple results depending on the random
+tensors in the latent space. Accordingly, the
+initial prompt particularises the
+latent space. Analogous to action painting, the AI’s response to the
+initial prompts helps
+the user discover a canvas to record creative actions that
+are about to happen. The conception and execution of the user’s
+plan should commence from the tweaking of the initial output. The tweaking of
+the initial output should justify the creation
+of the entire outcome, just as
+redaction justifies recognising the creation of the
+Users must document the effectiveness of tweaking. Documenting the tweaking
+ensures that users are directly responsible for all expressive
+elements in the
+output. Analogous to Pollock’s creation of
+One: Number 31
+redaction should be comparable to Pollock determining whether the effect of an
+accident or his movement should be undone or
+kept due to improving the creative
+plan he conceived. Nevertheless, if the documentation shows too much tweaking,
+it may well indicate
+that the user did not know how to control the AI to execute
+the creative plan, so had to make up with chances.
+5. Conclusion
+in Mainland China is a case where new technology magnifies
+the artistic legacies to copyright. It held, among other things, that
+of a partially generative AI should be the creator of the image arising from the
+generative AI’s operation due to
+the originality of the prompt. This
+holding marked that the judicial narrative diverges from the academic narratives
+in Mainland
+China that AIGC should not be works because they do not contain
+originality or they are not human creations.
+The Chinese judiciary adopts the policy that generative AIs are ordinary
+tools for creation. Without challenging this policy, this
+article demonstrates
+that the Chinese copyright system provides a legal foundation for recognising
+AI-generated images as works of
+fine art, although on different grounds than
+those presented
+in Li v Liu.
+Regarding the originality requirement, the definitions of works and works of
+fine art point to the holding that the originality of
+works of fine art includes
+aesthetic effects. The
+lex specialis
+referring to aesthetic effects as
+originality maintains a zero-originality threshold in view of the influence of
+Dadaism. Regarding
+the human creation requirement, the randomness in the process
+of image generation is analogous to the creation of Abstract Expressionist
+artwork. Subsequently, users’ operation of generative AI can amount to
+creation by effectively tweaking the initial output
+The connection between artistic theories and the legal justification for
+protecting AI-generated images as works of fine art should
+preclude the blanket
+extension of copyright protection to all forms of AIGC. The assessment of
+originality and authorship should
+be made according to the specific
+characteristics of each category of AIGC. Consequently, China’s approach
+to copyright protection
+for AIGC is likely to evolve into a framework that
+applies differentiated treatment based on the distinct nature of various types
+Acknowledgement
+This research was funded by the China Scholarship Council
+(CSC201607070121).
+Bibliography
+Primary Sources
+Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS
+Agreement). Apr. 15,
+1994. 1869 U.N.T.S. 299.
+Beijing Feilin Lüshi Shiwusuo Su Beijing Baidu Wangxun Keji Youxian
+(北京菲林律师事务所诉北京百度网讯科技有限公司)
+Beijing Feilin Lawfirm v. Beijing Baidu Netcom Sci & Tech Co, Ltd
+(Beijing Internet Ct. Apr. 26, 2019
+北京互联网法院（2018）京0491民初239号).
+Berne Convention for the Protection of Literary and Artistic Works [Paris Act
+of July 24, 1971, as amended on Sept. 29, 1979].
+https://www.wipo.int/wipolex/en/text/283693
+Bleistein v Donaldson Lithographing Co,
+[1903] USSC 41
+Bundesgerichtshof [BGH] [Federal Court of Justice]. July 17, 2013.
+“Urheberrechtsschutz für literarische Figur –
+Pippi-Langstrumpf-Kostüm.” I ZR 52/12.
+258 (2014).
+Case C-683/17.
+Cofemel – Sociedade de Vestuário SA v G-Star
+. ECLI:EU:C:2019:721 (Sept. 12, 2019).
+Case C‑833/18.
+SI and Brompton Bicycle Ltd v Chedech/Get2Get
+ECLI:EU:C:2020:461 (June 11, 2020).
+Chen Xingbiao Su Shenzhen Feima Jiqiren Keji Youxian Gongsi
+(陈行彪与深圳飞马机器人科技有限公司)
+Chen Xingbiao v Shenzhen Feima Robotics Co, Ltd
+] (People’s Ct of
+Nanshan District of Shenzhen, Guangdong Province Sept. 11, 2018
+广州省深圳市南山区人民法院（2017）粤0305民初6528-6538号).
+Gaiman v McFarlane
+[2004] USCA7 153
+360 F.3d 644
+Gao Yang Su Youku Xinxi Jishu (Beijing) Youxian Gongsi, Beijing Momo Keji
+Youxian Gongsi Deng 4 Ren
+(高阳诉优酷信息技术（北京）有限公司、北京陌陌科技有限公司等4人)
+ao Yang v Youku Info Tech (Beijing) Co, Ltd, Beijing Momo Sci & Tech
+Co, Ltd, and 2 Others
+] (Beijing Intellectual Prop. Ct. Apr. 2, 2020
+北京知识产权法院（2017）京73民终797号).
+Li Yunkai Su Liu Yuanchun
+(李昀锴诉刘元春) [
+Li Yunkai v Liu
+] (Beijing Internet Ct. Nov. 27, 2023
+北京互联网法院（2023）京0491民初11279号).
+Lin Chen Su Hangzhou Gaosi Qimo Jishu Youxian Gongsi, Changshu Shi Qinhong
+Fangdichan Kaifa Youxian Gongsi
+(林晨诉杭州高斯气膜技术有限公司、常熟市琴宏房地产开发有限公司)
+Lin Chen v Hangzhou Gauss Inflatable Tech. Co Ltd, and Changshu Qinhong Real
+Est Dev Co, Ltd
+] (Changshu People’s Ct. Oct. 18, 2024
+常熟市人民法院（2024）苏0581民初6697号).
+Naruto v Slater
+888 F.3d 418
+Penguin Books USA Inc v New Christian Church of Full Endeavor Ltd
+96 CIV. 4126(RWS) 2000 WL 1028634 (S.D.N.Y. 2000).
+Resolution of 16 February with Recommendations to the Commission on Civil Law
+Rules on Robotics No. 2015/2103(INL).
+https://www.europarl.europa.eu/doceo/document/TA-8-2017-0051_EN.html
+Shenzhen Shi Tengxun Jisuanji Xitong Youxian Gongsi Su Shanghai Yingxun
+Keji Gufen Youxian Gonsi
+(深圳市腾讯计算机系统有限公司诉上海盈讯科技股份有限公司)
+Shenzhen Tencent Comput Sys Co, Ltd v Shanghai Yingxun Sci & Tech Co,
+] (People’s Ct Nanshan District of Shenzhen Dec. 24, 2019
+深圳市南山区人民法院（2019）粤0305民初14010号).
+Thaler v Perlmutter
+687 F.Supp.3d 140
+US Copyright Board. Zarya of the Dawn (Feb. 21, 2023).
+US Copyright Office. Copyright Registration Guidance: Works Containing
+Material Generated by Artificial Intelligence. 88 Federal Register
+US Copyright Review Board. Second Request for Reconsideration for Refusal to
+Register a Recent Entrance to Paradise (Feb. 14, 2022).
+Zhao Jikang Su Qujing Juanyan Chang
+(赵继康诉曲靖卷烟厂)
+Zhao Jikang v Qujing Cigarette Factory
+] (Yunnan High People’s Ct.
+Sept. 26, 2003
+云南省高级人民法院（2003）云高民三终字第16号).
+Zhuzuoquan Fa (著作权法) [Copyright Law of China]
+(promulgated by the Standing Comm. Nat’l People’s
+Cong., effective
+June 1, 1991; amended by the Standing Comm. Nat’l People’s
+Congress., Nov. 11, 2020, effective June
+1, 2021) 2021 Gazette of the Standing
+Committee of the National People’s Congress of the People’s Republic
+of China 9.
+Zhuzuoquan Fa Shishi Tiaoli
+(著作权法实施条例) [Regulations
+for the Implementation
+of the Chinese Copyright Law] (promulgated by St.
+Council, Aug. 2, 2002, effective Sept. 15, 2002; rev’d by the St. Council,
+Jan. 30, 2013) 2013(6) Gazette of the State Council 9.
+Secondary Sources
+Apollinaire, Guillaume. “Le cas de Richard Mutt.”
+128 (1918): 764.
+https://gallica.bnf.fr/ark:/12148/bpt6k201820t/f194.item
+. “Saudi Arabia Becomes First Country to Grant
+Citizenship to a Robot.” (2017).
+https://www.arabnews.com/node/1183166/saudi-arabia
+. “Top Ten Artnews Stories: ‘Not a Picture but an
+Event’.” (2007).
+https://www.artnews.com/artnews/news/top-ten-artnews-stories-not-a-picture-but-an-event-181
+Barron, Anne. “Copyright Law and the Claims of Art.”
+Intellectual Property Quarterly
+http://dx.doi.org/10.2139/ssrn.346361
+Bonadio, Enrico, Plamen Dinev, and Luke McDonagh. “Can Artificial
+Intelligence Infringe Copyright? Some Reflections.”
+Handbook on Intellectual Property and Artificial Intelligence
+, edited by
+Ryan Abbott, 245–257: Edward Elgar, 2022.
+Bridy, Annemarie. “The Evolution of Authorship: Work Made by
+Columbia Journal of Law and the Arts
+https://doi.org/10.7916/jla.v39i3.2078
+Buccafusco, Christopher. “A Theory of Copyright Authorship.”
+Virginia Law Review
+102 (2016): 1229–1295.
+Burk, Dan. “Thirty-Six Views of Copyright Authorship, by Jackson
+Houston Law Review
+58, no 2 (2020): 263–326.
+https://escholarship.org/uc/item/9tb4h53n
+Cabral, Gonçalo. “Artificial Intelligence and the Protection of
+Literary and Artistic Works.” In
+Intellectual Property Law and the
+Fourth Industrial Revolution
+, edited by Christopher Heath, Anselm
+Kamperman-Sanders and Anke Moerland, 107–26. The Hague: Kluwer Law,
+Cao, Yihan, Siyu Li, Yixin Liu, Zhiling Yan, Yutong Dai, Philip S. Yu, and
+Lichao Sun. “A Comprehensive Survey of AI-Generated
+Content (AIGC): A
+History of Generative AI from Gan to ChatGPT.”
+Journal of the ACM
+37, no 4 (2018): 111:1–11:44.
+https://doi.org/10.48550/arXiv.2303.04226
+Cetinic, Eva, and James She. “Understanding and Creating Art with AI:
+Review and Outlook.”
+ACM Transactions on Multimedia Computing,
+Communications, and Applications
+18, no 2 (2022): 66:1–66:22.
+https://doi.org/10.48550/arXiv.2102.09109
+Chatterjee, Mala. “Lockean Copyright Versus Lockean Property.”
+Journal of Legal Analysis
+12 (2020): 136–182.
+https://dx.doi.org/10.1093/jla/laaa002
+Chused, Richard H. “Randomness, AI Art, and Copyright.”
+Cardozo Arts and Entertainment Law Journal
+40, no 3 (2023):
+621–656. Cohen, Amy B. “Copyright Law and the Myth of Objectivity:
+The Idea–Expression Dichotomy
+and the Inevitability of Artistic Value
+Judgments.”
+Indiana Law Journal
+66, no 1 (1990): 175–232.
+de Lacaze-Duthiers, Gérard.
+. Paris: FeniXX réédition numérique,
+Dornis, Tim W. “Of ‘Authorless Works’ and ‘Inventions
+Without Inventor’: The Muddy Waters of ‘AI
+Autonomy’ in
+Intellectual Property Doctrine.”
+European Intellectual Property
+43, no 9 (2021): 570–585.
+Dreier, Thomas and Gernot Schulze.
+Urheberrechtsgesetz
+. [Copyright
+Law]. 7th ed. Munich: C.H. Beck, 2022.
+Dusollier, Séverine.
+Scoping Study on Copyright and Related Rights
+and the Public Domain.
+https://www.wipo.int/edocs/mdocs/mdocs/en/cdip_4/cdip_4_3_rev_study_inf_1.pdf
+Faraci, David. “Do Property Rights Presuppose Scarcity?”.
+Journal of Business Ethics
+125, no 3 (2014): 531–537.
+https://doi.org/10.1007/s10551-013-1866-0
+Fritz, Johannes. “The Notion of ‘Authorship’ Under EU Law:
+Who Can Be an Author and What Makes One an Author? An
+Analysis of the
+Legislative Framework and Case Law.”
+Journal of Intellectual Property
+Law and Practice
+19, no 7 (2024): 552–556.
+https://doi.org/10.1093/jiplp/jpae022
+Gervais, Daniel. “The Machine as Author.”
+Iowa Law Review
+105, no 5 (2020): 2053–2106.
+Ginsburg, Jane C. “The Concept of Authorship in Comparative Copyright
+DePaul Law Review
+52, no 4 (2003): 1063–1092.
+Ginsburg, Jane C., and Luke Ali Budiardjo. “Authors and
+Berkeley Technology Law Journal
+https://doi.org/10.15779/Z38SF2MC24
+Grimmelmann, James. “There’s No Such Thing as a Computer-Authored
+Work and It’s a Good Thing, Too.”
+Columbia Journal of Law and the
+39, no 3 (2016): 403–416.
+https://doi.org/10.31228/osf.io/rk8cm
+Güven, Koray. “Eliminating ‘Aesthetics’ from Copyright
+Law: The Aftermath of Cofemel.”
+GRUR International
+71, no 3 (2021):
+https://doi.org/10.1093/grurint/ikab113
+Hauser, Marc D., Noam Chomsky, and W. Tecumseh Fitch. “The Faculty of
+298, no 5598 (2002): 1569–1579.
+https://doi.org/10.1126/science.298.5598.1569
+He, Tianxiang. “The Sentimental Fools and the Fictitious Authors:
+Rethinking the Copyright Issues of AI-Generated Contents in
+Asia Pacific Law Review
+27, no 2 (2019): 218–238.
+https://doi.org/10.1080/10192557.2019.1703520
+Heath, Christopher. “All Her Troubles Seemed So Far Away:
+Before the WTO.”
+European Intellectual Property Review
+18, no 12 (1996): 677–680.
+Hegel, Georg W.F.
+Philosophy of Rights
+. Oxford: Clarendon Press, 1902
+Hristov, Kalin. “Artificial Intelligence and the Copyright
+IDEA: The Journal of the Franklin Pierce Center for
+Intellectual Property
+57, no 3 (2017): 431–454.
+Hugenholtz, P. Bernt, and João Pedro Quintais. “Copyright and
+Artificial Creation: Does EU Copyright Law Protect AI-Assisted
+52, no 9 (2021): 1190–1216.
+https://doi.org/10.1007/s40319-021-01115-0
+Hugo, Victor. “Discours de M. Victor Hugo (Séance solennelle
+d’ouverture du 17 juin).” In
+Annales de la
+propriété industrielle artistique et littéraire: Journal de
+legislation, doctrine et jurisprudence
+françaises et etrangeres
+edited by Jules Pataille, 13–18. Paris: Rédaction, 1880.
+Intel. “What is an AI PC? What Will Your PC Look Like When It’s
+Infused with AI? And What is the Intel Advantage?”
+https://www.intel.com/content/www/us/en/newsroom/news/what-is-an-ai-pc.html#gs.h7wgr7
+Jackendoff, Ray, and Steven Pinker. “The Nature of the Language Faculty
+and Its Implications for Evolution of Language (Reply
+to Fitch, Hauser, and
+97, no 2 (2005): 211–225.
+https://doi.org/10.1016/j.cognition.2005.04.006
+Kant, Immanuel, and Nicholas Walker.
+Critique of Judgement
+Oxford University Press, 2007.
+Kur, Annette. “Unité de l’art Is Here to Stay: Cofemel and
+Its Consequences.”
+15, no 4 (2020): 290–300.
+https://doi.org/10.1093/jiplp/jpaa035
+Kurki, Visa A.J. “The Legal Personhood of Artificial
+Intelligences.” In
+A Theory of Legal Personhood
+Oxford: Oxford University Press, 2019.
+Kurki, Visa A.J.
+Legal Personhood
+. Cambridge: Cambridge University
+Press, 2023.
+Lacan, Jacques.
+. Paris: Seuil, 1966.
+Lacan, Jacques.
+Le séminaire: Livre XI
+. Paris: Seuil, 1973.
+Lee, Jyh-an. “Computer-Generated Works Under the CDPA 1988.” In
+Artificial Intelligence and Intellectual Property
+, edited by Jyh-an Lee,
+Reto M. Hilty and Kung-Chung Liu, 177–195. Oxford: Oxford University
+Press, 2021.
+Lochmann, Erin M. “The Art of Nothingness: Dada, Taoism and Zen.”
+Journal of European Studies
+48, no 1 (2018): 20–36.
+https://doi.org/10.1177/0047244117745434
+Lu, Bingbin. “A Theory of ‘Authorship Transfer’ and Its
+Application to the Context of Artificial Intelligence Creations.”
+Mary Journal of Intellectual Property
+11, no 1 (2021): 2–24.
+https://doi.org/10.4337/qmjip.2021.01.01
+Masouyé, Claude.
+Guide to the Berne Convention for the Protection
+of Literary and Artistic Works (Paris Act, 1971)
+. Geneva: World Intellectual
+Property Organization, 1978.
+Merriam-Webster.com Dictionary
+, s.v. “Dadaism, “ 2024.
+https://www.merriam-webster.com/dictionary/Dadaism
+Militsyna, Kateryna. “Human Creative Contribution to AI-Based Output:
+One Just Can(’t) Get Enough.”
+GRUR International
+(2023): 939–949.
+https://doi.org/10.1093/grurint/ikad075
+Mitchell, Melanie.
+Artificial Intelligence: A Guide for Thinking
+. Harmondsworth: Penguin, 2019.
+Motoarca, Ioan-Radu. “Farewell to Nichols: Property Ascription and
+Fictional Character Copyright.”
+Queen Mary Journal of Intellectual
+12, no 1 (2022): 26–46.
+https://doi.org/10.4337/qmjip.2022.01.02
+Measuring User-Created Content: Implications for the ICT Access and
+Use by Households and Individuals Surveys
+. Geneva: OECD, 2008.
+Ramalho, Ana. “Will Robots Rule the (Artistic) World? A Proposed Model
+for the Legal Status of Creations by Artificial Intelligence
+Journal of Internet Law
+21, no 1 (2017): 1, 12–25.
+http://dx.doi.org/10.2139/ssrn.2987757
+Richter, Hans.
+Dada: Art and Anti-Art
+. London: Thames & Hudson,
+1997 [1964].
+Ricketson, Sam. “The Birth of the Berne Convention.”
+Columbia-VLA Journal of Law and the Arts
+11, no 1 (1986): 9–32.
+Ross, Clifford, ed.
+Abstract Expressionism: Creators and Critics
+York: Abrahams, 1990.
+Sag, Matthew. “Copyright and Copy-Reliant Technology.”
+Northwestern University Law Review
+103, no 4 (2009): 1607–1682.
+Samuelson, Pamela. “Allocating Ownership Rights in Computer-Generated
+University of Pittsburgh Law Review
+Scheuerer, Stefan. “Artificial Intelligence and Unfair Competition:
+Unveiling an Underestimated Building Block of the AI Regulation
+Landscape.”
+GRUR International
+70, no 9 (2021): 834–845.
+https://doi.org/10.1093/grurint/ikab021
+Schirmer, Jan-Erik. “Artificial Intelligence and Legal Personality:
+Introducing ‘Teilrechtsfähigkeit’: A Partial
+Legal Status Made
+in Germany.” In
+Regulating Artificial Intelligence
+Dordrecht: Springer, 2020.
+Škiljić, Alina. “When Art Meets Technology or Vice Versa: Key
+Challenges at the Crossroads of AI-Generated Artworks
+and Copyright Law.”
+52, no 10 (2021): 1338–1369.
+https://doi.org/10.1007/s40319-021-01119-w
+Stable Diffusion Art. “How Does Stable Diffusion Work?” (2024).
+https://stable-diffusion-art.com/how-stable-diffusion-work
+Stamatoudi, Irini A.
+. Cambridge: Cambridge University Press, 2002.
+Tajima, Yoko, César D. M. Vargas, Keiichi Ito, Wei Wang, Ji-Dung Luo,
+Jiawei Xing, Nurdan Kuru, et al. “A Humanized Nova1
+Splicing Factor Alters
+Mouse Vocal Communications.”
+Nature Communications
+16, no 1 (2025):
+https://doi.org/10.1038/s41467-025-56579-2
+Tréguier, Lucie, and William Van Caenegem. “Copyright, Art and
+Originality: Comparative and Policy Issues.”
+Global Journal of
+Comparative Law
+8, no 2 (2019): 95–127.
+https://doi.org/10.1163/2211906x-00802001
+van Gompel, Stef, and Erlend Lavik. “Quality, Merit, Aesthetics and
+Purpose: An Inquiry into EU Copyright Law’s Eschewal
+of Other Criteria
+Than Originality.”
+Revue Internationale du Droit d’Auteur
+, no 236 (2013): 100–295.
+https://ssrn.com/abstract=2326425
+Wu, Jiayang, Wensheng Gan, Zefeng Chen, Shicheng Wan, and Hong Lin.
+“AI-Generated Content (AIGC): A Survey.” Preprint.
+https://doi.org/10.48550/arXiv.2304.06632
+Wu, Yuheng, Yi Mou, Zhipeng Li, and Kun Xu. “Investigating American and
+Chinese Subjects’ Explicit and Implicit Perceptions
+of AI-Generated
+Artistic Work.”
+Computers in Human Behavior
+104 (2020): 1–11.
+https://doi.org/10.1016/j.chb.2019.106186
+Xu, Minrui, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao,
+Zhu Han et al. “Unleashing the Power of Edge-Cloud
+Generative AI in Mobile
+Networks: A Survey of AIGC Services.” Preprint.
+https://doi.org/10.48550/arXiv.2303.16129
+Yu, Peter K. “Intellectual Property, Asian Philosophy and the Yin-Yang
+The WIPO Journal
+7, no 1 (2015): 1–15.
+Zhichanli 知产力. “‘AI wen sheng tu’
+zhuzuoquan an yishen shengxiao”
+“AI文生图”著作权案一审生效
+[Trial judgment of “text-to-image AI generation” has taken effect]
+https://www.zhichanli.com/newsflashes/876526925
+Zhou Bo. “Artificial Intelligence and Copyright Protection: Judicial
+Practice in Chinese Courts.” WIPO Conversation on
+Intellectual Property
+(IP) and Artificial Intelligence (AI), 2020.
+Li Yunkai Su Liu
+(李昀锴诉刘元春) [
+Yunkai v Liu Yuanchun
+] (Beijing Internet Ct. Nov. 27, 2023
+北京互联网法院（2023）京0491民初11279号).
+AIGC refers to the contents
+arising from using generative AI upon a user’s instruction; Cao, “A
+Comprehensive Survey,”
+Chinese Copyright Law (2020).
+Regulations for the
+Implementation of the Chinese Copyright Law.
+知产力, “‘AI wen sheng tu’ zhuzuoquan an
+yishen shengxiao.”
+Hegel, Philosophy of Rights,
+Hugo, “Discours de M.
+Victor Hugo,” 15.
+Ricketson, “The Birth of
+the Berne Convention,” 18–20.
+Berne Convention, art.
+Berne Convention, art.
+Berne Convention, art.
+Chatterjee, “Lockean
+Faraci, “Do Property
+Rights Presuppose Scarcity?,” 533; Sag, “Copyright and Copy-Reliant
+Technology,” 1614.
+Cabral, “Artificial
+Intelligence,” 119.
+Fritz, “The Notion of
+‘Authorship’,” 553–555.
+Naruto v Slater
+, 426 (2018).
+Penguin Books USA Inc v
+New Christian Church of Full Endeavor Ltd
+, No. 96 CIV. 4126(RWS), 2000 WL
+1028634, *11 (S.D.N.Y. 2000); Bridy, “The Evolution of Authorship,”
+Second Request for
+Reconsideration for Refusal to Register A Recent Entrance to Paradise;
+v Perlmutter
+687 F.Supp.3d 140
+, 148–149 (2023).
+US Copyright Board, Zarya of
+Militsyna, “Human
+Creative Contribution Enough,” 939–940; Dornis, “Of
+‘Authorless Works’,”
+Xu, “Unleashing the
+Power,” 6–7; Wu, “Investigating American and Chinese
+Subjects’ Explicit and Implicit
+Perceptions,” 3.
+“Understanding and Creating Art,” 66:13; Bridy, “The Evolution
+of Authorship,” 396–397.
+See Gervais, “The
+Machine as Author,” 2098.
+Scheuerer, “Artificial
+Intelligence and Unfair Competition,” 837–838.
+Cuthbert, “Saudi
+Arabia Becomes First Country.”
+Schirmer, “Artificial
+Intelligence and Legal Personality,” 134.
+Schirmer, “Artificial
+Intelligence and Legal Personality,” 134; Kurki, Legal Personhood, 1.
+Resolution of 16 February
+with recommendations to the Commission on Civil Law Rules on Robotics No.
+2015/2103(INL), at 59(f).
+Kurki, “The Legal
+Personhood,” 188–189.
+“When Art Meets Technology,” 1348–1349.
+Second Request for
+Reconsideration for Refusal to Register A Recent Entrance to Paradise,
+Ginsburg, “Authors and
+Machines,” 392.
+Lu, “A Theory of
+‘Authorship Transfer’,” 12–13; Grimmelmann,
+“There’s No Such Thing,”
+Ginsburg, “Authors and
+Machines,” 415–416.
+“Computer-Generated Works,” 189.
+Patents Act
+c. 48 Section 9(3).
+See Hristov,
+“Artificial Intelligence,” 443–444.
+See Samuelson,
+“Allocating Ownership Rights,” 1205–1207.
+See Ginsburg, “The
+Concept of Authorship,” 1088–1089.
+See Ramalho, “Will
+Robots Rule?,” 20–21.
+See Dusollier, Scoping Study
+on Copyright, 8–9.
+Heath, “All Her
+Troubles,” 678.
+See He, “The
+Sentimental Fools,” 218.
+Bonadio, “Can
+Artificial Intelligence Infringe Copyright?,” 248–249.
+See Zhou Bo, Artificial
+Intelligence and Copyright Protection.
+Mainland China maintains a
+unitary judicial system. The SPC is the highest judicial authority. It oversees
+the practices of people’s
+courts and the specialised courts. The
+people’s courts exercise territorial jurisdiction. They are further
+divided into high
+people’s courts, intermediate people’s courts and
+basic people’s courts from high to low in the judicial hierarchy.
+specialised courts have jurisdiction over subject matter such as intellectual
+property rights, maritime disputes, finance, railway
+transport and martial law.
+Relevant to intellectual property rights, the Beijing Internet Court that
+belongs to the basic people’s courts in the
+branch of people’s courts. Intellectual property courts in the branch of
+specialised courts are on par with intermediate people’s courts in the
+judicial hierarchy.
+Gao Yang Su Youku Xinxi
+Jishu (Beijing) Youxian Gongsi, Beijing Momo Keji Youxian Gongsi Deng 4 Ren
+(高阳诉优酷信息技术（北京）有限公司、北京陌陌科技有限公司等4人)
+Gao Yang v Youku Info Tech (Beijing) Co Ltd
+Beijing Momo Sci &
+Tech Co Ltd, and 2 Others
+] (Beijing Intellectual Prop. Ct. Apr. 2, 2020
+北京知识产权法院（2017）京73民终797号).
+See Dreier,
+Urheberrechtsgesetz, § 2 UrhG, Rn. 18.
+See He, “The
+Sentimental Fools,” 223.
+See Stamatoudi, Copyright
+and Multimedia Product, 56.
+See Ginsburg, “Authors
+and Machines,” 392.
+See Ginsburg, “Authors
+and Machines,” 405.
+See Ginsburg, “Authors
+and Machines,” 405.
+Shenzhen Shi Tengxun
+Jisuanji Xitong Youxian Gongsi Su Shanghai Yingxun Keji Gufen Youxian Gonsi
+(深圳市腾讯计算机系统有限公司诉上海盈讯科技股份有限公司)
+[Shenzhen Tencent Comput. Sys. Co., Ltd. v. Shanghai Yingxun Sci. & Tech.
+Co., Ltd.] (People’s Ct. Nanshan District of
+Shenzhen Dec. 24, 2019
+深圳市南山区人民法院（2019）粤0305民初14010号).
+See Ginsburg, “Authors
+and Machines,” 405.
+Beijing Feilin
+Lüshi Shiwusuo Su Beijing Baidu Wangxun Keji Youxian Gongsi
+(北京菲林律师事务所诉北京百度网讯科技有限公司)
+Beijing Feilin Lawfirm v Beijing Baidu Netcom Sci & Tech Co, Ltd
+(Beijing Internet Ct Apr 26, 2019
+北京互联网法院（2018）京0491民初239号).
+Lin Chen Su Hangzhou
+Gaosi Qimo Jishu Youxian Gongsi, Changshu Shi Qinhong Fangdichan Kaifa Youxian
+(林晨诉杭州高斯气膜技术有限公司、常熟市琴宏房地产开发有限公司)
+Lin Chen v Hangzhou Gauss Inflatable Tech Co, Ltd, and Changshu Qinhong Real
+Est Dev Co, Ltd
+] (Changshu People’s Ct Oct 18, 2024
+常熟市人民法院（2024）苏0581民初6697号).
+See generally Wu,
+“Investigating American and Chinese Subjects’ Explicit and Implicit
+Perceptions.”
+See OECD, Measuring
+User-Created Content, 15.
+See Xu, “Unleashing
+the Power,” 6.
+See Wu, “AI-Generated
+Content,” 3.
+See Entegart, “What is
+an AI PC? What will Your PC Look Like When It’s Infused with AI? And What
+is the Intel Advantage?”
+Yu, “Intellectual
+Before the 2020 revision,
+these criteria were specified in Regulations for the Implementation of the
+Chinese Copyright Law, art.
+See Case C-683/17,
+Cofemel – Sociedade de Vestuário SA v G-Star Raw CV
+ECLI:EU:C:2019:721, para 30 (Sept. 12, 2019).
+See Case C‑833/18, SI
+Brompton Bicycle Ltd v Chedech/Get2Get
+, ECLI:EU:C:2020:461, paras.
+26, 27, and 33 (June 11, 2020).
+Kur, “Unité de
+l’art Is Here to Stay”; Tréguier, “Copyright, Art and
+Originality.”
+de Lacaze-Duthiers,
+L’unité de l’art, 1 (“Art is eternal. It does not
+progress. It is the same in the past
+and in the present. It will be, in the
+future, what it is today, what it was yesterday. What we call progress or
+decadence of art
+are improper terms. We must stop using them.”).
+Bleistein v Donaldson
+Lithographing Co
+[1903] USSC 41
+188 U.S. 239
+van Gompel, “Quality,
+Merit,” 38.
+“Eliminating ‘Aesthetics’,” 220.
+Lacan, Le séminaire:
+Livre XI, 85–89.
+Regulations for the
+Implementation of the Chinese Copyright Law, art 4(8).
+See Regulations for the
+Implementation of the Chinese Copyright Law, arts 4(8) and (9).
+Merriam-Webster.com
+Dictionary, “Dadaism.”
+Lochmann, “The Art of
+Nothingness,” 26.
+Kant, Critique of Judgement,
+Kant, Critique of Judgement,
+. Image credit: © Succession Marcel Duchamp/ADAGP, Paris and
+DACS, London 2024.
+Richter, Dada,
+Apollinaire, “Le Cas
+de Richard Mutt,” 764.
+Apollinaire, “Le Cas
+de Richard Mutt,” 764.
+Richter, Dada,
+Lacan, Écrits,
+Lacan, Écrits,
+Motoarca, “Farewell to
+Nichols”; Cohen, “Copyright Law,” 196.
+Chen Xingbiao Su Shenzhen
+Feima Jiqiren Keji Youxian Gongsi
+(陈行彪与深圳飞马机器人科技有限公司)
+Chen Xingbiao v Shenzhen Feima Robotics Co, Ltd
+] (People’s Ct of
+Nanshan District of Shenzhen, Guangdong Province Sept 11, 2018
+广州省深圳市南山区人民法院（2017）粤0305民初6528–6538号).
+Ginsburg, “Authors and
+Machines,” 346–347.
+Hugenholtz, “Copyright
+and Artificial Creation,” 1203.
+Buccafusco, “A Theory
+of Copyright Authorship,” 1261.
+Militsyna, “Human
+Creative Contribution,” 941–942.
+Jackendoff, “The
+Nature of the Language Faculty.”
+Hauser, “The Faculty
+of Language”; Tajima, “A Humanized NOVA1 Splicing Factor.”
+TRIPS Agreement, art 9.2.
+Masouyé, Guide to the
+Berne Convention for the Protection of Literary and Artistic Works, 12.
+Gaiman v McFarlane
+[2004] USCA7 153
+360 F.3d 644
+Ginsburg, “Authors and
+Machines,” 376.
+Ginsburg, “Authors
+and Machines,” 371–372.
+Zhao Jikang Su Qujing
+Juanyan Chang
+(赵继康诉曲靖卷烟厂)
+Zhao Jikang v Qujing Cigarette Factory
+] (Yunnan High People’s Ct.
+Sept. 26, 2003
+云南省高级人民法院（2003）云高民三终字第16号).
+“Urheberrechtsschutz für literarische Figur –
+Pippi-Langstrumpf-Kostüm.”
+“Urheberrechtsschutz für literarische Figur –
+Pippi-Langstrumpf-Kostüm” 262, Rn. 44.
+See Barron,
+“Copyright Law,” 384.
+Mitchell, Artificial
+Intelligence, 204.
+Sagio Development LLC,
+“How Does Stable Diffusion Work?”
+Sagio Development LLC,
+“How Does Stable Diffusion Work?”
+Sagio Development LLC,
+“How Does Stable Diffusion Work?”
+Sagio Development LLC,
+“How Does Stable Diffusion Work?”
+Sagio Development LLC,
+“How Does Stable Diffusion Work?”
+Sagio Development LLC,
+“How Does Stable Diffusion Work?”
+Sagio Development LLC,
+“How Does Stable Diffusion Work?”
+One: Number
+“Randomness,” 628–629.
+Ross, Abstract
+Expressionism, 144.
+Macadam, “Top Ten
+ARTnews Stories.”
+“Thirty-Six Views of Copyright Authorship,” 269.
+Lacan, Écrits,
+Hugenholtz,
+“Copyright and Artificial Creation,” 1203.
+Print (pretty)
+Print (eco-friendly)
+RTF format (7.15 MB)
+PDF format (1.04 MB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

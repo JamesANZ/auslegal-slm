@@ -1,0 +1,1670 @@
+CD v The Commonwealth of Australia; CD v Director of Public Prosecutions (SA) [2025] HCA 37 (8 October 2025)
+HIGH COURT OF AUSTRALIA
+GAGELER CJ,
+EDELMAN, STEWARD, GLEESON, JAGOT AND BEECH‑JONES JJ
+Matter No A2/2025
+ANOR PLAINTIFFS
+THE COMMONWEALTH OF
+AUSTRALIA DEFENDANT
+Matter No A24/2024
+ANOR APPELLANTS
+DIRECTOR OF PUBLIC PROSECUTIONS (SA)
+ANOR RESPONDENTS
+CD v The Commonwealth of Australia
+CD v Director
+of Public Prosecutions (SA)
+[2025] HCA 37
+Date of Hearing: 13 May
+Date of Judgment: 8 October 2025
+Matter No A2/2025
+The questions stated for the opinion of the Full Court in the special
+case filed on 14 March 2025 be answered as follows:
+Question (1): Is the
+Surveillance Legislation (Confirmation of
+Application) Act 2024
+(Cth) invalid, either in whole or in part,
+(a) it is an impermissible exercise by the Parliament of the judicial power
+of the Commonwealth; or
+(b) it impermissibly interferes with and undermines the institutional
+integrity of courts vested with federal jurisdiction?
+Answer: No.
+Question (2): Who should pay the costs of the Special Case?
+Answer: The plaintiffs.
+Matter No A24/2024
+Special leave to appeal is revoked.
+On appeal from the
+Supreme Court of South Australia (A24/2024
+Representation
+B W Walker SC with D F O'Leary SC
+and S Palaniappan for the plaintiffs in A2/2025 and the appellants in A24/2024
+(instructed by Agresta
+Moran Barristers & Solicitors)
+S P Donaghue
+KC, Solicitor-General of the Commonwealth, with M R Salinger and M P A
+Maynard for the defendant in A2/2025 (instructed
+by Australian Government
+M G Hinton KC with A F Cairney and W M Scobie for the Director
+of Public Prosecutions (SA), intervening in A2/2025, and for the first
+respondent in A24/2024 (instructed by Office of the Director of Public
+Prosecutions (SA))
+T M Begbie KC with P J Melican and M R Salinger for
+the second respondent in A24/2024 (instructed by Australian Government
+C S Bydder SC, Solicitor-General for the State of Western
+Australia, with A K Miller for the Attorney-General for the State of
+Australia and the Attorney-General for the State of Victoria,
+intervening in A2/2025 (instructed by State Solicitor's Office (WA)
+Victorian Government Solicitor)
+S Robertson SC with L A Coleman for the Attorney-General for the State of
+New South Wales, intervening in A2/2025 (instructed by Crown
+Notice: This copy of the Court's Reasons for Judgment is subject to formal
+revision prior to publication in the Commonwealth Law
+CD v The Commonwealth of Australia
+Director of Public Prosecutions (SA)
+Constitutional law (Cth) –
+Judicial power of Commonwealth – Admissibility of evidence – Where
+information and records
+obtained pursuant to warrants – Where
+Surveillance Legislation (Confirmation of Application) Act 2024
+("Confirmation of Application Act") deems information and records obtained under
+specified warrants to have been lawfully obtained
+Confirmation
+of Application Act
+invalid – Whether
+Confirmation of Application Act
+impermissible exercise by Parliament of judicial power of Commonwealth –
+Confirmation of Application Act
+impermissibly interferes with and
+undermines institutional integrity of courts vested with federal jurisdiction.
+Words and phrases – "admissible", "communication", "criminal
+proceedings", "evidence", "exercise of judicial power", "illegally
+"inadmissible", "intercepting a communication", "interfere with the integrity of
+courts", "judicial power", "legislative
+power", "statutory concept",
+"telecommunications system", "undue impairment of judicial power", "unlawfully
+intercepted", "usurpation
+of judicial power",
+Constitution
+Surveillance Legislation
+(Confirmation of Application) Act 2024
+Telecommunications (Interception and Access) Act 1979
+GAGELER CJ, GORDON, STEWARD, GLEESON, JAGOT AND BEECH-JONES JJ.
+The determinative questions of law in context
+the Court is a special case in a proceeding commenced by writ of summons in
+which the plaintiffs, CD and TB, seek a declaration
+Surveillance
+Legislation (Confirmation of Application) Act 2024
+(Cth) ("the
+Confirmation
+of Application Act
+") is invalid. Before the Court is also an application for
+revocation of special leave granted to CD and TB to appeal from a decision
+the Court of Appeal of the Supreme Court of South Australia which answered
+questions of law concerning the application of the
+Telecommunications
+(Interception and Access) Act 1979
+(Cth) ("the
+") before the
+enactment of the
+Confirmation of Application Act
+questions of law stated by the parties for the opinion of the Full Court in the
+special case are as follows, CD and TB correctly
+accepting that
+question 1(b) could not succeed independently from
+question 1(a):
+Surveillance Legislation (Confirmation of Application) Act
+(Cth) invalid, either in whole or in part, because:
+(a) it is an impermissible exercise by the Parliament of the judicial power of
+the Commonwealth; or
+(b) it impermissibly interferes with and undermines the institutional integrity
+of courts vested with federal jurisdiction?
+2. Who should pay the costs of the Special Case?"
+questions of law stated in the special case arise for determination
+independently of the outcome of the appeal. Conversely, the
+appeal would become
+moot if those questions are answered in the negative. The parties accordingly
+accept that the questions of law
+stated in the special case are appropriate to
+be considered and that special leave to appeal should be revoked if those
+are answered in the negative.
+context in which the determinative questions of law arise is recorded in the
+special case. Both plaintiffs have been arrested
+and charged and are being held
+in custody. The information filed in the criminal jurisdiction of the Supreme
+Court of South Australia
+alleges that the plaintiffs participated in a "criminal
+organisation" as defined in
+Criminal Law Consolidation
+(SA) and, in contravention of that Act, stored and controlled
+access to a utility vehicle containing unlawful firearms and, in contravention
+Firearms Act 2015
+(SA), possessed prohibited items, either a
+firearm or a sound moderator or parts of a firearm.
+Director of Public Prosecutions (SA) ("the SA Director") seeks to prove the
+charges, in whole or in part, by using electronic
+communications sent and
+received using an application on mobile phones known as "AN0M" and an associated
+telecommunications platform
+known as the AN0M platform. Unbeknown to the users
+of the AN0M application, and without their consent, communications sent from
+AN0M-enabled
+devices were copied and sent to servers able to be accessed by the
+Australian Federal Police ("the AFP"). The AFP gained access to
+communications under two surveillance device warrants and five computer access
+warrants issued pursuant to the
+Surveillance Devices Act 2004
+AFP also gained access to data relating to the AN0M communications under four
+Crimes Act 1914
+Relevantly, the AFP did not obtain warrants under the
+and TB filed an interlocutory application in the criminal proceedings seeking,
+amongst other things, an order for the exclusion
+of the AN0M communications on
+which the SA Director would otherwise rely as evidence on the ground that the
+AN0M communications were
+unlawfully intercepted in contravention of
+, and were therefore inadmissible under
+ss 63(1)(a)
+(1)(a) of that Act.
+trial judge dismissed that application on the basis that the AN0M communications
+were not unlawfully intercepted as
+The trial judge
+then stated for the consideration of the Court of Appeal of the Supreme Court of
+South Australia questions of law
+(1) Did the
+AN0M application and system (together the AN0M platform) involve an interception
+of a communication passing over a telecommunications
+system contrary to
+; and (2) If the answer to question one is "Yes",
+is the information and records obtained as a result of that interception
+inadmissible
+at trial. The Court of Appeal answered question one "No" and
+question two "Does not
+the meantime, CD filed two further interlocutory applications in the criminal
+proceedings seeking orders for the exclusion of
+the AN0M communications on which
+the SA Director would otherwise rely as evidence on the ground that the various
+warrants (described
+above) were invalid. The trial judge has heard but not
+determined those applications.
+and TB filed an application for and obtained a grant of special leave to appeal
+to this Court against the Court of Appeal's answers
+to the questions of
+Confirmation of Application Act
+was enacted after the grant of special leave to
+appeal by this Court.
+of that Act contains definitions.
+Relevantly, "
+intercepting a communication passing over a
+telecommunications system
+has the same meaning as in the"
+intercepted while passing over a telecommunications system
+corresponding meaning". The definition of "relevant warrant" identifies each of
+the surveillance device warrants, the computer
+access warrants, and the search
+warrants by which the AFP obtained access to the AN0M communications and the
+data related to them.
+Confirmation of Application Act
+is in these terms:
+"(1) Information, or a record obtained under, or purportedly under, a relevant
+warrant, is taken for all purposes:
+(a) not to have been, and always not to have been, intercepted while passing
+over a telecommunications system; and
+(b) not to have been, and always not to have been, information or a record
+obtained by intercepting a communication passing over
+a telecommunications
+(2) To avoid doubt, anything done, or anything purported to have been done, by a
+person that would have been wholly, or partly, invalid
+or unlawful except for
+subsection (1) is taken for all purposes to be valid and lawful and to have
+always been valid and lawful,
+despite any effect that may have on the accrued
+rights of any person.
+(3) Without limiting subsection (1) or (2), evidence that, except for
+subsection (1), would have been wholly, or partly, obtained:
+(a) in contravention of an Australian law or in consequence of a contravention
+of an Australian law; or
+(b) improperly or in consequence of an impropriety;
+is taken for all purposes not to have been, and always not to have been,
+(c) in contravention of an Australian law or in consequence of a contravention
+of an Australian law; or
+(d) improperly or in consequence of an impropriety."
+contains related provisions the effect of which is that: information, or a
+record, obtained in reliance, or purported reliance, on
+a "relevant warrant" is
+taken for all purposes to have been, and to always have been, obtained under a
+warrant granted under the
+applicable Act
+; anything done, or
+anything purported to have been done, by a person that would have been wholly,
+or partly, invalid or unlawful
+is taken for all purposes
+to be valid and lawful and to have always been valid and lawful, despite any
+effect that may have on the
+accrued rights of any person
+evidence that, except for
+, would have been wholly, or partly,
+obtained in contravention of an Australian law or in consequence of a
+contravention of an Australian
+law, or improperly or in consequence of an
+impropriety, is taken for all purposes not to have been, and always not to have
+so obtained
+Confirmation of Application Act
+applies to civil and
+criminal proceedings instituted: on or after the commencement of the Act; and
+before commencement of the Act
+if the proceedings are concluded before, on or
+after such commencement.
+will be explained, consistent with the submissions of the Solicitor-General of
+the Commonwealth (supported by interveners, the
+Attorneys-General for Western
+Australia, Victoria and New South Wales and, by leave, the SA Director),
+Confirmation of Application Act
+do not infringe the
+judicial power of the Commonwealth or impermissibly interfere with the integrity
+of courts whether exercising
+federal jurisdiction or otherwise. Those provisions
+do no more than reflect the law as established in several cases including
+Nicholas v The Queen
+Duncan v Independent Commission Against
+distinction on which CD and TB relied, between a law which attaches new legal
+consequences to facts (accepted by CD and TB to
+involve legislative power) and a
+law which purports to establish new facts and to attach legal consequences to
+those new facts (alleged
+by CD and TB to involve a purported exercise of
+judicial power), is neither as clear-cut as the plaintiffs' submissions would
+it, nor, to the extent the distinction exists, engaged by the provisions of
+the impugned legislation.
+The principles
+essential principle is that stated by Brennan, Deane and Dawson JJ in
+Chu Kheng Lim v Minister for Immigration, Local Government and Ethnic
+Constitution
+is structured upon, and incorporates, the doctrine of the
+separation of judicial from executive and legislative powers. Chapter III
+gives effect to that doctrine in so far as the vesting of judicial power is
+concerned. Its provisions constitute 'an exhaustive statement
+of the manner in
+which the judicial power of the Commonwealth is or may be vested ... No part of
+the judicial power can be conferred
+in virtue of any other authority or
+otherwise than in accordance with the provisions of Chap III' ... [T]he
+grants of legislative
+power contained in
+Constitution
+are expressly 'subject to' the provisions of the
+Constitution
+as a whole, do not
+... extend to the making of a law which requires or authorizes the courts in
+which the judicial power of the Commonwealth
+is exclusively vested to exercise
+judicial power in a manner which is inconsistent with the essential character of
+a court or with
+the nature of judicial power".
+it defies exhaustive definition, judicial power has been described as "the
+[final and authoritative] quelling of ... controversies
+[involving rights and
+liabilities] by ascertainment of the facts, by application of the law and by
+exercise, where appropriate, of
+discretion".
+The adjudgment
+and punishment of criminal guilt is an exclusively judicial
+Fact finding as
+part of a determination of criminal guilt is an incident of that exclusively
+judicial function and is therefore inherently
+an exercise of judicial
+but a provision
+which merely "facilitates the admission of evidence of material facts in aid of
+correct fact finding"
+involves neither the exercise of judicial power nor an impermissible legislative
+intrusion into the exercise of that power. Further,
+insofar as it has been said
+that fact finding is an attribute of judicial power, it is well-established that
+the "Commonwealth Parliament
+can regulate aspects of judicial
+fact-finding".
+is not possible to state any formula of words against which future legislation
+may be tested to ascertain if it involves an exercise
+of or an impermissible
+constraint on the exercise of judicial power. Usurpation of judicial power is "a
+concept which is not susceptible
+of precise and comprehensive
+definition".
+The precise
+terms of any impugned legislation must be construed and considered in terms of
+its legal and practical operation. Precedent
+and history matter. This is why,
+for example, in considering
+Liyanage v The
+Dawson and McHugh JJ said no more than that "legislation may amount to a
+usurpation of judicial power, particularly in
+a criminal case, if it prejudges
+an issue with respect to a particular individual and requires a court to
+exercise its function
+accordingly".
+, the impugned legislation was directed specifically to certain
+persons charged and held in custody but the Privy Council was "not
+prepared to
+hold that every enactment in this field which can be described as ad hominem and
+ex post facto must inevitably usurp
+or infringe the judicial power" and
+expressly refused to "attempt the almost impossible task of tracing where the
+line is to be drawn
+between what will and what will not constitute such an
+interference", observing (as remains the case) that "[e]ach case must be decided
+in the light of its own facts and
+circumstances".
+applicable facts and circumstances in
+the Privy Council accepted
+the characterisation of the legislation as "a legislative plan ex post facto to
+secure the conviction
+and enhance the punishment of ... particular individuals"
+taking colour from the ultimate legislative objective of securing those
+individuals' punishment by compelling them to be sentenced on conviction to not
+less than ten years' imprisonment and confiscation
+That attempt
+involved an impermissible exercise of and intrusion into judicial power.
+contrast to
+, described as an example of a "'legislative
+judgment' directed against specific individuals" which clearly usurped the
+exclusively
+judicial function of adjudging and punishing criminal
+Gummow J in
+described the legislation considered in
+Polyukhovich v The
+Commonwealth (War
+retrospectively created a criminal offence, as a valid exercise of legislative
+power as it left "for determination by a court
+the issues which would arise at a
+trial under the law in
+demonstrates, however, not all issues relevant to a
+determination of criminal guilt are outside legislative power. In
+a law regulating the exercise of the discretion to exclude
+illegally obtained evidence, despite the importance of that discretion
+common law, was characterised, on its true construction, as
+"evidentiary",
+a law which "deem[ed] to exist, or to have been proved to the satisfaction of
+the tribunal of fact, any ultimate fact,
+being an element of the offences with
+which the accused is
+and "leav[ing]
+untouched the elements of the crimes for which the accused is to be
+As such, the law
+did not impermissibly infringe judicial power.
+which provided that anything done or purporting to have been done by the
+Commission before a decision of this Court about the
+meaning of the statutory
+criterion of "corrupt
+that would have
+been validly done if "corrupt conduct" included specified "relevant conduct" was
+taken to have been, and always to
+have been, validly done was held neither to
+trespass on nor to be incompatible with judicial power, it being "well settled
+is open to the legislature to select the fact that ... occurred as the
+ground for attaching such legal consequences as it may
+construed, the law did no more than "effect[] an alteration in the substantive
+law as to what constitutes corrupt
+and did not
+involve "an impermissible direction to the
+judicature".
+Kable v Director of Public Prosecutions
+starting point the principles applicable to courts created by the [Commonwealth]
+Parliament under s 71 [of the
+Constitution
+] and to the exercise by
+them of the judicial power of the Commonwealth under Ch III", it follows
+that if a law would not involve
+an exercise of or impermissibly confine judicial
+power as a law of the Commonwealth it would not do so as a law of a State or
+impugned law
+Confirmation of Application Act
+is properly characterised as
+indistinguishable from those laws held to be valid in
+. The operation of the impugned law may be said to be directed to
+criminal or civil proceedings in which information or records obtained
+two surveillance device warrants, five computer access warrants, and four search
+warrants defined as a "relevant warrant"
+Confirmation of
+Application Act
+will or may be relevant. In that sense, the law is not general
+in application, but nor is it confined to or directed specifically
+plaintiffs.
+the extent the impugned law operates on pending litigation concerning the
+admissibility in the criminal proceedings against the
+plaintiffs of information
+or records obtained under the "relevant warrants", that fact does not indicate
+that the law involves an
+exercise of or impermissible trespass onto judicial
+The existence of a
+controversy capable of being quelled by an exercise of judicial power – in
+the present case, the admissibility
+in the criminal proceedings against the
+plaintiffs of information or records obtained under the "relevant warrants"
+not mean that the Commonwealth is incapable in the exercise of
+legislative power of regulating the admissibility of evidence by any
+one or more
+available drafting techniques. That legislative power is not diminished merely
+because an issue in controversy in the
+criminal proceedings is the admissibility
+of the information or records under the "relevant warrants". Chapter III of
+Constitution
+"contains no prohibition, express or implied, that
+rights in issue in legal proceedings shall not be the subject of legislative
+declaration
+example on which the plaintiffs relied, that of Isaacs J in
+Williamson v
+"one thing to say, for instance, in an Act of Parliament, that a man found in
+possession of stolen goods shall be conclusively
+deemed to have stolen them, and
+quite another to say that he shall be deemed to have stolen them unless he
+personally proves that
+he got them honestly", does not assist them. In the
+present case, the analogy would be if the impugned law deemed the plaintiffs
+be guilty of the offences with which they have been charged. The impugned law
+does no such thing. In the context of the criminal
+proceedings within which the
+guilt of the plaintiffs will be determined according to law, the impugned law
+merely facilitates the
+admission into evidence in those proceedings of the
+information and records obtained under the "relevant warrants" in circumstances
+where s 7(1) and related provisions of the
+may have operated to
+exclude such evidence.
+is the criminal and civil proceedings to which the
+Confirmation of Application
+applies or will apply by
+of that Act which determine the scope and
+essential characteristics of the judicial power affected by that Act. In the
+those existing and future proceedings, the operation and effect of
+Confirmation of Application Act
+is and can only be to preclude
+the exclusion of the AN0M communications as relevant evidence on the ground that
+such evidence was
+illegally obtained in contravention of
+. That operation and effect is properly characterised as merely evidentiary.
+construed, therefore, the impugned law in all its potential operations does not
+trespass on the exclusively judicial function
+of adjudging and punishing
+criminal guilt. Rather, the impugned law facilitates the admission of evidence
+which might otherwise be
+excluded by either
+of the Uniform Evidence Law legislation (as enacted by Commonwealth,
+State or Territory law), or the common law discretion to exclude
+obtained evidence.
+impugned law does not involve a "legislative judgment" of criminal guilt or
+civil liability. It does not deem any fact which
+establishes or precludes the
+establishment of an element of any offence or cause of action to exist or not to
+exist. It leaves untouched
+the elements of the offences with which the
+plaintiffs have been charged and, indeed, the elements of any offences with
+which a person
+may be charged and in respect of which information obtained under
+the "relevant warrants" may be probative. It leaves untouched the
+elements of
+causes of action in a civil proceeding. The impugned legislation merely selects
+a fact – being the obtaining of
+information or a record under a "relevant
+warrant" as referred to in
+– and attaches to that fact new
+legal consequences or, better yet, a new legal character in criminal and civil
+proceedings.
+The new legal character is that the obtaining of information or a
+record under a "relevant warrant" as referred to in
+is taken for all
+purposes to not have the legal consequences referred to in each of
+(not to have been, and always not to have been, intercepted while
+passing over a telecommunications system) and
+(not to have been,
+and always not to have been, information or a record obtained by intercepting a
+communication passing over a telecommunications
+best characterisation of
+and (b), therefore, is that advanced by
+the Solicitor-General of the Commonwealth that these provisions specify "how
+certain facts
+should be characterised against a 'statutory concept' (being a
+legal characterisation that would otherwise have turned upon how various
+terms and deeming provisions in the [TIA] Act applied in light of the facts as
+found)". That is, the provisions deem "certain
+facts not to answer, and never to
+have answered, a particular statutory
+description".
+evidentiary character of
+and (b) – their operation to
+merely facilitate the admission of relevant evidence which might otherwise be
+excluded by either
+of the Uniform
+Evidence Law legislation (as enacted by Commonwealth, State or Territory law),
+or the common law discretion to exclude
+illegally obtained
+leaves unaffected other statutory and common law discretions to exclude
+otherwise relevant evidence unrelated to the
+discretion to exclude illegally
+obtained evidence. Accordingly, there is no principled distinction between that
+operation of the
+impugned law and the law challenged in
+the impugned law involves no exercise of or impermissible trespass onto judicial
+power also emerges from consideration of the
+terms of the provision,
+, in respect of which
+and (b) operate.
+Section 7(1)
+creates a statutory prohibition (interception of a
+communication passing over a telecommunications system), contravention of which
+has statutory consequences including those in
+It was always open to the Commonwealth in the exercise of its legislative power
+to define facts within and outside of the scope
+of the statutory prohibition.
+The Commonwealth did so in several ways in the
+including, for example,
+(1) "does not apply to or in relation to" the facts in
+paras (a)-(d)) and 7(4)
+"does not apply to, or in relation to" the
+facts in paras (a)-(c)). Further, when giving meaning to certain key concepts in
+uses several drafting techniques including
+and (b), "is taken to"), conditional application
+(1), "if" ... then), and defining
+, "... consists
+of"). It would have been within legislative power for the Commonwealth, at the
+time of enactment of the
+not to apply to certain
+information and records (such as information and records obtained under
+specified warrants). It therefore
+follows that it is within the legislative
+power of the Commonwealth, after the enactment of the
+not to apply to certain information and records either by amendment
+or by another Act. That the Commonwealth has achieved the same
+effect by a different drafting technique in the impugned law does
+not take the
+impugned law outside of the Commonwealth's legislative power.
+argument focused on
+, no independent argument was put with respect to
+Accordingly, these conclusions apply with equal force to
+Confirmation of Application Act
+Conclusion and
+these reasons, the questions of law stated in the special case are to be
+answered in the negative. The plaintiffs should pay
+the defendant's costs of the
+special case. It also follows that the grant of special leave to appeal must be
+A cunning plan, a legal issue, and a challenge to a legislative fix
+October 2018 and June 2021, the Australian Federal Police ("the AFP")
+conducted a large-scale operation. The operation, named
+"Operation Ironside",
+was conducted alongside operations by the Federal Bureau of Investigations in
+the United States and, later,
+also by State police in Australia. The genesis of
+Operation Ironside was the discovery by the AFP that an end-to-end encryption
+application
+called AN0M was being privately developed. The AFP obtained control
+of that development process and installed the AN0M application
+on mobile phones
+which had their usual telephone and messaging features disabled. The AFP caused
+921 of the mobile phones with AN0M
+installed to be distributed to 21 people
+across Australia in circumstances where it was anticipated that they would be
+used by people
+engaged in criminal activities.
+Ironside had one ingenious feature. Unknown to the users of the AN0M
+application, clicking the "send" icon for any message
+(including those with
+photo or voice memo attachments) composed on an AN0M-enabled device would
+trigger the creation of a second
+message in the AN0M application which was a
+copy of the user's message together with some additional data from the user's
+The secretly copied message and data were sent at the same time as the
+user's message, via the same server, to a server described
+as the iBot server
+from which it was re-transmitted to servers in Sydney that the AFP could access
+through retrieval software. The
+AFP received copies of approximately
+28 million messages from the AN0M application as part of Operation
+Ironside led to the arrest of more than 390 people and many prosecutions in
+Australia. The appellants in the appeal before
+this Court, who are also the
+plaintiffs in the special case before this Court, were among those who were
+arrested and charged with
+offences including participating in a criminal
+organisation
+possession of prohibited items, including
+The prosecution
+case against each appellant includes evidence that each of them possessed and
+used an AN0M device to send or transmit
+communications which disclosed the
+AFP obtained the copies of the AN0M communications under two surveillance device
+warrants and five computer access warrants issued
+pursuant to the
+Surveillance Devices Act 2004
+(Cth). The AFP also accessed a second
+set of data relating to the AN0M communications under four search warrants
+issued pursuant to
+Crimes Act 1914
+(Cth). But the
+AFP made a considered decision not to seek a warrant under the
+Telecommunications (Interception and Access) Act
+(Cth) ("the
+"), due to an assumption that the
+did not apply to the information obtained by the AFP.
+the prosecutions of the appellants, the assumption that the
+apply to the AN0M communications was challenged. One basis upon which the
+appellants sought to exclude evidence of, and evidence
+related to, those
+communications from the prosecutions was that in the absence of a warrant under
+, those communications were unlawfully intercepted, contrary to
+, and were inadmissible under
+ss 63(1)(a)
+(1)(a) of the
+. The appellants' challenge failed before the primary
+judge. The appellants' challenge also failed on one of the questions of law
+reserved for the determination of the Court of Appeal of the Supreme Court of
+South Australia
+concerned this issue.
+7 November 2024, special leave to appeal from the Court of Appeal was
+granted by this Court.
+a fortnight after the grant of special leave to appeal, the Attorney-General of
+the Commonwealth introduced the
+Surveillance Legislation (Confirmation of
+Application) Bill 2024
+(Cth) into the House of Representatives. As the
+Attorney-General explained in his Second Reading Speech for the Bill that became
+Confirmation Act",
+the Confirmation Act was designed to "clarify that information collected by the
+Australian Federal Police during Operation Ironside
+was lawfully obtained ...
+consistent with the decisions of the Supreme Court of South Australia and the
+South Australian Court of
+The Confirmation
+Act commenced on 11 December
+The appellants, as
+plaintiffs, challenged the validity of the Confirmation Act.
+a special case, the plaintiffs and the Commonwealth agreed to state questions
+for the opinion of this Court asking whether the
+Confirmation Act is invalid, in
+whole or in part, because: (i) it is an impermissible exercise by the
+Commonwealth Parliament of
+the judicial power of the Commonwealth; or
+(ii) it impermissibly interferes with and undermines the institutional
+integrity of courts
+vested with federal jurisdiction.
+special case was listed for hearing concurrently with the appeal. The questions
+raised by the special case are anterior to the
+issues raised by the appeal. If
+valid, the Confirmation Act would have the effect that the issues concerning the
+interpretation of
+would be moot in this case. The
+plaintiffs accepted that if the Confirmation Act is valid then special leave to
+appeal should be
+revoked. Oral submissions concerning the appeal were therefore
+deferred until the resolution of the anterior questions raised by
+the special
+case. For the reasons below, those anterior questions concerning the validity of
+the Confirmation Act should be answered
+adversely to the plaintiffs. Special
+leave to appeal should be revoked.
+The legal proceedings prior to
+the special case
+Section 7(1)(c)
+provides that "[a] person shall not ... do any act or thing that
+will enable him or her or another person to intercept ... a communication
+passing over a telecommunications system".
+Section 6(1)
+relevantly provides that "interception of a communication passing over a
+telecommunications system consists of listening to or recording,
+by any means,
+such a communication in its passage over that telecommunications system without
+the knowledge of the person making
+the communication".
+provides that "a communication ... is taken to start passing over a
+telecommunications system when it is sent or transmitted by the
+person sending
+the communication" and "is taken to continue to pass over the system until it
+becomes accessible to the intended recipient
+of the communication".
+Section 5G(a)
+relevantly provides that "if the communication
+is addressed to an individual" then "the intended recipient of [the]
+communication"
+is the individual.
+The appellants brought an interlocutory application challenging the
+admissibility of the AN0M communications on the basis that they
+were unlawfully
+intercepted contrary to
+. The primary judge dismissed
+the appellants' interlocutory application. The primary judge reasoned that
+although the mobile phones
+were part of the telecommunications system, the AN0M
+application installed on those phones was
+The primary judge
+also held that the word "sent", read in the context of the word "transmitted",
+requires more than the pressing
+of a button on a mobile phone. The primary judge
+then reasoned that the copies of the AN0M communications were created before
+and before the message passed to the operating system of the mobile
+phone so that there was no "interception" contrary to
+primary judge subsequently stated two questions of law for the consideration of
+the Court of Appeal. In broad terms, those questions
+asked: (i) whether the AN0M application and system involved an
+interception of a communication passing over a telecommunications
+contrary to
+; and (ii) if so, whether the
+information and records obtained as a result of that interception were
+admissible at the appellants'
+Court of Appeal held that the mobile phones and the AN0M application installed
+on those phones were part of the telecommunications
+But the Court of
+Appeal did not accept that the AN0M communications had been copied and the
+additional data added while the communications
+were "passing over" the
+telecommunications system (having been "sent or transmitted"). The Court of
+Appeal accepted that its conclusion
+might be thought by some to "lack intuitive
+appeal" and accepted that the creation of a copy of the original message, and
+the additional
+data added to the copy, by the AN0M application processes
+occurred after the user clicked "send". But the Court of Appeal held that
+when the mobile phone was connected to the internet: (i) those processes
+took place while the data representing the original
+message was still being
+processed by the AN0M application as a preparatory step before sending; and
+(ii) the process of encryption
+of the original message and the copy was
+also a step preparatory to the message being
+appellants obtained a grant of special leave to appeal to this Court from the
+decision of the Court of Appeal. The notices of
+appeal and contention before
+this Court raise the same issues as in the courts below, including whether the
+processes of copying
+the AN0M communications and adding additional data involved
+an interception of a communication passing over a telecommunications
+contrary to
+. But this appeal is not concerned with
+other exclusion applications brought in the Supreme Court of South Australia,
+including by
+one of the appellants seeking the exclusion of some or all of the
+evidence of the AN0M communications on the basis of the invalidity
+all of the warrants obtained under the
+Surveillance Devices Act
+Confirmation Act, with which the special case is concerned, was enacted against
+this background and while the present appeal
+was pending before this
+The Confirmation Act and the questions in the special
+Bill that became the Confirmation Act was said to be "targeted in its scope and
+will only apply to information or records obtained
+under a specified range of
+warrants issued in connection with Operation
+In the Revised
+Explanatory Memorandum, it was explained that, once in force, the Confirmation
+"clarify that information or a record obtained under specified warrants issued
+to the Australian Federal Police under the
+Crimes Act 1914
+(Crimes Act)
+Surveillance Devices Act 2004
+(SD Act) was not intercepted while
+passing over a telecommunications system and was lawfully obtained under those
+warrants, consistent
+with the Parliament's intention".
+submissions of the plaintiffs focused primarily upon s 5 of the
+Confirmation Act; the plaintiffs accepted that if s 5 is valid
+was no independent argument by which s 6 could be invalid.
+5 of the Confirmation Act is set out in full in the joint reasons.
+Section 5 (when read with the definitions in s 4) is confined
+operation to information and records obtained pursuant to the seven warrants
+issued under the
+Surveillance Devices Act
+and the four warrants issued
+. Section 5(1) provides that the information and
+records are "taken for all purposes" not to have been (and always not to have
+(i) "intercepted while passing over a telecommunications system"; or
+(ii) "obtained by intercepting a communication passing over
+telecommunications system" (within the meaning of the
+Section 5(2)
+then provides that "[t]o avoid doubt, anything done, or anything purported to
+have been done, by a person that would have been wholly,
+or partly, invalid or
+unlawful except for subsection (1) is taken for all purposes to be valid and
+lawful and to have always been
+valid and lawful, despite any effect that may
+have on the accrued rights of any person".
+Section 5(3)
+further protects, as evidence, the information and records referred to in
+by providing that they are "taken for all purposes" not to have been
+(and always not to have been) obtained "in contravention of
+an Australian law or
+in consequence of a contravention of an Australian law; or ... improperly or in
+consequence of an impropriety".
+two substantive questions raised by the special case are overlapping but
+distinct. The first question essentially asks whether
+the Confirmation Act is a
+purported, but invalid, exercise of judicial power by the Commonwealth
+Parliament. In short, the first
+question asks whether judicial power has been
+usurped. The implication that Ch III of the
+Constitution
+exhaustively states the manner in which the judicial power of the
+Commonwealth may be vested carries with it a prohibition upon judicial
+being exercised by the Commonwealth
+Parliament.
+second, overlapping but distinct, question essentially asks whether the
+Confirmation Act unduly interferes with, or
+"infringe[s]",
+exercise of judicial power by courts vested with federal jurisdiction. It is
+well established that Ch III of the
+Constitution
+impliedly prohibits
+"a law which requires or authorizes the courts in which the judicial power of
+the Commonwealth is exclusively
+vested to exercise judicial power in a manner
+which is inconsistent with the essential character of a court or with the nature
+judicial power".
+implication was extended to apply also to State courts in
+Kable v Director of
+Public Prosecutions
+plaintiffs submitted that s 5(1) of the Confirmation Act was a "legislative
+declaration of fact in a pending controversy", being
+the matter of fact (or at
+least partly fact and partly law) of whether a communication has been unlawfully
+intercepted under the
+. The plaintiffs submitted that
+judicial power by a legislative quelling of controversies by ascertaining facts
+and applying the law to those facts. Alternatively,
+the plaintiffs submitted
+that s 5 of the Confirmation Act unduly impaired the institutional
+integrity of courts vested with federal
+These factors were said to establish that the Parliament had borrowed the
+reputation of
+the judiciary "to cloak their work in the neutral colors of
+judicial action".
+Is the Confirmation Act a usurpation of judicial power?
+When will an Act of Parliament usurp judicial power?
+concept of "usurpation" of judicial power is a common feature of discourse in
+this area of constitutional law concerning the
+exclusive power of the judiciary.
+"Usurp" in this context has its ordinary meaning of impermissible appropriation
+of judicial power,
+although it is sometimes conflated with the overlapping
+concept of undue interference with judicial power.
+is a point at which an Act of a Parliament will cease to be properly
+characterised as an exercise of legislative power and
+be characterised as a
+wrongful appropriation of judicial power. That point is notoriously difficult to
+identify. The plaintiffs in
+this special case pointed to cases where a purported
+exercise of legislative power had been held to be properly characterised as
+exercise of judicial power. The Commonwealth, supported by the Attorneys-General
+for the States of Western Australia, Victoria,
+and New South Wales and the
+Director of Public Prosecutions for South Australia, pointed to cases where such
+a characterisation was
+denied. A consideration of those cases is illuminating
+but they must be understood in the context of the underlying principle.
+starting point is the trite observation that judicial power cannot be
+exhaustively defined but that its identification depends
+upon "consideration of
+predominant characteristics" and "historic functions and processes of courts of
+characteristics and historic functions are "at the very centre of judicial
+marked by the
+authoritative determination of "a question as to the existence of a right or
+obligation, so that an exercise of the
+power creates a new charter by reference
+to which that question is in future to be decided as between [defined] persons
+of persons".
+Although it is neither an exhaustive definition nor even a complete description,
+the essence of judicial power can thus generally
+be described as the "quelling
+of ... controversies by ascertainment of the facts, by application of the law
+and by exercise, where
+appropriate, of judicial
+discretion".
+By contrast
+with legislative power, which usually creates generalised norms that apply
+prospectively, judicial power generally creates
+particular legal relations
+between people by applying to facts the legal rules that existed at the time of
+the controversy.
+exercise of power by the legislature will often be easily characterised as
+judicial where the
+of Parliament is to perform a role that falls
+within the core of judicial power by aiming to affect legal relations (rights,
+liabilities) by resolving controversies between persons, or classes of
+persons, based upon the application of a legal rule to reach
+a legislative
+conclusion about past facts. A famous example, repeatedly
+of the exercise of
+judicial power by Parliament was given by Isaacs J in
+The example was an
+Act of Parliament which did not merely reverse the onus of proof of receipt of
+stolen goods but conclusively deemed
+a person in possession of stolen goods to
+have stolen them. Another example is from the famous case of
+Liyanage v The
+in which the
+Privy Council described the "pith and substance" of the ad hominem
+legislation of Ceylon in that case as "a legislative
+plan ex post facto to
+secure the conviction and enhance the punishment of ... particular
+individuals".
+the other hand, it is more difficult to characterise a legislative exercise of
+power as judicial where it is only the
+of a law that is said to
+mimic the application of judicial power, such as where the incidental effect of
+a law is substantively to
+resolve a controversy. This will be so even where the
+law operates in some similar ways to the exercise of judicial power. For
+a retrospective, or even
+retroactive,
+the law by Parliament, which leaves to courts the ability to determine the
+application of the law, is not usually sufficient
+to amount to a usurpation of
+judicial power
+though one of the central attributes of judicial power is ascertaining the law
+that existed at the time of the facts. Similarly,
+an ad hominem law is not
+necessarily an exercise of judicial power despite the particularised nature of
+judicial power compared with
+the usual role of legislative power in creating
+generalised
+v The Queen
+focus of submissions concerning usurpation of judicial power was the decision of
+this Court in
+Nicholas v The
+The background
+was that a permanent stay had been ordered of the prosecution
+of offences with which Mr Nicholas had been charged where evidence
+for conviction was likely to be held inadmissible as a consequence of
+the decision of this Court in
+Ridgeway v The
+Commonwealth Parliament subsequently enacted legislation intended to reverse the
+effect of the decision in
+. One provision of the
+legislation
+effectively
+provided that, subject to certain conditions, the admissibility of evidence for
+a prosecution of an offence of the relevant
+nature was to be determined by
+"disregard[ing]" the fact that a law enforcement officer committed an offence in
+importing narcotic
+goods. Mr Nicholas challenged the constitutional
+validity of that provision in various
+but perhaps the
+best way of expressing his challenge was that the provision either usurped or
+impermissibly intruded upon ("infringed")
+A majority of this
+Court held that the provision was valid. In dissent, McHugh
+noted the relevance of
+the extent of the impairment of judicial power when determining invalidity,
+given the rationale for the exclusionary
+(namely, to
+preserve "the public interest in maintaining the integrity of the
+argument was made in the present special case.
+central matters upon which the members of the majority relied were: (i) the
+evidentiary nature of the provision (and consequently
+the absence of any
+adjudication by Parliament of any ultimate fact); and (ii) that it was not
+the purpose of the legislation to target
+an individual or a particular category
+of people. Brennan CJ said that a "law prescribing a rule of evidence does
+not impair the
+curial function of finding facts, applying the law or exercising
+any available
+discretion".
+application of the provision was not limited to cases "in which prosecutions
+were pending"
+provision simply "enlarged the evidentiary material available to a
+Toohey J held
+that as an evidentiary provision, the provision neither determined whether the
+charge would succeed or fail nor singled
+out any individual or category of
+held that the provision did no more than exclude illegality on the part of law
+enforcement officers from consideration
+in the exercise of the discretion
+recognised in
+and did not infringe the requirements of equal
+reiterated that "the section does not deem any ultimate fact to exist, or to
+have been proved"
+held that the identity of those affected by the provision might not be
+established for some time after the legislation came into
+And Hayne J held
+that, as a matter of substance, the provision did not deal with questions of
+guilt or innocence and was concerned
+"not with a single identified, or
+identifiable, prosecution but with several prosecutions (albeit prosecutions
+which ... can be identified
+and are relatively
+Confirmation Act does not usurp judicial power
+plaintiffs submitted that the difference between
+circumstances of this special case is that the Commonwealth Parliament made a
+"legislative declaration of fact" in s 5(1)
+of the Confirmation Act when it
+provided, relevantly, that the information and records were "taken for all
+purposes" not to have
+been "obtained by intercepting a communication passing
+over a telecommunications system" within the meaning of the
+words, even if a communication fell within the meaning of "passing over a
+telecommunications system" by being sent or transmitted
+by the person sending
+the communication, as defined in
+, the communication
+would be deemed not to have been passing over a telecommunications system.
+relevant expressions in
+, "sen[ding]" or "transmitt[ing]" a
+communication, do not invite legal characterisations of facts like
+"contracting", "assaulting",
+or "stealing". They are ordinary English
+expressions which, properly interpreted as a matter of law, require processes of
+characterisation
+of primary facts. The facts of a person being seen in a bathing
+suit in a pool, moving by self-propulsion, might be characterised
+as a person
+"swimming". That remains a question of fact. But a legal question is asked as
+soon as it is necessary to ask whether
+that factual characterisation satisfies a
+legal rule. Thus, a question of whether the factual characterisation of
+"swimming" falls
+within a regulation at the pool that creates a rule of "no
+swimming" on a particular day is a question of law. For these reasons,
+simplistic to say even of a statutory expression involving ordinary concepts of
+fact that meaning is a question of fact
+and interpretation is a question of
+too, the factual characterisations of "sending" or "transmitting" become
+questions of law when it is asked whether those characterisations
+fall within a
+legislative provision. To apply the analogy above to the Confirmation Act,
+s 5(1) operates at the level of the "no
+swimming" rule. It changes the
+legal effect of
+relevantly by denying that a
+communication which fell within the meaning of
+was "obtained by
+intercepting a communication passing over a telecommunications system". This
+level of operation of s 5(1) of the
+Confirmation Act is clear from the
+provision in s 5(2), "[t]o avoid doubt", that the effect of s 5(1) is
+to make the relevant acts
+"valid and lawful" at all times. It is also confirmed
+by the complementary provision in s 5(3), which provides that the evidence
+comprised of the relevant information and records obtained "in contravention of
+an Australian law or in consequence of a contravention
+of an Australian law; or
+... improperly or in consequence of an impropriety" is "taken for all purposes"
+not to have been so obtained.
+short, s 5 of the Confirmation Act alters the legal application of
+and the rules of evidence to the extent that they
+would exclude from evidence in any proceeding the information and records
+under the warrants obtained in Operation Ironside. But the Confirmation
+Act does not have the purpose of being a legislative declaration
+of facts. Nor
+does it have the purpose of ultimately resolving the criminal proceedings
+against the plaintiffs or a class of persons
+including the plaintiffs. Further,
+although the Confirmation Act operates retrospectively, it does not operate at
+the level of finding
+facts. The Confirmation Act simply removes the need for a
+judicial finding of the time at which the relevant communication had been
+or "transmitted". The Confirmation Act does not usurp judicial power.
+Undue impairment of judicial power
+concept of an undue impairment of judicial power can overlap with the concept of
+a usurpation of judicial power. An example is
+a law of Congress or Parliament
+that directed that in "Smith v Jones", "Smith
+Whether the
+litigation was pending or had been resolved in favour of Jones, the law would be
+invalid. As Hamilton wrote, "[a] legislature,
+without exceeding its province,
+cannot reverse a determination once made, in a particular
+Such a law,
+directing the result that courts must reach or should have reached to resolve a
+controversy, could be seen either as
+an extreme form of impairment of judicial
+power or as a usurpation of judicial power by
+Parliament.
+undue impairment of judicial power can arise from interferences falling short of
+directions to the judiciary about the result
+that must be reached or should have
+been reached. An example is legislation that requires courts to re-open final
+judgments entered
+on a particular basis before the legislation was
+Other examples
+are legislation that deprives a court of one of its defining characteristics
+(such as decisional independence or
+impartiality),
+substantially impairs one of those defining characteristics (such as legislation
+that requires a court to act in a procedurally
+unfair way), which cannot be
+justified as reasonably necessary for a legitimate legislative
+The categories
+of case that can amount to an undue impairment of judicial power are not closed.
+In every case, close attention should
+be given to both the purpose and the
+effect of the impugned legislation.
+authority which must be approached with care is
+Australian Building
+Construction Employees' and Builders Labourers' Federation v The
+Commonwealth
+passage from that authority relied upon in this case by the Commonwealth, this
+Court said of an argument that the legislation
+in that case had interfered with
+judicial power that "[i]t matters not that the motive or purpose of the
+Minister, the Government
+and the Parliament in enacting the statute was to
+circumvent the proceedings and forestall any decision which might be given in
+proceedings".
+However, that statement was prefaced by an emphasis that the relevant
+legislation "does not deal with any aspect of the judicial
+process" and by a
+contrast with circumstances where the legislation "interferes with the judicial
+process itself".
+purpose of Parliament in enacting a law cannot create an undue interference with
+judicial power if there is no interference with
+any aspect of the judicial
+process but merely a consequential or incidental effect upon the rights that
+have been, or will be, adjudicated
+by a court. But the purpose of Parliament is
+important where legislation does interfere with the judicial
+Duncan v Independent Commission Against
+authority concerning undue impairment of judicial power which was the focus of
+submissions in this case is
+Duncan v Independent Commission Against
+background to
+was the decision of this Court in
+Independent
+Commission Against Corruption v
+the meaning of "corrupt conduct" in
+Independent Commission
+Against Corruption Act 1988
+(NSW), conferring investigative
+compromise the probity of public
+administration. Mr Duncan could have
+successfully relied upon the decision in
+in his application for
+leave to appeal from a decision which refused his challenge to findings of
+corrupt conduct made against him
+by the Commission. But while Mr Duncan's
+application for leave to appeal was pending, the Parliament of New South Wales
+enacted validating
+legislation to ensure the validity of the Commission's
+activities despite the decision in
+Mr Duncan challenged the validity of that validating legislation.
+Mr Duncan asserted that the validating legislation unduly impaired
+institutional integrity of the Supreme Court of New South Wales by directing the
+Court to treat acts as valid when those acts
+unanimously rejected Mr Duncan's claim.
+joint judgment of French CJ, Kiefel, Bell and Keane JJ held that the
+validating legislation merely amended the
+Independent Commission Against
+Corruption Act
+Although that amendment retrospectively changed the legal position of the
+Commission and may have affected Mr Duncan's rights, including
+reputation, it was open to the legislature to attach new legal consequences to
+events which occurred prior to the date specified
+in the validating legislation
+(being the date of judgment delivery in
+of the Confirmation Act is not an undue impairment of judicial power
+of the Confirmation Act does, and is intended to, interfere with the judicial
+process. Section 5 is properly characterised
+as a law that changes the
+manner in which a select, but undetermined, group of cases are to be decided in
+the future. But the mere
+interference with the judicial process, particularly by
+laws concerned with the rules of procedure or evidence, will not, without
+be an undue impairment of judicial power. The plaintiffs properly did not
+suggest otherwise.
+from their assertion that s 5 of the Confirmation Act was an exercise of
+judicial power, addressed separately above, the plaintiffs
+relied upon two
+matters in support of their submission that s 5 was an undue interference
+with judicial power. The first was that
+s 5 applied only to a select cohort
+of cases, thus establishing two separate regimes for the application of
+. The second was that any application for the exclusion of
+evidence obtained under the relevant warrants was rendered futile.
+to the first matter, the plaintiffs are correct that s 5 of the
+Confirmation Act applies only to a select cohort of cases. But
+that cohort are
+not necessarily identified people. Section 5 is not confined in its
+application to the 390 people who are presently
+charged; it could apply to
+others if further charges are laid as a result of information obtained under the
+relevant Operation Ironside
+warrants. Further, s 5 operates in the same
+usual manner as legislative amendments to the rules of evidence or procedure; in
+the manner in which the affected group of cases are to be decided, the
+section does not operate
+retroactively
+it will prescribe the manner in which something may or must be done in the
+future, even if what is to be done relates to,
+or is based upon, past
+creation of two different procedures for the future judicial application of a
+statutory rule, based on different factual
+circumstances, is not uncommon and
+entirely within the province of Parliament.
+to the second matter, there are three reasons that the redundancy of any
+application for the exclusion of evidence, within the
+select cohort of people to
+whom s 5 applies, does not establish an undue interference with judicial
+power. First, it was not suggested
+that in every case the admission of the
+relevant evidence was intended to, or would necessarily, have the effect that
+the accused
+person would be found guilty. The interference by s 5 with the
+judicial process leaves intact the court's ultimate decisional independence.
+Secondly, s 5 does not address the requirement for the Crown to prove that
+the AN0M communications were sent by the relevant accused
+persons. Thirdly,
+there remain other important judicial discretions to exclude the relevant
+evidence on grounds such as: (i) the
+prejudicial effect of the evidence
+exceeding its probative
+or (ii) the
+effect that the evidence would have on the fairness of the trial independently
+of the legality of the warrants under
+which the evidence was
+of the Confirmation Act does not unduly impair judicial
+questions in the special case should be answered as follows:
+Question 1(a):
+Surveillance Legislation (Confirmation of
+Application) Act 2024
+(Cth) invalid, either in whole or in part, because it
+is an impermissible exercise by the Parliament of the judicial power of the
+Commonwealth?
+Question 1(b):
+Surveillance Legislation (Confirmation of
+Application) Act 2024
+(Cth) invalid, either in whole or in part, because it
+impermissibly interferes with and undermines the institutional integrity of
+courts vested with federal jurisdiction?
+Question 2:
+Who should pay the costs of the special case?
+The plaintiffs.
+effect of these answers is that the issues raised in the appeal concerning the
+interpretation and application of
+consequences for the parties to the appeal other than with respect to costs. Of
+course, by leaving without final resolution
+by this Court the important issues
+concerning the interpretation and application of
+there will remain
+residual uncertainty for an applicant seeking a warrant in related circumstances
+in the future. Nevertheless, and
+in light of the proper concession made by the
+plaintiffs, special leave to appeal should be revoked.
+"person shall not: (a) intercept ... a communication passing over a
+telecommunications system", where: "communication" is defined
+communication passing over a telecommunications system" is given meaning by
+; and "interception of a communication passing over a
+telecommunications system" is given meaning by
+, "a person shall not ... communicate to another person, make use of,
+or make a record of ... lawfully intercepted information or
+information obtained
+by intercepting a communication in contravention of
+subsection 7(1)".
+, such information or record is not admissible in
+evidence subject to immaterial exceptions.
+(2023) 413 ALR
+Criminal Procedure Act
+Questions of Law Reserved (Nos
+1 and 2 of 2023)
+(2024) 388 FLR 118.
+CD v Director of Public
+Prosecutions (SA)
+[2024] HCASL 297.
+[1998] HCA 9
+; (1998) 193 CLR 173.
+[2015] HCA 32
+; (2015) 256 CLR 83. See also, eg,
+Nelungaloo Pty Ltd v The Commonwealth
+(1948) 75 CLR 495;
+R v Humby; Ex
+parte Rooney
+(1973) 129 CLR 231;
+Australian Education Union v General
+Manager of Fair Work Australia
+[2012] HCA 19
+; (2012) 246 CLR 117.
+(1992) 176 CLR 1 at 26-27, quoting
+R v Kirby; Ex parte Boilermakers' Society of Australia
+[1956] HCA 10
+; (1956) 94 CLR 254
+at 270 and referring to, eg,
+Polyukhovich v The Commonwealth (War Crimes Act
+[1991] HCA 32
+; (1991) 172 CLR 501 at 607, 689, 703-704.
+Fencott v Muller
+CLR 570 at 608, referring to
+Huddart, Parker & Co Pty Ltd v Moorehead
+[1909] HCA 36
+; (1909) 8 CLR 330 at 357.
+Chu Kheng Lim v Minister for
+Immigration, Local Government and Ethnic Affairs
+(1992) 176 CLR 1 at 27.
+Nicholas v The Queen
+[1998] HCA 9
+; (1998) 193 CLR 173 at 187-188
+Nicholas v The Queen
+[1998] HCA 9
+; (1998) 193 CLR 173 at 188
+Graham v Minister for
+Immigration and Border Protection
+[2017] HCA 33
+; (2017) 263 CLR 1 at 22
+R v Humby; Ex parte
+(1973) 129 CLR 231 at 249-250.
+[1967] 1 AC 259.
+Leeth v The Commonwealth
+(1992) 174 CLR 455 at 469-470.
+[1967] 1 AC 259 at 289-290.
+[1967] 1 AC 259 at 290-291.
+Nicholas v The Queen
+[1998] HCA 9
+; (1998) 193 CLR 173 at 221
+[1991] HCA 32
+; (1991) 172 CLR 501.
+[1998] HCA 9
+; (1998) 193 CLR 173 at 234
+[1998] HCA 9
+; (1998) 193 CLR 173 at 234
+[1998] HCA 9
+; (1998) 193 CLR 173 at 236
+[1998] HCA 9
+; (1998) 193 CLR 173 at 238
+[2015] HCA 32
+; (2015) 256 CLR 83.
+Independent Commission
+Against Corruption (NSW) v Cunneen
+(2015) 256 CLR 1.
+[2015] HCA 32
+; (2015) 256 CLR 83 at 95
+referring to
+Baker v The Queen
+[2004] HCA 45
+; (2004) 223 CLR 513 at 532
+Re Macks; Ex parte Saint
+(2000) 204 CLR 158 at 178 [25], 187-188
+[59]-[60], 200 [107], 232-233 [208], 280 [347].
+[2015] HCA 32
+; (2015) 256 CLR 83 at 99
+[2015] HCA 32
+; (2015) 256 CLR 83 at 99
+[1996] HCA 24
+; (1996) 189 CLR 51.
+H A Bachrach Pty Ltd v
+[1998] HCA 54
+; (1998) 195 CLR 547 at 561-562
+Australian Building
+Construction Employees' and Builders Labourers' Federation v The
+Commonwealth
+[1986] HCA 47
+; (1986) 161 CLR 88.
+R v Humby; Ex parte
+(1973) 129 CLR 231 at 250.
+[1926] HCA 46
+; (1926) 39 CLR 95 at 108.
+Ridgeway v The Queen
+(1995) 184 CLR 19.
+Lazarus v Independent
+Commission Against Corruption
+[2017] NSWCA 37
+; (2017) 94 NSWLR 36.
+Ridgeway v The Queen
+(1995) 184 CLR 19.
+Criminal Law Consolidation
+Firearms Act
+Criminal Procedure Act 1921
+Questions of Law Reserved
+(Nos 1 and 2 of 2023)
+(2024) 388 FLR 118 at 202 [379].
+Surveillance Legislation
+(Confirmation of Application) Act 2024
+Australia, House of
+Representatives,
+Parliamentary Debates
+(Hansard), 21 November 2024
+Surveillance Legislation
+(Confirmation of Application)
+(2023) 413 ALR
+514 at 536-537 [101]-[102].
+(2023) 413 ALR
+514 at 537-538 [105]-[109].
+Questions of Law Reserved
+(Nos 1 and 2 of 2023)
+(2024) 388 FLR 118 at 156 [178].
+Questions of Law Reserved
+(Nos 1 and 2 of 2023)
+(2024) 388 FLR 118 at 159-166 [193]-[216].
+Australia, House of
+Representatives,
+Parliamentary Debates
+(Hansard), 21 November 2024
+Australia, Senate,
+Surveillance Legislation (Confirmation of Application) Bill 2024
+Explanatory Memorandum at 2 [1].
+Surveillance Legislation
+(Confirmation of Application) Act 2024
+(definition of
+"intercepting a communication passing over a telecommunications system").
+R v Kirby; Ex parte
+Boilermakers' Society of Australia
+[1956] HCA 10
+; (1956) 94 CLR 254 at 270;
+Lim v Minister for Immigration, Local Government and Ethnic Affairs
+176 CLR 1 at 26-27.
+Nicholas v The Queen
+[1998] HCA 9
+; (1998) 193 CLR 173 at 220
+Chu Kheng Lim v Minister for
+Immigration, Local Government and Ethnic Affairs
+(1992) 176 CLR 1 at 27,
+Polyukhovich v The Commonwealth
+[1991] HCA 32
+; (1991) 172 CLR 501 at 607, 689,
+[1996] HCA 24
+; (1996) 189 CLR 51.
+Mistretta v United
+[1989] USSC 9
+; (1989) 488 US 361 at 407.
+R v Trade Practices
+Tribunal; Ex parte Tasmanian Breweries Pty Ltd
+[1970] HCA 8
+; (1970) 123 CLR 361 at
+R v Kirby; Ex parte
+Boilermakers' Society of Australia
+[1956] HCA 10
+; (1956) 94 CLR 254 at 307.
+R v Trade Practices
+Tribunal; Ex parte Tasmanian Breweries Pty Ltd
+[1970] HCA 8
+; (1970) 123 CLR 361 at 374,
+R v Ludeke; Ex parte Australian Building Construction Employees'
+and Builders Labourers' Federation
+[1985] HCA 84
+; (1985) 159 CLR 636 at 655.
+Fencott v Muller
+152 CLR 570 at 608. See also
+Huddart, Parker & Co Pty Ltd v Moorehead
+[1909] HCA 36
+; (1909) 8 CLR 330 at 357;
+Wilson v Minister for Aboriginal and Torres
+Strait Islander Affairs
+[1996] HCA 18
+; (1996) 189 CLR 1 at 11.
+Bell Lawyers Pty Ltd v
+[2019] HCA 29
+; (2019) 269 CLR 333 at 368
+, discussing
+Ha v New South Wales
+[1997] HCA 34
+; (1997) 189 CLR 465 at 504, 515.
+Nicholas v The Queen
+[1998] HCA 9
+; (1998) 193 CLR 173 at 190
+Silbert v Director of Public Prosecutions
+[2002] WASCA 12
+; (2002) 25 WAR 330 at 335
+, 347 [81];
+Commissioner of Taxation v
+[2006] QCA 108
+; [2006] 2 Qd R 316 at 333
+Police v Dunstall
+[2015] HCA 26
+; (2015) 256 CLR 403 at 420
+Williamson v Ah On
+[1926] HCA 46
+; (1926) 39 CLR 95 at 108.
+[1967] 1 AC 259 at 290.
+Stephens v The Queen
+[2022] HCA 31
+; (2022) 273 CLR 635 at 651
+Polyukhovich v The
+Commonwealth
+[1991] HCA 32
+; (1991) 172 CLR 501.
+Mineralogy Pty Ltd v Western
+[2021] HCA 30
+; (2021) 274 CLR 219 at 281
+United States v
+[1946] USSC 104
+; (1946) 328 US 303 at 315-318;
+Bank Markazi v Peterson
+578 US 212 at 233-234.
+[1998] HCA 9
+; (1998) 193 CLR 173.
+(1995) 184 CLR 19.
+Crimes Amendment (Controlled
+Operations) Act 1996
+, Sch 1, item 2, inserting
+s 15X into the
+Crimes Act 1914
+Nicholas v The
+[1998] HCA 9
+; (1998) 193 CLR 173 at 185
+, 200 [49].
+Nicholas v The Queen
+[1998] HCA 9
+; (1998) 193 CLR 173 at 218
+Nicholas v The Queen
+[1998] HCA 9
+; (1998) 193 CLR 173 at 226
+Nicholas v The Queen
+[1998] HCA 9
+; (1998) 193 CLR 173 at 265
+Ridgeway v The Queen
+(1995) 184 CLR 19 at 41.
+Nicholas v The Queen
+[1998] HCA 9
+; (1998) 193 CLR 173 at 189
+Nicholas v The Queen
+[1998] HCA 9
+; (1998) 193 CLR 173 at 192
+Nicholas v The Queen
+[1998] HCA 9
+; (1998) 193 CLR 173 at 191
+Nicholas v The Queen
+[1998] HCA 9
+; (1998) 193 CLR 173 at 202
+, 203 [57].
+Nicholas v The Queen
+[1998] HCA 9
+; (1998) 193 CLR 173 at 210-211
+Nicholas v The Queen
+[1998] HCA 9
+; (1998) 193 CLR 173 at 212
+Nicholas v The Queen
+[1998] HCA 9
+; (1998) 193 CLR 173 at 238
+Nicholas v The Queen
+[1998] HCA 9
+; (1998) 193 CLR 173 at 238-239
+Nicholas v The Queen
+[1998] HCA 9
+; (1998) 193 CLR 173 at 277
+. See also at 278 [250]-[252].
+Collector of Customs v
+Agfa-Gevaert Ltd
+[1996] HCA 36
+; (1996) 186 CLR 389
+at 396-397.
+Bank Markazi v Peterson
+(2016) 578 US 212 at 231. See also at 237.
+The Federalist
+The Federalist, on the New
+Constitution
+(1802), vol 2 at
+Chu Kheng Lim v Minister
+for Immigration, Local Government and Ethnic Affairs
+(1992) 176 CLR 1 at 27,
+Polyukhovich v The Commonwealth
+[1991] HCA 32
+; (1991) 172 CLR 501 at 607;
+Leeth v The Commonwealth
+(1992) 174 CLR 455 at 469-470;
+Nicholas v The
+[1998] HCA 9
+; (1998) 193 CLR 173 at 188
+See, for instance,
+Spendthrift Farm Inc
+[1995] USSC 32
+; (1995) 514 US 211.
+Condon v Pompano Pty Ltd
+(2013) 252 CLR 38 at 71 [67].
+SDCV v Director-General
+of Security
+[2022] HCA 32
+; (2022) 277 CLR 241 at 293-294
+, 307 [176], 326 [231]. See
+Minister for Home Affairs v Benbrika
+[2021] HCA 4
+; (2021) 272 CLR 68 at 167-170
+MJZP v Director-General of Security
+(2025) 99 ALJR 1108 at
+1122 [63]; 423 ALR 378 at 395.
+[1986] HCA 47
+; (1986) 161 CLR 88.
+Australian Building
+Construction Employees' and Builders Labourers' Federation v The
+Commonwealth
+[1986] HCA 47
+; (1986) 161 CLR 88 at 96-97.
+Australian Building
+Construction Employees' and Builders Labourers' Federation v The
+Commonwealth
+[1986] HCA 47
+; (1986) 161 CLR 88 at 96.
+[2015] HCA 32
+; (2015) 256 CLR 83.
+(2015) 256 CLR 1.
+Independent Commission
+Against Corruption Amendment (Validation) Act 2015
+Duncan v Independent
+Commission Against Corruption
+[2015] HCA 32
+; (2015) 256 CLR 83 at 93
+Duncan v Independent
+Commission Against Corruption
+[2015] HCA 32
+; (2015) 256 CLR 83 at 94
+Duncan v Independent
+Commission Against Corruption
+[2015] HCA 32
+; (2015) 256 CLR 83 at 94-95
+Independent Commission Against Corruption Amendment (Validation) Act 2015
+(NSW), Sch 1, inserting Sch 4,
+, cll 34-35 into the
+Independent Commission Against Corruption Act 1988
+Stephens v The Queen
+[2022] HCA 31
+; (2022) 273 CLR 635 at 651
+Rodway v The Queen
+[1990] HCA 19
+; (1990) 169 CLR 515 at 518.
+R v Christie
+[1914] UKLawRpAC 20
+Driscoll v The Queen
+[1977] HCA 43
+; (1977) 137 CLR 517 at 541;
+R v Swaffield
+(1998) 192 CLR 159 at 191-193 [62]-[64].
+[1950] HCA 25
+; (1950) 82 CLR
+133 at 159;
+R v Swaffield
+(1998) 192 CLR 159 at 189-190 [53]-[54];
+Police v Dunstall
+[2015] HCA 26
+; (2015) 256 CLR 403.
+RTF format (448 KB)
+Signed PDF/A format

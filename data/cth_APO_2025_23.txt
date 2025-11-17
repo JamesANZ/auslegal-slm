@@ -1,0 +1,944 @@
+Freeport-McMoRan Inc. [2025] APO 23 (18 July 2025)
+IP AUSTRALIA
+PATENT OFFICE
+Freeport-McMoRan Inc.
+[2025] APO 23
+Patent Application: 2023203092
+Title: Methods and systems for deploying equipment required to meet defined
+production targets
+Patent Applicant: Freeport-McMoRan
+Delegate: Tim Gillett
+Date: 18 July 2025
+Hearing Date: Written submissions filed on 18 December 2024
+Catchwords: Patents – section 45 – examiner’s objection
+– not a manner of manufacture – mining equipment
+– Monte Carlo
+– simulation – forecasting – production target – remit
+to examination – inventive
+Representation: Patent attorney for the Applicant: GLMR
+IP AUSTRALIA
+AUSTRALIAN PATENT OFFICE
+Application: 2023203092
+Title: Methods and systems for deploying equipment required to meet defined
+production targets
+Patent Applicant: Freeport-McMoRan Inc.
+Decision: 18 July 2025
+Claim 1 of the application, as proposed to be amended
+is not for a manner of manufacture.
+The application is remitted for
+further examination with a focus upon inventive step and manner of manufacture.
+REASONS FOR DECISION
+application 2023203092 (‘
+the present application
+’) was filed
+on 17 May 2023 in the name of Freeport-McMoRan Inc. (‘
+’). The application was filed as a divisional application of
+2021204532 (‘
+’), the national phase entry of
+PCT/US2021/022494.
+examination reports have been issued for the present application, each with a
+single objection that the application is not for
+a manner of manufacture.
+Similarly, four examination reports were issued for the parent application with
+each one objecting that
+the application is not for a manner of
+manufacture.
+inventive step objection was raised in the first report for the parent
+application. The Applicant responded to that objection,
+and it has not been
+raised since.
+to the present application have been proposed on 20 June 2023, 9 April 2024, and
+26 August 2024 with no objection taken.
+I have no reason to believe that those
+amendments are not allowable and as such, all further references will be to the
+specification
+as proposed to be amended on 26 August 2024.
+Applicant requested to be heard on 4 September 2024 and was invited to provide
+submissions by 20 December 2024. The Applicant
+provided submissions on 18
+December 2024.
+examination of the present application is governed by the
+Patents Act
+) as amended by the
+Intellectual
+Property Laws Amendment (Raising the Bar) Act 2012
+the Raising
+the Bar Act
+) as the application was filed after 15 April 2013.
+Thus, the standard of proof that applies in the present case is the balance of
+probabilities (subsection 49(1)). I must accept the application if satisfied on
+the balance of probabilities that the application
+complies with the Act. If I am
+not so satisfied, then I can refuse the application (subsection
+Description
+description begins by setting out the technical field as follows on page
+The present invention relates to mining operations in general and more
+particularly to
+methods and systems for deploying equipment required to meet defined
+production targets.
+from this, the description addresses efficiency as follows on pages
+The overall efficiency of the mining operation is based in part on the
+efficiency of the equipment and processes for delivering the
+excavated ore to
+the various locations for further processing. Part of that overall efficiency
+involves a determination of the capacities
+of the various loading and conveying
+systems (e.g., the number of shovels and haul trucks) that are required to
+achieve a desired
+production target. For example, failing to provide sufficient
+capacity, e.g., numbers of shovels and/or haul trucks, will make it
+if not impossible, to achieve the desired production target. While the desired
+production target may be more easily achieved
+by providing additional numbers of
+shovels and/or haul trucks, the provision of an excessive number of shovels
+and/or haul trucks
+also results in inefficiencies and represents a sub-optimal
+use of resources. Indeed, providing an excessive number of shovels and
+haul trucks may make it more difficult to achieve the desired production target
+as a result of increased wait or idle times
+and/or traffic congestion resulting
+from the provision of an excessive number of haul trucks.
+understand from this that providing the appropriate equipment to mine sites is
+critical for efficient operation and meeting production
+description follows by stating that existing solutions are typically empirical,
+involving significant trial and error. Furthermore,
+they are not dynamic so even
+if the optimal amount of equipment is reached, that number will soon cease to be
+optimal. Note the following
+While various methods of determining the appropriate equipment capacities
+(e.g., the number of shovels and haul trucks) that will
+be required to meet
+desired production targets are known and being used, such methods are typically
+empirical and usually require
+a significant amount of operational trial and
+error before arriving at the optimal capacities or numbers of equipment required
+reach the desired production targets. Moreover, because the mining
+environment is constantly changing, even if the optimal numbers
+or capacities of
+the various systems happen to be reached, they will soon cease to be optimal as
+the mining operation progresses.
+As a practical matter, the optimal capacity is
+rarely reached and the mining operation will either involve insufficient or
+equipment capacity, or will fail to consistently meet the desired
+production targets.
+specification elaborates on this point on page 8 with the following stated
+advantages of the invention:
+A significant advantage of the systems and methods of the present invention
+is that they
+may be used to provide highly accurate estimates or determinations of the
+system or equipment capacities required to meet defined
+production targets for
+material processing systems. Those estimates or determinations may then be used
+to deploy the equipment in
+numbers and capacities sufficient to meet the
+production targets...
+further on page 8:
+... Unlike prior methods, which are typically empirical and involve a
+significant
+amount of time and effort to consider the numerous variables and possible
+combinations involved, the methods and systems of the present invention
+provide rapid and definitive determinations of the particular
+equipment capacities (e.g., number of shovels and haul trucks) that will be
+required to meet the defined production targets.
+Moreover, the systems and
+methods of the present invention may be used on a more or less continuous basis
+to ensure that the deployed
+capacities remain sufficient to meet the defined
+production targets on a shift-by-shift basis.
+take from this that the application is directed at providing a rapid and
+accurate estimate of equipment capacity required to meet
+a set production target
+in a mining operation.
+description follows with further information in the form of consistory clauses
+which provide an overview of various aspects of
+the invention. Without going
+into detail, the explanations provided match that shown in FIG.3 closely which I
+have reproduced below.
+specification frequently uses the term ‘entropy’ to describe the
+system. Specifically, the stochastic simulation is
+said to estimate the effect
+of entropy by processing historical data.
+is an unexpected word in the context of a mining operation. Having not
+encountered its use in this field before and being
+unable to locate it in any
+relevant glossary, I have concluded that it does not have a technical meaning in
+this field. Whilst the
+specification discusses the term, it does not clearly
+state that a special meaning is to apply. As such, a meaning derived from a
+plain understanding is appropriate which I will consider
+Macquarie Dictionary
+entropy as follows:
+noun a measure of the unavailable energy in a thermodynamic system; it may
+also be regarded as a measure of the state of disorder
+of a system. A change of
+entropy in a reversible process is the ratio of heat absorbed to the absolute
+temperature.
+specification is clearly not directed toward a thermodynamic analysis. As such,
+“a measure of the state of disorder of a system”
+appropriate which is consistent with the specification on pages 5-6 which
+As is known, entropy is a measure of the degree of disorder of a system. As
+used herein, the term entropy is also used to describe
+the degree of variability
+introduced into a system or process as a result of entropy changes.
+is not immediately apparent what this disorder pertains to or how it should be
+measured though. For instance, describing a disordered
+bookshelf as having high
+entropy does not seem appropriate.
+specification provides further context on page 6 as follows:
+The cycle time and variance module 48 estimates the effect of entropy on the
+cycle time to produce the future cycle time estimate.
+Module 48 does this by
+providing historical cycle time data to stochastic simulator 40. Stochastic
+simulator 40 simulates systems,
+such as those systems described herein, having
+variables that change stochastically or randomly with individual probabilities.
+the case of the cycle time and variance module 48, the stochastic simulator
+uses the historical cycle time data to simulate the cycle
+time 'system,' i.e.,
+the cycles traveled by haul trucks 22 as they move between the material loading
+system 12 and the material processing
+system 26. Stated somewhat differently,
+the historical cycle time data are used by the stochastic simulator 40 to
+account for the
+effect of entropy on the material conveying system 14, e.g.,
+haul trucks 22, to produce the future cycle time estimate for the material
+conveying system 14.
+further on page 14:
+In one embodiment, stochastic simulator 40 comprises a Monte Carlo simulator,
+although other types of stochastic simulators are known
+and could be used as
+this information, once the plain meaning is supplemented with guidance from the
+specification, and noting that the reader must
+avoid absurd constructions, I
+consider that the person skilled in the art would understand entropy to be a
+non-specific reference
+to variability or randomness. The expression
+‘estimate an effect of entropy’ should not be read overly literally
+the variability or randomness has been measured. Instead, I consider
+that it means that randomness is somehow accounted for in the
+modelling system
+and thus included in the resourcing estimate which is provided.
+specification discusses the effect that this variability or randomness has on
+the system on page 9 with the following:
+For example, in a mining operation wherein a plurality of haul trucks are
+used to convey excavated ore from one or more shovels to
+one or more continuous
+material processors, such as ore crushers, the haul trucks will tend to
+periodically 'bunch up,' at various
+points in the cycle, with an excessive
+number of haul trucks queuing up at either the loading area (e.g., at the
+shovel) or the discharge
+area (e.g., at the crusher). Such bunching can also
+occur on the mine road network between the shovels and the crusher. The
+and/or severity of the delays associated with such truck bunching is
+due to a number of factors and may be exacerbated if an excessive
+number of haul
+trucks are used or if an insufficient number of shovels and/or ore crushers are
+Indeed, because the various elements, systems, and processes (e.g., loading,
+conveying, and processing systems) of the material processing
+interrelated, the effect of entropy on any one of the various elements, systems,
+and processes will also affect the material
+throughput and efficiencies of the
+other elements, systems, and processes. Stated somewhat differently, variations
+resulting from
+entropy in one element, system, or process will ripple though the
+material processing system, potentially affecting the other elements,
+and processes as well.
+last point is important, and I will come back to it soon being:
+“variations resulting from entropy in one
+element, system, or process will ripple though the material processing system,
+potentially
+affecting the other elements, system, and processes as
+specification discusses how the system handles the effect of entropy on the
+cycle time with the following on page 7:
+A next step 58 involves estimating or accounting for an effect of entropy on
+the cycle time of the conveying system 14 to produce
+the future cycle time
+estimate for the conveying system 14. Step 58 may perform a stochastic
+simulation step 60 which uses historical
+cycle time data to simulate the cycle
+time of the system in a way that takes into account the random or stochastic
+variations in
+the historical cycle time data. Step 58 may be performed at least
+in part by the cycle time and variance module 48 in conjunction
+with stochastic
+simulator 40.
+statements are made in relation to the material processing time on page
+A next step 62 of method 54 involves estimating an effect of entropy on the
+material processing time to produce a future material
+processing time estimate
+for the material processing system 26. Step 62 may perform a stochastic
+simulation step 64 to account for
+the effect of entropy on the particular
+material processing system 26. Step 62 may be performed at least in part by the
+system performance module 50 in conjunction with stochastic simulator
+do not understand how steps 58/60 and 62/64 could possibly be distinct. As just
+”variations resulting from entropy... ripple
+through...”
+. I consider that these ‘steps’ can only be
+read as items that the system accounts for, not literally actions taken in
+it is awkward, I am comfortable with this understanding. The specification
+should not be read overly literally in relation
+to entropy being calculated or
+the ordering of steps.
+specification also states that the system is provided with historical data which
+measures cycle times and material processing
+times. These measured times are
+apparently improved by estimating the effect of entropy. Given these are
+measurements from a live
+system, it is not readily apparent how the measurements
+could be anything but all inclusive. What is it that a simulation includes
+a measurement from a live site cannot?
+issue is highlighted in FIG.9a which I have reproduced below:
+9a indicates that the idle time averaged approximately 3.8 minutes at an actual
+site. However, the simulation predicts the idle
+time to be around 4 minutes.
+This discrepancy presents a challenge as the specification appears to suggest
+that data from real operations
+is less reliable for predictive purposes that the
+proposed simulation. I conclude that the simulation apparently accounts for a
+of entropy that is not adequately captured in operational
+data is plainly measured at real sites with a specific number of resources, say
+X haul trucks and Y crushers. It appears
+that the simulation is being used to
+determine what will happen when there are X + n haul trucks and Y + m crushers.
+In this sense,
+accounting for entropy seems be a reference to the fact that
+variability or randomness on a mine site is tied to dynamic operations.
+data for equipment cycle times could be inaccurate when the amount of equipment
+changes and this seems to be what FIG.9a
+shows, that truck idle time will
+increase in the situation being modelled by comparison to the historical
+now to the stochastic simulator, notably, the Applicant overtly stated that the
+details of how to implement such a Monte
+Carlo simulator are well-known and do
+not require discussion. See the following on page 14:
+However, because Monte Carlo simulators are well-known in the art and could
+be readily provided by persons having ordinary skill in
+the art after having
+become familiar with the teachings provided herein, the particular Monte Carlo
+simulator that may comprise stochastic
+simulator 40 will not be described in
+further detail herein.
+on to other terminology, the specification discusses production constraints and
+provides several examples including shift changes
+and blasting operations. These
+seem to represent a plain meaning of constraint, which is a confinement or
+restriction.
+time, material processing time, and delay estimates seem to have plain meanings.
+Delay estimates have been defined by the Delay
+Hazard Function Module which is
+shown in equation form on page 17 of the specification as:
+this equation the specification notes that
+“P is the probability of a
+delay occurring between times t
+given no current
+. This is consistent with my understanding of probability
+density functions.
+have no further difficulties with any of this
+terminology.
+application contains 25 claims with 1, 7, 13, and 25 being independent. Claims 1
+and 25 are directed toward a system whereas claims
+7 and 13 are directed toward
+a method. I will initially focus on claim 1 which reads as
+1. A system for deploying equipment for mining operations, comprising:
+a plurality of material loading systems comprising one or more shovels;
+a plurality of material conveying systems comprising one or more haul
+a plurality of material processing systems comprising one or more ore
+crushers, stockpiles and/or extraction systems;
+a production constraint module, said production constraint module generating
+at least one of a process delay time and a planned downtime
+for at least one of
+the plurality of material loading systems and at least one of the plurality of
+material processing systems;
+a stochastic simulator;
+a cycle time and variance module operatively associated with said stochastic
+simulator, said cycle time and variance module providing
+historical cycle time
+data to said stochastic simulator, said stochastic simulator using the
+historical cycle time data to estimate
+an effect of entropy on a cycle time of
+the at least one of the plurality of material conveying systems, said cycle time
+and variance
+module producing a future cycle time estimate for the at least one
+of the plurality of material conveying systems based on the estimated
+entropy on the cycle time;
+a processing system performance module operatively associated with said
+stochastic simulator, said processing system performance module
+historical material processing time data to said stochastic simulator, said
+stochastic simulator using the historical material
+processing time data to
+estimate an effect of entropy on a material processing time of the at least one
+of the plurality of material
+processing systems, said processing system
+performance module producing a future material processing time estimate for the
+one of the plurality of material processing systems based on the
+estimated effect of entropy on the material processing time;
+a delay hazard function module operatively associated with said stochastic
+simulator, said delay hazard function module predicting
+whether a delay will
+occur during the operation of at least one of the plurality of material loading,
+conveying, and processing systems
+and estimating a duration of the predicted
+delay, said delay hazard function module:
+defining a probability density based on historical delay data associated with
+the at least one of the plurality of material loading,
+conveying, and processing
+applying the probability density to a Hazard Function to predict whether a
+delay will occur in the at least one of the plurality of
+material loading,
+conveying, and processing systems;
+if a delay is predicted to occur, then providing the historical delay data to
+said stochastic simulator, said stochastic simulator
+using the historical delay
+data to estimate a duration of the predicted delay in the at least one of the
+plurality of material loading,
+conveying, and processing systems;
+a processing system operatively associated with said production constraint
+module, said cycle time and variance module, said processing
+system performance
+module and said delay hazard function module, said processing system determining
+a loading system capacity and
+a conveying system capacity required to meet a
+defined production target for the material processing system based on at least
+of the process delay time and the planned downtime generated by said
+production constraint module, the future cycle time estimate
+produced by said
+cycle time and variance module, the future material processing time estimate
+produced by said processing system
+performance module, and the delay duration
+estimate produced by the delay hazard function module; and
+an equipment deployment system operatively associated with said processing
+system, said equipment deployment system deploying one
+or more of the plurality
+of material loading systems to meet the determined loading system capacity and
+one or more of the plurality
+of material conveying systems to meet the conveying
+system capacity.
+1 essentially mimics what is shown in FIG.3. Similarly to the specification, no
+order is implied to the systems or modules which
+are claimed.
+claim is directed toward a system for deploying equipment for mining. The
+Macquarie dictionary defines ‘deploy’ in
+military terms which is
+clearly not appropriate in the present context. A more general definition from
+the Meriam-Webster dictionary
+which I consider to be appropriate
+to put something into use
+this definition, the claim defines a system which puts equipment for mining to
+use. I note that this is subtly different to the
+invention which has been
+described, which as I noted earlier is directed to providing a rapid and
+accurate estimate of equipment
+capacity required to meet a set production target
+in a mining operation.
+claim follows by setting out the types of equipment involved. Note that these
+pieces of equipment are claimed to be a part of
+the system, not simply a list of
+equipment which the system models.
+claim then sets out constraints, cycle times, and material processing times
+which are being modelled. These are plain and do not
+discussion.
+claim then defines a stochastic simulator, initially in name only. I consider
+that the term ‘stochastic simulator’
+has a technical meaning to the
+person skilled in the art, with an appropriate explanation from Wikipedia being
+as follows:
+A stochastic simulation is a simulation of a system that has variables that
+can change stochastically (randomly) with individual probabilities
+stochastic simulator is later defined to estimate the effect of entropy on
+cycle/processing times and the length of delays, without
+further definition as
+to what that entails. I conclude that it uses random variables to estimate the
+effect of entropy. Similarly
+to the specification, I consider that this means
+accounting for entropy rather than calculating it.
+cycle time and variance module, processing system performance module, and delay
+hazard function module are defined to provide historical
+data to the stochastic
+simulator. After the stochastic simulator has estimated an effect of entropy,
+the relevant module produces
+an estimate of future cycle time, material
+processing time, and delay duration. The claim does not define how, or on what
+estimate is made.
+claim then set out that a processing system determines the loading system and
+conveying system capacity which is required to meet
+a defined production target
+based on the future cycle/processing times and the length of delays which have
+been calculated. With
+that, the claim specifies that equipment required to meet
+that capacity is deployed.
+Claim interpretation
+are several issues which confuse me at this point:
+I am unclear on
+how the modules generate future times using entropy which has been accounted for
+but not specifically calculated.
+unclear on how the system calculates future cycle time, processing time, and
+delay durations independently given that they
+are interrelated and changes to
+one will impact the others. Repeating the content from page 9 again
+“variations resulting from entropy in one element, system, or process
+will ripple though the material processing system, potentially
+affecting the
+other elements, system, and processes as
+reading the specification, I understand how the claimed invention is intended to
+operate. Rather than persist with what could
+be a futile attempt to construe the
+claim, I will instead interpret the claim consistent with my understanding of
+the invention such
+that I can decide the present matter.
+have no issue with the preamble, equipment, production constraint module, and
+equipment deployment systems and will continue to
+construe them as written and
+noted above.
+understand that the stochastic simulator, cycle time and variance module,
+processing system performance module, delay hazard function
+module, and
+processing system are all aspects of a simulator which must:
+Use historical
+cycle time, material processing time, and delay data.
+Employ random
+sampling in the adoption of cycle times, material processing times, and delay
+probability density function and a hazard function to model failure.
+Output a loading
+system capacity and a conveying system capacity which is required to meet a
+defined production target.
+more could be inferred from the specification and assumed to be part of claim 1,
+I consider that any further assumptions about
+the claim are not necessary for me
+to decide the present matter. For example, the claim does not define:
+The modelling of
+X + n haul trucks or Y + m crushers as discussed earlier.
+Repeated random
+sampling as would typically be used in the Monte Carlo method.
+Modelling of
+roads, bottlenecks, or dynamic operations of any kind beyond failure.
+Repetition such
+that a series of equipment arrangements are modelled.
+issues exist with all independent claims. I do not consider that further
+construction of those claims will yield a different
+outcome and so will proceed
+with my current understanding of claim 1 noting that the claims are sufficiently
+similar that any decision
+I make in relation to claim 1 will apply equally to
+all claims.
+The Examiner’s objection – Manner of
+Manufacture
+single objection item number 4 remains outstanding from examination report
+number 4 which can be summarised as follows:
+The Applicant's submissions have been fully considered but are not found
+persuasive. I maintain that the claimed invention, as a matter
+of substance, is
+a scheme for deploying equipment or material loading systems in a material
+processing system according to loading
+and conveying system capacities to meet
+defined production targets, and that this is not a manner of manufacture in the
+Section 18(1)(a)
+Patents Act
+is followed by a rebuttal of the Applicant’s submissions which I have not
+The Applicant’s submissions – Manner of
+Manufacture
+Applicant has submitted that the substance of the present invention lies outside
+a computer in the deploying of an optimal number
+of resources. The key point
+seems to be that
+National Research Development Corporation v Commissioner of
+[1959] HCA 67
+[1959] 102 CLR 252
+[1961] RPC 134
+Grant v Commissioner of Patents
+[2006] FCAFC 120
+”) are more relevant to the
+present case than later caselaw such as
+Research Affiliates LLC v
+Commissioner of Patents
+[2014] FCAFC 150
+Commissioner of Patents v RPL Central Pty
+[2015] FCAFC 177
+”). The submission is
+concluded with:
+The present invention results in an artificially created state of affairs
+(i.e. a “useful product” as meant in Grant),
+in the sense that a
+material effect (as detailed within the specification) is realised - efficient
+and optimized use of shovels and
+haul trucks, thereby preventing accumulation of
+ore due to lack of available shovels or haul trucks/shovels standing idle due to
+an excessive number of available haul trucks/shovels. This is analogous to the
+invention in NRDC where the material effect was observed
+in fewer weeds. This is
+a material effect achieved outside of the computer.
+The significance of the invention corresponds to a ‘remarkable
+advantage’ in that the operating costs / inefficiencies
+associated with
+one or more haul trucks or shovels standing idle for extended periods is
+minimised while still meeting the required
+production target. This advantage is
+realised by deploying the material loading systems and the material conveying
+systems by the
+equipment deployment system so as to meet the loading or
+conveying system capacity, which are configured to meet the production target.
+is followed by further submissions directed toward
+Bio-rad Laboratories,
+[2018] APO 24
+”) which has been
+discussed in examination reports. The submissions address the level of detail in
+relation to calculations
+which are made and concludes with:
+The Applicant respectfully submits that the patent-eligibility of the present
+application cannot be predicated on the lack of “concrete
+mathematical
+details for formulae” in instances where systems have “variables
+that change stochastically or randomly
+with individual probabilities”
+(page 14, lines 4-5). Stated somewhat differently, the fact that the systems
+being modelled
+by the claimed invention are not analytically tractable cannot be
+used to say they are not patent eligible.
+Applicant finishes by reiterating what they consider to be the substance of the
+invention which can be summarised with:
+...As noted above, the ‘material effect’ of the claimed invention
+is achieved
+outside of the computer
+, with the substance of the invention
+relating to optimal deployment of mining equipment to meet production targets,
+such that idle
+time for each equipment or possibility of lack of sufficient
+equipment when required is minimized.
+Legal principles – Manner
+of Manufacture
+Patents Act 1990
+(1) Subject to subsection (2), an invention is a patentable invention for
+the purposes of a standard patent if the invention, so
+far as claimed in any
+(a) is a manner of manufacture within the meaning of
+Statute of Monopolies;
+broad principles to consider regarding manner of manufacture have been set out
+National Research Development Corporation v Commissioner of Patents
+[1959] HCA 67
+). At [14]:
+The right question is: “Is this a proper subject of letters patent
+according to the principles which have been developed for
+the application of
+of the Statute of Monopolies?”
+guidance was provided in
+D'Arcy v Myriad Genetics Inc
+[2015] HCA 35
+) to look for the substance of the invention.
+This is reflected in [87] and [88] by the majority and repeated by the minority
+quite succinctly:
+Whatever words have been used, the matter must be
+looked at as one of substance and effect must be given to the true nature of the
+Technologies Australia Pty Limited
+[2016] APO 49
+(Aristocrat
+summarised considerations appearing in
+at [35] which are relevant to
+assessing whether a computer-implemented invention, is in substance, a manner of
+manufacture as follows:
+I conclude that it is relevant to consider a range of matters. Without
+seeking to be exhaustive, these include:
+must be more than an abstract idea, mere scheme or mere intellectual
+information;
+contribution of the claimed invention technical in nature;
+the invention solve a technical problem within the computer or outside the
+the invention result in improvement in the functioning of the computer,
+irrespective of the data being processed;
+the application of the method produce a practical and useful result;
+be broadly described as an improvement in computer technology;
+the method merely require generic computer implementation;
+computer merely an intermediary or tool for performing the method while adding
+nothing of substance to the idea;
+there ingenuity in the way in which the computer is utilised;
+the invention involve steps that are foreign to the normal use of computers;
+the invention lie in the generation, presentation or arrangement of intellectual
+information.
+note that later Full Court decisions including
+Encompass Corporation Pty Ltd
+v InfoTrack Pty Ltd
+[2019] FCAFC 161
+Repipe Pty Ltd v Commissioner of
+[2021] FCAFC 223
+diverted from this approach in any meaningful way.
+Technologies Australia Pty Ltd v Commissioner of Patents
+[2022] HCA 29
+August 2022)
+(‘Aristocrat ‘22’)
+left previous
+Full Court decisions in relation to manner of manufacture
+undisturbed.
+Considerations
+Applicant has focussed on
+submitting that the present invention is for a manner of manufacture. Later
+caselaw has been discussed such as
+Research Affiliates
+along with a suggestion that these are primarily relevant to
+computer implemented inventions, whereas the present invention lies
+think this misrepresents the teaching of recent caselaw which is essentially a
+refinement of the words in
+“Whatever words have
+been used, the matter must be looked at as one of substance and effect must be
+given to the true nature
+of the claim.”
+implemented inventions are not a special category of invention for which manner
+of manufacture law is different. This has
+been acknowledged by the High Court
+across both sets of reasons in
+Aristocrat ’22
+following from [77]:
+...It is not apparent in the present case that asking whether the claimed
+invention is an advance in computer technology as opposed
+to gaming technology,
+or indeed is any advance in technology at all, is either necessary or helpful in
+addressing that issue...
+And the following from [152]:
+The question of whether a claim, as properly characterised, is the proper
+subject matter of a patent should not be deconstructed to
+require, separately
+from the general principles of patentability, consideration of whether the
+subject matter is "computer‑implemented"...
+Research Affiliates
+Aristocrat ’16
+seek to identify the substance of the
+invention and whether that is patentable. I consider that those principles are
+relevant to
+all inventions but need to be applied appropriately for the matter
+the following comments which the Applicant made in submissions:
+The significance of the invention corresponds to a ‘remarkable
+advantage’ in that the operating costs / inefficiencies
+associated with
+one or more haul trucks or shovels standing idle for extended periods is
+minimised while still meeting the required
+production target. This advantage is
+realised by deploying the material loading systems and the material conveying
+systems by the
+equipment deployment system so as to meet the loading or
+conveying system capacity, which are configured to meet the production
+Therefore, the Applicant submits that the substance of the claimed invention
+satisfies the requirements for a manner of manufacture.
+is a leap here from the system being configured to meet production targets to
+the substance of the invention being for a manner
+of manufacture without
+addressing what the substance of the invention is.
+will now use the established approaches to determine what the substance of the
+invention is and whether the application is for a
+manner of manufacture or not.
+Note that I have not considered any question of whether the present invention
+solves a problem within
+a computer or not. Whilst the invention is computerised,
+the substance of the invention does not lie in that computerisation and
+the Applicant’s submissions this point does not appear to be
+There must be more than an abstract idea, mere
+scheme or mere intellectual information.
+invention improves mining operations by identifying the optimal set of equipment
+to use so that actual capacity matches planned
+capacity. It uses a stochastic
+simulator to model random events and account for variability, which is referred
+to as entropy. I will
+note here that equipment capacity is complex. For example,
+whilst the amount of material a haul truck can hold is well known, the
+material it can move from one place to another is impacted by how quickly it can
+move, idle time, and delays for example,
+each of which vary
+stochastically.
+specification promises to provide a rapid and accurate estimate of the equipment
+that is required in a mining operation based
+on these more accurate estimates of
+claimed, the invention defines a simulation being used to estimate various
+aspects of a proposed mining operation and calculate
+loading and conveying
+system capacities required to meet a production target, with the calculated set
+of equipment being deployed.
+claimed invention is about using a specific approach to simulation which
+improves the forecasting of mine equipment operations.
+As a result of the
+calculation, a tangible amount of equipment will be deployed into operation.
+That same equipment will be capable
+of extracting a volume of material which can
+later be measured directly.
+is not simply a plan or concept which exists in theory. The invention relates to
+the identification of a particular amount of
+equipment which is going to be
+deployed in order to achieve a set production target. The output of that
+equipment will depart from
+reality in a tangible, measurable way. To use the
+It is necessary that there be some "useful product", some physical phenomenon
+or effect resulting from the working of a method for
+it to be properly the
+subject of letters patent.
+physical effect is that actual mine output will match calculated output more
+closely and thus a system can be arranged which
+will output the planned
+production target.
+way to view the invention is that it is a scheme to improve mining operations by
+simulating forecasting outputs instead of
+using trial and error. In this way
+there is nothing physical and tangible, merely an idea about the optimal way to
+conduct a mining
+alternatives differ in substance. Is the invention just the idea of using
+simulation, or a specific, more accurate simulation?
+The specification
+highlights how existing methods fail to account for entropy (variability)
+suggesting that in substance, the invention
+is a more accurate simulation.
+Noting that the quantity being estimated (e.g., how much material a given set of
+equipment can extract)
+is real and measurable, I consider that in substance, the
+present invention is more than an abstract idea or intellectual information.
+Whether it is a scheme will come down to its technicality which I will address
+Is the contribution of the claimed invention technical
+could argue that stochastic simulation itself is technical. It involves
+mathematics and the calculation of an objective result
+which does not have
+aesthetic appeal or belong to the creative arts. This presents positively.
+However, stochastic simulation is
+plainly not the Applicant’s
+contribution. I will address this point soon with extensive prior art
+demonstrating that stochastic
+simulation is well known.
+closer review of the simulation is needed which is where I encounter a problem;
+the claims lack detail on what is and how it is
+simulated. The claims define
+cycle time, processing time, and delay durations, but only define that a random
+variable uses historical
+data to predict future values. This basically defines
+an experienced guess which I couldn’t reasonably call technical. In truth
+the invention isn’t directed toward guessing, but that has not yet been
+set out in the claims. At present the claims define
+using a broadly defined
+mathematical algorithm to calculate what equipment is considered optimal to meet
+a production target.
+using a stochastic simulator there is practically no information about what is
+being modelled. I find this troublesome because
+it seems that any technicality
+to the present invention lies in the modelling, which is missing. For example, I
+would assume that
+road networks, queues, weather conditions, and the like would
+all be modelled in a sophisticated simulation of a mining operation.
+nothing of that kind is mentioned. Where the specification addresses that
+“haul trucks will tend to periodically 'bunch up’,”
+which undoubtedly relates to road design among other things, nothing has been
+cannot be satisfied that the claimed invention provides a technical
+contribution. While the claims do not define anything overtly
+non-technical,
+neither do they define a contribution which is technical.
+conclude that there is not presently a contribution which is technical in
+Does the application of the method produce a
+practical and useful result?
+is clearly a useful and practical result, an electronic forecasting solution
+which provides for rapid and accurate estimate
+of what pieces of equipment
+should be used in a mining operation to enable the meeting of a production
+target. This presents positively.
+the Applicant has submitted, there is no doubt that the substance of the present
+invention lies outside a computer. There is no
+suggestion that the Applicant has
+invented a new computer or ability to process information. Instead, the
+Applicant has suggested
+a focus on the concrete, tangible effect of the
+calculation and deployment of equipment.
+substance the invention is not directed to merely deploying equipment but
+instead to a rapid and accurate estimate of the correct
+amount of equipment. I
+will emphasise that in this context, correct is the amount of equipment which
+can deliver a specific amount
+of extracted material rather than the amount which
+optimises profit, customer satisfaction, appeal or any other similarly abstract
+it is not clear what is being modelled. Despite extensive discussion of
+stochastic simulation, it is not clear how the invention
+uses random variables.
+This is true of both the claimed invention and the specification. Where I have
+looked for information about
+how the stochastic simulator works, all I have
+found is a statement that the person skilled in the art could have implemented
+it stands, while the invention is not purely abstract and does provide an
+invention that is useful, this alone is not enough to
+provide for patentability.
+There could be aspects of the stochastic simulation which are technical, but at
+the level it is presented,
+this is plainly not the Applicant’s
+contribution. Beyond this, I have not been able to find any material which
+provides patentable
+subject matter and so as a matter of substance, I am not
+satisfied that the present invention is patentable.
+matters: inventive step
+finalising the present matter, having reviewed prior art to understand the field
+of stochastic simulation I have concerns that
+claimed invention may not be
+inventive. Noting that the Applicant has not had a chance to respond to the
+prior art I have seen, I
+consider that the best course of action is for the
+application to return for further examination of these potential
+offer the following observations about prior art which can be considered and
+raised by the examination section if appropriate:
+Askari-Nasab, Hooman (2013), Mining Optimization Laboratory (MOL) – Report
+Five, © MOL, University of Alberta, Edmonton,
+Canada, Pages 230, ISBN:
+978-1-55195-327-4, pp. 123-136.
+D4: Applications of Queuing Theory for
+Open-Pit Truck/Shovel Haulage Systems [Viewed on internet on 8 May 2025]
+https://vtechworks.lib.vt.edu/server/api/core/bitstreams/67d24cff-9d41-40f0-9dad-b488050fedd9/content>
+Published on 19 December 2012
+D5: Dilip Sembakutti, “Analysing
+equipment allocation through queuing theory and Monte-Carlo simulations in
+surface mining operations”,
+Int. J. Mining and Mineral Engineering, Vol.
+8, No. 1, 2017
+D6: Dumakor-Dupey, N. K., Temeng, V. A. and Bansah, K. J.
+(2017), “Optimising Shovel-Truck Fuel Consumption using Stochastic
+Simulation”, Ghana Mining Journal, Vol. 17, No. 2, pp. 39 –
+appears that D3 is directed toward the efficient use of loading and hauling
+fleet in open pit mines. It seems to disclose modelling
+material loading,
+conveying and processing systems
+“In the simulation model, trucks,
+shovels, waste dumps, stockpiles, and crushers are modeled as resources of the
+truck-and-shovel
+operations.”
+page 107-4),
+constraint modelling
+“This means that the mine employs 3 shovels and 11 trucks during the
+year, but in odd months it does not use one of the trucks
+because of scheduled
+maintenance.”
+page 107-7),
+stochastic simulation, accounting for
+entropy, and historical data
+“The simulation model deals with the
+uncertainties associated with the operations of trucks and shovels. Each
+stochastic variable
+is represented with a probability density function. Most of
+the probability density functions are obtained by performing data analysis
+historical dispatching data gathered from a Jigsaw dispatching
+(page 107-5), and
+delay hazards
+(Table 2 see
+stochastic variables, probability density functions and failure
+does not appear to explicitly teach the use of a hazard function, however, that
+seems to be inherent in the disclosure of using
+a probability density function
+to model failure, and in any case may be well known. I note that Survival
+Functions are discussed
+in a Wikipedia article titled the same.
+D5, and D6 provide similar disclosure of stochastic simulation usage in the
+modelling of mining operations. Each varies in relation
+to the aspect of
+operations which are being modelled, how the model is setup, and the factors
+which are incorporated.
+the above reasons I find that claim 1 is not for a manner of manufacture. While
+I have not formally addressed other claims, they
+do not add material which would
+overcome this issue.
+it is not clear to me what form an amendment might take to provide
+patentability, I remit the application for further examination.
+Noting that I
+have also discussed inventive step, I consider it appropriate to invoke
+Regulation 13.4(3)
+and provide the Applicant 6 (six) months from the date of
+this decision to bring the application in order for
+acceptance.
+Tim Gillett
+Delegate of the Commissioner of
+https://app.macquariedictionary.com.au/?search_word_type=dictionary&word=entropy
+RTF format (4.05 MB)
+Signed PDF/A format

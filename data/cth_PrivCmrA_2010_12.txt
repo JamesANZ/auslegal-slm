@@ -1,0 +1,65 @@
+Own Motion Investigation v Airline [2010] PrivCmrA 12 (24 December 2010)
+Case Citation:
+Own Motion Investigation v Airline
+[2010] PrivCmrA 12
+Subject Heading:
+Failure to keep personal information secure
+National Privacy Principles 2.1 and 4.1 in Schedule 3 of the
+The following case was decided by the Privacy Commissioner prior to 1
+November 2010. On 1 November 2010 all the powers of the Privacy
+Commissioner under the
+were conferred on the Australian Information
+Commissioner.
+An individual booked a flight online. As part of the booking process, they
+provided their full name, address, date of birth, financial
+information and
+flight details. The individual subsequently received an email from the airline,
+which contained another traveller’s
+itinerary. The details disclosed were
+the other traveller’s name, address, financial information, flight details
+and the full
+name and address of a third individual who booked the flight.
+NPP 2.1 provides that an organisation must not use or disclose personal
+information about an individual for a purpose other than the
+primary purpose of
+collection unless one of the exceptions in NPP 2.1(a)-(h) applies.
+NPP 4.1 provides that an organisation must take reasonable steps to protect
+the personal information it holds from misuse and loss
+and from unauthorised
+access, modification and disclosure.
+The Commissioner commenced an own motion investigation under
+section 40(2)
+The airline had already acknowledged that the disclosure had occurred and
+that the airline was not compliant with NPP 2. Consequently
+the Commissioner
+focused the investigation on the steps the respondent had in place to prevent
+disclosure under NPP 4.1.
+The airline’s IT department found that due to an overload of its
+server, data from one customer was populated in an itinerary
+intended for
+another customer.
+At the time of the incident the airline had processes in place to protect
+personal information from unauthorised disclosure and access.
+However, as a
+result of this incident the airline introduced new protections to improve IT
+security including:
+new servers and the regular ‘flushing’ of the database logs to
+allow more space on the database
+a new testing process where a test email would be sent to the IT department
+every hour. The IT department would verify the contents
+of the outgoing
+the flight itinerary program would be reviewed on a periodic
+The Commissioner was of the view that the airline’s
+system was not sufficient to comply with NPP 4.1 at the time of the
+However, subsequent to the incident and Commissioner’s
+investigation the source of the problem had been identified and additional
+processes had been put in place to prevent the problem recurring. The
+Commissioner was of the view that the steps the airline had
+put in place were
+reasonable in accordance with NPP 4.1 and therefore ceased the own motion
+investigation into the matter.
+Office of the Australian Information
+Commissioner
+December 2010
+RTF format (120 KB)
+Signed PDF/A format

@@ -1,0 +1,493 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/ANZCompuLawJl/2021/12.html
+Scraped: 2025-11-17 14:13:39
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Nayyar, Ravi --- "Some thoughts on the US election" [2021] ANZCompuLawJl 12; (2021) 93 Computers & Law 44
+Some thoughts on the US election
+Tackling Cyber Risk
+Content Moderation
+Active Measures Can Work against One’s Own Constituents
+Some thoughts on the US
+Ravi Nayyar
+21 November 2020
+In the build-up to the 2016 NRL Grand Final, legendary sports commentator,
+Roy Slaven, described rugby league as a “grand, wonderful
+old game that
+provides us with so much entertainment and
+I believe those words can be applied to an American Presidential election.
+Here are my takeaways from the 2020 edition thereof, with
+a focus on the
+tackling of cyber risk by the US Government, content moderation by social media
+platforms and active measures by pro-Trump
+Tackling Cyber Risk
+No matter which candidate had won, the election can be said to have belonged
+to the US Government agencies who were incredibly proactive
+in their efforts to
+secure the electoral process and infrastructure, and combat threats thereto.
+Strong performers were arguably
+United States Cyber Command and the
+Cybersecurity and Infrastructure Security Agency (
+), in partnership
+with other government entities like the National Security Agency and Federal
+Bureau of Investigation (
+), as well as the private
+It is arguable that the US
+Government has learned much since the experience of the 2016 election and
+applied those lessons to protect
+the 2020 election. The fruits thereof can be
+said to be evident in the reported absence of major interference via cyberspace
+election systems by the time when polls
+The government’s proactivity is arguably reflective of the increasing
+assertiveness of the United States in the 5
+domain of warfare
+during the Trump Administration more generally, as demonstrated by the:
+indictment of foreign (state-backed)
+successful attack of the
+Russian state-backed troll farm, the Internet Research Agency, during the 2018
+midterm elections;
+offensive cyber operations against the TrickBot
+and (in partnership with
+countries including Australia)
+and compromise of malicious
+Russian cyber actors’ tactics, techniques and procedures by publishing
+their malware on threat
+repository,
+VirusTotal.
+The joint announcement
+in the lead-up to Election Day by the Directors of National Intelligence, the
+FBI and CISA, about Iran allegedly
+sending a series of intimidating emails
+– purporting to come from the violent extremist organisation, Proud Boys
+Democratic voters
+underscored this willingness to call out and move against malicious
+(state-backed) cyber activity targeting US interests.
+One should note, however, that the above has arguably been marred by
+President Trump’s sacking of CISA Director, Christopher
+Krebs, after he
+and his agency repeatedly called out claims of electoral fraud, including those
+by the President, as groundless.
+Krebs was respected by lawmakers on both sides of the aisle as well as members
+of the cybersecurity profession during his tenure,
+making his firing all the
+more unfortunate for the future of US Government cybersecurity and cybersecurity
+policy. It was arguably
+unsurprising that even rumours of the termination of
+Krebs’ appointment, let alone the event itself, attracted heavy criticism
+of the President and sympathy for the former Director from members of the
+private sector and government cybersecurity bodies, and
+parliamentarians.
+Content Moderation
+To continue the theme of 'lessons learned from 2016', this election was as
+much about the social media platforms that dominate the
+US information
+environment as the candidates themselves. These platforms represent,
+substantively, the main gatekeepers for that
+information environment. The
+election can be regarded as a test of platforms’ content moderation policy
+settings and enforcement.
+Their performance ranged from swift proactivity (such
+as Twitter)
+to an apparent
+paucity of dedicated policies and resources related to the labelling and/or
+takedown of election-related disinformation
+until quite late, if at all (such as
+YouTube’s recalcitrance relative to its competitors in this area is
+arguably quite serious. The fact that it is the most widely
+used social media
+platform in the United States means that its content moderation policies and
+enforcement thereof can exert a great
+deal of influence on the US information
+environment. YouTube’s relative opacity when it comes to public relations
+and governance
+exacerbates these issues by complicating attempts to scrutinise
+its decision-making regarding
+disinformation.
+To add to such
+concerns, it was found that YouTube profited from a livestream of a recent press
+conference held by President Trump’s
+personal lawyer, Rudy Giuliani
+– at which he spread several election-related conspiracy theories –
+by allowing viewers
+of the livestream to pay a fee (30% of which goes to
+YouTube) to pin their comments to the top of the comment
+These sorts of issues have
+raised questions about why YouTube’s CEO, Susan Wojicki, has not been
+summoned to testify before
+the US Congress, unlike her counterparts at Twitter
+and Facebook who have appeared multiple
+Nonetheless, it is still early to rate comprehensively the performance of
+social media platforms as a whole in the election content
+moderation context and
+predict how companies will modify their moderation guidelines, if they
+The recent appearance of
+Facebook and Twitter’s CEOs before the US Senate Judiciary Committee was
+reported to suggest that
+change to their platforms' policies was not likely in
+the short-term.
+Twitter had already confirmed that the President’s Trump's personal
+account will lose its privileged status for
+moderation purposes on 20 January
+2021 when he is no longer the President. His account will be regulated by the
+platform just like
+that of any ordinary user and would no longer enjoy
+‘public interest’
+protections.
+It will be interesting to see whether, and, if so, how, the present seemingly
+self-regulatory model for content moderation will evolve,
+or whether a Biden
+Administration will threaten dilution or outright removal of protections under
+section 230 of the
+Communications Decency
+if social media
+platforms do not work harder to tackle misinformation and disinformation. The
+platforms would be aware of the President-Elect
+himself signalling his support
+for the immediate repeal of the stated statutory
+Alongside these
+factors, one should keep track of how Mark Zuckerberg will deal with a centre
+left-leaning White House, given his
+company's courtship of the conservative side
+of politics for years now.
+The hostility of a Biden White House to Silicon Valley, however, could be
+tempered by how the latter is well-represented in, or has
+otherwise close ties
+with, the Biden-Harris transition team. Such tempering may be informed by
+sizeable political donations from
+members of the US technology sector to
+pro-Biden causes. These factors can influence the future Biden
+Administration’s policies
+in favour of Silicon Valley and (perhaps more
+importantly) drive favourable appointments at federal regulators that are the
+overseers of the sector, including the Federal Communications Commission
+and Federal Trade Commission, and the head of the US Department
+Justice’s antitrust
+Active Measures Can Work against One’s Own
+Constituents
+The fact that the result was not a complete landslide for President-Elect
+Biden can be argued to reflect the effectiveness of active
+measures designed and
+executed properly by the Trump team and Trump supporters
+against their own
+compatriots
+I agree with
+respected academic, Thomas Rid, on the point that ‘[President]
+Trump’s very impressive results in 2020,
+even if he loses, should put
+another big nail in the coffin of the theory that he owed his win in 2016 to
+Russian interference (or
+While the active measures deployed by Russian state actors had
+impact on the 2016 election, that was considered far less than domestic US
+actors during the same election.
+The Trump team used the
+same tactics to greater effect
+throughout the
+2016 campaign and arguably since then (perhaps that was the Russian
+Government’s objective all
+Of particular note is the President's facilitating the spread of the Qanon
+conspiracy theory, despite the FBI's having labelled it
+a domestic terrorism
+Roughly half of his
+supporters are Qanon supporters, not least since the President has failed to
+condemn this conspiracy theory.
+The Trump legacy includes there being around a dozen political candidates from
+the Republican Party who support(ed) or fail(ed) to
+condemn Qanon, two of whom
+have now been elected to the US House of
+Representatives.
+The effect of the Trump team’s active measures in relation to Qanon is
+also serious in light of Qanon supporters organising
+around the use of
+information warfare tactics to shape the US political conversation in favour of
+President Trump. Given the inherently
+pro-Trump nature of Qanon, such activity
+can further corrode the US information environment by synergising with, and
+reinforcing,
+the outputs of active measures from the current White House against
+Trump’s political
+That corrosive effect
+is arguably writ large in a threat to Philadelphia election officials from
+alleged Qanon supporters who were
+charged with having a concealed firearm
+without a license and carrying a firearm on public streets or public
+The potential impact of active measures by, and/or in support of, the Trump
+campaign may also be seen in voting patterns in the state
+of Florida, which
+experienced a rise in support for President Trump among Latinx
+It is clear that social
+media platforms were so focused on English-language disinformation risk that
+they appear to have not tackled
+Spanish-language disinformation risk to the same
+This arguably helped
+Spanish-language disinformation operators play to the fears of voters with South
+American heritage by pushing
+falsities about Biden being a socialist and not a
+real Catholic, and the Black Lives Matter movement (which Biden supports) being
+anarchical and anti-Latinx.
+Trump campaign itself adopted such tactics in Spanish-language advertisements on
+social media platforms and TV channels in Florida.
+Trump was no doubt aided by
+concerted anti-Biden messaging emanating from an increasing number of
+Spanish-language political commentators
+who generally peddle baseless conspiracy
+theories to their sizeable social media followings in Latinx
+communities.
+These factors could
+be behind why Biden’s margin in Florida’s most populous county,
+Miami-Dade (with a thriving Latinx
+community), was less than a third of that
+which Hillary Clinton enjoyed in
+While one looks forward to further analysis on the impact of the
+aforementioned active measures, who their purveyors were and their
+impact on the
+overall election result, one should note the age-old caveat about active
+measures: by their very nature as vehicles
+for disinformation, their
+effectiveness is hard to
+There is always the
+danger about overstating the impact of active measures and playing right into
+the (internal and/or external)
+adversary's hands by thus self-exacerbating the
+divisions in your body politic which the adversary sought to exploit in the
+This was a fascinating election to observe from multiple perspectives, be
+they with regard to cyber risk, content moderation by social
+media platforms, or
+indeed active measures by domestic US actors against fellow citizens. There were
+positive outcomes, such as the
+robust cybersecurity of the election, but also
+things meriting a great degree of concern, including the growth of
+disinformation
+campaigns targeting the American body politic from within,
+alongside the spread of dangerous conspiracy theories that can jeopardise
+On a lighter note, if one was feverishly checking the news throughout the
+2020 US Election, they would be advised to never criticise
+Test Cricket, or
+indeed any form of that great game, again.
+‘Festival of the Boot:
+Festival of the Boot
+ABC News Radio
+2016) 0:11:32-0:11:38.
+David E. Sanger and Julian E.
+Barnes, ‘U.S. Tried a More Aggressive Cyberstrategy, and the Feared
+Attacks Never Came’,
+The New York Times
+(16 November 2020)
+<https://www.nytimes.com/2020/11/09/us/politics/cyberattacks-2020-election.html>.
+Kevin Collier and Ken Dilanian,
+‘Polls Close on Election Day with No Apparent Cyber Interference’,
+(5 November 2020)
+<https://www.msn.com/en-ca/news/us/polls-close-on-election-day-with-no-apparent-cyber-interference/ar-BB1aFKh6?li=AAggFp4&srcref=rss>.
+See, eg, The United States
+Department of Justice, ‘Six Russian GRU Officers Charged in Connection
+with Worldwide Deployment
+of Destructive Malware and Other Disruptive Actions in
+Cyberspace’ (Press Release, 19 October 2020).
+Russell Brandom, ‘US
+Cyber Command Attacked Russian troll farm on Election Day 2018’,
+(26 February 2019)
+<https://www.theverge.com/2019/2/26/18241600/us-cyber-command-russian-troll-farm-attack-election-day-2018>.
+Shannon Vavra, ‘Cyber
+Command, Microsoft Take Action against TrickBot Botnet before Election
+(12 October 2020)
+<https://www.cyberscoop.com/trickbot-takedown-cyber-command-microsoft/>.
+Dina Temple-Raston, ‘How
+the U.S. Hacked ISIS’,
+(26 September 2019)
+<https://www.npr.org/2019/09/26/763545811/how-the-u-s-hacked-isis>;
+Stephanie Borys, ‘Australian Cyber
+Soldiers Hacked Islamic State and
+Crippled Its propaganda Unit – Here's What We Know’,
+(18 December 2019)
+<https://www.abc.net.au/news/2019-12-18/inside-the-secret-hack-on-islamic-state-propaganda-network/11809426>.
+See eg Catalin Cimpanu,
+‘US Cyber Command Exposes New Russian Malware’,
+November 2020)
+<https://www.zdnet.com/article/us-cyber-command-exposes-new-russian-malware/>.
+Catalin Cimpanu, ‘US
+Blames Iran for Spoofed Proud Boys Emails Threatening Democrat Voters’,
+(22 October 2020)
+<https://www.zdnet.com/article/us-blames-iran-for-spoofed-proud-boys-emails-threatening-democrat-voters/>.
+Kaitlan Collins and Paul
+LeBlanc, ‘Trump Fires Director of Homeland Security Agency who Had
+Rejected President's Election Conspiracy
+November 2020) [13]-[14]
+<https://edition.cnn.com/2020/11/17/politics/chris-krebs-fired-by-trump/index.html>;
+Christopher
+Bing, Joseph Menn and Raphael Satter, ‘Exclusive: Top Official
+on U.S. Election Cybersecurity Tells Associates He Expects to
+(13 November 2020) [5]-[6], [8]
+<https://www.reuters.com/article/us-usa-cyber-officials-exclusive/exclusive-senior-u-s-cybersecurity-official-tells-associates-he-expects-to-be-fired-idUSKBN27S2YI?il=0>
+Bing (n 10); Catalin
+Cimpanu, ‘Trump Fires CISA Director Chris Krebs’,
+November 2020) [7]-[8]
+<https://www.zdnet.com/article/trump-fires-cisa-director-chris-krebs/>;
+Sean Lyngaas, ‘Lawmakers
+Back CISA Chief Krebs after Report that He
+Expects to Be Fired’,
+(12 November 2020) [1]
+<https://www.cyberscoop.com/chris-krebs-future-white-house-cisa-congress/>;
+Collins and LeBlanc (n 10)
+[16], [18], [27]; Allison Pecorin and Lauren Lantry,
+‘GOP Senators Blast Trump's Firing of Election Security Official’,
+(19 November 2020)
+<https://abcnews.go.com/Politics/gop-senators-blast-trumps-firing-election-security-official/story?id=74278635>.
+See eg Tucker Higgins,
+‘Twitter Slaps Warning Labels on Trump Tweets that Suggest Voting
+(3 September 2020)
+<https://www.cnbc.com/2020/09/03/twitter-slaps-warning-labels-on-trump-tweets-that-suggest-voting-twice.html>.
+Julia Alexander,
+‘YouTube’s Lax Misinformation Rules Are Letting Election Lies
+(5 November 2020)
+<https://www.theverge.com/2020/11/5/21551790/youtube-election-misinformation-oann-live-stream-mail-in-vote-count-ballot>.
+Evelyn Douek, ‘Why
+Isn't Susan Wojcicki Getting Grilled by Congress?’,
+November 2020) [2]
+<https://www.wired.com/story/why-isnt-susan-wojcicki-getting-grilled-by-congress/>,
+citing Andrew Perrin
+and Monica Anderson, ‘Share of U.S. Adults Using
+Social Media, Including Facebook, Is Mostly Unchanged since 2018’,
+Research Center
+(10 April 2019)
+<https://www.pewresearch.org/fact-tank/2019/04/10/share-of-u-s-adults-using-social-media-including-facebook-is-mostly-unchanged-since-2018/>;
+Douek (n 13) [3].
+Jason Koebler,
+‘YouTube Is Cashing In on Trump's Election Conspiracy During
+Giuliani Livestream’,
+Motherboard
+(20 November 2020) [1]-[2],
+<https://www.vice.com/en/article/dy87gy/youtube-is-cashing-in-on-trumps-election-conspiracy-during-giuliani-livestream>.
+Evelyn Douek, ‘Why
+Isn't Susan Wojcicki Getting Grilled by Congress?’,
+November 2020)
+<https://www.wired.com/story/why-isnt-susan-wojcicki-getting-grilled-by-congress/>.
+Issie Lapowsky,
+‘Don’t Declare Premature Victory on Big Tech’s Election Work
+(6 November 2020)
+<https://www.protocol.com/dont-declare-premature-victory-on-big-techs-election-work-just-yet>.
+Lauren Feiner,
+‘Facebook and Twitter Defend Election Safeguards and Moderation Practices
+before the Senate’,
+(17 November 2020) [1]
+<https://www.cnbc.com/2020/11/17/facebook-twitter-defend-election-moderation-practices-before-senate.html>.
+Adi Robertson, ‘Trump
+Will Lose His Twitter “Public Interest” Protections in
+(7 November 2020)
+<https://www.theverge.com/2020/11/7/21552606/trump-twitter-world-leader-public-interest-exception-ends-january-loss>.
+Communications Decency
+Act of 1996
+, 47 USC § 230(c)(1) (2018).
+Isobel Asher Hamilton,
+‘The Georgia Runoffs Could Decide the Fate of Section 230 – along
+with the Future of Big Tech’,
+Business Insider
+(16 November 2020)
+<https://www.businessinsider.com.au/what-biden-administration-means-for-section-230-2020-11?r=US&IR=T>.
+Dawn Chmielewski,
+‘Facebook Has Been Actively Courting Conservatives, but That Won't Stop It
+from Getting Spanked’,
+(11 May 2016)
+<https://www.vox.com/2016/5/11/11657580/facebook-conservative-bias-news-curation-gop>.
+Theodore Schleifer,
+‘Here Are the 15 Silicon Valley Millionaires Spending the Most to Beat
+Donald Trump’,
+(27 October 2020)
+<https://www.vox.com/recode/21529490/silicon-valley-millionaires-top-donors-2020-election-donald-trump>;
+Schleifer, ‘Inside the Behind-The-Scenes Fight to Convince Joe
+Biden about Silicon Valley’,
+(17 November 2020) [14]
+<https://www.vox.com/21561878/joe-biden-transition-silicon-valley-personnel-eric-schmidt>,
+citing Sara
+Morrison, ‘How Biden’s FCC Could Fix America’s
+(12 November 2020) <How Biden’s FCC
+could fix America’s internet>; Timothy B. Lee, ‘Why Biden Tapped
+Big Tech Staffers for His Transition Team’,
+Ars Technica
+(11 November 2020)
+<https://arstechnica.com/tech-policy/2020/11/the-tech-sector-is-well-represented-on-bidens-transition-team/>.
+measures’, also referred to as disinformation campaigns or
+‘political warfare’, comprise operations
+to ‘actively and
+immediate change views, decisions, and factors on the ground, in the now [in
+targeted information environment(s)]’:
+Thomas Rid,
+Active Measures: The
+Secret History of Disinformation and Political Warfare
+(Macmillan, 2020) 7,
+429-30. Since the start of the Cold War, active measures campaigns have been
+usually guided by the objective
+of the purveyor to ‘exacerbate existing
+tensions and contradictions within the... [target’s] body politic’
+(a combination of) truth and falsity: at 7.
+@RidT (Thomas Rid) (Twitter,
+6 November 2020, 3:30am AEDT)
+<https://twitter.com/RidT/status/1324388565808222220?s=20>.
+Yochai Benkler, ‘The
+Danger of Overstating the Impact of Information Operations’,
+(Blog Post, 23 October 2020)
+<https://www.lawfareblog.com/danger-overstating-impact-information-operations>.
+@jason_kint (Jason Kint)
+(Twitter, 6 November 2020, 4:39pm AEDT)
+<https://twitter.com/jason_kint/status/1324587100893782018?s=20>.
+Marianne Dodson, ‘FBI
+Labels Fringe Conspiracy Theories as Domestic Terrorism Threat’,
+Daily Beast
+(1 August 2019)
+<https://www.thedailybeast.com/fbi-warns-against-qanon-pizzagate-in-report-highlighting-dangers-of-fringe-conspiracy-theories>.
+Emily Olson, ’Donald
+Trump's Legacy on US politics Reflected in Four New Members of Congress’,
+(21 November 2020) [8], [20]
+<https://www.abc.net.au/news/2020-11-21/meet-four-new-faces-set-to-shake-up-us-politics/12900196>;
+at [7], citing Graeme Bruce, ‘Half of Trump's Supporters Think Top
+Democrats Are Involved in Child Sex-Trafficking’,
+October 2020)
+<https://today.yougov.com/topics/politics/articles-reports/2020/10/20/half-trump-supporters-believe-qanon-theory-child-s>.
+Olson (n 29) [16], [22]; at
+[12], citing Matthew Rosenberg, ‘A QAnon Supporter Is Headed to
+The New York Times
+(3 November 2020)
+<https://www.nytimes.com/2020/11/03/us/politics/qanon-candidates-marjorie-taylor-greene.html>.
+Elise Thomas, ‘Qanon
+Deploys “Information Warfare” to Influence the 2020 Election’,
+(17 February 2020) [6]-[8]
+<https://www.wired.com/story/qanon-deploys-information-warfare-influence-2020-election/>.
+Maura Ewing et al,
+‘Two Charged with Carrying Weapons near Philadelphia Vote-Counting Site
+amid Election Tensions’,
+The Washington Post
+(7 November 2020)
+<https://www.washingtonpost.com/nation/2020/11/06/philadelphia-attack-plot-vote-count-election/>.
+Ed Morales, ’What the
+2020 Election Reveals about Latino Voters’,
+(Opinion 16
+November 2020) [1]
+<https://edition.cnn.com/2020/11/16/opinions/latino-hispanic-vote-trump-biden-morales/index.html>.
+David Gilbert,
+‘Spanish-Language QAnon Accounts Spread Pro-Trump Misinformation
+in Florida’,
+(6 November 2020) [6]
+<https://www.vice.com/en/article/jgqqxx/election-propaganda-texts-are-completely-out-of-control>.
+Carmen Sesin and April
+Glaser, ‘In Florida, Spanish-Language Misinformation Embraces Misleading
+Election Day Claims’,
+(7 November 2020) [16]
+<https://www.nbcnews.com/news/latino/florida-spanish-language-misinformation-embraces-misleading-election-day-claims-n1246861>;
+Shirin Ghaffary, ‘How Fake News Aimed at Latinos Thrives on Social
+(19 November 2020) [4], [11], [15], [28]. [30]
+<https://www.vox.com/recode/21574293/social-media-latino-voters-2020-election>.
+Ghiffary (n 35) [16],
+Gilbert (n 34)
+Rid (n 24) 8-10.
+Benkler (n 25).
+Print (pretty)
+Print (eco-friendly)
+RTF format (155 KB)
+PDF format (1.18 MB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

@@ -1,0 +1,1034 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/UNSWLawJlF/2020/4.html
+Scraped: 2025-11-17 15:45:41
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Jacobi, Tonja; Robinson, Zoe; Leslie, Patrick --- "Querying The Gender Dynamics Of Interruptions At Australian Oral Argument" [2020] UNSWLawJlF 4; (2020) UNSW Law Journal Forum No 4
+I THE FINDINGS AND THE BASIS FOR THE CLAIM OF THE GENDER EFFECT AT THE HIGH COURT
+II HIGH COURT ORAL ARGUMENT OVER A QUARTER OF A CENTURY
+Figure 1: Average Interruptions of Justices by Advocates per Case, by Justice Gender, US Supreme Court 1997–2018 Terms
+Figure 2: Average Interruptions of Justices by Advocates per Case, by Justice Gender, High Court of Australia 1995–2019 (Seven-Justice
+Panels Only)
+Figure 4: Average High Court Interruptions of Justices by Advocate per Case, by Advocate Gender, High Court of Australia 1995–2019
+(Seven-Justice Panels Only)
+III BEYOND GENDER: EXAMINING MULTIPLE CAUSES OF INTERRUPTIONS AT ORAL ARGUMENT
+: Descriptive Statistics, Oral Argument, High Court of Australia 1995–2019 (Seven-Justice Panels Only)
+: Poisson Regression of Interruptions per Justice per Case, by Justices and Advocates, High Court of Australia 1995-2019 (Seven-Justice
+Panels Only)
+Figure 5: The Effect of Experience on the Rate of Interruptions of Male and Female Justices per Case, High Court of Australia 1995–2019
+(Seven-Justice Panels Only) (Model 5)
+IV CONCLUSION
+QUERYING THE GENDER DYNAMICS OF INTERRUPTIONS AT AUSTRALIAN
+ORAL ARGUMENT
+TONJA JACOBI,
+** & PATRICK LESLIE***
+In a recent study, ‘Female Judges, Interrupted: A Study of Interruption
+Behaviour during Oral Argument in the High Court of
+Australia’, Amelia
+Loughland presents findings that interruptions during oral argument in the High
+Court of Australia show
+gendered patterns, with female justices interrupted more
+often than male justices.
+finds that over 90% of interruptions were committed by male advocates, with
+female advocates very seldom
+interrupting.
+The study replicates
+findings by one of us that female justices at United States (‘US’)
+Supreme Court oral arguments
+are interrupted between two and three times as
+often as the male justices,
+male justices and male advocates; in contrast, female advocates interruption
+rates were undifferentiable from
+Examining gender dynamics in the High Court of Australia is important for
+many reasons. Given the importance of oral arguments in
+the High Court’s
+decision-making process,
+opportunity for a justice to be heard at oral argument is particularly
+If women are being
+systematically interrupted at oral argument, that will affect their relative
+degree of influence on the Court.
+As others have noted, the discussions at oral
+argument serve many purposes, including: focusing the justices’
+information to reach decisions as close as possible to their desired
+informed decisions,
+and providing
+an opportunity to communicate and persuade their
+colleagues.
+As Jacobi and
+Schweers explained:
+When a justice is interrupted during her questioning, her point is often left
+unaddressed. Without being able to ask her question,
+and without receiving an
+answer, the interruptee may be inhibited from using this point to persuade her
+colleagues ... At the very
+least, a woman’s unequal opportunity to ask
+questions and complete statements during oral arguments could make it far more
+difficult for women to gather their thoughts, engage with the advocates, and
+clarify points that were disputed in the
+Showing that the same dynamics exist in Australia’s apex court as in
+the US Supreme Court contributes to the mounting evidence
+that even women in
+high positions of power remain subject to gendered expectations and gendered
+behaviours,
+and counters some
+studies suggesting that positions of authority diminish gender
+As some of the intense
+media response to the initial US study on gendered interruptions expressed the
+matter: ‘It Doesn’t
+Get Better – Women Supreme Court Justices
+Get Interrupted Too’.
+this phenomenon of gendered engagement with apex judges is international, then
+this adds to the growing body of evidence of institutionalised
+and robust gender
+discrimination. Further, evidence of gendered behaviour on the High Court may
+demonstrate that gendered dynamics
+transcend differences in institutional
+design. The Australian and American apex courts are different in many ways: the
+High Court’s
+oral argument last for days, rather than the single hour of
+Supreme Court arguments; the High Court sits with panels that vary in
+and personnel, ranging from between three and seven justices, whereas the US
+Supreme Court always sits with its full complement
+of nine justices; and the two
+Chief Justices have markedly different
+If, despite these
+institutional differences, the same gender dynamic continues to rear its head,
+then the problem is cross-institutional
+as well as international.
+Loughland describes her findings as evidence of ‘an embedded bias
+towards male judicial authority’ on the High Court of
+She proposes
+solutions that include implicit bias training and, more controversially,
+equipping ‘male judges as agents of change’,
+suggesting that male
+Chief Justices may be preferable to female Chief Justices, given ‘[t]he
+challenges that would face a female
+Chief Justice in addressing gendered
+interruption behaviour’.
+Understandably then, Loughland’s findings and her conclusions have
+garnered significant attention amongst commentators and
+Loughland’s study has a limited sample size of 45 cases across two and
+a half Terms of the Court. In this comment, we explore
+whether Loughland’s
+conclusions hold when looking beyond her sample, and examine 25 years of oral
+argument in the High Court,
+from 1995–2019. We also employ more formal
+statistical methods to test whether there is a gender effect at High Court oral
+argument, or whether the effects that Loughland identifies may be a product of
+other factors relevant to interruption behaviour,
+such as experience, the length
+of oral argument, the amount that a justice speaks, and the role of the Chief
+Justice. Contrary to
+Loughland, we find that there is no bias against female
+High Court justices;
+find no support for the claim that male Chief Justices reduce the rate of
+interruption of female justices. We show this first
+using simple graphs,
+illustrating that the small sample that Loughland examined is not representative
+of the overall trends occurring
+at High Court oral argument. Finally, we use
+multivariate regression to more formally test our findings.
+I THE FINDINGS AND THE BASIS FOR THE CLAIM OF THE
+GENDER EFFECT AT THE HIGH COURT
+To determine whether female justices on the High Court of Australia are
+interrupted more than their male counterparts, Loughland hand
+codes transcripts
+from oral arguments where the Court sat
+from June 2015 until the
+end of 2017, for a total of 45
+Loughland finds that in
+the period 2015–16, collectively the three female justices received 52% of
+interruptions, and in 2017
+the three female justices received 69% of the
+interruptions.
+Further, she
+determines that over 90% of those interruptions were committed by male
+Loughland also notes
+that ‘the Chief Justice in both periods received the highest number of
+interruptions ... [suggesting]
+that, because the Chief Justice intervenes to
+regulate oral argument in their “chairperson” capacity, they have a
+chance of being interrupted by
+advocates’.
+Excluding the
+Chief Justice as ‘atypical’, Loughland concludes that in the period
+2015–16, the three female puisne
+justices received 71% of interruptions
+and in 2017 the two female puisne justices received 56% of
+interruptions.
+Loughland considers possible explanations for her finding that male advocates
+interrupt female justices more than male justices. She
+considers and disregards
+volubility as an explanator for interruptions, presenting the percentage of
+speaking time for each justice
+and concluding that there is no
+‘correlation between female justices’ volubility and their higher
+rate of interruption’.
+This is contrary to robust findings in US literature showing that the more
+justices speak, the more they are likely to be interrupted,
+which makes sense:
+increased speaking time increases exposure to potential
+interruption.
+Loughland also
+rejects seniority and the female register (ie, polite language) as factors that
+might explain the disparities she
+Once again, this
+conclusion is contrary to that established in the American
+literature.
+Loughland specifies
+that ‘[i]f ... we eliminate the judges’ own behaviour, the remaining
+explanation for these interruption
+patterns is that advocates perpetuate
+gendered norms during oral
+She endeavours
+to validate this claim by classifying each interruption as either neutral,
+affirmatory, clarifying, or pre-emptive,
+and determines that female justices
+suffered more pre-emptive interruptions than male justices, concluding that is
+evidence of gendered
+patterns in oral
+Loughland concludes by
+recommending two solutions: greater regulation of oral argument by the Chief
+Justice and training on unconscious
+bias for male
+II HIGH COURT ORAL ARGUMENT OVER A QUARTER OF A
+Examining a small sample of cases can be a practical solution if gathering
+data is resource intensive, but it is vital that the sample
+is representative of
+the whole. For instance, looking only at cases in 2015–17 may allow
+inferences about the contemporary
+court, but if norms change over time, or
+different Chief Justices conduct oral arguments differently – as Chief
+Justices themselves
+say they do
+– then generalising from only 45 cases could lead to misleading
+Jacobi and Schweers’ foundational US study on the impact of gender at
+oral argument first closely examines three Terms of the
+US Supreme Court, for a
+total of 156 cases, with 422
+interruptions.
+The study hand
+codes for issues that are hard to test in large databases, such as how often a
+justice defers to another justice who
+interrupted him or her. They find not only
+that men are more likely to interrupt women, but they are then less likely to
+acknowledge
+the fact or to cede the floor to a woman than to a
+To be sure that the effect
+is systematic, Jacobi and Schweers deploy a computational algorithm to identify
+all interruptions over
+12 Terms, confirming the results of the smaller
+In a subsequent study,
+Jacobi and Sag expand the sample further, covering Terms 1998–2018. They
+confirm the gender effect,
+although the ratio is slightly lower farther back in
+time, when fewer female justices were on the
+The importance of the
+broad data sample is illustrated in Figure 1, which shows the average rate of
+interruptions of the justices
+by advocates, per case, from 1997 to
+Figure 1: Average Interruptions of Justices by
+Advocates per Case, by Justice Gender, US Supreme Court 1997–2018
+In Figure 1, and throughout this comment, female justices are represented by
+the solid line and male justices by the dotted line.
+The figure demonstrates the
+variation by Term, showing that the effects found by Jacobi and Schweers did not
+occur every Term; if
+Jacobi and Schweers had happened to choose the 2001 and
+2013 Terms to examine in depth, for example, they would have concluded,
+incorrectly,
+that advocate interruptions of justices had no association with
+justice gender. Equally, if they selected the 2007 and 2009 Terms
+sample, the conclusion would have been that advocate interruptions of justices
+were gendered, but it would have overestimated
+the extent of that bias. By
+looking at more than a decade, instead the authors are able to show a quite
+consistent bias of advocates
+to interrupt female justices more than male
+justices, albeit with year-to-year variation as to the extent of that bias.
+Turning to the High Court of Australia, we see how the issue of sample
+selection plays out in Loughland’s study once we take
+a broader analysis
+of advocate interruptions of justices by gender, looking at every High Court
+oral argument from 1995–2019
+where the argument was heard
+(ie, by seven justices). The transcripts of oral arguments are freely available
+from both Austlii and Jade,
+are recorded and compiled by the High Court’s own internal reporting
+The transcripts are
+consistent in format and identify the case name(s), case number(s), and
+participating justices.
+Interruptions are indicated by the presence of three dashes (---) at the end of
+a speech episode.
+Figure 2 shows the average number of interruptions of justices by advocates,
+delineated by justice gender, in all High Court oral
+arguments with
+seven-justice panels between 1995–2019 inclusive.
+Figure 2: Average Interruptions of Justices by
+Advocates per Case, by Justice Gender, High Court of Australia 1995–2019
+(Seven-Justice
+Panels Only)
+As is evident from the figure above, although female justices are indeed
+interrupted by advocates more frequently than male justices
+between 2015 and
+2017 – the period of Loughland’s study – it is not the
+case that female justices are interrupted
+more than male justices in most years.
+In fact, there are more years in which male justices are interrupted at higher
+female justices by
+Loughland’s pilot study had chosen at random any two and half Terms
+between 2005 and 2013 to study instead of those
+coming after 2014, the initial
+results would have suggested gender bias against male justices. That finding
+would be unreliable for
+the same reason as the conclusion that female justices
+are disproportionately interrupted looking only at 2015–2017.
+Has Loughland nevertheless identified a recent phenomenon of bias against
+female justices? To answer that question, it is important
+to examine the scale
+of any effect: Loughland compared part of 2015 and all full panel cases in 2016
+and 2017. Here we see that even
+in those Terms, where the gender difference was
+as predicted, with women interrupted more, it was far smaller than, for
+the reverse effect that occurred in 2006 and 2007, when men were
+interrupted more than women at higher rates than women were more
+interrupted
+after 2015. The small size of the effect Loughland identifies means that it is
+very unlikely to be meaningful, but rather
+a product of natural variation. We
+find the same lack of a gender effect when we consider justice to justice
+interruptions, but of
+note the Terms in which the justice to justice gender
+difference is at its highest are 1999–2003, which all occur during the
+Gleeson reign – ie, under a male Chief
+One natural response to our finding that there is no significant gender
+effect in oral argument on the High Court is that there has
+not been equality in
+representation by gender on the High Court. But if female justices are being
+targeted for interruptions because
+they are female, then we should expect to see
+a large disparity between the rate at which women and men are interrupted versus
+much they interrupt, as was found at the US Supreme
+To address this question,
+Figure 3 looks at interruptions
+the justices of both justices and
+advocates, to see if there is a similar gender pattern in female to male
+interruption rates as
+there is in rates of being interrupted.
+Figure 3: Average Interruptions of Advocates and Justices by Justices per
+Case, by Justice Gender, High Court of Australia 1995–2019
+(Seven-Justice
+Panels Only)
+Figure 3 displays almost the identical pattern to Figure 2 above: female
+rates of interruption were disproportionately high during
+the early Gleeson
+years and during the Kiefel years, closely mirroring the Terms in which female
+justices were disproportionately
+interrupted. This suggests that Loughland may
+have been wrong to reject the ‘exposure’ thesis, whereby justices
+are interrupted
+more when they talk more, since the same gender differentials
+occur in terms of women being interrupted and women interrupting. We
+this possibility by controlling for the number of speech episodes by each
+justice in our regressions in the next section.
+Finally, Figure 4 examines the effect of gender in shaping interruption
+behaviour among the advocates, comparing the interruptions
+of justices by male
+and female advocates.
+Figure 4: Average High Court Interruptions of
+Justices by Advocate per Case, by Advocate Gender, High Court of Australia
+(Seven-Justice Panels Only)
+In contrast to the previous results, Figure 4 shows a clear and striking
+gender effect: male advocates interrupt more than female
+advocates in every
+single Term of the last 25
+Whereas female advocates
+consistently interrupt at almost zero in an average case, male advocates
+interrupt as much as between three
+and four interruptions per case on average in
+the high Terms between the late 1990s and the early 2000s. This emphatically
+Loughland’s finding of a gender effect in the identity of
+interrupting advocates.
+However, Figure 4 also shows, once again, that significant information can be
+missed by looking at just three Terms or less. While
+the gender effect of who
+interrupts is consistent in that men consistently interrupt more than women, it
+is importantly inconsistent
+in another respect: there is a very distinct
+downward time trend from 1997 onward. As such, while there is a clear gender
+among the advocates, it is one that is dissipating over time. And of
+equal note, the reduction in the gender effect plateaued during
+the male Chief
+Justice French’s reign, and then the gender difference began to reduce
+again during the female Chief Justice
+Kiefel’s reign. This is contrary to
+Loughland’s controversial claim that male Chief Justices, as exemplified
+Justice French, better improve gender equality than female Chief
+Justices, as exemplified by Chief Justice
+The next Part probes these findings more deeply, using more sophisticated
+statistical techniques.
+III BEYOND GENDER: EXAMINING MULTIPLE CAUSES OF
+INTERRUPTIONS AT ORAL ARGUMENT
+In this section, we utilise multivariate regression to more rigorously
+examine the relationship between not only gender and interruptions,
+but also to
+explore other potential explanatory factors, including seniority, volubility,
+length of oral argument, and the role of
+the Chief Justice. Regression is a
+statistical tool used to examine the relationship between two variables of
+interest – here,
+gender and interruptions – while holding constant
+(ie, ‘controlling for’) other factors that potentially affect
+relationship between those variables (ie, other potential explanations or
+confounding influences).
+For instance, in examining the effect of gender on interruptions at oral
+argument at the US Supreme Court, it is important to account
+for the fact that
+two of the three women currently serving on the Supreme Court are relatively
+Women may be interrupted
+more, but could that be a product of the relative lack of seniority of two
+thirds of the current female
+justices? Jacobi and Schweers use regression
+analysis to control for the effect of seniority on
+interruptions.
+experience to be significant, not just because it was in the American context
+but because greater expertise or seniority
+may increase confidence, and so a
+senior person might be likely to talk more, and the more a person talks the more
+they might be
+interrupted. Seniority could work the other way: more senior
+justices might get more deference, and so junior justices are more likely
+find themselves interrupted, even if they talk less.
+Loughland attempts to account for the potential for other factors, including
+seniority: her study compares the rate of interruption
+of one male and one
+female justice of similar
+However, this raises
+the same concern about unrepresentativeness as examining a limited number of
+Terms; for instance, if the comparators
+happen to be a very disruptive senior
+male justice and a very quiet junior female justice, or vice versa, the results
+could be very
+misleading. And, importantly for Loughland’s recommendation
+Loughland’s comparison of the final Term of Chief Justice French’s
+reign to the first Term of Chief Justice Kiefel’s
+rule raises similar
+Like experience, we expect volubility to be an important control variable, as
+some justices talk more than others, even controlling
+for seniority, and that
+creates more opportunities to be interrupted. Similarly, if more speaking leads
+to more interruptions, then
+we would expect more interruptions to occur in oral
+arguments that last longer, so we must also account for the length of argument
+for any given case. And, of course, we need to account for the presence of the
+Chief Justice on a panel, to see if he or she influences
+the rate of
+interruptions, as Loughland’s study claims. Table 1 outlines our key
+variables and the related descriptive data
+for all oral arguments with
+seven-justice panels from 1995 to 2019.
+: Descriptive
+Statistics, Oral Argument, High Court of Australia 1995–2019
+(Seven-Justice Panels Only)
+Justice Case Interrupted
+Number of interruptions of a justice per case
+Chief Justice
+If the justice is Chief Justice (yes/no)
+If the justice is female (yes/no)
+Justice years on court at oral argument
+Hours Argument
+Hours of oral argument per case
+Justice Case Speeches
+Number of speaking turns per justice per case (ie, volubility)
+Table 1 shows the means, standard deviations, minimums, and maximums of the
+variable we are trying to explain and predict –
+the occurrence of
+interruptions, at top – as well as our five potential explanatory
+variables. It shows that there is a high
+level of variance in many of the
+variables. Importantly, interruptions in a given case range between 0 and 30,
+suggesting that many
+factors might go into shaping interruptions, not just
+gender. Our variables for Chief Justice and Female are both dichotomous; as
+such, the means of those variables simply illustrate the prevalence of each
+– one in seven for the Chief Justice, and just
+under one in four for
+female justices since 1995. In terms of experience, the average justice serves
+approximately seven years, with
+some justices having as much as 17 years of
+experience on the Bench. Australia has highly variable length of oral arguments:
+mean oral argument lasts 6.23 hours but ranges from approximately one hour
+up to a whopping 27 hours.
+Finally, justice speech episodes vary considerably, which is unsurprising given
+the high variation in the length of oral arguments.
+Using these variables, we conduct multivariate poisson regression analysis to
+examine how (or whether) interruptions vary once we
+account for each of these
+factors in all cases with a full seven-justice
+Table 2 shows our
+results. It provides five different models to predict interruptions, with each
+model including a different subset
+of variables to enable us to test different
+theories of what drives interruptions at oral argument.
+Regression of Interruptions per Justice per Case, by Justices and Advocates,
+High Court of Australia 1995-2019 (Seven-Justice
+Panels Only)
+Chief Justice
+Female × Chief Justice
+Female × Experience
+Justice Speeches
+Hours Argument
+Log Likelihood
+Model 1 is the simplest test of any gender effect, looking only at the impact
+on interruptions of being female. This is the most generous
+Loughland’s theory because it does not allow any other possible
+explanation to enter into the equation. Nonetheless,
+it shows that being female
+is not associated with being interrupted more. In fact, the coefficient is
+negative, which implies the
+opposite conclusion that, if anything, men are
+interrupted more than women.
+However, that conclusion is also not supported because gender is not
+statistically significant at any level of confidence –
+the p-value of 0.4
+means that gender does not come even close to statistical significance, which
+standard social science requires
+be less than 0.05, at
+This shows, quite simply,
+that a justice’s gender is not a good predictor of who will be interrupted
+at Australian High Court
+Model 2 tests another of Loughland’s claims: that the gender of a
+justice and the gender of the Chief Justice interact in a
+meaningful way in
+predicting interruptions of High Court oral argument. The results of this model
+also do not support Loughland’s
+conclusion. Neither being Chief Justice
+nor being a female justice is a statistically significant predictor of whether a
+will be interrupted, or even close to achieving significance. Of
+critical importance, the interaction between gender and Chief Justice
+negative, indicating that, if anything, being a male Chief Justice is predictive
+of female justices being interrupted more;
+but it is also insignificant, meaning
+that the gender of the Chief Justice has not been shown to have any effect.
+Model 3 provides the simplest test of the role of seniority: it examines the
+effect of the gender of the justice, the experience of
+the justice, and a
+variable that captures the interplay between gender and experience – ie,
+the difference between being a
+junior male justice and a senior female justice,
+and the various permutations thereof. Model 3 is the only model where gender
+is a statistically significant predictor of whether a justice will be
+interrupted, but the coefficient is negative, meaning that,
+if there is a gender
+effect in seven-justice panels, it is that male High Court justices are
+interrupted disproportionately more
+than their female colleagues, directly
+contradicting Loughland’s findings. But that does not mean male justices
+are interrupted
+more: we have to interpret the three experience and gender
+variables together. Model 3 also shows that experience is highly statistically
+significant, with a p-value below 0.001 – ie, an effect we can have
+considerable confidence in – for both the experience
+variable and the
+interaction between gender and experience. Together, these three results show
+that more senior justices are interrupted
+more, that senior female justices are
+particularly prone to being interrupted, but that otherwise female justices are
+interrupted
+less. This means that female justices with five or more years of
+experience will be interrupted more than their similarly situated
+colleagues, but more junior female justices will be interrupted less than their
+junior male colleagues. This suggests that the
+exposure effect – the fact
+that more senior justices talk more – might be what is driving some of the
+results. To test
+this comprehensively, in Models 4 and 5, we include rates of
+judicial speech.
+In both Models 4 and 5, we include a measure of how many speech episodes a
+justice has in each case. In both models, judicial speech
+is highly significant
+and positive. This shows quite clearly that the exposure explanation is highly
+influential at High Court argument:
+the more a justice speaks, the more
+will be interrupted. This is true even accounting for the variation in
+the number of hours involved in the oral argument, which is
+unsurprisingly, positive and statistically significant. Thus, the exposure
+effect is not simply that justices talk more in
+longer oral arguments: even
+accounting for length of argument, the more a justice speaks, the more
+interruptions he or she will face.
+Turning to the interplay of experience of the justice and the Chief Justice,
+in Model 4, we include all of our variables except the
+interaction between
+Female and Experience, and in Model 5, we do the same but exclude the
+interaction between Female and Chief
+Considering the two
+models together, we see that, once again, gender is not significant. Further, we
+see that the interactions between
+gender and experience is significant but that
+gender interacting with the role of Chief Justice is not significant. In Model
+Chief Justice coefficient is significant, as is the interaction between
+gender and experience. This suggests that there is an important
+gender element
+here, but it does not operate simply by female justices being interrupted more;
+rather, there is an interplay between
+experience and gender and Chief Justice
+and gender. That is, interruptions of female justices occur more as a product of
+than gender.
+Since the coefficients of the regression model cannot be interpreted
+directly, Figure 5 shows what the substance of the effect of
+interacting with gender is.
+Figure 5: The Effect of Experience on the Rate of
+Interruptions of Male and Female Justices per Case, High Court of Australia
+(Seven-Justice Panels Only) (Model 5)
+Figure 5 shows how interruptions of male justices (represented by the dotted
+line) remain flat even as the justice’s experience
+goes from 0 to 20
+years. In contrast, interruptions of the female justice (represented by the
+solid line) actually start off slightly
+lower than interruptions of male
+justices in their first five years on the Bench, then increase with time,
+becoming noticeably higher
+after a decade on the Bench. However, the shaded
+regions represent the respective (overlapping) confidence intervals for each
+the fact that the shaded area covers the entire range of the data
+means that although this interaction is more established than any
+simple gender
+effect on interruptions, it, too, cannot be ascertained with standard levels of
+confidence.
+IV CONCLUSION
+Loughland’s study of interruption behaviour at the Australian High
+Court raises many valuable lines of inquiry, including on
+the importance of
+equal participation on the
+the constructive symbolic
+value of having women on the
+and the role of that
+representation in educating men away from gendered assumptions and
+But with only two and
+a half Terms, these conclusions were always preliminary. When examining 25 years
+of data, it is not possible
+to confirm those findings. None of our models,
+including the simplest test of the relationship between gender and
+interruptions,
+establish a gender effect: the only time the gender variable
+reaches standard levels of statistical significance, it points in the
+direction. This does not mean there is gender bias against male justices;
+rather, once we account for the role of the Chief
+Justice, the experience of the
+justice and the Chief Justice, the gender of both the justice and the Chief
+Justice, the extent of
+judicial speech participation at oral argument, and the
+length of the oral argument, it becomes clear that these other variables
+more significant in predicting interruptions at oral argument in the High Court
+than is any gender pattern.
+Of equal importance to the finding that there is no discrimination against
+female justices of the High Court are two other findings.
+The first result
+supports one of Loughland’s findings: there is a clear gender difference
+in advocate interruption behaviour.
+This is an unfortunate pattern, suggesting
+that male and female advocates face different expectations at the High Court;
+but importantly,
+we show that this difference is dissipating significantly over
+time. The second result undermines Loughland’s claim that the
+best way to
+ensure gender equality in High Court oral argument is to prefer male judges as
+Chief Justice.
+In fact, our
+results show that her conclusion arises because experience is a highly
+statistically and substantively significant factor
+in shaping interruptions, and
+it is the experience of the Chief Justice, not their gender, that shapes
+interruptions at High Court
+oral argument.
+Loughland deserves credit for being one of the early interrogators of
+empirical questions that have become vital to legal scholarship
+elsewhere and
+applying them in the Australian legal context. And the fact that only one of her
+three results holds does not in any
+way mean that Loughland was not right to
+question whether gender equality exists at the Australian High Court: although
+her finding
+that female justices are interrupted more than male justices since
+2015 cannot be confirmed as a statistically meaningful result,
+it is nonetheless
+a phenomenon that we should pay close attention to. This is particularly in
+light of other signs of gender bias
+associated with the High Court: within the
+century, the High Court had zero representation of women for
+multiple years, and it still shows evidence of stark gender differences
+advocate interruption behaviour. But the findings that the High Court does not
+display any significant evidence of bias in terms
+of female justices being
+interrupted disproportionately, at least in seven-justice panels, or any
+evidence whatsoever that men make
+better Chief Justices than women in ensuring
+gender equality, are results we should celebrate.
+* Stanford Clinton and Zylpha Kilbride Clinton Research Professor,
+Northwestern University Pritzker School of Law.
+** Professor of Political Science, School of Politics and International
+Relations, Australian National University.
+*** Lecturer and Research Fellow, School of Politics and International
+Relations, Australian National University.
+We are grateful for the financial support of the Australian National
+University Future Fellowship Scheme. Thanks to Russell Smyth
+for helpful
+comments. We thank Benjamin Durkin, Kate Johnston, Matthew Putt, Jonathan
+Tjandra and Indira Wrigley for their outstanding
+research assistance.
+Amelia Loughland, ‘Female Judges,
+Interrupted: A Study of Interruption Behaviour during Oral Argument in the High
+[2020] MelbULawRw 10
+(2019) 43(2)
+Melbourne University Law Review
+Ibid 825 n 9. See also Russell Smyth and
+Vinod Mishra, ‘Barrister Gender and Litigant Success in the High Court of
+(2014) 49(1)
+Australian Journal of Political Science
+13 (finding that when the appellant is represented by a female advocate in the
+High Court of Australia, the appellant is between
+38.3% and 42.3% less likely to
+receive the vote of a justice in the majority).
+Tonja Jacobi and Dylan Schweers,
+‘Justice Interrupted: The Effect of Gender, Ideology and Seniority at
+Supreme Court Oral
+(2017) 103(7)
+Virginia Law Review
+See, eg, Michael Kirby, ‘Rules of
+Appellate Advocacy: An Australian Perspective’
+(1999) 1(2)
+Appellate Practice and Process
+, 241 (‘[Orality] was the tradition
+that we all originally inherited from England’); Anthony Mason, ‘The
+Counsel and Appellate Advocacy’
+(1984) 58(10)
+Australian Law
+, 539 (‘The Court expects the oral argument, conforming to
+the written outline of submissions, to be presented succinctly, and
+in a lengthy
+case ... will require the presentation of detailed written submissions’)
+(citations omitted).
+Oral arguments have been shown to
+influence outcomes in the American context also: see Timothy R Johnson, Paul J
+Wahlbeck and James
+F Spriggs II, ‘The Influence of Oral Arguments on the
+US Supreme Court’
+(2006) 100(1)
+American Political Science Review
+, 107–8; Timothy R Johnson, ‘Information, Oral Arguments, and
+Supreme Court Decision Making’ (2001) 29(4)
+American Politics Research
+See, eg, David M O’Brien,
+Center: The Supreme Court in American Politics
+(W W Norton, 7
+ed, 2005) 241.
+See, eg, Stephen L Wasby, Anthony A
+D’Amato and Rosemary Metrailer, ‘The Functions of Oral Argument in
+the US Supreme
+Court’ (1976) 62(4)
+Quarterly Journal of Speech
+See, eg, Barry Sullivan and Megan
+Canty, ‘Interruptions in Search of a Purpose: Oral Argument in the Supreme
+Court, October
+Terms 1958–60 and 2010–12’
+Jacobi and Schweers (n 3)
+See, eg, Lyn Kathlene, ‘Power
+and Influence in State Legislative Policymaking: The Interaction of Gender and
+Position in Committee
+Hearing Debates’
+(1994) 88(3)
+American Political
+Science Review
+, 573 (showing that interruption rates are gendered in the
+state legislative context, despite the relatively powerful position of
+state legislators, and finding that as the proportion of women increases in a
+legislative body, men become more verbally aggressive
+with interruptions and
+tend to control the hearings); Hanna Bäck, Marc Debus and Jochen
+Müller, ‘Who Takes the Parliamentary
+Floor? The Role of Gender in
+Speech-Making in the Swedish Riksdag’
+(2014) 67(3)
+Political Research
+, 514 (arguing that women are expected to focus on
+‘softer’ policy issues that receive less debating time, leading to
+their marginalisation in legislative debate); Hanna Bäck and Marc Debus,
+‘When Do Women Speak? A Comparative Analysis
+of the Role of Gender in
+Legislative Debates’
+(2019) 67(3)
+Political Studies
+(using role
+incongruity theory to argue that ‘women take the parliamentary floor less
+often because of the gender stereotypes
+that are likely to guide the behaviour
+of party representatives’: at 576).
+See, eg, William M O’Barr and
+Bowman K Atkins, ‘“Women’s Language” or “Powerless
+in Sally McConnell-Ginet, Ruth Borker and Nelly Furman
+Women and Language in Literature and Society
+(Praeger, 1980) 93,
+94 (arguing that women are interrupted more because of their position of
+relative powerlessness in society at
+large); Janet E Ainsworth, ‘In a
+Different Register: The Pragmatics of Powerlessness in Police
+Interrogation’
+(1993) 103(2)
+Yale Law Journal
+(‘Women’s language developed as a way of surviving and even
+flourishing without control over economic, physical,
+or social reality’:
+at 284, quoting Robin T Lakoff,
+Talking Power: The Politics of Language in
+(BasicBooks, 1990) 205).
+Kathryn Rubino, ‘It
+Doesn’t Get Better: Women Supreme Court Justices Get Interrupted
+Above the Law
+(Blog Post, 6 April 2017)
+http://abovethelaw.com/2017/04/it-doesnt-get-better-women-supreme-court-justices-get-interrupted-too/
+Similarly, Prachi Gupta, ‘Even Ruth Bader Ginsburg Gets Interrupted
+(Blog Post, 5 April 2017)
+<https://theslot.jezebel.com/even-ruth-bader-ginsburg-gets-interrupted-by-men-1794051337>.
+itself concluded: ‘Our findings that female Justices are
+consistently interrupted more than their male counterparts in this
+setting show
+that gender dynamics are robust enough to persist even in the face of high
+levels of power achieved by women’:
+Jacobi and Schweers (n 3) 1484.
+On the institutional difference in
+oral argument between Australia and the US see Tonja Jacobi, Zoë Robinson
+and Patrick Leslie,
+‘Comparative Oral Argument: What Australia Can Teach
+Us about the US Supreme Court (and Vice-Versa)’ (Working Paper,
+2020) (‘Comparative Oral Argument’), available from the authors. See
+also David Bennett, ‘Argument Before
+the Court’ in Michael Coper,
+Tony Blackshield and George Williams (eds),
+The Oxford Companion to the High
+Court of Australia
+(Oxford University Press, 2001) 31; Sir Anthony Mason,
+‘Chief Justice, Role of’ in Michael Coper, Tony Blackshield and
+George Williams (eds),
+The Oxford Companion to the High Court of
+(Oxford University Press, 2001) 91; Benjamin Alarie and Andrew J
+Commitment and Cooperation On High Courts: A Cross-Country Examination
+Of Institutional Constraints On Judges
+(Oxford University Press, 2017).
+Loughland (n 1) 822.
+See, eg, Julia Hare, ‘Girl
+Interrupted: Talking over the Top of Female Judges’,
+BroadAgenda
+(Blog Post, 12 February 2020)
+http://www.broadagenda.com.au/home/girl-interrupted-if-it-happens-to-high-court-judges-rude/
+Michaela Whitburn, ‘Female High Court Judges “Far More Likely”
+to Be Interrupted than Male Peers: Study’,
+The Sydney Morning
+(online, 5 February 2020)
+<https://www.smh.com.au/national/female-high-court-judges-far-more-likely-to-be-interrupted-than-male-peers-study-20200204-p53xjw.html>;
+‘Overcoming Disproportionate Interruptions Faced by Female Judges’,
+The Lawyers Weekly Show
+(Lawyers Weekly, 6 March 2020)
+<https://www.lawyersweekly.com.au/podcast/27645-overcoming-disproportionate-interruptions-faced-by-female-judges>.
+Note however that Loughland examines
+cases where all seven justices sit on the panel, which are
+the exception at the High Court, accounting for only 33% of cases between
+and 2019. In a working paper, we find that panel size is an important
+consideration for advocate and justice behaviour at oral
+argument; we do find
+evidence of gendered interruption effects when looking beyond seven-justice
+panels: see Jacobi, Robinson and
+Leslie, ‘Comparative Oral Argument’
+(n 15) 69, 73, 80–1. However, in order to accurately and directly respond
+Loughland’s claims, we present findings only relating to seven-justice
+Loughland (n 1) 825.
+Ibid 825 n 9.
+Ibid 827–8.
+Tonja Jacobi and Kyle Rozema,
+‘Judicial Conflicts and Voting Agreement: Evidence from Interruptions
+at Oral Argument’
+(2018) 59(7)
+Boston College Law Review
+2297–8, 2300 (showing that ‘exposure’ through talking more is
+a significant predictor of being interrupted). See
+also Jacobi and Schweers (n
+3) 1437 (showing that the claim that female Supreme Court justices are
+interrupted more cannot be explained
+by the inaccurate trope that women talk
+Loughland (n 1) 830–3.
+See Jacobi and Schweers (n 3) 1442
+(showing that female justices learn to speak less politely and more like men
+over their tenure
+on the Court), 1444 (showing that seniority has a
+statistically significant impact on interruption rates).
+Loughland (n 1) 833.
+Ibid 834–6.
+Ibid 844–5.
+Bennett (n 15) 31 (providing Chief
+Justice Mason’s account of how his Honour changed oral argument from Chief
+Justice Dixon’s
+Jacobi and Schweers (n 3) 1457.
+Ibid 1461 (showing that both men and
+women are significantly more likely to recognise when they have interrupted a
+man than a woman
+and almost 30% more likely to defer to a man than a woman,
+ceding the floor to him rather than her).
+Tonja Jacobi and Matthew Sag,
+‘Can Supreme Court Culture Change? Interruptions at Oral Argument,
+Continued’ (Working
+Paper, 2020) available from the authors on request.
+See also Tonja Jacobi and Matthew Sag, ‘October 2018 Term in Review: Part
+III (Interruptions)’,
+(Blog Post, 14 May 2019)
+<https://scotusoa.com/2018term-interruptions/>.
+All figures shown exclude
+‘conversational overlaps’ – interruptions that happen within
+one second of another justice
+starting to speak: Jacobi and Rozema (n 26) 2307,
+who show that these overlaps are not associated with vote disagreement.
+‘High Court of Australia
+Transcripts’,
+http://www.austlii.edu.au/cgi-bin/viewdb/au/cases/cth/HCATrans/
+‘High Court of Australia: Transcripts (HCATrans)’,
+http://jade.barnet.com.au/c/HCATRANS
+Lex Howard, ‘Transcripts of
+Argument’ in Michael Cooper, Tony Blackshield and George Williams (eds),
+The Oxford Companion to the High Court of Australia
+(Oxford University
+Press, 2001) 682, 683.
+Using statistical and computational
+methods, we extracted metadata from each transcript (including case name and
+number, start and
+end times of argument) and we identify the relevant
+‘chunks’ of text representing the speaking events of all speakers
+during oral argument, delineated both broadly (ie, between justice and advocate
+speaking turns) and specifically (ie, where a speaking
+turn is identified by
+speaker name).
+Replicating the method outlined in
+Jacobi and Sag (n 36) n 5. An audit of the text of the transcripts, as well as a
+sample of the
+audio files of oral argument indicates that the ‘---’
+accurately denotes an interruption of one speaker by another speaker
+than, for example, an abrupt end to a speech.
+The break in the data – the
+missing squares in the female interruption lines – arise because there
+were no women on
+the Court for the majority of 2003, after Gaudron J retired at
+the end of January 2003, and no women at all in 2004. While Crennan
+seat on the Court on 1 November 2005, she did not participate in oral argument
+until 2006, thus there are no data for
+female interruptions in 2005.
+Tonja Jacobi, Zoë Robinson and
+Patrick Leslie, ‘What Explains Interruptive Behavior on the High Court of
+Australia?’
+(Working Paper) (finding no gendered propensity for justices
+to interrupt one another, examining all cases from 1995 to 2019). Loughland
+mentions justice to justice interruptions in her appendix, as she notes,
+correctly, that Australian High Court justices do not
+interrupt each other much:
+Loughland (n 1) 825 n 9, 848 (‘Interruptions by male advocates represented
+96.8% of interruptions
+in 2015–16 and 90% in 2017’: at 825 n 9).
+Jacobi and Schweers (n 3) 1437; Tonja
+Jacobi and Matthew Sag, ‘Justice-to-Justice Interruptions: Gender versus
+, (Blog Post, 3 August 2018)
+<https://scotusoa.com/justice-to-justice-interruptions-gender-versus-ideology/>.
+However, caution must be
+exercised in drawing inferences from these descriptive data. As Loughland notes,
+there are very few female
+advocates who appear in a speaking role before the
+High Court in oral argument on the merits: Loughland (n 1) 825 n 9. Indeed, in
+our dataset of oral argument before seven-justice panels, the ratio of male to
+female advocates is 18.8% (ie, between 1995 and 2019
+9,560 male advocates appear
+before the court versus 1,797 female advocates).
+Loughland (n 1) 845.
+Justice Sotomayor was appointed in
+2009 and Justice Kagan was appointed in 2010. At the time of the Jacobi and
+Schweers study, 2017,
+which included data up until 2015, the average judicial
+tenure was more than 25 years.
+Jacobi and Schweers (n 3) 1450,
+1479–82 (showing seniority has a small but statistically significant
+effect, and still identify
+a larger gender effect).
+Loughland also examines volubility as
+a possible explanator for her findings: Loughland (n 1) 828–30.
+We calculate the length of oral
+argument for each case using the start and finish times indicated in each
+transcript, accounting
+for any breaks (eg, lunch) as indicated by the
+transcript.
+These regressions were estimated using
+a mixed-effects multilevel model equation with random intercepts grouping
+observations for
+each justice and year (20 Justices over 24 years). This
+formulation allows us to account for clustering of observations which under
+regression assumptions are assumed to be independent from one another. For a
+full explanation of this model, see Andrew Gelman and
+Jennifer Hill,
+Analysis Using Regression/Multilevel Models
+(Cambridge University Press,
+2006) ch 15.
+The poisson regression coefficient
+predicts changes in the count of interruptions experienced by justices of the
+High Court. Positive
+coefficients indicate a greater number of interruptions
+per-justice per-case. More precisely, coefficients are associated with the
+logarithm of the mean of the poisson distribution, which means that we cannot
+interpret coefficients directly as with an ordinary
+least squares regression.
+For a prediction of the number of interruptions conditional on an explanatory
+variable, we calculate predicted
+values and graph them (see Figure 5). The
+female coefficient is negative but not significant in most cases, meaning that
+of gender is not distinguishable from zero. This coefficient is
+negative and significant in Model 3 for reasons explained in the
+below. Note, however, that if we look beyond the seven-justice panels that
+Loughland uses as her test, we find that the
+coefficient is positive, but still
+not significant: see Jacobi, Robinson and Leslie, ‘What Explains
+Interruptive Behavior on
+the High Court of Australia?’ (n 43).
+At p <.05 level, we can have 95%
+confidence that the results are not the product of a random effect. At the .01
+significance
+level, the confidence is 99%, and at p <.001, the confidence
+level is 99.9%. 95% confidence is the standard social science measure,
+considered the minimum test to make any statistical claim. See, eg, Michael
+Lewis-Beck, Alan Bryman and Tim Futing Liao,
+The SAGE Encyclopedia of Social
+Science Research Methods
+(Sage Publications, 2004).
+We also included a variable that
+accounted for the proportion of women on the panel in order to control for any
+possible effect
+of more or less women at any given time. We found that there was
+no association between the number of women on the panel and an increase
+decrease in interruptive behaviour. Details available from the authors.
+We cannot include both in one
+regression given the limited number of female Chief Justices.
+The confidence intervals become wider
+as experience increases because fewer justices serve for between 10 and 20
+Loughland (n 1) 841 (female
+justices’ ‘lack of full participation in the institution’s
+most important deliberative
+process [due to being interrupted] casts doubt over
+their substantive equality’).
+Ibid 842 (‘almost equal
+representation of female judges ... is not enough to overcome subtle gender
+discrimination’).
+Print (pretty)
+Print (eco-friendly)
+RTF format (791 KB)
+PDF format (1.13 MB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

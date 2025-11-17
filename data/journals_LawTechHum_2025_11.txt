@@ -1,0 +1,1751 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/LawTechHum/2025/11.html
+Scraped: 2025-11-17 15:13:21
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Tranter, Kieran; Peters, Timothy D --- "Benchmarks for Australian Law Researchers' H-Index and Citation Count Bibliometrics" [2025] LawTechHum 11; (2025) 7(1) Law, Technology and Humans 154
+Benchmarks for Australian Law
+Researchers’
+H-Index and Citation Count Bibliometrics
+Kieran Tranter
+Queensland University of Technology, Australia
+Timothy D. Peters
+University of the Sunshine Coast, Australia
+Law research impact; bibliometrics;
+benchmarks; H-index; citation counts; Google Scholar.
+1. Introduction
+Assessing the quality and impact of research has
+become a perennial concern of the contemporary university. The progressive
+neoliberalisation
+of the university from the 1980s onwards has been accompanied
+by an increasing emphasis on the need for accountability assessments
+quality and impact of research produced at institutional and national
+Universities internalise
+these drivers by seeking to performance manage academics towards the production
+of ‘high quality’
+and ‘impactful’ research, so as to his
+improve university performance in government research excellence
+assessments—such
+as the Excellence in Research for Australia (ERA) or UK
+Research Excellence Framework (REF) assessments—and other ranking
+such as university league tables. These include the Times Higher
+Education (THE) World University Rankings and the Academic Ranking
+Universities (Shanghai Ranking).
+This has given rise to multiple debates about not only what counts as
+excellence, quality, and impact but whether and how these can
+be measured. One
+component of this debate relates to the use of various forms of quantitative
+indicators, as opposed to the qualitative
+judgement of peer review assessments.
+Benefits of quantitative measures of, for example, citation data include an
+apparent ability
+to measure academic impact and influence of research in a
+numerical form and a relatively efficient fashion. Critiques of these approaches
+include the limits of the datasets used to produce such indicators and questions
+as to whether the indicators are representative
+of influence. The impact of the
+use of such measures on the actual production of quality and impactful (however
+these terms may be
+defined) research is also
+questioned.
+Alongside these developments, the emergence of large online repositories of
+academic work has generated a new field of bibliometrics.
+These large datasets
+have been utilised to identify benchmarks in relation to publishing practices
+and impact measures within different
+disciplines.
+Currently, there are
+many studies of bibliometric measures for researchers in various science,
+technology, engineering, and mathematics
+(STEM) and health
+disciplines.
+There have been fewer
+studies of humanities and social sciences (HASS) bibliometric
+and fewer again for
+professional HASS disciplines such as
+However, Australian law
+researchers are using personal bibliometric data in applications for positions,
+as substantiating evidence
+in promotion applications, and as evidence of
+research impact and excellence in competitive grant applications. Further,
+universities are using bibliometric measures in performance and staff
+management matters.
+This is not
+unique to Australia, with researchers and their institutional managers in other
+nations also using bibliometric data
+for similar
+Benchmarking studies
+provide aggregated data that an individual’s bibliometrics can be compared
+to. Without recent and defensible
+benchmark data, an individual’s data
+tell a partial story. This is particularly so for Australian law researchers,
+where jurisdictional
+focuses and diverse specialisations might mean that law
+researcher bibliometrics look quite different to other disciplines (and may
+considered as below expectations, compared to STEM colleagues). Having recent
+and defensible Australian law-specific benchmark
+data allows assessment of law
+researchers and debates about impact and quality of law research in Australia to
+be guided more on
+its own terms.
+At the same time, there are concerns about the use of bibliometrics as the
+basis for assessing legal
+These include
+limitations as to the representativeness and accuracy of certain datasets and
+whether quantitative or bibliometric
+measures are appropriate for assessing
+legal research (and research in the humanities and social sciences more
+broadly). Bibliometrics
+may also compound the individualising nature of
+performance management and research assessment in the context of the neoliberal
+and digital capitalism. In this context, there has been a push
+towards more responsible research assessment mechanisms as well as
+development of more transparent and comprehensive datasets (though these are
+still emerging).
+assessment processes that rely heavily on peer review and qualitative
+benchmarking impose a significant administrative and
+academic burden. Thus, new
+approaches to research assessment are placing greater emphasis on data-driven
+analysis and university
+performance measures often still rely on data-driven
+narratives.
+This article reports on a study of Australian-based law researchers’
+H-index and total citation counts, as recorded on Google
+Scholar in September
+2024, divided by academic position. The study aimed to provide the Australian
+legal academy, particularly more
+junior researchers, with more reliable data
+as resources when crafting narratives about research impact and
+excellence. Our aim was not to directly contribute to the important
+debate about
+what should be the measures used to assess impact and excellence of Australian
+legal research. Rather, this article
+engages with the ‘is’
+life as an Australian legal researcher,
+and only tangentially with the
+‘ought’ propositions about what could be better measures, processes,
+and datasets. We know
+and see Australian law researchers using Google Scholar
+data in grant and promotion applications. We regularly engage with university
+managers and colleagues from other disciplines who seemingly treat H-index
+scores as authoritative indications of a researcher’s
+excellence. To be clear, in undertaking this research, we are not endorsing
+H-indexes, Google Scholar, or bibliometrics
+as wonderful additions to the rich
+fulfilment of life as a scholar.
+In fact, our tendencies are to the opposite, upon which we reflect and theorise
+in the final section. However, the fact that Google
+Scholar data and H-indexes
+are being used daily within the Australian legal academy, often by junior
+members trying to build narratives
+undertake this study.
+Specifically, this study was conducted after attending a ‘How to get an
+Australian Research Council (ARC) grant’ seminar
+that was organised by the
+research office at one of our institutions. One of the speakers was a HASS
+researcher who was a member
+of the ARC’s College of Experts—the peer
+review body that ranks and recommends applications—speaking about the
+‘Research, Opportunity and Performance Evidence’ section in an ARC
+application. The speaker was denotive and specific.
+When it came to performance
+evidence, they told a room of over 100 (mostly junior) colleagues that
+researchers need to include their
+bibliometric data, positioned in relation to
+the ‘benchmark’ studies for their discipline. They noted that, in
+own discipline, benchmarking studies are published quite regularly. The
+absence of such benchmarking studies in law instigated our
+engagement with
+bibliometric discipline benchmarking and the study presented in this
+The article is structured in five parts. The background briefly locates the
+study within the context of bibliometrics as well as broader
+shifts in research
+assessment. The second part overviews the study, how the data were gathered, and
+the limitations. The third part
+presents the data. The fourth part provides a
+brief discussion of the data and what they reveal about Australian law schools
+contribute to understanding the place of bibliometric data for researchers.
+The final part concludes by highlighting the limitations
+in using bibliometric
+data and its complicity in both the neoliberal university’s and digital
+capitalism’s erosion of
+collectivity, to which we need to respond.
+There are many different bibliometric
+The simplest measures
+are total citation counts or total number of publications. Total citation counts
+are often used to indicate
+that a researcher has had impact in their discipline
+through having their work cited in subsequent publications. However, citations,
+by themselves, do not indicate the level or direction of impact and there have
+been studies that call into question their representativeness
+of influence in
+Other disadvantages of
+total citation counts relate to the effect of outliers, where a single or small
+number of publications generate
+the citations. This raises the question of what
+understanding of impact and quality should be attached to outlier publications
+the broader context of a researcher’s overall contribution. Total
+number of publications reveal a continual contribution to
+a discipline. However,
+they do not reveal detail about how the researcher’s work has been taken
+up by others, which raises
+potential concerns of quantity over quality.
+Addressing some of these concerns, the H-index was proposed by Jorge Hirsch
+It is a figure produced
+by ranking a researcher’s publication by citation count. An H-index of 10
+means that a researcher has
+10 publications each with 10 or more citations.
+Arguments for the H-index, over simpler bibliographic measures, are that it
+the outlier effect of total outputs and aims to factor in impact
+within disciple to present a figure about a sustained contribution
+However, the H-index has
+five well-known weaknesses. First, it is weighted towards established
+researchers who have had the opportunity
+to publish over a period of time.
+Second, due to its favouring of established researchers with stable long-term
+careers, it discriminates
+against women researchers and others who do not
+conform to the traditional figure of the ‘ideal’
+Third, it can be seen
+as favouring researchers working in certain STEM fields where there are large
+collaborative research teams,
+publishing many, small, coauthored articles.
+Fourth, it does not factor for highly cited articles and could therefore be
+as preferencing quantity over quality. Finally, it is entirely
+dependent on the underlying repository
+This is particularly
+significant for Australian law researchers where the established STEM-focused
+repositories (Scopus and Web of
+Science) have significantly incomplete coverage
+of journals in which law researchers, particularly Australian law researchers,
+Furthermore, like the
+general point about citations as an indicator of influence noted above, the
+H-index does not address the context
+of why or how particular research outputs
+are cited. It is also premised on the fact that the acknowledgement of
+one’s influences
+or sources occurs through the practice of citation, which
+is different for a range of disciplines and types of scholarship.
+Many of the more recent indexes are modifications of the H-index that attempt
+to incorporate more variables to address some of these
+criticisms.
+The G-index, for
+example, seeks to account for actual citations, including of a small number of
+highly-cited papers.
+the HG-index combines the H-index and
+The M-index attempts to
+factor in career length to address the gender discrimination inherent in H-index
+Issues for M-index
+calculations are availability of reliable career length data and identifying and
+factoring in career disruptions.
+A recent Australian study has identified that
+women researchers are still more likely to experience career disruptions and are
+less likely to disclose disruptions than male
+researchers.
+These entrenched
+patterns of disadvantage and limitations highlight that the H-index—like
+any other bibliometric or citation
+measure—are only limited, rough and
+ready proxies for considering a researcher’s contribution. This is one of
+the reasons
+that there has been a growing move away from certain forms of
+bibliographic measures, as well as a greater emphasis on the responsible
+contextual use of such
+indicators.
+These shifts are
+aiming to develop more transparent and reflective indicators of research quality
+and impact.
+bibliometric—including the H-index benchmarks that we present
+below—may be useful to create narratives and meanings
+researcher’s contribution. However, it is important to emphasise that
+individual, disciplinary, and institutional
+contexts must be taken into account,
+and bibliometrics should be treated as a partial, data dependent, abstract
+A fundamental reason for this is that underpinning citation-based metrics is
+an assumption that a cited source has been influential
+in the development of the
+work in which it is cited. These indicators have meaning only on the basis of
+causation. Material is cited for diverse
+reasons—because the cited material is influential, because it was found
+and inserted
+while addressing reader/reviewer comments, or as an opportunity to
+In this sense, one
+must not take bibliometrics too seriously, believing that both the data and
+their summary representations have
+meaning independent of the interpretation and
+context that we give them. We return to this point in the concluding
+discussion.
+This study was on law academics based in Australian universities’
+H-index and total citation count as recorded on Google Scholar
+in September
+Google Scholar was used in
+preference to other repositories, such as Scopus or Web of Science, as legal
+research is poorly covered
+within those repositories (and they have very limited
+coverage of books and book
+This is not to
+suggest that Google Scholar contains a complete record of all publications
+within which Australian law academics are
+cited. It is merely more
+representative—significantly so for the law discipline—than Scopus
+or Web of Science.
+corresponds with broad evaluations which suggest that Google Scholar captures
+more citations than other
+repositories.
+There are, however, a number of criticisms of Google Scholar, some of which
+relate to this greater inclusion. First, Google Scholar
+includes direct
+self-citations (generally excluded by Scopus and Web of Science), which some
+argue distorts the measure of impact.
+Conversely, other studies indicate that
+this makes little difference to the comparative quality of the measure and that
+self-citation
+that accords with the practices of the discipline is not an
+Second, Google Scholar
+sources its material from both indexing of repositories and web scraping. Thus,
+its algorithms sometimes incorrectly
+include publications within a particular
+scholar’s profile and citation counts (that it requires the scholar to
+actively exclude).
+This has given rise to concerns about its susceptibility to
+manipulation and inaccuracy—particularly given the rise of artificial
+intelligence (AI)-generated content—and that Google is not active enough
+in excluding citation-manipulating
+This is likely to
+affect counts of number of outputs significantly more than the H-index scores,
+which already exclude lowly-cited
+publications. A third criticism of Google
+Scholar is that Google’s algorithms and inclusion criteria are not
+transparent and
+that its own drivers for providing the service are opaque.
+Meanwhile, it institutionalises ‘platform approaches to daily academic
+practice’ that embed platforms like Google Scholar as a key intermediary
+and source of information about research trends, thus
+reducing academic
+In the context of these limitations and the push for more responsible and
+accurate research measures and indicators, there are a number
+of alternative
+transparent, and free to use, thus providing
+strong alternatives to both Scopus
+and Web of Science
+Google Scholar. They are also aiming towards a
+more comprehensive coverage. It should also be noted that Scopus and Web of
+are also working to increase their coverage, including of books and book
+chapters. In the future, platforms such as OpenAlex, The
+Lens, and Matilda may
+provide a stronger basis for bibliographic
+Currently, Google
+Scholar—for all its flaws—provides better coverage of legal
+In addition to greater capturing of publications and citations, Google
+Scholar was also used in this study as it provides for individual
+researchers to
+establish profiles.
+profiles generate a public-facing page that presents bibliometric data for that
+researcher. These data are generated and ‘published’
+with a form of
+permission.
+As such, we believed
+this was a better source than the bibliometric data generated by Scopus or Web
+of Science, where the researcher
+has not undergone a process of permitting
+access to their bibliometric data. A researcher’s Google Scholar profile
+provides the researcher’s appointment and institution: ranking of
+publication by citations; and a data box containing raw citation
+H-index, I-10 index (and those measures for the last five-year period), and a
+bar graph with citations by year for the past
+eight years, which can be expanded
+to career length.
+The population for the study was Australian law academics, defined as
+researchers publicly listed by an Australian law school’s
+webpage as an
+academic member of staff. The Council of Australian Law Deans’s list of
+law schools
+was used to identify
+the Australian law schools. The list of academic staff was usually a discrete
+page linked from the law school’s
+the staffing list was by larger academic unit and a process of searching staff
+to identify
+law researchers was undertaken. In Australia, the five core academic
+levels are (from junior to senior) Associate Lecturer, Lecturer,
+Lecturer, Associate Professor, and Professor. Most Australian law schools
+followed this convention.
+Having generated the list of academics associated with a particular law
+school, the research process involved searching for their
+names in Google
+Scholar. If the researcher had a Google Scholar profile, then the research
+assistant recorded their academic level,
+H-index, total citations, and I-10
+scores. If there was no Google Scholar profile, this was noted, and we moved
+onto the next name
+on the list.
+In this process, some anomalies were observed and resolved. Foremost, data
+were only recorded for academics that, from the listing
+on staff pages, appeared
+to have a substantial position. Excluded from the study were academics listed as
+‘Sessional,’
+‘Adjunct,’ ‘Emeritus,’ or
+‘Visitor.’ There was significant diversity between law schools of
+numbers listed with these categories on staffing pages. Second, staff listed
+as ‘Teaching Assistant’ or ‘Teaching
+Intensive’ were
+excluded, on the basis that those roles do not have a substantial research
+expectation. Third, some law schools
+had staff with variations on the title
+‘Research Fellow’ and ‘Senior Research Fellow.’ In
+Australia, these
+are generally research-intensive positions, often on contract
+for several years connected with a distinct project, for example, employed
+an ARC-funded research project. Research Fellows are usually paid within the
+same band as Lecturers, and Senior Research Fellows
+within the same band as
+Senior Lecturers. Given this institutional equivalence, Research Fellows were
+coded as Lecturers and Senior
+Research Fellows as Senior Lecturers. There were
+only a small number of Research Fellows and Senior Research Fellows in the
+Fourth, some universities had a title ‘Distinguished
+Professor’ and a small number of academics with this title were
+in the sample. As we understand, this title is based on esteem recognition and
+is not a separate academic band; as such,
+these were counted within the
+Professors cohort. Finally, one law school used the title ‘Assistant
+Professor’ for junior
+faculty. The data recorded for those academics
+correlated with the ‘Senior Lecturer’ band and were coded as such.
+this process, a sample of 1,441 researchers were identified.
+The extraction process was undertaken over September 2024 and was conducted
+by a single research assistant. There are some limitations
+that should be noted.
+As Google Scholar is a ‘live’ repository, citations and calculation
+of metrics happens continuously.
+This means that academics’ data recorded
+at the beginning of the study period might have increased by the time of the
+recording. Indeed, for one of the authors, their total citation count
+increased by 50 from when their Google Scholar profile was
+scraped to the end of
+September. While extracting all Google Scholar data at a single point in time
+would have been ideal to claim
+a precise snapshot, the study’s aim was to
+extract a large dataset for benchmarking purposes. Changes in individuals’
+figures from the beginning to the end of the recording process—a four-week
+period—would not have greatly changed the
+aggregate benchmarking data.
+Another limitation is the accuracy of staff lists on university webpages. It is
+acknowledged that the
+movement of academics between positions often outstrips
+the public-facing information on Australian universities’ websites.
+the data excluded teaching-intensive positions, no distinction was made between
+those who were on balanced, research-focused,
+or research-only positions. It was
+also impossible to capture those who may have had extended periods of
+research-focused or research-only
+periods in the past, which may have increased
+research output (and therefore resulted in higher citation and H-index scores).
+addition, there was no distinction between different areas or types of legal
+research (or law academics engaged in research in other
+fields), which also
+affect both the number of publications a scholar may have and the level of
+citations. Furthermore, only 63% of
+academics searched had a Google Scholar
+profile. Again, our aim was to construct aggregate benchmarking data, not a
+complete verifiable
+snapshot of the Australian legal academy.
+To reduce researcher error in finding Google Scholar profiles, or in
+transferring from Google Scholar profiles into our recording
+sheet, the raw
+extracted data were crosschecked by the authors and anomalous records were
+double checked. The data were recorded
+in Microsoft Excel and analysis of the
+data was undertaken in Excel. A research assistant with a background in
+statistics assisted
+with the analysis.
+There were 913 members (63%) of the Australian legal academy who had a Google
+Scholar profile. In our primary sample, 528 (37%) did
+not have a profile. The
+mean and median total citation counts and mean and median H-indexes are
+presented in Table 1.
+. Mean and Median H-Indexes and
+Citation Counts, Australian Law Academics
+total citation count
+total citation count
+Mean H-index
+Median H-index
+Associate Lecturer
+Senior Lecturer
+Associate Professor
+Australian Legal Academy total
+Google Scholar, September 2024
+Table 1 provides means and medians; it does not show the distribution of
+bibliometric data across the academy. Figure 1 shows the
+distribution of
+H-indexes and Figure 2 shows the distribution of citation counts across the
+whole of the Australian legal academy.
+Figure 1. Distribution of H-indexes, Australian Law
+Google Scholar, September 2024.
+Figure 2. Distribution of citation counts, Australian Law
+Scholar, September 2024.
+Figures 3 and 4 provide the distribution of H-indexes and citation counts for
+Professors. Table 2 provides the quartile ranges.
+Figure 3. Distribution of H-Indexes, Australian Law
+Scholar, September 2024.
+Figure 4. Distribution of citation counts, Australian Law
+Scholar, September 2024.
+Table 2. Quartile division for citation count and H-indexes, Australian
+Law Professors
+Citation count
+Google Scholar, September 2024.
+Figures 5 and 6 provide the distribution of H-indexes and citation counts for
+Associate Professors. Table 3 provides the quartile
+Figure 5. Distribution of H-indexes, Australian Law
+Associate Professors
+Scholar, September 2024.
+Figure 6. Distribution of citation counts, Australian Law
+Associate Professors
+Scholar, September 2024.
+Table 3. Quartile division for citation count and H-indexes, Australian
+Law Associate Professors
+Citation count
+Google Scholar, September 2024.
+Figures 7 and 8 provide the distribution of H-indexes and citation counts for
+Senior Lecturers. Table 4 provides the quartile ranges.
+Figure 7. Distribution of H-indexes, Australian Law Senior
+Google Scholar, September 2024.
+Figure 8. Distribution of citation counts, Australian Law
+Senior Lecturers
+Scholar, September 2024.
+Table 4. Quartile division for citation count and H-indexes, Australian
+Law Senior Lecturers
+Citation count
+Google Scholar, September 2024.
+Figures 9 and 10 provide the distribution of H-indexes and citation counts
+for Lecturers. Table 5 provides the quartile ranges.
+Figure 9. Distribution of H-indexes, Australian Law
+Google Scholar, September 2024.
+Figure 10. Distribution of Citation Counts, Australian Law
+Google Scholar, September 2024.
+Table 5. Quartile division for citation count and H-indexes, Australian
+Law Senior Lecturers
+Citation count
+Google Scholar, September 2024.
+Figures 11 and 12 provide the distribution of H-indexes and citation counts
+for Associate Lecturers. Due to the small sample at this
+level, quartiles have
+not been calculated.
+Figure 11. Distribution of H-indexes, Australian Law
+Associate Lecturers
+Google Scholar, September 2024.
+Figure 12. Distribution of citation counts, Australian Law
+Associate Lecturers
+Google Scholar, September 2024.
+The benchmark data, and the research process we undertook to generate them,
+have a range of implications for the visibility of Australian
+law researchers,
+the Australian legal academy as a whole, and law researchers living with
+bibliometrics.
+Visibility of Australian Law Researchers
+First, the process we undertook to find and collate Australian law
+researchers through using Australian universities’ public-facing
+was enlightening. Most universities had a delineated web presence dedicated to a
+school or faculty of law. Many then had
+a clear link from that page to a page
+displaying staff attached to that law school. However, the visibility of law
+researchers on
+the webpages of some Australian universities was less clear.
+Although offering Bachelor of Laws (LLB) degrees—the primary professional
+legal degree in Australia—and having active law researchers, pinpointing
+the law academics on these websites was more difficult.
+Further searches of
+staffing profiles were required to identify staff with titles like
+‘Lecturer in Law’ or whose description
+included law qualification or
+teaching of law subjects. Further, although we did not rely upon individual
+staff pages for our data,
+these revealed significant diversity in the types and
+veracity of staff data that Australian universities were making available.
+universities did not provide any research-related data about staff, such as
+publications, grants, or PhD supervisions/completions.
+Much of the data that
+were available on the official university pages were dated, with many staff
+profiles seemingly not updated
+since the Covid-19 pandemic.
+A second point relates to Google Scholar coverage. Within our sample of 1,441
+Australian law researchers, 528 (37%) did not have a
+Google Scholar profile.
+Within the ranks, 23 Associate Lecturers, 228 Lecturers, 117 Senior Lecturers,
+66 Associate Professors, and
+94 Professors did not have Google Scholar profiles.
+This suggests that more senior members of the Australian law academy are more
+likely to have a Google Scholar profile, possibly reflecting the authorising of
+a profile to obtain bibliometric data for promotion
+or grant application
+The Australian Law Academy
+Although we recorded the data by university, we have chosen not to present
+those data in this article. Institutional bibliometric
+data are commonly used to
+generate ranking tables of institutions within
+disciplines.
+Tensions may arise
+where junior staff want to authorise Google Scholar profiles for promotion and
+grant purposes. Institutions may
+discourage this to maximise institutional data
+for ranking purposes as junior staff would, on average, have lower bibliometric
+then senior researchers. The purpose of this study was to generate
+benchmarks that could be useful to Australian law academics in
+institutional performance expectations and to provide resources to help them
+craft narratives about research impact in
+promotion and grant applications. It
+was not conducted for the benefit of university managers to generate ranks of
+Australian law
+schools, creating another opportunity for the sort of sordid data
+gamification that has been evident in relation to research impact
+assessments.
+Within the STEM and health research communities, different cultures of
+academic publishing have meant that there are concerns about
+bibliometric data across
+disciplines.
+Neurosurgeons, for
+example, are particular to explain why their average bibliometric data is lower
+than the averages for researchers
+in the biological
+As has been emphasised
+by the moves towards responsible research
+assessment,
+comparison of
+citations across disciplines or sub-disciplines is inappropriate. It does not
+take into account the ‘distinctive
+ecology of citations’ and
+citation practices within each
+discipline.
+As we emphasised
+above, the use of any bibliometric data needs to be situated within a context
+and narrative, and is only ever a
+partial and limited indicator. Furthermore,
+given the differences in coverage, comparisons should not be made between
+that are drawing from different databases as like-for-like comparison
+is not possible. What can be seen, however, in comparing the
+Australian data for
+the law discipline with other discipline-wide data, is that the overall shape of
+the data is comparable.
+Figure 1, there is a long tail on the x-axis of individual researchers with very
+high H-index values and this pattern is repeated
+in Figure 2 with total citation
+counts. As in other disciplines, law in Australia has a very small cluster of
+senior researchers
+whose bibliometric data significantly outstrips the median.
+This is clear in the metrics for Professors in Figures 3 and 4 and is
+in all other discipline-wide benchmarking studies.
+What the findings from this study
+facilitate are
+discipline-specific benchmark resources that Australian law researchers can use
+in crafting research narratives. This
+is particularly important for those
+scholars working in cross-disciplinary environments. It is also of particular
+importance where
+centralised decision-making regarding promotion or research
+performance requires scholars to present their research quality and impact
+executive decision makers from other disciplines with different disciplinary
+expectations. There is a general sense that, in promotion
+applications in
+Australia, applicants should be able to show activity that is comparable with
+the level for which they are
+For example, a Senior
+Lecturer applying to be an Associate Professor should show activity that is
+commensurable with that of Associate
+Professors. In this study, we have
+extracted three figures in relation to total citations and H-indexes that
+applicants could use
+to craft promotion narratives to evidence that they are
+‘performing up:’ means, medians, and quartiles. Table 1 illustrates
+differences between means and medians, especially for total citation counts. For
+example, for Associate Professors, the mean citation
+count was 477.9 while the
+median was 302. This is due to the long tail in the sample. There was less of a
+difference between the
+mean and median H-indexes across all the levels (for
+Associate Professors, the mean H-index was 9.4, the median was 9), reflecting
+that the H-index is a normalised measure that mediates outlier total citation
+counts. These different measures allow applicants different
+articulating that they are performing up in a promotion application. Due to the
+outlier influence of the long tail across
+all levels, we would suggest that the
+median figure is better than the mean. The median measures allow claims that an
+applicant has
+metrics equal to or better than 50% of the cohort to which they
+are comparing themselves. For example, a Senior Lecturer with an
+H-index of 10
+could, based on this study, make the argument that their H-index is within the
+top 50% of Associate Professors. Further,
+our provision of quartiles allows more
+granular positioning. A Senior Lecturer with an H-index of 9 could argue that
+they are positioned
+in the Q2 range for Associate Professors—and thus are
+performing appropriately at an Associate Professor level. The quartiles
+also be useful in the application for external grants, where an applicant could
+argue impact and quality through locating their
+metrics within the bands for
+their level.
+A feature of the Australian legal academy evident from the study is a
+distinct tiering between the levels. The median total citations
+for Associate
+Professor (302) was about double that of Senior Lecturer (119), which was also
+were also clear steps in the median
+H-index from 4 (Lecturer) to 5 (Senior Lecturer) to 9 (Associate Professor).
+This tiering suggests
+that there is arguably an achievable pathway for a
+researcher who is publishing consistently and growing their impact over several
+years to have their metrics indicate their performance at a higher level.
+However, looking at H-indexes and citation counts, the step from Associate
+Professor to Professor is significant. The mean H-index
+for Professors was 15.99
+and mean total citation count was 1,358.2. This is a large increase over the
+Associate Professor averages
+of 9.4 H-index and 477.92 citation count. This is
+because Professor is a terminal appointment—there is no band
+is also reflective of the way H-index is affected by time. It
+is within the Professor cohort that the long tail consisting of a small
+of individuals with high H-indexes and citation counts is located (see Figures 3
+and 4). Looking at median figures does reduce
+the extent of the difference
+between Associate Professor (9 median H-index and 302 median citation count) and
+Professor (14 median
+H-index and 799.5 median citation count). Nevertheless,
+there remains a significant difference that could make it more difficult
+Associate Professors to argue that they are performing up in promotion
+applications. Use of quartiles (Table 2) could provide
+more meaningful
+benchmarks for Associate Professors making promotion applications through
+locating their metrics within the spread
+of Professors.
+A limitation of the data is that they do not distinguish those who have had a
+period of research-intensive appointment or those that
+work in different
+sub-fields within legal scholarship. These factors may affect both the level of
+output and the level of
+Whilst the H-index
+provides some mitigation of these differences, they are still relevant. Thus, a
+recognition of the context and
+is engaged remains essential. This leads us to our broader reflections
+Concluding Reflections: Exploitation, Digital Capitalism, and Ways of
+Living with Bibliometrics
+As Troy Heffernan and Kathleen Smithers bluntly point out, the need for
+Australian academics to demonstrate working at a higher level
+for promotion
+purposes is wage theft.
+institutions create a structure whereby ‘aspiring academics’ (read
+junior) need to donate work at the level above
+their current pay scale to prove
+that they should be paid at the higher scale. In producing our benchmark data,
+we are complicit
+in the ongoing acceptance of this exploitation.
+Engaging with metrics and the quantification of research involves a
+complicity with ways of thinking and valuing academic work that
+counter to the nobler ideas of the academy, the university, and the office of
+the scholar. It is, we would argue, something
+that all contemporary scholars and
+researchers need to engage with, even if such engagement is critical. Andrew
+Sparkes describes
+his own engagement and use of bibliometrics with a confession
+of self-loathing. He recounts his physiological response to using comparative
+bibliometrics in making arguments for wage increases: ‘I feel a wave of
+nausea ripple through my stomach . . . I feel even
+neoliberal-grandiose-charlatan.’
+For him, drawing upon Jess Moriarty’s beautiful
+there is a need to
+separate the researcher from the abstract ‘data double’ constructed
+from bibliometric sources for
+institutional consumption. To make the point, he
+recounts the H-indexes of two long retired, but very highly regarded,
+researchers
+in his discipline and how the figures do not disclose either their
+well-recognised impact nor influence (and, in fact, dramatically
+Comparable examples in the
+discipline of law include Herbert Lionel Adolphus (H. L. A.) Hart. On 11
+November 2024, H. L. A. Hart
+had an H-index of 15, 2,669 total citations in Web
+of Science, and did not seem to be in Scopus at all. This is despite a Google
+Scholar search at this date indicating that his book,
+The Concept of Law
+(across its various editions) had been cited 26,564 times. Sparkes emphasises
+the sense of ‘dis-ease’ that comes with
+engaging with bibliometrics
+and responds by mocking bibliometrics and the ‘artificial’
+quantified self that the institutions
+Nevertheless, the dis-ease that Sparkes earnestly tries to laugh about is
+from a pathogen beyond the managerial fetishes of the neoliberal
+university.
+Geoff Gordon hints at this in reflecting on law journals’ impact and
+metric factors:
+Normative ordering on the basis of numerical abstractions, such as the Impact
+Factor and h-index, reproduces economic logics; academic
+production in
+conformance with the same reinforces the market practices with which the h-index
+coincides, and entrenches its discontents.
+Google's h-index privileges Google's
+position in one such market in particular, albeit an enormous one affecting
+countless other
+markets: namely, the global digital information
+We confess, therefore, a double complicity in our presenting of law
+benchmarking data using Google Scholar. We seem to be condoning
+the ongoing wage
+theft inherent in performing up and the quantification of research(ers) within
+the Australian academy. Moreover,
+by presenting these data, we are granting
+credence to and normalising Google and the global regime of exploitation and
+harm caused
+manifestation of this is with Google Scholar itself. There is no transparency in
+relation to its search algorithm and
+reverse engineering studies have struggled
+to identify an underlying
+Furthermore, it is
+known that most researchers do not look beyond the first page on Google Scholar.
+This renders researchers vulnerable
+to the whims of whatever Google or the
+iteration of its search algorithm for that day
+To utilise our
+benchmarks, we are facilitating Google’s colonialism of the datasphere by
+creating a context where more Australian
+law researchers will sign up for Google
+Scholar profiles to enable benchmarking of their metrics. Thus, we are
+participating in Google’s
+reconfiguration of academic practice and its
+control over data on academic publishing and
+In recognising this,
+we do not want to give the impression that Google’s
+‘competitors’ in the academic datasphere—the
+Five’ academic publishing houses that support Web of Science and
+Scopus—are forces of unbridled good in the
+These large players are
+generating excellent profits through researchers gifting their intellectual
+property and labour, and actively
+paying for the privilege of contributing to
+the corporate asset base through article processing
+This leads us to our ultimate reflection. The datafication of researchers for
+the purposes of internal and external research assessment,
+the necessary
+complicity of engagement, and the intertwining dance with Big Tech is a
+manifestation of the fact that Australian law
+research is occurring not simply
+within the neoliberal university but within the epoch of digital
+capitalism.
+A necessary survival
+strategy, as Sparkes exemplifies, is to laugh at it but engage anyway. However,
+there is also something else
+involved. Digital capitalism is built on two
+processes. The first is quantification—the rendering of the world to
+units, datum
+to be ordered, programmed, and profited
+The second is
+individualisation; the individual human, alone and separated, is the bearer of
+Collectives are only
+assembled for specific purposes, aggregates of data to train generative AI or
+temporarily organised into productive
+work units, to be dissolved and
+redistributed when needed. Critics of the datafication of human life in the
+digital and the managerialist
+impulses that have normalised it identify a
+eugenics origin—the individual as a bearer of data, from which generalised
+assumptions
+can be made.
+particularly evident in the eugenic influences on bibliometrics with its origins
+in the fixations with the ‘great men
+of science’ and mapping their
+exceptional genius.
+Jakub Krzeski argues that identifying the essential relations between capital
+and the historical processes that have led to the normalisations
+bibliometrics is essential for formulating strategies that might go beyond both
+the variations of cynical compliance and escapist
+calls to reject
+As we have seen through the critique of the political economy of measure,
+capital reproduces itself on the practices immanent to academia
+extent that collective action becomes more and more challenging. It corrupts the
+common that underpins academic endeavour,
+making it increasingly hard to see
+through the individualized academic self as artificially created and
+reproduced.
+Krzeski highlights what lies within the affective dis-ease of engagement with
+bibliometrics. Bibliometrics isolate and individualise
+researchers, generating
+narratives that the researcher, alone, is the alpha and omega of research
+activity. Success or failure, high
+or low H-index (or whichever other indicator
+that might be deployed or in favour), is the sole preserve of the
+individual.
+The eugenics
+heritage is palatable. There is either the unachievable paradigm of
+‘excellence’ or there is something less,
+inadequacies within the
+self that can only be overcome by more work, more publications, more late-night
+emails, more ‘catching
+up’ with the laptop while on holidays.
+However, there can never be a winner in the metrics game. There is always
+another researcher
+with a higher H-index or more citations. Bibliometrics
+internalise performance, potentially rendering the researcher anxious and
+In this, are there ways of responding to bibliometrics that might be more
+healing and helpful?
+Research is, and has always been, collective, despite law’s traditional
+lone-wolf researcher model. This is disclosed in the
+very practices of academic
+publishing, where authors and prior research are engaged with (and cited, to the
+benefit of those authors’
+bibliometrics). No law researcher in Australia
+is an island. The artificial researcher constructed from bibliometric data only
+because of researchers’ lived experiences and activities. These are
+supported by colleagues, peers, students, managers, partners,
+friends, family,
+and pets, as well as networks, associations, and other configurations of
+collective academic partnership and exchange.
+The challenge is to keep a sense
+of value of the collective that is fundamental for academic work. For Krzeski,
+it is the need to
+rearticulate and build the ‘collaborative
+university’ as a way of moving beyond the neoliberal university and its
+of the measure.
+However, building the collaborative university within an epoch of digital
+capitalism that erodes collectivity is hard, notwithstanding
+that collaboration
+is fundamental to making and disseminating knowledge. One way to resist
+individual metrics is to supplement with
+collective measures. There are a number
+of attempts to recognise collaboration and collectivity being developed with the
+more responsible research
+assessment.
+Here, in the
+eponymous spirit of Jorge Hirsch, we propose an indicator of contribution to
+collective academic culture: the T-P index.
+This would be a figure that reflects
+the number of peer reviews undertaken over number of publications. The generated
+ratio would
+reflect the contribution to the collective through doing peer
+reviews against the individualism of authored publications (which are
+only published after two or more peer reviews). The T-P index would highlight a
+researcher’s relative contribution
+to supporting a discipline. It would
+identify researchers who help others through doing peer reviews and highlight
+researchers who
+predominately take from the discipline, providing not only a
+recognition but also an incentive for the former. Like the M-index which
+requires data about career progression, the T-P index would depend on having a
+reliable repository in relation to peer
+There might be a
+degree of Sparkes-inspired humour associated with our suggestion of the T-P
+index—and, of course, it is subject
+to the same critique of bibliometrics
+as only ever being abstractions—but the point is serious. We need to find
+ways to value
+the essential, fundamental collective endeavour that surrounds any
+‘individual’ research. Our role as scholars is the
+fulfilment of an
+office and its obligations, a
+than simply the
+production of
+Indeed, while it may seem complicit and contradictory on reflection, the
+benchmark data that we present in this article were built
+in a collectivist
+spirit. In a university context ruled by measures, the data are presented to
+to advocate for law as a distinct discipline
+in the Australian university context and to support law researchers in
+navigating the
+institution.
+Ultimately, the forces that ‘reify’ bibliographic measures as
+‘academic value’
+need to be continuously countered. H-index, citation count, M-index, and even
+our proposed T-P index are ultimately meaningless numbers.
+They are meaningless
+as they only ever report available data. Moreover, those data are only ever a
+partial extraction from the diversity,
+vibrancy, and incalculability of human
+life, which always exceeds that which can be seen, recorded, or
+This has always been
+the case, and is becoming more obvious with the unfolding of the digital. There
+remains a fantastic assumption
+within any bibliometric measure that the figures
+produced provide some sort of valuing and meaning of a researcher’s
+contribution
+to knowledge, the world, or anything else. The meaning is the
+meaning that we give to them. We therefore ask researchers, when they
+data in this article to help them navigate the labyrinth of success and security
+endlessly generated, roguelike, by higher
+education institutions, to remember
+that they are just a set of abstract signs. Use them to construct an avatar to
+button-mash through
+the maze, laugh at them, and understand how they are a
+manifestation of epoch-defining confluences of the digital and capital that
+minimalises the collective.
+Whilst making use of these indicators and benchmarks, we would exhort you not to
+take them too seriously and to focus, instead, on
+the collective nature of our
+academic endeavour and the way we inhabit the office of the scholar.
+But please cite this article. All contributions to our personal bibliometrics
+scores gratefully accepted.
+Only joking... sort of.
+Acknowledgements
+We would like to acknowledge the research assistance work by Dr Daniel
+Hourigan who extracted the raw data from Google Scholar profiles
+and Liam Johns
+who assisted with the analysis. Thanks also to the peer reviewers for their
+useful comments and criticisms, and to
+Professor Jay Sanderson for helpful
+critical conversations. All errors remain our own.
+Disclosure Statement
+The first author serves as an Editor for
+Law, Technology and Humans
+To maintain the integrity of the publication process and to comply with the
+guidelines, the article
+submission, blind peer review, and revisions were conducted independently of the
+Journal’s publishing
+environment.
+Bibliography
+Alonso-Álvarez, Patricia, Pablo
+Sastrón-Toledo and Jorge Mañana-Rodriguez. “The Cost of Open
+Access: Comparing
+Public Projects’ Budgets and Article Processing Charges
+Expenditure.”
+Scientometrics
+129 (2024): 6149–66.
+https://doi.org/10.1007/s11192-024-04988-3
+Alonso, Sergio, Francisco Cabrerizo, Enrique Herrera-Viedma and Francisco
+Herrera. “HG-Index: A New Index to Characterize the
+Scientific Output of
+Researchers Based on the H-and G-Indices.”
+Scientometrics
+(2010): 391–400.
+https://doi.org/10.1007/s11192-009-0047-5
+Aoun, Salah G., Bernard R. Bendok, Rudy J. Rahme, Ralph G. Dacey Jr. and H.
+Hunt Batjer. “Standardizing the Evaluation of Scientific
+and Academic
+Performance in Neurosurgery—Critical Review of the ‘H’ Index
+and Its Variants.”
+World Neurosurgery
+80, no 5 (2013):
+https://doi.org/10.1016/j.wneu.2012.01.052
+Australian Council of Learned Academics.
+Research Assessment in Australia:
+Evidence for Modernisation.
+(Office of the Chief Scientist, 2023).
+Australian Government.
+Australian Universities Accord Final Report.
+(Australian Government, 2024).
+https://www.education.gov.au/australian-universities-accord/resources/final-report
+Australian Research Council.
+Excellence in Research for Australia
+Accessed January 24, 2025.
+https://www.arc.gov.au/evaluating-research/excellence-research-australia
+Barker, Susan. “Exploring the Development of a Standard System of
+Citation Metrics for Legal Academics.”
+Canadian Law Library Review
+43, no 2 (2018): 10–25.
+Barnett, Adrian, Katie Page, Carly Dyer and Susanna Cramb.
+“Meta-Research: Justifying Career Disruption in Funding Applications,
+Survey of Australian Researchers.”
+11 (2022): e76123.
+https://doi.org/10.7554/eLife.76123
+Beel, Joran and Bela Gipp. “Google Scholar's Ranking Algorithm: The
+Impact of Citation Counts (an Empirical Study).” Paper
+presented at the
+2009 Third International Conference on Research Challenges in Information
+Science, April 2009.
+Bihari, Anand, Sudhakar Tripathi and Akshay Deepak. “A Review on
+H-Index and Its Alternative Indices.”
+Journal of Information Science
+49, no 3 (2023): 624–65.
+https://doi.org/10.1177/01655515211014478
+Bosman, Jeroen, William P. Cawthorn, Koenraad Debackere, Paola Galimberti,
+Mikael Graffner, Leonhard Held, Karlijn Hermans, et al
+Generation Metrics for Scientific and Scholarly Research in Europe: LERU
+Position Paper.
+(League of European Research Universities, 2024).
+Bowrey, Kathy.
+Assessing Research Performance in the Discipline of Law:
+The Australian Experience with Research Metrics, 2006-2011.
+(Council of
+Australian Law Deans, 2012).
+https://cald.asn.au/wp-content/uploads/2023/11/Prof-Kathy-Bowrey-Research-Quality-Report-to-CALD.pdf
+Bowrey, Kathy.
+Assessment of Law Journal Rankings and Methodologies
+Adopted by Eight Law Schools 2016.
+(Council of Australian Law Deans, 2016).
+http://doi.org/10.26190/unsworks/26176
+Bowrey, Kathy.
+A Report into Methodologies Underpinning Australian Law
+Journal Rankings.
+(Council of Australian Law Deans, University of New South
+Wales, 2016).
+https://classic.austlii.edu.au/au/journals/UNSWLRS/2016/30.pdf
+Bradshaw, Corey J. A., Justin M. Chalker, Stefani A. Crabtree, Bart A.
+Eijkelkamp, John A. Long, Justine R. Smith, Kate Trinajstic
+and Vera Weisbecker.
+“A Fairer Way to Compare Researchers at Any Career Stage and in Any
+Discipline Using Open-Access Citation
+(2021): e0257141.
+https://doi.org/10.1371/journal.pone.0257141
+Burrows, Roger. “Living with the H-Index? Metric Assemblages in the
+Contemporary Academy.”
+The Sociological Review
+60, no 2 (2012):
+https://doi.org/10.1111/j.1467-954X.2012.02077.x
+Butler, Leigh-Ann, Lisa Matthias, Marc-André Simard, Philippe Mongeon
+and Stefanie Haustein. “The Oligopoly’s Shift
+to Open Access: How
+the Big Five Academic Publishers Profit from Article Processing Charges.”
+Quantitative Science Studies
+4, no 4 (2023): 778–99.
+https://doi.org/10.1162/qss_a_00272
+Cannon, Susan O. and Maureen A. Flint. “Measuring Monsters, Academic
+Subjectivities, and Counting Practices.”
+Matter: Journal of New
+Materialist Research
+3 (2021): 76–98.
+https://doi.org/10.1344/jnmr.v2i1.33375
+Catlaw, Thomas J. and Billie Sandberg. “The Quantified Self and the
+Evolution of Neoliberal Self-Government: An Exploratory
+Qualitative
+Administrative Theory & Praxis
+40, no 1 (2018):
+https://doi.org/10.1080/10841806.2017.1420743
+Coalition for Advanced Research Assessment (CoARA).
+Agreement on Reforming
+Research Assessment.
+Accessed February 25, 2025.
+https://coara.eu/app/uploads/2022/09/2022_07_19_rra_agreement_final.pdf
+Colavizza, Giovanni, Silvio Peroni and Matteo Romanello. “The Case for
+the Humanities Citation Index (HUCI): A Citation Index
+by the Humanities, for
+the Humanities.”
+International Journal on Digital Libraries
+4 (2023): 191–204.
+https://doi.org/http://doi.org/10.1007/s00799-022-00327-0
+Copes, Heith, Stephanie Cardwell and John J. Sloan III. “H-Index and
+M-Quotient Benchmarks of Scholarly Impact in Criminology
+and Criminal Justice: A
+Preliminary Note.”
+Journal of Criminal Justice Education
+(2012): 441–61.
+https://doi.org/10.1080/10511253.2012.680896
+Council of Australian Law Deans.
+Deans & Law Schools.
+October 28, 2024.
+https://cald.asn.au/home/deans-law-schools/
+Craig, Belinda M., Suzanne M. Cosh and Camilla C. Luck. “Research
+Productivity, Quality, and Impact Metrics of Australian Psychology
+Academics.”
+Australian Journal of Psychology
+73, no 2 (2021):
+https://doi.org/10.1080/00049530.2021.1883407
+Crofts, Penny. “Reconceptualising the Crimes of Big Tech.”
+Griffith Law Review
+(2025): 1–25.
+https://doi.org/10.1080/10383441.2024.2397319
+Crofts, Penny and Honni van Rijswijk. “Negotiating ‘Evil’:
+Google, Project Maven and the Corporate Form.”
+Law, Technology and
+2, no 1 (2020): 75–90.
+https://doi.org/10.5204/lthj.v2i1.1313
+Curry, Stephen, Elizabeth Gadd and James Wilsdon.
+Harnessing the Metric
+Tide: Indicators, Infrastructures & Priorities for UK Responsible Research
+Assessment.
+(Loughborough University, 2022).
+San Francisco Declaration on Research Assessment
+. The American
+Society for Cell Biology. Accessed January 24, 2025.
+https://sfdora.org/read
+Dunleavy, Patrick and Jane Tinkler.
+Maximizing the Impacts of Academic
+Red Globe Press, 2021.
+Egge, Leo. “Theory and Practise of the G-Index.”
+Scientometrics
+69, no 1 (2006): 131–52.
+https://doi.org/10.1007/s11192-006-0144-7
+Elliott, Kristen. “Google Scholar is not Broken (yet), but there are
+Alternatives.”
+LSE Impact Blog
+The London School of
+Economics and Political Science
+, October 22, 2024.
+https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/22/google-scholar-is-not-broken-yet-but-there-are-alternatives/
+Feldman, Zeena and Marisol Sandoval. “Metric Power and the Academic
+Self: Neoliberalism, Knowledge and Resistance in the British
+University.”
+TripleC: Communication, Capitalism & Critique. Open Access Journal for a
+Global Sustainable Information Society
+16, no 1 (2018): 214–33.
+https://doi.org/10.31269/triplec.v16i1.899
+Fuhr, Justin and Caroline Monnin. “Researcher Profile System Adoption
+and Use across Discipline and Rank: A Case Study at the
+University of
+Quantitative Science Studies
+5, no 3 (2024):
+https://doi.org/10.1162/qss_a_00319
+Fuchs, Christian.
+Digital Capitalism
+. Routledge, 2022.
+Geraci, Lisa, Steve Balsis and Alexander J. Busch Busch. “Gender and
+the H Index in Psychology.”
+Scientometrics
+105 (2015):
+https://doi.org/10.1007/s11192-015-1757-5
+Godin, Benoît. “From Eugenics to Scientometrics: Galton, Cattell,
+and Men of Science.”
+Social Studies of Science
+37, no 5 (2007):
+https://dx.doi.org/10.1177/0306312706075338
+Goldenfein, Jake and Daniel Griffin. “Google Scholar: Platforming the
+Scholarly Economy.”
+Internet Policy Review
+11, no 3 (2022):
+https://doi.org/10.14763/2022.3.1671
+Google Scholar. “Aggregated Bibliometric Data from Scholars'
+Profiles.” Accessed September 2024.
+https://scholar.google.com
+Google Scholar. “Google Scholar Profiles.” Accessed October 28,
+https://scholar.google.com/intl/en/scholar/citations.html
+Gordon, Geoff. “Indicators, Rankings and the Political Economy of
+Academic Production in International Law.”
+Leiden Journal of
+International Law
+30, no 2 (2017): 295–304.
+https://doi.org/10.1017/S0922156517000188
+Heffernan, Troy and Kathleen Smithers. “Working at the Level Above:
+University Promotion Policies as a Tool for Wage Theft and
+Underpayment.”
+Higher Education Research & Development
+(2024): 1–15.
+https://doi.org/10.1080/07294360.2024.2412656
+Hicks, Diana, Paul Wouters, Ludo Waltman, Sarah de Rijcke and Ismael Rafols.
+“Bibliometrics: The Leiden Manifesto for Research
+520, (2015): 429–31.
+https://doi.org/https://doi.org/10.1038/520429a
+Hirsch, Jorge E. “An Index to Quantify an Individual's Scientific
+Research Output.”
+Proceedings of the National Academy of Sciences
+102, no 46 (2005): 16569–72.
+https://doi.org/10.1073/pnas.0507655102
+Hirsch, Jorge E. and Gualberto Buela-Casal. “The Meaning of the
+International Journal of Clinical and Health Psychology
+14, no 2 (2014): 161–64.
+https://doi.org/10.1016/S1697-2600(14)70050-X
+Horney, Jennifer A., Adam Bitunguramye, Shazia Shaukat and Zackery White.
+“Gender and the H-Index in Epidemiology.”
+Scientometrics
+no 7 (2024): 3725–33.
+https://doi.org/10.1007/s11192-024-05083-3
+Hyland, Ken. “Academic Publishing and the Attention Economy.”
+Journal of English for Academic Purposes
+64 (2023): 101253.
+https://doi.org/https://doi.org/10.1016/j.jeap.2023.101253
+Ioannidis, John P. A. “A Generalized View of Self-Citation: Direct,
+Co-Author, Collaborative, and Coercive Induced Self-Citation.”
+of Psychosomatic Research
+78, no 1 (2015): 7–11.
+https://doi.org/10.1016/j.jpsychores.2014.11.008
+Jamjoom, Aimun A.B., A. N. Wiggins, J. J. M. Loan, J. Emelifeoneu, I. P.
+Fouyas and P. M. Brennan. “Academic Productivity of
+Neurosurgeons Working
+in the United Kingdom: Insights from the H-Index and Its Variants.”
+World Neurosurgery
+86 (2016): 287–93.
+https://doi.org/10.1016/j.wneu.2015.09.041
+Kelly, Clint D. and Michael D. Jennions. “The H Index and Career
+Assessment by Numbers.”
+Trends in Ecology & Evolution
+(2006): 167–70.
+https://doi.org/10.1016/j.tree.2006.01.005
+Krzeski, Jakub. “In-against-Beyond Metrics-Driven University: A Marxist
+Critique of the Capitalist Imposition of Measure on
+Academic Labor.” In
+The Palgrave International Handbook of Marxism and Education
+, edited by
+Richard Hall, Inny Accioly and Krystian Szadkowski, 163–82. Springer,
+The Lens. Accessed January 24, 2025.
+https://www.lens.org/
+LSE Public Policy Group.
+Maximizing the Impacts of Your Research: A
+Handbook for Social Scientists.
+(London School of Economics, 2011).
+https://paulmaharg.com/wp-content/uploads/2016/06/LSE_Impact_Handbook_April_2011.pdf
+Lury, Celia and Sophie Day. “Algorithmic Personalization as a Mode of
+Individuation.”
+Theory, Culture & Society
+36, no 2 (2019):
+https://doi.org/10.1177/0263276418818888
+MacMaster, Frank P., Rose Swansburg and Katherine Rittenbach. “Academic
+Productivity in Psychiatry: Benchmarks for the H-Index.”
+41 (2017): 452–54.
+https://doi.org/10.1007/s40596-016-0656-2
+Martín-Martín, Alberto, Mike Thelwall, Enrique Orduna-Malea and
+Emilio Delgado López-Cózar. “Google
+Scholar, Microsoft
+Academic, Scopus, Dimensions, Web of Science, and OpenCitations’ Coci: A
+Multidisciplinary Comparison of
+Coverage Via Citations.”
+Scientometrics
+126, no 1 (2021): 871–906.
+https://doi.org/10.1007/s11192-020-03690-4
+Matilda. Accessed January 24, 2025.
+https://matilda.science/?l=en
+McNamara, Lawrence. “Understanding Research Impact in Law: The Research
+Excellence Framework and Engagement with UK Governments.”
+29, no 3 (2018): 437–69.
+https://doi.org/10.1080/09615768.2018.1558572
+McVeigh, Shaun. “Office and the Conduct of the Minor
+Jurisprudent.”
+UC Irvine Law Review
+5, no 2 (2015):
+Mills, Katie and Kate Croker.
+Measuring the Research Quality of Humanities
+and Social Sciences Publications: An Analysis of the Effectiveness of
+Traditional Measures
+and Altmetrics.
+(University of Western Australia,
+https://api.research-repository.uwa.edu.au/ws/portalfiles/portal/94542741/Measuring_the_research_quality_of_Humanities_and_Social_Sciences_publications_An_analysis_of_the_effectiveness_of_traditional_measures_and_altmetrics.pdf
+Moriarty, Jess, ed.
+Autoethnographies from the Neoliberal Academy:
+Rewilding, Writing and Resistance in Higher Education.
+Routledge, 2019.
+Nocera, Alexander P., Hunter Boudreau, Carter J. Boyd, Ashutosh Tamhane,
+Kimberly D. Martin and Soroush Rais-Bahrami. “Correlation
+between H-Index,
+M-Index, and Academic Rank in Urology.”
+189 (2024):
+https://doi.org/10.1016/j.urology.2024.04.041
+OpenAlex. “OurResearch.” Accessed January 24, 2025.
+https://openalex.org/
+Ortega, José Luis. “Are Peer-Review Activities Related to
+Reviewer Bibliometric Performance? A Scientometric Analysis
+of Publons.”
+Scientometrics
+112, no 2 (2017): 947–62.
+https://doi.org/10.1007/s11192-017-2399-6
+Ortega, José Luis. “Exploratory Analysis of Publons Metrics and
+Their Relationship with Bibliometric and Altmetric Impact.”
+Journal of Information Management
+71, no 1 (2019): 124–36.
+https://doi.org/10.1108/AJIM-06-2018-0153
+Patel, Vanash M., Hutan Ashrafian, Alex Almoudaris, Jonathan Makanjuola,
+Chiara Bucciarelli-Ducci, Ara Darzi and Thanos Athanasiou.
+Academic Performance for Healthcare Researchers with the H Index: Which Search
+Tool Should Be Used?”
+Medical Principles and Practice
+(2013): 178–83.
+https://doi.org/10.1159/000341756
+Peters, Timothy D. “The Theological-Bureaucratic Science Fiction of
+Philip K. Dick and Carl Schmitt: An Economic Theology of
+Omniscience in the
+Buribunks.” In
+Carl Schmitt and the Buribunks: Technology, Law,
+, edited by Kieran Tranter and Edwin Bikundo, 60–80.
+Abingdon: Routledge, 2022.
+Ponce, Francisco A. and Andres M. Lozano. “Academic Impact and Rankings
+of American and Canadian Neurosurgical Departments as
+Assessed Using the H
+Journal of Neurosurgery
+113, no 3 (2010): 447–57.
+https://doi.org/10.3171/2010.3.JNS1032
+Research Excellence Framework. “Research Excellence Framework.”
+Accessed January 24, 2025.
+https://2029.ref.ac.uk/
+Shanghai Ranking. “Rankings.” Accessed January 24, 2025.
+https://www.shanghairanking.com/
+Shore, Cris and Susan Wright. “Audit Culture and Anthropology:
+Neo-Liberalism in British Higher Education.”
+Journal of the Royal
+Anthropological Institute
+5, no 4 (1999): 557–75.
+https://doi.org/10.2307/2661148
+Soutar, Geoffrey N., Ian Wilkinson and Louise Young. “Research
+Performance of Marketing Academics and Departments: An International
+Comparison.”
+Australasian Marketing Journal
+23, no 2 (2015):
+https://doi.org/10.1016/j.ausmj.2015.04.001
+Sparkes, Andrew C. “Making a Spectacle of Oneself in the Academy Using
+the H-Index: From Becoming an Artificial Person to Laughing
+Absurdities.”
+Qualitative Inquiry
+27, no 8–9 (2021):
+https://doi.org/10.1177/10778004211003519
+Spearman, Christopher M., Madeline J. Quigley, Matthew R. Quigley and Jack E.
+Wilberger. “Survey of the H Index for All of Academic
+Neurosurgery:
+Another Power-Law Phenomenon?”
+Journal of Neurosurgery
+(2010): 929–33.
+https://doi.org/10.3171/2010.4.JNS091842
+Strathern, Marilyn. “Introduction: New Accountablities.” In
+Audit Cultures: Anthropological Studies in Accountability, Ethics, and the
+, edited by Marilyn Strathern, 1–18. London: Routledge,
+Svantesson, Dan and Paul White. “Entering an Era of Research Rankings -
+Will Innovation and Diversity Survive?”
+Bond Law Review
+(2009): 173.
+Szadkowski, Krystian. “An Autonomist Marxist Perspective on Productive
+and Un-Productive Academic Labour.”
+TripleC: Communication, Capitalism
+& Critique. Open Access Journal for a Global Sustainable Information Society
+17, no 1 (2019): 111–31.
+https://doi.org/10.31269/triplec.v17i1.1076
+Szomszor, Martin, David A. Pendlebury and Jonathan Adams. “How Much Is
+Too Much? The Difference between Research Influence and
+Self-Citation
+Scientometrics
+123, no 2 (2020): 1119–47.
+https://doi.org/10.1007/s11192-020-03417-5
+Teplitskiy, Misha, Eamon Duede, Michael Menietti and Karim R. Lakhani.
+“How Status of Research Papers Affects the Way They Are
+Research Policy
+51, no 4 (2022): 104484.
+https://doi.org/10.1016/j.respol.2022.104484
+Thornton, Margaret. “The Mirage of Merit: Reconstituting the
+‘Ideal Academic’.”
+Australian Feminist Studies
+76 (2013): 127–43.
+https://doi.org/10.1080/08164649.2013.789584
+Thornton, Margaret.
+Privatising the Public University.
+Routledge, 2011.
+Times Higher Education. “World University Rankings.” Accessed
+January 24, 2025.
+https://www.timeshighereducation.com/world-university-rankings
+Tranter, Kieran. “The Buribunks, Post-Truth and a Tentative Cartography
+of Informational Existence.” In
+Carl Schmitt and the Buribunks:
+Technology, Law, Literature
+, edited by Kieran Tranter and Edwin Bikundo,
+41–59. Abingdon: Routledge, 2022.
+Tranter, Kieran. “Citation Practices of the Australian Law Reform
+Commission in Final Reports 1992-2012.”
+University of New South Wales
+Law Journal
+38, no 1 (2015): 318–61.
+Tschudy, Megan M., Tashi L. Rowe, George J. Dover and Tina L. Cheng.
+“Pediatric Academic Productivity: Pediatric Benchmarks
+for the H-and
+G-Indices.”
+The Journal of Pediatrics
+169 (2016): 272–76.
+https://doi.org/10.1016/j.jpeds.2015.10.030
+Tulloch, Rowan and Holly Eva Katherine Randell-Moon. “The Politics of
+Gamification: Education, Neoliberalism and the Knowledge
+Review of Education, Pedagogy, and Cultural Studies
+40, no 3 (2018):
+https://doi.org/10.1080/10714413.2018.1472484
+Tyson, Amber. “Using the H-Index to Measure Research Performance in
+Higher Education: A Case Study of Library and Information
+Science Faculty in New
+Zealand and Australia.” Master of Library and Information Studies,
+Victoria University of Wellington,
+van Toorn, Georgia and Karen Soldatić. “Disablism, Racism and the
+Spectre of Eugenics in Digital Welfare.”
+Journal of Sociology
+no 3 (2024): 523–39.
+https://doi.org/10.1177/14407833241244828
+Whalan, Ryan. “Context Is Everything: Making the Case for More Nuanced
+Citation Impact Measures.”
+LSE Impact Blog
+School of Economics and Political Science
+, January 6, 2016.
+https://blogs.lse.ac.uk/impactofsocialsciences/2016/01/06/context-is-everything-more-nuanced-impact-measures/
+Wilsdon, James, Judit Bar-Ilan, Robert Frodeman, Elisabeth Lex, Isabella
+Peters and Paul Wouters.
+Next-Generation Metrics: Responsible Metrics and
+Evaluation for Open Science: Report of the European Commission Expert Group on
+Altmetrics.
+(European Commission, 2017).
+Wilsdon, James, Liz Allen, Eleonora Belfiore, Philip Campbell, Stephen Curry,
+Steven Hill, Richard Jones
+The Metric Tide: Report of the
+Independent Review of the Role of Metrics in Research Assessment and Management.
+(Higher Education Funding Council for England, 2015).
+Thornton, Privatising the
+Public University; Strathern, “Introduction: New Accountablities”;
+Shore, “Audit Culture
+and Anthropology.”
+See Research Excellence
+Framework, “Research Excellence Framework”; Australian Research
+Council, “Excellence in
+Research for Australia”; Times Higher
+Education, “World University Rankings”; Shanghai Ranking,
+“Rankings.”
+For critical discussion, see Curry, Harnessing the
+Metric Tide; Australian Council of Learned Academics, Research Assessment in
+For a critical discussion of
+research assessment in Australia, including the use of bibliometrics, see
+Australian Council of Learned
+Academics, Research Assessment in Australia.
+Burrows, “Living with the
+H-Index?”; Hyland, “Academic Publishing and the Attention
+Neurosurgeons: Jamjoom,
+“Academic Productivity of Neurosurgeons Working in the United
+Kingdom”; Psychology: Craig, “Research
+Productivity, Quality, and
+Impact Metrics of Australian Psychology Academics”; Psychiatry: MacMaster,
+“Academic Productivity
+in Psychiatry”; Pediatrics: Tschudy,
+“Pediatric Academic Productivity: Pediatric Benchmarks for the H-and
+G-Indices.”
+For example, Library and
+Information Services: Tyson, “Using the H-Index to Measure Research
+Performance in Higher Education”;
+Marketing: Soutar, “Research
+Performance of Marketing Academics and Departments.”
+Copes, “H-Index and
+M-Quotient Benchmarks of Scholarly Impact in Criminology and Criminal
+Justice.” For many years law
+researchers used a draft 2011 report prepared
+by the LSE Public Policy Group. This report provided a range of impact-related
+based on a small sample of researchers. It is the source for a benchmark
+that the average H-index for a law Professor was 2.83. LSE
+Public Policy Group,
+Maximizing the Impacts of Your Research.
+Australian Council of Learned
+Academics, Research Assessment in Australia.
+Burrows, “Living with the
+H-Index?,” 361.
+“Understanding Research Impact in Law.”
+See, for example, DORA,
+“San Francisco Declaration on Research Assessment”; Hicks,
+“Bibliometrics”; Wilsdon,
+The Metric Tide; Coalition for Advanced
+Research Assessment (CoARA), “The Agreement Full Text.” On the
+development of
+new open and transparent platforms for bibliometric analysis, see
+Curry, Harnessing the Metric Tide, 36–7; Elliott, “Google
+Not Broken (yet), but There Are Alternatives.”
+The Australian Universities
+Accord Final Report, released in February 2024, indicated a greater emphasis on
+automated collection
+of data and bibliometrics going forward as part of
+assessments of research quality and research impact. The report did note the
+inappropriateness of such an approach to certain fields of research,
+including some humanities, creative industries, social sciences,
+Nations areas
+See Australian Government, Australian Universities Accord
+Final Report, 218–23. See also Curry, Harnessing the Metric Tide,
+Goldenfein, “Google
+Bihari, “A Review on
+H-Index and Its Alternative Indices.”
+Teplitskiy, “How
+Status of Research Papers Affects the Way They Are Read and Cited.”
+Hirsch, “An Index to
+Quantify an Individual's Scientific Research Output.”
+Hirsch, “An Index to
+Quantify an Individual's Scientific Research Output,” 16570.
+Aoun, “Standardizing
+the Evaluation of Scientific and Academic Performance in Neurosurgery,”
+E87; Kelly, “The H
+Index and Career Assessment by Numbers,” 168;
+Geraci, “Gender and the H Index in Psychology”; Horney,
+and the H-Index in Epidemiology.”
+Patel, “Measuring
+Academic Performance for Healthcare Researchers with the H Index.”
+Barker, “Exploring the
+Development of a Standard System of Citation Metrics for Legal Academics,”
+11. In 2016, Bowrey
+highlighted in her report for the Council of Australian Law
+Deans on law journal rankings that Scopus’s database included only
+journals (and only five Australian law journals), which was less than half of
+the 1,100 law journals in the ERA 2010 list
+and less than a third of 1,630
+titles in the Washington and Lee Library list. Bowrey, A Report into
+Methodologies Underpinning Australian
+Law Journal Rankings, 6, 11, 16. In
+reviewing Scopus’s October 2024 list of included sources, only 646 (42%)
+of the over 1,500
+law-coded journals in the ERA 2018 list are included in
+Scopus’s database (though this comparison does not take into account
+changes in journals between 2018 and 2024).
+Bradshaw, “A Fairer
+Way to Compare Researchers at Any Career Stage and in Any Discipline Using
+Open-Access Citation Data.”
+Egge, “Theory and
+Practise of the G-Index.”
+“HG-Index.”
+Hirsch, “The Meaning
+of the H-Index”; Nocera, “Correlation between H-Index, M-Index, and
+Academic Rank in Urology.”
+“Meta-Research.”
+DORA, “San Francisco
+Declaration on Research Assessment”; Hicks, “Bibliometrics”;
+Coalition for Advanced
+Research Assessment (CoARA), “The Agreement Full
+Curry, Harnessing the Metric
+Tide, 36–37.
+This reflects the fact that
+academics, in general, do not find dominant research assessment mechanisms,
+metrics, and indicators representative
+of their work and contribution. A survey
+conducted by the Australian Council of Learned Academies as part of their
+assessment of
+research assessment in Australia indicated that 62% of researchers
+found that ‘assessment processes fail to accurately capture
+the quality of
+their research’ and, furthermore, 70% ‘indicated that the amount of
+time and effort required from researchers
+for participation was not
+reasonable.’ Australian Council of Learned Academics, Research Assessment
+in Australia, 98.
+Colavizza, “The Case
+for the Humanities Citation Index (HUCI)”; Whalan, “Context Is
+Everything.” For an applied
+example of this in the context of the citation
+practices of the Australian Law Reform Commission, see Tranter, “Citation
+of the Australian Law Reform Commission in Final Reports
+1992-2012.”
+Queensland University of
+Technology Human Research Ethics Committee Approval Number 9245.
+Barker, “Exploring the
+Development of a Standard System of Citation Metrics for Legal Academics,”
+11; Mills, Measuring
+the Research Quality of Humanities and Social Sciences
+Publications.
+We compared several
+Australian law professors’ H-index score across Google Scholar, Web of
+Science, and Scopus. The Google
+Scholar figures were 2–3 times higher.
+Martín-Martín,
+“Google Scholar, Microsoft Academic, Scopus, Dimensions, Web of Science,
+and OpenCitations’
+For an overview of the data
+on self-citations and baseline understandings of acceptable versus unacceptable
+levels of self-citation
+across different disciplines, see Ioannidis, “A
+Generalized View of Self-Citation”; Szomszor, “How Much Is Too
+Elliott, “Google
+Scholar Is Not Broken (yet), but There Are Alternatives.”
+Goldenfein, “Google
+Scholar,” 17.
+See “The Lens,”
+accessed January 24, 2025,
+https://www.lens.org/
+; “Matilda,”
+accessed January 24, 2025,
+https://matilda.science/?l=en
+; “OpenAlex,”
+OurResearch, accessed January 24, 2025,
+https://openalex.org/
+. For discussion of these
+developments, see Curry, “Harnessing the Metric Tide,” 36–37;
+Elliott, “Google Scholar
+is Not Broken (yet), but There Are
+Alternatives.”
+Google Scholar,
+“Google Scholar Profiles.”
+On comparison of various
+online academic profile platforms, see Fuhr, “Researcher Profile System
+Adoption and Use across Discipline
+Council of Australian Law
+Deans, “Deans & Law Schools.”
+Jamjoom, “Academic
+Productivity of Neurosurgeons Working in the United Kingdom”; Ponce,
+“Academic Impact and Rankings
+of American and Canadian Neurosurgical
+Departments as Assessed Using the H Index.”
+Tulloch, “The Politics
+of Gamification.”
+Aoun, “Standardizing
+the Evaluation of Scientific and Academic Performance in Neurosurgery,”
+E87; Ponce, “Academic
+Impact and Rankings of American and Canadian
+Neurosurgical Departments as Assessed Using the H Index.”
+Jamjoom, “Academic
+Productivity of Neurosurgeons Working in the United Kingdom,”
+DORA, “San Francisco
+Declaration on Research Assessment”; Hicks,
+“Bibliometrics.”
+Dunleavy, Maximizing the
+Impacts of Academic Research, 29.
+Spearman, “Survey of
+the H Index for All of Academic Neurosurgery,” 931–32.
+Heffernan, “Working at
+the Level Above.”
+Bowrey, Assessing Research
+Performance in the Discipline of Law, 23–26.
+Heffernan, “Working at
+the Level Above,” 12. Whilst the need to demonstrate performing at a
+higher level is not uncommon
+in other forms of employment, the focus on
+demonstrating this level of performance over a sustained or multiple-year length
+(e.g., three years) exacerbates the issue in higher education.
+Sparkes, “Making a
+Spectacle of Oneself in the Academy Using the H-Index,” 1032.
+Moriarty, Autoethnographies
+from the Neoliberal Academy.
+Sparkes, “Making a
+Spectacle of Oneself in the Academy Using the H-Index,” 1034.
+Sparkes, “Making a
+Spectacle of Oneself in the Academy Using the H-Index,” 1034.
+Gordon, “Indicators,
+Rankings and the Political Economy of Academic Production in International
+Crofts, “Negotiating
+'Evil”; Crofts, “Reconceptualising the Crimes of Big
+Beel, “Google
+Scholar's Ranking Algorithm”; Martín-Martín, “Google
+Scholar, Microsoft Academic, Scopus,
+Dimensions, Web of Science, and
+OpenCitations’ Coci.”
+Elliott, “Google
+Scholar Is Not Broken (yet), but There Are Alternatives.”
+Goldenfein, “Google
+Szadkowski, “An
+Autonomist Marxist Perspective on Productive and Un-Productive Academic
+Alonso-Álvarez,
+“The Cost of Open Access”; Butler, “The Oligopoly’s
+Shift to Open Access.” At
+the same time, there are moves towards having
+non-commerical, comprehensive, transparent, and open access databases that may
+better bases for responsible research assessment. For discussion of
+these and the broader move towards responsible research assessment,
+see Wilsdon,
+Next-Generation Metrics; Bosman, Next Generation Metrics for Scientific and
+Scholarly Research in Europe. We would note,
+however, that even more accurate
+metrics still buy in to a particular view of the world and the nature of
+scholarly endeavour.
+Fuchs, Digital
+Capitalism.
+Lury, “Algorithmic
+Personalization as a Mode of Individuation.”
+Catlaw, “The
+Quantified Self and the Evolution of Neoliberal Self-Government.”
+van Toorn, “Disablism,
+Racism and the Spectre of Eugenics in Digital Welfare.”
+Godin, “From Eugenics
+to Scientometrics.”
+“In-against-Beyond Metrics-Driven University,” 174.
+“In-against-Beyond Metrics-Driven University,” 176.
+Feldman, “Metric Power
+and the Academic Self.”
+“In-against-Beyond Metrics-Driven University,” 175. See also
+Feldman, “Metric Power and the Academic Self.”
+Australian Council of
+Learned Academics, Research Assessment in Australia, 66.
+For an interesting analysis
+Publons repository managed by Web of Science,
+see Ortega, “Are Peer-Review Activities Related to Reviewer Bibliometric
+Performance?”;
+Ortega, “Exploratory Analysis of Publons Metrics and
+their Relationship with Bibliometric and Altmetric Impact.”
+McVeigh, “Office and
+the Conduct of the Minor Jurisprudent.”
+Burrows, “Living with
+the H-Index?,” 361.
+“The Buribunks, Post-Truth and a Tentative
+Cartography of Informational Existence,” 52–54; Peters, “The
+Theological-Bureaucratic
+Science Fiction of Philip K. Dick and Carl
+Schmitt,” 76–77.
+Cannon, “Measuring
+Monsters, Academic Subjectivities, and Counting Practices.”
+Print (pretty)
+Print (eco-friendly)
+RTF format (493 KB)
+PDF format (596 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

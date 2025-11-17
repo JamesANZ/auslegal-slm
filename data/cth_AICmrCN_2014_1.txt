@@ -1,0 +1,227 @@
+Telstra Corporation Limited: Own motion investigation report [2014] AICmrCN 1 (1 March 2014)
+Timothy Pilgrim, Australian Privacy Commissioner
+Relevant provisions of the Privacy Act
+Security of personal information (NPP 4.1)
+Nature of personal information
+Risk environment
+Implementation of security processes
+Web configuration
+Vulnerability testing and monitoring
+Industry practice
+NPP 4.1 conclusion — whether reasonable steps were taken to secure the personal information
+Secure destruction or permanent de-identification of personal information that is no longer required (NPP 4.2)
+Disclosure of personal information (NPP 2.1)
+Rectification
+Recommendations
+Acronyms and abbreviations
+On 24 May 2013, the Australian Privacy Commissioner (the Commissioner) opened an own motion investigation into Telstra Corporation
+Limited (Telstra). This was in response to media allegations that personal information of Telstra customers was accessible online,
+which Telstra confirmed.
+The Commissioner's investigation focused on whether Telstra took reasonable steps to protect customer information from misuse, loss,
+unauthorised access, modification or disclosure.
+After considering the facts of the case, submissions from Telstra and the relevant provisions of the
+(Cth) (Privacy Act), the Commissioner came to the view that Telstra had breached the Privacy Act, by failing to take reasonable steps
+to secure personal information it held. The Commissioner also found that Telstra had unlawfully disclosed personal information.
+Australian Communications and Media Authority (the ACMA) also carried out an investigation
+into the incident in relation to Telstra’s compliance with clause 4.6.3 of the
+Telecommunications Consumer Protections Code C628:2012
+(the Code). The ACMA found that Telstra contravened clause 4.6.3 of the Code by failing to protect the privacy of customers’ personal
+information. The ACMA also found that Telstra’s conduct contravened the direction given to Telstra by the ACMA on 3 September 2012
+subsection 121(1)
+Telecommunications Act 1997
+. The Office of the Australian Information Commissioner (OAIC) and the ACMA communicated regarding their respective investigations.
+On 15 May 2013, the Commissioner received information that spreadsheet files containing personal information about Telstra customers
+(the source files) were publicly accessible online (the data breach). Telstra was also notified of the data breach on 15 May 2013
+and took immediate steps to respond to the breach.
+The following events led to the data breach:
+source files were hosted on the platform that was the subject of the data breach (platform) by a third party service provider (third
+party provider) on behalf of Telstra
+Telstra requested its third party provider to extend an access control to enable authorised partners to access Telstra’s retail
+information via the platform
+the third party provider deployed the requested solution on 24 February 2012; this inadvertently turned off the access control, making
+the source files publicly accessible online
+Google indexed the source files on and from 23 June 2012, making the source files discoverable via Google search between 23 June 2012
+and 15 May 2013, and
+the source files were discovered and accessed by an internet user who conducted a Google search for ‘Telstra’ and two other specific
+The data breach resulted in the personal information of approximately 15,775 Telstra customers being compromised, including full names,
+addresses and phone numbers. This included 1,257 customer accounts with active silent line services. Through its internal investigation,
+Telstra identified that there had been at least 166 unique downloads of the source files.
+Personal information held on the platform was the subject of a previous data breach by Telstra in December 2011, where the personal
+information of approximately 734,000 customers was made publicly available online (the 2011 breach).
+At the time of the data breach, Telstra was taking remedial steps in response to the 2011 breach.
+Relevant provisions of the Privacy Act
+Organisations covered by the Privacy Act must comply with ten National Privacy Principles (NPPs) contained in Schedule 3 to the Act.
+The NPPs apply to the handling of ‘personal information’ which the Privacy Act defines as:
+information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded
+in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information
+or opinion.
+The Privacy Act applies to all private sector organisations with an annual turnover of more than $3 million and some small businesses.
+Telstra is subject to the Privacy Act and the NPPs.
+NPP 4 (Data security) and NPP 2 (Use and disclosure) are the Privacy Act provisions relevant to this data breach. In particular:
+NPP 4.1 requires organisations to take reasonable steps to protect the personal information they hold from misuse and loss and from
+unauthorised access, modification or disclosure
+NPP 4.2 states that, if an organisation no longer needs personal information for any purpose under NPP 2, then the organisation must
+take reasonable steps to destroy or permanently de-identify it
+NPP 2.1 provides that an organisation may only use or disclose personal information for the primary purpose of collection, unless
+an exception applies.
+Security of personal information (NPP 4.1)
+In assessing whether Telstra took reasonable steps to comply with NPP 4.1, the Commissioner considered information from Telstra about
+the security safeguards in place relating to the platform prior to the data breach, and what steps would have been reasonable in
+the circumstances to protect the personal information held. This included considering the nature of the personal information, Telstra’s
+risk environment, implementation of security processes, website configuration, vulnerability testing and monitoring, and industry
+practice. The Commissioner also had regard to the guidance set out in the OAIC’s Guide to information security.
+Nature of personal information
+Telstra stated that it considered the data breach ‘low risk from a privacy perspective’ because, among other things, the information
+available was limited to a customer’s name, phone number and address.
+However, the Commissioner noted that a breach of this type of personal information for the 1,257 Telstra customers with silent line
+services was not low risk. Further, the Commissioner noted that varying risk levels may require an entity to take varying security
+precautions in order to meet the requirements of NPP 4.1.
+Risk environment
+At the time of the data breach, Telstra was undertaking a remediation program in response to the 2011 breach involving the platform.
+The remediation program included decommissioning the third-party provided platform to an internal solution and remedying deficiencies
+in Telstra’s data management and security governance framework.
+In this regard, the Commissioner found that Telstra was operating in a heightened risk environment, and that Telstra was required
+to take steps that were reasonable in light of that risk environment.
+Implementation of security processes
+Following the 2011 breach, Telstra implemented an interim process using a ‘Security Approval mailbox’, to ensure that any changes
+to the platform would be reviewed by Telstra’s security team in order to mitigate the known risks. However, this process was not
+followed. Information from Telstra indicated that this was a key contributing factor to the data breach.
+Web configuration
+The Commissioner found the indexing of personal information by Google indicated that Telstra (or the third party provider, on Telstra’s
+behalf) did not effectively configure its website to request search robots such as Googlebot (via the robots.txt file) not to index,
+archive or cache the data on parts of the website not intended to be publicly accessible. Correctly implementing the robots.txt command
+would have significantly limited the discoverability of the compromised personal information, and may have prevented access by unauthorised
+Vulnerability testing and monitoring
+Compliance with NPP 4.1 requires entities to take reasonable steps to secure personal information, which generally includes implementing
+clear policies and procedures to maintain the security of personal information, such as establishing:
+the frequency at which testing will be conducted, given the nature of the personal information held
+who is responsible for conducting testing (for example the entity who holds the data or a third party service provider who deals with
+the data on the entity’s behalf)
+what sort of testing may be suitable, given the nature of the personal information held and the way that information is stored and
+processed, and
+if testing identifies weaknesses, how this will be reported and addressed.
+During the investigation, Telstra indicated that it plans to implement certain strategies that may include privacy policies and procedures
+(see ‘Rectification’ below). However, Telstra also stated that once a particular access control is implemented in a secure state,
+there is no need to undertake on-going testing.
+The Commissioner disagreed on the basis that there is no ‘set and forget’ solution to security and privacy in the digital environment.
+As network and other vulnerabilities arise, and as programs and platforms are amended or updated, what is secure at a particular
+point in time can become subject to a vulnerability at a later date. The Commissioner also noted that routine testing of website
+security and access control settings may be a reasonable security step as required under NPP 4.1.
+Unknown to Telstra, the source files remained accessible between February 2012 and the date of the data breach in May 2013. The Commissioner
+found that this indicated a failure by Telstra (or the third party provider on Telstra’s behalf) to take reasonable steps to monitor
+the security of personal information held by Telstra. Telstra asserted that ‘the duration of potential accessibility [was] an irrelevant
+consideration in assessing whether or not [Telstra] took reasonable steps’ to secure personal information, as NPP 4.1 makes no
+reference to duration.
+The Commissioner considered duration of potential accessibility to be a relevant consideration. This is particularly the case in the
+networked digital environment, where accessible data is easily copied, transferred and disseminated. While personal information is
+accessible, there continues to be a risk that it will be accessed. The Commissioner considered that where personal information is
+inadvertently or mistakenly made accessible to the public, it will generally be a reasonable security step to limit the duration
+of that accessibility as much as possible.
+In response to the data breach, Telstra established a Security Exploration Team tasked with proactively searching for any Telstra
+customer data that may be accessible publicly or through search robots (see ‘Rectification’ below). The Commissioner noted that
+if such processes had been in place prior to the data breach, they may have detected the access control failure and the incorrect
+implementation of the ‘robots.txt’ file. This would have enabled Telstra to prevent or limit the impact of the data breach.
+Industry practice
+In relation to Software as a Service (SaaS) testing, Telstra told the OAIC that it complied with industry practice.
+The Commissioner noted that adherence to industry practice is not, in of itself, an alternative to an entity meeting its regulatory
+and legal obligations.
+If an entity engages in what it considers to be industry practice, and that practice falls short of the requirements of the Privacy
+Act, the Commissioner may consider that entity non-compliant.
+NPP 4.1 conclusion — whether reasonable steps were taken to secure the personal information
+The Commissioner found that Telstra had:
+made personal information publicly accessible online, and
+failed to properly configure its website (via the robots.txt file) to prevent the unwanted indexation of content by search robots
+including Googlebot.
+Once the source files were made publicly accessible online, this resulted in Google indexing the source files allowing greater discoverability.
+The Commissioner determined that the source files were accessible for 14 months and discoverable via a Google search for almost 11
+The Commissioner was also satisfied that:
+following the 2011 breach, Telstra was aware of particular security risks with Telstra’s management of the platform
+it was a reasonable step to implement security processes and procedures to address the heightened risk environment
+had Telstra followed its own processes, it may have prevented or mitigated the effects of the breach, and
+in order to satisfy the requirements of NPP 4.1, 'reasonable steps' in the circumstances required both the implementation of reasonable
+security procedures and adherence to them.
+Further, Telstra failed to take steps such as vulnerability testing and monitoring despite its awareness of the heightened risk environment.
+Based on the considerations set out above, the Commissioner found that Telstra contravened NPP 4.1, by failing to take reasonable
+security steps to protect the personal information it held from misuse and loss and from unauthorised access, modification or disclosure.
+Secure destruction or permanent de-identification of personal information that is no longer required (NPP 4.2)
+NPP 4.2 requires organisations to take reasonable steps to destroy or permanently de-identify personal information that is not being
+used or disclosed for any purpose under NPP 2 (in other words, where the personal information is no longer required). To comply with
+this obligation, an organisation must have systems or procedures in place to identify information the organisation no longer needs,
+and a process for how the destruction or de-identification of the information will occur.
+The source files compromised in the data breach contained information from 2009 and earlier. Telstra was unable to initially determine
+the purpose of the compromised data and subsequently stated that it was retained in accordance with its document retention policy
+(a copy of that policy was provided to the Commissioner). However Telstra did not identify any particular provisions in the document
+retention policy that required the source files to be retained on the platform.
+Telstra also advised that because the information in the source files was between four and seven years old, it did not have an immediate
+commercial need for the data.
+The Commissioner noted that information that is not current may still cause harm in the event that it is compromised, for example,
+it may be used for identity theft purposes.
+Telstra did not demonstrate that in this instance it had systems in place to identify personal information that was not being used
+or disclosed for a purpose under NPP 2. Further, the Commissioner did not consider any of the information provided by Telstra to
+indicate that Telstra had adequate processes in place to destroy or de-identify information that was no longer in use.
+Therefore, the Commissioner found that Telstra failed to take reasonable steps to destroy or permanently de-identify the personal
+information held on the platform that was no longer needed for any lawful purpose, in contravention of NPP 4.2.
+Disclosure of personal information (NPP 2.1)
+As part of the investigation, the Commissioner considered whether there had been a breach of NPP 2.1 in relation to the publication
+of customer information online by Telstra. NPP 2.1 regulates the use and disclosure of personal information and states that organisations
+may only use or disclose personal information for the primary purpose of collection, unless an exception applies.
+In general terms an organisation
+‘discloses’
+personal information when it releases information, whether purposely or accidentally, to others outside the organisation.
+Telstra is aware of at least 166 unique downloads of the source files by IP addresses that are not associated with Telstra or its
+affiliates. The Commissioner found that this occurred as a result of Telstra allowing the source files to be made publicly accessible
+online, following implementation of the incorrect access control setting.
+Therefore, the Commissioner found that the external accessibility of customers' personal information held on the platform was a disclosure
+in breach of NPP 2.1.
+Rectification
+The Commissioner found that Telstra acted appropriately in responding to the data breach. After being notified of the breach, Telstra:
+disabled all public access links to the source files containing the customer data, and requested Google to clear all relevant caches
+reported the incident to the ACMA and the Telecommunications Industry Ombudsman
+requested that the third party provider commence an internal investigation and report back to Telstra, and
+notified affected customers, and developed a process to enable resellers’ end users to change their number as required.
+To prevent future data breaches, Telstra also conducted internal reorganisation to support the central management of software and
+platforms by Telstra IT, increased security controls, recommended an internal review into Telstra’s use of SaaS solutions (including
+monitoring and ensuring that solutions employ reasonable security steps), and established a Security Exploration Team tasked with
+As of 31 December 2013, Telstra decommissioned all instances of the platform and migrated to an internal platform managed by Telstra
+Telstra will also establish a clear policy for central software management (including information security arrangements), review contracts
+relating to personal information handling (including by enhancing Telstra’s control over third party providers), implement a data
+loss prevention program, adopt a Privacy by Design strategy, and exit its contract with the third party provider.
+Recommendations
+Telstra is responsible for the personal information of millions of Australians. It has both a legal and corporate responsibility to
+take all reasonable steps to ensure personal information is protected.
+The Commissioner has requested and Telstra has agreed that Telstra engage an independent third party auditor by 12 March 2014 to certify
+that Telstra has implemented the planned rectification, and that the certification be provided to the Commissioner by 30 June 2014.
+This will help ensure Telstra is well placed to comply with the reforms to the Privacy Act that apply from 12 March 2014.
+The Commissioner has also recommended that Telstra review its Document Retention Policy to ensure it meets the requirements of the
+Australian Privacy Principles.
+The Commissioner found that Telstra:
+failed to take reasonable steps to ensure the security of the personal information that it held, in contravention of NPP 4.1
+failed to take reasonable steps to destroy or permanently de-identify the personal information it held in contravention of NPP 4.2,
+disclosed personal information other than for a permitted purpose, in contravention of NPP 2.1.
+Telstra acted appropriately in response to the data breach by immediately disabling all public access links to the source files containing
+the customer data.
+Since the data breach, Telstra has undertaken an appropriate review of the incident and data involved, and taken appropriate steps
+to notify potentially affected customers. Telstra has also partially addressed the OAIC’s recommendations and is in the process
+of addressing those remaining.
+Based on the information from Telstra about its review and remediation of the data breach and Telstra’s ongoing implementation of
+recommendations made by the OAIC, the Commissioner decided to close the investigation.
+Acronyms and abbreviations
+Commissioner — Australian Privacy Commissioner
+NPPs — National Privacy Principles (contained in Schedule 3 of the
+OAIC — Office of the Australian Information Commissioner
+As required under National Privacy Principle (NPP) 4.1.
+The 2011 breach was also the subject of an own motion investigation report by the Commissioner -
+www.oaic.gov.au/privacy/applying-privacy-law/privacy-omi-reports/telstra-corporation-limited
+www.oaic.gov.au/privacy/privacy-resources/privacy-guides/guide-to-information-security
+‘Robots.txt’ is a request-based string which search engines comply with voluntarily, and the Commissioner noted that most search
+engines comply with ‘robots.txt’, including Google, Bing, and Yahoo! Together, these comprise the vast majority of search engine
+market share in Australia (over 98% at the time of the data breach: source — Michael David, Internetrix Research,
+www.internetrix.com.au/assets/Research-Papers/SEO-FINAL-White-Paper-web.pdf
+, 1 May 2013).
+See the OAIC’s
+Guide to information security
+for further details. Complying with an industry practice does not absolve the entity of taking further steps to protect its holdings
+of personal information. However adopting an industry standard as part of broader risk assessment can supplement compliance regimes
+and provide entities some confidence regarding their security practices.
+www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles
+No downloadable files available

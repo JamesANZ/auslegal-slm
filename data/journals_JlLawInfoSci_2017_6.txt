@@ -1,0 +1,987 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/JlLawInfoSci/2017/6.html
+Scraped: 2025-11-17 15:11:18
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Clarke, Roger; Greenleaf, Graham --- "Dataveillance Regulation: A Research Framework" [2017] JlLawInfoSci 6; (2017) 25(1) Journal of Law, Information and Science 104
+Introduction
+1 Dataveillance
+1.1 Temporal aspects of dataveillance
+2 Categories of Dataveillance Regulation
+3 Evaluation Principles for Regulatory Schemes
+4 Dataveillance Law: Modalities and Examples
+5 Practical Utility of the Analysis
+Dataveillance Regulation: A Research Framework
+ROGER CLARKE
+AND GRAHAM GREENLEAF
+Dataveillance is the systematic creation and/or use of personal data for
+the investigation or monitoring of the actions or communications
+of one or more
+persons. The term emerged in the 1980s, initially as a set of tools for
+exploiting data that had already been collected
+for some other purpose.
+Developments in information technologies, combined with a voracious appetite for
+social control among government
+agencies and corporations alike, has seen
+dataveillance practices diversify and proliferate.
+The regulatory frameworks that enable and control dataveillance activities
+appear not to have attracted a great deal of attention
+in the literature. Data
+the subject of a great deal
+of activity in legislatures, resulting in many
+countries having data protection oversight agencies and a modest level of
+jurisprudence.
+On the other hand, provisions that enable rather than constrain
+dataveillance are voluminous, both pre-dating data protection laws
+subsequently, and hence often qualifying or over-ruling them.
+This paper presents an initial survey and structuring of the field of
+dataveillance regulation in a manner intended to facilitate
+the conduct of
+research in the area. Its scope extends well beyond legislation to encompass all
+forms of regulatory mechanisms. It
+identifies ways in which the effectiveness or
+otherwise of regulatory schemes can be evaluated. It suggests classification
+that can be applied to dataveillance regulation through technology and
+by law. This lays, we believe, a foundation for the analysis
+of the regimes in
+particular jurisdictions whereby dataveillance practices are regulated, for
+comparisons among jurisdictions, and
+for comparative evaluation of degrees of
+freedom and of authoritarianism.
+Introduction
+The practice of dataveillance as a means of social control was identified and
+named over 30 years ago, although examples of the practice
+have a longer
+lineage. It has been actively documented, studied and discussed since then.
+However, there is only a limited literature
+on its regulation, even by the more
+formal kinds of regulatory measures. This paper provides a preliminary review of
+this as-yet
+under-researched area. We use the term ‘dataveillance
+regulation’ for all measures that have the intended or even incidental
+effect of influencing dataveillance practice, and the term ‘dataveillance
+law’ to refer to legislation, and other aspects
+of law, that, whether by
+design or otherwise, have a regulatory effect on the conduct of
+dataveillance.
+A clear understanding of dataveillance is needed for the analysis of relevant
+regulatory arrangements in any particular jurisdiction,
+to enable comparisons
+among jurisdictions, and for evaluation of the degrees of freedom and of
+authoritarianism respectively enjoyed
+and suffered by residents of different
+countries as a result of dataveillance practices. This paper’s primary
+purpose is to
+establish a framework for the field of dataveillance regulation
+which will facilitate the conduct of research in the area, by ourselves
+The paper commences with a discussion of the meaning of the term
+‘dataveillance’, and the various kinds of dataveillance
+It then outlines the various forms that dataveillance regulation may take, and
+summarises the characteristics of an effective
+regulatory regime. Because of its
+significance, regulation by dataveillance law is then discussed in greater
+detail. A small set
+of modalities is defined, and examples are provided. The
+classification scheme is at this stage provisional, and more a typology
+‘ideal types’ rather than a formal taxonomy. Some examples are
+provided from jurisdictions with which the authors
+are familiar. The final
+section considers the value that can be derived from a deeper understanding of
+dataveillance regulation generally,
+and dataveillance law in particular.
+1 Dataveillance
+Dataveillance was originally defined as the systematic use of personal data
+systems in the investigation or monitoring of the actions
+or communications of
+one or more persons.
+The analysis
+distinguished personal dataveillance (of an individual known to be of interest)
+from mass surveillance (whose purposes
+include to identify individuals of
+Since 1988, the theory has been extended in several directions. An important
+underlying concept is the ‘digital persona’.
+This refers to ‘a
+model of an individual’s public personality based on data and maintained
+by transactions, and intended
+for use as a proxy for the
+individual’.
+Whereas physical
+surveillance has its focus on the individual’s body and its behaviour,
+dataveillance watches the shadow that
+the person casts as they conduct
+transactions, variously of an economic, social or political nature. Arguments
+have been made for
+control by the individual of the digital persona used to
+represent them.
+Other extensions to the theory of dataveillance have included deeper
+consideration of specific techniques such as:
+• Profiling
+• Data matching
+• The monitoring of search-terms
+• Articulated models of
+identification
+and of location and
+tracking data
+• Analysis of dataveillance’s support for
+authoritarianism
+• The challenges it creates for
+and for political
+• The impact of the ‘big data’
+Michael and Michael have charted the integration of dataveillance within the
+broader notion of überveillance.
+Meanwhile, Brin has proposed protection through transparency rather than
+secrecy, in particular by ensuring that people who conduct
+monitoring of others
+are themselves subject to
+monitoring;
+and Mann et al have
+argued that the antidote to unchecked surveillance (of the weak by the powerful)
+is the conduct of ‘sousveillance’
+(of the powerful by the weak),
+desirably at a similar level of intensity, which Mann later refers to as
+‘equiveillance’.
+A framework for the analysis of all forms of surveillance is provided by
+Of particular importance
+is what that paper refers to as the ‘dimensions’ of surveillance:
+What? for Whom? by Whom? Why? How? Where? and When?
+Consideration of the last question of When? enables important distinctions
+among categories of dataveillance to be drawn, including
+the temporal aspects
+discussed below.
+At the time the term ‘dataveillance’ was first exposed at a
+conference in 1986, the focus was on the appropriation of
+data that had already
+been collected for some governmental or business purpose. During the intervening
+three decades, dataveillance
+technologies have proliferated, the costs of
+conducting dataveillance have declined, and the application of dataveillance
+has greatly increased. As a result, the demand for data to which the
+techniques can be applied has spiralled upwards, and many new
+data gathering
+activities have emerged.
+It is therefore now more accurate and useful to adopt a modified definition
+of dataveillance by referring to personal data rather
+than to the systems that
+process it, and by including explicit reference to data gathering. The revised
+definition is:
+Dataveillance is the systematic creation and/or use of personal data for the
+investigation or monitoring of the actions or communications
+of one or more
+1.1 Temporal aspects of dataveillance
+To give a sufficient indication of the extent of dataveillance in current
+societies, we need to consider its temporal aspects, and
+its relationships to
+other forms of surveillance.
+There are four temporal aspects of
+dataveillance:
+• The timeframe in which surveillance is conducted may be: ephemeral;
+across a single span of time; across recurrent spans (such
+as a particular span
+within each 24-hour cycle); or scattered across time (eg triggered by particular
+conditions detected in published
+text, uttered words and recorded behaviour).
+• The intensity with which surveillance is conducted may be once-only,
+repeated, continual or continuous.
+• The persistence of consequences of surveillance may be ephemeral,
+because it is limited to observation; short-to-medium term,
+because it is
+recorded; or long-term or permanent, because it is archived.
+• The time-period within which surveillance is applied may be: the
+present, through real-time use; the past, through retrospective
+use; or the
+future, through prospective or ‘predictive’ use.
+A full understanding of any particular instance of surveillance requires that
+it be considered against these four temporal dimensions.
+There are many forms of
+surveillance,
+which involve some
+kind of observation and may also involve recording. This applies to:
+• Physical observation, including audio and video streaming to another
+• Communications surveillance (for example, ‘wire-taps’
+where messages are intercepted);
+• Location surveillance (where geographical coordinates are streamed to
+another location);
+• Experience surveillance (for example, where a person’s reading
+patterns are observed, or streamed to another location);
+• Bodily surveillance (where measures of a human are displayed, or
+streamed to another location).
+These forms of surveillance can be correlated with the various dimensions of
+each dimension of privacy
+has one form of surveillance primarily correlated with it. Analyses propose
+between five ‘dimensions’
+(privacy of the person, and of personal
+communications, data, behaviour and
+experience)
+‘types’ (bodily, spatial, communicational, proprietary,
+intellectual, decisional, associational, behavioural
+and informational
+A reconciliation among
+four such proposals shows that the analyses’ focal points are variously
+protections.
+Where these various forms of surveillance give rise to recorded data, they
+constitute dataveillance and fall within scope of this
+discussion. Such
+dataveillance arising from other forms of surveillance is particularly important
+and increasingly pervasive, as
+can be seen from these examples:
+• Physical surveillance that results in recording of audio, image or
+video that may be able to be associated with an individual
+• Communications surveillance
+that expresses ephemeral messages
+as recorded data (as occurs with email messages including logs and archives,
+recordings of telephony
+intercepts, etc), or records metadata about messages (as
+occurs with telephony ‘call data’ and Internet Service
+(‘ISPs’) logs including under ‘data
+retention’ schemes)
+• Behavioural surveillance that results in recorded data, such as
+recorded CCTV images, and logs and recordings of the electronic
+activities of
+categories of people such as employees and students
+• Location surveillance that results in recorded data, such as
+automated number plate recognition (‘ANPR’) systems,
+scheme not merely enables actions in relation to the very small percentage of
+apparently infringing drivers and vehicles,
+but also results in logs of vehicle
+• Experiential surveillance that results in recorded data, such as
+and reading
+materials read
+• Bodily surveillance that results in recorded data, such as measures
+of human characteristics, including ‘biometrics’,
+whether of the
+nature of identification and identity authentication measures, or physiological
+indicators such as heart-rate, and
+signals transmitted by embedded and otherwise
+closely associated eObjects.
+The concept, technologies and practices of dataveillance are therefore
+multi-faceted, and substantial bodies of research exist. Without
+considering
+synonyms such as ‘data surveillance’ or ‘information
+surveillance’, Google Scholar statistics
+reveal that since being coined in
+1988 the term ‘dataveillance’ was used in only 584 papers (37 per
+annum) from 1988–2004,
+but then in over 3,400 papers (250 per annum) from
+2005–17, with a peak of about 450 in each of 2016 and 2017. The citation
+history of the original 1988 paper on dataveillance is also indicative, having
+averaged 9 citations per year until 2004, but averaging
+40 per annum since then,
+peaking with about 50 in each year between 2013–17, despite being almost
+three decades old. Dataveillance
+is therefore a concept which is of substantial
+and increasing interest.
+We conclude that it is time that closer attention was paid to the means by
+which laws and other regulatory measures both enable and
+dataveillance.
+2 Categories of Dataveillance
+Dataveillance is subject to many different influences, which
+may variously stimulate or constrain its use. Constraints are of many
+including preclusion of practices, the setting of pre-conditions in the absence
+of which dataveillance cannot be used, and
+the setting of post-conditions that
+apply to its application. This section briefly reviews the various forms of
+influence that are
+of a regulatory nature.
+The term ‘regulation’ refers to the exercise of control or
+governance over activities.
+accordingly encompasses all forms of constraint and extends to enablement in the
+passive sense of permission, and possibly in
+the more positive senses of
+encouragement and even stimulation.
+Clearly, law is one major form of regulation. A narrow interpretation of law
+is that it is rules imposed by a politically recognised
+authority. In the
+categorisation used by Clarke and Bennett Moses, for example, law corresponds
+primarily to only the first of four
+forms of regulatory mechanism: formal
+regulation (‘government’); co-regulation; industry self-regulation;
+and organisational
+self-regulation
+(‘governance’).
+An expansive interpretation of law, on the other hand, might recognise a much
+broader set of phenomena, including the ‘soft
+law’ in the third
+category here:
+• Law made by the state, including legislation, both primary and
+delegated (such as regulations); treaties that bind the state;
+decisions by
+courts and tribunals, which influence subsequent decisions (depending on the
+and, in principle at least,
+‘meta-regulation’,
+whereby the regulatee is subject to a requirement to satisfy some broad
+regulatory principles
+• Law made by private entities, but endorsed and enforced by the State,
+including contracts, co-regulation, and perhaps binding
+self-regulation
+• Quasi-legal instruments that are customarily observed by at least
+some organisations, but which lack enforceability. Possible
+examples include
+Memoranda of Understanding (‘MOUs’) between local and international
+enforcement bodies, guidelines published
+by oversight agencies, and, even less
+convincingly, industry self-regulation, corporate self-governance, and
+‘soft meta-regulation’,
+‘a media organisation is exempt ... if ... [it] is publicly committed to
+observe standards that ... deal with privacy
+... and ... have been
+published’.
+Co-regulation is a cross-over point between self-governance and external
+governance.
+It involves the
+establishment of a code or standard within a legislative context that makes the
+requirements enforceable. However,
+organisations that are to be subject to the
+regulatory measure have significant input to the requirements, in some cases to
+of writing them. Advocates for the nominal beneficiaries of the
+measures may or may not be invited to participate, and may or may
+material influence in the drafting of the document.
+Mechanisms other than law also have regulatory influence on dataveillance. In
+more general contexts such as cyberspace regulation,
+the mechanisms have been
+categorised in varying ways, including in Lessig’s well-known
+categorisation of code, norms and
+but also by other
+proposed categories such as ‘intrinsic
+‘natural controls’.
+The category of regulatory activity that Lessig referred to as
+‘code’ (‘West Coast Code’, to distinguish them
+formal laws or ‘East Coast Code’), is better described as the
+architecture and infrastructure of cyberspace, and
+consists of considerably more
+than software, including standards, protocols, hardware and in some instances
+biometrics.
+Architecture and
+infrastructure have very significant effects on regulating dataveillance, both
+by enabling it, and by intentionally
+or incidentally placing limits on its
+practice or effectiveness by such mechanisms as default settings, message
+encryption, pseudonymous
+identities and obfuscatory routing.
+The regulation of dataveillance by architecture and infrastructure can be
+further categorised. In Table 1, we provide a tentative
+set of categories, which
+we refer to as ‘modalities’. These encompass technologies that do
+and do not enable dataveillance,
+technologies that only enable dataveillance if
+the individual takes some particular action, and technologies that enable
+dataveillance
+unless the individual performs an action of the nature of denial
+or circumvention. The following section adopts a related but somewhat
+approach to regulation by ‘dataveillance law’.
+‘You cannot’
+Design features that, whether intentionally or incidentally, do not support
+dataveillance activities, and may even prevent them
+Willing Participation
+‘You cannot, unless’
+Design features that, whether intentionally or incidentally, do not support
+dataveillance activities, and may even prevent them, unless
+the individual who
+is, or whose devices or traffic are, subject to dataveillance takes some action
+to enable it
+Default Participation
+‘You can, unless’
+Design features that, whether intentionally or incidentally, support
+dataveillance activities, unless the individual who is, or whose
+traffic are, subject to dataveillance takes some action to disable it
+Design features that, whether intentionally or incidentally, support
+dataveillance activities
+Table 1: Modalities of Dataveillance Regulation by Architecture and
+Infrastructure
+The number and definitions of other categories of regulation –
+norms/morality, intrinsic/natural limits, markets/economics –
+boundaries between them, are contested. Examples within such categories include
+the obviousness of the activity, the degree
+of ‘creepiness’ that the
+activity generates among the relevant public, the extent to which it excites
+social countermeasures,
+the relationship between costs and benefits, and the
+scope for over-intrusiveness to lead to the loss of customers.
+It might be the case that the combination of such controls are sufficiently
+effective, and the residual risk sufficiently limited,
+that active regulatory
+measures are unnecessary. A fully-developed framework for the analysis of
+dataveillance regulation will require
+a more precise demarcation of these
+categories and the modalities through which each operates, but that has not been
+attempted here.
+Surveillance is in itself a significant form of
+regulation,
+including in
+cyberspace,
+dataveillance. However, whether this regulatory role is a part of other
+categories of regulation, or should be treated
+as a separate category of
+regulation, is not considered here.
+3 Evaluation Principles for Regulatory
+To be of maximum utility, a study of dataveillance regulation
+needs to extend beyond the descriptive to embrace the normative. How
+can we know
+whether any particular regulatory scheme is good, bad or indifferent?
+Generic approaches to
+evaluating regulation can be applied to dataveillance regulatory
+A comprehensive set of
+evaluation criteria is proposed in Clarke and Bennett
+This encompasses process
+factors (clarity of aims and requirements, transparency, participation and
+reflection of stakeholder interests),
+aspects of the resulting regime
+(comprehensiveness, parsimony, articulation, educative value and appropriate
+generality and specificity),
+and the outcomes of the process (oversight,
+enforceability, enforcement and review).
+In the area of privacy and data protection laws, evaluative frameworks based
+on responsive regulation theory are
+as are approaches
+documented in Wright and de
+In 2013, the Australian
+procedures for significant policy
+proposals, including both pre-conditions
+(conduct of an evaluation process, consultation, transparency, justification and
+proportionality)
+and post-conditions (safeguards and mitigation measures,
+controls to ensure that they are in place, and
+Once dataveillance regulatory measures in any particular segment or
+criteria can
+be applied in order to determine the extent to which the regulatory framework
+appears to be in place, effective, efficient,
+flexible and
+4 Dataveillance Law: Modalities and
+All forms of dataveillance regulation are in need of closer
+attention than they have been given to date. However, formal regulation
+plays a special role within the overall regulatory framework. This is because it
+carries the imprimatur and the power of the
+state, and sets a framework within
+which other regulatory forms operate. It accordingly warrants deeper treatment,
+to provide a firm
+foundation for subsequent research into formal regulation in
+particular.
+Dataveillance law comprises formal regulatory mechanisms that affect the
+practice of surveillance involving data about people. Research
+published to date
+tends to address specific questions, such as the extent (if any) to which the
+data protection law in a particular
+in relation to particular forms of dataveillance. On the other hand, broader
+are less often considered, and the suggestion of a framework within
+which broader questions can be considered appears to be novel
+surveillance and privacy literatures. No publications have yet been found whose
+purpose is to explain the relationship(s)
+between dataveillance (or data
+surveillance), on the one hand, and regulatory regimes generally and law in
+particular, on the other.
+Recent compendia on surveillance do not address such
+nor do overviews of
+While we cannot
+provide any detailed theory of such relationships here, we suggest a framework
+within which such theories can be
+As discussed in Part 3 above, there are many forms of law, ranging in their
+degree of authority and effectiveness, including legislation,
+contracts and codes, and thus different forms of dataveillance law. In addition
+to this multiplicity of forms, dataveillance
+law performs a number of different
+functions in relation to dataveillance practices. We have adopted the term
+‘modalities’
+to refer to those functions.
+At one extremity, a law may mandate the performance of a particular
+dataveillance practice, and at the other extreme, a law may absolutely
+it. The functions of a great many laws, however, lie somewhere between these
+modalities of mandation and prohibition. Care
+is needed to distinguish the
+intermediate modalities in a manner that is both logical and a useful basis for
+analysis. Table 2 presents
+a set of 6 modalities. As with the categorisation for
+dataveillance regulation in Table 1, the set will no doubt be further refined
+once it has been applied in a variety of jurisdictions and sectors.
+It is important to distinguish ‘pre-conditions’, which are
+threshold tests that result in permission or otherwise for
+a particular
+dataveillance activity to be performed, from ‘post-conditions’,
+which apply to those dataveillance activities
+that do proceed. Any satisfactory
+set of criteria for evaluation of dataveillance regulation needs to maintain
+that distinction.
+Some examples of each modality are provided below, drawn from legislation
+with which the authors are familiar, from the Australian
+federal and state
+Australian jurisdictions. Their purpose
+is in part to illuminate the abstract
+definitions proposed in Table 2, and in part as a preliminary test of the
+comprehensiveness
+and effectiveness of our proposed classification scheme and
+associated definitions.
+Table 2: Modalities of Dataveillance Law
+Prohibition
+‘You must not’
+Laws that formally proscribe organisations from carrying out particular
+dataveillance activities.
+Conditional Prohibition
+‘You must not unless’
+Laws that proscribe dataveillance activities unless particular
+pre-conditions are satisfied.
+Where pre-conditions are satisfied, the permission may also be subject to
+the requirement to at least consider, and possibly the requirement
+to actually
+satisfy, post-conditions (safeguards and mitigation measures, controls and
+‘It’s up to you’
+No relevant law mandates, permits or prohibits, whether with or without
+conditions applied. In most legal systems, this is equivalent
+to an implied
+permission.
+Conditional Permission
+‘You may, provided that’
+Laws that provide formal permission for dataveillance activities (negating
+possible claims of illegality), or that provide legal capacity
+to organisations
+to do so but contingent on some pre-condition(s) being satisfied.
+The permission may be subject to the requirement to at least consider, and
+possibly to actually satisfy, post-conditions, (safeguards
+and mitigation
+measures, controls and audit).
+Laws that provide unconditional permission for dataveillance activities
+(negating possible claims of illegality), or that provide
+legal capacity to
+organisations to do so.
+The permission may be subject to the requirement to at least consider, and
+possibly to actually satisfy, post-conditions, (safeguards
+and mitigation
+measures, controls and audit).
+Laws that formally require organisations (public or private sector) to
+carry out particular dataveillance activities.
+The mandation may be subject to the requirement to at least consider, and
+possibly to actually satisfy, post-conditions, (safeguards
+and mitigation
+measures, controls and audit).
+There are remarkably few obvious instances of (1) Prohibition, but one is the
+Criminal Code
+(Qld) s 227, which criminalises observation or
+visual recording made for the purpose of observing or visually recording another
+genital or anal region.
+A few examples are found of (2) Conditional Prohibition. Very weak provisions
+Surveillance Devices Acts
+(Vic, WA, NT) prohibit the use of visual
+and aural surveillance devices for recording, but only if the person under
+surveillance has
+a strong case for expecting the behaviour would not be
+observed, transmitted or recorded. An only marginally stronger feature of
+Telecommunications (Interception and Access) Act 1979
+(Cth) provides a
+general prohibition on interception
+, but is subject to
+creates a dozen exceptions.
+Category (3) Silence is, by definition, characterised by the absence rather
+than the presence of evidence. However, some examples
+can be found in the form
+of types of organisations and of data that are exempted from data protection
+legislation. In the case of
+Australian data privacy law, the many exemptions
+from the law include personal data handling by most small
+businesses,
+individuals in a
+non-business capacity,
+personal data held for personal, family or household
+Dataveillance
+activities by these organisations or persons (in the specified circumstances)
+are therefore permitted unless prohibited
+by other laws.
+For category (4) Conditional Permission, pre-conditions must be satisfied. An
+Telecommunications (Interception and Access)
+Amendment (Data Retention) Act
+’). This authorises an extensible list of 14
+enforcement agencies and security authorities to demand data that is mandatorily
+retained by carriers and carriage service providers or ISPs. However, under s
+110A, the ability to extend the power to additional
+agencies is conditional on a
+declaration by the Minister. This is an example of delegated legislation
+creating a form of control
+that may or may not have any meaningful regulatory
+effect. The apparent safeguard of a short list of agencies has in any case
+to be a red herring. It has come to light subsequent to the
+provision’s passage that scores of agencies have demand powers
+case, and do not need a s 110A
+declaration.
+The agency that
+sponsored the legislation would have been well aware of this
+‘feature’, but failed to declare it during
+the public and
+parliamentary debates. Some of the many agencies that do not need a s 110A
+declaration may be subject to pre-conditions,
+and possibly to post-conditions as
+The notion of (5) Permission encompasses dataveillance that is authorised by
+law, but may be subject to post-conditions. For example,
+Data-Matching
+Program (Assistance and Tax) Act
+(Cth) authorises agencies to
+match data, but subject to a number of safeguards contained in the Act and
+supporting ‘guidelines’.
+Some of the many agencies that do not need
+s 110A declaration in order to access ISPs’ data may not be
+subject to pre-conditions, but may be subject to some post-conditions.
+In the case of (6) Mandation, instances are more readily found. An example
+that involves the co-option of very large numbers of private
+organisations into state surveillance activities is the
+Anti-Money Laundering
+and Counter-Terrorism Financing Act
+(Cth) (commonly referred to
+) which requires financial institutions, but also
+many other kinds of business enterprises, to report suspicious and other
+transactions
+to a government dataveillance agency (Austrac), and to comply with
+a substantial set of
+5 Practical Utility of the Analysis
+Distinguishing ‘modalities’ of dataveillance
+regulation generally, and of dataveillance law in particular, might well
+as an intellectualisation with limited practical application or implications. On
+the other hand, such analyses, when applied
+in particular contexts, may provide
+valuable insights into the manner in which dataveillance regulation operates.
+Combination of
+an analysis of the modalities in Tables 1 and 2 against a
+preferred set of evaluation criteria for regulatory regimes could throw
+deal of light on the tensions between regulatory measures in data protection
+laws and other relevant subject areas. Further,
+analyses of this kind may enable
+consistent and comprehensive critiques of the tensions between regulatory
+measures facilitating
+dataveillance and those purporting to limit it
+(‘data protection’), across modalities, technologies and
+Perhaps more comprehensive surveys of dataveillance laws will in due course
+find moderate numbers of instances of the nature of (1)
+Prohibition, comparable
+to the high counts already evident in the case of (6) Mandation and the
+intermediate modularities. If not,
+then the paucity of such outright
+prohibitions on dataveillance could suggest a political history of dataveillance
+that reflects
+dominance of the interests of social control and authoritarianism
+over the interests of individual freedoms.
+The analytical framework proposed in this paper has potential value beyond
+individual jurisdictions. It may assist with the recognition
+of precedents for
+particular features of dataveillance regulation. It may also facilitate
+comparisons among related provisions in
+different jurisdictions, and the
+identification of pre-conditions and post-conditions applied to particular forms
+of dataveillance
+in different jurisdictions. The framework might even provide a
+basis for generating scores measuring countries’ intrusiveness
+Disciplined analysis of dataveillance law, of the kinds proposed here, also
+has application to broader questions. For example, a ‘surveillance
+state’ can be characterised as a nation in which pervasive surveillance is
+critical to the ruling regime’s survival.
+The criteria could be
+operationalised as a jurisdiction that places few prohibitions or conditions on
+state dataveillance activities
+that are necessary to control political power. In
+other words, modalities 5–6 dominate, with some use of modalities
+and very little of 1–2.
+A ‘surveillance society’, on the other hand, can be seen as one
+in which it is considered normal for almost all human
+activities to be subjected
+to dataveillance, and where many organisations apply it extensively. Hence, in
+operational terms, a surveillance
+society places few prohibitions on non-state
+dataveillance activities, and conditions involving data subject control are
+ineffective.
+So modalities 3–6 dominate, with little use of modalities
+The modalities analysis is also applicable to notions of more recent origin.
+During the last few decades, the digitisation revolution
+– the process of
+expressing data in machine-readable form (generally as a series of bits), or
+converting analogue data into
+digital form – has been all-but completed.
+This has laid the foundation for ‘digitalisation’ or
+‘datafication’,
+which involves a shift of the interpretation and
+management of the world from human perception and cognition to processes that
+almost entirely dependent on digital data.
+A current manifestation of digitalisation is the ‘digital surveillance
+economy’, which refers to that segment of the private
+sector in which
+revenue and profit are dependent on the expropriation and exploitation of
+personal data.
+An even broader
+critique of contemporary society and polity is embodied in the notion of
+‘surveillance capitalism’: ‘information
+capitalism that
+predicts and modifies human behavior as a means to produce revenue and market
+understanding of the digital surveillance economy and of surveillance
+capitalism, and the roles that regulation plays within
+them, requires analysis
+of the kind outlined in this paper.
+The purpose of this paper was to present a framework to assist in the study
+of dataveillance regulation.
+provided a definition of dataveillance,
+discussed the various dimensions across which dataveillance practices vary, and
+the various
+sources of the data on which the practices depend. It identified
+multiple characteristics of dataveillance related to the time(s)
+when and the
+period during which it is performed.
+distinguished a range of
+different forms of regulation.
+discussed a number of approaches to
+evaluating a regulatory regime, including against indicators of its
+effectiveness, efficiency,
+flexibility and adaptability. Because of the
+particular significance of formal regulation by law,
+extended the
+framework, by considering the various roles performed by dataveillance laws. It
+proposed a set of six ‘modalities’
+that reflect different points on
+a scale from mandation of the performance of dataveillance, via four
+intermediate points, to the
+other extremity of prohibition.
+that our approach has practical utility, including for the study of surveillance
+states and surveillance societies.
+Technological developments, economic incentives to corporations, and national
+security ‘imperatives’ have resulted in
+societies and polities being
+under serious threat from rampant surveillance. Much deeper insight is needed
+into the means whereby
+societies and polities exercise control (or fail to
+exercise control) over dataveillance. This paper has provided a framework within
+which further research can be undertaken into dataveillance regulation as a
+whole, and dataveillance law in particular.
+The analysis presented here is a first foray into the new field of
+dataveillance regulation, and hence all elements of the analysis
+are at this
+stage provisional, requiring further consideration from both theoretical and
+practical perspectives. The proposed sets
+of four and six modalities need to be
+applied to particular contexts and in particular jurisdictions, in order to
+establish whether
+they achieve sufficient disjunction among the categories and
+sufficient ease of use. This would also establish whether the modalities
+sufficient insight into the nature of regulatory frameworks.
+Roger Clarke is Principal of
+Xamax Consultancy Pty Ltd, Canberra. He is also a Visiting Professor in
+Cyberspace Law & Policy
+at the University of NSW, and a Visiting Professor
+in the Research School of Computer Science at the Australian National
+University.
+His substantial dataveillance resources site is at
+http://www.rogerclarke.com/DV/.
+Graham Greenleaf is Professor
+of Law & Information Systems at UNSW Law. He specialises in the
+relationships between information
+technology and law, and research in the areas
+of cyberspace law, data protection and privacy, legal information systems and
+intellectual
+property. His current areas of research focus are Asian data
+protection and privacy laws, public rights in copyright, and the globalization
+of free Internet access to legal information. He is the co-founder of AustLII,
+and founder of the Asian Privacy Scholars Network.
+Roger Clarke
+‘Information Technology and Dataveillance’ (1988) 31(5)
+Communications of the ACM
+Roger Clarke, ‘The
+Digital Persona and its Application to Data Surveillance’ (1994) 10(2)
+The Information Society
+http://www.rogerclarke.com/DV/DigPersona.html
+See also Curtis Karnow,
+‘The Encrypted Self: Fleshing Out the Rights of Electronic
+Personalities’ (1994) 13(1)
+John Marshall Journal of Information
+Technology and Privacy Law
+; Roger Clarke, ‘Promise Unfulfilled: The
+Digital Persona Concept, Two Decades Later’ (2014) 27(2)
+Information
+Technology & People
+Paul Gowder, ‘Book
+Review of “The Transparent Society” and “Data
+(1999) 12(2)
+Harvard Journal of Law & Technology
+Roger Clarke,
+‘Profiling: A Hidden Challenge to the Regulation of Data
+Surveillance’ (1993) 4(2)
+Journal of Law and Information Science
+Roger Clarke,
+‘Dataveillance by Governments: The Technique of Computer Matching’
+(1994) 7(2)
+Information Technology & People
+Michael Zimmer, ‘The
+Gaze of the Perfect Search Engine: Google as an Infrastructure of
+Dataveillance’ in Amanda Spink
+and Michael Zimmer (eds),
+Web Search:
+Multidisciplinary Perspectives
+(Springer, 2008) ch 6.
+Roger Clarke ‘Human
+Identification in Information Systems: Management Challenges and Public Policy
+Issues’ (1994) 7(4)
+Information Technology & People
+Clarke, ‘A Sufficiently Rich Model of (Id)entity, Authentication and
+Authorisation’ (Paper presented at IDIS
+2009 - The 2nd Multidisciplinary
+Workshop on Identity in the Information Society, LSE, London, 5 June 2009)
+http://www.rogerclarke.com/ID/IdModel-1002.html
+Roger Clarke,
+‘Person-Location and Person-Tracking: Technologies, Risks and Policy
+Implications’ (2001) 14(2)
+Information Technology & People
+Roger Clarke and Marcus Wigan ‘You Are Where You’ve Been: The
+Journal of Location Based Services
+138-155; Katina Michael
+and Roger Clarke ‘Location and Tracking of Mobile Devices:
+Überveillance Stalks the Streets’
+(2013) 29(3)
+Computer Law &
+Security Review
+Roger Clarke,
+‘Information Technology: Weapon of Authoritarianism or Tool of
+Democracy?’ (Paper presented at the IFIP
+World Congress, Hamburg,
+September 1994)
+http://www.rogerclarke.com/DV/PaperAuthism.html
+A Michael Froomkin,
+‘The death of privacy?’
+(2000) 52(6)
+Stanford Law Review
+Roger Clarke,
+‘Dissidentity: The Political Dimension of Identity and Privacy’
+(2008) 1(1)
+Identity in the Information Society
+Marcus Wigan and Roger
+Clarke, ‘Big Data’s Big Unintended Consequences’ (2013) 46(6)
+IEEE Computer
+M G Michael and Katina
+Michael, ‘Toward a State of Überveillance’ (2010) 29(2)
+Technology & Society
+David Brin,
+Transparent Society
+(Addison-Wesley, 1998).
+Steve Mann, Jason Nolan and
+Barry Wellman ‘Sousveillance: Inventing and Using Wearable Computing
+Devices for Data Collection
+in Surveillance Environments’ (2003) 1(3)
+Surveillance & Society
+331; Steve Mann, ‘Equiveillance: The
+equilibrium between Sur-veillance and Sous-veillance’ (12 May 2005)
+http://wearcam.org/anonequity.htm
+Roger Clarke,
+Framework for Surveillance Analysis
+(16 February 2009) Roger Clarke’s
+http://www.rogerclarke.com/DV/FSA.html
+Ibid table 3B.
+Roger Clarke,
+Introduction to Dataveillance and Information Privacy, and Definitions of
+(24 June 2016) Roger Clarke’s Web-Site
+http://www.rogerclarke.com/DV/Intro.html#Priv
+Bert-Jaap Koops et al,
+‘A Typology of Privacy’
+(2017) 38(2)
+University of Pennsylvania
+Journal of International Law
+Roger Clarke,
+Instrumentalist’s View of Koops et al.’s Typology of Privacy: Notes
+for a Panel Session
+, (20 January 2017) Roger Clarke’s Web-Site
+http://www.rogerclarke.com/DV/PTyp-1701.html
+Kayleen Manwaring and Roger
+Clarke ‘Surfing the third wave of computing: a framework for research into
+(2015) 31(5)
+Computer Law & Security Review
+Robert Baldwin and Martin
+Understanding Regulation: Theory, Strategy and Practice
+University Press, 1999); John Braithwaite and Peter Drahos,
+Global Business
+(Cambridge University Press, 2000).
+Roger Clarke and Lyria
+Bennett Moses, ‘The Regulation of Civilian Drones’ Impacts on Public
+(2014) 30(3)
+Computer Law & Security Review
+Anil Gupta and Lawrence
+Lad, ‘Industry self-regulation: An economic, organizational, and political
+analysis’ (1983) 8(3)
+The Academy of Management Review
+Christine Parker, ‘Meta-Regulation: Legal Accountability for Corporate
+Social Responsibility?’ in Doreen McBarnet,
+Aurora Voiculescu and Tom
+Campbell (eds),
+The New Corporate Accountability: Corporate Social
+Responsibility and the Law
+(Cambridge, 2007) ch 8.
+Glen Hepburn
+‘Alternatives To Traditional Regulation’ (OECD Regulatory Policy
+http://www.oecd.org/gov/regulatory-policy/42245468.pdf
+Lawrence Lessig ‘The
+Law of the Horse: What Cyberlaw Might Teach’
+Harvard Law
+; Lawrence Lessig,
+Code and Other Laws of Cyberspace
+Books, 1999); See also drafts from 1995.
+Roger Clarke, ‘A
+Normative Regulatory Framework for Computer Matching’ (1995) 13(4)
+Journal of Computer & Information Law
+Roger Clarke, ‘The
+Regulation of Civilian Drones’ Impacts on Behavioural Privacy’
+(2014) 30(3)
+Computer Law & Security Review
+Graham Greenleaf ‘An
+Endnote on Regulating Cyberspace: Architecture vs Law?’
+[1998] UNSWLawJl 52
+(1998) 21(2)
+University of New South Wales Law Journal
+Michel Foucault, Discipline
+and Punish: The Birth of the Prison (Alan Sheridan, 1977) [Surveiller et punir,
+Clarke, ‘The
+Regulation of Civilian Drones’ Impacts on Behavioural Privacy’,
+above n 30.
+Robert Baldwin and Martin
+Understanding Regulation: Theory, Strategy and Practice
+University Press, 1999); John Braithwaite and Peter Drahos,
+Global Business
+(Cambridge University Press, 2000).
+Clarke and Bennett Moses,
+above n 24.
+Graham Greenleaf, Asian
+Data Privacy Laws: Trade and Human Rights Perspectives (OUP, 2014) ch 3.
+David Wright and Paul de
+Hert (eds),
+Enforcing Privacy: Regulatory, Legal and Technological
+(Springer, 2016).
+Australian Privacy
+Foundation, ‘AFP’s Meta-Principles for Privacy Protection’
+(Policy Statement, 2013)
+<https://www.privacy.org.au/Papers/PS-MetaP.html>.
+An example of such analysis
+is in Roger Clarke, ‘Privacy Impact Assessments as a Control Mechanism for
+Australian National
+Security Initiatives’
+(2016) 32(3)
+Computer Law
+& Security Review
+Kirstie Ball, Kevin
+Haggerty and David Lyon (eds)
+Routledge Handbook of Surveillance Studies
+(Routledge, 2012).
+David Lyon,
+Surveillance
+Studies: An Overview
+(Polity, 2007).
+Chris Duckett,
+‘Australian government has no issue with agencies demanding telco data
+outside metadata laws’ (9 March
+2017) zdNet
+http://www.zdnet.com/article/australian-government-has-no-issue-with-agencies-demanding-telco-data-outside-metadata-laws
+Roger Clarke, ‘Risks
+Inherent in the Digital Surveillance Economy: A Research Agenda’ (Working
+Paper, Xamax Consultancy
+Pty Ltd, September 2017)
+http://www.rogerclarke.com/EC/DSE.html
+Shoshana Zuboff, ‘Big
+other: Surveillance capitalism and the prospects of an information
+civilization’ (2015) 30
+Journal of Information Technology
+Print (pretty)
+Print (eco-friendly)
+RTF format (296 KB)
+PDF format (380 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

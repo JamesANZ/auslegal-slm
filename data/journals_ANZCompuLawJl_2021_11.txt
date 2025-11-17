@@ -1,0 +1,521 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/ANZCompuLawJl/2021/11.html
+Scraped: 2025-11-17 14:13:36
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Johnston, Anna --- "Reforming privacy laws to protect against digital harms" [2021] ANZCompuLawJl 11; (2021) 93 Computers & Law 38
+Reforming privacy laws to protect against digital harms
+Anna Johnston 1
+Reforming privacy laws to
+protect against digital harms
+Anna Johnston
+22 October 2020
+Introduction
+Most data protection and privacy laws turn on the
+identifiability
+an individual as the threshold criteria for when data subjects will need legal
+protection. They rest on an assumption that privacy
+harms can only befall an
+individual who can be identified. However that assumption is increasingly being
+challenged by the realities
+of the digital economy. I argue that privacy harms
+can also arise from
+individuation
+: the ability to distinguish one
+individual from others, even if that individual’s ‘identity’
+is not known.
+From the digital breadcrumbs we leave behind in the form of geolocation data
+shed from our mobile devices, to the patterns of behaviour
+we exhibit online as
+we browse, click, comment, shop, share and ‘like’, we can be
+tracked. Tracked; then profiled; and
+finally targeted ... all without the party
+doing the tracking, profiling or targeting needing to know ‘who’ we
+Data protection and privacy laws globally need updating, and emerging laws
+need careful drafting, in order to reflect this reality
+of the digital
+environment, and protect people from digital harms. I propose in this article a
+model for reform.
+Why definitions matter
+Whether or not any particular piece of data meets the definition of
+‘personal data’ is a threshold legal issue for the
+operation of most
+for the purposes of this paper)
+around the world. The definition of
+‘personal data’ (or its equivalents such as ‘personal
+information’) determines
+the boundaries of what is regulated, and what is
+protected, by the privacy principles and data subject rights which
+obligations on regulated entities for the handling of personal
+data, and data
+subject rights create actionable rights for individuals in relation to the
+personal data held about them. Data that
+is not ‘personal data’ is
+not subject to the same obligations, or the same protections – even if its
+or use is capable of doing harm to an individual.
+Under most data privacy laws, if data does not meet the threshold definition
+of ‘personal data’, a dataset can be released
+as open data, sold to
+other organisations, or used for a new purpose such as predictive analytics or
+to train a machine learning
+system, without legal limits or protections in
+relation to privacy.
+Understanding the scope of what is meant by ‘personal data’
+– and ensuring that that definition remains fit for
+purpose – is
+therefore a critical endeavour in privacy jurisprudence.
+The definition of personal data (and its equivalents) are in need of a
+radical re-think and re-design, to ensure they can protect
+against privacy
+Are data privacy laws
+fit for purpose?
+Data privacy laws, including the European Union’s General Data
+Protection Regulation (GDPR), have not kept up with rapidly evolving
+technological advances, and their implications for our privacy – our
+autonomy, our self-determination and our solitude, our
+freedom of speech and
+freedom of association, and the freedom to live without discrimination or
+The key problem is that almost all data privacy laws only offer legal
+protection to individuals who are ‘identifiable’.
+For example, the Australian Privacy Act turns on the definition of
+‘personal information’, which is:
+“information or an opinion about an
+individual,
+an individual who is
+reasonably identifiable
+(a) whether the information or opinion is true or not; and
+(b) whether the information or opinion is recorded in a material form or
+not” (emphasis added).
+New Zealand,
+also have privacy laws
+applying to ‘personal information’, drafted with a similar focus on
+identifiability
+of the information.
+European privacy law uses the term “personal data”. Under the
+General Data Protection Regulation (GDPR), this means:
+“any information relating to an
+identified or identifiable
+natural person ("data subject");
+an identifiable person is one who can be
+identified, directly or indirectly
+, in particular by reference to an
+identifier such as a name, an identification number, location data, online
+identifier or to one
+or more factors specific to the physical, physiological,
+genetic, mental, economic, cultural or social identity of that person”
+(emphasis added).
+Other jurisdictions which use the phrase ‘personal data’ and turn
+on the notion of identifiability include
+and the Council of
+Europe’s Convention
+The commonality between these different laws, jurisdictions and legal
+definitions is that if no individual is identifiable from a
+set of data, then
+the relevant privacy principles (or other legal obligations, however expressed)
+simply won’t apply. If no
+individual can be identified from a dataset,
+then the dataset can be released as open data, sold to other organisations, or
+for a new purpose such as data analytics, without breaching privacy
+Each of these laws rest on an assumption that privacy harms can only befall
+an individual who can be identified. That assumption is
+increasingly being
+challenged by the realities of the digital economy.
+The challenges posed to the effective reach of
+data privacy laws come from many different directions: new technologies, new
+interpretations
+arising from case law, the increasing risks of
+re-identification, exponential growth in computing power, advances in fields
+data analytics and cryptography, the phenomenon of data breaches, the
+influence of global debates, and new directions in statute
+internationally.
+Individuation
+By linking a device to behaviour such as searches,
+queries, posts, browsing sites and purchases, the party doing the tracking can
+start to profile individuals, drawing inferences about their interests and
+preferences, behaviour and budget, and divide them into
+segments accordingly.
+The individual presumed to be the user of the device can then be targeted to
+receive a particular ad, offered
+personalised content or recommendations, sent
+political messaging, or subjected to an automated decision such as differential
+This paper uses the
+individuation
+to refer to the ability to disambiguate or
+‘single out’ a person in the crowd, such that they could, at an
+level, be tracked, profiled, targeted, contacted, or subject to a
+decision or action which impacts upon them – even if that
+individual’s ‘identity’ is not known (or
+Individuation is the technique used in online behavioural advertising;
+advertisers don’t need to know who any particular consumer
+is, but if they
+know that the user of a particular device has a certain collection of
+attributes, they can target or address their
+message to the user of that device
+accordingly.
+The objective of online behavioural advertising is, like any advertising, to
+predict purchasing interests, and drive purchasing decisions.
+Online, however,
+the repercussions are much greater, because of the degree to which advertising
+– and indeed, the very content
+users are shown – has become
+‘personalised’. Personalisation means decisions are made about who
+sees what, and
+equally what will be withheld from whom.
+By allowing exclusion, digital platforms also allow discrimination. Facebook
+has been caught
+advertisers to target – and exclude – people
+on the basis of
+their ‘racial affinity’, amongst other social, demographic, racial
+and religious characteristics.
+For example, a landlord with an advertisement for rental housing could prevent
+people profiled as ‘single mothers’ from
+ever seeing their ad; an
+employer could prevent people identifying as Jewish from seeing a job ad; or a
+bank could prevent people
+categorised as ‘liking African American
+content’ from seeing an ad for a home
+Existing patterns of social exclusion, economic inequality, prejudice and
+discrimination are further entrenched by micro-targeted
+advertising, which is
+hidden from public view and regulatory scrutiny. Preying on vulnerable
+individuals which could lead to physical,
+financial or social harm is also a
+risk of micro-targeting. For example a pharmaceutical company selling addictive
+opioid-based pain
+medication used Google’s search terms data to target
+people with chronic pain, promoting ads of escalating intensity across
+sites, despite laws prohibiting the advertising direct to consumers of
+prescription medication.
+also revealed in 2017 that Australian Facebook executives were promoting to
+advertisers their ability to target psychologically
+‘Personalisation’ can lead to price discrimination, like pricing
+based on an airline knowing this user has searched for
+a quote before; or market
+exclusion, like insurance products only being advertised to users already
+profiled as ‘low risk’,
+based on their online
+activities.
+Micro-targeting can
+also be used to manipulate behaviour, such as voting
+intentions.
+The activities described above hold the potential to impact on
+individuals’ autonomy, by narrowing or altering their market
+choices. Philosophy professor Michael Lynch has said that “taking you out
+of the decision-making equation” matters
+because “autonomy enables
+us to shape our own decisions and make ones that are in line with our deepest
+preferences and convictions.
+Autonomy lies at the heart of our
+A person does not need to be identified in order for their autonomy to be
+undermined or their dignity to be damaged.
+Much effort is expended by advertisers and others wishing to track
+people’s movements and behaviours, whether offline or online,
+convincing privacy regulators and consumers that their data is not identifying,
+and that therefore there is no cause for alarm.
+Whether in double-blind data
+matching models or the use of homomorphic encryption to compare data from
+multiple different sources
+(the sharing of which would be prohibited if the data
+was ‘identifiable’), the current obsession is how to avoid
+identifying
+anybody, such that the activity can proceed unregulated by
+data privacy laws. In fact the real question both companies and governments
+should be asking is how to avoid
+Security and privacy academic and writer Bruce Schneier has argued that laws
+concerned with identifiability as the key element are
+too limiting in their
+treatment of potential harm:
+“most of the time, it doesn’t matter if identification
+isn’t tied to a real name. What’s important is that
+consistently identified over time. We might be completely anonymous in a system
+that uses unique cookies to track us as
+we browse the internet, but the same
+process of correlation and discrimination still occurs. It’s the same with
+faces; we can
+be tracked as we move around a store or shopping mall, even if
+that tracking isn’t tied to a specific
+If the end result of an activity is that an individual can be
+individuated
+from a dataset, such that they could, at an individual
+level, be tracked, profiled, targeted, contacted, or subject to a decision
+action which impacts upon them, that is a privacy harm which may need protecting
+against. (Whether or not any particular conduct
+should be then prevented by the
+application of data privacy laws will depend on the context; for example an
+intervention for fraud
+prevention or crime detection is a different proposition
+to online behavioural advertising. It is within the more detailed privacy
+principles that each data privacy law defines the allowable purposes for the
+collection, use or disclosure of personal data).
+In the digital
+environment, ‘not identified’ is no longer an effective proxy for
+‘will suffer no privacy harm’.
+I propose that individuation should
+be anticipated by, and explicitly built into, data privacy laws as well.
+A new definition is needed
+Some statutes and other international instruments drafted since the GDPR have
+shifted towards more explicitly incorporating the concept
+of individuation,
+moving beyond just
+identifiability
+as the essential threshold element, to
+also incorporate notions such as data which can be used to
+an individual.
+Examples are:
+• The 2017 Information Security Standard in China, which fleshes out
+the expectations of how the 2016 Cybersecurity Law applies
+in practice: in
+addition to taking a “capacity to identify’ approach to its
+threshold definition, the Standard also incorporates
+data which ‘can
+reflect the activities
+of a natural person” (emphasis added).
+suggest that
+the effect is to regulate data “which gives the organisation
+the capacity to interact with a person on an individuated basis”
+data which does not necessarily enable the data subject to be
+identifiable.
+• The 2018 California Consumer Privacy Act of 2018 (CCPA) expressly
+includes, within its definition of personal information,
+data which is
+capable of being associated with
+, or could reasonably be
+, directly or indirectly, with a particular consumer or
+household”;
+and includes
+within its definition of ‘unique identifier’: “a persistent
+identifier that can be used
+to recognize
+a consumer, a family, or a
+device that is linked to a consumer or family, over time and across different
+services, including, but
+not limited to, a device identifier” (emphasis
+• The 2019 Nigerian data protection regulation explicitly defines
+‘identifiable information’ to include “information
+that can be
+used on its own or with other information to
+identify, contact, or locate
+a single person, or to identify an individual in a context” within its
+definition of ‘personal data’ (emphasis
+• The 2019 international standard in Privacy Information Management,
+ISO 27701, incorporates data which could be “
+directly or indirectly
+to an individual,
+of whether the
+individual can be identified, within its definition of ‘personally
+identifiable information’ (emphasis
+Proposed new definition
+So as to enable clarity and consistency in the application of data privacy
+law, and to protect against the potential privacy harms
+individuation, I propose that data privacy laws should be drafted or reformed to
+incorporate an expansive definition for
+the word ‘identifiable’, or
+explicitly add an alternative to identifiability.
+I propose ensuring that the definition of
+‘personal data’ (or its equivalent) incorporates both
+identifiability and individuation.
+For example, ‘personal data’ could be defined as meaning:
+information or an opinion about or relating to an individual who
+(i) identified or identifiable; or
+(ii) able to be discerned or recognised as an individual distinct from
+others, regardless of whether their identity can be ascertained
+I further suggest that the second element (“able to be discerned or
+recognised as an individual distinct from others”)
+should then be defined
+as including:
+if the individual, or a device linked to the individual, could (whether
+online or offline) be surveilled, tracked or monitored; or
+located, contacted or
+targeted; or profiled in order to be subjected to any action, decision or
+intervention including the provision
+or withholding of information, content,
+advertisements or offers; or linked to other data which is about or relates to
+the individual.
+This proposal aims to further explicate the notion of identifiability by
+individuation, by going to the heart of the types of privacy
+harms which can
+occur even when the precise ‘identity’ of an individual is unknown
+by the perpetrator of the harm. Mentioning
+decisions in relation to the
+provision or withholding of information is intended to capture the curation and
+delivery of personalised
+content such as ads, price offers, news feeds,
+recommendations for related content, etc. Further, the definition should cover
+people from seeing certain content as much as it
+covers decisions to target or include people: e.g. a decision
+a particular job ad to people outside a certain age bracket, or who identify as
+(or who have been inferred as belonging to)
+a particular ethnicity or
+This proposed additional layer to the test for identifiability also aims to
+ensure that the scope of data privacy regulation does
+not over-reach into
+technologies which do
+pose risks of privacy harms, such as the use of
+sessional or load-balancing cookies which are necessary to make a website work,
+which do not then continue to track the user.
+The result of such a reform would be that the act of placing a tracking
+cookie on a person’s connected device, or using similar
+technology such as
+device fingerprinting, and then collecting data about that person’s online
+behaviour in a way which distinguished
+them from other individuals, in order to
+profile and then target that person (for example, in order to serve up an
+advertisement,
+or to determine what offers or pricing to show that person) will
+constitute the handling of personal data, such that the privacy
+principles apply
+to that conduct, notwithstanding that the advertiser and online ad broker could
+each claim not to know (or even
+be able to find out) ‘the identity’
+of the person.
+By more explicitly
+embedding the concept of individuation within the core definitional element of
+‘identifiability’, data
+direction as other recent privacy instruments such as the CCPA and ISO
+In this paper I have argued that in order to offer
+protection from privacy harms, data privacy laws need to recognise that in a
+environment, ‘not identifiable’ is no longer an effective
+proxy for ‘will suffer no privacy harm’. Data privacy
+anticipate the harms that can arise via individuation, or ‘singling
+without identification
+I propose the word
+individuation
+to refer to the ability to
+disambiguate or ‘single out’ a person in the crowd, such that they
+could, at an individual
+level, be tracked, profiled, targeted, contacted, or
+subject to a decision or action which impacts upon them – even if that
+individual’s ‘identity’ is not known (or knowable).
+By more explicitly embedding the concept of individuation within the
+definition of ‘personal data’, data privacy laws
+around the world
+can be modernised to reflect the reality of our digital lives, and to protect
+against digital harms impacting on
+market exclusion, discrimination, and manipulation of prices, emotions, and
+voting intentions,
+as well as tracking which can facilitate physical harms.
+Anna Johnston, BA, LLB (Hons
+I), Grad Dip Leg Prac, Grad Cert Mgmt, MPP (Hons). Anna is the Principal of
+Salinger Privacy, a privacy
+consulting and training firm based in Sydney,
+With thanks to Graham Greenleaf, Professor of Law & Information Systems,
+University of NSW, Australia who reviewed and commented
+on an earlier draft of
+this paper. Any mistakes are the author’s own.
+I do note some exceptions, such
+as the European ePrivacy Directive which is not limited in its scope to
+‘personal data’;
+and some Asian laws such as Japan’s which can
+apply obligations to de-identified data as well as identifiable data.
+Section 2 of the
+(NZ) defines personal information
+as “information about an
+identifiable individual”.
+Section 2(1) of the
+Information Protection and Electronic Documents Act 2000
+(Canada), which
+regulates the private sector, defines personal information as “information
+Section 3 of the Privacy Act (R.S.C.,
+1985, c. P-21) (Canada), which regulates the federal public sector, defines
+personal information
+as “any identifying number, symbol or other
+particular assigned to the individual”.
+The Children's Online Privacy
+Protection Act of 1998 (United States) defines personal information as
+“individually identifiable
+information about an individual collected
+online”; see s.312.2, Part 312 of Title 16: Commercial Practices in the
+Code of Federal Regulations.
+The definition of personal
+information in the Protection of Personal Information Act [No 4 of 2013] (South
+Africa) is “information
+relating to an identifiable, natural, living
+Article 4, General Data
+Protection Regulation, Regulation 2016/679 of the European Parliament and of the
+Section 2 of the Personal Data
+Protection Act 2012 (Singapore) defines “personal data” as
+“data, whether true or
+not, about an individual who can be identified (a)
+from that data; or (b) from that data and other information to which the
+organisation
+has or is likely to have access”.
+Section 2 of the Personal
+Data (Privacy) Ordinance (Cap. 486), 1995 (Hong Kong) defines personal data
+“any data (a) relating
+directly or indirectly to a living individual; (b)
+from which it is practicable for the identity of the individual to be directly
+or indirectly ascertained...”
+Article 5 of the General
+Data Protection Law (Law No. 13,709/2018) (Brazil) defines personal data as
+“information regarding
+an identified or identifiable natural
+Article 2 of the Council of
+Europe’s Convention 108 defines personal data as “any information
+relating to an identified
+or identifiable individual”.
+Anna Johnston,
+“Individuation – Re-thinking the Scope of Privacy Laws”,
+Salinger Privacy Blog
+(Blog Post, 30 August 2016)
+https://www.salingerprivacy.com.au/2016/08/30/individuation/
+Julia Angwin, Ariana Tobin
+and Madeleine Varner, “Facebook (Still) Letting Housing Advertisers
+Exclude Users by Race”,
+(17 November 2017_
+https://www.propublica.org/article/facebook-advertising-discrimination-housing-race-sex-national-origin
+Alex Hern, “Facebook
+Lets Advertisers Target Users Based on Sensitive Interests”,
+(16 May 2018)
+https://amp.theguardian.com/technology/2018/may/16/facebook-lets-advertisers-target-users-based-on-sensitive-interests
+Alison Branley,
+‘Google Search Data Used by Pharma Giant to Bombard Users with Ads for
+Addictive Opioids’,
+(13 July 2019)
+https://www.abc.net.au/news/2019-07-13/searches-data-mined-by-pharma-giant-to-promote-new-opioid/11300396
+Nitasha Tiku, ‘Get
+Ready for the Next Big Privacy Backlash Against Facebook’,
+(21 May 2017)
+https://www.wired.com/2017/05/welcome-next-phase-facebook-backlash/
+Rafi Mohammed, “How
+Retailers Use Personalized Prices to Test What You’re Willing to
+Harvard Business Review
+(20 October 2017)
+https://hbr.org/2017/10/how-retailers-use-personalized-prices-to-test-what-youre-willing-to-pay
+Luke Dormehl, “Will
+Your Computer Tell You How to Vote?”,
+Politico Magazine
+November 2014
+https://www.politico.com/magazine/story/2014/11/computers-algorithms-tell-you-how-to-vote-113142
+Michael Lynch, “Why
+does our privacy really matter?”,
+Christian Science Monitor
+https://www.csmonitor.com/World/Passcode/Security-culture/2016/0422/Why-does-our-privacy-really-matter
+Bruce Schneier,
+“We’re banning facial recognition. We’re missing the
+New York Times
+, 20 January 2020
+https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html
+Greenleaf & Livingston,
+‘China’s Personal Information Standard: The Long March to a Privacy
+Law’ (2017) 150
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3128593
+CCPA section
+1798.140(o)(1).
+Data Protection Regulation
+2019 (Nigeria)
+https://nitda.gov.ng/wp-content/uploads/2019/01/NigeriaDataProtectionRegulation.pdf
+ISO/IEC 27701:2019
+https://www.iso.org/standard/71670.html
+Print (pretty)
+Print (eco-friendly)
+RTF format (147 KB)
+PDF format (1.14 MB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

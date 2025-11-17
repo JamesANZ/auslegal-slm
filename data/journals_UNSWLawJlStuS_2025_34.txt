@@ -1,0 +1,1145 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/UNSWLawJlStuS/2025/34.html
+Scraped: 2025-11-17 15:46:48
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Xu, Haolong --- "From Risk Management to Operation Resilience: A Comparative Analysis of Cps 230 Operation Risk Management" [2025] UNSWLawJlStuS 34; (2025) UNSWLJ Student Series No 25-34
+FROM RISK MANAGEMENT TO OPERATION RESILIENCE: A COMPARATIVE
+ANALYSIS OF CPS 230 OPERATION RISK MANAGEMENT
+I INTRODUCTION
+On July 1, 2025, the Australia Prudential Regulation Authority
+(‘APRA’) will formally implement the Prudential Standard
+Operational Risk Management (‘CPS
+This marks a
+significant shift in Australia financial regulation from traditional operation
+risk management toward a comprehensive
+operational resilience framework. This
+standard will replace several existing APRA standards, establishing an
+integrated regulatory
+framework that combines three pillars: operational risk
+management, business continuity management and service provider
+management.
+The core competitiveness of the general insurance entity lies in its risk
+management capabilities. Its business model depends on precise
+identification, assessment, and
+An effective risk
+regulatory framework is crucial for ensuring the financial soundness of general
+insurance companies, protecting
+policyholder interests, and maintaining
+financial system stability. CPS 230 applies to multiple financial sectors,
+including the
+general insurance industry, and imposes diverse and complex
+compliance requirements on the insurance companies.
+This article aims to critically analyse the impact of CPS 230 on the
+operational resilience framework of general insurance companies.
+It focuses on
+three core questions: First, it examines the relationship between operational
+risk management and resilience, analysing
+the fundamental reasons behind
+APRA’s push to transition from risk management to resilience building.
+Second, it analyses the
+innovational requirements of CPS 230 for the general
+insurance industry, including board responsibilities, management of key service
+providers, and specific requirements for defining critical operations (claims)
+and setting tolerance levels. Third, it evaluates
+the adaptability of CPS 230 in
+the context of digital transformation and its potential regulatory
+challenges.
+This article employs a comparative research method, including compares CPS
+230 with its predecessors CPS 231
+and CPS 232
+to identify substantial
+differences and the compliance challenges brought by the new framework, and it
+conducts a horizontal comparison
+between CPS 230 and the
+Union’s Digital Operational Resilience Act
+United Kingdom’s operation resilience regime to reveal its differences
+within international regulatory trends. Through
+this analytical framework, this
+article evaluates both the theoretical underpinnings and practical implications
+of this regulatory
+Understanding CPS 230 within this broader regulatory context provides
+valuable insights into how financial regulation is evolving
+globally and offers
+a foundation for assessing both the merits and challenges of Australia’s
+approach to operational resilience
+in the general insurance sector.
+II REGULATORY BACKGROUND AND FRAMEWORK EVOLUTION OF CPS
+A Driver of Regulatory Change
+The Final Report of the
+Royal Commission into Misconduct in the Banking,
+Superannuation and Financial Services Industry
+became a watershed moment for
+financial industry reform in
+It revealed numerous
+problems and challenges in Australia’s financial sector, prompting the
+regulator to implement multiple
+rounds of financial regulatory reforms.
+In the general insurance area, the investigation report highlighted concerns
+executives, claims
+handling processes and digital transformation
+challenges.
+Additionally, the
+report raised issues regarding third-party service providers and internal
+corporate governance.
+the investigation report set clear expectations for reforms of relevant
+institutions like APRA and Australian Securities
+and Investments Commission
+Subsequently, APRA responded to the problems and recommendations mentioned in
+the investigation report.
+response emphasised plans to modify relevant prudential standards to help
+companies better manage non-financial risks. Additionally,
+it stressed
+strengthening regulatory oversight of internal culture governance within
+APRA-regulated entities and promoting sustainability
+expectations across the
+insurance industry.
+Furthermore, operational disruptions in the international financial industry
+in recent years (such as cybersecurity incidents and
+natural disasters) have
+accelerated the convergence effect in global insurance regulatory approaches.
+Major regulatory countries
+have widely adopted resilience-based regulatory
+For example, the UK’s Prudential Regulation Authority
+(‘PRA’) and Financial Conduct Authority (‘FCA’)
+insurance companies to identify critical business services and conduct regular
+scenario testing to ensure operations remain
+within tolerance
+The Monetary Authority
+of Singapore (‘MAS’) indirectly supports resilience management
+through an enhanced risk management
+framework (focusing on concentrated risk
+management and stress testing). It requires insurance companies to regularly
+participate
+in industry stress testing and ensures that systemically important
+insurers develop recovery and resolution
+further unifies digital operational resilience rules, establishing
+specific risk management principles for information and communication
+(‘ICT’) disruptions and cyber-attacks, as well as obligations for
+major incident reporting and digital operational
+In this context, APRA’s supervisory approach is ‘consistent and
+in line with international best
+strengthens the
+operational resilience of domestic insurance companies, and enhances early
+regulatory intervention regarding insurers’
+B Australia’s Twin Peaks Regulatory Model in General
+Insurance and the Legally Binding Nature of CPS 230
+Australia currently employs a Twin Peaks regulatory model for oversight of
+the insurance industry. This regulatory system was established
+recommendations by the
+Wallis Inquiry
+in 1998. The model divides
+Australia’s financial regulation into two
+Prudential regulation: Managed by APRA, whose primary responsibility is
+maintaining financial system safety and soundness. The regulatory
+focus is on
+financial institutions’ solvency and risk management to protect the
+interests of financial consumers, including
+policyholders.
+APRA issues
+authorisations to carry on insurance business to general insurers based on the
+Insurance Act 1973
+Conduct regulation: Managed by ASIC, which operates under the
+Corporations
+(Cth). ASIC oversees market conduct and enforces relevant laws to
+ensure financial market fairness and
+transparency.
+It is responsible
+for issuing Australian Financial Services Licenses to relevant financial
+These two regulators coordinate their work through memoranda of cooperation
+(APRA–ASIC Cooperation) to ensure seamless regulatory
+General insurance
+companies registered to operate in Australia must obtain corresponding licences
+from both institutions.
+Based on the
+Australian Prudential Regulation Authority Act 1998
+APRA has the authority
+to establish prudential regulatory standards for general insurance companies,
+and relevant institutions must
+comply with these standards.
+Insurance Act
+, these APRA-issued standards
+for general insurance companies are classified as legislative
+instruments.
+As a legislative
+instrument, CPS 230 carries the force of law and is enforceable by APRA through
+its regulatory powers, including
+issuing directions, imposing conditions on
+licenses, or initiating enforcement actions. Non-compliance may not only lead to
+sanctions but also expose directors to potential legal
+For APRA-licensed
+entities, this may include potential suspension or revocation of the
+C Overview of Other Existing APRA Standards and CPS
+CPS 230 will replace two existing APRA standards CPS 231 and CPS 232 for
+general insurance companies.
+In addition to these two standards, the current APRA Prudential and Reporting
+Standards for the general insurance industry cover multiple
+categories,
+including governance, risk management, financial resilience, recovery and
+resolution, and reporting. CPS 230 is categorised
+management.
+These various
+standards collectively constitute APRA’s Prudential Framework for
+regulated general insurance entities. Furthermore,
+CPS 230 serves as an
+effective supplement and extension to CPS
+by incorporating the
+operational risk elements of CPS 230 into the overall risk management framework
+and processes outlined in CPS
+thereby establishing more
+specific requirements for operational risk
+management.
+III KEY INNOVATIONS AND TRANSFORMATION IN CPS 230’S
+OPERATIONAL RESILIENCE FRAMEWORK
+CPS 230 is a comprehensive operational resilience regulatory standard divided
+into five main sections. This includes risk management
+framework, roles and
+responsibilities, operational risk management, business continuity, and service
+However, in its
+response to submissions, APRA further clarifies that the core requirements of
+CPS 230 are ‘operational risk
+management’, ‘critical service
+provider management’ and ‘business resilience and
+continuity.
+There is no
+correspondence between the two categories. The three pillars represent CPS
+230’s policy objectives,
+and the compliance requirements corresponding to the latter objectives are
+distributed among the five requirements of CPS 230.
+This Part analyses the compliance impact on insurance companies from four
+dimensions, starting from an examination of actual changes
+of regulatory
+A From Risk Management to Operation Resilience: A Paradigm
+Shift in Regulatory Philosophy
+Although CPS 230 is named ‘operational risk
+management’,
+its essence
+is beyond the scope of traditional risk management. Traditional operational risk
+in the capital framework is defined
+as the risk of loss resulting from
+inadequate or failed internal processes, people and systems, or from external
+Operational risk
+management aims to reduce and mitigate this risk, which is primarily a
+preventive approach.
+traditional method emphasises risk prevention and handling, with its logic based
+on probability prediction and consequence control
+Comparatively, operational resilience represents a more holistic concept that
+recognises the inevitability of risk and emphasises
+the ability to maintain
+critical operations when disruptions occur, as well as the ability to recover
+quickly from them.
+has been clearly stated in the Discussion Paper published by APRA, which
+indicates that CPS 230 aims to drive regulated
+entities to establish ‘the
+ability to maintain critical business operations during severe operational
+disruptions’.
+This shifts
+the focus to business continuity and resilience as goal-oriented objectives,
+rather than merely remaining at the level
+of risk avoidance or reduction.
+According to APRA’s guidelines, operation resilience is the expected
+goal of operational risk
+management.
+This statement
+accurately summarises the relationship between the two – risk management
+is the means and operation resilience
+is the end.
+The Royal Commission’s Final Report revealed
+systemic failures in claims handling by insurance companies, exposing the
+limitations
+of relying solely on risk control in complex operational
+environments.
+This result
+suggests that relying solely on risk controls is no longer sufficient to deal
+with the complexity of the operating environment.
+Furthermore, in the post-pandemic era, insurance entities face emerging
+risks. Many companies are still adapting to the ‘pandemic
+with business models being challenged and, in some cases, reinvented. Continued
+supply chain disruptions, accelerated
+digital and technological adoption,
+enhanced cybersecurity and data risks, and adverse weather conditions have all
+contributed to
+uncertainty.
+In this context, it
+is no longer sufficient for the regulatory focus to be purely on risk avoidance,
+it is essential to ensure that
+business-critical services remain operational
+even in the face of unavoidable disruptions.
+Notably, while CPS 230 demands higher resilience standards, it simultaneously
+adopts a proportionality principle, allowing insurance
+companies to customise
+implementation plans according to their size, business complexity and risk
+profile. This flexibility enables
+insurance companies of different sizes to
+address the new regulatory requirements appropriately while achieving genuine
+improvement.
+Overall, CPS 230 represents a fundamental shift in APRA regulation –
+from reactive risk prevention and control to proactive
+resilience building. This
+shift will reshape general insurers’ risk management practices, business
+continuity planning and
+organisational structures, making the industry more
+capable of responding to operational disruptions of all kinds and better
+policyholder interests. Furthermore, it reflects a common feature of
+international financial regulatory trends – in an environment
+of increased
+uncertainty, building resilience is more important than simply preventing
+B Enhanced Corporate Governance and Board Accountability
+Corporate governance and accountability form core components of modern
+financial regulatory systems.
+a system of control, direction and accountability, corporate governance
+fundamentally ensures that the board of directors bears
+ultimate responsibility
+for company actions.
+After the 2019 Royal Commission Report identified inadequate executive
+accountability in financial institutions, APRA promptly committed
+to extending
+the Banking Executive Accountability Regime (‘BEAR’) to other
+regulated entities,
+insurance. Subsequently, the
+Financial Accountability Regime Act
+’) emerged as a direct legislative
+requiring regulated
+entities to clearly designate ‘accountable persons’ and assign
+statutory personal responsibility
+to senior executives for key functions such as
+‘risk management, business continuity and operational
+CPS 230 effectively complements the
+. While the
+focuses on individual accountability through penalty mechanisms targeting senior
+executives,
+CPS 230 emphasises
+the board’s collective governance by clarifying the board’s ultimate
+responsibility for oversight
+of operational risk management, particularly in
+ensuring business continuity and third-party risk
+management.
+This complementary
+approach extends accountability from the individual level to the
+institution’s daily risk governance, forming
+a more comprehensive
+accountability framework.
+A significant innovation in CPS 230 is elevating board accountability from
+traditional risk management to operation resilience. Traditionally,
+responsibilities in risk management primarily focused on approving risk policies
+and overseeing risk control measures –
+that is, preventive
+responsibilities.
+CPS 230 now
+requires boards to be accountable for overall operational continuity, reflecting
+an outcome-oriented requirement.
+This expanded accountability requires the boards to demonstrate that their
+companies can maintain critical operations during severe
+disruption events and
+restore full functionality within acceptable
+timeframes.
+Multiple provisions
+distributed across different sections of CPS 230 form a comprehensive board
+accountability framework covering
+all aspects of operation resilience. This
+framework is manifested in four key areas:
+1. Paragraph 20 establishes the basic principle of board accountability:
+‘The Board of an APRA-regulated entity is ultimately
+responsible for the
+oversight of the entity's operational risk management, including the management
+of business continuity and service
+arrangements.’
+provision has programmatic significance, transcending the traditional view of
+operational risk as a technical issue and clearly
+elevating it to a governance
+responsibility at the board level. Compared to CPS 231 and CPS 232, this
+formulation integrates previously
+fragmented outsourcing management and business
+continuity responsibilities into a unified accountability framework, creating a
+comprehensive scope for board oversight.
+2. Paragraph 21 requires the board to ‘ensure that the entity
+establishes clear roles and responsibilities for senior management
+in relation
+to operational risk
+management’,
+strengthening
+the board’s organisational structure responsibility. This provision
+directly links corporate governance responsibilities
+with operational risk
+management, establishing a top-down accountability chain by clarifying the
+board’s leading role in responsibility
+allocation.
+3. Paragraph 22 details the board’s three core responsibilities, which
+constitute the substantive content of the accountability
+mechanism and
+correspond to CPS 230’s three core
+4. CPS 230 extends board accountability throughout the operational resilience
+management lifecycle:
+(a) Pre-planning stage
+Boards are responsible for approving risk management frameworks, business
+continuity plans, and service provider management policies,
+and must regularly
+receive information about operational risk profiles and trends to ensure Boards
+can make informed decisions.
+(b) Continuous monitoring stage
+Paragraph 41 requires reporting to the board any failure to meet tolerance
+levels and remediation
+(c) Post-audit evaluation
+Paragraph 60 requires the internal audit function to regularly report to the
+Board on whether service provider arrangements comply
+with policy
+requirements.
+This lifecycle accountability mechanism ensures that Boards not only
+participate in policy formulation but also continuously monitor
+implementation
+effectiveness and drive necessary
+improvements.
+In summary, by systematically reconfiguring the Board accountability
+framework to closely align corporate governance with operational
+resilience, CPS
+230 responds to the Royal Commission’s call for greater accountability of
+senior executives in insurance entities
+and promotes a paradigm shift in the
+governance of insurers from a compliance-process-orientated approach to an
+outcome-orientated
+C Critical Operation Identification and Risk Tolerance
+Given that boards are assigned ultimate responsibility for assuming operation
+resilience, CPS 230 introduces two mechanisms: ‘critical
+and ‘tolerance
+These mechanisms
+transform abstract operational resilience into specific, actionable regulatory
+standards. In this framework, critical
+operation serves as the foundation for
+determining the direction of a company's resilience building, while tolerance
+levels provide
+quantifiable assessment standards for resilience
+construction.
+Paragraph 37 of CPS 230 explicitly requires APRA-regulated entities to
+identify their critical
+operations.
+These are business
+operations that, if disrupted, would cause significant impact to customers,
+counterparties, the entity itself,
+or the financial system. Here, the degree of
+impact on financial system is introduced as a criterion for determining critical
+which goes beyond the qualification of infrastructure and resources
+in CPS 232.
+For insurance companies, CPS 230 makes a breakthrough by directly designating
+‘claims processing’ as a critical operation
+that must be
+Claims processing
+represents the fulfillment of insurance contract promises. Compared to other
+business processes, disruption to
+claims causes more direct and lasting damage
+to an insurer's reputation and customer
+The floods in Queensland and New South Wales in early 2022 clearly
+demonstrated the importance of claims resilience. At that time,
+many insurance
+companies faced a surge of simultaneous claims. Their claims systems became
+overwhelmed, leaving policyholders without
+claim outcomes for
+In subsequent
+investigations, it was found that many insurers lacked effective resilience
+planning for their claims business, particularly
+in terms of catastrophe
+planning, resources, processes and technology governance, and failed to maintain
+a basic claims handling
+capability in extreme
+situations.
+These problems
+directly prevented policyholders from receiving timely compensation when they
+most needed insurance protection. This
+seriously undermined the social function
+of the insurance industry and directly impacted CPS 230’s clear
+positioning of claims
+as a critical operation, reflecting a regulatory shift in
+thinking from crisis response to risk
+prevention.
+D Tolerance Level Setting: Quantitative Standards for
+Resilience Management
+A major innovation in CPS 230 is the requirement to set specific, measurable
+tolerance levels for each critical operation. Paragraph
+38 states that
+APRA-regulated entities must set clear tolerance levels for each critical
+operations across three key
+dimensions:
+maximum acceptable
+downtime, maximum acceptable data loss and minimum service levels. This
+multi-dimensional tolerance setting directly
+responds to Deloitte’s
+recommendations following the flood events. It requires insurance companies to
+focus not just on recovery
+time but also on service quality and data safety.
+Compared to the general ‘recovery objectives and strategies’ in CPS
+232, these detailed standards make resilience building more targeted and
+measurable.
+To ensure that tolerance levels are truly achievable in practice, CPS 230
+introduces systematic testing
+These transform
+abstract resilience metrics into attainable business objectives. Compared to CPS
+232, CPS 230’s testing requirements
+are more systematic and directly
+linked to tolerance levels, forming a complete resilience management
+CPS 230’s testing mechanism is primarily reflected in three aspects.
+First, test scenarios must be based on ‘severe but
+For claims processing,
+this might include extreme conditions such as simultaneous claims surges from
+natural disasters.
+testing creates accountability through Board involvement. When tests reveal that
+critical operations cannot meet preset tolerance
+levels, companies must report
+to the Board and develop remediation
+Finally, through annual
+system testing, insurers continuously evaluate the appropriateness of tolerance
+settings to ensure operation
+resilience plan keeps pace with business
+development and changing risk
+environments.
+This testing approach creates a practical feedback loop between tolerance
+setting and actual capabilities. It helps insurance companies
+move beyond
+theoretical resilience plans to demonstrate operational resilience that protects
+policyholders when disruptions occur.
+E New Framework for Material Service Provider
+Modern insurance companies increasingly rely on external service providers to
+support their critical
+operations.
+These dependencies
+make service providers key links in the insurance value chain, directly
+affecting the resilience level of critical
+When external
+services are disrupted, insurance companies may be unable to maintain continuity
+of their critical operation or meet
+established tolerance levels, weakening
+overall operational resilience. In this context, traditional outsourcing
+management are no
+longer sufficient to address the resilience challenges posed
+by complex dependencies.
+CPS 231 defines its regulatory scope as ‘material business activity
+outsourcing
+focusing on contractual relationships and MBAO that would normally be undertaken
+by the regulated entity itself to determine whether
+regulatory requirements are
+This reflects the
+fact that CPS 231 is based on the principle of activity-orientation, focusing on
+which activities are outsourced.
+In contrast, CPS 230 significantly expands the regulatory scope by adopting
+the concept of ‘material service provider’,
+covering all service
+provision arrangements that support critical operations, regardless of their
+contractual form.
+Further, it
+explicitly lists four mandatory types of substantive services for the insurance
+industry, including insurance
+This scope expansion reflects regulator recognition of the complex dependency
+networks in modern insurance operations, acknowledging
+that even non-outsourcing
+relationships can significantly impact operational resilience.
+Another major innovation in CPS 230 is the introduction of
+‘fourth-party risk’ management requirements. This requirement
+extends the risk management perspective from direct service providers to the
+entire service chain.
+Overall, CPS 230’s service provider management framework, together with
+board accountability mechanisms and critical business
+identification frameworks,
+constitutes a complete operational resilience regulatory system. This system
+requires insurance companies
+to manage their external dependencies from a more
+holistic and systematic perspective, ensuring the resilience of critical
+within complex modern service ecosystems.
+IV COMPARISON OF INTERNATIONAL REGULATORY FRAMEWORK
+2025 is not only the year when CPS 230 will be formally implemented, but also
+when the EU’s
+and the UK’s operational
+resilience-related regime will be formally
+implemented.
+Comparing the same
+regulatory measures in other advanced international jurisdictions will help to
+better understand the internal
+logic and regulatory direction of CPS 230, as
+well as to explore the potential risks and challenges associated with it.
+A Comparison with the EU’s
+Unlike CPS 230, which is incorporated as a prudential standard within
+APRA’s internal regulatory requirements and only apply
+the APRA-licensed
+is a regulation under the
+Treaty on the Functioning of
+the European Union
+, giving it direct applicability to all natural person and
+institutions within EU member
+This allows
+to establish more explicit administrative penalties, including substantial fines
+of up to 2% of global annual
+which clearly
+demonstrates the EU policymakers’ determination to strengthen resilience
+regulation for financial institutions
+and addresses a gap in EU financial
+regulation.
+Second, as indicated by its name and content,
+only focus on
+digital area resilience, placing information and communication technology risk
+as its core, emphasising recovery from
+ICT-related risk for regulated financial
+It covers ICT risk
+management, ICT third-party risk management, digital operational resilience
+testing, information sharing, ICT-related
+incidents, and regulation of critical
+ICT third-party providers.
+Meanwhile, CPS 230 emphasises the differentiation of critical operation as a
+regulatory requirement, covering related suppliers including
+‘claims’, which is a critical operation for insurance companies.
+has a narrower regulatory scope.
+The management of third-party provider risk constitutes a significant
+difference between
+and CPS 230. Beyond directly specifying minimum
+contractual arrangements between regulated entities and ICT service providers
+contract templates),
+introduces direct oversight of critical ICT third-party
+It grants relevant
+regulatory authorities the right to directly designate critical third-party
+including access
+submission,
+and compliance
+designation. This transcends CPS 230’s regulatory requirements for
+regulated licensed entities themselves, which
+can undoubtedly reduce the
+compliance pressure on regulated insurance entities.
+Moreover, regarding corporate governance,
+holds the management
+body of financial entities ultimately responsible for ICT
+and requires
+non-microenterprises to either establish a role to specifically responsible for
+monitoring relevant risk arrangements
+or appoint a single senior executive to
+oversee such arrangements.
+This differs from CPS 230’s direct responsibility requirements for boards,
+more flexible at the corporate governance level.
+Additionally,
+explicitly establishes the principle of
+proportionality and exempts microenterprise from compliance requirements in
+relevant provisions.
+contrast, CPS 230 applies equally to all regulated financial entities, causing
+entities of different sizes to bear the same responsibilities,
+increasing compliance cost pressures.
+’s core focus on ICT, it imposes more complex
+regulatory details and requirements on ICT-related resilience operations,
+implementing more sophisticated threat-led penetration testing
+(tolerance testing).
+includes the frequency, types, scope determination, qualifications of personnel
+and results reporting of such testing. CPS 230,
+on the other hand, emphasises
+resilience outcomes, thus offering more flexibility in relevant resilience
+Relying on the EU’s ‘Brussels Effect’, insurance entities
+with global operations may be forced to choose the stricter
+regulations in
+for global implementation, especially at the
+third-party provider oversight level. Australian insurance companies should
+proactively
+strengthen cooperation with key technology service providers,
+establish more transparent risk management and resilience assessment
+mechanisms,
+and prepare for potential regulatory changes.
+B Comparison with UK's Operational Resilience
+The UK’s regulatory model for the insurance industry is similar to
+Australia’s, both adopting a twin peaks model featuring
+a PRA and an
+the former is part of
+the Bank of England.
+Unlike the EU’s
+, the UK’s operational resilience
+regulatory regime consists of multiple Policy Statements and Guidance Documents,
+PS6/21, PS2/22
+This is similar to Australia’s prudential standards, but
+Australia’s operational resilience regulation is currently limited
+230 as a single comprehensive document.
+First, the UK regulatory regime emphasises ‘Important Business
+Services’ (‘IBS’), which is defined by policymakers
+‘services that substantially impact customers, the financial system, or
+companies to independently identify their
+This reflects the
+regulators’ direct consideration of service outcomes (external impact).
+Comparatively, CPS 230’s ‘critical
+operations’ focuses on
+‘significant impact of the level of disruption on
+stakeholders’.
+directly establishes ‘claims’ as a key operation of the insurer.
+Second, the UK regulatory regime also mentions corporate governance
+requirements, requiring the company’s management body to
+approve, identify
+relevant impact tolerances, IBS, and
+self-assessment.
+However, it
+lacks CPS 230’s explicit board responsibility and related regulatory
+Additionally, regarding tolerance testing, the UK framework is limited to
+tolerance’,
+to the maximum tolerable disruption of IBS measured by time and other relevant
+focusing more on
+consequences rather than specific performance.
+Furthermore, in service provider management, the UK focuses on Critical Third
+Parties (‘CTPs’), which may initially emphasise
+large cloud services
+and other infrastructure providers, as well as increasingly number of artificial
+intelligence solutions.
+However, due to its principle-based regulations focused on external impact
+outcomes, the scope may remain consistent with CPS 230,
+including claims service
+management companies.
+framework does not explicitly address fourth-party service provider issues, thus
+CPS 230’s requirement in this area
+may bring more comprehensive value
+chain risk management.
+In summary, while CPS 230 demonstrates global regulatory convergence with
+and the UK framework in terms of objectives, it shows localised
+characteristics in regulatory methods, contractual requirements,
+and regulatory
+power distribution. The EU emphasises direct supervision of ICT service
+providers and strengthened detailed process
+supervision of operational
+resilience, while the UK focuses on principle-based and outcome-based regulatory
+requirements.
+CPS 230 presents more innovative features suited to Australia's local
+context, positioning itself between principle-based regulation
+and detailed
+process regulation. Particularly through the introduction of fourth-party risk
+management and the clear definition of
+critical operations, it demonstrates the
+Australian regulatory authority's forward-looking perspective and strong
+understanding of
+emerging risks.
+V CRITICAL ANALYSIS AND CHALLENGES FOR CPS 230
+A Absence of Proportionality and Compliance
+Any compliance initiative typically faces criticism of overburdening, and CPS
+230 is no exception.
+Although APRA claims that they follow the principle of proportionality and
+has provided some flexibility by extending implementation
+deadlines and
+adjusting final text content,
+the lack of distinction between significant financial entities may still impose
+excessive compliance burdens on small and medium-sized
+This differs from
+the UK and especially the EU’s direct emphasis on proportionality
+principles, which both take into account
+the innovative role of small medium
+enterprises in the chain and the greater compliance pressures they face. Without
+offering more
+flexible compliance measures for small businesses, flexible
+regulatory oversight and compliance assistance during the initial compliance
+period become very important.
+Current compliance pressures may force small and medium-sized insurance
+companies to exit the market or be
+thereby increasing
+market concentration and hindering the development of a more dynamic and
+competitive market.
+B Practical Dilemmas with Suppliers
+While CPS 230 do not directly apply to third-party service providers, it only
+applies to APRA-licensed entities. However, direct restrictions
+purchasers may result in liability and compliance pressures being transferred to
+third and even fourth parties through unlimited
+liability contractual
+The reality of
+unequal power may severely limit Australian insurance companies’
+negotiating power with international service
+giants or, conversely, may shift
+excessive pressure onto local small service providers through contracts designed
+to avoid compliance
+responsibilities.
+Requirements for fourth-party risk management, though initially
+forward-looking, may present significant practical implementation
+challenges.
+Although APRA
+recognised the relevant issues in the consultation feedback, including specific
+due diligence requirements and contractual
+provisions, and they acknowledged the
+difficulties raised and have moderated the expectations in the
+However, the
+fundamental structural challenges inherent in cross-border fourth-party
+oversight remain unresolved. Australian regulators
+lack jurisdiction over global
+technology providers, while some insurance companies lack sufficient bargaining
+power to impose meaningful
+transparency requirements on international service
+At the same time, the systemic concentration of industry dependencies on a
+limited number of critical fourth-party providers creates
+systemic risks that
+cannot be mitigated through individual entity-level policies, regardless of
+their prescriptive detail. Furthermore,
+the inherent lack of transparency
+regarding key information in the industry chain means that critical business
+service providers
+may be unwilling to disclose relevant information, which they
+might consider core business relationships and secrets, potentially
+regulation merely formalistic.
+C Board Accountability and International
+Consistency
+CPS 230 is very clear and strict on board accountability but lacks related
+supporting mechanisms.
+For example, relevant directors may not possess compliance knowledge and
+awareness, making it difficult to grasp compliance substance
+and forcing
+reliance on management's information reports. This creates an execution gap
+between responsibility and information control,
+leading to governance fatigue
+and reduced willingness to
+Multinational insurance groups may face greater regulatory fragmentation
+challenges. Gaps still exist between CPS 230 and relevant
+regulations in the UK
+and EU, which increase compliance burdens as result of differing regulatory
+priorities Establishing a more
+coordinated international regulatory framework
+would greatly alleviate these burdens.
+VI CONCLUSION
+This article provides a comprehensive analysis of CPS 230 and explores
+APRA’s regulatory shift from traditional risk management
+to operational
+resilience by comparing the CPS 231 and CPS 232 with relevant operational
+resilience regulation in the EU and UK.
+CPS 230 achieves regulatory innovation through four key methods: a paradigm
+shift focusing on resilience, strengthened governance
+and board accountability,
+a three-dimensional tolerance framework and critical operation, and expanded
+management of material service
+providers. These innovations combine previously
+scattered standards into a more complete regulatory system that aims to enhance
+Australian insurance’s ability to respond better in a crisis.
+For policyholders, CPS 230 designates claims processing as a mandatory
+critical operation, directly addressing past issues where claims
+disruptions
+harmed policyholder interests. This protection is especially important in the
+post-pandemic era, where risk management
+has become more challenging, ensuring
+that insurance companies can fulfill their promises to policyholders even under
+However, CPS 230 has notable implementation challenges, including the absence
+of the proportionality principle. APRA should consider
+providing more
+substantive support for small and medium-sized insurers. Notably, within
+Australia’s twin peaks regulatory model,
+ASIC’s absence from the CPS
+230 development process may pose challenges. Unlike the UK, where PRA and FCA
+jointly advance operational
+resilience and the regulation in the EU where
+regulation has direct applicability, CPS 230 was mainly developed by APRA alone,
+potentially
+overlooking consumer protection perspectives. Strengthening
+coordination between APRA and ASIC in operational resilience is therefore
+Currently, CPS 230 has not yet been implemented, so its regulatory effects
+remain unknown. Therefore, it is important to monitor the
+effects after implementation, particularly its impact on the entire insurance
+industry. This may potentially require
+further analysis by economists using
+econometric methods to evaluate the regulatory outcomes.
+In conclusion, CPS 230 marks an important step toward a more resilient
+insurance regulatory system in Australia. Its integrated approach
+forward-looking perspective provide a solid foundation for building a more
+resilient insurance industry, with the potential to
+make significant
+contributions to protecting policyholder interests and maintaining financial
+Australian Prudential
+Regulation Authority,
+Prudential Standard CPS 230: Operational Risk
+(1July 2025) (‘CPS 230’).
+‘Risk Management Process
+for Insurance Companies’,
+(Blog Post, 25 September 2024)
+<https://www.zengrc.com/blog/risk-management-process-for-insurance-companies/>.
+Australian Prudential
+Regulation Authority,
+Prudential Standard CPS 231: Outsourcing
+2017) (‘CPS 231’).
+Australian Prudential
+Regulation Authority,
+Prudential Standard CPS 232: Business Continuity
+(1 July 2017) (‘CPS 232’).
+Regulation (EU) 2022/2554
+of the European Parliament and of the Council of 14 December 2022 on Digital
+Operational Resilience for
+the Financial Sector and Amending Regulations
+[2022] OJ L 333/1 (‘
+‘5 Years on from the
+Royal Commission’,
+Herbert Smith Freehills Kramer
+(Web Page, 14
+February 2024)
+<https://www.hsfkramer.com/notes/fsraustralia/2024-02/5-years-on-from-the-royal-commission>.
+Royal Commission into
+Misconduct in the Banking, Superannuation and Financial Services Industry
+(Final Report, February 2019) vol 1, 308, 380 (‘
+Royal Commission
+Banking Report
+APRA, ‘ASIC and APRA
+Issue Updated MoU’ (Media Release, 29 November 2019)
+<https://www.apra.gov.au/news-and-publications/asic-and-apra-issue-updated-mou>.
+Response to Royal Commission Recommendations’,
+August 2019)
+<https://www.apra.gov.au/apras-response-to-royal-commission-recommendations>.
+‘Twelve Months On:
+APRA’s Progress on the Royal Commission Recommendations’,
+(Web Page, 28 February 2020)
+<https://www.apra.gov.au/twelve-months-on-apra%E2%80%99s-progress-on-royal-commission-recommendations>.
+2025 Global
+Financial Services Regulatory Outlook
+(Report, January 2025) 11
+<https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/insights/financial-services/documents/ey-gl-global-financial-services-regulatory-outlook-01-2025.pdf>.
+Global Financial Services Report
+‘UK Operational
+Resilience Rules: Are You Ready for 31 March 2025?’,
+Sidley Austin
+(Web Page ,7 January 2025)
+<https://www.sidley.com/en/insights/newsupdates/2025/01/uk-operational-resilience-rules-are-you-ready-for-31-march-2025>.
+‘Ensuring Safe
+Management and Operational Resilience of the Financial Sector’,
+Monetary Authority of Singapore
+(Web Page, 31 July 2024)
+<https://www.mas.gov.sg/covid-19/ensuring-safe-management-and-operational-resilience-of-the-financial-sector>.
+Global Financial
+Services Report
+‘About APRA’,
+(Web Page) <https://www.apra.gov.au/about-apra> (‘About
+‘APRA and ASIC: A New
+Era in Cooperation’,
+(February 2020, Web Page)
+<https://www.apra.gov.au/apra-and-asic-a-new-era-cooperation>.
+‘About APRA’ (n
+Insurance Act 1973
+Insurance Act
+Corporations Act
+‘Our Role’,
+Australian Securities & Investments Commission
+<https://asic.gov.au/about-asic/what-we-do/our-role/>.
+APRA, ‘ASIC and APRA Issue Updated MoU’ (n
+Australian Prudential
+Regulation Authority Act 1998
+(Cth) ss 8, 11 (‘
+Insurance Act
+‘Enforcement’,
+(Web Page) <https://www.apra.gov.au/enforcement>.
+‘Discussion Paper:
+Strengthening Operational risk Management’, (Discussion Paper, APRA, 28
+<https://www.apra.gov.au/discussion-paper-strengthening-operational-risk-management>
+(‘Strengthening Operational Risk Management Discussion Paper’).
+‘Prudential and
+Reporting Standards for General insurance’
+<https://www.apra.gov.au/industries/2/standards>.
+Australian Prudential
+Regulation Authority,
+Prudential Standard CPS 220: Risk Management
+July 2017) (‘CPS 220’).
+Steven Rice and Teresa
+Liang, ‘APRA Consults on Proposed New Operational Risk Prudential
+Corrs Chambers Westgarth
+(Web Page, 24 August 2022)
+<https://www.corrs.com.au/insights/apra-consults-on-proposed-new-operational-risk-prudential-standard>.
+‘CPS 230 Operational
+Risk Management Alignment to Existing Regulatory Architecture’,
+(Fact Sheet, December 2022)
+<https://assets.kpmg.com/content/dam/kpmg/au/pdf/2022/cps-230-operational-risk-management-regulatory-architecture.pdf>.
+CPS 230 (n 1).
+Strengthening Operational
+Risk Management Discussion Paper (n 29).
+CPS 230 (n 1).
+‘Revisions to the
+Principles for the Sound Management of Operational Risk’ (Research Paper,
+Basel Committee on Banking
+Supervision, Bank for International Settlement, March
+2021) 6 <https://www.bis.org/bcbs/publ/d515.pdf>.
+Vice Vicente,
+‘Operational Risk Management: Overview and Guide’
+(Web Page, 16 February 2024)
+<https://auditboard.com/blog/operational-risk-management/>.
+Sumith Sagar, ‘Making
+Resilience Core to Your Operational Risk Strategy: A Guide for Chief Risk
+Metricstream
+(Web Page, 31 January 2024)
+<https://www.metricstream.com/blog/managing-operational-risk-resilience.html>.
+RJM Stolker, DM Karydas and
+JL Rouvroye, ‘A Comprehensive Approach to Assess Operational
+Resilience’ (Conference Paper,
+Third Resilience Engineering Symposium,
+28–30 October 2008) 247, 248.
+Strengthening Operational
+Risk Management Discussion Paper (n 29).
+Australian Prudential Regulation Authority,
+Prudential Practice Guide: CPG 230 Operational Risk
+(Practice Guide, June 2024) 5 (‘CPG 230’).
+Royal Commission Banking
+Operational
+Resilience: Insurance in Focus
+(Report, June 2024) 3
+<https://www.pwc.com.au/assurance/operational-resilience/insurance-in-focus.pdf>.
+‘Response to
+Submissions: CPG 230 Operational Risk Management’,
+13 June 2024)
+<https://www.apra.gov.au/response-to-submissions-cpg-230-operational-risk-management>
+Response to Submissions’).
+Andrew Keay and Joan
+Loughrey, ‘The Framework for Board Accountability in Corporate
+Governance’
+(2015) 35(2)
+Legal Studies
+Response to Royal Commission Recommendations’,
+<https://www.apra.gov.au/apras-response-to-royal-commission-recommendations>.
+Accountability Regime Updates’,
+<https://www.pwc.com.au/assurance/operational-resilience/financial-accountability/far-update.html>.
+Financial Accountability
+Regime Act 2023
+CPG 230 (n 43) 8.
+Michelle Lindenmayer,
+A Critical Review of APRA Prudential Standard Cps
+230 Operational Risk Management for General Insurers’ [2024]
+of New South Wales Law Journal Student Series
+31:1–17, 5.
+Paul L Lee, ‘Risk
+Management and the Role of the Board of Directors: Regulatory Expectations and
+Shareholder Actions’
+(2008) 125(8)
+Banking Law Journal
+CPG 230 (n 43) 8.
+CPS 230 (n 1) 5 [20].
+Navigating CPS 230
+Considerations for implementing the CPS 230 Standard
+(Report, June 2024)
+CPS 230 (n 1) 5 [22].
+Ibid 6 [23].
+Ibid 9 [41].
+Ibid 13 [60].
+‘Considerations for
+the COO: CPS 230’,
+(Fact Sheet, January 2023)
+<https://assets.kpmg.com/content/dam/kpmg/au/pdf/2023/cps-230-operational-risk-management-coo-considerations.pdf>.
+CPS 230 (n 1) 5 [19].
+CPG 230 (n 43) 16.
+CPS 230 (n 1) 8 [37].
+CPS 232 (n 5) 6 [21].
+CPS 230 (n 1) 8 [36].
+Gallagher Bassett,
+Carrier Perspective: 2024 Claims Insights Report
+(Report, July 2024) 6.
+Insurance Council of
+Australia, ‘Comprehensive Review Released into Insurers’ Response to
+2022 Flood’ (Media Release,
+31 October 2023)
+<https://insurancecouncil.com.au/resource/comprehensive-review-released-into-insurers-response-to-2022-flood/>.
+Benchmark for Catastrophe Preparedness in Australia: A Review of the Insurance
+Industry’s Response to the 2022 Floods
+in South East Queensland and New
+South Wales (CAT221)
+(Report, Oct 2023).
+Australian Prudential
+Regulation Authority, ‘APRA Consults on new prudential standard to
+strengthen operational resilience’,
+(Media Release, 28 July 2022)
+<https://www.apra.gov.au/news-and-publications/apra-consults-on-new-prudential-standard-to-strengthen-operational-resilience>.
+CPS 230 (n 1) 8 [38].
+CPS 232 (n 5) 7 [28].
+CPS 230 (n 1) 9 [43].
+CPS 232 (n 5) 8
+CPS 230 (n 1) 9 [43].
+Gallegher Bassett (n 70)
+CPS 230 (n 1) 9 [41].
+‘The need for
+transparency and strong partnerships in an evolving regulatory landscape’,
+(Web Page, 28 February 2025)
+<https://www.pwc.com.au/assurance/third-party-trust/the-need-for-transparency-in-an-evolving-regulatory-landscape.html>.
+Bernardo Nicoletti,
+‘Resilience and Outsourcing’ (2016) 5(2)
+PM World Journal
+CPS 231 (n 4) 5 [14].
+Ibid 8 [28].
+CPG 230 (n 43) 4.
+CPS 230 (n 1) 10 [50].
+APRA Refines
+Operational Risk Management Guidance in CPG 230
+(Report, July 2024) 6
+<https://www.pwc.com.au/assurance/operational-resilience/cpg-230-risk-guidance.html>.
+Operational Resilience: One Aim, Two Approaches’,
+Slaughter and May
+<https://www.slaughterandmay.com/horizon-scanning-2025/digital-2025/eu-and-uk-operational-resilience-one-aim-two-approaches/>
+(‘EU and UK Operational Resilience’).
+Treaty on the
+Functioning of the European Union
+, opened for signature 7 February 1992,
+[2009] OJ C 115/199 (entered into force 1 November 1993), art 288
+50–51; Nojus Bendoraitis, ‘Understanding DORA Penalties: The Cost of
+Ignoring Compliance’,
+Cyber Upgrade
+(Blog Post, 15 July 2025)
+<https://cyberupgrade.net/blog/compliance-regulations/dora-penalties/?>.
+‘DORA: Updates,
+Compliance’,
+Digital Operational Resilience Act
+<https://www.digital-operational-resilience-act.com>.
+Ibid art 30.
+Ibid art 31.
+Ibid art 50.
+Ibid art 38.
+Ibid art 37.
+Ibid art 5(2).
+Ibid art 5(3).
+‘Insurance Companies Business in a Digital Environment: What Does DORA
+Bring?’ [2025]
+Tokovi Osiguranja
+‘Prudential
+Regulation’,
+Bank of England
+<https://www.bankofengland.co.uk/prudential-regulation>.
+Karina McTeague,
+‘Leading the Way on Regulation’ (Speech, British Insurance
+Brokers’ Association, 16 May 2019)
+<https://www.fca.org.uk/news/speeches/leading-way-regulation>.
+‘PRA-rulebook-Insurance: Operational Resilience’,
+(Web Page, 23 April 2025)
+<https://www.prarulebook.co.uk/pra-rules/insurance---operational-resilience/23-04-2025#9b41cc1534e54c35a6dc56bd2ab39b3f>
+(‘PRA Rulebook’).
+Operational resilience: Critical third parties to the UK financial
+Bank of England
+(Web Page, 12 November 2024)
+<https://www.bankofengland.co.uk/prudential
+regulation/publication/2024/november/operational-resilience-critical-third-parties-to-the-uk-financial-sector-policy-statement>.
+PRA Rulebook (n 108) art
+Robert David Channon et
+al, ‘Operational Resilience in the UK Financial Sector: Practical
+British Actuarial Journal
+CPG 230 (n 43) 4.
+PRA Rulebook (n 108) art
+Ibid art 1.2.
+Operational Resilience’ (n 90).
+‘APRA Response to
+Submissions’ (n 46).
+Joe McDavitt, ‘CPS
+230: Bigger, Longer and Uncut...’ (Web Page)
+<https://www.battleground.com.au/risk/cps-230-bigger-longer-and-uncut>.
+Daniel Wood, ‘CPS
+230: Is it a threat to smaller agencies?’,
+Insurance Business
+Page, 5 Mar 2025)
+<https://www.insurancebusinessmag.com/au/news/legal-insights/cps-230-is-it-a-threat-to-smaller-agencies-527195.aspx>.
+Paul Muir, ‘CPS
+230 Readiness for General Insurance’,
+(Web Page, 26
+December 2024)
+<https://www.linkedin.com/pulse/cps-230-readiness-general-insurance-paul-muir-lpfoc/?trackingId=sYNdjHwZAL5Ssdw%2BUAD%2FOw%3D%3D>.
+‘Compliance Expert
+Warns of Cascading CPS 230 Fallout’,
+Insurance News
+(Web Page, 10
+March 2025)
+<https://www.insurancenews.com.au/corporate/compliance-expert-warns-of-cascading-cps-230-fallout>.
+‘APRA Response to
+Submissions’ (n 46).
+Bryony Evans and Ella
+Hall, ‘APRA has Released Long Awaited CPG 230: What Does it Mean for
+Regulated Entities and Suppliers
+King & Wood
+(Web Page, 20 June 2024)
+<https://www.kwm.com/au/en/insights/latest-thinking/apra-has-released-long-awaited-cpg-230.html>.
+‘Navigating the Challenges of CPS 230 Implementation for Financial
+Institutions’,
+(Web Page, 10 May 2023)
+<https://www.linkedin.com/pulse/navigating-challenges-cps-230-implementation-financial-institutions/?trackingId=qGzeUZ99QAe%2F9P70eDH5cA%3D%3D>.
+Print (pretty)
+Print (eco-friendly)
+RTF format (111 KB)
+PDF format (350 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

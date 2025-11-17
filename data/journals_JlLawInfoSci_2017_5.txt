@@ -1,0 +1,1078 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/JlLawInfoSci/2017/5.html
+Scraped: 2025-11-17 15:11:06
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Ho, Chih-Hsing --- "Challenges of the EU General Data Protection Regulation for Biobanking and Scientific Research" [2017] JlLawInfoSci 5; (2017) 25(1) Journal of Law, Information and Science 84
+Introduction
+1 Biobanking and Biomedical Research in Context
+1.1 The Features of Biobanks
+1.2 Substantial Public Interest
+3 Processing of Personal Data
+3.1 The Definition of Personal Data
+3.2 Processing of Sensitive Personal Data
+3.3 Anonymisation and Pseudonymisation
+4 Challenges to Harmonisation and the Application of Scientific Exemptions
+4.1 Privately Funded Research
+4.2 Designing a Compliance Framework for Research
+Challenges of the EU
+General Data Protection
+for Biobanking and Scientific Research
+CHIH-HSING HO
+This paper discusses challenges arising from the application of the EU
+General Data Protection Regulation
+context of biobanking and biomedical research. Medical and health research has
+increasingly relied on processing and
+linking vast amounts of genetic- and
+health-related data. The traditional, highly-specific consent form and
+anonymisation required
+for privacy protection may not be appropriate for
+data-intensive longitudinal population-based research. After long debates and
+efforts from the health and research communities in the EU, the
+has been revised to adopt a more research-friendly approach by
+including several derogations for consent and processing of data for
+purposes. However, challenges remain in that the scope of scientific exemptions
+is as yet unclear, and the rules adopted
+by EU Member States have yet to be
+harmonised. Setting up a more accountable governance framework that can work
+with existing ethics
+review mechanisms to allow for biomedical research,
+especially when privately funded research entities are involved, poses questions
+worthy of further analysis. This paper elucidates these challenges and attempts
+to provide a suitable resolution for making exemptions
+so that research can be
+carried out in the public interest.
+Introduction
+On 14 April 2016, after a long process of debate and negotiation, the
+European Parliament adopted the European Union (‘EU’)
+Data Protection Regulation
+reform proposed by the European Commission in 2012 to address EU Member
+States’ fragmented EU data protection rules derived
+Protection Directive
+The main purpose of
+is to set out an EU-wide legal framework for the protection of
+personal data that at the same time facilitates the free flow of such
+within the European Union. The
+’s predecessor, the EU
+Directive 95/46/EC
+, defined the basic elements of data protection, upon
+which EU Member States enacted individual national legislation. Contrastingly,
+will apply directly to each Member State and will override
+national data protection laws in the EU. The
+will be applicable two
+years after adoption, and will be effective from 25 May
+sets forth a number of key changes to the EU
+Protection Directive
+and several principles relating to enhanced rights for
+individuals who are data subjects: for example, the right to be forgotten;
+right to data portability; the processing of personal data; the obligations of
+data controllers and processors, such as the mandatory
+appointment of a Data
+Protection Officer; and carrying out mandatory data protection impact
+assessments. The
+stipulates that personal data need to be processed
+‘lawfully, fairly, and in a transparent manner in relation to the data
+In addition, in order to reinforce data subjects’ control over their
+personal data, in the
+proposal, specific consent was introduced as a
+default consent model for data collection and therefore re-consent was required
+data processing for different purposes apart from those for which data was
+This gave rise to
+serious concerns within scientific communities in the EU that the proposed
+would have devastating impacts on scientific research, which relies
+heavily on access to data for prospective unknown studies, and
+would hamper the
+future development of data-intensive health research.
+Several European medical and health research organisations, such as the
+Medical Sciences Committee of Science Europe, the Wellcome
+Trust, the Public
+Health Genomics (‘PHG’) Foundation, and the Biobanking and
+BioMolecular Resources Research Infrastructure
+– European Research
+Infrastructure Consortium (‘BBMRI-ERIC’) submitted position papers
+proposal in order to reconcile the public interest in
+research with a broader framework of individual rights to privacy. The arguments
+in these position papers elaborated the common concern with the draft
+lack of distinction between the use of data for scientific
+purposes and other forms of processing data, such as personal profiling
+subjects or direct marketing by commercial
+These research
+communities urged EU policy makers to be aware of the possibility that the
+may hinder patients’ interests. They proposed the
+derogation for consent and reuse of data for scientific research purposes,
+arguing that existing ethical safeguards, such as the approval from ethics
+committees, guidelines and codes of conduct, were already
+adopted as general
+practices in medical and health research prior to the
+After prolonged negotiations, in June 2015, the Council of the European Union
+took a more research-friendly approach by including
+special provisions for
+scientific exemptions in the draft
+However, what impact
+will have on scientific research, especially on existing
+biobanking activities, remains to be discussed. For genomics studies, biobanks
+have been deemed a useful part of the infrastructure for facilitating wide
+ranging, population-based prospective longitudinal studies.
+Such biorepositories
+usually collect extensive samples and data, including medical, health and life
+data, and make these available
+to researchers who apply for access for
+unspecified future research
+In order to maximise
+the utility of samples and data stored in biobanks, and to reduce the costs of
+re-contacting participants, broad
+consent has replaced specific consent for data
+collection in the biobank practices.
+The extent to which this particular form of consent to governance is
+compatible with the
+or falls within special provisions for
+scientific research is worth further analysis.
+In addition, the
+specifies that pseudonymised data must be
+treated as personal data, so further data processing requires consent or
+legitimate purposes.
+may contradict the general practice in medical research that treats
+pseudonymised data as anonymous and permits third parties, who
+do not possess
+the key code, to access data for the necessary linkage in the long-term
+follow-up research.
+This paper focuses on challenges arising from the
+, particularly
+those relating to the consent and anonymisation approach for data-intensive
+biomedical research. It analyses the
+’s conditions and
+elucidates why some rules in the
+may not be suitable in the context
+of biomedical research, given the different types of risks involved and the
+nature of the scientific
+studies. Further, this paper illustrates the remaining
+challenges for harmonisation for the
+after the adoption of the
+scientific exemptions, including the involvement of privately funded research
+entities in a broad interpretation
+of ‘research’. Finally, it
+attempts to provide a possible resolution to address these challenges to balance
+the requirements
+of data protection and the need to carry out scientific
+research for the benefit of the public.
+1 Biobanking and Biomedical Research in
+In recent years, due to rapid developments in information technology and the
+application of big data techniques, the general practice
+in biomedical research
+has changed significantly. Personal data concerning health can be aggregated
+through data mining techniques
+and linkages to yield valuable resources for
+further use and analysis. Such data includes data collected from electronic
+health records
+(‘EHRs’), electronic medical records
+(‘EMRs’), clinical trial data, and genetic, genomic and other
+life-related
+data. As most complex diseases and cancers that affect large
+populations are typically caused by a combination of genetic and environmental
+factors, rather than individual genes alone, scientists generally recognise that
+studying the population genome, that is, the entirety
+of a species’ genes
+across whole populations, is necessary to understand fully the complex and
+subtle interactions between
+incidences of disease, genes, and the
+environment.
+Such population
+studies in genomics require extensive collections of high-quality tissue
+samples, and have fuelled the drive for
+the establishment of large-scale
+population biobanks.
+1.1 The Features of Biobanks
+The collection and storage of human tissue samples for medical research has a
+decades-long history. However, biobanks are a sophisticated
+technological
+innovation, which facilitates the continuous collection of all types of human
+samples and making of linkages with associated
+epidemiological, clinical and
+research data.
+The wide use of
+biobanks and associated data creates difficulties, as the different types of
+collections with different structures
+and purposes may give rise to different
+technological, ethical and legal
+considerations.
+According to
+OECD Guidelines
+, the extent and type of consultations necessary for the
+establishment of human biobanks must take into consideration the nature,
+and scope of biobanks. The greater the variety of invited participants, the more
+numerous the tissue samples and data to
+be collected, which may cause greater
+risks in samples and data
+Although a number of significant variables, such as the size, scale and
+nature of the samples, will influence the range of biobank
+activities, including
+recruitment, consent practices and governance arrangements, human biobanks
+typically share a number of common
+For instance, they
+usually anticipate unspecified future research and so have an ongoing and
+open-ended nature that challenges the
+traditional practice of specific informed
+consent. Furthermore, in order to link collected biospecimens with phenotypic
+banked samples and data may need to be re-identifiable by biobank
+custodians even though that data may have been encrypted and the
+identification removed. Since it is not possible to ensure that the samples and
+data are completely secure against identification,
+appropriate mechanisms need
+to be set for data management to minimise the risk of individuals being
+identified.
+In addition, as
+biobanks are more concerned with the public benefit for future generations than
+with the individual benefit of participants
+themselves, they focus on the common
+good and as a result their proper governance needs to balance individual and
+collective interests.
+The nature of biobank collections can be classified in terms of the purely
+prospective integrations of pre-existing collections, or
+some combination
+thereof. In terms of the extent to which data linkage is possible, types of
+biobanks may be categorised depending
+on the coding system or anonymisation
+procedures used for data protection. If funding sources and business models are
+account, the categorisation may be further refined into distinctions
+between public or private, commercial or non-commercial. Different
+biobanks require different governance frameworks for issues regarding consent
+and privacy. For instance, whether or not
+a biobank is commercially oriented may
+have a significant influence on people’s willingness to participate, as
+the business
+model of profit maximisation may not be accepted by a participant
+who might otherwise wish to contribute samples to a public, non-commercial
+Biobanks may also be distinguished from other collections of biospecimens,
+created for research or other purposes but also used for
+research, even though
+the boundaries between the biobanks and these kinds of collections may not be
+easily drawn. For instance, the
+genetic research database used for the
+International HapMap Project
+stored de-identified genetic information compiled from multiple donors. Even
+though the samples and cell lines used by the project
+could be identified as
+coming from one of the four populations taking part in the study, they were not
+linked to any individual participant.
+This is very different from a biobank in
+which re-identification and data linkage are necessary. Making these
+distinctions not only
+also assists in elucidating a more appropriate governance framework for data
+protection in the context of biomedical research.
+1.2 Substantial Public Interest
+Biobanks provide scientific researchers with important resources in two main
+areas: the interaction between genetic factors underlying
+common complex
+diseases and the environment, and the translation of biomedical research into
+diagnostic and therapeutic applications
+through pharmacogenomics in pursuit of
+personalised medicine.
+ultimately provides an improvement in public health.
+In the past, medical care was unable to take account of an individual’s
+genetic variability. Instead it focused on standards
+of care based on
+epidemiological studies of large cohorts. Traditionally, clinical diagnosis and
+treatments were based on patients’
+symptoms and their medical and family
+histories. As such, medical treatment was reactive rather than prospective. In
+other words,
+clinics offered medication only after symptoms appeared.
+Recent advances in genomics have introduced a new means of identifying and
+understanding certain diseases, especially in terms of
+the functioning of genes
+and their impact on the development of complex diseases. The HapMap project has
+laid the groundwork for
+deepening our understanding of similarities and
+differences in genetic makeup at an individual level, and made possible for the
+application
+of a new tool, Genome-Wide Association
+(‘GWAS’), to
+examine how one’s genome may affect a person’s susceptibility to
+GWAS could have a significant impact on medical care, especially the
+development of precision medicine, for which it is important
+to understand how
+genetic variations contribute to common, complex diseases. Studies are expected
+to benefit health management when
+it is widely applied to medical care. They sit
+alongside other innovative technologies, so that health professionals can tailor
+programs to patients according to their genetic makeup, to lower
+health management costs to a greater
+These rapid developments in biomedical studies have turned traditional
+medical research into a data-intensive field. This paradigm
+shift encourages
+cross-border exchange of human biological resources and associated data. A
+well-tailored data protection framework,
+as it has been argued by many EU health
+research communities, will be able to ease access to, and the sharing of, data
+for scientific
+research purposes, and enable further biomedical innovation. This
+will bring greater benefit and wellbeing to patients and citizens.
+As it is widely recognised that personal data is of critical importance in
+maintaining and advancing scientific research, the EU medical
+communities have demonstrated a strong support for derogations set out in the
+to continue performing outstanding research. In addition,
+since scientific and medical research aims at fostering knowledge and developing
+new treatments to prevent or cure disease, the BBMRI-ERIC, along with other
+scientific networks, urged EU institutions to consider
+scientific research as
+being of substantive public
+The adoption of
+scientific exemptions is essential to make a necessary distinction between data
+processing for research purposes
+and other purposes that lack a substantial
+public interest.
+Reconciling patients’ interests and individual rights to privacy has
+been of foremost priority for many EU medical and health
+research communities.
+In the position paper of Science Europe, EU institutions were recommended to set
+up a governance framework
+to ensure privacy protection, while at the same time
+facilitating access to data and medical research across Europe.
+Concerns were raised that the proposed
+did not proportionately
+reconcile these rights, nor appropriately distinguish between the commercial and
+academic environments in
+which medical and health research are
+Similarly, the term
+‘high public
+used in the
+for the processing of sensitive data, had been criticised
+in the BBMRI-ERIC position paper as constituting an unnecessary politicisation
+of research.
+A change of the
+wording to ‘public interest’ was recommended by the scientific
+communities.
+A comparable
+request for derogations can be found in data processing that involved
+psuedonymisation under the ‘highest technical
+standards’. According
+to the BBMRI-ERIC position paper, the change of the wording to ‘reasonably
+high’ standard
+was strongly recommended, in order to avoid unnecessary
+conditions set up under the
+that will have a detrimental impact on
+scientific discovery.
+provides a clear definition of consent. Article 4(11)
+stipulates that a valid consent obtained from the data subject needs to be
+‘freely given, specific, informed and unambiguous’. In addition,
+such consent must take the form of a clear affirmative
+action, indicating the
+data subject’s agreement to the processing of his or her personal data.
+This definition of consent is
+based on the dominant specific consent model that
+brings challenges to biobanking activities, which mainly rely on broad consent.
+When consent was obtained for data collection for the establishment of existing
+biobanks, it was not possible to predict what kinds
+of research would be
+possible in the future. The same is true of new collections; we cannot
+anticipate all their potential future
+research uses. Moreover, treating biobanks
+as an important infrastructure makes them valuable resources for research. They
+like bio-libraries or bio-repositories, continuing the collection and
+storage of human specimens and associated data in order to
+make them available
+for unspecific future research. As a result, it has been recognised that the
+traditional specific consent model
+is not practical for biobanking operations.
+Broad consent involves consenting to a general governance framework rather than
+research purpose. In biomedical practice, this broad consent provides
+an alternative and legitimate solution to longitudinal population-based
+research, which is reliant on vast amounts of data being processed and further
+linked for later research.
+Broad consent, used frequently in biobanking, is slightly different from
+blanket (or open) consent. The latter refers to permission
+given by the data
+subject to further processing and reuse of his or her specimens and associated
+data for any nonspecific future
+Considering that
+re-consent costs are simply too high and burdensome for participants to be
+re-contacted every time there is a need
+to obtain their consent for a new
+research purpose, blanket consent has been used to replace specific informed
+consent in order to
+facilitate medical and health research. Concerns about open
+consent usually focus on the absence of continuous supervision of the
+tissue samples and data after consent has been given at the time of data
+collection. Broad consent is a compromise between
+the two ends of the consent
+spectrum: open consent and traditional specific informed consent. Broad consent
+authorises the use of
+samples for unspecific research purposes, but it relies on
+ethics (or user) committees to review applications for access to biobanks
+data processing or linkage. In practice, review by ethics committees focuses on
+the governance framework provided by the
+Such a governance
+framework provides guidance for various biobank stakeholders, and covers the
+rules and guidelines on data protection,
+confidentiality and the criteria for
+access. This provides an important safeguard to supplement the broad consent
+model. The UK biobank
+and many biorepositories associated with the BBMRI
+Consortium have adopted broad consent models as default mechanisms for
+consent in the context of biobanking research. It is hoped that a
+proper balance will be reached between respect for individual autonomy
+facilitating medical research.
+In the proposed draft
+, the broad consent model had not yet been
+considered a valid form of consent, according to the strict definition of
+consent set out
+in the provisions. This caused major concerns for medical and
+health communities in the Europe about the legitimacy of existing biobanking
+projects and future biobank activities. After a long process of discussion and
+lobbying by scientific communities, in the final version
+legislators recognised that it would be impractical to use specific consent in
+longitudinal studies and they took a more research-friendly
+position by
+including scientific exemptions in the
+. In recital 33 of the
+, it is acknowledged that it is often not possible to identify fully
+the purpose, use and processing of personal data for scientific
+research at the
+stage of data collection. As a result, data subjects should be permitted to give
+their consent to certain broad areas
+of scientific research, rather than being
+asked to specifically consent to particular purposes, so long as such practice
+complies with ethical standards for scientific
+Given this flexibility
+in consent requirements, personal data can now be repurposed for secondary use,
+which is approved by ethics
+committees. There is no need to obtain further
+consent for additional processing of data once broad consent has been given by
+subjects at the time of data collection.
+Processing of Personal
+3.1 The Definition of Personal Data
+As both the EU
+Directive 95/46/EC
+govern only the
+collection and processing of ‘personal data’, any information not so
+defined is therefore outside of
+the scope of the data protection rules, and
+researchers need not pay heed to data protection principles. As a result, how
+data is defined is critical to the appropriate application of the
+According to article 4 (1) of the
+, personal data refers to
+‘any information relating to an identified or identifiable natural person
+subject’)’.
+stipulates that an identifiable person is
+one who can be identified, directly or indirectly in particular by reference
+to an identifier such as a name, an identification
+location data, online identifier or to one or more factors specific
+to the physical, physiological, genetic, mental, economic, cultural
+social identity of that person.
+The definition of personal data in
+Directive 95/46/EC
+remains mostly
+unchanged under the
+, however, several new identifiers, such as
+location data, online identifiers, and genetic data have been explicitly
+included in the
+, which may result in additional compliance
+obligations for some associated organisations. In addition, the
+maintains the existing distinction between sensitive data and non-sensitive
+data, and makes sensitive data a special category of
+personal data subject to
+additional protection.
+categories of the sensitive data are largely the same as that covered by the EU
+Directive 95/46/EC
+. Nevertheless, as a result of consideration of
+scientific developments, the
+now enlarges its categories by
+explicitly including genetic and biometric data as sensitive personal
+Processing of Sensitive Personal Data
+The processing of sensitive personal data, like genetic and health data, is
+prohibited under the
+, except in certain defined circumstances.
+Article 9(2) of the
+enumerates the justifications for processing of
+sensitive data. This list of legal processing is exhaustive, and the processing
+sensitive data outside of the enumerated situations is considered illegal
+One of the required conditions is the explicit consent of the data
+As mentioned earlier,
+that consent, according to the definition in the
+, must be given
+freely, and must be specific, informed and
+unambiguous.
+In addition, the
+consent needs to satisfy the ‘purpose limitation’ requirement. As a
+result, consent to processing sensitive
+data cannot be permitted for prospective
+unknown purposes, as is the practice under the broad consent model in biobanking
+However, the
+permits derogations for research, and Member
+States can delineate under what circumstances the prohibition against processing
+data may not be lifted by the specific consent
+requirement.
+also permits the processing of sensitive data when it is in
+the public interest for reasons of public
+Examples of the public
+health exemption include ‘protecting against serious cross-border threats
+to health’ or ‘ensuring
+high standards of quality and safety of
+health care and of medicinal products or medical
+Under these
+circumstances, processing of sensitive data can be permitted if it is on the
+basis of EU or Member State law that provides
+suitable measures to safeguard the
+rights and freedoms of the data
+In addition, the justifications apply when such processing of sensitive data
+is necessary for scientific research
+Under this scenario,
+the processing needs to be subject to appropriate safeguards, which must ensure
+that technical and organisational
+measures are in place to comply with the
+principle of data minimisation.
+According to the
+, such measures may include techniques of
+pseudonymisation. However, if anonymisation rather than pseudonymisation can
+satisfy the
+purpose of processing sensitive data, that technique should
+Furthermore, under the
+, there can be limitations on a data
+subject’s rights, including the right to access, the right to
+rectification, the right
+to restriction of processing and the right to object,
+as scientific exemptions are applied to the processing of sensitive
+However, such exemptions
+are subject to the same conditions and safeguards as stipulated in the
+to the extent that such rights are likely to render impossible or
+seriously impair the ends of scientific research, and such derogations
+necessary for the fulfilment of these
+Nevertheless, the
+scope of derogations is not without limitation. According to the
+Member States have discretion to maintain or introduce further conditions,
+including limitations for processing several special
+categories of sensitive
+personal data, such as genetic data, biometric data or data concerning
+Anonymisation and Pseudonymisation
+Directive 95/46/EC
+apply only to
+personal data, data that can no longer be connected to, or under any
+circumstance be associated with a particular individual,
+are considered
+anonymised data that falls outside of the application of data protection rules.
+As the anonymisation of data is irreversible,
+it cannot be used to identify data
+subjects by any method. Thus the processing and reuse of such data do not need
+to comply with
+data protection principles. Several researchers have studied the
+effectiveness of various anonymisation techniques. In reality, it
+possible to claim any technique is absolutely effective at anonymisation,
+especially considering the advances in big data
+applications that make it easier
+to single out a particular individual through data mining. Under the
+, however, data can be considered anonymised so long as such data can
+no longer identify an individual by further processing of that
+data, or by
+processing it together with any other available
+information.
+Pseudonymisation is a technique used for processing of personal data, under
+which information can no longer be attributed to a specific
+data subject without
+the use of additional information. That additional information must be kept
+separately and subject to appropriate
+measures to ensure that it cannot be used
+to help identify the data
+According to this
+definition, pseudonymised data can be considered to have had personal
+identifiers removed and kept separately,
+so the data can no longer identify an
+individual directly without the inclusion of an identifier key or algorithm. As
+it is still
+possible for the identity of the data subject to be re-connected to
+the pseudonymised data, such data is explicitly recognised by
+a type of personal data.
+The Medical Sciences Committee of Science Europe (‘MED
+Committee’) recommended that EU institutions take into consideration
+adoption of a risk-managed approach in the case of pseudonymised data, to ensure
+that the regulatory burden on research is kept
+According to its
+position paper, the MED Committee suggested that the
+should exclude
+pseudonymised data for medical and health research from the category of personal
+data, so long as there are appropriate
+technical safeguards in the research
+practices to minimise the risk of re-identification. In biomedical research, the
+technique of
+pseudonymisation is used frequently in population-based research
+and large-scale biobanks. These research types involve the longitudinal
+collection of a large amount of participants’ data, which must be further
+processed or cross-linked to other databases for
+future unspecific research.
+Pseudonymisation makes these databases an extremely valuable research
+infrastructure as it permits cross-linkage
+between different datasets, such as
+national health registries or medical and life data, in order to discover the
+causes of diseases.
+This type of population-based research has been practiced
+impressively in many jurisdictions in Europe, for example, by the National
+Institute of Statistics in Nordic countries, the Scottish Informatics Programme
+(‘SHIP’) in Scotland, the UK Biobank,
+and the UK Longitudinal Study
+Center in England.
+technically speaking, pseudonymisation may create a greater risk of
+re-identification than some anonymisation techniques,
+several safeguards and
+mechanisms, such as reviews from ethics committees for access to databases, have
+been employed to protect
+participants in biomedical research.
+Foreshadowing that this suggestion might not be accepted by legislators (a
+correct assumption, as it turned out), the MED Committee’s
+position paper
+continued to highlight the importance of EU institutions making amendments that
+recognise the existing, well-established
+protocols for the responsible use of
+pseudonymised data in medical and scientific research. The aim was to ensure
+that the regulatory
+requirements for treating pseudonymised data as personal
+data are proportionate to a relative lower risk of re-identification. In
+addition, the Committee recommended a case-by-case approach, along with
+appropriate oversight, clear procedures and suitable controls
+decryption keys with pseudonymised data for re-identification purposes in
+scientific studies.
+Committee further suggested that this approach ought to be built on the existing
+safeguards for processing pseudonymised data
+that have been commonly adopted in
+scientific research communities across Europe.
+Challenges to Harmonisation and
+the Application of Scientific Exemptions
+4.1 Privately Funded Research
+Even though the medical and health research communities have been delighted
+to see EU institutions take a more open position to welcoming
+data-intensive
+research, several challenges remain in the application of scientific exemptions
+. The first, and most important, concerns the unclear scope
+of scientific exemptions and their interpretation. According to recital
+adopts a broad definition of ‘research’ regarding the
+processing of personal data that includes not only fundamental and
+research, but also privately funded
+Given the broad
+interpretation of research, there is little room to distinguish between research
+carried out by public or private
+entities, so long as ‘data
+processing’ satisfies the purpose of scientific research. It brings an
+immediate challenge
+to the issue of privately funded research. For example, it
+is unclear whether commercial market research may be classified as scientific
+research and therefore be covered by the exemptions under the
+Generally, under the
+, the processing of personal data for
+secondary uses or purposes cannot be permitted except under such circumstances
+that the processing
+with the purposes for which the
+personal data were initially
+However, this
+restriction on secondary processing of personal data may be exempted for data
+controllers who process personal data
+for the purpose of
+Article 5(1)(b) of the
+reverses this general presumption on the purpose of limitation.
+Under such an exemption, where technical and organisational measures
+place, secondary uses of data are possible even without considering if the
+purpose of the process is compatible with the original
+purpose for which data
+were collected.
+This raises
+concerns about the consent given by the data subjects, as they might not be
+willing to give the same consent had they
+known that the entities of the data
+controllers or processors would change in the future.
+Several studies have demonstrated the public’s concerns with commercial
+access to health data. A survey carried out by Ipsos
+MORI, a social research
+institute, for the Royal Statistical Society reveals that only between four and
+seven per cent of the respondents
+agree that they have a high level of trust in
+the appropriate use of personal data by commercial entities, such as internet,
+and telecommunications
+This study further
+illustrates that among two of the top three reasons for the respondents to stop
+using a company are the loss or
+sale of personal data—but that far
+outweighs other reasons such as charging more than other competitors or damaging
+the environment.
+contrary, the poll showed relatively low opposition (17 per cent) for the
+government sharing anonymised data among universities
+and academic organisations
+for the purpose of public funded
+Subsequently, a more sophisticated survey was commissioned by the Wellcome
+Trust to further investigate ways in which the public would
+distinguish between
+different types of commercial access, and whether different types of data and
+data users would be factors influencing
+attitudes towards commercial access to
+health data for the public.
+so doing, it is hoped that better safeguards can be established to ensure public
+trust in the sharing of health data with private
+entities for research purposes.
+The report found that the public regards there to be a hierarchy of acceptable
+commercial entities.
+For those private research companies working closely with
+the National Health Service (‘NHS’) in the UK, the public has
+relatively higher trust and more acceptance attitude towards their data
+processing activities.
+popular are pharmaceutical companies with agendas that are seen as being at odds
+with the public interest. Even though the
+role of pharmaceutical companies in
+the development of new therapies has been gradually recognised, most people
+still prefer that
+certain kinds of regulations should be used to place checks on
+these companies, due to concerns with their profit motive.
+In the survey, some companies are reported as falling short of public
+expectations. For example, the investigation showed that participants
+want insurance companies to have access to their health data at all. This public
+distrust is caused by the health industry’s
+business operations: charging
+high rates but paying out little or nothing, which is perceived by the general
+public as operating
+contrary to the basic principle of the public health
+Similarly, marketing
+companies have also been listed as non-favoured entities for access to personal
+data. This demonstrates the general
+concerns about online marketing
+platforms’ privacy intrusions and how individuals might have been targeted
+for direct marketing
+through big data
+application.
+With regards to
+third party access, the survey illustrates public unease with passing data on to
+others beyond the original use,
+especially fear that data subjects will lose
+control when third party access is allowed but proper safeguards are yet to be
+established.
+Indeed, commercial
+companies frequently seek to profit from re-selling data. However, most of these
+companies have inadequate mechanisms
+to ensure transparency and data security.
+adopts a broad definition of research and explicitly
+includes privately funded research in such a category, the scientific research
+exemptions will apply to commercial entities and pharmaceutical companies for
+data processing and re-use. Mitigating public concern
+to ensure that the common
+good is protected and to ease the challenges that accompany the application of
+the scientific exemptions
+is crucial. In addition to relying on ethics committee
+review as a safeguard mechanism for data access, it is necessary to increase
+transparency and accountability in the governance framework for processing data
+transfer and access applications. A proper notification
+system may help build up
+a trust relationship between data controllers and data subjects, and needs to be
+included in the overall
+data flow supervision. Finally, in the broad consent
+mechanism, an opt-out option is required so that data subjects will have an
+opportunity to further control (even though passively) the use of, and access
+to, their data and to decide if they would prefer to
+withdraw from research
+projects when commercial entities are involved.
+Designing a Compliance Framework for
+In addition to the uncertain interpretation of the scope of exemptions,
+another challenge for the
+lies in how to design an appropriate
+compliance framework for carrying out research. A solid safeguard for data
+processing requires
+suitable technical and organisational measures that can be
+well-designed into an overall framework, to balance respect for privacy
+need to perform research. Under certain circumstances, the GDPR allows for
+Member States to set up implementing rules for
+the research exemption. As a
+result, there is some (necessary) flexibility to apply the
+medical and health research contexts. However, the fragmented implementation
+rules enacted by the Member States may inevitably
+bring new challenges to the
+harmonisation of different data protection rules for research across the EU. How
+to avoid this regulatory
+fragmentation, which will hinder data sharing and
+cross-border research collaboration, will be another crucial issue worth taking
+into consideration.
+In biomedical research, many codes of conduct, ethical standards, and
+self-governance mechanisms have been developed over years to
+safeguard data
+processing and facilitate collaboration of transnational research. A practicable
+compliance framework for the GDPR
+should be built on these existing good
+practices to avoid conflicts between the rules of data protection and biomedical
+activities.
+The safeguard mechanisms, such as Privacy Impact Assessments
+(‘PIAs’) for risk management and the requirements for transparency
+and accountability must also be built in by design, as integral parts of
+technical and organisational compliance safeguards. The
+adoption of PIAs plays a
+crucial role in assessing the risks associated with research projects and data
+processing and usage. It
+is worth noting that a PIA should be performed
+according to the specific context. A PIA identifies and evaluates related risks
+data protection, and must consider not only physical security for data
+storage and encryption methods, but also the data subject’s
+expectations,
+access policies and the safeguards adopted by research institutes and associated
+research partners. This assessment
+is particularly important if data is
+transferred for further use or linkage.
+Introducing a system of data breach notification may further improve tracking
+of network data usage in real time and help monitor
+the data flow accountably.
+It is recommended that the data protection authorities work closely with
+research and health institutes
+to seek input from scientific communities, to
+enable them to implement rules and meet the common goal of supporting research
+respecting the individual’s privacy. In addition, even though the
+scientific exemptions under the
+permit re-consent to be waived under
+certain circumstances when technical and organisational safeguards are in place,
+it is important
+that advanced techniques of encryption and data anonymisation
+should not be deemed an automatic replacement of consent. Independent
+from ethics committees must be required to stick with a comprehensive governance
+framework in which a contextual assessment
+of data protection impact and risk
+management have been embedded.
+has been viewed as a milestone in data protection reform as
+it aims to harmonise the existing fragmented data protection rules in
+Its implementation in May 2018 will require widespread standardisation and
+unification of data privacy requirements, and
+will have a broader impact on
+cross-border data transfers. However, to what extent both the ambition for the
+protection of consumers
+and the promotion of innovation can be achieved will be
+a challenge for the implementation of the
+. After a long process of
+lobbying and debate, the derogations for research have been accepted by policy
+makers in the EU, but the
+adoption of scientific exemptions remain challenging
+This paper has discussed these challenges in the biobanking and biomedical
+research context. It elucidated why dominant mechanisms
+such as specific consent
+and anonymisation, as requested by privacy protection rules, may not be
+appropriate for biomedical research,
+which generally is of a data intensive
+nature, open to unspecific future research, and requires the linkage of
+different datasets
+for longitudinal population-based research. The derogations
+permitted under the
+allow for broad consent and processing of
+sensitive data without considering if the secondary use is compatible with the
+obtained for the initial data collection. Given the broad definition of
+‘research’ adopted by the
+, these exemptions will
+question the proper scope of the secondary use of data from privately funded
+research entities, and further
+harmonisation of implementation rules enacted by
+each Member State may be required. This paper suggested that a transparent and
+accountable
+governance framework including privacy impact assessments,
+notification and an opt-out option should be set up. The framework should
+upon the existing ethics review safeguards, which allow for scientific research
+to meet the requirement of doing good science
+while benefitting public interest.
+Assistant Research
+Fellow, Institute of European and American Studies, Academia Sinica, Taipei,
+Taiwan. LLM (Columbia), JSM (Stanford),
+PhD in Law (London School of Economics).
+E-mail: chihho@sinica.edu.tw. The author appreciates the research assistance
+provided by
+Janos Meszaros and anonymous referees for comments. This paper was
+presented at the APSN 2016 annual conference held at the University
+of Auckland.
+The author would like to thank the conference organisers, and the helpful
+comments and discussions raised by the APSN
+members and participants.
+Regulation (EU) 2016/679 of
+the European Parliament and of the Council of 27 April 2016 on the protection of
+natural persons with
+regard to the processing of personal data and on the free
+movement of such data, and repealing Directive 95/46/EC (General Date Protection
+Regulation)
+[2016] OJ L 119/1 (‘
+Directive 95/46/EC of the
+European Parliament and of the Council of 24 October 1995 on the protection of
+individuals with regard to
+the processing of personal data and on the free
+movement of such data
+[1995] OJ L 281/31; See Directorate-General for
+Justice and Consumers,
+Reform of EU Data Protection Rules
+(2016) European
+http://ec.europa.eu/justice/data-protection/reform/index_en.htm
+Directive 95/46/EC
+Directorate-General for
+Justice and Consumers,
+Reform of EU Data Protection Rules
+(2016) European
+http://ec.europa.eu/justice/data-protection/reform/index_en.htm
+[2016] OJ L 119/1,
+art 5(1)(a).
+[2016] OJ L 119/1,
+arts 6(1)(a), 7.
+See the joint statement
+released by the Wellcome Trust and other research organisations: Wellcome Trust
+et al, Impact of the draft
+European Data Protection Regulation and proposed
+amendments from the rapporteur of the LIBE committee on scientific research,
+<https://wellcome.ac.uk/sites/default/files/wtvm054713.pdf>.
+[2016] OJ L 119/1,
+arts 5, 6, 9, 89.
+Helen Swede, Carol L Stone
+and Alyssa R Norwood, ‘National population-based biobanks for genetic
+research’ (2007) 9
+Genetics in Medicine
+M G Hansson et al,
+‘Should donors be allowed to give broad consent to future biobank
+research?’ (2006) 7(3)
+The Lancet Oncology
+[2016] OJ L
+119/1, art 32(1)(a).
+See National Human Genome
+Research Institute,
+Frequently Asked Questions About Genetic and Genomic
+(2 March 2016)
+http://www.genome.gov/19016904
+When it is used in this
+article, the term biobank refers to large collections of human biological
+materials that may be linked with
+personal and health information for use in
+health and medical research as in the definition given by the OECD. See also
+Mark Stranger
+and Jane Kaye, ‘Governing Biobanks: An Introduction’
+in Jane Kaye and Mark Strange (eds),
+Principles and Practice in Biobank
+(Ashgate, 2009) 2.
+Margaret Otlowski, Dianne
+Nicol and Mark Stranger, ‘Biobanks Information Paper’ (Information
+Paper E110, National Health
+and Medical Research Council, 2010) 9
+<https://www.nhmrc.gov.au/_files_nhmrc/publications/attachments/e110_biobanks_information_paper_140520.pdf>.
+Organisation for Economic
+Co-operation and Development,
+Guidelines on Human Biobanks and
+Genetic Research Databases
+(22 October 2009) 1
+http://www.oecd.org/dataoecd/41/47/44054609.pdf
+Mats G Hansson,
+‘Ethics and Biobanks’ (2009) 100
+British Journal of Cancer
+Georg Lauss et al,
+‘Towards Biobank Privacy Regimes in Responsible Innovation Societies: ESBB
+Conference in Granada 2012’
+(2013) 11(5)
+Biopreservation and
+International HapMap
+Consortium, ‘The International HapMap Project’ (2003) 426
+It refers to the notion
+that all medical decisions and treatment, including preventive and therapeutic
+care can be tailored to adapt
+to each individual’s particular genetic
+A genome-wide association
+study is a new method for scientists to strategically search genetic markers
+that involves rapidly scanning
+SNPs across the complete set of human genomes to
+find genetic variations associated with a particular disease. See National Human
+Genome Research Institute,
+Genome-wide Association Studies
+http://www.genome.gov/20019523
+For more information about
+the application of the genome-wide association studies, see National Human
+Genome Research Institute,
+Genome-wide Association Studies
+http://www.genome.gov/20019523#gwas-3
+Biobanking BioMolecular
+Resources Research Infrastructure (‘BBMRI-ERIC’), ‘Position
+Paper on the General Dara
+Protection Regulation’ (Position Paper, October
+http://www.bbmri-eric.eu/wp-content/uploads/BBMRI-ERIC-Position-Paper-General-Data-Protection-Regulation-October-2015_rev1_title.pdf
+Scientific Committee for
+Medical Sciences of Science Europe, ‘The Benefits of Personal Data
+Processing for Medical Sciences
+in the Context of Protection of Patient Privacy
+and Safety’ (Opinion Paper, Science Europe, May 2013) 5
+<https://www.scienceeurope.org/wp-content/uploads/2014/05/ScienceEuropeMedicalPaper.pdf>.
+Parliamentary amendments
+for Recital 123a and Article 81(2a) (a.o.) of the draft
+Biobanking BioMolecular Resources Research Infrastructure, above n 23, 3.
+Biobanking BioMolecular
+Resources Research Infrastructure, above n 23, 8.
+Dara Hallinan and Michael
+Friedewald, ‘Open consent, Biobanking and Data Protection Law: Can Open
+Consent be ‘informed
+‘under the Forthcoming Data Protection
+Regulation’ (2015) 11(1)
+Life Sciences, Society and Policy
+See UK Biobank Ethics and
+Governance Council,
+UK Biobank Governance Framework-Version 3.0
+<https://www.ukbiobank.ac.uk/wp-content/uploads/2011/05/EGF20082.pdf>.
+[2016] OJ L
+119/1, rec 33.
+Ibid art 4(1).
+Ibid recitals 10, 34, 35,
+51, art 9(1).
+Ibid art 9(2)(a).
+Ibid art 4(11).
+Ibid art 9(2)(a).
+Ibid art 9(2)(i).
+Ibid art 89(1).
+Ibid art 89(2).
+Ibid art 89(4).
+See Office of the Data
+Protection Commissioner (Ireland),
+Anonymisation and psuedonymisation
+https://www.dataprotection.ie/docs/Anonymisation-and-pseudonymisation/1594.htm
+[2016] OJ L
+119/1, art 89(5).
+Scientific Committee for
+Medical Sciences of Science Europe, above n 24, 8.
+[2016] OJ L
+119/1, recital 159, [1].
+Michelle Goddard,
+‘The Changing Face of Compliance: Preparing Healthcare Researchers for EU
+Data Protection Reforms’ (Speech
+delivered at the British Healthcare
+Business Intelligence Association Annual Conference, London, 9 May 2016) 8
+<https://www.bhbia.org.uk/downloads/4162/0/BHBIA_Keynote_Speech_Changing_Face_of_Compliance_-_Formatted_Handout_v1.0.pdf.aspx.>.
+[2016] OJ L
+119/1, art 6(4), rec 50.
+Ibid art 5(1)(b).
+Ibid: ‘[F]urther
+processing for archiving purposes in the public interest, scientific
+or historical research purposes or statistical
+purposes shall, in
+accordance with Article 89(1), not be considered to be incompatible with the
+initial purposes’.
+See Royal Statistical
+Society, ‘Royal Statistical Society research on trust in data and
+attitudes toward data use / data sharing’
+(Briefing Note, 22 July
+http://www.statslife.org.uk/images/pdf/rss-data-trust-data-sharing-attitudes-research-note.pdf
+See Ipsos MORI Social
+Research Institute, ‘The One-Way Mirror: Public attitudes to commercial
+access to health data’
+(Report prepared for the Wellcome Trust, March
+<https://www.ipsos.com/sites/default/files/publication/5200-03/sri-wellcome-trust-commercial-access-to-health-data.pdf>.
+Ibid 10. However, the
+extent to which this higher trust remains is not without debate. On March 2017,
+for example, there was a devastating
+security breach of one of the major
+computer systems used by GPs. This breach involved over 26 million NHS
+patients’ medical
+records and triggered the Information Commissioner (ICO)
+to start an investigation. At the end of August 2017, the ICO announced
+IT system’s provider was required to address the need to improve security
+measures to guarantee the fair and lawful
+process of patient data on the system.
+See Information Commissioner’s Officer, ‘ICO updated statement in
+relation to
+the potential risk to patient medical records held by GPs on TPP
+SystmOne’ (Media Release, 30 August 2017)
+<https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2017/08/ico-updated-statement-in-relation-to-the-potential-risk-to-patient-medical-records-held-by-gps-on-tpp-systmone/>.
+Ibid 10–11.
+Print (pretty)
+Print (eco-friendly)
+RTF format (390 KB)
+PDF format (355 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

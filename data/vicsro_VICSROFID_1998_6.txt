@@ -1,0 +1,121 @@
+Exemptions for RTGS transactions (FID-055) [1998] VICSROFID 6 (1 December 1998)
+Revenue Rulings
+Please continue over page
+Exemptions for
+RTGS transactions
+Revenue Ruling FID.055
+This ruling explains the Financial Institutions Duty
+(FID) treatment of transactions recorded in a
+management information system maintained by a
+financial institution for the purpose of managing
+its credit exposure and liquidity needs when
+settling high value payments of its customers in a
+real time environment.
+Real Time Gross Settlement system
+The Reserve Bank of Australia (RBA) has
+introduced a Real Time Gross Settlement (RTGS)
+system for high value inter-bank payments. Before
+RTGS, banks made and received payments during
+the day on behalf of major clients, but settled
+through their exchange settlement accounts
+(ESAs) with the RBA on a net deferred basis the
+following day. RTGS minimises the risk that a bank
+will not be able to meet its settlement obligations
+because high value payments are settled in real
+time, that is, as they occur.
+Information is fed into RTGS by three systems
+catering for different types of high value
+transactions and different groups of users. These
+systems are:
+Reserve Bank Information and Transfer System
+(RITS), which is an electronic clearing and
+settlement system, owned and operated by the
+RBA, for trading in Commonwealth Government
+securities;
+Austraclear which is also an electronic system for
+the clearance and settlement of securities trading
+and cash transfers; and
+SWIFT/Payment Delivery System (SWIFT/PDS)
+which is operated by the Australian Payments
+Clearing Association and is used by all banks for
+single-sided payments.
+Under RTGS, banks have greater need to manage
+their liquidity and control their credit exposure to
+customers, particularly those customers operating in
+more than one of the feeder systems. Banks will do
+this by the following methods.
+Customer scorekeeping accounts for RTGS
+transactions
+Some banks will establish a scorekeeping account for
+each customer who undertakes transactions in the
+RTGS system. All RTGS transactions for the day for
+that customer are recorded in the scorekeeping
+account so that, at any time, a bank knows its credit
+exposure to that customer and can manage its own
+liquidity needs. At the end of the day, the
+scorekeeping account is cleared by sweeping the
+balance to an operating account of the customer.
+A specific exemption has been provided for a
+scorekeeping account established by a bank for a
+customer who conducts transactions using the RTGS
+system. A bank, or any financial institution which
+operates an ESA with the RBA, may apply to the SRO
+for certificates of approval designating scorekeeping
+accounts to be exempt accounts. This exemption is
+found in Regulation 8(1)(u).
+Management information systems for RTGS
+transactions
+Other banks will record all RTGS transactions for all
+customers for a single day in a general ledger
+account or a management information system. From
+the recording of these transactions, the bank is able
+to ascertain a customer’s credit position at any time
+during the day. At the end of the day, the net position
+from RTGS transactions for each customer is posted
+to an operating account of that customer.
+This ruling deals with transactions occurring under
+these latter methods of managing payments settled in
+real time under RTGS.
+This ruling concerns credit entries recorded in a
+management information system kept by a financial
+institution which settles high value payments through
+its ESA with the RBA under RTGS. It is the view of the
+SRO that such credit entries are not receipts by the
+financial institution which keeps the system for the
+purposes of the Act provided that:
+• they are made for the purpose of monitoring the
+financial institution’s credit exposure to customers
+conducting transactions under RTGS and
+managing its liquidity; and
+• each credit entry records a customer’s transaction
+initiated through RITS, Austraclear or SWIFT/PDS,
+• at the end of each day, the net result of each
+customer’s RTGS transactions are recorded in an
+operating account of that customer kept by the
+financial institution.
+The end of day posting of the customer’s net RTGS
+transactions to an operating account does comprise a
+receipt for which duty may be payable under the Act.
+Liability of account holders which are registered
+financial institutions.
+Where the customer is itself a registered financial
+institution, it will be able to receive the end of day
+posting of its net RTGS transactions to a special
+account (exempt bank account). A net credit balance
+posted to a special account is an exempt receipt by the
+financial institution which keeps the account. However,
+this entry represents income received by its customer,
+amounts received on behalf of the customer’s own
+account holders, or both. Accordingly, the customer, as
+a registered financial institution, is required to pay FID
+on the dutiable components of its own income and on
+amounts subsequently credited to non-exempt accounts
+kept for its own customers.
+Please note that rulings do not have the force of law.
+Each decision made by the State Revenue Office is
+made on the merits of each individual case having
+regard to any relevant ruling. All rulings must be read
+subject to Revenue Ruling GEN.01.
+Commissioner of State Revenue
+December 1998
+ON THE MOVE

@@ -1,0 +1,260 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/ANZCompuLawJl/2021/14.html
+Scraped: 2025-11-17 14:13:51
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Hartridge, Samuel --- "Understrength: The state of private sector privacy law enforcement in Australia" [2021] ANZCompuLawJl 14; (2021) 93 Computers & Law 54
+Understrength: The state of private sector privacy law enforcement in Australia
+Understrength: The state of
+private sector privacy law enforcement in Australia
+Samuel Hartridge
+31 October 2020
+This article discusses enforcement of the
+) by the Office of the Australian Privacy Commissioner
+) in contrast to two recent regulatory actions in Europe. It argues
+that a combination of factors means that the OAIC’s enforcement
+capabilities are understrength and therefore insufficiently protect the privacy
+of individuals in Australia.
+Recent regulatory action
+In Europe, privacy regulators are sending clear signals that companies need
+to take collection, use and disclosure of personal information
+seriously. On 16
+October, the UK’s Information Commissioner’s
+) fined British Airways A$36 million (£20 million)
+for an inadequate response to a cyber-security
+This comes on the back of
+a A$57 million (€35 million) fine issued to clothing retailer
+H&M by the Hamburg Data Protection
+Commissioner.
+This fine – the
+second highest ever at the time – was despite the Hamburg Commissioner
+saying that H&M’s response
+was ‘an unprecedented acknowledgement
+of corporate responsibility following a data protection
+In June 2020, the Commonwealth Information Commissioner also handed down
+determinations relating to privacy breaches. On 11 September,
+Information Commissioner made an order for $2,500 in
+On 2 September the
+Commissioner made an order for
+included an
+order for aggravated damages.
+This raises the question of why there is such a stark disparity between
+Australian and European privacy law enforcement action.
+Apples and Oranges
+First it should be noted that the comparison is somewhat unfair – the
+decisions made in Europe related to GDPR violations that
+affected many more
+individuals. The OAIC investigations each had only one complainant, whereas the
+ICO investigation related to over
+400 000 individuals and the H&M
+investigation involved highly detailed dossiers on several hundred employees.
+But this just raises
+another question –
+why is the OAIC not
+pursuing large companies for violating privacy law?
+Damages or fines
+, the Information Commissioner can make a
+‘determination’ that an organisation has interfered with the privacy
+of individuals.
+Such a determination can include an order to pay monetary
+compensation to those individuals. The
+also provides for
+‘civil penalties’ – i.e. fines – to be imposed where an
+organisation has either repeatedly
+violated individual’s privacy or
+engaged in a serious violation of
+Damages for interfering with privacy
+The Information Commissioner determinations referred to above included orders
+for damages. However, these orders provided for relatively
+small amounts to be
+paid to the complainants. These amounts pale in comparison to the amounts of
+compensation that are being paid
+in Europe under the GDPR. Part of the reason
+for this lies in the principles that are applied in assessing damages for
+breaches of
+. The case of
+Rummery and Federal Privacy
+Commissioner
+established
+• where a complaint is substantiated and loss or damage is suffered,
+the legislation contemplates some form of redress in the
+ordinary course;
+awards should be restrained
+but not minimal;
+• in measuring compensation, the principles of damages applied in tort
+law will assist, although the ultimate guide is the words
+of the statute;
+• compensation should be assessed having regard to the
+complainant’s reaction and not to the perceived reaction of the
+of the community or of a reasonable person in similar circumstances.
+The upshot of these principles – the second one in particular –
+is individuals do not receive large amounts of compensation
+for privacy
+violations. This disincentivises the protection personal information. The effect
+of such low awards is that the consequences
+of getting caught are lower than the
+costs of putting in place preventive technical and organisational measures.
+Enforcement policy and resourcing
+The consequences of getting caught are further lowered by the approach that
+the OAIC takes in responding to privacy complaints. First,
+there is a statutory
+obligation when investigating a complaint, to make a reasonable attempt to
+conciliate the complaint.
+this, the OAIC’s ‘preferred regulatory approach ... is to work with
+entities to facilitate legal and best practice
+compliance.’
+In other words,
+it does not take a robust approach to dealing with inferences with privacy.
+This focus is reflected in the relatively small amount of Commissioner
+decisions dealing with Privacy as opposed to the other part
+of the OAIC’s
+work – freedom of information. As of 17 October 2020, the Commissioner has
+handed down 53 determinations
+this year. Only seven of these have related to
+OAIC Enforcement is also being hampered by funding constraints. Recently it
+was revealed that
+the agency failed to achieve seven of its eight performance goals for the
+2019-20 financial year, heightening fears that it is not
+adequately resourced to
+conduct its important role.
+The effect of this is that investigations into complaints are not able to be
+completed on a timely basis. Moreover, the OAIC is less
+able to initiate
+investigations on its own initiative. Accordingly, the likelihood of being
+caught violating privacy is also low.
+It is also important to note that the
+first Australian class action flowing from a privacy violation was
+covered by state legislation,
+and the matter settled for an undisclosed
+What about fines?
+So far, this article has focused on compensation. Another aspect of the OAICs
+enforcement powers are civil penalties. As noted above,
+civil penalties can only
+be issued if there is a repeated violation or the violation is serious enough to
+warrant such penalties.
+To date, there have been no civil penalties issued for
+serious or repeated violations of privacy. However, this may change soon.
+Commissioner is currently applying to the Federal
+for civil penalty
+orders against Facebook for breaching the privacy of 300,000 users in relation
+to data harvesting by Cambridge
+This matter is still in the pre-trial stage, and it is unlikely that there
+will be judgment this year. That means that there will
+five years between the initial disclosure of the misconduct and
+any penalty. Thus, the civil penalty process is slow and, in light
+of the fact
+that it involves court proceedings, costly. Compare the H&M breach which was
+discovered in October 2019 and where
+the fine was issued in October 2020. The
+British Airways breach to fine timeframe – June 2018 to 16 October 2020
+also considerably shorter than the OAIC’s Facebook matter.
+Reform stalled
+In March 2019, the Federal Attorney-General and Communication Minister
+announced proposed reforms to federal privacy law. The reforms
+Increase penalties ... from the current maximum penalty of $2.1 million for
+serious or repeated breaches to $10 million or three times
+the value of any
+benefit obtained through the misuse of information or 10 per cent of a
+company’s annual domestic turnover
+– whichever is the greater.
+Provide [the OAIC] with new infringement notice powers backed by new
+penalties of up to $63,000 for bodies corporate and $12,600 for
+individuals for
+failure to cooperate with efforts to resolve minor
+There was also an:
+additional $25 million [allocated to the OAIC] over three years to give it
+the resources it needs to investigate and respond to breaches
+individuals’ privacy and oversee the online privacy
+Notwithstanding this additional funding, as noted above, the OAIC is still
+underfunded to the point that it is unable to meet its
+key performance
+indicators.
+Legislation to give effect to these reforms was to be drafted in the second
+half of 2019. These reforms seem to have been subsumed
+into the Federal
+Government’s December 2019
+to the ACCC
+Digital Platforms Inquiry.
+response mapped out comprehensive changes to federal privacy law to bring it
+into closer alignment with external jurisdictions
+such as the EU and it’s
+GDPR. As of the time of writing, this process seems to have stalled; no draft
+legislation has yet been
+released as yet.
+For the time being, Australian privacy law environment is characterised by a
+limited ability to recover under the
+, a conciliatory enforcement
+policy and an under-resourced regulator. In response to this, we have seen the
+ACCC and ASIC have taken
+up the mantel by taking action for privacy breaches.
+The ACCC recently obtained a A$1.4 million civil penalty
+against a heath-tech
+company for misleading and deceptive conducted relating to its handling of
+personal information and ASIC is
+currently pursuing a similar order
+against an Australian Financial Services Licence holder for failing to take
+adequate measures
+to protect information it held from a
+cyberattack.
+Information
+Commissioner’s Office, British Airways COM0783542 (Penalty Notice, 16
+October 2020).
+European Data Protection Board,
+‘Hamburg Commissioner Fines H&M 35.3 Million Euro for Data Protection
+Violations in Service
+Centre’ (Media Release, 2 October 2020).
+VQ v Secretary to the
+Department of Home Affairs (Privacy)
+[2020] AICmr 49.
+VN v VM (Privacy)
+Rummery v Federal Privacy
+Commissioner and Anor
+[2004] AATA 1221.
+Office of the Australian
+Information Commissioner,
+(Policy, May
+Denham Sadler,
+‘Privacy office is still ‘severely underfunded’’,
+InnovationAus
+(13 October 2020)
+<https://www.innovationaus.com/privacy-office-is-still-severelyunderfunded>.
+Evans v Health
+Administration Corporation
+[2019] NSWSC 1781.
+Information Commissioner, Australian Information Commissioner v Facebook Inc
+, Notice of Filing (NSD246/2020, 9 March 2020).
+Nicholas Confessore,
+‘Cambridge Analytica and Facebook: The Scandal and the Fallout So
+New York Times
+(4 April 2018)
+<https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html>.
+Attorney-General,
+‘Tougher Penalties to Keep Australians Safe Online’ (Media Release,
+9 March 2019).
+Australian Government,
+Government Response and Implementation Roadmap for the Digital Platforms
+(Government Response, 12 December 2019).
+Australian Competition &
+Consumer Commission,
+Digital Platforms Inquiry
+(Final Report, 26 July
+Australian Competition
+and Consumer Commission v HealthEngine Pty Ltd
+[2020] FCA 1203.
+Concise Statement filed by
+Australian Securities and Investments Commission v RI Advice Group
+Pty Ltd (ACN 001 774 125)
+(VID556/2020, 21 August 2020).
+Print (pretty)
+Print (eco-friendly)
+RTF format (81.3 KB)
+PDF format (1.09 MB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

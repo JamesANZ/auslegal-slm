@@ -1,0 +1,1641 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/DTLJ/2003/2.html
+Scraped: 2025-11-17 14:54:42
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Padget, Luke --- "Computer Programs and Copyright: An Australian Perspective" [2003] DigTechLawJl 2; (2003) 4(1) Digital Technology Law Journal 2
+Programs and Copyright: An
+Australian Perspective
+Student Murdoch University
+Introduction
+1. The Act of Anne
+1709 introduced the first form of copyright protection,
+being “An Act for the Encouragement of Learning,
+Copies of Printed Books in Authors or Purchasers of Such Copies, during
+therein Mentioned.”
+The Act of Anne provided for the
+protection of printed material to prevent authors and their families
+from ruin, and for the "encouragement
+of learned men to compose and
+write useful books". Thus, commercial incentive and protection in
+literary works was
+the cornerstone of copyright that the expression
+of ideas increases and enriches the stock of human knowledge.
+characteristics of a work. For example, in Australia there is a split
+protection scheme given to designs; designs are considered artistic
+works and have
+ornamental and functional characteristics. To
+protect functional
+characteristics, the design must be registered under the
+1906 (Cth). However, the
+) protects only ornamental
+contrast to designs, the function and expression of computer programs
+are arguably inseparable and yet they enjoy protection as literary
+This has lead to debate over two competing principles:
+1) to ensure
+authors (in this case computer programmers) have their labour protected
+and to maintain economic incentive for innovation;
+and 2) to ensure
+that there is not a monopoly over functional objects and
+5. This paper
+discusses the
+protection of
+computer programs. It begins by discussing what constitutes a computer
+program and how computer programs are defined
+in case law and
+legislation. The paper analyses the impact of legislative protection
+measures by examining Australian, United States
+(US) and United Kingdom
+(UK) approaches to computer program
+protection.
+Computer Programs and Legal
+Development
+Computer Programs
+Computer programs
+consist of program text and behaviour and therefore have literal and
+non-literal components. The literal component
+is called source code or
+object code and is the subject of copyright. Source code is composed of
+collection of routines and sub-routines
+(algorithms) written in the
+form of a set of instructions, which serves as a programmer's
+“architectural blueprint”.
+Through a process called compilation, source
+code is converted into object code so that the end user has as little
+information as
+possible about the details of the architecture of the
+program to prevent copying. Almost all computer programs
+are distributed in
+object code and not in source code. Object code is
+the machine- readable information used to bring about a certain result
+or behaviour.
+The text and behaviour components of a computer program
+are generally independent such that the behaviour of two programs can
+identical from completely different code and code structure.
+value of a program lies in its behaviour.
+That is, it exists as a machine or utility for the performance of a
+useful result. Source
+code that does not serve to map behaviour
+has arguably no use. If there
+is no instructional value and no inherent aesthetic value one may argue
+that it is not
+– there is no
+or form. This argument also applies to object code. There is further
+that as object
+code is a predominantly machine-readable form of
+information consisting of a binary language system, it cannot be
+considered literary
+as it does not have value in its expression or
+form. Arguably, this is an antiquated interpretation of a literary work
+age of rapid technological advancement one must dehumanise
+notions of literature at least where intellectual property protection
+However, computer programs should not have to be crammed on either the
+literary or non-literary shelf. Programs are machines
+in the form of
+text (or perhaps more suitably
+labelled as code). Programs act like any other machine consisting of
+(algorithms) and
+“wheels” (data
+and may be added to other machines to perform specific results. They
+assembled and disassembled, modified and made interoperable with
+machines both real and virtual. At a fundamental level, code
+textual, is in fact closer to a material that may be used to construct
+machines. In terms of classification a computer program
+by its nature and should not be classified by its
+medium of construction. They are virtual machines.
+Development of Multilateral
+Computer program protection has been approached under two mutually
+exclusive legal schemes: copyrights and patents. Copyright protection
+in the international arena developed under the Berne
+Convention for the Protection of Literary and Artistic Works
+(“Berne Convention”),
+whereas patent rights developed
+under the Paris Convention for the
+Protection of Industrial Property (“Paris
+Convention”).
+Convention has developed to protect literary
+and artistic works and audio and visual expressions. Holders of
+in literary and artistic works have exclusive rights to
+translate, adapt, communicate, perform publicly and recite their
+11. Computer
+software is a relatively
+recent creation and has been notably absent from development by the
+Berne Convention. Instead,
+in parallel on a national basis. One of the earliest
+in the US in the 1960’s.
+were two separate areas of
+reasoning for questioning the suitability of copyright protection.
+there was uncertainty
+as to the inherent nature of a computer program
+that starkly contrasts with traditional “literary”
+there was a general conflict between ensuring economic
+incentive for computer programmers to develop software and not
+monopolising
+functional characteristics of programming and programming
+language. A computer program is a utility-based creation with
+in its function or the result it achieves. As a program
+exists in a
+dual component form of text and behaviour it falls
+purview of patent and copyright regimes.
+In response to
+a lack of development throu gh the Berne Convention and a growing need
+for a suitable regulatory scheme, the World
+Intellectual Property
+Organisation
+(“WIPO”) developed a
+sui generis
+of protection for computer programs. Countries such as France enacted
+legislation using the WIPO form of protection.
+The US and the European Union
+both rejected the WIPO protection for computer programs, instead opting
+to retain protection
+under the traditional copyright guise
+of “literary
+work”. Both
+source and object codes were included for protection as literary
+Due to a lack of sanctions for noncompliance, US and EU
+interests became dissatisfied with the WIPO and the Berne Convention
+The view of the US copyright industry was that the national
+laws of developing countries were inadequate or not enforceable, and
+the limited
+agreement and signatories to the Universal Copyright Convention
+diminished the effectiveness of the international protection
+WIPO and the Berne Convention. Further, there was a lac k of dispute
+resolution mechanisms in place to remedy
+international level.
+Under the Berne Convention, disputes over the interpretation or
+application of its provisions are submitted to the International
+Australia both governmental
+and non-governmental commentators voiced concerns about including
+computer programs as literary
+works. This prompted the Copyright Law Review Committee’s
+Report on Computer Software Protection
+recommended that computer programs should remain literary works.
+Interestingly,
+it noted a preference for a
+sui generis
+for copyright protection of computer software but acknowledged the
+growing international recognition for computer programs
+as literary
+works. Ultimately, US-led trade related pressure saw an end to the
+development of
+sui generis
+protection for computer
+GATT and the TRIPs AGREEMENT
+A lack of faith
+in the WIPO and Berne Convention solutions to protection of computer
+software motivated the US and other members
+of the Organisation for
+Cooperation and Development (“OECD”) to seek
+alternative
+multilateral forms of protection
+through trade relations. The
+development of intellectual property as a valuable commodity warra nted
+protection as
+an article of
+international trade under the General Agreement on
+Tariffs and Trade (“GATT”).
+Dissatisfaction with global protection offered for intellectual
+property rights – in particular
+enforcement of rights and dispute
+resolutions mechanisms –
+prompted the negotiation of a suitable scheme at the Uruguay Round
+negotiations.
+This resulted in the Agreement on Trade Related Aspect of Intellectual
+Property Rights (“TRIPS”).
+The TRIPS agreement, through appropriate enforcement and resolution
+machinery, provides protection of intellectual property rights
+specifically,
+computer programs.
+Expressly provided in Article 10(1) of the
+TRIPS agreement is that: “Computer programs, whether in
+object code, shall
+be protected as literary works under the Berne
+Convention of
+The TRIPS agreement effectively placed
+computer programs on the library shelf next to books and other
+writings. In essence, the
+TRIPS drafters defined computer programs
+pre -existing regulatory scheme for works of a separate nature. This
+inconsistency in computer copyright protection.
+Judicial Systems Interpreted Legislation Derived from
+Introduction
+Prior to TRIPS-derived legislation there were numerous cases which
+that object code was a difficult expression to define
+the copyright regime. In
+Computer Edge Pty Ltd v Apple
+Computer Inc
+Australian High Court held that copyright did not vest in object code.
+Doubts were
+also expressed at first instance in the US case
+Computer v Franklin
+that object code could be subject to
+object code was accepted as literary works.
+Yet courts still struggled to
+determine copyright infringement.
+The formation of multilateral agreements
+on computer software
+regulation and subsequent national legislation resulted in computer
+programs being protected primarily as literary
+works. In Australia,
+defines a literary
+including: “a table, or compilation, expressed in words,
+symbols and a computer program
+or compilation of computer
+refined the
+definition of ‘computer program’: “A
+computer program
+means a set of statements or instructions to
+be used directly or
+indirectly in a computer in order to bring about a certain
+In the UK, s3(1) of the
+(“CDPA”) clearly labels computer
+programs as literary works and s101 of the
+United States
+1976 (“USCA”) incorporates
+computer programs as literary works by inference.
+The definitions of
+“computer program” in the Australian and US
+legislation are identical and stem from an intention
+to comply with the
+WIPO Copyright Treaty.
+As there is no
+definition for computer programs in the CDPA, UK courts have
+considerable latitude to define
+technologies as they
+arise. However, UK drafters had to overcome the
+of “preparatory design material” by the EC software
+the scope of “computer programs”. UK drafters have
+preparatory design material as a separate class of
+literary work under
+s3(1)(c) of the CDPA. The inclusion of pre paratory design material
+recognised the labour, skill and judgment
+expended producing
+specifications, flowcharts, layouts and other materials relating to the
+design and production of computer programs.
+This inclusion traps ideas
+within expressions and runs counter to the fundamental basis copyright.
+The separation of preparatory
+design material from computer programs in
+the CDPA may mean monopolies over logical processing information are
+by judicial
+interpretation.
+Australian, US and UK Cases in
+Data Access
+Corporation v Powerflex Services Pty Ltd
+Data Access Corporation (“Data Access”) claimed
+computer program “PFXplus”
+created by Powerflex
+Services Pty Ltd (“Powerflex”)
+customise database applications infringed its copyright in its Dataflex
+program. The
+PFXplus program used 192 “reserved
+commands that the
+Dataflex program used out of a total of 254 to achieve
+function. However, the source code, and most likely the object code
+underlying each word used in the PFXplus program was
+Powerflex developed the PFXplus program through reverse engineering
+so that there would be language compatibility between
+both programs and
+there could be a smooth transition from one to the other.
+Data Access v Powerflex
+can a singular reserved word be considered a computer program for
+purposes?; and
+can a collocation of
+reserved words form a
+substantial part
+of a literary work?
+a singular reserved
+word be considered a computer program for the purposes of copyright
+protection: the separation of ideas and
+expressions
+The High Court’s answer to this first question was
+equivocally
+"no". A reserved word is usually an expression of an instruction
+as “page break” or “enter”)
+which is intended
+to cause a computer to perform a particular function
+or achieve a
+result. For example, when using word-processing software, pressing
+“enter” on a computer keyboard
+has the effect of
+cursor to a lower line. Underlying that function is a set of
+instructions in
+a separate language to
+represents that function to the user. For
+singular reserved words to receive protection they must express a
+of instructions intended either directly or indirectly (by
+conversion to
+another language or code) to cause a computer to perform
+a particular
+function or achieve a particular result.
+Essentially, a set of
+instructions must be expressed by the reserved word before and after
+conversion to another language, code
+or notation. Thus, for the word
+“enter” to receive protection as a computer program
+express a set of instructions.
+Data Access v Powerflex
+High Court concluded that each reserved word could not be the subject
+of copyright protection. However, source code underlying
+reserved words
+subject of copyright protection.
+Court stated that “it
+is the skill of the programmer in a particular language which
+determines the expression of
+the programmer in that
+High Court distinguished the expression and idea. It is the expression
+the set of instructions that may receive copyright
+protection and not
+idea in the expression of the set of instructions that drive the
+computer to
+perform the
+High Court’s decision maintained the rule that a single word
+a subject of protection.
+Data Access argued
+that each reserved word was
+a set of instructions due to the meaning and syntax of the word. The
+that the meaning and syntax was separate from the word and
+in the underlying language (source code). Further, any word or
+character could be used in association with the source code. The High
+Court noted that only the source code and not the reserved
+intended to express a logical or algorithmic relationship between the
+computer function and the physical capabilities of
+the computer.
+Court stated that the
+words were chosen so that the
+people using the program could associate the word with the function
+the computer to achieve, but for the purposes of determining what
+constitutes a computer program, the word must mean something
+computer, not the people using it.
+Essentially, this suggests
+that a literary work does not have to be "literary" to humans.
+A list or ‘collocation’ of reserved words was also
+determined not to be a computer program as it was not a set of
+instructions. The list of
+words did not independently cause a computer to perform a particular
+function. There was no interrelationship
+of the instructions with one
+“which is an expression of a logical or algorithmic
+relationship
+between an identifiable
+function and the physical capabilities of the
+Further, the High Court emphasized that the intended func tion must
+the computer and not the programmer.
+with US and UK
+Section 102(b) USCA provides “in no case does
+procedure, process, system, method of operation, concept,
+principle or discovery, regardless of the form in which it is
+explained, illustrated or embodied in such work”.
+derives from a well-settled principle that systems and their
+constituent parts,
+even when embodied in a specific pattern or word arrangement cannot be
+the subject of copyright protection.
+Section 102(b)
+USCA is replicated in part in Article 2 of the WIPO Treaty (1996):
+protection does not extend to any “idea,
+procedures, methods
+operation or mathematical concepts”.
+It appears that the
+decision in
+Data Access v Powerflex
+on the subject
+of reserved words is
+in keeping with US and multilateral trends. Australian and UK
+legislation does
+not have an equivalent
+of s102(b) USCA however copyright jurisprudence
+in Australia (for example,
+Data Access
+favours strict adherence to the idea/expression dichotomy. US and
+Australian legislation has similar conceptual conflict in that
+adherence to the
+idea/expression dichotomy necessarily involves dehumanising the
+conception of literary work. It is submitted
+that once this is done,
+all further legislative steps must separate traditional literary works
+from computer
+Computers Ltd v Barclays Mercantile Finance
+Jacob J considered US legislation and
+jurisprudence inconsistent with UK
+of s102(b) USCA and no
+definition of
+"computer program", Jacob J refused to be limited by US methodology and
+Honour chose to categorise ideas as
+and “specific” with the latter only being suitable
+through copyright.
+This approach does little to set a predictable legal guide for
+Computers Ltd v Barc lays Mercantile Finance
+still represents good law in the UK however one must note
+strict adherence to the idea/expression dichotomy appears in the WIPO
+and it is difficult to
+see UK legislators’ continuing to ignore the growing
+international
+trend towards
+scènes à faire.
+Can a collocation of
+reserved words form a ‘substantial part’ of a
+literary work? The test for infringement
+infringement of the exclusive rights of the author/ owner of literary
+works under
+provides that copyright infringement will
+occur where a ‘substantial part’ of literary work
+reproduced,
+copied without authorization of the copyright holder. In the
+UK and US the tests for infringement are also grounded in
+substantiality.
+In all three jurisdictions, the determination of
+literal copying requires a
+line by line comparison of source code to find points
+of similarity and
+is a qualitative rather than a quantitative test.
+The determination of a
+‘substantial part’ of a
+computer program has resulted in conflicting reasoning in each
+and complete renunciations of previous judgments in Australia.
+Autodesk Inc v Dyason
+(No. 1 and 2)
+a program called Widget
+C was the subject of infringement. Widget C operated in conjunction
+a simple piece of hardware called
+an AutoCAD lock. Dyason had created
+form of lock that operated in conjunction with the Widget C program,
+reacting to electronic
+challenges made by Widget C. To create the lock
+reproduced a 127 bit sequence (16 bytes) of data from the Widget C
+That data consisted of a look-up table which was not itself
+computer program as it was not a set of instructions. It was held in
+cases that the 127 bit sequence (the look-up table) was an
+‘essential and
+critical’ component of the Widget C program
+and therefore
+infringed the plaintiff's copyright.
+The High Court in
+Access v Powerflex
+reviewed its previous decision in
+likening its test for determining a 'substantial part' to a
+for’ test. But for the part taken (the look-up table)
+the Widget C program would not operate and therefore was a substantial
+High Court decided that this was unacceptable, noting
+that even 1 bit of information could be essential however this does not
+constitute a “substantial production of the human
+The High Court recognised that 1 bit of computer information is not
+original and not human
+expression. They rejected the majority
+decis ion in
+adopting instead Chief Justice Mason's dissenting judgment that a
+substantial part of a computer program is an
+‘essential’
+‘material’ feature of that program. Whether a part
+essential is determined by considering the
+originality
+The High Court held that source code was
+protected by copyright however the structure, commands and user
+interface were not. The
+High Court suggested that only literal and near
+literal components of a computer program was protected by copyright.
+The Australian
+Competition and Consumer Commission (ACCC)
+applauded the
+High Court's near literal approach, stating that it
+promoted "healthy competition"
+and had shown continued vigilance in supporting competition in the
+computer software and hardware
+US Approach
+A more refined
+process for establishing infringement has evolved in the US.
+Non-literal
+components of computer programs have been
+included for copyright
+within certain limits. The first notable case that held non-literal
+components could be the subject
+of copyright protection was
+Associates v Jaslow Dental Laboratories
+(“Whelan”).
+it was established that a computer
+program’s structure, sequence and more generally its
+organisation could be
+has received strong criticism for over-protecting ideas and
+functional aspects of programs, as any
+abstractions above the literal
+code can be regarded as merging idea and
+expression.
+39. User interfaces
+been considered subject to copyright protection
+Lotus Development Corp v Paperback Software International
+a sliding scale
+was devised
+running between “most generalised conception” and
+“most particularised” conception
+at either end of
+determine the position of the conception on the scale, one must choose
+a definition of the idea for
+the purposes of distinguishing between the
+idea and the expression.
+The second step
+was to determine the essential elements of the expression of the idea
+or inversely identify elements of expression
+not essential to every
+expression of the idea. Once identified one could ask whether those
+essential elements form a substantial
+part of the alleged copyrightable
+work. Although more refined than the
+this test for copyright protection of non-literal elements suffers
+criticism: the generalisation of a computer program
+as the expression
+of one idea rather than a composite.
+creates danger of over-protection
+of ideas and functional
+decisions suffered from
+misconceptions as to the nature of computer programs. However, in
+Associates v Altai
+) a more constructive test in
+formulating infringement was given with a better appreciation of the
+nature of a computer program and
+technology.
+The case concerned
+the creation of a compatibility sub-program known as ADAPTER contained
+job-scheduling program entitled
+CA-SCHEDULER. ADAPTER worked to make
+CA-SCHEDULER work with an operating system. The defendant developed a
+the compatibility
+sub-program called OSCAR 3.4 using 30% of
+source code. This was found to be infringing the plaintiff's copyright.
+defendant then developed OSCAR
+which contained none of the original source code of ADAPTER but
+replicated the function and interfaces (the non-literal elements).
+Walker J considered previous cases and accepted that copyright
+protection does
+extend to non-literal elements of computer programs.
+However, he
+rejected the
+conception taken in
+relied on the overall purpose of
+a computer program as expressed to determine infringement. Walker J
+distinguished interacting
+sub-routines as computer programs of
+themselves,
+each capable of containing expressions of ideas designed for an overall
+A computer program was considered as containing numerous ideas
+expressed in sub-routines that interact for an overall purpose. On
+basis of this conception Walker J formulated a 3 step
+test (“abstraction-filtration-comparison”) to
+the non-literal elements of two computer programs were
+substantially similar and whether one may infringe copyright.
+Court separated the computer program into levels of abstraction.
+Firstly, it isolated and artic ulated all structural components
+and identified each component’s function. The code, modules,
+routines and sub-routines were identified and defined,
+as well as the
+ultimate purpose of the computer program. Secondly, the Court sifted
+through each level of abstraction and filtered
+out expressions that
+unprotectable. These are expressions which: 1) involve ideas that can
+only be expressed in limited ways
+thus the expression and idea are said
+to merge; or 2) are required for reasons external to the program;
+or 3) reside in the public
+these three forms of expression are filtered from each level of
+abstraction, the Court
+considered a core of select expressions
+protected by copyright.
+Finally, the Court compared the two computer programs to determine
+whether the core
+expressions were copied
+and whether the two programs could be
+substantially similar
+. Substantial
+similarity is an assessment of
+the copied core expressions relative importance to the overall
+infringed program’s
+Subsequent cases
+have followed the Altai judgment however some courts have formulated
+different tests
+Ibcos v Barclays Mercantile Finance
+as a maverick in the international jurisprudence on
+computer program copyright protection. The case concerned the alleged
+copying of a “suite” of computer programs
+“Agriculture Dealing System” by a former partner of
+plaintiff. Jacob J held that there were 28 infringing programs in
+the defendant’s UNICORN suite out of a possible 55. The
+infringements were generally identified as program structure, sub-
+programs, and design features.
+Jacob J formulated a general test for infringement stating
+question of degree where a good guide is the notion of
+overborrowing of
+labour and judgement which went into the copyright work”.
+Justice Jacob's test relied heavily on judicial discretion rather than
+the technical nature of computer software. Jacob J chose
+not to follow
+approach due to the differences
+in the development of copyright jurisprudence in the US. In the UK
+no equivalent of s102(b)
+USCA and no rule that forbids copyright
+protection of an expression of an idea where there is only one way of
+expressing it. Jacob
+J decided that the filtration test in
+was inappropriate in the UK due to differing statutory and
+development.
+Commentators,
+however have noted that Jacob J concurred with the earlier judgment of
+that computer programs consist of varying levels of abstraction in
+comparison to traditional literary works. Both contain literal
+(source code; words) and further structure (design features; plot,
+subplot). The further levels of abstraction are noted as
+key components
+in the success of the work. Conceptually, the decision in
+compatible with
+decision related to alleged
+infringements dating from
+1986. The decision made no mention of the 1991 EC directive on
+computer software
+and alt hough representing good law is out of step
+European and International developments in software
+protection.
+Comparisons with the US and UK
+In Australia the exclusion of non-literal elements of computer programs
+from copyright protection was evident in the
+Data Access
+There has also been strong governmental support for the encouragement
+of market competition. However, the popularity for
+has gathered momentum, providing non-literal protection only for those
+elements that provide an expression of an idea that can
+be represented
+various ways and outside the public domain. As both Australian and US
+legislation have identical definitions of
+computer program and
+fundamental approaches to what is protectable under
+Australia could adopt
+a similar restrictive approach to the protection of non-literal
+elements of computer
+filtration test in
+some way to remedying the dilemma of appropriate protection. A computer
+program does not exist as a literary
+work as traditionally
+conceived in copyright law. A computer program
+consists of text and behaviour that are theoretically discrete but
+inseparable for
+the purposes of appropriate protection. Where the
+creativity of the programmer lies in the text, the productive value
+behaviour. If one restricts protection to the text then the value
+escapes without protection, giving little monetary incentive to
+programmer. If protection is extended to abstractions above the primary
+text (source code or object code), the behaviour and
+its functional
+in danger of being monopolised for the term of the copyright. In many
+software, the result or
+function can only be represented in limited
+ways and language. Thus, determining a “substantial
+of infringement will never be certain and gaps in judicial
+reasoning will always occur.
+One of the main concerns
+forwarded by industry specialists is the greatly reduced protection the
+test affords.
+By separating the elements before any comparison the Court bars from
+consideration judgment, skill and labour expended on organisation
+structural combination of core
+expressions with others defined as in the public domain, merged or
+governed by external considerations.
+Thus, the overall structure and
+substructures within a computer program are still unprotected. To offer
+any further protection would
+collapse the idea/ expression dichotomy.
+test although having merit by offering a
+theoretical
+basis for determining infringement, still leaves substantial latitude
+gaps in judicial reasoning and therefore uncertainty in assessing
+claims of infringement. It also offers a level of protection that
+unpalatable to the programming community.
+Reproduction of Computer Programs in RAM: Problems for the future?
+54. Recently, the Full
+Court of the Federal Court in
+Kabushi Kaisha Sony
+Entertainment Inc & Ors v Stevens
+No. 2) upheld on appeal that there is no reproduction of computer
+programs in the Random Access Memory (“RAM”) of
+PlayStation console
+when a game is played.
+("Sony No. 1") concerned the provisions
+introduced by the
+Digital Agenda Act
+to protect works and subject
+matter from
+counterfeiting devices.
+The second issue raised in
+the storage of a substantial part of a computer program
+in the random access memory (RAM) of a device such as the Playstation
+Gaming Console. The question raised was whether a work or substantial
+part of a work when stored in RAM is in material form. Material
+relation to a work or an adaptation of a
+work: “includes any form (whether visible or not) of storage
+from which the
+work or adaptation, or a substantial part of the work
+or adaptation can be reproduced.”
+When a program
+is loaded into RAM it arguably cannot be
+“reproduced” as envisaged
+. It can be reproduced in
+object code which is only comprehensible to humans through
+manipulation. In
+Data Access v Powerflex
+noted that such reproduction is enough for
+which introduced the definition of
+"material form". Sections 21(1A) and 21(5) of the
+clearly express that infringement will occur whether
+reproduction is
+in source or object code. Despite this, Sackville J decided that
+reproduction could be made in material form from the RAM of a
+Playstation 2
+Console. The object code could be retrieved from the
+console but could
+done so through “ordinary operation”.
+upheld the decision of Sackville J, stating: “I think it an
+unrealistic and strained construction to treat the words
+reproduced’ at the end of the definition of
+widely as to encompass ‘could
+be reproduced if an additional
+device, not supplied with the console and not yet available, were to be
+manufactured and attached
+to it’ or ‘could be
+produced if
+the RAM under consideration formed part of a future modified
+Lindgren J distinguished UK and US case law and
+legislation from that of Australia. In the UK case
+Kaisha Sony
+Computer Inc & Others v Edmunds
+the importation of a
+“mod chip” was held to contravene s296
+which provides for copyright infringement by
+means of any device or means specifically designed or adapted to
+copy-protection.
+The Mod Chip was of a similar design to the Mod Chip
+. Both Mod Chips enabled copied or counterfeit CD- ROMs
+and others from
+different regional zones to play on the Playstation 2 console.
+Sony v Edmunds
+noted that the CDPA provides
+reproduction in any
+material form includes storing the work in any medium by electronic
+is a fundamental difference to the provisions of the Australian
+and was readily
+distinguished by the majority in
+Through an historical perspective, the majority judgment in
+notes that the deeming of computer programs as literary works
+raised difficulties which arguably continue. Lindgren J offered his
+that the electronic impulses in RAM do not constitute a material form
+according ordinary English usage.
+This is the precise conception that stunts the maturation of a proper
+protection scheme for comput er programs. The dissenting judgment
+Finkelstein J usefully
+describes that nature of computer technology and RAM. This is integral
+proper formulation of protection
+as stated in
+information storage medium. The information is stored in the form of
+impulses, which does
+not lend itself
+to the traditional conception of material form.
+However, the information may be reproduced (or perhaps more
+appropriately
+to information subject to copyright protection (object
+code). There is conflict in terms of traditional copyright
+jurisprudence;
+medium (RAM and electrical impulses) of storage is not an
+as traditionally conceived, but there is no doubt as to
+whether expression (object code) can be reproduced.
+We have reached the point where copyright protection ends and circuit
+layout protection begins. A computer program stored in the
+Playstation console
+cannot in the ordinary course of operation be retrieved and so receives
+no copyright protec tion in
+Australia. It also receives no protection
+circuit layout legislation. Commentators
+have suggested
+that “it would be a foolish computer program copyright owner
+elect to store software in silicon chip
+memory, as the
+created an absolutely arbitrary distinction between software in one
+form of storage, disk or tape, and another, silicon chip.”
+this comment leads is to the conclusion that neither the
+Circuit Layouts Act
+offer protection to
+RAM stored software that cannot be "ordinarily" retrieved. The question
+remains unanswered is what
+is ordinary retrieval and how will it be
+interpreted in the future?
+The nature of fixation is discussed
+RAM stored information
+is not permanent but it may be considered 'fixed'. That is, it will not
+disappear or be removed without a
+separate action such as loading
+further information or turning off the computer. Much industry based
+machines today such as computers
+servers are seldom ever turned off
+with information being held for long periods.
+RAM stored software and the nature of computer programs in general is
+As Finkelstein J noted, there is no clear answer to the
+question whether downloading a computer program (or, more accurately,
+object code) into a console’s RAM amounts to a
+reproduction
+object code: “[w]hatever approach is taken is likely
+controversy.”
+While the final result of reproduction can infringe copyright,
+the nature with whic h we associate expression is missing. The majority
+upheld the decision that as there
+could be no
+reproduction of the computer program through the ordinary operation of
+the Playstation
+console, there was no "reproduction" as defined under
+. This decision relies upon legislative
+“material form” which serves little to reinforce
+for computer
+programs unlike those contained in the CDPA. With the rapid advancement
+of computer based technology we wil l likely
+see further cases
+issues of ordinary operation.
+infringement
+One may argue that software cases will be determined fairly by judicial
+reasoning on the facts of each case, prompting legislative
+redefine 'computer program’, ‘material
+‘ordinary operation’. This is an uncertain
+offers cold comfort to programmers who seek adequate copyright
+protection.
+Adding artificial literal components to complex
+utilitarian devices for
+the purpose of protection inevitably leads courts to challenge the
+boundaries of
+interpretation.
+Exceptions to Infringement
+and Technological Protection
+Introduction
+Australia, the US and the UK have developed exceptions to computer
+program infringement of copyright. The nature of computer programs
+an almost arbitrary distinction between the exceptions to
+infringement of computer programs as literary works and traditional
+literary works. Whereas traditional literary works such as books are
+read and comprehended macroscopically, a computer program is
+creation with hidden protectable expression (primarily the code). In
+addition, computer programs can be “locked”
+protection to both the protectable expression
+characteristics of the work.
+The only way to retrieve ideas that lie
+within the program expression is by reverse engineering. Reverse
+engineering can be performed
+in several ways, however two particular
+methods have caused
+consternation.
+testing” involves obtaining
+a computer program and studying its various behaviours then writing a
+that performs the same behaviours. A programmer may write an
+identical program with only a slim chance of having been found to
+the original program. However, one may infringe upon the
+of the original.
+Potentially more
+damaging to the programming industry is “clean room
+testing” which involves two independent
+The first stage involves a programmer or group of programmers
+identifying, listing and mapping every aspect of a computer
+behaviour. The second stage is to forward this information to a second
+independent set of programmers who write a program to perform
+behaviours mapped in the first stage. Thus, they may write a literal
+of the first program but there will be no conscious
+copying of the code
+or structure and therefore no copyright infringement.
+infringement in the US and UK
+US Approach: reverse engineering
+and fair use
+In the US there are two general provisions in the
+USCA to allow reverse engineering of computer programs
+. Section 117 USCA provides that reproduction or adaptation of a
+computer program is permissible if created for the specific purpose
+the utilisation of the original program. This provision was created to
+prevent infringement where a computer necessarily
+makes a copy of a
+in the process of installation and utilisation. Arguably, this
+provision could extend to reverse engineering
+for the purpose of using
+original program.
+67. Section 107 USCA
+states that
+reproduction or adaptation of a work, or a substantial part of the work
+interest of furthering
+knowledge will not infringe copyright.
+Section 107 provides 4 factors to
+determine whether “use” of a work is fair. The
+first factor is
+whether the use of the
+work is for a commercial or non-profit
+educational purpose; most commercial purposes are
+unless there is the element of
+criticism or review.
+The second factor require s an
+analysis of whether the work is factual or non-factual. A non-factual
+as a fictional novel
+is less likely to attract the fair use exception.
+substantiality of the part taken is the third factor. The fourth factor
+the effect of the use on the potential market or the value
+Sega Enterprises v Accolade Inc
+Atari Games Corp v Nintendo of America Inc
+the defendants reverse engineered
+the plaintiff’s game cartridges so that they could create
+compatible cartridge.
+The object code of the software devolved into
+assembly code. In both cases it was held that reverse engineering was
+fair use as the
+purpose of the use was to understand the ideas and
+functional elements of the original work in order to create a separate
+independent
+machine console compatible game cartridge. However, in the
+the defendant also copied elements of the original work to aid future
+compatibility. The Court held that future features did
+not constitute
+functions and so was not fair
+generality of the fair use exception to infringement allows
+substantial judicial freedom to determine infringement. Both
+added to the general policy
+propounded in
+protection is limited to favour 'healthy’ competition. Apart
+from the criticism already outlined in the discussion on
+Lai notes the damaging effect the decision had upon Sega’s
+licensing agreements.
+Reverse engineering of computer
+programs is generally undertaken for a commercial end unrelated to
+criticism or review. The nature
+of technology markets is somewhat
+different to that of traditional works requiring more scrutiny to avoid
+loss. Future integration
+of software and hardware components where each
+has been created by different authors and owned or licensed to
+different entities
+does not lend itself to the "market competition"
+approach espoused in
+In contrast to the US approach, the European Community
+provides a more restrictive approach to reverse engineering exceptions.
+5(3) of the EC Software Directive provides that a program user is
+entitled to
+examine a program in the ordinary course of
+operation. Article 6
+provides that decompilation of a program is permitted to obtain the
+information necessary for interoperability,
+but that information cannot
+be used to develop a substantially similar program. Sections 50A to 50C
+of the CDPA incorporate provisions of the EC Software Directive which
+Charlton states are “exhaustive and leave no room for
+concept of fair use or fair dealing in relation to computer
+codified nature of ss50A to 50C render s29 CDPA (the fair
+dealing exception) inapplicable to computer programs.
+Reverse engineerin g is acceptable if the strict criteria set out in
+met however there is little room for general defences
+of fair dealing.
+Arguably, s50B allows decompilation only for the purpose of
+interoperability at the expense of trapping ideas and
+functions within
+Australian exceptions to
+infringement
+In Australia, regimes that are more restrictive exist. Division 4A of
+reproduction of a computer program for purposes including: program
+interoperability, error correction, security testing, making
+and reproduction for normal use.
+Section 47D
+that reproduction
+or adaptation of a computer program
+made by or on behalf of the owner or licensee of a copy of the program;
+made for the purposes of obtaining
+information necessary to
+enable the owner or licensee to independently make a new program or
+to interoperate with the original program or any other
+program; and
+that information is not
+readily available from
+another source at the time; and
+made only to the extent necessary to obtain that information; and
+program created reproduces the original program only to the extent
+necessary to
+enable it to operate with the original program
+or other program; then
+reproduction is permitted.
+The inclusion of s47D ensures new original and compatible products are
+However, this
+inclusion also highlights that functional aspects of a work are
+protected and
+to gain access to these functions, one
+is required to meet an onerous
+Nonetheless, s47D allows reverse engineering (decompiling object code
+into source code) of a computer program to determine how
+program works. Section 47AB complements this section, providing that s
+47D applies to
+all literary works
+are incorporated in or
+associated with
+a computer program and essential to its effective operation. This means
+non-program data
+which is a literary work of itself such as a table,
+which is essential to the functioning of the original program may also
+be reproduced
+or adapted for the purposes of s47D.
+A problem arises where an essential table or other data, which may be
+a literary work of itself, can only be used to
+the extent that it
+enables the new program to interoperate with the original or other
+program. There is no definition of ‘interoperate’
+however the CLRC has defined this to mean “the ability of
+computer systems to exchange information and mutually to use the
+information which as been exchanged”.
+programs would have to use the
+of the literary work (for example a table). Thus, a new program could
+not independently include an essential literary work. Section
+to protect a person who reverse-engineers a computer program to create
+an independent
+competitive program where its function
+requires an essential form of
+literary work such as a table. Again, this demonstrates the impossible
+task of separating function
+and expression for the purposes of
+computer programs as literary works.
+Comparisons
+with the US and
+Section 47B(3)(a)
+provides that
+reproduction of a computer program made
+in the course of
+running a copy
+the program for the purpose of studying the ideas behind the
+program and the way in which it functions is an exc eption to
+infringement.
+It is arguable that “in the course of running a
+copy” does not extend to reverse engineering. The fact that
+exists creates some doubt that s40
+(general fair dealing exception for research and study) has any
+application.
+Section 50B(2)(a) of the CDPA suffers from similar criticism although
+differences in phrasing.
+There is no express provision in the CDPA
+for research and study of computer programs thus it may be argued that
+reverts to the
+general fair dealing exception in section 29 CDPA. In
+contrast, the US fair use exception arguably allows decompilation to
+functional aspects (algorithms) and ideas at the expense of the
+economic interests of the original programmer.
+Technological
+Protection Measures
+To ratify the
+World Intellectual Property Organisation (WIPO) treaties and to address
+threat posed by the digitisation of
+intellectual property the Federal
+Government passed the
+Digital Agenda Act
+introduced a
+revamped definition of ‘computer program’. Further,
+Digital Agenda Act
+introduced amendments
+concerning technological
+protection measures, circumvention devices and electronic rights
+information.
+79. A technological
+protection measure is
+‘a device or product, or a component incorporated into a
+process, that is
+in the ordinary course of its operation, to prevent or
+inhibit the
+infringement of copyright in a work
+subject-matter’.
+This includes a device preventing access to
+a work through encryption (an access code or key) or a copy control
+a person from copying digital works. The nature of digital
+media means that technological protection devices are easily
+circumvented.
+To combat infringement the
+Digital Agenda Act
+manufacture and general supply of circumvention devices.
+circumvention device is a device which has ‘only a limited
+commercially significant purpose or use, or no such purpose or
+other than the
+circumvention, facilitating circumvention, of an effective
+technological protection measure’.
+Personal use
+of circumvention devices, and the manufacture and supply of
+circumvention devices with independent commercial purposes
+prohibited under
+. Clearly, Parliament’s
+intention was not stifle
+Sony v Stevens No. 1
+the Judge at first
+instance offered a
+restrictive construction of the anti-circumvention protection afforded
+The Australian Competition and Consumer
+Commission (ACCC) were given leave to appear in the case to advance the
+of consumer
+welfare by strict interpretation of the protection
+provisions. The Federal Court held that the Sony Playstation 2 (PS2)
+incorporated
+protection measures did not prevent copying or access to a
+means of an access code or process as defined in the
+The recent decision in
+Sony v Stevens No. 2
+the decision in
+decision was unanimous
+on this issue, preferring to support “deterrence and
+discouragement”
+of copyright infringement over any
+post-evaluation of alleged infringement. The Court held that the PS2
+code inhibited access
+to infringing copies of Playstation games and was
+protected subject to any express exceptions.
+Millennium Copyright Act
+(DMCA) provides for exemptions for circumvention of access control
+measures in certain circumstances.
+Sections 1201(1) and (2)
+allow circumvention to achieve
+interoperability
+with other independent computer prog rams. Section 1201(3) provides for
+the information
+gathered during circumvention to be made available to
+provided that the information is
+purpose of achieving
+interoperability of an independently created computer program with
+programs to the extent it does
+not constitute infringement.
+submitted that a similar result to
+also occur in the
+US. The information gathered through circumvention must be solely for
+purposes of achieving interoperability
+independently
+which do not infringe; Stevens’ modified chip allowed
+infringement of Sony Playstation games as well as the
+foreign formatted information.
+Considerations in Australia
+The exemptions under Division 4A of the
+so a technologically protected program
+may be reproduced or adapted (with
+the use of a circumvention device or not) for the
+purposes of
+interoperability, error correction, security testing, making back-ups
+and reproduction for normal use. Where a technological
+protection measure is applied, s116A(3)(b)(vi) provides that the
+exemptions will
+not apply if the program is ‘readily available’.
+166A(4) states that a work or subject-matter will not be readily
+if it is not in a form allowing a person to exercise
+a right under
+Division 4A
+and Division 5.
+If a user buys a computer program with a protection device and that
+program has a defect or an error, a reproduction
+is permitted
+under s47E of the
+correct the error in limited circumstances.
+However, if the version of the original program is available in an
+unprotected form (without a technological protection measure)
+download or to purchase, it may be considered ‘readily
+available’ for the purposes of s166A(4). The scope of
+available’ is
+uncertain as this potentially means readily available in shops
+regionally or
+internationally, or available for
+download in any form (such as code or
+as an operating system).
+86. Sections 47D to
+impose stringent
+requirements before computer program can be reproduced or adapted.
+ss116A(3) and 116A(4) combine to create
+preconditions for the
+reproduction or
+adaptation of a protected computer program which may be impossible to
+meet with certainty.
+Permitted uses inserted by the
+(Computer Programs) Act
+(Cth) are effectively redundant
+in operation
+Digital Agenda Act
+technological
+provisions. Arguably, it is the open textured interpretation of
+‘readily available' that allows courts
+some latitude to
+outcome in harmony with the intention of the
+legislation.
+Technological protection
+measures: relevance to computer
+Gamertsfelder
+notes that when applying
+ss116A(3) and 116A(4) to the permitted use of other forms of digitally
+stored works, such as encyclopaedic
+the desired outcome is acceptable: “Parliament has drafted
+ss116A(3) and 116A(4) with traditional copyright matter in mind,
+photographs and text as opposed to computer programs. In fact, the
+‘readily available’ requirement makes perfect
+applied to traditional copyright material such as books and
+photographs.”
+This highlights the
+constant agitation suffered
+by the inclusion of c omputer programs as literary works. Applying the
+reproduction or adaptation of
+computer programs under Division 4A to general provisions introduced
+for the protection of works and
+other subject matter under s116 creates
+tension. The nature of a computer program is functional: a user needs
+to operate or ‘run’
+a computer program rather than
+comprehend it.
+This paper has discussed the
+nature of computer programs as consisting of text (source and object
+code) and behaviour. For the
+purpose of legal protection, the
+combination of behaviour and text becomes relevant. There has been
+international impetus to separate
+text and behaviour in order to
+protect copyright in computer programs. The lack of dispute resolution
+and enforceme nt mechanisms
+at an international level has prompted the
+EU and the US to seek
+an alternative trade related approach to protect intellectual property
+rights. This approach has led to
+inconsistency in protection for computer programs in the jurisdictions
+Furthermore, the dehumanisation of literary
+works for computer programs has caused a split system of protection
+programs and traditional literary works. This is apparent in
+the Australian copyright infringement exceptions, whic h are overtly
+complex and
+difficult to comply with.
+highlights the problems encountered in providing appropriate copyright
+protection for computer programs without stifling
+further development.
+The legal protection that exists for computer pro grams under the
+additional reform so that the public and the software industry have
+legal certainty as to various obligations and rights
+regarding the use
+and development of computer programs. This requires recognition of the
+nature of computer programs and creation of an
+independent
+legal regime disassociated from literary
+This first form of copy protection
+was limited
+by registration for an initial term of fourteen years.
+This paper uses
+the terms “computer program” and
+interchangeably.
+“Patent and Copyright Protection
+of Computer Programs”
+(2002) 2 IPQ 172
+Samuelson P et al,
+“A Manifesto Concerning the Legal Protection of Computer
+(1994) 94 Columbia L. Rev. 2308;
+Koo, above, n4, 188.
+Koo, D, above,
+n4, 189; Nimmer, David, "Brains and Other Paraphernalia of the Digital
+(1996) 10 Harv JL & Tech 1
+Convention first established in 1886 and is currently titled The Berne
+Convention for the Protection of Literary and Artistic
+Works (July 24
+http://www.wipo.int/clea/docs/en/wo/wo001en.htm
+The Paris Convention for the
+Protection of Industrial Property
+(March 20 1883)
+<www.wipo.int/clea/docs/en/wo/wo020en.htm> (12
+See McManis C R, “Taking
+Trips on the Information
+Superhighway: International Intellectual Property Protection and
+Computer Technology”,
+(1996) 41 VILL. L. Rev. 207
+See European Commission Directive
+91/ 250 (May 1991) on the Legal
+Protection of Computer Programs
+International
+Intellectual Property
+Alliance, US Government Trade Policy: Views of the Copyright
+Industries, (1985),
+13-14, quoted
+in Frederick M Abbott, Protecting First World Assets in
+World: Intellectual Property Negotiations in the GATT Multilateral,
+Transnat’l l, 689, 704 (1989)
+Committee, Computer Software Protection: Final Report, (Office of
+Legal Information and Publishing, A-G’s
+Dept., Canberra April
+Abbot, above, n 13, 689
+“Uruguay Round”
+was initially held in 1986 in Punta del Este (Uruguay) and was a
+of GATT members.
+For an analysis
+of the dispute resolution machinery
+provided through the TRIPS agreement see Tuan N Sarnahon,
+Dispute Settlement After the Transition and Moratorium:
+Nonviolation
+and Situation Complaints Against Developing Countries, (2000)
+Pol’y Int’l Bus, 1051; Aaron D Charfoos,
+“How Far Have We
+Come, and Where Do We Go From Here: The
+Status of Global Computer
+Protection Under the TRIPS Agreement”,
+(2002) 22 Northwestern
+Journal of International Law & Business 261
+[1986] HCA 19
+(1986) 161 CLR 171
+see also Apple
+Computer Inc v Computer
+Edge Pty Ltd
+(1983) 50 ALR 581
+This decision
+was later amended by
+454 F.Supp 812 (C3
+[1983] USCA3 1033
+714 F.2d 1240 (C3
+See also the UK case Sega
+Enterprises v Richards
+For example, Thrustcode Ltd v WW
+Computing Ltd
+[1983] FSR 502
+(Megarry VC)
+Art. 1 European
+Commission Directive 91/ 250, (May 1991)
+on the Legal Protection of Computer Programs; Art 10(1) TRIPS
+4 WIPO Copyright Treaty 1996.
+Under the USCA
+Works” are defined as works, “other than
+audiovisual works,
+expressed in words, numbers,
+or other verbal or numerical symbols or
+regardless of the nature of the material objects, such as books,
+periodicals,
+manuscripts,
+phonorecords, .lm, tapes, disks, or cards, in which they
+For further
+discussion on the protection of ancillary
+material see Bainbridge, Intellectual Property (1992), 172
+[1999] HCA 49
+(1999) 45 IPR 353
+[1999] HCA 49
+(1999) 45 IPR
+, 365 (Gleeson CJ, McHugh, Gummow
+& Hayne JJ)
+[1999] HCA 49
+(1999) 45 IPR
+, 365 (Gleeson CJ, McHugh, Gummow &
+Rule established in Exxon Corp v
+Exxon Insurance
+Consultants International
+[1982] 1 Ch 119
+[1999] HCA 49
+(1999) 45 IPR
+(Gleeson CJ, McHugh, Gummow & Hayne JJ)
+[1999] HCA 49
+(1999) 45 IPR
+(Gleeson CJ, McHugh, Gummow & Hayne JJ)
+[1999] HCA 49
+(1999) 45 IPR
+(Gleeson CJ, McHugh, Gummow & Hayne JJ)
+Baker v Seldon
+[1994] FSR 275
+[1994] FSR 275
+291 - 292 (Jacob
+Art. 2 WIPO Copyright Treaty
+(1996) and Art 9(2) TRIPS.
+Accounting Systems 2000 v CCH Australia; Ibcos Computers Ltd v Barclays
+Mercantile Finance
+[1994] FSR 275
+; Cantor Fitzgerald International v
+Tradition (UK) Ltd
+[2000] RPC 95 (Pumfrey
+[1992] HCA 2
+(1992) 173 CLR
+(1993) 176 CLR 300.
+[1999] HCA 49
+(1999) 45 IPR
+, 372 (Gleeson CJ, McHugh, Gummow
+& Hayne JJ)
+[1999] HCA 49
+(1999) 45 IPR
+, 372 referring to an article by
+Prescott, “Was Autocad Wrongly Decided?”
+14(6) EIPR 191
+[1999] HCA 49
+(1999) 45 IPR 353
+, 373 (Gleeson
+CJ, McHugh, Gummow &
+The ACCC is a Australian
+government agency given extensive
+powers to ensure fair competition and consumer protection.
+Intellectual
+Property & Competition Review Committee Interim Report (April
+In Kabushi Kaisha Sony Computer
+Entertainment Inc. v Stevens
+(26 July 2002) the ACCC were granted leave to appear amicus
+to ensure no detriment to competition and consumer welfare.
+[1986] USCA3 976
+confirmed that the structure of a record-keeping
+program could be protected through copyright:
+797 F. 2d 1234 (C3
+For example Gage,
+[1987] Wisconsin Law Review 859
+“The Copyrighta
+bility of Non-Literal Elements of Computer Programs”,
+User interfaces are those elements
+of the program used to
+communicate information to the end- user by representations of buttons
+on a computer screen.
+740 F.Supp 37
+51 (D Mass 1990)
+Keeton disregarded attempts to distinguish individual elements of the
+1-2-3 software and instead awarded protection to
+the whole user
+Paperback, above, n50.
+[1992] USCA2 1158
+982 F2d 693
+Nintendo of America 975 F.2d 832 (C Fed 1992); Sega v Accolade
+[1993] USCA9 19
+see Brown Bag Software v Symantec
+[1992] USCA9 874
+960 F.2d 1465 (C9
+“bifuricated test”
+[1994] FSR 275
+, 305-14 (Jacob J)
+[1994] FSR 275
+302 (Jacob J)
+Stone P “Lessons From America: Filtration of Functionality
+From Software
+(1997) 13(1) Computer Law & Security
+The Copyright Protection of Computer Software in the United Kingdom
+Hart 2000), 31-34
+Richardson v
+[1993] FSR 497
+discusses s102(b) USCA (Supra) stating that such
+a provision is not
+required in
+(Cth) (AUS) as “the fundamental nature of
+is that it does not protect ideas as such”.
+“Square Pegs in Round Holes”
+(1993) 4 Journal of
+Law and Information
+Science 142
+[2003] FCA 157
+(30 July 2003)
+[2002] FCA 906
+The Full Court of the Federal
+Court considered three issues
+on appeal. They rejected Sackville J’s Decision on the
+Sony’s Playstation Console did not contain a Technological
+Measure for the purposes of copyright protection
+designed to prevent or inhibit post-access infringement of copyright.
+Court held it sufficient that
+Sony’s device inhibits
+infringement by
+rendering the resulting unauthorised copies unusable. The second and
+issues were
+whether there was a reproduction of the computer programs
+Random Access Memory (“RAM”) of the PlayStation
+game is played; and whether a copy of the game is regarded as a
+“cinematograph film”, made in RAM when a game
+played. In both of
+these latter issues the Full Court Agreed with Sackville J (Finkelstein
+dissenting).
+This decision was
+made on the strength of the previous decision in APRA v Warner
+Kaisha Sony Entertainment Inc
+& Ors v Stevens
+[2003] FCAFC 157
+(30 July 2003), [170] (Lindgren J)
+http://www.austlii.edu.au/au/cases/cth/FCAFC/2003/157.html
+[2002] EWHC 45(CH)
+s296(4) of the
+CDPA 1988 states:
+“References in this section to copyright include any device
+intended to prevent or
+restrict copying of a work or to impair the
+copies made.”
+Lindgren J,
+Sony v Stevens No. 2, above, n62,
+¶168 (Lindgren
+Knight P, ‘The
+Layouts Act 1989
+delivered at the 4th Copyright Law and Practice Symposium, Sydney,
+1989; Avel Pty Ltd v Wells
+[1991] FCA 590
+(1991) 22 IPR 305.
+Sony No. 2.
+¶196 (Finkelstein J)
+Refer also to
+NEC Corporation v Intel
+Corporation 10 UAPQ 2d (1989); Stern R “Reverse Engineering
+Compatibility”
+(1994) EIPR 175.
+[1988] USCA5 922
+847 F. 2d 255
+Cir 1988) it was held that reproducing a program using aspects of
+engineering can fall within the exception of s 117(1).
+For broader
+refer to McManis “Intellectual Property Protection and
+Engineering of Computer Programs in the
+United States and the European
+(1993) 8 High Technology Law Journal 25
+first part of s107 states “Notwithstanding the provisions of
+106A, the fair use of a copyrighted work, including
+such use by
+reproduction in
+copies or phonorecords or by any other means specified by that section,
+purposes such as criticism,
+comment, news reporting, teaching
+multiple copies for classroom use), scholarship, or research, is not an
+infringement
+of copyright.
+Established in
+Sony Corporation America v
+Universal City Studios
+[1984] USSC 14
+464 US 417.
+In Campbell v
+(1994) a rap version of Roy Orbison’s “Pretty
+judged a parody and in line with First Amendment values
+released for
+commercial purposes.
+977F.2d 1510
+975 F.2d 832 (CF
+Lai, above, n58, 111
+s50A(1) states “It is not
+an infringement of copyright for a lawful user of a copy of a computer
+to make any back up
+copy of it which it is necessary for him to have
+purposes of his lawful use.” .
+s50B contains an exception to
+infringement for reverse engineering in certain
+circumstances.
+s50C provides that
+there is no infringement
+of copyright where a program is copied or adapted for the purpose of
+correction.
+However, the end use must be lawful.
+For an analysis
+ss50A – C see Lai, above, n58, 103-106, 136-139.
+“Implementation of the Software Directive in the United
+Kingdom: The
+Effects of the Copyright (Computer Programs)
+Regulations
+In Mars United
+Kingdom Ltd v Tecknowledge Ltd, June 11,
+1999, Patents Court Jacob J stated that “the European
+Community had
+clearly considered the position as to the defences and had provided a
+statutory code”, ¶17
+Lai, above,
+documented in Intellectual Property
+and Competition Review Committee Final Report, September (2000),
+CLRC, Final Report on Computer
+Software Protection
+There is no mention of
+“interoperability” in 50B
+instead the drafters chose “can be operated with”
+the program
+decompiled or with another program.
+result in Sega
+Enterprises v Accolade Inc 977F.2d 1510 (C9 1992).
+For a complete
+of the changes made, and the effects of those changes on technological
+protection measures, circumvention devices
+and electronic rights
+information , refer to Gamertsfelder L, “Digitising Copyright
+Australian Perspective”,
+(December 2001-February
+2002), 15(4)
+Commercial Law Quarterly , 3-17
+Kabushi Kaisha
+Sony Entertainment Inc
+& Ors v Stevens (Sony v Stevens)
+[2003] FCAFC 157
+¶138 (Lindgren J)
+Refer also to
+Universal City Studios Inc v
+Reimerdes, unreported, Civ 0277 (LAK), US DCt, Sth District NY, August
+states that a program can be
+reproduced or adapted
+if: (a) the reproduction or adaptation is made by, or on behalf of, the
+or licensee of the copy of the program (the original copy) used
+making the reproduction or adaptation; and (b) the reproduction
+adaptation is made for the purpose of correcting an error in the
+original copy
+that prevents it from operating (including in conjunction
+programs or
+with hardware): (i) as intended by its author; or (ii) in accordance
+any specifications or other documentation
+supplied with the original
+and (c) the reproduction or adaptation is made only to the extent
+reasonably necessary to correct
+the error referred to in paragraph (b);
+and (d) when the reproduction or adaptation is made, another copy of
+program that does
+operate as mentioned in paragraph (b) is not
+available to the
+owner or licensee within a reasonable time a t an ordinary commercial
+Gamertsfelder, above, n91, 6
+Gamertsfelder,
+above, n91,
+For example, where libraries
+reproduce or communicate journals from
+an encrypted database for other libraries:
+Print (pretty)
+Print (eco-friendly)
+No downloadable files available
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

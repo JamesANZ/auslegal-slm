@@ -1,0 +1,610 @@
+Myers v Medion Australia Pty Ltd (Interlocutory Injunction) [2025] FCA 1409 (14 November 2025)
+FEDERAL COURT OF AUSTRALIA
+Myers v Medion Australia Pty Ltd
+(Interlocutory Injunction)
+[2025] FCA 1409
+File number(s):
+VID 1458 of 2025
+Judgment of:
+Date of judgment:
+Catchwords:
+PRACTICE AND PROCEDURE
+– application
+for interlocutory injunction – Applicant seeking an order that the
+Respondent not block his mobile phone
+– Applicant informed his phone
+unable to connect to all other mobile networks – whether the
+Telecommunications (Emergency Call Service) Determination 2019
+requires that a phone be able to connect to all mobile networks to make
+emergency services call – whether arguable case
+– balance of
+convenience strongly tends against granting the injunction – application
+Legislation:
+Acts Interpretation Act 1901
+Telecommunications (Consumer Protection and Service Standards) Act
+Federal Court Rules 2011
+(Cth) r 5.08
+Australian Communications and Media Authority (Emergency Call Service
+Determination) Direction 2024
+Telecommunications (Emergency Call Service) Determination 2019
+Cases cited:
+Australian Broadcasting Corporation v
+[2006] HCA 46
+(2006) 227 CLR 57
+Davis v Wilson (Costs)
+[2025] FCA 666
+Martin & Pleasance Pty Ltd v A Nelson & Co Ltd
+[2021] FCAFC 80
+Northern Territory v Sangare
+[2019] HCA 25
+(2019) 265 CLR
+NWQR v Minister for Immigration, Citizenship, Migrant Services and
+Multicultural Affairs
+[2021] FCAFC 30
+Samsung Electronics Co Ltd v Apple Inc
+[2011] FCAFC 156
+217 FCR 238
+SZRUR v Minister for Immigration and Border Protection
+[2013] FCAFC 146
+(2013) 216 FCR 445
+General Division
+National Practice Area:
+Other Federal Jurisdiction
+Number of paragraphs:
+Date of hearing:
+Counsel for the Applicant
+The Applicant appeared in person
+Counsel for the Respondent:
+Ms R A Kelly
+Solicitor for the Respondent:
+Cooper Mills Lawyers
+VID 1458 of 2025
+MEDION AUSTRALIA PTY LTD
+DATE OF ORDER:
+THE COURT ORDERS THAT:
+Applicant’s application for interlocutory relief is refused.
+Applicant pay the Respondent’s costs of the application.
+Note: Entry of
+orders is dealt with in
+Federal Court Rules 2011
+REASONS FOR JUDGMENT
+INTRODUCTION
+Applicant has filed an originating application dated 31 October 2025
+A declaration
+that as per reg 69 of the
+Telecommunications (Emergency Call Service)
+Determination 2019
+TECS Determination 2019
+), a carriage
+service provider can cease supply of carriage services to a mobile phone only if
+it cannot access emergency call services
+via at least one carriage service
+restraining the Respondent (trading as ALDI Mobile) from ceasing supply of
+carriage service to the Applicant’s Samsung
+Galaxy J5Pro, for reason of
+reg 69 of the TECS Determination 2019.
+Applicant is also applying for an order (effectively an interlocutory
+injunction) temporarily restraining the Respondent from
+blocking the
+Applicant’s Samsung Galaxy J5Pro from its network, until the matter is
+finally determined by the Court. This application
+came before me as the general
+duty judge.
+the following reasons, the Applicant’s application for interlocutory
+relief is refused.
+The Applicant relies on an affidavit affirmed by him on 3 November 2025
+Applicant affidavit
+). The Respondent relies on an affidavit by
+Ms Shelley Davis (Head of Customer and Compliance) affirmed on
+13 November 2025 (
+Davis affidavit
+The Applicant uses a Samsung Galaxy J5 Pro phone, also known as SM-J53OY. His
+SIM card is provided by ALDI Mobile. On 24 October
+2025, he received a
+message from ALDI Mobile stating that his device “cannot call 000 on at
+least one Australian network”,
+and that “[w]e are legally required
+to network block such devices on 26/11/2025”. The Applicant says that he
+some networks to call 000, but was told by persons from the
+Respondent that his phone cannot access the Vodafone network. He sets
+affidavit his reasons for wanting to keep the particular model of phone that he
+Ms Davis states that the Respondent (
+Australian carriage service provider that supplies pre-paid mobile
+telecommunications services to retail customers in Australia
+under the ALDI
+mobile brand.
+states that MEDION operates as a “mobile virtual network operator”
+on the Telstra Wholesale Mobile Network, meaning
+that MEDION obtains wholesale
+mobile services from
+Limited, which MEDION resells to its
+states that, as a mobile virtual network operator, MEDION does not own or
+operate any telecommunications infrastructure and
+that, in Australia, mobile
+telephone networks are operated by Telstra, Optus and Vodafone. The mobile
+services that MEDION resells
+to its customers under the ALDI Mobile brand are
+supplied over the Telstra Wholesale Mobile Network which is owned and operated
+Telstra. The operation of that mobile network is carried out and controlled
+by Telstra, as the network operator.
+Ms Davis states
+that MEDION only supplies mobile phone services to its customers, and does not
+sell mobile phones. Customers are provided
+with an ALDI Mobile SIM card but must
+use their own mobile phone. MEDION does not know what make or model of mobile
+phone is being
+used by a customer unless MEDION is informed by the customer, or
+by Telstra as the mobile network operator.
+Notifications
+of emergency services issues with older Samsung models:
+attaches an email from Telstra to MEDION dated 22 October 2025, which
+states (among other things):
+user’s primary mobile network is unavailable, mobile devices are designed
+to automatically connect to another available
+mobile network to place an
+emergency services call. After some recent testing, Telstra identified some
+older Samsung mobile devices
+are not correctly connecting to the Vodafone mobile
+network when other mobile networks are unavailable. This does not affect a
+ability to call emergency services when the customer is
+connected to the Telstra Wholesale Mobile Network.
+The email stated
+that Telstra had identified a cohort of customers who would need to replace
+their Samsung devices, and would provide
+MEDION with this data. Telstra stated
+that blocking of affected Samsung devices from the Telstra Wholesale Mobile
+Network would be
+implemented on 26 November 2025.
+Telstra stated
+that MEDION should check its obligations under the TECS Determination 2019, in
+particular s 69(2), (3) and (5).
+attaches a publication about affected Samsung devices on Telstra’s webpage
+on 22 October 2025. The list of Samsung
+devices that will need to be
+replaced includes the SM-J530Y (Galaxy J5); that is, the Applicant’s
+model. There were similar
+publications on the MEDION webpage, and on the Optus
+website, which both listed the Applicant’s model of phone in the list
+affected devices. (I note that the Applicant has provided a screenshot of the
+MEDION website page with a different, shorter list,
+but the screenshot of the
+MEDION website attached to the Davis affidavit includes the Applicant’s
+Davis states that Telstra provided MEDION with a list of customers with affected
+Samsung devices on 24 October 2025. Ms Davis states
+that she is aware that
+this list included the Applicant.
+LEGISLATION
+Act – emergency call determinations:
+Telecommunications
+(Consumer Protection and Service Standards) Act 1999
+) requires the Australian Communications and Media Authority
+) to make a written determination imposing requirements on carriers,
+carriage service providers and emergency call persons in relation
+to emergency
+call services (s 147(1)). In making a determination under s 147(1),
+ACMA must have regard to the matters listed in s
+147(2), which
+(a) the objective that a carriage service provider who supplies a standard
+telephone service should provide each end-user of that
+standard telephone
+service with access, free of charge, to an emergency call service, unless the
+ACMA considers that it would be
+unreasonable for such access to be provided;
+(g) the objective that, from the perspective of an ordinary end-user of a
+standard telephone service, there appears to be a single
+national emergency call
+with a s 147 determination is mandatory, and non-compliance can attract
+civil penalties (s 148).
+Determination 2019, ss 68-69:
+The TECS Determination 2019 is made under
+s 147 of the TCPSS Act. Sections 68 and 69 of the TECS Determination 2019
+impose the following
+obligations on “carriage service providers”
+(such as MEDION) to identify whether a customer’s mobile phone can
+longer access the emergency call service (s 68), and notification
+requirements and restrictions on supply in relation to those
+68 Requirement to identify whether a current customer’s mobile phone
+can no longer access the emergency call service –
+carriage service
+A carriage service provider must use its best endeavours to promptly identify if
+a mobile phone that is accessing, or attempting
+to access, the provider’s
+own mobile network is, on or after 2 November 2024, no longer configured to
+access the emergency
+call service using both:
+(a) the provider’s own mobile network; and
+(b) if the provider’s own mobile network is unavailable,
+network of other carriage service providers who provide carriage services to the
+69 Notification requirements and restrictions on supply where a current
+customer’s mobile phone can no longer access the emergency
+call service
+– carriage service providers
+(1) This section applies if a carriage service provider has identified, on or
+after 2 November 2024, that a mobile phone of an end-user
+accessing, or attempting to access, the provider’s own mobile network is
+no longer configured to be able to access
+the emergency call service using both:
+(a) the provider’s own mobile network; and
+(b) if the provider’s own mobile network is unavailable,
+network of other carriage service providers who provide carriage services to the
+(2) The carriage service provider must, within 5 business days, notify the
+end-user that the mobile phone is no longer configured
+to be able to access the
+emergency call service and that the carriage service provider will cease supply
+of carriage services to
+the mobile phone on a date that is between 28 and 35
+days from the date of the notification.
+(3) The carriage service provider must, before ceasing supply of carriage
+services to the mobile phone, send a further two separate
+notifications to the
+end-user that the mobile phone is no longer configured to be able to access the
+emergency call service and the
+carriage service provider will cease supply of
+carriage services to the mobile phone.
+(4) The carriage service provider must cease supply of carriage services to the
+mobile phone:
+(a) no earlier than 28 days after the notification sent under subsection (2);
+(b) no later than 35 days after the notification sent under subsection (2).
+(5) In addition to the information included in a notification under subsection
+(2) and prior to the ceasing of supply of carriage
+services to the mobile phone,
+a carriage service provider must also provide information to the end-user about
+alternative mobile
+phones that are available, including information about
+alternative low cost or no cost mobile phones that can access the emergency
+service. (emphasis added)
+the notification by MEDION for the purposes of s 69(2) occurred on
+24 October 2025. That means that, if s 69 applies, MEDION
+is required
+to cease supply of carriage services to the mobile phone between 21 and
+28 November 2025, by reason of s 69(4).
+CONSIDERATION
+the Applicant procedural fairness:
+The Applicant is unrepresented. The Court
+has an overriding duty to ensure a fair trial for all parties, which means the
+take appropriate steps to ensure that an unrepresented litigant has
+sufficient information about the practice and procedure of the
+Court, so far as
+is reasonably practicable for the purpose of ensuring a fair trial: see
+SZRUR v Minister for Immigration and Border Protection
+[2013] FCAFC 146
+(2013) 216 FCR 445
+(Robertson J, with
+Allsop CJ and Mortimer J agreeing), and
+NWQR v Minister for
+Immigration, Citizenship, Migrant Services and Multicultural Affairs
+[2021] FCAFC 30
+(the Court). However, although the Court may be
+lenient in the standard of compliance which it expects from a litigant in
+that leniency does not go so far as to confer an advantage on the person
+who acts on their own behalf:
+Kumar v Minister for Immigration, Citizenship
+and Multicultural Affairs
+[2024] FCAFC 79
+(the Court).
+the Court made orders permitting the Respondent to be served by email on Tuesday
+11 November 2025: see
+Myers v Medion Australia Pty Ltd (Substituted
+[2025] FCA 1380.
+Chambers emailed the parties on
+12 November 2025, advising that the matter would be listed for case
+management on 14 November 2025,
+to seek to make timetabling orders to allow
+the application for interlocutory relief to be heard in advance of
+26 November 2025.
+At about 4:30pm on Thursday 13 November 2025, the
+Respondent filed and served its materials, being submissions of five pages and
+the Davis affidavit (which is 41 pages).
+Considerations
+of judicial economy greatly favoured dealing with the interlocutory application
+at the first case management hearing.
+The Court has power to grant relief at a
+directions hearing (including the first case management hearing): see
+Court Rules 2011
+(Cth), r 5.08(a) and (b). However, the Court would not
+do so if this would deprive the other party of a reasonable opportunity to
+present his or her case. Here, the Applicant was content for the application for
+interlocutory relief to proceed at the first case
+management hearing.
+Interlocutory
+injunction – applicable principles:
+An applicant for an interlocutory
+injunction is required to demonstrate:
+first, that he
+has a prima facie case or has raised a serious question to be tried in relation
+to the relief sought in the proceeding,
+such as to justify the grant of
+interlocutory relief pending the hearing and determination of the proceeding;
+second, that the
+balance of convenience favours the grant of the interlocutory relief
+Australian Broadcasting Corporation v O’Neill
+(2006) 227 CLR 57
+(Gleeson CJ and Crennan J), [65]
+(Gummow and Hayne JJ).
+two requirements involve related inquiries, and each should not be considered in
+isolation from the other:
+Samsung Electronics
+Co Ltd v Apple
+[2011] FCAFC 156
+; (2011) 217 FCR 238 at
+Arguable case?
+first issue is whether the Applicant has an arguable case.
+the Applicant’s phone connect to Vodafone?
+The basis on which the
+Respondent will be blocking access to its service is that the Applicant’s
+phone cannot connect to all
+the three mobile networks in Australia. For the
+following reasons, I will proceed on the basis that the Applicant’s model
+phone can connect to the Telstra and Optus networks, but not the Vodafone
+22 October 2025 email from Telstra states that Samsung SM-J53OY (Galaxy J5)
+phones do not automatically connect to the Vodafone
+network, but that these
+phones can continue to call the Telstra network: see [
+] above. The Optus website also states
+that the Applicant’s model of phone will need to be replaced. These
+documents are admissible
+as business records, and should be given weight, as
+they are made in order to give effect to statutory obligations.
+Applicant’s affidavit states that he believes he can make 000 calls on the
+Optus network (and he explains the basis of his
+belief), but he does not state
+that his phone can connect to the Vodafone network: see [
+At the hearing,
+the Applicant appeared to accept that in fact his phone cannot connect to the
+Vodafone network, but made arguments
+such as the problem was with Vodafone, not
+his device. He points out that MEDION’s website lists the attributes of
+required in a replacement device which (he says) are met by his current
+mobile phone. I am not able to rule on these technical questions
+of fact at this
+stage in the proceeding.
+Interpretation
+of ss 68, 69:
+The Applicant contends that ss 68 and 69 of the TECS
+Determination 2019
+only require that he be able to access
+other mobile network apart from his, not
+other networks. This turns
+on what is meant by the reference in s 68(b) and 69(1)(b) to a mobile phone
+no longer being configured
+to be able to access the emergency call service
+using, “if the provider’s own mobile network is unavailable, the
+carriage service providers who provide carriage
+services to the public”.
+and purpose:
+Several matters suggest that these provisions require that a
+mobile phone be able to make calls to the emergency call service using
+other mobile networks (when the provider’s own mobile network
+is unavailable).
+One indication,
+albeit not conclusive, is the text. If the Applicant were correct, then one
+might expect these provisions to refer
+to “another” carriage service
+provider, not “other carriage service providers”. It is true (as the
+argues) that a reference to the plural may include the singular (cf
+Acts Interpretation Act
+deliberate use of the plural (“carriage service providers”) favours
+the Respondent’s interpretation.
+The reference to “mobile
+network” (singular) can be explained by the fact that, although carriage
+service providers as
+a group use more than one mobile network, each carriage
+service provider uses a single network.
+significantly, the purpose of the provision – to promote reliability of
+access to emergency call services – is promoted
+by requiring that a
+person’s phone be able to connect to all mobile networks. That
+interpretation promotes the objectives in
+s 147(2)(a) and (g) of the TCPSS
+Act. Thus, there is a contrary intention for the purposes of the
+Interpretation Act
+understanding is confirmed by the Explanatory Statement to the
+Telecommunications (Emergency Call Service) Amendment Determination
+(No. 1) (which inserted ss 68 and 69), which states at p 2 that
+the purpose of the amendments “is to reduce the risk of
+an end user using
+a mobile phone that is unable to access the [Emergency Call Service]”, and
+to “improve the overall
+reliability of access to the [Emergency Call
+Service] from mobile phone devices”.
+Applicant’s
+The Applicant contends that it would not make sense to require
+that a phone be able to connect with all other mobile networks, and
+Parliament may as well mandate that people carry multiple back-up batteries, or
+provide free accessible landlines for people
+to call emergency services.
+However, it is not for the Court to rule on the wisdom of the policy of
+ss 68 and 69 of the TECS Determination
+2019. These matters do not assist in
+the construction of those provisions.
+Applicant also refers to a direction made by the Minister (the
+Communications and Media Authority (Emergency Call Service Determination)
+(Cth)), which was the impetus for the 2024 amendments
+that inserted ss 68 and 69 of the TECS Determination 2019.
+Section 6(2)
+the Direction directs that the TECS Determination 2019 “be amended to give
+effect to the following objectives”:
+(a) carriage service providers be required to identify if the mobile phone of
+an end-user requesting the supply of carriage services
+from the provider is able
+to access the emergency call service using both:
+(i) the provider’s own network; and
+(ii) the networks of other carriage service providers who provide carriage
+services to the public;
+(b) where an end-user’s mobile phone is
+unable to access
+emergency call service
+using either
+the provider’s own network
+the networks of other carriage service providers who provide carriage
+services to the public, the carriage service provider is:
+(i) to notify the end-user that the mobile phone is not able to access the
+emergency call service;
+(ii) not to supply carriage services to the end-user in connection with that
+mobile phone;
+(iii) to provide the end-user with information about alternative mobile phones
+available, including low cost or no cost mobile phones,
+which are able to access
+the emergency call service; and
+(iv) to ensure the carriage service provider’s payment assistance policy
+includes avenues for financial hardship customers
+to receive assistance to
+obtain a low cost or no cost alternative mobile phone which is able to access
+the emergency call service;
+(c) carriage service providers be required to use best endeavours to promptly
+identify if an end-user’s mobile phone to which
+carriage services are
+being provided is
+no longer able to access
+the emergency call service
+using either
+(i) the provider’s own network,
+(ii) the networks of other carriage service providers who provide carriage
+services to the public;
+(d) where an end-user’s mobile phone is no longer able to access the
+emergency call service
+using either
+the provider’s own network,
+the networks of other carriage service providers who provide carriage
+services to the public, the carriage service provider is to:
+(i) within a specified period, notify the end-user that the mobile phone is no
+longer able to access the emergency call service;
+(ii) at the end of a specified period, cease supplying carriage services to the
+end-user in connection with that mobile phone;
+(iii) provide the end-user with information about alternative mobile phones
+available, including low cost or no cost mobile phones,
+which are able to access
+the emergency call service; and
+(iv) ensure the carriage service provider’s payment assistance policy
+includes avenues for financial assistance customers
+to receive assistance to
+obtain a low cost or no cost alternative mobile phone which is able to access
+the emergency call service
+[.] (emphasis added)
+Applicant contends that
+-(d) require only that a person be able to
+access the emergency call service using either the provider’s own network,
+network of other carriage service providers; that is, it is said the
+Direction does not even require a “back up”, and
+it is sufficient if
+the person can obtain access to the emergency call service through the
+provider’s own network. However,
+it is necessary to read
+identifies the relevant category (identifying whether a
+mobile phone can access the emergency call service using
+provider’s own network and the networks of other carriage service
+providers). In that context,
+-(d) should be read as referring,
+implicitly, to whether a mobile phone is able to access the emergency call
+service through either
+the provider’s own network or (
+if that network
+is not available
+) the networks of other carriage service providers.
+Otherwise, the operation of
+-(d) would be at odds with the
+operation of
+This interpretation of the Direction is supported
+by the Explanatory Statement to the Direction, which states (at p 7):
+It is intended mobiles phones should be able to access the emergency call
+service using both the network of the provider supplying
+carriage services to
+and each other network belonging to the other providers supplying
+carriage services to the public
+. This will ensure, in the event an end user
+must use emergency call camp on functionality to access the emergency call
+service, the
+end user's call will be carried regardless of the network utilised.
+(emphasis added)
+Accordingly,
+the Direction does not assist the Applicant; to the contrary, it supports the
+interpretation of the TECS Determination
+2019 set out above.
+is not necessary to reach a concluded view on the interpretation of ss 68
+and 69 of the TECS Determination 2019 for the purposes
+of the interlocutory
+application. However, the Applicant’s case on this point is weak, at
+Balance of convenience
+second requirement for an interlocutory injunction is the balance of
+convenience.
+principles:
+Samsung Electronics
+, the Full Court said:
+assessment of harm to the plaintiff, if there is no injunction, and the
+assessment of prejudice or harm to the defendant,
+if an injunction is granted,
+is at the heart of the basket of discretionary considerations which must be
+addressed and weighed as
+part of the Court’s consideration of the balance
+of convenience and justice”: at [62]; and
+exercising that discretion, the Court is required to assess and compare the
+prejudice and hardship likely to be suffered
+by the defendant, third persons and
+the public generally if an injunction is granted, with that which is likely to
+be suffered by
+the plaintiff if no injunction is granted”: at
+These principles were affirmed in
+Martin & Pleasance Pty Ltd v
+A Nelson & Co Ltd
+[2021] FCAFC 80
+(the Court).
+of convenience strongly tends against injunction:
+I accept and adopt the
+Respondent’s submissions that the balance of convenience strongly tends
+against granting the injunction
+sought by the Applicant.
+(a) If the Applicant’s device is blocked from the Telstra mobile network
+on 26 November 2025, he will continue to be able to
+access mobile services via
+his ALDI Mobile SIM card. It is true that the SIM card will need to be inserted
+into another mobile device;
+however, MEDION has previously offered to provide
+the Applicant with a compatible device free of charge.
+(b) On the other hand, a failure to block the device
+would cause MEDION to act contrary to the TECS Determination 2019. It may also
+result in the Applicant being unable to call triple zero if the Telstra and
+Optus mobile networks are not available.
+Applicant desires to keep his current mobile phone, because it allows him to
+record calls and more recent models do not allow
+this. He states that it is
+important to him that he able to do so. This desire is in my view outweighed by
+the countervailing considerations
+above. The Applicant is still able
+to make calls and use the internet on other phones.
+MEDION also contends that it would be futile to order interlocutory relief
+against it, because Telstra is independently required
+by ss 68 and 69 of
+the TECS Determination 2019 to block service to the Applicant, because Telstra
+is also a “carriage service
+provider” in relation to the Applicant.
+It is not necessary to rule on that argument.
+weighing of the balance of convenience, combined with the weakness of the
+Applicant’s arguments, means that this is not
+an appropriate case for
+granting an interlocutory injunction. The Applicant’s application for
+interlocutory relief must therefore
+be dismissed.
+The usual rule is that costs follow the event. The Applicant stated that the
+reason he was required to bring this proceeding is that
+MEDION was unable to
+explain to the Applicant’s satisfaction why his mobile phone could not
+connect to the Vodafone network.
+He also stated that he does not have the means
+to pay any costs order. Neither of these matters is reason to depart from the
+rule on costs; in particular, the fact that a party lacks means (is
+“impecunious”) is not a reason (on grounds of futility
+or otherwise)
+not to make an order for costs against that party: see
+Davis v Wilson
+[2025] FCA 666
+(Shariff J), citing
+Territory v Sangare
+[2019] HCA 25
+(2019) 265 CLR 164
+(the Court).
+I certify that the preceding thirty-four (34)
+numbered paragraphs are a true copy of the Reasons for Judgment of the
+Honourable Justice
+Dated: 14 November 2025
+RTF format (401 KB)
+Signed PDF/A format

@@ -1,0 +1,3119 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/MelbULawRw/2025/5.html
+Scraped: 2025-11-17 15:18:24
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Glister, Jamie; Ridge, Pauline --- "The Respective Liabilities of Dishonest Fiduciaries and Their Knowing Assistants" [2025] MelbULawRw 5; (2025) 48(2) Melbourne University Law Review 436
+THE RESPECTIVE LIABILITIES OF DISHONEST FIDUCIARIES AND THEIR KNOWING ASSISTANTS
+I Introduction
+II Principles Governing the Liability Relationship of Fiduciary and Knowing Assistant
+A Introduction
+B Knowing Assistance Liability Is ‘Accessorial’ and ‘Direct’
+C Foundational Norms and Purposes
+D The Equitable Identity of the Two Liabilities
+E A Proposed Understanding of the Liability Relationship
+III Three Questions concerning the Liability Relationship of Fiduciary and Knowing Assistant
+A The Release Rule
+1 Split Elections
+2 Gain-Based Relief from the Fiduciary
+3 Recovering Gains as Compensating Loss
+C Contribution
+1 Requirements for Contribution
+2 Michael Wilson & Partners v Emmott
+3 Discussion
+4 Unequal Contribution
+IV Conclusion
+THE RESPECTIVE LIABILITIES OF DISHONEST FIDUCIARIES
+AND THEIR KNOWING ASSISTANTS
+Jamie Glister
+* and Pauline
+This article examines the relationship between fiduciary liability and
+knowing assistance liability. We first consider the question
+as one of precedent
+and principle. What can be gleaned from case law and theory as to the nature of
+the two liabilities and, therefore,
+how they should relate to each
+other? We then consider three questions concerning the
+interaction of
+fiduciary and knowing assistance liability: (a) whether the plaintiff’s
+release of one party will necessarily
+release others involved in the same breach
+of fiduciary duty; (b) whether plaintiffs can make ‘split elections’
+fiduciaries and knowing assistants (that is, recover gain-based relief
+from some defendants and compensatory relief from others);
+and (c) whether
+wrongdoing fiduciaries and knowing assistants can seek contribution from each
+other. Each issue has recently been
+considered by an intermediate Australian
+court but not in completely satisfactory ways. We show how the resolution of
+these issues
+depends upon, and will contribute to, clarification of the
+relationship of the two
+liabilities.
+I Introduction
+A trustee or other fiduciary is strictly liable for a breach of their
+equitable duties and is subject to the full range of equitable
+relief. If a
+breach of trust or fiduciary duty is egregious, someone who is not the fiduciary
+and who knowingly participates in that
+breach will also be liable to the
+beneficiary or principal: in the language of the cases, that other person must
+have ‘assist[ed]’,
+‘with knowledge’, in the
+fiduciary’s ‘dishonest and fraudulent
+That assistant is described as being a ‘constructive
+‘accountable in
+According to the High Court of Australia, liability for knowing assistance is
+‘imposed directly’ upon the assistant and
+is distinct from that of
+the fiduciary.
+Accordingly, ‘the relief that is awarded against a defaulting fiduciary
+and [their] knowing assistant will not necessarily
+coincide in either nature or
+Yet the Court also describes knowing assistance liability as
+‘accessorial’ in the sense that the elements of the liability
+to and depend on the breach of trust or fiduciary
+breach of trust or fiduciary duty is an essential element of liability for
+knowing assistance: the liability cannot be
+Yet, it is not necessary for the
+fiduciary to be held liable or even to be
+that knowing assistance is independently wrongful and generates a primary
+liability but is also inseparably linked to
+the fiduciary’s wrong.
+The ramifications of these settled propositions for the respective
+liabilities of fiduciary and knowing assistant and the relationship
+interaction of those liabilities, including the equitable relief that might be
+available, are not yet entirely clear. To what
+extent is the liability of one
+defendant affected by or dependent on the other? How are these liabilities alike
+and how do they differ?
+A complication in answering such questions is that
+despite the clear-cut legal distinction between the liabilities of fiduciary and
+knowing assistant, the actual relationship between the fiduciary and knowing
+assistant may be exceptionally close (involving a corporate
+alter ego or
+intimate partner, for instance), at arm’s length (such as in a
+professional agency relationship) or somewhere
+in between. Furthermore, in
+complex and ongoing dishonest and fraudulent schemes, the same parties may have
+been both fiduciary and
+knowing assistant at different points in the scheme and
+in relation to different (often corporate) victims of the
+In other words, the conceptual
+distinctiveness of the liabilities of fiduciary and knowing assistant is not
+necessarily reflected
+in an actual relationship between those parties. A further
+complication is that the historical precedents are difficult to interpret
+their use of the obfuscatory language of constructive trusts and trustees and
+because courts have tended not to distinguish
+between the liabilities of express
+trustees and implicated third parties (instead treating both as actual trustees
+of the original
+Our objective in this article is to clarify the interaction and relationship
+of the fiduciary and the knowing assistant’s respective
+liabilities
+— we refer to this as their ‘liability relationship’. We do
+this by first considering the question
+as one of precedent and principle (Part
+II). What can be gleaned from case law and theory as to the nature of the two
+liabilities
+and, therefore, how they should relate to each other? We then use
+our provisional understanding of the
+liability relationship to consider three questions raised in recent
+Australian cases (Part III):
+1 Whether the plaintiff’s release of one party from liability will
+necessarily release others who are involved (whether as fiduciary
+or assistant)
+in the same breach of fiduciary duty;
+2 Whether plaintiffs can make ‘split elections’ between
+fiduciaries and assistants (that is, recover gain-based relief
+defendants and compensatory relief from others); and
+3 Whether fiduciaries and assistants can seek contribution from each
+We will show how the resolution of these issues both depends upon, and will
+contribute to, a clearer understanding of the relationship
+of fiduciary and
+knowing assistance liabilities.
+This subject is important because such equitable claims and remedies continue
+to be prioritised in litigation despite there often
+being a concurrent statutory
+regulatory regime in place: indeed, a feature of leading Australian cases is a
+lack of attention given
+to associated statutory claims, which tend only to be
+mentioned briefly or not at all if the pleaded equitable claims are made
+equitable principles in fiduciary and knowing assistance liability must be
+clarified in the interests of efficient litigation
+and just outcomes for
+defendants inter se as well as for plaintiffs. This subject is also topical
+following decisions in the Supreme
+Court of New South Wales
+(‘NSWSC’) and the New South Wales Court of Appeal
+(‘NSWCA’) that highlight the unsettled
+state of the law and provide
+some clues for its principled development. In particular, three NSWCA decisions,
+Michael Wilson & Partners Ltd v Emmott
+Cassaniti v Ball
+Xiao v BCEG International
+(Australia) Pty Ltd
+prompted this article and will be considered.
+An explanation of our terminology is necessary before going further. Knowing
+assistance liability may attach to any ‘dishonest
+and fraudulent’
+‘breach of trust or breach of fiduciary duty’ whether or not the
+latter also constitutes a breach
+We avoid this cumbersome expression by using the term
+‘fiduciary’ to include ‘trustee’ and ‘breach of
+fiduciary duty’ to include breach of trust except
+where it is necessary to
+be more specific.
+‘assistant’
+to mean one who knowingly participates in a breach of fiduciary duty, but
+we note that the requisite participatory conduct encompasses persons who
+are equal participants with the fiduciary and not only those who perform a
+We focus on Australian law, with some reference to English law for
+comparison. The English dishonest assistance claim differs from
+the Australian
+knowing assistance claim in its scope and elements because it attaches to
+breach of trust or fiduciary duty and determines culpability
+according to a standard
+of dishonesty rather than
+Finally, it is worth noting that other
+equitable and common law liabilities may attach to third parties associated
+with a breach of trust or fiduciary
+We, however, are concerned only with
+knowing assistance liability.
+Principles Governing the Liability Relationship of Fiduciary and Knowing
+Introduction
+What can we glean from Australian law as to how the liabilities for breach of
+fiduciary duty and knowing assistance
+relate to each other as a
+matter of precedent and principle? Three features of the liability relationship
+particularly relevant in answering this question and are discussed in this
+Part. They concern:
+1 The High Court’s characterisation of knowing assistance liability as
+‘accessorial’ and being ‘imposed directly’
+upon knowing
+assistants;
+2 The foundational norms and purposes of the two liabilities; and
+3 The equitable identity of the two liabilities.
+Knowing Assistance
+Liability Is ‘Accessorial’ and ‘Direct’
+A paragraph in the joint judgment of Gummow ACJ, Hayne, Crennan and
+Michael Wilson & Partners Ltd v Nicholls
+Michael Wilson
+’) contains the only explicit consideration
+by the High Court of the fiduciary and assistant’s liability
+relationship.
+Their Honours rejected the argument that an assistant’s liability was
+‘no more than accessorial to the principal wrongdoing
+fiduciary]’ and was therefore confined to ‘the nature and
+extent’ of the relief obtained against the
+Instead, the Court held that
+liability to account as a constructive trustee is imposed directly upon a person
+who knowingly assists in a breach of fiduciary duty.
+The reference to the
+liability of a knowing assistant as an ‘accessorial’ liability does
+no more than recognise that
+the assistant’s liability depends upon
+establishing, among other things, that there has been a breach of fiduciary duty
+‘the relief that is awarded against a defaulting fiduciary and a knowing
+assistant will not necessarily coincide in either
+These statements and the
+cases cited to support them make clear that Australian
+law does not endorse a duplicative liability model of knowing assistance:
+the assistant does not
+the fiduciary for remedial
+the liability relates to and is grounded in the assistant’s own
+wrongdoing.
+this extent, at least, the fiduciary’s liability and the
+assistant’s liability are distinct
+and separate.
+Their Honours in
+Michael Wilson
+seemingly limited the significance of
+the ‘accessorial’ label to the fact that a breach of trust or
+fiduciary duty is
+a necessary element of knowing assistance
+However, we suggest that this
+label’s significance is more profound and that our suggestion is not
+inconsistent with their
+Honours’ understanding of knowing assistance
+liability. Knowing assistance has the same framework of elements as accessorial
+liabilities across private law: a primary wrong (the dishonest and fraudulent
+fiduciary breach), involvement in that wrong through
+(‘assistance’) and that assistance satisfying a requisite mental
+element (either actual or constructive knowledge
+as described in levels (i) to
+(iv) of the so-called
+substantive content and operation of the three elements of any accessory
+liability are usually shaped by the norms, purposes
+and history of the relevant
+primary wrong — that is, they are not identical across private
+Nevertheless, and despite their differences, accessorial liabilities in private
+law share a unique form and function: the accessory’s
+culpable involvement
+(established by the requisite conduct and mental elements) in the primary wrong
+justifies the accessory’s
+liability for the consequences of that primary
+remedies are determined by reference to the consequences of the primary wrong,
+rather than the consequences of the accessorial
+conduct, for the plaintiff and
+respectively.
+The remedies need not duplicate those available against the primary wrongdoer
+because the accessory is independently
+Nonetheless, that independent
+liability responds to the consequences of the primary
+this is consistent with the High Court’s description of knowing
+assistance in
+Michael Wilson
+So is this accessorial understanding of the liability relationship between
+fiduciary and assistant reflected in Australian law more
+generally? As will now
+be explained, support for the accessorial model just described can be found in
+cases concerning loss-based
+relief for knowing assistance; however, the picture
+is less clear in relation to gain-based relief.
+There are general assumptions in Australian law that the assistant is liable
+for losses referable to the breach of fiduciary duty
+and that this means that
+the fiduciary and assistant are liable for the same
+assumptions reflect the accessorial model described above. But it is difficult
+to find unequivocal statements to this effect,
+except in English
+It may seem odd that such a
+seemingly fundamental question has not been considered but there are some
+plausible reasons for this.
+Older cases refer to the assistant as being a
+constructive trustee in the sense that the assistant becomes an actual
+co-trustee of
+the original trust and therefore responsible for the consequences
+of the breach of that
+however, the terminology simply connotes that the assistant is subject to the
+same range of remedies as the actual trustee
+or fiduciary but is not themselves
+a trustee or fiduciary.
+Moreover, until
+recently it was assumed that equitable contribution was available as between
+fiduciary and assistant.
+This meant that
+the question of who will bear ultimate responsibility for the claimant’s
+losses could be left to the defendants,
+to resolve by resort to a contribution
+claim, rather than being left to a plaintiff who would be burdened with
+potentially difficult
+causation questions concerning which losses are
+attributable to the knowing assistance. But the availability of contribution is
+in doubt and so the need to find a principled justification for the extent
+of an assistant’s loss-based liability is more
+We suggest that the accessorial nature of knowing assistance explains why an
+assistant’s loss-based liability is assessed by
+reference to the
+consequences of the fiduciary breach rather than their
+assistance.
+knowing assistance is accessorial, then the only relevant causation inquiry
+concerns the conduct element of the claim. In our
+view, this is reflected in the
+case law. The question of law here is whether the assistant’s conduct was
+causally relevant
+primary wrong
+: did it ‘“make a
+difference” and forward or advance the primary breach or misconduct in
+If so, and assuming that
+the other elements of liability are met, the assistant is liable for the
+consequences of the primary wrong.
+A separate inquiry to determine which of
+those consequences are attributable specifically to the assistant’s
+conduct is never
+undertaken and could be challenging if it
+The current law is defensible because once the causal connection to the
+fiduciary breach is established, the combination of the assistant’s
+participation in, and knowledge of, the breach of fiduciary duty (in other
+words, their culpability) justifies the assistant being
+liable for that
+fiduciary breach.
+This is supported by the
+demanding nature of the elements of the claim: the primary wrong must be
+dishonest and fraudulent and the
+assistant must either have actual knowledge of
+it or be morally obtuse.
+To suggest that
+the assistant is only liable for losses that are referable to their assistance
+would misconceive
+the structure, function and (as we will see below) normative basis of
+the liability.
+The same reasoning applies in principle to gain-based relief: that is, the
+assistant should account for gains that are causally linked
+to the primary
+wrong, rather than those causally linked to their accessorial conduct. However,
+the limited judicial discussion on
+this point is contradictory. The leading
+authority is the 2018 High Court case of
+Order of Foresters in Victoria Friendly
+Society Ltd v Lifeplan Australia Friendly Society Ltd
+Ancient Order
+’), which confirms that gain-based relief
+is available against knowing assistants and is
+assessed according to equitable principles, rather than common law rules,
+concerning causation.
+However, in
+Ancient Order
+, the High Court was
+divided on how exactly those equitable principles would operate.
+Two of Lifeplan’s senior employees approached a competitor, Foresters,
+with a plan to develop Foresters’ business in the
+provision of prepaid
+funeral plans at the expense of Lifeplan’s existing (and successful)
+business in that area.
+Foresters accepted
+the proposal.
+The scheme was successful and
+Foresters’ prepaid funeral business increased dramatically while
+Lifeplan’s fell precipitously.
+High Court was unanimous in holding that Foresters was liable for knowing
+assistance in the Lifeplan employees’ breaches
+of fiduciary duty and must
+account for its profits.
+While Nettle J
+would have limited the account to the net present value of profits made over a
+four and a half year period,
+the other four Justices ordered Foresters to account for the full capital
+of its funeral products business.
+However, the reasoning of those four
+Justices differed.
+The plurality of Kiefel CJ, Keane and Edelman JJ focused on the connection
+between Foresters’
+and the benefit that it
+According to the plurality the first stage of the inquiry is a causal one: what
+benefit or gain has accrued to the assistant from
+their knowing
+assistance?
+Their Honours concluded that
+Foresters’ actions had resulted in the wholesale acquisition of
+Lifeplan’s business connections: the benefit that Foresters acquired
+was, quite simply, a business.
+second stage of the remedial inquiry — the ‘quantification’
+stage — the plurality noted that Foresters
+bore the onus of showing why it
+would be inequitable to order disgorgement of the full value of its funeral plan
+To do this, in the
+plurality’s view, Foresters would need to show that part of its profit had
+‘no reasonable connection’
+to its acts of knowing
+assistance.
+For the plurality, on the
+facts, Foresters could not do so.
+Consequently, the Court ordered the disgorgement of the full capital value of
+Foresters’ funeral plan business — but only
+because this was the
+resulted from Foresters’ knowing
+assistance.
+On the other hand, Gageler J reached the same result in a different way. His
+Honour said:
+The benefit or gain for which a fiduciary or knowing participant is liable to be
+ordered to account must, as a baseline requirement,
+have a causal connection to
+the fiduciary’s breach of equitable obligation. ... [T]he causal
+connection which must exist for
+a knowing participant to be liable to account
+for a benefit or gain is not between the benefit or gain and the conduct which
+constitutes
+knowing participation. To require a causal connection of that nature
+would recast
+knowing participation as a free-standing head of liability
+divorced from the
+fiduciary obligations which it is the purpose of
+equity’s imposition of liability on the knowing participant to
+This approach
+focuses on the link between the assistant’s gain and the fiduciary’s
+breach. His Honour saw this approach
+as providing the answer to Foresters’
+argument that it could only be liable for specific gains made from specific acts
+assistance (and could not therefore be liable to disgorge the full
+capital value of its funeral plan
+This difference in approach is significant for our understanding of the
+defendants’ liability relationship even though it did
+not affect the
+Ancient Order
+itself. The plurality’s approach viewed
+knowing assistance as a discrete equitable wrong being accessorial only in the
+that a dishonest and
+fraudulent breach by a fiduciary is a necessary element of the
+It contradicts the model of
+accessory liability that we outlined above. The approach of Gageler J (who
+preferred the term ‘ancillary’
+rather than
+‘accessorial’) viewed knowing assistance as being linked to the
+fiduciary’s liability and as directly
+supporting the obligations owed by
+the fiduciary.
+Both approaches are
+consistent with the High Court’s description of liability being
+‘imposed directly’ upon the
+knowing assistant in
+They are also consistent in how
+they view the second quantification stage of assessing
+However, as we explain in the next
+section, Gageler J’s approach to the initial causation stage is more
+supportive of the underlying
+rationales and purposes of the two liabilities: the
+most significant of which being to bolster protection of the fiduciary
+relationship.
+It also aligns with the traditional approach to loss-based relief
+for knowing assistance.
+But it is worth
+noting that adopting Gageler J’s approach may result in a more onerous
+gain-based liability for the assistant
+even though no difference in result was
+seen on the facts of
+Ancient Order
+Foundational Norms and Purposes
+The accessorial nature of the fiduciary or trustee’s and
+assistant’s liability relationship becomes clearer when considered
+light of the foundational norms and purposes of the respective liabilities.
+Fiduciary law and trusts law are directed to ensuring
+‘disinterested and
+undivided loyalty’ — and, where trust property is involved, high
+standards of stewardship —
+in certain relationships and legal forms that
+are considered valuable to the functioning of
+obligations are more demanding and absolute in character than the
+common law obligations that may also circumstantially
+Liability is strict, although this
+is less remarkable when assistance liability comes into play
+because the relevant trust or fiduciary breach must constitute a dishonest
+and fraudulent design and hence be
+The normative justification for knowing assistance liability as expressed in
+the case law reflects a general legal norm underpinning
+all accessorial
+liabilities that it is wrongful to knowingly interfere with the performance of
+another’s legal duties in a
+relationship protected by law through conduct
+that is causally linked to that other’s primary
+The essence of the complaint is the
+assistant’s knowing interference with the (protected and highly valued)
+trust or fiduciary
+relationship.
+The pragmatic purpose of assistance liability — to protect
+(‘enhance’) trust and fiduciary relationships —
+Trusts law, fiduciary law and knowing assistance law are all directed to the
+same end: to maintain and protect the high standards
+of conduct expected of
+trustees and fiduciaries by the provision of generous means of redress and
+through strong
+deterrence.
+Hence, the knowing assistance claim provides the plaintiff with an additional or
+alternative means of redress for the consequences
+of the primary
+also deter third parties, who deal with trustees or fiduciaries on a
+professional basis, from becoming involved in trustee
+or fiduciary wrongdoing
+and may thereby reduce the risk of trust or fiduciary
+It is also relevant that
+liability only arises in circumstances of egregious
+wrongdoing.
+all these reasons, equity takes a robust, claimant-favouring approach to both
+liabilities.
+The Equitable Identity of the Two Liabilities
+The third feature of the fiduciary and assistant’s liability
+relationship that is evident in Australian law is that these liabilities
+established according to equitable principles and method. This is symptomatic of
+a broader regard in Australian law for the ongoing
+relevance of equitable
+principles and method, albeit in a fused system these are not necessarily
+confined to equitable doctrine.
+concepts, rules and methods do not apply in equity unless they resonate with the
+relevant equitable norms, principles
+The High Court has emphasised on several occasions that equitable doctrines
+generally require close, evaluative and holistic consideration
+of facts rather
+than the application of clear and unyielding rules ‘giving rise to
+definite issues of fact readily formulated
+which, when found, automatically
+determine [the
+So, for example, a majority of Justices in
+Ancient Order
+took it for
+granted that equitable causation principles applied, although their Honours
+differed on whether the causal link should
+be between the assistant’s
+gains and their assistance or between their gains and the fiduciary breach. The
+plurality noted
+that such principles required close attention to the facts
+informed by the prophylactic character of the ‘equitable disgorgement
+principle’.
+Similarly, Gageler J
+emphasised the holistic, fact-based application of general principle rather than
+the use of fixed rules.
+Relatedly, and in contrast to the common law, equitable relief is always
+discretionary, albeit such discretion is governed by settled
+principles.
+Moreover, that relief may be shaped to fit particular facts, including through
+the imposition of terms on its
+availability.
+Hence, caution is necessary in analogising with common law forms of accessory
+liability and in the application of common law rules
+A good illustration of why the distinctiveness of Australian equity is
+important in the context of this article concerns the common-law-derived
+conceptual lens through which courts generally consider the liability
+relationship of fiduciary and assistant. Traditionally, these
+liabilities are
+characterised for remedial and other purposes as being either ‘joint and
+several’ or ‘several’.
+These concepts of liability, as well as the concept of ‘joint’
+liability, originate in the common law of
+terms, joint and several liability (solidary liability) arises where wrongdoers
+acting independently cause a plaintiff to
+suffer the same indivisible harm by
+reason of their distinct
+liability arises where wrongdoers acting independently cause a plaintiff to
+suffer different harms by reason of their distinct
+Joint liability arises where
+wrongdoers are responsible for the same
+and joint and several, liabilities involve the same loss having been caused by
+two or more wrongdoers but differ in whether
+the wrong in question is joint or
+distinct — if the wrongs in question are distinct, then the wrongdoers are
+liable for the
+full extent of the total loss both together (jointly) and
+individually
+(severally).
+However, if the wrongdoers are responsible for distinct wrongs and different
+losses, then they are severally liable for the separate
+harms caused by their
+own distinct wrongs.
+In our view, the question of whether fiduciaries and their assistants are
+jointly and severally, or severally, liable for losses and
+gains resulting from
+the fiduciary breach is not yet settled. The labels of ‘joint and
+several’ and ‘several’
+are used by judges and commentators in
+a conclusory fashion, but they are question-begging and obscure the underlying
+questions of
+principle. Traditionally, equity considered ‘constructive
+trustees’ (in the sense of persons implicated in a breach of
+trust without
+being express trustees) to be jointly and severally liable with the
+-century reasoning was that a knowing assistant became an actual
+trustee of the original trust as a consequence of their
+reasoning is inconsistent with the modern understanding of the assistant’s
+liability being independent and
+-century cases are not conclusive. The NSWCA noted recently
+that it was ‘tolerably clear’ that an assistant to a breach
+be jointly and severally liable to restore misdirected trust
+The question is also not
+settled in relation to an account of profits, although assistants are not
+generally liable for a fiduciary’s
+profits: ‘joint and several
+liability for benefits and profits is the exception,
+not the rule’.
+Uncertainties as to whether and when a fiduciary and assistant are jointly
+and severally, or severally, liable for losses and gains
+are compounded by the
+fact that the historical common law on joint and several liability and its
+consequences was illogical, led
+was often modified by
+and has been described as
+requiring significant legislative
+Hence, a large and sometimes
+inconsistent body of law surrounds these labels and concepts. This raises the
+question of whether they
+should be applied to a fiduciary and assistant. Indeed,
+the NSWCA in
+has now questioned whether the descriptors of
+joint and several and several are apt to describe
+equitable liability relationships, suggesting that ‘the position in
+equity may be much less black and white than the all-or-nothing
+favoured by
+common law’.
+In support of this
+suggestion, the Court noted that the nature of the liability relationship
+between fiduciary and assistant is conceptually
+quite different to liability
+relationships between common law co-obligors: equitable relief may be available
+on terms (which might
+differ as between the fiduciary and assistant), subject to
+defences applying to only one defendant and potentially result in different
+accounts being available against each
+Hence, the traditional (common-law-inspired) framing of questions regarding the
+liability relationship of fiduciary and assistant
+as dependent on whether
+liability is joint and several or several may be misconceived and
+A Proposed Understanding of the Liability Relationship
+Based on the discussion in this Part we propose the following principles for
+understanding the liability relationship of the fiduciary
+and knowing
+1 The assistant’s liability is grounded in
+their own culpable conduct and will not necessarily duplicate the
+fiduciary’s
+2 The assistant’s liability is accessorial in form and function. Hence,
+the assistant is liable to redress the consequences
+of the breach of trust or
+fiduciary duty;
+3 The norms and purposes of fiduciary law and knowing assistance law are
+directed to the same ends: robust and claimant-favouring
+protection of trust and
+fiduciary relationships; and
+4 The liability relationship is governed by equitable norms, principles and
+method. Resolution of specific questions concerning the
+interaction of the two
+liabilities is likely to be nuanced and fact specific. The common law concepts
+of joint and several liability
+and several liability do not necessarily
+assist and may in fact hinder an equitable inquiry.
+The second principle is inconsistent with the plurality judgment in
+concerning the assistant’s gain-based
+but it is supported by the
+case law on the assistant’s loss-based liability and by the norms and
+purposes of knowing assistance
+In all other respects, these
+principles accord with Australian law.
+With this understanding of the liability relationship in mind, we now turn to
+three specific questions raised by recent cases.
+Three Questions concerning the Liability Relationship of Fiduciary and Knowing
+The Release
+A plaintiff is not obliged to sue both the fiduciary and knowing assistant
+even where both claims are viable.
+There may be practical obstacles to suing both defendants and strategic reasons
+for why only one potential defendant is sued —
+in any event, a defendant
+may still join other parties by way of a
+cross-claim.
+With this in mind, and
+assuming that the elements of the fiduciary and knowing assistance claims are
+present in principle, what effect
+does a covenant not to sue, a release, a
+discontinuance of action, an abandonment of claim or consent to judgment by the
+in relation to a defendant fiduciary or assistant have upon the
+substantive liability of the other fiduciary or assistant
+defendants?
+This question arose in the NSWCA in
+in relation to the
+consequences for an assistant of a fiduciary’s release from
+The judgments at first
+instance and on appeal contain rich discussions of legal history, statutory
+interpretation and equitable
+concerned appeals by the principals, employees and clients
+of an accounting firm involved in a tax avoidance scheme against successful
+claims by the liquidator of the five companies used to implement the
+The accounting firm arranged for
+fictitious invoices to be raised by the claimant companies in order to create
+tax deductions for
+its clients who then paid these invoices and/or received
+equivalent payments in return from the companies, thereby laundering the
+clients’ funds.
+The claimant
+companies derived no commercial benefit from the scheme and incurred
+considerable tax liabilities.
+involved a web of legal and familial relationships between the accounting
+firm’s principals, employees and client
+participants.
+Adding to the complexity,
+the roles of the principals and employees in the scheme (as director, de facto
+director or participant)
+shifted over time and in relation to the various
+claimant companies; they acted sometimes as fiduciaries and sometimes as
+participants
+in the scheme.
+instance, most of the claimants’ directors and de facto directors were
+held to have breached fiduciary duties.
+Other principals and employees of the firm and clients who participated in the
+scheme were liable as knowing assistants in dishonest
+and fraudulent breaches of
+fiduciary duty by the respective
+Equitable compensation was
+The main ground of appeal in
+concerned whether the release
+of a fiduciary also released those who knowingly assisted that fiduciary in the
+relevant breach of
+fiduciary duty.
+of the claims against the accounting firm had been settled by the liquidator
+prior to or during the hearing at first instance
+and one claim was abandoned
+before that hearing.
+During the hearing,
+the defendants were made aware of the judgment in
+Edgewater Homes Pty Ltd v
+Edgewater Homes
+’), an unrelated NSWSC
+Edgewater Homes
+, Stevenson J held that when liabilities for breach of
+fiduciary duty and knowing assistance (or knowing receipt of trust property)
+were joint and several, a release of a knowing assistant (or knowing recipient)
+would also release the fiduciary from
+His Honour noted the
+‘vexed question’ of whether or when the liabilities in the dispute
+at hand were in fact joint and
+several but found it unnecessary to resolve that
+question because it was conceded by the applicant that those liabilities were
+and several.
+Edgewater Homes
+, several defendants in
+Re Earth Civil
+their pleadings to include a defence based on ‘the principle that release
+of a joint and several wrongdoer releases
+the concurrent
+wrongdoer’.
+In response, the
+claimants argued that liability was several only and that, therefore, the deeds
+of settlement and release did not
+release the remaining
+defendants.
+It was held by Ward CJ in Eq
+that the defendants’ liability for losses was joint and
+but that the release rule did
+In brief, her Honour reasoned
+that if the release rule had applied to equitable claims involving joint and
+several liability, it
+had been impliedly abrogated by
+Procedure Act 2005
+view was that the defence should not be followed in
+On appeal, the Court in
+independently reached the same conclusion and found that the
+defence had never applied in equity.
+There are three parts to the reasoning in
+. First, the Court
+considered the original common law rule that a release from liability of one
+jointly liable co-obligee would release
+other co-obligees and explained how the
+rule has been extended to scenarios where liability was joint
+despite that extension being illogical and unjust in
+application.
+Secondly, the Court engaged in an extensive statutory interpretation
+exercise to determine the meaning and effect of
+Procedure Act 2005
+(NSW) (which, on its terms, applies where
+‘judgment’ is obtained against a person with joint liability) and
+its predecessor,
+of which it is a consolidation,
+s 97 of the
+Supreme Court Act 1970
+(NSW). This necessitated an inquiry
+into the legislative history of those provisions and of
+(Miscellaneous Provisions) Act 1946
+(NSW), which is of the same effect
+but narrower in scope than
+Civil Procedure Act 2005
+applies only to joint tortfeasors.
+Australian Capital Territory’s legislative equivalent to
+held by the High Court in
+Thompson v Australian Capital Television Pty
+’) to have impliedly abolished the release
+rule as it applied to joint tortfeasors.
+The Court in
+found that the same reasoning applied to s 97 of
+Supreme Court Act 1970
+This was reinforced by the fact that s 97 was re-enacted in materially the same
+terms in the
+Civil Procedure Act 2005
+(NSW) after the decision in
+and by an analogous decision of the Victorian Court of Appeal in
+relation to similar
+Victorian legislation.
+In the third and final part of its reasoning, the Court considered whether
+the release rule had ever applied in equity and concluded
+that as a matter of
+authority and principle it had not: ‘there is no reason for an unjust and
+disfavoured rule at common law
+to be followed in equity, where liability is
+conceptually different, is subject to discretionary defences and is apt to be
+differently as between
+defendants’.
+In reaching its conclusion, the Court disagreed with the assumption that joint
+and several liability would necessarily attract the
+same consequences, including
+the release rule, in equity as at common law, pointing to a number of scenarios
+in which equity treated
+a release from liability differently from the common
+The Court also acknowledged that
+the case law and commentary was divided on whether the common law release rule
+applied in equity,
+but traced much of that confusion to a misreading of the 1843
+Irish decision,
+Blackwood v Borrowes
+(which concerned the effect of a trustee’s release on the liability of his
+co-trustee) that entered legal texts at
+the time and became entrenched in
+This misreading was in not recognising that, by the terms of her deed of
+release, the plaintiff in
+had accepted the breach of trust and
+taken the benefit of it (the benefit being the securities that were the subject
+of the breach).
+This was the basis of
+the decision in
+that the co-trustee who had not been released
+was not liable.
+As the Court in
+It seems plain enough that a beneficiary who had accepted, and taken the benefit
+of, conduct which is in breach of fiduciary duty
+cannot thereafter sue an
+accessory for knowing assistance in the breach. That is not because of the
+release, but because the plaintiff would be approbating
+and reprobating, or
+inconsistent stances in relation to the same wrongful
+point can be taken further: if, for example, the plaintiff acquiesces in the
+breach of a fiduciary duty, or subsequently adopts
+or ratifies that breach, it
+could be argued that the elements of the fiduciary claim are not established at
+and consequently that an essential element of knowing assistance liability
+(the fiduciary breach) is not
+The logic of the reasoning in
+applies with equal force to
+covenants not to sue,
+discontinuance of
+actions, abandonment of claims
+consent judgments, so long as the plaintiff has not adopted, ratified or
+accepted the fiduciary breach by taking any of those
+steps. These conclusions
+are consistent with our proposed understanding of the liability relationship in
+The liabilities of fiduciary and knowing assistant are grounded in
+their own culpability (they are ‘direct’ liabilities);
+release of one does not absolve the other from liability to redress the
+consequences of the fiduciary breach. This position
+promotes the norms and
+purposes of the two claims and reflects their robust and claimant-favouring
+protection of trust and fiduciary
+relationships. The only exception is where the
+plaintiff’s conduct in fact amounts to an adoption, ratification or
+of the fiduciary’s conduct. In that instance, an essential
+element of the (accessorial) knowing assistance claim — the
+fiduciary duty — is missing and therefore the assistant cannot be liable.
+demonstrates, that outcome is consistent with the equitable
+principles in this area more generally.
+Furthermore, there is sufficient discretion and flexibility built into those
+equitable principles and remedies to meet the justice
+of each case. For example,
+the terms of any arrangement between the plaintiff and the defendant who is no
+longer liable can be taken
+into account in fashioning the relief awarded against
+the remaining defendants.
+Where a plaintiff has suffered a loss and the fiduciary or the assistant (or
+both) has also made a gain from the same breach, the
+plaintiff can choose
+whether to claim an account of profits or equitable
+compensation.
+Against an individual defendant, those remedies are alternative and not
+cumulative: this means that an election must be
+reasoning here is that the rights to loss-based and gain-based remedies are
+inconsistent and hence ‘neither one may be
+enjoyed without the extinction
+The question discussed below is whether the plaintiff’s choice of remedy
+against one defendant influences the remedies that
+can be sought from others. We
+will see that plaintiffs are not required to seek the same type of remedy from
+all defendants: they
+can make ‘split’ elections so as to seek
+gain-based relief from some wrongdoers and compensatory relief from
+This is consistent with the
+nature of knowing assistance liability as being accessorial and imposed
+directly. However, we will also
+see that courts are attuned to the realities of
+cases and that relief can be appropriately shaped. In this way, the equitable
+of liability for breach of fiduciary duty and knowing assistance can be
+It is first worth highlighting that plaintiffs can make the
+election against a wrongdoing fiduciary and their assistants. A plaintiff who
+seeks equitable
+compensation from both the fiduciary and the assistant can obtain orders
+for the full amount against both, although the plaintiff will not be able to
+recover the total loss more than
+Where accounts of profits are
+sought, there is no problem in recovering the gains made by each wrongdoer.
+Ancient Order
+case, for example, Lifeplan successfully claimed the
+profits made by the fiduciaries, Woff and Corby, and those made by their knowing
+assistant, Foresters.
+The more difficult question is whether a plaintiff can elect for
+remedies from the fiduciary and the assistant. The High Court in
+envisaged this possibility when it noted that the plaintiff
+compensation from the defaulting fiduciary (who made no profit from the
+default) and an account of profits from the knowing assistant (who profited
+from his or her own
+misconduct)’.
+Club of the Clubs Pty Ltd v King Network Group Pty Ltd [No 2]
+Club of the Clubs
+’), Bergin J also allowed such a
+Gleeson, Leeming and Mitchelmore JJA referred to the
+possibility in
+The NSWCA recently examined the issue in
+, although the third
+party in that case was found to be a knowing recipient rather than a knowing
+Xiao and Chen, two directors of BCEG International Investment
+(‘BCEG’), wrongly transferred funds from BCEG to a company
+controlled, West Wyalong Marketplace (‘WWM’), to enable WWM to
+finance a property development.
+Chen were liable for $2.52 million as equitable compensation for the misapplied
+funds while WWM was liable for $2.94 million
+as an account of profits for
+knowing receipt (the latter sum was larger because the account of profits
+included an element of rental
+income and an element of capital
+NSWCA confirmed that BCEG could make this split
+There was no inconsistency in claiming compensation from the fiduciary and gains
+from the knowing recipient:
+The liability of the knowing recipient is different in nature and extent to the
+liability of the fiduciary, including that the knowing
+recipient does not owe a
+duty of loyalty to the principal. A gain-based remedy against the knowing
+recipient is not inconsistent
+with a compensation remedy against the defaulting
+appears to confirm that plaintiffs can elect for different remedies
+as between defaulting fiduciaries and liable third parties, including
+knowing assistants, two issues deserve further comment. First, whether
+plaintiffs can elect for different remedies in this
+way might depend on whether
+gain-based relief is sought from the fiduciary or from a knowing assistant.
+Secondly, there is the question
+of whether recovering profits from one defendant
+operates to reduce the compensatory liability of other defendants.
+Gain-Based Relief from
+the Fiduciary
+All of the Australian authorities that discuss the split election point
+concern equitable compensation being sought from the fiduciary
+and an account of
+profits being sought from the assistant (or a knowing recipient of trust
+property): this was the case in both
+Club of the Clubs
+and it was also the possibility envisaged by the High Court in
+Michael Wilson
+and by the NSWCA in
+It now seems clear
+that such a split election can be made. But what about the reverse position: can
+a plaintiff seek an account of
+profits from the fiduciary and equitable
+compensation from the assistant?
+A possible problem with doing so is that the plaintiff might be seen as
+adopting the fiduciary’s breach by obtaining judgment
+for an account of
+profits against that
+If the fiduciary’s breach was adopted, one of the necessary components of
+the claim against the assistant — an underlying
+fiduciary breach —
+would no longer exist.
+therefore be analytically difficult
+to seek an account of profits from the fiduciary at the same time as seeking
+equitable compensation from the
+Support for the view that taking an account of profits involves adopting the
+breach can be found in
+Neilson v Betts
+where Lord Westbury said: ‘[T]he decree of the Court below directed not
+only an inquiry as to damages, but also an
+account of profits. The two things
+are hardly reconcilable, for if you take an account of profits you condone the
+infringement.’
+The authors of
+say, in relation to accounts of profits, that the plaintiff
+‘virtually elects to affirm or adopt the acts of the wrongdoer
+done by the plaintiff’s agent, then calls upon this deemed agent to render
+an account of the profits’.
+Claimants in tracing cases have also been said to adopt or affirm the breach
+when they claim the fruits of an unauthorised investment
+On the other hand,
+was a case about patent infringement and
+the High Court has said that the basis of the liability to account for profits
+cases is different from fiduciary
+More generally, the idea that
+taking an account of profits involves condoning a breach (in particular a
+dishonest and fraudulent
+one) can be criticised as being
+artificial.
+, for example,
+Gleeson JA clearly saw accounts of profits as the means of ensuring that
+wrongdoers do not profit from their wrongful
+conduct rather than seeing them as
+condonation of that conduct.
+point is that this condonation argument may be particularly artificial in cases
+(a common fact pattern in knowing
+assistance cases) where the court often needs to decide when to
+‘stop’ the account
+and regard further gains as unconnected to the
+All of this means that, at least in the usual case of an account of profits
+being sought from a fiduciary, it would be artificial
+to see taking an account
+of profits as an adoption of the fiduciary’s breach. That being so, there
+will be no analytical problem
+in seeking equitable compensation from the
+assistant at the same time as seeking profits from the fiduciary. Additionally,
+discussed above, the NSWCA in
+rejected the argument that
+a release given to a wrongdoing fiduciary also released a knowing assistant from
+The Court clearly saw the
+release of the fiduciary as being a release of liability consequent on a breach
+rather than as a release
+of the breach itself (that latter view would have
+affected the position of third parties in that
+For these reasons, we think that split elections ought to be equally
+available both ways: plaintiffs can recover loss from a fiduciary
+and profits
+from an assistant, or vice versa. However, the point is not free from doubt and
+it should be noted that the England and
+Wales Court of Appeal recently doubted
+whether equitable compensation could be awarded against a dishonest assistant
+when the plaintiff
+had elected for an account of profits against the fiduciary.
+Hotel Portfolio II UK Ltd (in liq) v Ruhan
+, the plaintiff company
+claimed both an account of profits from its former director and equitable
+compensation from a dishonest assistant
+in the director’s
+the facts, no loss was suffered, so there could be no question of a compensatory
+award against either the fiduciary or the dishonest
+However, Newey LJ commented:
+[Where] the claimant had elected for an account of profits instead of
+compensation as against the fiduciary ... I should not have
+thought that
+compensation could be sought from the dishonest assistant. That it would not be
+possible to claim compensation from
+the dishonest assistant in such
+circumstances might, I suppose, follow simply from the need to choose between
+inconsistent remedies.
+More generally, though, it seems to me that, for there to
+be scope for a claim
+for compensation for loss from a dishonest assistant,
+the fiduciary should also be
+His Lordship had
+introduced this point by calling it ‘a further (and perhaps more
+fundamental) objection’ to the compensation
+This point was not fully
+developed, but it may be the case that English law is more supportive of the
+idea that taking an account
+of profits from a fiduciary involves adopting that
+fiduciary’s breach.
+Recovering Gains as
+Compensating Loss
+The second issue that requires discussion is whether a plaintiff who recovers
+an account of profits is thereby compensated for loss
+that they have suffered.
+Say a breach of fiduciary duty causes a loss to the plaintiff of $1 million with
+knowing assistant in that breach making profits of $2 million. Can the
+plaintiff recover $1 million from the fiduciary and $2 million
+Or would recovery of the assistant’s profits mean that the plaintiff
+was made whole such that recovering the loss from the fiduciary
+amount to double satisfaction?
+It is helpful here to remember three points: first, the liability of a
+fiduciary or knowing assistant to disgorge profits does not
+depend on the
+principal suffering any loss;
+where loss is suffered, compensatory relief is calculated in the same way
+against the fiduciary as against the assistant:
+in other words, the assistant is
+liable to compensate for the effects of the fiduciary’s breach; thirdly,
+it now seems clear
+(at least in Australia) that split elections can be made
+between fiduciaries and their assistants such that compensation can be claimed
+from some defendants and accounts of profits from
+The importance of this third
+point will be somewhat diminished if the sums recovered under an account of
+profits are seen as reducing
+or eliminating the plaintiff’s loss so that
+the relevant amounts can no longer be recovered from other defendants as
+compensation.
+Several cases suggest that the recovery of profits from one defendant reduces
+or eliminates the amount of compensation that can be
+claimed from others. In
+United Australia Ltd v Barclays Bank Ltd
+’), the House of Lords held that a plaintiff did not
+‘waive the tort’ by bringing a (gain-based) action for money
+received against one
+The plaintiff could still claim and recover damages in tort from a second
+Importantly, however, the
+damages recoverable from that second defendant would be reduced by an amount
+equivalent to any sums recovered
+from the first
+The same point can be seen
+more clearly in
+T Mahesan v Malaysia Government Officers’ Co-operative
+Housing Society Ltd
+’) where an agent received a
+bribe of M$122,000 in a transaction in which his principal also lost
+The Privy Council noted that if the briber had been sued for damages, any
+judgment against the briber would have been
+satisfied by the
+recovery of the bribe from the agent: ‘the damages are limited to the
+actual loss sustained; and if the principal
+has recovered the bribe from the
+bribed agent the actual loss he has sustained ... is reduced by that
+A similar approach was taken by Bergin J in
+Club of the Clubs
+the plaintiff was awarded (a) equitable compensation of $630,000 jointly and
+severally against the wrongdoing fiduciary and
+two knowing assistants and
+(b) an account of profits of $2.15 million against a third knowing
+However, the plaintiff was
+‘not entitled to recover [compensation] in excess of the amount awarded in
+respect of the account
+of profits against’ the third
+Put simply, recovery of the account of profits from one defendant was seen as
+extinguishing the plaintiff’s loss.
+This approach brings certain complications. For example, one effect of saying
+that profits can operate to reduce or extinguish loss
+is that the sequence of
+recovery for a plaintiff becomes very important. Profits must already have been
+recovered from one defendant
+before that recovery will operate to reduce the
+plaintiff’s loss and so work in favour of those other defendants whose
+is compensatory. To return to the example of a fiduciary being liable
+for $1 million in compensation and the assistant being liable
+for $2 million in
+profits, that fiduciary could resist enforcement of the $1 million compensation
+order on the basis that the assistant’s
+satisfaction of the $2 million
+profits order had made the plaintiff whole. But it seems doubtful that the
+assistant could resist
+enforcement of half of the $2 million profits order on a
+reverse basis. Another consequence is that questions of contribution become
+more difficult than they already are: if recovery of profits operates to reduce
+loss, is the defendant who has disgorged profits
+entitled to contribution from
+those who were liable to pay equitable
+compensation?
+It can also be argued that, in contrast to the cases discussed above, the
+recovery of profits from one defendant should
+operate to reduce the
+compensatory liability of
+was the position in
+, where we have seen that BCEG was entitled to
+the $2.94 million account of profits from WWM
+$2.52 million equitable compensation from Xiao and
+United Australia
+were distinguished by Gleeson JA on, essentially, the ground that
+the liabilities of the defendants in those cases were more closely
+, where the fiduciaries and the knowing recipient were liable
+for ‘separate and distinct wrongs’ (ie breach of fiduciary
+knowing receipt).
+Of course, the
+difficulty with basing an explanation on the defendants being liable for
+distinct wrongs is that virtually all questions
+of double satisfaction involve
+distinct wrongs — certainly those in both
+United Australia
+This is because
+questions of double satisfaction arise in the context of concurrent rather than
+joint wrongdoers.
+The question of whether recovered gains operate to reduce or eliminate loss
+has been said to turn on whether the forms of relief sought
+are of the same or
+of a different kind.
+In our view, the
+following points will be important in determining this question: the extent to
+which losses and profits are directly
+reflective of each other (ie are two sides
+of the same coin); the proximity, nature and components of the wrongs committed
+defendant; the aims and purposes of the liabilities in question; and,
+possibly, the nature of the defendants (eg where one defendant
+is a company
+controlled by other defendants).
+knowing assistance context, we can also note that a closer necessary connection
+exists between the liability of wrongdoing
+fiduciaries and their knowing
+assistants than exists between fiduciaries and knowing
+recipients.
+A knowing assistant’s liability is grounded directly in their facilitation
+of the fiduciary’s breach — we have
+seen that the compensatory
+liability of the knowing assistant is assessed according to the losses flowing
+from the fiduciary breach.
+In contrast,
+the fiduciary breach may have occurred long before the property fell into the
+hands of a knowing recipient. Moreover,
+the recipient’s compensatory
+liability is not based on the consequences of the fiduciary breach but rather on
+what they received.
+While accepting that
+it is a necessarily fact-dependent matter, we would tentatively suggest that the
+liabilities of wrongdoing fiduciaries
+and their knowing assistants are so
+interlinked that it will more commonly be appropriate to regard the recovery of
+profits from
+one defendant as reducing or eliminating the compensatory liability
+On the point of election, we have seen that plaintiffs can make the same
+election against all defendants: they can seek compensatory
+relief from all
+parties subject to double satisfaction or, alternatively, they can claim (and
+recover) accounts of profits from all
+defendants. Plaintiffs can also make
+‘split’ elections whereby gain-based relief is sought from some
+defendants and compensatory
+relief from others. However, this last point is
+qualified by the fact that the
+recovery of profits might be seen to offset the plaintiff’s loss.
+Importantly, this is all subject to the standard equitable rider that much
+depends on the particular facts of a
+have argued above, equitable relief in this area is nuanced, discretionary and
+can be made subject to terms.
+of the Clubs
+, Bergin J held that there was no objection in principle to
+plaintiffs making split elections as between fiduciaries and knowing
+assistants.
+However, her Honour also
+recognised that allowing such split elections may be unfair in particular
+, Gleeson JA
+allowed the plaintiff to recover both $2.52 million as equitable compensation
+and $2.94 million in an account of
+This might just be seen as
+appropriate on the facts of that case, where the trial judge said that the
+financial arrangements were
+‘as clear as
+But there may still remain a
+suspicion of double counting: insofar as the money that was transferred from
+BCEG to WWM was ‘lost’
+to BCEG and ‘gained’ by WWM, that
+money surely represented two sides of the same coin. It may be that in similar
+it will be improper to characterise the same money as lost from a trust
+fund (to enable recovery of equitable compensation in that
+amount from the
+trustee) and as gained by the relevant accessory (to enable recovery of profits
+in that amount from the accessory).
+Contribution
+Once the substantive and remedial liability of each defendant is established,
+a further question is whether rights of contribution
+will exist among those
+defendants. This issue will not concern the plaintiff because contribution
+rights between defendants do not
+affect the basic liability of each defendant to
+the plaintiff.
+The plaintiff can
+therefore recover from whichever defendant they choose. But this point is
+important in our context and is particularly
+so for knowing assistants: a
+knowing assistant who is liable for the whole loss suffered by the principal
+will want to seek contribution
+from the fiduciary and from any other accessories
+to the fiduciary’s breach.
+Requirements for
+Contribution
+Entitlement to contribution in equity depends on parties sharing coordinate
+liabilities
+where those liabilities are of the same nature and to the same
+is difficult to state this principle any more precisely, although some further
+points can be made. First, the availability of
+contribution does not depend on
+whether liability is characterised as joint and several or several. Contribution
+turns on the existence
+of coordinate liabilities of the same nature and extent
+and may be available even when liability is
+leading case of
+Dering v Earl of Winchelsea
+involved contribution being awarded in favour of one surety against two other
+sureties even though the three were liable
+on separate
+the other hand, contribution is not available merely because obligations are
+owed to the same party and are related to the same
+transaction: something more
+is required before liabilities will be of the same
+Secondly, contribution can still
+exist even if the underlying liabilities require different causes of action to
+enforce them or if
+the parties can discharge their liabilities in different
+means that contribution can exist when some parties are liable under statute
+while others are liable in contract, tort or for
+breach of fiduciary
+However, those liabilities must
+still be of the same nature: this is where obligations imposed in private law
+and under statute may
+not be sufficiently
+Even if liabilities are coordinate and of the same nature and extent,
+contribution in equity may still be refused for reasons of unclean
+Burke v LFOT Pty Ltd
+, Gaudron ACJ and Hayne J referred to ‘the rule
+that a person who has been guilty of fraud, illegality, wilful misconduct or
+gross negligence is not entitled to contribution from his
+and Callinan J also
+noted that a trustee with unclean hands would be unable to seek contribution
+from their co-trustees.
+, Eyre CB commented that unclean hands would only bar contribution
+when the improper conduct had ‘an immediate and necessary
+relation to the
+equity sued
+and by this Eyre CB meant the equity in seeking contribution, not the conduct
+that gave rise to the liability for which contribution
+However, other cases have not limited the principle that contribution in equity
+may still be refused for reasons of unclean hands
+in this way. In
+, for example, contribution was denied to the managing partner of a
+colliery who committed a trespass for which his
+co-partners were also
+In refusing contribution, the Court adversely commented on both the
+partner’s conduct (as between his co-partners) and on the
+recklessness of
+the trespass
+The coordinate liabilities and unclean hands issues are both relevant to the
+question of whether rights of contribution will exist
+among fiduciaries and
+knowing assistants. If the liabilities are not coordinate, or if the parties to
+a dishonest and fraudulent
+design necessarily have unclean hands, then
+contribution cannot be available between
+At least until recently, the
+position was unclear: several cases (including the High Court decision in
+) assumed that contribution would be available between
+fiduciaries and knowing assistants but none of those cases actually involved
+contribution.
+Other cases have identified a possible tension between the requirement that
+liabilities be ‘of the same nature and to the same
+extent’ and the
+High Court’s statement in
+Michael Wilson
+that ‘the relief
+that is awarded against a defaulting fiduciary and a knowing assistant will not
+necessarily coincide in either
+Finally, on the unclean
+hands point, White J noted in
+McNally v Harris
+’) that there is no right to contribution between
+trustees who have all been party to a fraudulent breach of trust and extended
+this principle to include accessories to a breach of
+2 Michael Wilson &
+Partners v Emmott
+These issues were examined by the NSWCA in
+, which is a more
+recent instalment in the long-running Michael Wilson & Partners
+litigation.
+MWP is a law firm based in Kazakhstan.
+Emmott was a director and shareholder in the firm and Nicholls and Slater were
+By 2006, Emmott, Nicholls and Slater had left MWP to set up their own business,
+taking some of MWP’s clients with
+Emmott thereby breached his
+fiduciary obligations to MWP and Nicholls and Slater knowingly assisted him
+MWP’s initial proceedings against Nicholls and Slater were brought in
+New South Wales, while the claims against Emmott were
+dealt with in London as
+part of an arbitration agreement.
+complicated matters, but eventually in 2012 the NSWCA found Nicholls and Slater
+liable for equitable compensation in the amount
+of USD680,000 and €380,000
+respectively.
+Both men were subsequently
+declared bankrupt and the 2012 award remained substantially
+unsatisfied.
+In 2016, MWP took an assignment of the rights of the trustees in bankruptcy of
+Nicholls and Slater.
+MWP then attempted
+to pursue Emmott for contribution in respect of the liabilities of Nicholls and
+Slater under the 2012 award.
+way, MWP sought to make the wrongdoing fiduciary, Emmott, liable to contribute
+to the award made against the knowing assistants,
+Nicholls and
+In the NSWCA, Brereton JA gave three reasons for ordering a stay of
+MWP’s contribution claims.
+on the unclean hands point, his Honour endorsed the reasoning in
+and held that contribution could not be
+Secondly, Brereton JA held that the liabilities of knowing assistants and of
+fiduciaries are not coordinate because those liabilities
+do not necessarily
+coincide in either nature or quantum.
+Thirdly, and assuming that the liabilities were coordinate, Nicholls and Slater
+had not paid more than their fair share of the debt
+to MWP and there was no
+prospect of them doing so in future.
+Unlike the common law, equity does not require that a co-debtor has already paid
+more than their fair share of a debt before the
+right to contribution can
+equity will not award contribution where there is no prospect of the claimant
+being able to pay their own proportionate
+His Honour’s first and second reasons would deny the availability of
+contribution in all knowing assistance cases. However,
+neither reason is the
+ratio of the Court’s decision. Both Leeming JA and Emmett AJA agreed that
+the contribution claims should
+be stayed but for narrower reasons than Brereton
+According to Leeming JA, it was not
+necessary to discuss the issues of unclean hands or whether the liabilities were
+coordinate.
+Instead, his Honour’s
+decision was based on the value of the contribution claims having only amounted
+to around USD2,000
+and on the lack of
+any evidence that Nicholls or Slater had paid (or could pay) more than a
+proportionate share of their
+liabilities.
+On the other hand, Emmett
+AJA thought that the contribution claim ought to be stayed because it only
+amounted to around USD2,000.
+Leeming JA and Emmett AJA therefore held that a stay was justified because the
+amount of money was too small, whereas a different
+majority, Leeming JA and
+Brereton JA, held that Nicholls and Slater had not paid any more than their
+fair share and that they were not willing and able to
+do so. Either or both can
+be seen as the ratio decidendi of
+. Importantly, however, neither
+determines that contribution can
+be available between
+fiduciaries and knowing assistants.
+The Australian position therefore remains much the same after
+as it was before, although the unresolved question of law — whether rights
+of contribution will exist among fiduciaries and
+knowing assistants — is
+stands as authority for the proposition that contribution is
+unavailable but the correctness of that decision can be questioned. It
+argued that there is no role for unclean hands in this area because the person
+seeking contribution has necessarily washed
+their hands (or is at least able and
+willing to do so) by paying the liability that is the subject of the
+contribution
+regarding the extent to which
+rests on the more specific ground
+of the ‘joint fraud’ rule, under which trustees who are party to a
+fraudulent breach
+of trust may not claim contribution from each other, it can be
+argued that this rule ought to be
+This is because the joint
+fraud rule was created by equity following the law in respect of joint
+tortfeasors,
+but the rule that joint
+tortfeasors could not claim contribution has been abolished by
+Even if the rule is to remain
+as between trustees, it is not necessary to apply the rule as between wrongdoing
+trustees and their
+assistants.
+On the issue of coordinate liabilities, there is indeed a certain tension
+between the contribution requirement that liabilities be
+of the same nature and
+the High Court’s statement in
+Michael Wilson
+that the liabilities
+of fiduciaries and knowing assistants ‘will not necessarily coincide in
+either nature or quantum’.
+However, several points can be made in response. First, the word
+‘nature’ is somewhat protean and its meaning need not
+be the same
+for all purposes. Here, it is important to bear in mind the context of the High
+Court’s statement in
+Michael Wilson
+. The issue at hand was that the
+knowing assistants, Nicholls and Slater, were trying to take advantage of the
+fact that the wrongdoing
+fiduciary, Emmott, was a part-owner of the MWP
+business. Emmott was held to be liable to MWP for equitable compensation for
+of fiduciary duty but in the final accounting that liability would be
+reduced or even eliminated by the value of his shareholding
+Nicholls and Slater were trying to
+piggyback on this fact to reduce their own liability: to do this they argued
+that their liability
+as knowing assistants necessarily depended on the final
+amount payable by Emmott.
+It was this
+specific argument that the High Court rejected in
+Michael Wilson
+commented that the liabilities need not coincide in
+That the Court did not have the
+contribution meaning of the word ‘nature’ in mind is shown by its
+assumption a few paragraphs
+earlier that contribution
+Secondly, it is also possible to read the High Court’s statement in
+Michael Wilson
+as saying only that liabilities will not coincide in
+nature if gain-based relief is sought against one party and loss-based relief
+sought against the other. That is, the liabilities would coincide in nature if
+loss-based relief was sought against
+On the issue of quantum, as we
+have seen, equitable compensation against a knowing assistant is based on the
+loss flowing from the
+fiduciary’s breach and not the loss flowing from the
+assistance in that breach.
+liabilities of fiduciary and knowing assistant would therefore coincide in both
+Indeed, this point can be taken further: the availability of contribution can be
+seen as part of the reason why the knowing assistant,
+whose causal effect may
+have been rather minimal, can properly be made liable for the full loss suffered
+by the plaintiff.
+Thirdly, and most significantly, the availability of contribution can also be
+supported at the level of principle. We have suggested
+above that the liability
+of a knowing assistant is accessorial in form and function and exists to bolster
+the legal protection given
+to fiduciary
+relationships.
+The purpose of knowing
+assistance is therefore to increase the likelihood that a fiduciary breach will
+be properly remedied: this
+is why the assistant is liable for the consequences
+of the fiduciary breach and (so we have argued) ought to be liable for their
+gains linked to that breach.
+the essential role of knowing assistance is to protect the fiduciary
+relationship, it can be strongly argued that the
+liabilities
+of fiduciaries and knowing assistants, when that relationship is harmed,
+of the same nature.
+is, quite simply, the very raison d’être of
+knowing assistance.
+Contribution
+A final question concerns the possible availability of unequal contribution
+under the general law.
+contribution is available, the relevant parties must normally contribute
+equally; however, it has been suggested that the court
+should be able to take
+cognisance of different levels of culpability by awarding unequal
+contribution.
+The issue was examined in
+George v Webb
+Ward J found three defendants liable for equitable compensation but also
+ordered the third defendant to indemnify the first
+full indemnity was awarded, Ward J did not need to decide the question of
+whether unequal contribution was
+However, her Honour did
+comment that if an indemnity had not been awarded, the defendants would have
+been ordered to bear the loss
+Given that the facts
+justified a full indemnity, it seems that they would have also justified an
+award of unequal contribution if
+that possibility had existed. It therefore
+appears that unequal contribution either is not available or, if it is
+available, will
+be appropriate in only very rare circumstances. This question of
+unequal contribution is potentially important in the knowing assistance
+because, as we have seen, knowing assistants can be liable for the whole loss in
+a fiduciary breach even if their conduct
+is causally minor by
+comparison.
+In addition, it is very
+unlikely that proportionate liability
+statutes (which allow for the apportionment of liability based on relative
+blameworthiness) will apply to claims involving wrongdoing fiduciaries and
+assistants.
+In our view, contribution should be available between fiduciaries and knowing
+assistants. The foundational norms and purposes of knowing
+assistance support
+the view that the liabilities of wrongdoing fiduciaries and their knowing
+assistants are of the same nature and,
+in the case of loss-based remedies, will
+also be of the same extent. There is a little more to be said about the problem
+hands, but even here unclean hands should not be an automatic
+There should certainly be no
+automatic bar on a knowing assistant claiming contribution from a fiduciary
+(rather than vice versa).
+Contribution may be refused in particular cases
+— such as where a full indemnity would have been ordered in favour of the
+from whom contribution is sought — but the possibility of
+contribution should exist. This is consistent with the discretionary
+flexible nature of equitable relief.
+Importantly, the NSWCA decision in
+does not stand in the way of
+this analysis. As we have seen, neither of the possible rationes decidendi in
+that case dictates that
+contribution is never
+Our suggested position is
+also inconsistent with
+, but that authority should not be followed
+on the point.
+The precise interaction of the substantive and remedial liabilities of a
+fiduciary and their knowing assistant in a dishonest and
+fraudulent design is
+unclear in Australian law. We have argued that the fiduciary and knowing
+assistant are independently liable
+for the consequences of a breach of trust or
+fiduciary duty and that those liabilities are directed to the same ends: robust
+claimant-favouring protection of the specific trust or fiduciary
+relationship as well as trust and fiduciary forms more generally.
+liabilities interact is determined according to equitable norms, principles and
+method; this means that the accompanying
+inquiry and its outcomes will be
+nuanced and fact specific.
+Applying this understanding to specific questions concerning the liability
+relationship that have arisen in recent cases yields some
+insights but also
+demonstrates the complexity of the topic. For example, our proposed
+understanding is consistent with the decision
+release of a fiduciary from liability will not automatically release the knowing
+assistant (and vice versa) but, as that
+litigation demonstrates, it may be
+necessary to unpack centuries of conflicting common law and equity cases, and
+statutory provisions,
+in order to reach a principled conclusion. Furthermore,
+the liability labels of joint, joint and several, and several obscure rather
+than resolve the question of whether a fiduciary or a knowing assistant should
+be released from liability. And even then, the outcome
+of a case will turn on
+its facts and how the court’s remedial discretion is exercised. The
+‘split election’ question
+of whether a plaintiff may seek an account
+of profits from the fiduciary and equitable compensation from the knowing
+assistant also
+depends on the facts of the specific case and on whether the
+remedies offset each other on the particular facts. It is not inconceivable
+equity that a plaintiff might receive a windfall in this way. However, this
+split election question is complicated by a broader,
+unresolved question
+concerning the effect of seeking an account of profits: is the plaintiff
+adopting the fiduciary’s breach
+by taking the resulting gain or,
+conversely,
+condemning the breach and demanding that the fiduciary disgorge the
+proceeds of the wrong? The answer to the question of whether contribution
+should be available between fiduciary and knowing assistant
+is much clearer, in
+our view. According to our proposed understanding of the liability relationship,
+contribution should be available
+in principle — at least when loss-based
+remedies are sought from both the fiduciary and the knowing assistant.
+There are some peripheral but important questions that we have not dealt
+with. For example, we have not considered the nature of the
+relationship in statutory schemes of accessory liability that overlap with
+equitable liability such as in the
+Corporations Act 2001
+And how do the principles that we
+have discussed in this article apply to other fault-based equitable third party
+liabilities, such
+as for procurement of breach of trust or fiduciary duty,
+knowing receipt or inconsistent dealing? Finally, whilst we have applauded
+valuable contributions made by recent lower courts to clarifying the liability
+relationship of fiduciary and knowing assistant,
+it should be noted that they
+are subject to review by the High Court.
+* Professor, University of Sydney.
+† Professor, Australian National University. We are grateful to
+Professor Joachim Dietrich for his robust feedback on an early
+version of this
+article, and we thank the anonymous reviewers for their helpful and generous
+suggestions.
+Farah Constructions Pty Ltd v Say-Dee
+(2007) 230 CLR 89
+, 159 [160] (Gleeson CJ, Gummow, Callinan, Heydon
+and Crennan JJ) (‘
+Farah Constructions
+’). See also
+[1874] UKLawRpCh 20
+(1874) LR 9 Ch App 244
+, 251–2 (Lord Selborne LC).
+Soar v Ashwell
+[1893] UKLawRpKQB 142
+[1893] 2 QB 390
+405 (Kay LJ), quoting
+Barnes v Addy
+(Lord Selborne LC);
+Farah Constructions
+) 159 [161] (Gleeson CJ, Gummow, Callinan,
+Heydon and Crennan JJ).
+Dubai Aluminium Co Ltd v
+[2003] 2 AC 366
+, 404 [141]–[142] (Lord Millett)
+Dubai Aluminium
+Michael Wilson & Partners Ltd v
+(2011) 244 CLR 427, 457–8 [106] (Gummow ACJ, Hayne, Crennan
+and Bell JJ) (‘
+Michael Wilson
+’). See also
+Development Pty Ltd v
+DPC Estates Pty Ltd
+[1975] HCA 8
+(1975) 132 CLR 373
+, 397 (Gibbs J), 408 (Stephen J,
+Barwick CJ agreeing at 376–7) (‘
+Consul Development
+Farah Constructions
+[160]–[161] (Gleeson CJ, Gummow, Callinan, Heydon and Crennan JJ).
+Michael Wilson
+) 457 [106] (Gummow ACJ, Hayne, Crennan
+and Bell JJ).
+Ancient Order of Foresters in
+Victoria Friendly Society Ltd v Lifeplan Australia Friendly Society Ltd
+[2018] HCA 43
+(2018) 265 CLR 1
+, 33 [77] (‘
+Ancient Order
+’), in which Gageler
+J preferred the
+descriptor ‘ancillary’.
+Michael Wilson
+) 457–8 [106] (Gummow ACJ, Hayne,
+Crennan and Bell JJ);
+Constructions
+) 164 [179]
+(Gleeson CJ, Gummow, Callinan, Heydon and Crennan JJ).
+Cassaniti v Ball
+[2022] NSWCA 161
+(2022) 109 NSWLR 348
+, 378 [118] (Gleeson, Leeming
+and Mitchelmore JJA) (‘
+See, eg, ibid 353 [6]–[8], 354
+[13] (Gleeson, Leeming and Mitchelmore JJA).
+Jamie Glister, ‘Knowing
+Assistance and Equitable Compensation’
+(2016) 42(2)
+Australian Bar
+Corporations Act 2001
+Corporations Act
+’). See also
+Ancient Order
+) 19 [25], 29
+[65] (Gageler J);
+359–60 [33]–[34] (Gleeson, Leeming and Mitchelmore JJA).
+[2021] NSWCA 315
+(2021) 396 ALR 497
+). The judgment of Ward CJ in Eq at trial
+is also significant:
+Re Earth Civil
+Australia Pty Ltd
+[2021] NSWSC 966
+[2023] NSWCA 48
+(2023) 111 NSWLR 132
+Farah Constructions
+) 160 [163], 164 [179] (Gleeson CJ,
+Gummow, Callinan, Heydon and Crennan JJ);
+Hasler v Singtel Optus Pty Ltd
+[2014] NSWCA 266
+(2014) 87 NSWLR 609
+, 623 [57] (Leeming JA,
+Barrett JA agreeing at 612–13 [1]–[3], Gleeson JA agreeing at
+613–14 [6]–[12]).
+Pittmore Pty Ltd v Chan
+[2020] NSWCA 344
+(2020) 104 NSWLR 62
+, 94 [154]–[157] (Leeming JA, Bell P
+agreeing at 67 [1], Brereton JA agreeing at 106 [214]).
+Re-Engine Pty Ltd (in liq) v
+[2007] VSC 57
+(2007) 209 FLR 1
+, 24 [120] (Dodds-Streeton J)
+Ancient Order
+) 19 [26], 31 [72], where Gageler J uses
+‘knowing participant’.
+Royal Brunei Airlines Sdn Bhd v
+[1995] UKPC 4
+[1995] 2 AC 378
+, 385 (Lord Nicholls for the Court) (‘
+Barlow Clowes International Ltd (in liq) v Eurotrust
+International Ltd
+[2006] 1 WLR 1476, 1479–80 [10] (Lord Hoffmann for
+the Court);
+Abou-Rahmah v Abacha
+[2007] Bus LR 220, 224 [14] (Rix LJ);
+Group Seven Ltd v Nasir
+[2020] Ch 129
+, 158 [58] (Henderson, Peter Jackson
+and Asplin LJJ) (‘
+Group Seven
+Farah Constructions
+) 159 [161] (Gleeson CJ, Gummow,
+Callinan, Heydon and Crennan JJ).
+Michael Wilson
+) 457–8 [106] (Gummow ACJ, Hayne,
+Crennan and Bell JJ).
+Ibid 455 [100], 457 [105].
+Ibid 457 [106] (Gummow ACJ, Hayne,
+Crennan and Bell JJ). See also at 457–8 [106], citing
+Development
+) 397–8 (Gibbs
+J), 408 (Stephen J, Barwick CJ agreeing at 376–7),
+Farah Constructions
+) 159 [160]–[161] (Gleeson
+CJ, Gummow, Callinan, Heydon and Crennan JJ).
+Michael Wilson
+) 457 [106] (Gummow ACJ, Hayne, Crennan
+and Bell JJ).
+On the duplicative or
+‘secondary’ liability model, see generally Philip Sales, ‘The
+Conspiracy and Civil Secondary Liability’
+(1990) 49(3)
+Cambridge Law
+; Steven B Elliott and Charles Mitchell, ‘Remedies for
+Dishonest Assistance’
+(2004) 67(1)
+Modern Law Review
+Mitchell and Stephen Watterson, ‘Remedies for Knowing Receipt’
+in Charles Mitchell (ed),
+Constructive and Resulting Trusts
+Publishing, 2010) 115.
+See above nn
+See Pauline Ridge, ‘Justifying
+the Remedies for Dishonest Assistance’ (2008) 124 (July)
+Law Quarterly
+445, 449–51 (‘Justifying the Remedies’).
+) 356 [22] (Gleeson, Leeming and
+Mitchelmore JJA).
+Ancient Order
+) 33 [76] (Gageler J), quoting
+(Gummow ACJ, Hayne, Crennan and Bell JJ).
+Joachim Dietrich and Pauline Ridge,
+Accessories in Private Law
+(Cambridge University Press, 2015) 29.
+Ibid 30. The norms and purposes of
+tort law as well as contract law are relevant to the tort of inducing breach of
+contract: see,
+Zhu v Treasurer (NSW)
+[2004] HCA 56
+(2004) 218 CLR 530
+, 571 [120]
+(Gleeson CJ, Gummow, Kirby, Callinan and Heydon JJ)
+Dietrich and Ridge (n
+) 29. See also Lusina Ho, ‘The
+Mental Element in Equitable Accessory Liability’
+Legal Problems
+Dietrich and Ridge (n
+) 65. See also
+) 356 [22] (Gleeson, Leeming and
+Mitchelmore JJA).
+Dietrich and Ridge (n
+See above n
+and accompanying text.
+New Cap Reinsurance Corporation
+Ltd v General Cologne Re Australia Ltd
+[2004] NSWSC 781
+, [34] (Young CJ in
+(Dodds-Streeton J);
+George v Webb
+[2011] NSWSC 1608
+, [262]–[263]
+(Ward J) (‘
+’), cited in
+Craigcare Group Pty Ltd v
+Superkite Pty Ltd
+[2014] NSWSC 326
+, [224] (Hallen J).
+Grupo Torras SA v Al-Sabah
+[1999] Commercial Law Cases 1469, 1667
+(Mance J) (‘
+Grupo Torras
+’) (Mance J’s finding on
+dishonest assistance was affirmed in
+Grupo Torras SA v Al-Sabah
+Commercial Law Cases 221, 255 [119] (Robert Walker and
+Tuckey LJJ and Sir Murray Stuart-Smith));
+Casio Computer Ltd v Sayo
+[2001] 43 International
+Litigation Procedure 694, 701 [16] (Tuckey LJ, Arden LJ agreeing at 707 [41],
+agreeing at 708 [44]);
+Group Seven
+) 177 [110] (Henderson, Peter Jackson and
+Asplin LJJ);
+Ultraframe (UK) Ltd v Fielding
+[2007] WTLR 835
+, 907–8 [1600]
+(Lewison J). See also Elliott and Mitchell (n
+Wilson v Moore
+[1833] EngR 404
+1 My & K 126
+, 636–7 (Leach MR)
+Cowper v Stoneham
+(1893) 68 LT 18
+, 19 (Stirling J)
+’). See also Glister (n
+Dubai Aluminium
+) 404 [141]–[142] (Lord
+) [353]–[354] (Ward J);
+) 456 [101] (Gummow ACJ,
+Hayne, Crennan and Bell JJ).
+See below Part III(C).
+See also Pauline Ridge,
+‘Monetary Remedies for Equitable Participatory Liability: General
+Principles and Current Questions’
+in Simone Degeling and Jason NE Varuhas
+Equitable Compensation and Disgorgement of Profit
+Publishing, 2017) 197, 211–13.
+) 24 [120] (Dodds-Streeton J).
+See Jonathan Tjandra and WMC Gummow,
+‘Equity Unravels Two Tangled Webs of Deception’
+(2022) 16(3)
+Journal of Equity
+Dietrich and Ridge (n
+) 15–16. Cf Ho (n
+), in which it is argued that a
+(dishonest)
+assistant’s willing participation in a breach of trust constitutes an
+endorsement of that breach and hence justifies liability
+for its consequences:
+Farah Constructions
+) 163–4 [177], 164 [179] (Gleeson
+CJ, Gummow, Callinan, Heydon and Crennan JJ).
+Cf Tjandra and Gummow (n
+Ancient Order
+) 12–13 [9] (Kiefel CJ, Keane and
+Edelman JJ), 34 [80] (Gageler J), 64 [179] (Nettle J). This approach stands
+contrary to the
+English approach: see
+Novoship (UK) Ltd v Mikhaylyuk
+[2014] EWCA Civ 908
+[2015] QB 499
+, 533 [107] (Longmore LJ for the Court). However, Lord Briggs has
+suggested that the Supreme Court of the United Kingdom may want
+to consider the
+approach taken in
+Ancient Order
+): Lord Briggs, ‘Loose Ends in
+Accounting for Profits’ in Ben
+McFarlane and Steven Elliott (eds),
+Equity Today: 150 Years after the
+Judicature Reforms
+(Hart Publishing, 2023) 109, 118.
+Ancient Order
+) 19–20 [27]–[30] (Gageler
+Ibid 22 [38] (Gageler J).
+Ibid 10 [2] (Kiefel CJ, Keane and
+Edelman JJ), 45 [119] (Gageler J), 45–6 [121] (Nettle J).
+This is what the Full Court of the
+Federal Court of Australia (‘FCAFC’) had ordered in
+Australia Friendly Society Ltd v Ancient Order of Foresters in Victoria Friendly
+Society Ltd
+[2017] FCAFC 74
+(2017) 250 FCR 1
+, 26 [88] (Allsop CJ, Middleton and Davies JJ).
+Foresters’ appeal and Lifeplan’s cross appeal would have been
+by Nettle J: ibid 74 [204].
+Ancient Order
+) 45 [120] (Gageler J, Kiefel CJ, Keane
+and Edelman JJ agreeing at 10 [1]).
+Ibid 12 [7].
+Ibid 14 [12].
+Ibid 14 [13].
+Ibid 15 [15].
+Ibid 16 [18].
+Ibid 74–5. See also at 19 [25]
+(Kiefel CJ, Keane and Edelman JJ), 45 [120] (Gageler J).
+Ibid 36–7 [85]–[86].
+Ibid 37 [87].
+See above nn
+–61 and accompanying text.
+Ibid 33 [77].
+Michael Wilson
+) 457–8 [106] (Gummow ACJ, Hayne,
+Crennan and Bell JJ).
+Ancient Order
+) 14 [13] (Kiefel CJ, Keane and Edelman
+JJ), 38–9 [91]–[95] (Gageler J).
+See above n
+and accompanying text.
+Grimaldi v Chameleon Mining NL [No
+[2012] FCAFC 6
+(2012) 200 FCR 296
+, 345 [174] (Finn, Stone and
+Perram JJ) (‘
+’). Discussion of the specific norms
+and purposes of trusts law and the ways in which these interact with the norms
+and purposes
+of fiduciary law is beyond this article’s scope. On the norms
+and purposes of trusts law, see generally Simone Degeling, Jessica
+Irit Samet (eds),
+Philosophical Foundations of the Law of Express Trusts
+(Oxford University Press, 2023).
+Pilmer v Duke Group Ltd (in
+[2001] HCA 31
+(2001) 207 CLR 165
+, 196–7 [71] (McHugh, Gummow, Hayne and
+Callinan JJ), quoting
+Norberg v Wynrib
+[1992] 2 SCR 226
+, 272 (McLachlin J
+L’Heureux-Dubé and McLachlin JJ), 312 (Sopinka J); PJ Millett,
+‘Equity’s Place in the Law of Commerce’
+(1998) 114 (April)
+Law Quarterly Review
+See above nn
+–4 and accompanying text.
+The leading statement of the
+foundational norms and purposes of knowing assistance is contained in Gibbs
+J’s judgment in
+Consul Development
+) 397. See also
+) 571 [120] (Gleeson CJ, Gummow, Kirby,
+Callinan and Heydon JJ): ‘[i]nterference in legal relations
+between other parties’.
+Royal Brunei
+) 386–7 (Lord Nicholls for the
+Ancient Order
+) 36–7 [86] (Gageler J). See also
+Consul Development
+Consul Development
+) 397 (Gibbs J).
+) 571–2 [121] (Gleeson CJ, Gummow,
+Kirby, Callinan and Heydon JJ).
+See above n
+and accompanying text. See also
+Constructions
+[159]–[163]
+(Gleeson CJ, Gummow, Callinan, Heydon and Crennan JJ). This may be contrasted
+liability for procuring a breach of trust or fiduciary duty: at 159 [161]; or
+for knowing receipt: at 140 [111], quoting
+Barnes v Addy
+) 251–2 (Lord Selborne LC).
+Australian Financial Services
+& Leasing Pty Ltd v Hills Industries Ltd
+[2014] HCA 14
+(2014) 253 CLR 560
+(French CJ).
+Muschinski v Dodds
+[1985] HCA 78
+(1985) 160 CLR 583
+, 615 (Deane J);
+Albion Insurance Co Ltd v Government
+Insurance Office (NSW)
+[1969] HCA 55
+(1969) 121 CLR 342
+, 350–2 (Kitto J, Windeyer J
+agreeing at 352) (‘
+Albion Insurance
+Harris v Digital
+Pulse Pty Ltd
+[2003] NSWCA 10
+(2003) 56 NSWLR 298
+, 304–6 [6]–[20] (Spigelman
+[116]–[120] (Gleeson, Leeming and
+Mitchelmore JJA).
+Jenyns v Public Curator (Qld)
+[1953] HCA 2
+(1953) 90 CLR 113
+, 118–19 (Dixon CJ, McTiernan and Kitto JJ)
+’). This statement was made in the context of
+equity’s vitiating doctrines and has been approved by the High Court on
+various occasions: see, eg,
+Tanwar Enterprises Pty Ltd v Cauchi
+[2003] HCA 57
+217 CLR 315
+, 325 [23] (Gleeson CJ, McHugh, Gummow, Hayne and Heydon JJ);
+Kakavas v Crown Melbourne Ltd
+[2013] HCA 25
+(2013) 250 CLR 392
+, 426 [122] (French
+CJ, Hayne, Crennan, Kiefel, Bell, Gageler and Keane JJ);
+Lavin v Toppi
+(2015) 254 CLR 459
+, 474 [47] (French CJ, Kiefel, Bell, Gageler and Keane JJ)
+Thorne v Kennedy
+[2017] HCA 49
+(2017) 263 CLR 85
+[43] (Kiefel CJ, Bell, Gageler, Keane and Edelman JJ);
+Ancient Order
+) 12 [9] (Kiefel CJ, Keane and Edelman
+JJ), 34 [82] (Gageler J);
+Stubbings v Jams 2 Pty Ltd
+[2022] HCA 6
+(2022) 276 CLR 1
+20–1 [39] (Kiefel CJ, Keane and Gleeson JJ), 26 [75] (Gordon J). See also
+The Juliana
+(1822) 2 Dodson’s Admiralty Reports 504;
+[1822] EngR 235
+165 ER 1560
+1567 (Lord Stowell);
+Australian Securities and
+Investments Commission v Kobelt
+(2019) 267 CLR 1, 49 [120] (Keane J),
+58–9 [150], 60 [154],
+74 [217] (Nettle and Gordon JJ).
+Ancient Order
+) 12 [9] (Kiefel CJ, Keane and Edelman
+Ibid 35 [82].
+Warman International Ltd v
+[1995] HCA 18
+(1995) 182 CLR 544
+, 559 (Mason CJ, Brennan,
+Deane, Dawson and Gaudron JJ) (‘
+) 402–3 [503] (Finn,
+Stone and Perram JJ).
+) 377 [116] (Gleeson, Leeming and
+Mitchelmore JJA).
+The generic accessory liability
+framework — with which we argue that knowing assistance liability conforms
+— accommodates
+the equitable character of knowing assistance because it
+does not dictate the substantive content of knowing assistance liability
+instead defers to the norms and principles underpinning the primary liability,
+namely trusts law and fiduciary law: see Dietrich
+and Ridge (n
+See below nn
+–5 and accompanying text. See also
+) 415 [553] (Finn,
+Stone and Perram JJ).
+They derive from the concepts of a
+joint obligation and a several obligation: see Glanville L Williams,
+Obligations: A Treatise on Joint and Joint and Several Liability in Contract,
+Quasi-Contract and Trusts in England, Ireland
+and the Common-Law Dominions
+(Butterworth, 1949) 92 §41, 94–5 §43 (‘
+Obligations
+Common Law Team of the Law Commission,
+Department of Trade and Industry (UK),
+Feasibility Investigation of Joint and Several Liability
+1996) 4 [2.1].
+Where joint liability arises, there is
+a single (‘one and indivisible’) cause of action:
+Australian Capital Television Pty Ltd
+[1996] HCA 38
+(1996) 186 CLR 574
+, 581 (Brennan CJ,
+and Toohey JJ) (‘
+’). See also
+) 361–2 [42] (Gleeson, Leeming
+Mitchelmore JJA), quoting
+Joint Obligations
+) 603–4 (Gummow J, Gaudron J
+agreeing at 591);
+Baxter v Obacelo Pty Ltd
+[2001] HCA 66
+(2001) 205 CLR 635
+(Gleeson CJ and Callinan J, Gummow and Hayne JJ agreeing
+at 657 [52]) (‘
+’). See also
+) 584 (Brennan CJ, Dawson and Toohey JJ),
+XL Petroleum (NSW) Pty Ltd v Caltex Oil (Australia) Pty Ltd
+[1985] HCA 12
+(1985) 155 CLR 448
+, 466 (Brennan J).
+) 647 [19] (Gleeson CJ and Callinan
+) 637 (Leach MR);
+[1842] EngR 425
+(1842) 12 Sim 369
+, 1182 (Shadwell V-C);
+) 19 (Stirling J). See also
+Joint Obligations
+) 156, citing
+) 637 (Leach MR);
+) 19 (Stirling J).
+Michael Wilson
+) 457–8 [106] (Gummow ACJ, Hayne,
+Crennan and Bell JJ);
+Selangor United Rubber Estates Ltd v Cradock [No 3]
+[1968] 1 WLR 1555
+, 1582 (Ungoed-Thomas J);
+Dubai Aluminium
+) 404 [141]–[142] (Lord Millett).
+See also Glister (n
+) 373 [93] (Gleeson, Leeming and
+Mitchelmore JJA) (emphasis added). In
+), the FCAFC
+expressed the view that liability to restore the trust fund by way of equitable
+compensation was ‘several only’
+in relation to fiduciaries and
+(subject to the principle against double recovery for
+loss): at 416–17 [559] (Finn, Stone and Perram JJ). This appears
+counterintuitive
+when extended to knowing assistants given that there is one
+indivisible loss for which both fiduciary and knowing assistant are liable
+the basis of distinct wrongs. But see Tjandra and Gummow (n
+), in which it is argued persuasively
+that, for principled and policy reasons, the fiduciary and knowing assistant are
+each severally
+liable for the one loss and that the fiduciary and knowing
+assistant are analogous to concurrent wrongdoers at common law: at
+) 411 [536] (Finn, Stone and Perram JJ).
+The Court noted two kinds of
+exceptions. The first is where the knowing assistant is ‘the alter
+ego/“nominee” (usually corporate) of the fiduciary’:
+[556] (Finn, Stone and Perram JJ), citing
+Green v Bestobell Industries Pty
+[1984] WAR 32
+, 40 (Brinsden J). The second is where the fiduciary
+and knowing assistant ‘
+act in concert
+to secure a mutual
+416 [558] (Finn, Stone and Perram JJ) (emphasis in original).
+Hunt & Hunt Lawyers v
+Mitchell Morgan Nominees Pty Ltd
+[2013] HCA 10
+(2013) 247 CLR 613
+, 647–8 [85] (Bell
+and Gageler JJ), quoting Commonwealth of Australia,
+Inquiry into the Law of
+Joint and Several Liability: Report of Stage Two
+(Report, January 1995)
+), discussing how equity has not applied a
+common law joint release rule:
+at 372–5 [88]–[101] (Gleeson, Leeming and Mitchelmore JJA).
+In 1949, Glanville L Williams
+described the law on joint obligations as ‘a difficult and seriously
+defective part of the common
+law’ and called for legislative reform:
+Joint Obligations
+) 3, quoted in
+) 372 [90] (Gleeson, Leeming and
+Mitchelmore JJA).
+) 377–8 [115]–[116] (Gleeson,
+Leeming and Mitchelmore JJA).
+Ibid 377–8 [115]–[117]
+(Gleeson, Leeming and Mitchelmore JJA).
+See above nn
+–61 and accompanying text. It is
+also contrary to the specific wording (but not necessarily the purport) of Gibbs
+leading judgment in
+Consul Development
+See above Part II(C).
+) 378 [118], citing
+Uniform Civil
+Procedure Rules 2005
+(NSW) r 6.21(1), in which Gleeson, Leeming and
+Mitchelmore JJA address concerns expressed about this proposition by Bryson JA
+Yeshiva Properties No 1 Pty Ltd v Marshall
+[2005] NSWCA 23
+(2005) 219 ALR 112
+[80]. See also
+Re Earth Civil
+) [2373]–[2375] (Ward CJ in
+) 378 [118] (Gleeson, Leeming and
+Mitchelmore JJA). A strategic objective of a joinder may be to acquire a right
+to discovery; another
+may be to ensure that potential parties to future
+proceedings are bound by the findings in the first proceedings: cf
+[2017] NSWCA 210
+(2017) 96 NSWLR 390
+, 404–5 [63]–[70] (Leeming JA);
+Fund Administration Pty Ltd v Chickabo Pty Ltd
+[2019] VSCA 314
+[1]–[9], [59]–[60] (Whelan, Beach and Niall JJA). See generally
+Jonathon Moore, ‘Trust Claims and Third Parties’
+(2024) 54(1)
+Australian Bar Review
+For example, if the plaintiff
+consents to or acquiesces in the breach of fiduciary duty, the
+elements of the fiduciary claim are not established and knowing assistance
+liability does not arise:
+[1989] HCA 4
+(1989) 167 CLR 316
+, 337 (Deane J)
+’). See also
+Blackwood v Borrowes
+(1843) 4 Drury & Warren’s Irish Chancery Reports 441; 65 RR 729,
+(Sir Edward Sugden LC) (‘
+’), discussed in
+[95]–[97] (Gleeson, Leeming and Mitchelmore JJA).
+The proceeding appeared at first
+instance in
+Re Earth Civil
+[26] (Ward CJ in Eq) and on appeal in
+355 [16], [20]–[21] (Gleeson, Leeming and Mitchelmore JJA). The New South
+Wales Court of Appeal (‘NSWCA’) dealt
+with other appeals relating to
+Ward CJ in Eq’s findings of fact and her Honour’s statement and
+application of the corporate attribution rule in
+Bluemine Pty Ltd (in liq) v
+AKA (Civil) Pty Ltd
+[2022] NSWCA 160
+[236]–[238] (Gleeson, Leeming and Mitchelmore JJA).
+See generally
+Re Earth Civil
+) 353 [6], 354 [13] (Gleeson, Leeming and
+Mitchelmore JJA).
+Ibid 353 [6]–[8] (Gleeson,
+Leeming and Mitchelmore JJA).
+Ibid 353 [7], 355 [19] (Gleeson,
+Leeming and Mitchelmore JJA).
+Ibid 353 [6]. See also
+Earth Civil
+[114]–[211] (Ward CJ in Eq).
+) 353 [6]–[8], 354 [13] (Gleeson,
+Leeming and Mitchelmore JJA).
+Re Earth Civil
+) [1253], [1674] (Ward CJ in Eq).
+Ibid [2874] (Ward CJ in Eq).
+Reference is also made (in relation to payments sent out by
+the plaintiffs to some participants) to claims for knowing receipt of trust
+assets in breach of
+fiduciary duty: at [222] (Ward CJ in Eq).
+Civil claims for breach of
+statutory duties and involvement in those breaches were also
+successful: ibid [2874]. See also
+Corporations Act
+) ss 79, 180–2.
+) 355 [16], [20]–[21] (Gleeson,
+Leeming and Mitchelmore JJA). The other ground concerned whether one appellant
+had the requisite
+knowledge of the dishonest and fraudulent design: at 355 [17]
+(Gleeson, Leeming and Mitchelmore JJA).
+Re Earth Civil
+) [23], [525], [552] (Ward CJ in Eq). The
+settlement sums were deducted from the sum claimed by way of compensation
+against the remaining
+defendants: at [24]
+(Ward CJ in Eq).
+[2019] NSWSC 44
+Edgewater Homes
+Re Earth Civil
+) [558]–[560] (Ward CJ in Eq).
+Edgewater Homes
+) [15]–[16].
+Ibid [24], [36]. In any event,
+Stevenson J considered that the facts fell within the exception noted in
+) that if parties
+act in concert
+to secure a mutual benefit’ they will be
+jointly and severally liable: ibid [32]–[36], citing
+) 416 [558] (Finn, Stone and Perram JJ)
+(emphasis in original).
+Re Earth Civil
+(Ward CJ in Eq). See also at [560]–[564] (Ward CJ in Eq).
+Ibid [16] (Ward CJ in Eq).
+The default position is several
+liability: ibid [2443]. On the facts, the ‘acting in concert’
+exception to the default position applied: at [2453]. The ‘acting in
+concert’ exception was laid out in
+) 416 [558] (Finn, Stone and Perram
+Re Earth Civil
+) [2471]–[2472].
+Ibid [2454].
+Ibid [2472].
+) 359 [31] (Gleeson, Leeming and
+Mitchelmore JJA).
+The rationale for the rule that a
+judgment against one jointly liable obligee discharges other joint obligees is
+that the cause of
+action against all joint obligees is ‘one and
+indivisible’:
+ibid 366–7 [63]–[64] (Gleeson, Leeming and Mitchelmore JJA). The
+extension of the rule to scenarios where liability was
+joint and several was
+said to be illogical because the justification for the original rule, namely the
+‘singleness’ of
+the joint obligation, had no force where there was
+also several liability: at 361 [43] (Gleeson, Leeming and Mitchelmore JJA). See
+at 363–4 [49]–[52] (Gleeson, Leeming and Mitchelmore JJA).
+Ibid 365–6 [58]–[62]
+(Gleeson, Leeming and Mitchelmore JJA).
+) 584 (Brennan CJ, Dawson and Toohey JJ),
+613–14 (Gummow J, Gaudron J agreeing at 591).
+) 369 [73], 371 [82] (Gleeson, Leeming and
+Mitchelmore JJA).
+Ibid 369–71 [76]–[82]
+(Gleeson, Leeming and Mitchelmore JJA). See also at 369 [74]–[75]
+(Gleeson, Leeming and Mitchelmore
+JJA), discussing
+Harplex Pty Ltd v
+Konstandellos
+[2018] VSCA 67
+(2018) 54 VR 174
+, 188 [60] (McLeish and Hargrave JJA, McDonald
+) 379 [120] (Gleeson, Leeming and
+Mitchelmore JJA).
+Ibid 373 [93]–[94] (Gleeson,
+Leeming and Mitchelmore JJA).
+Ibid 373–4 [95]–[97]
+(Gleeson, Leeming and Mitchelmore JJA), discussing
+). See also ibid 375–7
+[106]–[114] (Gleeson, Leeming and Mitchelmore JJA).
+) 374 [97] (Gleeson, Leeming and
+Mitchelmore JJA).
+) 337 (Deane J).
+A covenant not to sue one co-surety
+does not extinguish that party’s liability for the debt
+and does not affect another co-surety’s equitable rights to
+contribution: see
+463–4 [1]–[3] (French CJ, Kiefel, Bell, Gageler and Keane
+For example, in
+), one of the claims had
+been abandoned and it was not suggested that that claim be treated differently
+to the claims that were settled:
+at [23]–[24] (Ward CJ in Eq).
+See above n
+and accompanying text.
+Re Earth Civil
+) [24] (Ward CJ in Eq).
+) 559–60 (Mason CJ, Brennan, Deane,
+Dawson and Gaudron JJ);
+Sit v Capacious Investments Ltd
+[1995] UKPC 54
+[1996] 1 AC 514
+, 520–1 (Lord
+Nicholls for the Court) (‘
+Tang Man Sit
+’). A proprietary
+remedy may be available if the gain is represented in proprietary form: Ridge,
+‘Justifying the Remedies’
+Tang Man Sit
+), Lord Nicholls referred to an election
+between an account of profits and damages as the ‘classic example’
+of when remedies
+for the breach of fiduciary duty are ‘alternative and
+inconsistent’: at 521.
+Sargent v ASL Developments
+[1974] HCA 40
+(1974) 131 CLR 634
+, 641 (Stephen J). See also ibid.
+Our discussion focuses on accounts
+of profits and equitable compensation but similar questions could arise
+regarding when an award
+of rescission may accompany these remedies. An order for
+rescission is, in this context, akin to an order to pay equitable compensation
+in that a plaintiff could not recover both the misapplied property and
+compensation based on its
+value (but could, subject to the discussion below, recover the misapplied
+property from one defendant and an account of profits from
+) 608 (Gummow J);
+Tang Man Sit
+) 522 (Lord Nicholls for the
+Woff and Corby were liable for
+around $24,000 each — what they earned as a result of the drawings and
+trust distributions:
+Lifeplan Australia Friendly Society Ltd v Woff
+[2016] FCA 248
+(2016) 259 IR 384
+, 471 [446], 480 [485] (Besanko J). Foresters’ liability
+was for nearly $15 million:
+Ancient Order
+) 45 [120] (Gageler J, Kiefel CJ, Keane
+and Edelman JJ agreeing at 9 [1]).
+Michael Wilson
+) 457–8 [106] (Gummow ACJ, Hayne,
+Crennan and Bell JJ). The plaintiffs ultimately elected for equitable
+compensation from the
+knowing assistants: see
+Michael Wilson & Partners Ltd
+[2012] NSWCA 383
+, [169] (Sackville
+[2007] NSWSC 574
+, [37]–[38]
+Club of the Clubs
+’). The finding of knowing assistance was
+later overturned, but nothing was said to undermine Bergin J’s analysis of
+split election point: see
+King Network Group Pty Ltd v Club of the Clubs
+[2008] NSWCA 344
+(2008) 69 ACSR 172
+, 184 [58] (Hodgson JA, Campbell JA agreeing at
+186 [73]), 227 [315] (Young CJ in Eq).
+‘One may without much
+difficulty contemplate a case where the trustee and the participant are required
+to account for the restoration
+of the trust property, while the participant may
+also be accountable for the profits derived from its use’:
+) 375 [102], 377–8 [116].
+The ‘also’ should probably be read as meaning
+‘alternatively’ rather than
+‘additionally’.
+) 135 [1] (Gleeson JA, Mitchelmore JA
+agreeing at 164 [163], Griffiths AJA agreeing at 164 [164]). The case involved
+knowing recipients,
+but Gleeson JA thought that the analysis of the election
+point would apply equally to knowing assistants: at 141–2 [37], 147
+Ibid 135–6 [2]–[7]
+(Gleeson JA).
+BCEG International (Australia)
+Pty Ltd v Xiao
+[2022] NSWSC 972
+(2022) 162 ACSR 601
+, 697–8 [446] (Rees J)
+BCEG International
+’). The orders of Rees J on equitable
+compensation and account of
+profits were not disturbed on appeal: ibid 163 [162] (Gleeson JA, Mitchelmore
+JA agreeing
+at 164 [163], Griffiths AJA agreeing at 164 [164]).
+) 149 [69] (Gleeson JA, Mitchelmore JA
+agreeing at 164 [163], Griffiths AJA agreeing at 164 [164]).
+Ibid, citing
+Michael Wilson
+) 457–8 [106] (Gummow ACJ,
+Hayne, Crennan and Bell JJ),
+) 375 [102] (Gleeson, Leeming and
+Mitchelmore JJA).
+) 140 [30] (Gleeson JA), quoting
+International
+[413]–[415]
+Club of the Clubs
+) [6] (Bergin J);
+Michael Wilson
+) 457 [106]
+(Gummow ACJ, Hayne, Crennan and Bell JJ);
+) 375 [102], 377–8 [116] (Gleeson,
+Leeming and Mitchelmore JJA).
+of profits cannot involve adoption because the plaintiff can still elect for
+compensation from the fiduciary until final
+orders are made: see
+569–70 (Mason CJ, Brennan, Deane, Dawson and Gaudron JJ). Warman was
+given seven days to elect for compensation: at 570 (Mason
+CJ, Brennan, Deane,
+Dawson and Gaudron JJ).
+See above Part III(A).
+This would not prevent accounts of
+profits being sought from all defendants, as the plaintiff could be seen to
+adopt the actions
+of the knowing assistant at the same time as adopting those of
+the fiduciary.
+[1871] UKLawRpHL 1
+(1871) LR 5 HL 1
+Peter W Young, Clyde Croft and
+Megan Louise Smith,
+(LawBook, 2009) 1121 [16.1230].
+Tang Ying Loi v Tang
+[2017] HKCFA 3
+(2017) 20 HKCFAR 53
+, 59–60 [18]–[22] (Lord Millett NPJ,
+Ma CJ agreeing at 56 [1], Ribeiro PJ agreeing at 56 [2], Fok PJ agreeing at 56
+Chan PJ agreeing 56 [4]);
+Foskett v McKeown
+[2000] UKHL 29
+[2001] 1 AC 102
+130–1 (Lord Millett);
+Libertarian Investments Ltd v Hall
+HKCFAR 681, 732–3 [169] (Lord Millett NPJ, Chan PJ agreeing
+at 690 [1], Ribeiro PJ agreeing at 715 [98], Bokhary NPJ agreeing at 731
+Re Hallett’s Estate
+[1880] UKLawRpCh 38
+(1880) 13 Ch D 696.
+sale was wrongful, you can still take the proceeds of the sale,
+adopting the sale for the purpose of taking the proceeds’: at
+708–9 (Jessel MR)
+(emphasis added).
+) 9 (Lord Westbury). See
+) 556–7 (Mason CJ,
+Brennan, Deane, Dawson and Gaudron JJ), discussing
+Dart Industries Inc v
+Decor Corporation Pty Ltd
+[1993] HCA 54
+(1993) 179 CLR 101.
+Ancient Order
+) 34–5 [81] (Gageler J); MJ Tilbury,
+Civil Remedies
+(Butterworths, 1990–93) vol 1, 26–7 [2015];
+Stephen Watterson, ‘Alternative and Cumulative Remedies: What Is the
+Difference?’
+Restitution Law Review
+, 16; Stephen
+Watterson, ‘An Account of Profits or Damages? The History of
+(2004) 24(3)
+Oxford Journal of Legal Studies
+472–3; Andrew Burrows,
+Remedies for Torts, Breach of Contract, and
+Equitable Wrongs
+(Oxford University Press, 4
+) 145 [53], where his Honour said that
+‘BCEG [has not] condoned the wrongful conduct of WWM by electing for an
+account of profits
+from WWM ... [t]he gain-based
+remedy of an account of profits strips the ill-gotten gains from WWM’.
+See also at 149 [69] (Gleeson JA) and Windeyer J in
+Colbeam Palmer Ltd v
+Stock Affiliates Pty Ltd
+[1968] HCA 50
+(1968) 122 CLR 25
+, 32: ‘the infringer is
+required to give up his ill-gotten gains’.
+) 566–7 (Mason CJ, Brennan, Deane,
+Dawson and Gaudron JJ).
+) 378 [116] (Gleeson, Leeming and
+Mitchelmore JJA). See above Part III(A).
+) 377 [116] (Gleeson, Leeming and
+Mitchelmore JJA).
+[2024] Bus LR 160, 167
+[17]–[20] (Newey LJ) (‘
+Hotel Portfolio II
+generally James McComish, ‘Remedies for Dishonest Assistance: Heartbreak
+(2024) 83(1)
+Cambridge Law Journal
+; Matthew Frey and
+Zihang Liu, ‘Equitable Set-Off, Election and Constructive Trusts’
+(2024) 140 (July)
+Law Quarterly Review
+331. An appeal from
+Portfolio II
+) to the Supreme Court of the
+United Kingdom has been heard and judgment is awaited.
+Hotel Portfolio II
+) 185 [67], [69] (Newey LJ, Birss LJ
+agreeing at 189 [87]), 188–9 [86] (Males LJ, Birss LJ agreeing at 189
+Ibid 185–6 [71] (Newey LJ,
+Birss LJ agreeing at 189 [87]). His Lordship recognised that a fiduciary need
+not be sued before
+an accessory can be made liable for dishonest assistance and
+his Lordship also anticipated the difficulties that may arise if a fiduciary
+rely on an exemption clause. It is therefore not clear exactly what his Lordship
+had in mind when saying that compensation could
+only be claimed from the knowing
+assistant if the fiduciary was also liable.
+Ibid 185 [70].
+There is no problem in obtaining
+judgments in these terms; the question at hand is whether both can be
+Consul Development
+) 394 (Gibbs J), quoted in
+) 557 (Mason CJ, Brennan,
+Deane, Dawson and Gaudron JJ).
+See above Part II(B).
+Note that this would not prevent
+orders being made against both; rather, it would give defendants an equity to
+prevent the enforcement
+of a compensatory order to the extent that gains had
+already been recovered. Alternatively, this effect may be ‘built in’
+to the orders themselves: see
+Club of the Clubs
+) [69] (Bergin J). See below n 188 and
+accompanying text. See also
+Anderson v Canaccord Genuity Financial Ltd [No
+[2024] NSWCA 161
+(2024) 115 NSWLR 1
+, 19–22 [65]–[83] (Gleeson, Leeming and
+White JJA).
+[1941] AC 1
+, 18 (Viscount Simon LC,
+Lord Thankerton agreeing at 33, Lord Romer
+agreeing at 33), 31 (Lord Thankerton for Lord Atkin, Lord Thankerton agreeing
+Lord Romer agreeing at 33), 49 (Lord Romer for Lord Porter) (‘
+Ibid 21 (Viscount Simon LC).
+[1979] AC 374
+, 377–8 (Lord
+Diplock for the Court) (‘
+Ibid 382 (Lord Diplock for the
+Court), discussing
+United Australia
+). See also ibid 381 (Lord Diplock for
+the Court).
+involved money had and received and fraud: at 383 (Lord Diplock for the
+Court). But the fact pattern in
+can equally be analysed as the
+briber knowingly assisting the agent to breach his fiduciary duty: see Paul S
+Davies, ‘Bribery’
+in Paul S Davies and James Penner (eds),
+Equity, Trusts and Commerce
+(Hart Publishing, 2017) 225, 226–7; Andrew Tettenborn, ‘Bribery,
+Corruption and Restitution: The Strange Case of Mr Mahesan’
+Law Quarterly Review
+Club of the Clubs
+See also Davies,
+‘Bribery’ (n
+United Australia
+) have been referred to several times on
+other points: see, eg,
+Graham Barclay Oysters Pty Ltd v Ryan
+[2002] HCA 54
+, 591 [130]
+(Gummow and Hayne JJ);
+) 659–60 [57]–[58] (Gummow
+and Hayne JJ);
+Port of Melbourne Authority v Anshun Pty Ltd
+[1981] HCA 45
+, 611–12 (Brennan J);
+Scott v Davis
+(2000) 204 CLR 333
+[229] (Gummow J);
+Fairfield Pastoral Holdings Pty Ltd v Ridge Estate Pty Ltd
+(2022) 398 ALR 203
+, 290–1 [485] (White J). But until
+), the only case to consider
+whether the recovery of profits operates to reduce loss was
+Health Services
+Union NSW v McMillan
+[2014] NSWSC 1868
+Health Services
+’). In that case, White J followed
+), but without the benefit of argument
+by the defendant:
+Health Services Union
+(n 190) [18].
+See above n
+and accompanying text.
+) 150–1 [79] (Gleeson JA,
+Mitchelmore JA agreeing at 164 [163], Griffiths AJA
+agreeing at 164 [164]). See also at 150 [74], 151 [83] (Gleeson JA,
+Mitchelmore JA agreeing
+at 164 [163], Griffiths AJA agreeing at 164 [164]).
+United Australia
+), the discontinued claim against one
+defendant was for debt or for money had and received and the claim against the
+other was for
+conversion: at 8–9
+(Viscount Simon LC). The claims in
+) were for money had and received and
+the tort of fraud: at 383 (Lord Diplock for the Court).
+) 608 (Gummow J).
+Tettenborn (n
+Club of the Clubs
+litigation, the third knowing assistant was a special purpose vehicle
+company jointly owned by the first two knowing assistants:
+Club of the Clubs
+Pty Ltd v King Network Group Pty Ltd
+[2006] NSWSC 1138
+, [4] (Bergin J).
+However, this was not much different from
+), where the accessory was owned and
+controlled by the fiduciaries: at 135 [3] (Gleeson JA).
+See Paul S Davies,
+Accessory Liability
+Publishing, 2015) 91–3.
+We have also argued that a knowing
+assistant’s profits must be linked to the fiduciary breach: see above Part
+Quince v Varga
+[2008] QCA 376
+, 380–2 [48]–[58] (Douglas J, Holmes JA agreeing
+at 365 [1]–[2], Mackenzie AJA agreeing at 367 [6]).
+The argument here is somewhat
+similar to that made in Part III(C), where the availability of contribution is
+argued to be part of
+what justifies a harsh remedy being available against a
+knowing assistant.
+) 599 (Mason CJ, Brennan, Deane, Dawson
+and Gaudron JJ). ‘It is
+necessary to keep steadily in mind the cardinal principle of equity that the
+remedy must be fashioned to fit the nature of the case
+and the particular
+See above Part II(D).
+Club of the Clubs
+See above n
+and accompanying text.
+BCEG International
+) 689 [407] (Rees J).
+Proportionate liability statutes
+can alter the liabilities of defendants, but they are very unlikely to be
+engaged in the context
+of fiduciaries and knowing assistants: see below n
+Albion Insurance
+) 349–50 (Kitto J, Windeyer J
+agreeing at 352). The term ‘common obligation’ has also been used to
+describe coordinate
+liabilities: see, eg,
+Mahoney v McManus
+[1981] HCA 54
+, 378 (Gibbs CJ) (‘
+’). ‘Co-ordinate
+liabilities’ was the term preferred in
+Friend v Brooker
+[2009] HCA 21
+, 149 [41] (French CJ, Gummow, Hayne and Bell JJ)
+Burke v LFOT Pty Ltd
+[2002] HCA 17
+209 CLR 282
+, 292–3 [15] (Gaudron ACJ and Hayne J), 303 [50] (McHugh J),
+332 [138] (Callinan J) (‘
+Caledonian Railway
+(1860) 3 Macq 833
+, 844 (Lord Chelmsford).
+) 292–3 [14]–[15] (Gaudron
+ACJ and Hayne J), 300 [40] (McHugh J), 317 [91] (Kirby J);
+) 148–9 [40]–[41] (French
+CJ, Gummow, Hayne and Bell JJ).
+(1787) 1 Cox 318;
+(Eyre CB) (‘
+’). The sureties were ‘the obligors
+of distinct and separate obligations’: at 1185 (Eyre CB). See also
+Craythorne v Swinburne
+[1807] EngR 343
+(1807) 14 Ves Jr 160
+, 485 (Lord Eldon
+) 151 [48] (French CJ, Gummow, Hayne and
+Bell JJ), quoting
+Re La Rosa; Ex parte Norgard v Rodpat Nominees Pty Ltd
+(1991) 31 FCR 83
+, 91 (French J).
+) 149 [42] (French CJ, Gummow, Hayne and
+Bell JJ), citing
+Street v Retravision (NSW) Pty Ltd
+[1995] FCA 1197
+(1995) 56 FCR 588
+597 (Gummow J) (‘
+Capita Financial Group Ltd v
+Rothwells Ltd
+(1992) 30 NSWLR 619
+, 627–8 (Priestley JA, Kirby P
+agreeing at 620, Cripps JA agreeing at 632). The same applies if a liability
+cannot be enforced
+at all against one party: in
+) 463–4 [2]–[3] (French CJ,
+Kiefel, Bell, Gageler and Keane JJ), a covenant not to sue one party did not
+affect the liability
+of that party to contribute.
+) 303–4 [49]–[51] (McHugh
+J), 337–8 [145] (Callinan J);
+BP Petroleum
+Development Ltd v Esso Petroleum Co Ltd
+1987 SLT 345
+, 348 (Lord
+) 305 [56] (McHugh J), 337–8 [145]
+(Callinan J);
+(Gummow J);
+HIH Claims Support Ltd v Insurance Australia Ltd
+[2011] HCA 31
+, 88 [39] (Gummow ACJ, Hayne, Crennan and Kiefel JJ).
+) 293 [17].
+Ibid 336–7 [143], citing
+Austin Wakeman Scott and William Franklin Fratcher,
+The Law of Trusts
+(Little, Brown and Company, 4
+ed, 1987–91) vol 3A, 405
+The party seeking contribution, Sir
+Edward Dering, was to blame for the default of his brother, Thomas Dering, which
+led to the sureties
+at issue being called upon in the first place: ibid 1184
+(Eyre CB). But that Sir Edward was to blame did not affect his contribution
+rights against
+the co-sureties: at 1185 (Eyre CB). Sir Edward was refused his costs,
+however, because the availability of the equity that he asked
+‘doubtful’: at 1186 (Eyre CB).
+[1878] UKLawRpCh 300
+(1878) 10 Ch D 185
+(James LJ for the Court) (‘
+Lane v Bushby
+[2000] NSWSC 1029
+(2000) 50 NSWLR 404
+, 407 [11]–[12] (Dunford J).
+) 202 (James LJ for the Court).
+See above n
+and accompanying text.
+Contribution was assumed to be
+available (in respect of equitable compensation) in
+Michael Wilson
+) 455–6 [101] (Gummow ACJ, Hayne,
+Crennan and Bell JJ). Full indemnity
+was awarded in
+but Ward J clearly thought contribution was available:
+at [353]–[354]. Contribution was assumed to be available (in respect of
+accounts of profits) in
+Zelden v Sewell
+[2011] NSWCA 56
+, [27] (Campbell
+JA, Young JA agreeing at [30]) (‘
+’). It was also
+assumed to lie in
+Warman International Ltd v Dwyer
+(1992) 46 IR 250
+(Derrington J) (‘
+’), but note that no comment was
+made on the issues of contribution on its appeal: see generally
+International Ltd v Dwyer
+[1994] QCA 12
+). Contribution for gain-based
+awards will be rarer because the liabilities of fiduciary and
+knowing assistant will seldom coincide: see below Part III(C)(3). See also
+William Gummow, ‘Knowing Assistance’
+(2013) 87(5)
+Australian Law
+Michael Wilson
+) 457 [106] (Gummow ACJ, Hayne, Crennan
+and Bell JJ). This tension was noted in
+DIF III — Global Co-Investment
+Fund LP v Babcock & Brown International Pty Ltd
+[2019] NSWSC 527
+Re Earth Civil
+[2433]–[2438] (Ward CJ in Eq).
+(2008) 1 ASTLR 549, 584
+[150]–[152] (‘
+Emmott Appeal
+) 516–20 [55]–[63] (Brereton
+JA). See generally at 501–10 [8]–[39] (Brereton JA).
+Ibid 501 [8].
+Ibid 501–2 [8]–[9].
+Michael Wilson
+) 433 [9] (Gummow ACJ, Hayne, Crennan and
+Emmott Appeal
+) 502 [10]–[11], 519 [62] (Brereton
+Ibid 502 [10]–[11].
+) [338] (Sackville AJA, Meagher JA
+agreeing at [1], Barrett JA agreeing at [2]). By 2021, the 2012 award, including
+pre- and post-judgment
+interest, was for USD1.84 million and €1 million:
+ibid 510 [40] (Brereton JA).
+Emmott Appeal
+) 502 [11] (Brereton JA). Nicholls died
+Michael Wilson & Partners Ltd v Emmott
+[2019] NSWSC 218
+[10] (Ball J) (‘
+Emmott Trial
+Emmott Appeal
+) 502 [12] (Brereton JA).
+Ibid 502 [12], 510 [40] (Brereton
+Ibid 525–6 [78].
+Ibid 518–19 [59]–[61],
+[150]–[152] (White J). See also ibid
+520 [63] (Brereton JA).
+Emmott Appeal
+) 519–20 [62]–[63], quoting
+Michael Wilson
+[105]–[106] (Gummow ACJ, Hayne, Crennan and Bell JJ). His Honour also
+noted that the High Court had assumed that
+contribution would be available, but
+his Honour said that this comment did not amount to an actual holding that
+contribution would
+Emmott Appeal
+) 520 [63].
+Emmott Appeal
+) 525 [77]. Michael Wilson & Partners
+argued that the contribution payable by Emmott would amount to a full indemnity,
+which would
+have negated the ‘fair share’ point, but this was
+rejected unanimously: at 500–1 [4] (Leeming JA), 520 [63] (Brereton
+542 [135] (Emmett AJA).
+Ibid 521 [65] (Brereton JA);
+) 378 (Gibbs CJ,
+Murphy J agreeing at 381,
+Aickin J agreeing at 381, Wilson J agreeing at 381–2).
+Emmott Appeal
+525 [76] (Brereton JA). On the
+possibility of unequal contribution,
+see below Part III(C)(4).
+Emmott Appeal
+) 500 [1] (Leeming JA), 542 [137] (Emmett
+Ibid 500 [1].
+Ibid. This was also the basis of
+Ball J’s decision to stay the proceedings at trial:
+Emmott Trial
+) [49]. The value of the
+contribution claims was small because Emmott had already been found not liable
+in arbitration, in London,
+in respect of much of the relevant loss, and an
+English anti-suit injunction prevented MWP from relitigating those claims
+against Emmott:
+at [36]–[38] (Ball J).
+Emmott Appeal
+) 501 [5]–[6] (Leeming JA), quoting
+) 154 [60] (French
+CJ, Gummow, Hayne and Bell JJ).
+Emmott Appeal
+) 542 [137].
+Anderson v Canaccord Genuity
+Financial Ltd
+[2022] NSWSC 58
+(2022) 161 ACSR 1
+, 537–8 [2819]
+’), Ward CJ in Eq thought that
+Emmott Appeal
+established that
+contribution could not be available between knowing assistants. Respectfully,
+her Honour’s error was to think
+Leeming JA and Emmett AJA agreed with Brereton JA on the unclean hands and
+coordinate liabilities points. Whether contribution could
+be available between
+knowing assistants was not discussed on appeal: see generally
+Canaccord Genuity Financial Ltd
+[2023] NSWCA 294
+(2023) 113 NSWLR 151.
+The same error may
+have been made in
+[38] (Gleeson JA).
+This argument supports the point
+unclean hands must go
+specifically to the claiming of contribution rather than to the underlying
+see above nn
+accompanying text. See also Alison Gurr, ‘Accessory Liability and
+Contribution, Release and Apportionment’
+[2010] MelbULawRw 16
+(2010) 34(2)
+University Law Review
+, 496, discussing the conditional relief ordered in
+Nelson v Nelson
+(1995) 184 CLR 538
+, 571 (Deane and Gummow JJ).
+See Glanville L Williams,
+Torts and Contributory Negligence: A Study of Concurrent Fault in Great Britain,
+Ireland and the Common-Law Dominions
+(Stevens & Sons, 1951) 127
+On joint tortfeasors, see
+Merryweather v Nixan
+(1799) 8 Term R 186;
+[1799] EngR 669
+101 ER 1337
+(Lord Kenyon CJ).
+Civil Law (Wrongs) Act
+Law Reform (Miscellaneous Provisions) Act 1946
+Law Reform Act 1995
+Tortfeasors and Contributory Negligence Act 1954
+Law Reform (Contributory Negligence and
+Tortfeasors’ Contribution) Act 1947
+Proportionate
+Liability Act 2005
+See Tjandra and Gummow (n
+) 457 [106] (Gummow ACJ,
+Hayne, Crennan and Bell JJ).
+Ibid 456–7 [102]–[103]
+(Gummow ACJ, Hayne, Crennan and Bell JJ).
+See ibid 455 [100] (Gummow ACJ,
+Hayne, Crennan and Bell JJ).
+See ibid 457–8 [106] (Gummow
+ACJ, Hayne, Crennan and Bell JJ).
+Ibid 455–6 [101] (Gummow ACJ,
+Hayne, Crennan and Bell JJ).
+An admitted complication is that
+the plaintiff’s election for profits against one defendant would affect
+the contribution rights
+among all defendants. This is because the same defendant
+could not be liable to both disgorge profits and to contribute to the loss-based
+award: see above
+. One explanation may be that
+contribution rights among defendants do not exist until judgment has been given,
+at which point the
+relevant election must already have been made. But the effect
+of this would still be that the plaintiff could affect the contribution
+of the defendants inter se. Further difficulties would arise if contribution was
+sought from a party not joined to the original
+action: see above n
+and accompanying text.
+See above n 42 and accompanying
+On whether contribution should be
+available when gain-based relief is sought from multiple defendants, the
+governing question (as
+always) is whether the liabilities are of the same nature
+and extent: see above nn
+accompanying text. As parties are normally accountable only for their own gains,
+those liabilities would not coincide.
+But there are rare occasions when multiple
+parties are liable for gains made by one or more of them, and contribution could
+be available
+there: see, eg,
+) [27] (Campbell JA, Young JA agreeing
+(Derrington J). On the issue of when defendants may be jointly liable for gains,
+) 415 [556],
+416 [558] (Finn, Stone and Perram JJ).
+This point was noted by Ward CJ in
+Re Earth Civil
+[2435]. See also Ridge,
+‘Justifying the Remedies’ (n
+) 459; Gurr (n
+Part II(C).
+Part II(B).
+See above nn
+–6 and accompanying text.
+Unequal contribution is possible
+under statute, but Victoria is the only Australian jurisdiction with an unequal
+contribution scheme:
+Wrongs Act 1958
+See generally
+Liability (Contribution) Act 1978
+(UK) s 2 (‘
+UK Contribution
+) 324–6 [119]–[122] (Kirby
+J). Cf JD Heydon, MJ Leeming and PG Turner,
+Meagher, Gummow and
+Lehane’s Equity: Doctrines and Remedies
+(LexisNexis Butterworths,
+ed, 2015) 404 [10-090], in which it is said that unequal
+contribution is not available in this
+way because of the anterior requirement that parties must be equally liable
+for coordinate
+obligations.
+) [341]–[355].
+Ibid [354].
+See above Part II(B).
+This is for two reasons. First,
+apportionable claims must arise from a failure to take reasonable care which is
+not the case when
+defendants commit or assist dishonest breaches of fiduciary
+duty: see, eg,
+Civil Liability Act 2002
+Civil Liability Act
+’). See also
+Elston Private Wealth Pty Ltd v
+Wilson Advisory & Stockbroking Ltd
+[2022] ACTSC 237
+, [534] (Mossop J);
+Cassegrain v Cassegrain
+[2016] NSWCA 71
+, [84] (Emmett AJA, Sackville JA
+agreeing at [31]). Secondly, the benefit of proportionate liability is not
+available to a person who intended to cause or fraudulently
+caused loss: see,
+NSW Civil Liability Act
+ss 34A(1)(a)–(b). There are minor differences between the states
+— for example, Victoria excludes fraudulent defendants
+but not those who
+caused loss intentionally: see
+Wrongs Act 1958
+Note that dishonesty is not a bar
+to contribution under the
+UK Contribution Act
+(n 266), in which unclean
+hands are instead considered at the apportionment stage of inquiry: see
+[1993] Ch 140
+, 148–9 (Ferris J); Charles Mitchell,
+Contribution and Reimbursement
+(Oxford University Press, 2003) 260 [13.17].
+Similar reasoning would apply to the Victorian regime under the
+Alexander v Perpetual Trustees WA Ltd
+[2004] HCA 7
+216 CLR 109
+, 116 [2] (Gleeson CJ, Gummow and Hayne JJ).
+Part III(C)(2).
+Corporations Act
+) ss 79, 181–3, 185;
+[33]–[34] (Gleeson, Leeming and Mitchelmore JJA).
+Print (pretty)
+Print (eco-friendly)
+RTF format (397 KB)
+PDF format (380 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

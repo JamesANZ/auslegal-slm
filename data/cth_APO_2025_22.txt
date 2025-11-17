@@ -1,0 +1,1318 @@
+CQMS Pty Ltd v Metalogenia Research & Technologies S.L. [2025] APO 22 (15 July 2025)
+IP AUSTRALIA
+AUSTRALIAN PATENT
+CQMS Pty Ltd v Metalogenia Research & Technologies
+[2025] APO 22
+Patent Application: 2020316932
+Title: Fall detection method, corresponding system and machine
+Patent Applicant: Metalogenia Research & Technologies S.L.
+Opponent: CQMS Pty Ltd
+Delegate: Xavier Gisz
+Decision Date: 15 July 2025
+Hearing Date: 20 May 2025
+Catchwords:
+- opposition to the
+grant of the patent under s 59 – grounds of opposition: manner of
+manufacture and inventive step –
+opposition unsuccessful – costs
+Representation: Counsel for the Applicant:
+Marcus Flemming
+Patent attorney for the Applicant: Chris Schlicht and Peter Wassouf of
+Phillips Ormonde Fitzpatrick
+Counsel for the Opponent: Peter Creighton-Selvay
+Patent attorney for the Opponent: Joseph Garven of James & Wells
+IP AUSTRALIA
+AUSTRALIAN PATENT OFFICE
+Patent Application: 2020316932
+Title: Fall detection method, corresponding system and machine
+Patent Applicant: Metalogenia Research & Technologies S.L.
+Date of Decision: 15 July 2025
+The opposition is unsuccessful. The claimed invention is a
+manner of manufacture. The claimed invention involves an inventive step.
+Subject to appeal, I direct that the patent application proceed to grant.
+I award costs according to the amounts specified in Schedule 8 against CQMS
+REASONS FOR DECISION
+application 2020316932 (the Application) in the name of Metalogenia Research
+& Technologies S.L. (the Applicant) is the
+national phase entry of
+PCT/EP2020/070620 (publication number WO2021013866A1) which claims priority from
+EP 19382633.6 (priority
+date 24 July 2019).
+was advertised on 17 August 2023. A Notice of Opposition was filed on
+17 November 2023 by CQMS Pty Ltd (the Opponent).
+A Statement of Grounds and
+Particulars was filed on 16 February 2024.
+in Support was filed on 16 May 2024. Evidence in Answer was filed on 16 August
+2024. Evidence in Reply was filed on 16 October
+Evidence in support
+Evidence in Support comprises a declaration by Dr Nicholas Simon Hillier (which
+I will refer to as Hillier 1) dated 14 May 2024
+and accompanying Exhibits NH-1
+Evidence in answer
+Evidence in Answer comprises a declaration by Dr Edgar Ripoll Vercellone (which
+I will refer to as Vercellone) dated 15 August
+2024 and accompanying Annexures
+ERV-1 to ERV-5.
+Evidence in reply
+Evidence in Reply comprises a declaration by Dr. Nicholas Simon Hillier (which I
+will refer to as Hillier 2) dated 15 October
+2024 and accompanying annexure
+Applicable Law and Onus
+present Application is governed by the
+as amended by
+Intellectual Property Laws Amendment (Raising the Bar) Act
+as the Application was filed after 15 April 2013.
+Opponent has the onus to satisfy me, on a balance of probabilities, that a
+ground of opposition to grant exists. Then, if satisfied,
+I may refuse the
+application or, where appropriate, give the Applicant a reasonable opportunity
+to amend the relevant specification
+to remove any ground of opposition, as per
+Section 60(3A) & (3B) of the
+Grounds of Opposition
+Statement of Grounds and Particulars opposes the grant of the patent on the
+following grounds: Novelty, inventive step, clear
+and complete enough
+disclosure, best method, clarity, support, manner of manufacture, and
+Opponent’s submissions (and Applicant’s responding submissions) were
+limited to the grounds of manner of manufacture
+and inventive step.
+The experts
+Hillier’s educational qualifications include a doctorate in mechanical
+engineering (paragraph 14 of Hillier 1). His work
+experience extensively is in
+the field of mining involving research and development in relation to hydraulic
+excavators (paragraph
+15), recording data through sensors in hydraulic
+excavators (paragraph 18), and ranging sensor research and evaluation in mining
+robotics technologies (paragraph 17).
+Vercellone’s educational qualifications include a doctorate in electronic
+engineering (paragraph 3 of Vercellone). His work
+experience has been in the
+development of systems to detect the loss of teeth attached to the bucket of an
+excavator used in underground
+mining operations (paragraphs 4 and
+Hillier and Dr Vercellone each provide expert evidence regarding the invention
+and common general knowledge at the priority date.
+I am satisfied that both have
+provided relevant evidence. I will assess the evidence according to its
+relevance to particular aspects
+of the analysis.
+The Specification
+Field of the invention
+description provides a summary of the field of the invention at page 1 lines 10
+The invention is comprised in the field of earth moving machines, for
+example, excavators, provided with replaceable wear elements
+that contact the
+earth to perform works, such as excavation works. In the field of the art, these
+wear elements are also known with
+the name ground engaging tools (GETs). They
+comprise elements such as:
+- teeth: they have the function of penetrating the ground and protecting the
+blade of the excavator shovel;
+- tooth adapters: they have the function of protecting the blade and bearing
+- front guards: they have the function of protecting the lip in the areas
+comprised between the teeth and also perform penetration
+function, but to a
+lesser degree than the teeth; and
+- side guards: they protect the sides of the excavator bucket.
+More specifically, the invention relates to a fall detection method for
+detecting the fall of a wear element from among a plurality
+of wear elements of
+an earth moving machine, in which each wear element is provided with a
+three-axis accelerometer. Said accelerometer
+is formed as a single element or by
+several individual accelerometers which, together, are capable of providing
+measurements with
+respect to three axes.
+The invention also relates to a fall detection system implementing the
+preceding method, as well as to an earth moving machine provided
+with said fall
+detection system.
+The invention
+invention is a method which utilises accelerometers and transmitters that are
+embedded in GET (ground engaging tools). The accelerometers
+can be used to
+determine the orientation of each GET.
+orientation of each GET is transmitted to a control module. The orientation of
+the GETs are averaged together. The orientation
+of each GET is compared against
+the average. If the orientation of a GET is different from the average (beyond a
+threshold level),
+then the GET is determined to have fallen off the earth moving
+cross section of a GET and accelerometer is shown in Figure
+2 also shows the three axes of orientation. Two of the axes of rotation: pitch
+(107) around the Y’ axis and roll (108)
+around the X’ axis, can be
+calculated from the accelerometer data.
+flow-chart of the algorithm is shown in Figure 4:
+can be seen in the flow chart, there is a split in the flow from step (100)
+which indicates that the calculation for pitch (107)
+and roll (108) are
+performed independently. The steps of: determining a mean reference value (103),
+determining a deviation value
+(104), and determining if the deviation value
+exceeds a threshold value (105), are performed independently for pitch (107) and
+Example of the invention
+will use an example to help to illustrate the invention. First, consider a
+machine with 6 GET/wear members. The pitch and roll of
+the GET can be derived
+from the accelerometer data (see description page 9 lines 7 to 19). The mean
+calculations are done for pitch
+and roll separately (see Figure 4 already
+reproduced above in the decision).
+orientation is measured in degrees between the alignment axes of the wear member
+(page 7 lines 21 to 26) and the Earth’s
+natural alignment axes (“X
+and Y are parallel to the ground and axis Z is vertical”, page 5 line
+this example, consider a roll measurement. If the orientation of the first five
+GET had an orientation 2° (indicated on the
+chart below by the blue dots on
+the 2 row) and the sixth GET had an orientation of 8° (indicated by the
+blue dot on the 8 row),
+then the average of these values (2, 2, 2, 2, 2, 8)
+would be 3° (indicated by the orange line).
+threshold is chosen to be 1.5; the threshold is indicated by the magenta lines
+1.5 above and below the average (i.e. at 0.5 and
+first 5 values fall within the threshold. The sixth value falls outside the
+threshold. Thus, the sixth GET is at an orientation
+sufficiently different from
+average that it is determined that it has fallen off the machine.
+are 14 claims including 1 independent claim:
+1. A fall detection method for detecting the fall of a wear element from
+among a plurality of wear elements of an earth moving machine,
+wherein each wear
+element is provided with a three-axis accelerometer;
+wherein at least one reference axis is selected, and said method comprises
+the following steps
+when said earth moving machine is in an operative state:
+a) for each of said wear elements, obtaining an accelerometer measurement of
+said wear element provided by said three-axis accelerometer
+of said wear
+for each of said at least one reference axis:
+b) for each of said wear elements, determining a rotational position
+measurement with respect to said reference axis of said wear
+element based on
+said accelerometer measurement of said wear element;
+c) determining a mean reference value based on said rotational position
+measurements of each of said wear elements;
+d) for each of said wear elements, determining a deviation value of said wear
+element based on the deviation between said rotational
+position measurement of
+said wear element with respect to said mean reference value;
+e) for each of said wear elements, determining that there is a fall of said
+wear element if said deviation value of said wear element
+exceeds a threshold
+f) repeating steps (a) to (e) in successive iterations.
+Manner of Manufacture
+18(1) of the Patents Act states, in part, that:
+“Subject to subsection (2), an invention is a patentable invention for
+the purposes of a standard patent if the invention, so
+far as claimed in any
+(a) is a manner of manufacture within the meaning of section 6 of the Statute of
+Monopolies”
+concept of manner of manufacture has developed over time and is not readily
+reduced to a simple formula. The classic definition
+of manner of manufacture is
+National Research Development Corporation v Commissioner of
+[1959] HCA 67
+“The inquiry which the definition demands is an inquiry into the scope
+of the permissible subject matter of letters patent and
+grants of privilege
+protected by the section ... The right question is: ‘Is this a proper
+subject of letters patent according
+to the principles which have been developed
+for the application of s 6 of the Statute of Monopolies?’”
+Grant v Commissioner of Patents
+[2006] FCAFC 120
+(“Grant”) it
+was found at [47] that the claimed systems and methods were not for a manner of
+manufacture in the sense
+described in
+“It has long been accepted that ‘intellectual information’,
+a mathematical algorithm, mere working directions and
+a scheme without effect
+are not patentable. This claim is ‘intellectual information’, mere
+working directions and a scheme.
+It is necessary that there be some
+‘useful product’, some physical phenomenon or effect resulting from
+the working of
+a method for it to be properly the subject of letters patent.
+That is missing in this case.”
+recently, there have been a number of Full Court decisions which considered some
+of the more specific considerations relevant
+to computer implemented inventions,
+relevantly including
+Research Affiliates LLC v Commissioner of Patents
+[2014] FCAFC 150
+Commissioner of Patents v RPL Central Pty Ltd
+Encompass Corporation Pty Ltd v Infotrack Pty Ltd
+Research Affiliates LLC v Commissioner of Patents
+, it was stated that at paragraph 94:
+“When the authorities in Australia prior to and
+are considered, a consistent approach emerges
+as to the relevance of:
+a distinction
+between a claim to a business scheme and claims to methods which in practice
+result in a new machine or process or an
+old machine giving a new and improved
+result – that is, a distinction between mere intellectual information and
+a method that
+affects the operation of an apparatus in a physical form
+the fact that
+the claimed steps are foreign to the normal use of computers, such as the
+production of an improved curve image (
+at 225-226);
+the particular
+mode or manner of achieving an end result which is an artificially created state
+of affairs, such as the storage of
+data as to Chinese characters and retrieval
+of graphic representations to enable word processing (
+whether part of
+the invention is an inventive method which includes the application and
+operation in a physical device (
+the distinction
+, as explained in
+a technological innovation which is patentable and a business
+innovation which is not”
+, Heerey J did not
+accept that a physically observable effect was necessarily required (at [128])
+but the Full Court in
+expressed the opinion that a
+physical effect in the sense of a concrete effect or phenomenon, or
+manifestation or transformation
+is required (at [32]).
+the fact that a
+physical effect is required does not make it sufficient to confer
+patentability;
+the fact that a
+method may be called a business method does not prevent it being properly the
+subject of letters patent (
+at [125]-[126]);
+the fact that
+for claimed computer programs, the courts look to the application of the program
+to produce a practical and useful result,
+so that more
+“intellectual information”
+is involved
+at [29]). A method that is in the nature of directions for
+use does not constitute an invention or a manner of manufacture in the
+of some previously unrecognised property of an aspect of the method
+Consideration
+Opponent’s submissions on manner of manufacture have several elements
+which are considered below.
+(a) Mere idea or scheme
+Opponent submissions state at paragraphs 47-49:
+The claimed invention is a mere scheme or idea,
+of the type which has never been considered patent eligible. In short, the
+invention is directed to the idea of using a known sensor (an
+accelerometer) to obtain the very types of data that such a sensor
+is known to
+be appropriate to measure (roll and pitch), and then undertaking unspecified
+mathematical calculations on that data,
+to monitor whether a wear element has
+fallen (or not).
+The asserted ingenuity in the claimed invention resides in a series of
+, which involve nothing more than taking the data
+output by the accelerometer and undertaking unspecified mathematical
+calculations
+by reference to that data to determine whether a
+“deviation value”
+“mean reference
+by more than a
+“threshold value”
+“the ingenuity of the inventors must be in the steps of
+the method itself”
+This is not sufficient to establish a MM.
+consider that the mathematical calculations are not ‘unspecified’ as
+argued by the Opponent. I consider that the steps
+of calculation to determine if
+the wear member has fallen off are adequately disclosed and defined. I agree
+that “the ingenuity
+of the inventors must be in the steps of the method
+itself”, and I consider that this (the steps of the method itself) is
+the invention lies in this case.
+indicator that the claimed invention is more than a ‘mere idea or
+scheme’ is that the invention results in a technical
+solution to a
+technical problem. The technical problem (not being aware when wear member falls
+off the earth moving machine) has
+been solved with a technical solution (using
+accelerometer data passed through an algorithm to determine if a wear member has
+off the earth moving machine).
+(b) Proper characterisation, physical integers and analogous
+Opponent submissions state at paragraphs 50 and 57:
+Whilst the claimed invention might refer, in passing, to some physical
+components (such as an accelerometer and a wear element), it
+is properly
+characterised, as a matter of substance, as an idea or mere scheme for the
+monitoring of wear elements, using known components
+and generic computing
+technology.
+The claimed invention, in the Application, when characterised as a matter of
+substance, is indistinguishable from those considered
+by Delegates of the
+Commissioner in each of
+Caterpillar Inc
+and by Rofe J in
+present invention is a method of determining if a wear member has fallen from an
+earth moving machine. This invention is quite
+different from:
+Caterpillar
+[2024] APO 8
+- “[a] system for detecting a load location and a
+dump location at a worksite”
+Amsted Rail
+Company, Inc.
+[2021] APO 25
+- “a plurality of transportation
+vehicles” with “data control system”, and a “first
+reader device”
+and “plurality of second portable reader
+[2022] APO 40
+- “system for managing a retrieval of a
+prepared medication”
+Pty Ltd v Commissioner of Patents
+[2024] FCA 1145
+improved logistics method or scheme for delivering goods to an optimal
+consider that summarising the invention to be “known components and
+generic computing technology” is reductionist and
+unhelpful. At some level
+all inventions are a combination of known elements; inventions reside in how
+those elements are combined.
+In this case, the invention (the characterisation
+of the invention) resides in three axis accelerometers and using the
+accelerometer
+data in an algorithm for determining if a wear member has fallen
+off the earth moving machine.
+note that the Opponent’s use of the words “matter of
+substance” do not make inventions in referenced case law
+ostensibly quite different from the present invention to be somehow
+“indistinguishable” from the present invention.
+I further note that
+the cases chosen by the Opponent (which all happen to be cases where the claims
+were found to lack a manner of
+manufacture), though generally relevant to the
+consideration of manner of manufacture, are not necessarily the closest or most
+to the present case.
+(c) Use of known components for known
+functionality
+Opponent submissions state at paragraph 58-60:
+The claimed invention features the use of a known component, an
+accelerometer, for its known functionality (to monitor roll and pitch,
+generally, orientation). The ingenuity in the claimed invention does not reside
+in any characteristic of the accelerometer,
+nor in the selection or the use of
+an accelerometer
+Notably, Dr Vercellone has confirmed that the
+“sensing and hardware
+components described in AU932 were known to the persons skilled in the art (PSA)
+in July 2019”
+. In this respect, the claimed invention uses
+off-the-shelf components which are simply utilised for their known
+properties.
+Further, the high level of
+“genericity and functionality”
+at which those components are recited reveals that they
+“are not part
+of the substance of the present invention”
+. The use of
+uncharacterised apparatus (which includes an uncharacterised electronic
+processing device) to carry out the steps of [an]
+abstract method”
+will not constitute a MM.
+is correct that the invention “features the use of a known component, an
+accelerometer, for its known functionality (to monitor
+roll and pitch, or more
+generally, orientation)”. However, it is typical in almost all inventions
+that a known component is
+used for its known functionality. If the invention
+includes interactions between components in ways that is not commonly known in
+the art, then the existence of a known component in the invention being used for
+its known functionality is not helpful in determining
+whether the invention is a
+manner of manufacture.
+may be the case that “[t]he use of ‘an uncharacterised apparatus
+(which includes an uncharacterised electronic processing
+device) to carry out
+the steps of [an] abstract method’ will not constitute a MM”.
+However, the present invention is
+not an “uncharacterised apparatus”
+and does not carry out the steps of an “abstract method”. The
+specification
+provides an adequate level of detail, and the features of the
+claim are adequately defined, so is not an “uncharacterised
+apparatus”.
+The steps of the method, and the result of the method, are
+adequately defined and are not abstract.
+(d) Generic computer implementation
+Opponent submissions state at paragraphs 61:
+It is implicit, in claim 1, that these steps of the method are to be
+undertaken, in an automated manner, by a generic computing device.
+objective of the Application is to solve the known problems with existing
+methods and systems for detecting fall of wear
+elements. Self-evidently, the
+claimed method would not provide any solution to such problems if the PSA was
+required to calculate
+by themself, in realtime, the
+“mean reference
+“deviation value”
+. The method only has utility if automated, by way of its
+implementation in a computing device.
+do not consider it necessarily true (let alone self-evident) that “the
+claimed method would not provide any solution to such
+problems if the PSA was
+required to calculate by themselves”. I note that claim 1 does not define
+that the invention is performed
+on a computer, nor do dependent claims 2-12.
+Claims 13 and 14 define that the invention is performed on a “control
+module configured
+for carrying out the method”; the control module is
+understood to be a computer.
+method involves steps which are agnostic as to how the steps are carried out,
+whether by automation or by hand, though it is clear
+that the invention is far
+more practical when performed by automation (i.e. by computer) than by hand. The
+specific computing device
+has not been specified in the description implying
+that a generic computer would be adequate to perform the invention. I note that
+the use of a generic computer in an invention is incidental to the determination
+of whether the invention is a manner of manufacture.
+An invention using a
+generic computer may be patentable when there is a material advantage in the
+invention – simply looking
+to the computer is too narrow an
+(e) Invention resides in use of mathematical
+calculations
+Opponent submissions state at paragraph 67:
+Dr Vercellone appears to identify the
+“new or innovative”
+aspect of the claimed invention as the use of accelerometer data (a well-known
+component) to
+“determine the mean reference value”
+“deviation value”
+“a threshold”
+if this is correct, these are mathematical calculations, and the Application
+repeatedly teaches that
+“different formulations can be used”
+to undertake these calculations and admits that the PSA will be able to
+“perform suitable calculations”
+. Thus, it is apparent that,
+even adopting the characterisation urged by Dr Vercellone, the claimed invention
+is concerned with (non-inventive)
+“mathematical modelling”
+“by nature an idea or scheme”
+, and not a MM.
+“mathematical modelling” of the type considered in
+Caterpillar
+[2024] APO 8
+at paragraph 91 are calculations of hypothetical
+scenarios. The present invention is not “mathematical modelling”
+it is a real-world calculation, with an immediate and real-world result:
+the determination of whether a wear member had fallen off
+the earth moving
+machine. This is a material advantage of the type long held to be
+patentable.
+(f) No contribution of the type that attracts patent
+Opponent submissions state at paragraphs 68-70:
+It is useful to consider the type of contribution
+of the claimed invention to the art, noting that
+“the contribution for
+the purposes of novelty and inventive step under s18(1)(b) of the Act is not the
+same as the contribution
+for the purposes of manner of manufacture under
+s 18(1)(a). Manner of manufacture assesses whether the contribution of the
+of a nature or type that attracts patent
+(emphasis added).
+As will be explained in more detail below, D1 discloses providing monitoring
+devices comprising accelerometers and/or orientation
+sensors to GETs to monitor
+presence, that
+“Loss of a product member is detected when one
+monitoring device deviates beyond a certain range from its established position,
+or orientation”
+and refers to
+“detecting the presence of the
+product through its relative position and orientation with the other
+Accordingly, the contribution of the claimed invention cannot relate to the
+detection of lost GET by comparing the orientation of
+each GET with the others
+(since that idea is already known from D1, for example). The contribution, if
+any, could only relate to
+the mathematical calculations referenced in claim 1.
+This is clearly not a contribution
+“of a nature or type that attracts
+patent protection”
+contribution of the invention is not mathematical calculations alone. The
+contribution of the invention is not the articulation
+of the problem alone. The
+contribution of the invention is the new method of determining if a wear member
+has fallen. This method
+includes data from accelerometers, a specific algorithm
+to calculate with that data, and an output. The contribution of the invention
+not common general knowledge and is the type that attracts patent
+protection.
+Does the invention provide a concrete, tangible, physical,
+or observable effect?
+have considered (and rejected) each of the Opponent’s arguments on manner
+of manufacture. However, there is one aspect of
+manner of manufacture which was
+not explicitly raised in the Opponent’s written submission but is worth
+considering. In the
+hearing I asked the Applicant why the claimed method did not
+include a step of using the information when it was determined that
+element had fallen off (such as an alert/alarm). The Applicant said that this
+was an implicit feature. The Applicant noted
+that an analogous situation
+occurred in
+UbiPark Pty Ltd v TMA Capital Australia Pty Ltd (No 2)
+decision states at paragraph 205:
+While at one level the claims comprise a series of instructions to be
+executed by a computer, the invention as claimed does have some
+tangible, physical, or observable effect” (
+namely the opening of the entry barrier and the exit barrier. While this is not
+explicitly stated in claims 1, 11 and 16,
+it flows from the references to
+generating and transferring an entry request and exit request, read in the
+context of the specification
+as a whole. Similarly, and for the same reasons,
+the invention as claimed constitutes an abstract idea that is “implemented
+on a computer to produce an artificial state of affairs and a useful
+at [122]). The artificial state of affairs is
+the opening of the entry barrier and exit barrier. The useful result is that the
+associated with a vehicle is granted entry into, and exit from, a
+restricted area.
+agree with the Applicant that the reasoning in paragraph 205 of
+is relevant to the present consideration. I consider that the use of the
+information to alert the operator of the missing wear member
+appears to be
+implied in the preamble of the claim.
+preamble of the claim states:
+“A fall detection method for detecting the fall of a wear element from
+among a plurality of wear elements of an earth moving
+machine...”
+consider the words “fall detection” and “detecting the fall of
+a wear element” imply detection
+and informing
+the operator of the
+fallen wear element. This implication is derived from the description, for
+example at page 2 lines 6 to 14:
+For these reasons, in the present cases, if the operator suspects that a wear
+element may have fallen, he/she must stop the machine
+as soon as possible for
+inspection, which entails a loss of time and productivity resulting in financial
+loss. Moreover, the element
+can be mixed with the excavated soil and, for
+example, in the case of an installation for extracting minerals that must be
+if the wear element enters the grinder and can cause serious damage
+thereto. This point is particularly problematic regarding safety
+would imply that an operator must access the grinder manually to extract the
+tooth from inside it. Generally, this involves
+a direct action by the operator,
+subsequently putting his/her physical integrity at risk.
+am satisfied that the claimed invention is implicitly directed to informing the
+operator of a fallen wear member which is a concrete,
+tangible, physical or
+observable effect analogous to the
+Conclusion on manner of manufacture
+have addressed each of the Opponent’s manner of manufacture arguments and
+have found none to be persuasive. Although the claimed
+invention does not have
+an explicit step for using the information that a wear member has fallen to
+alert the operator, I consider
+this to be implicit to the
+claimed invention is a manner of manufacture.
+Inventive step
+to subsection 7(2) of the
+Patents Act
+(1990), an invention is taken to
+involve an inventive step when compared with the prior art base unless the
+invention would have
+been obvious to a person skilled in the relevant art in the
+light of the common general knowledge as it existed before the priority
+the relevant claim, whether that knowledge is considered separately or together
+with the information mentioned in subsection
+7(3) provides that the information for the purposes of subsection (2) is:
+(a) any single piece of prior art information; or
+(b) a combination of any 2 or more pieces of prior art information that the
+skilled person mentioned in subsection (2) could, before
+the priority date of
+the relevant claim, be reasonably expected to have combined.
+test for obviousness was provided by Justice Aicken in
+Wellcome Foundation
+Ltd v VR Laboratories (Aust) Pty Ltd
+[1981] HCA 12
+“The test is whether the hypothetical addressee faced with the same
+problem would have taken as a matter of routine whatever
+steps might have led
+from the prior art to the invention, whether they be the steps of the inventor
+High Court in
+Aktiebolaget Hässle v Alphapharm Pty Ltd
+[2002] HCA 59
+- [53]; approved this approach, in addition to that taken in
+Mathieson Chemical Corporation v Biorex Laboratories Ltd
+[1970] RPC 157
+187 in which Graham J had posed the question:
+“Would the notional research group at the relevant date in all the
+circumstances directly be led as a matter of course to try
+[the claimed
+invention] in the expectation that it might well produce a useful [desired
+usual approach to determining inventive step is the problem-solution approach.
+Once the problem has been formulated and the common
+general knowledge and the
+prior art base has been determined, the question of whether the claimed solution
+is obvious must be addressed.
+Consideration
+use of accelerometers in GET/wear members was known before the priority date;
+for example, in D1 (US 2016/0237657), D2 (WO 2018/095536)
+2015/0284935).
+(US 2016/0237657) discloses at paragraph 122:
+Alternatively, the remote device 38 detects the positions of the monitoring
+devices 25 to ensure the presence of each product in its
+established position
+relative to the other monitoring devices 25.
+And at paragraph
+The monitoring device 25 and/or remote device 38 may be, for example, passive
+or active and may include a receiver, transmitter, and/or
+a digital sensor. The
+receiver and/or transmitter may be, for example, a radio communication device,
+an electromagnetic wave receiver
+and/or transmitter, a mechanical wave receiver
+and/or transmitter, a laser receiver and/or transmitter, or Global Positioning
+(GPS). The electromagnetic waves preferably have a wavelength outside of
+the visible spectrum (e.g., infrared, microwave, or Radio
+Frequency [RF]), but
+may be in the ultrasonic spectrum. Further, the devices 25, device 35 may
+include a temperature sensor, a camera,
+a digital inclinometer unit, a digital
+compass, an RFID, an accelerometer, a timer, a proximity sensor, a force sensor,
+sensor, and/or other sensors that provides information regarding the
+operating conditions in which the ground engaging product is
+being used.
+(WO 2018/095536) discloses at page 23 line 30 to page 24 line 1
+Optionally, the SOS signal may be based on sensor data 52 that is outside of
+a predefined range (or beyond a threshold value) as would
+be expected from a
+'detached' GET. For example, such an SOS signal could be based on the
+accelerometer data 54 in that a detached
+GET will be stationary.
+(US 2015/0284935) states at paragraph 37:
+Now, however, it may happen that the dredger tooth 4 is still signed onto the
+reader 11 with its wireless communication 7, despite
+the fact that the dredger
+tooth itself is no longer functional. In such a case, the additional feature of
+the present invention provides
+a remedy, so that an acceleration sensor 6 is
+also provided in the dredger tooth 4 in addition to the RFID tag 5. The
+acceleration
+sensor may be connected directly to the RFID tag or may be
+installed with it in a shared housing.
+summary, the use of accelerometers to determine if a GET had fallen off the
+machine is disclosed in D1-D3 as follows:
+D1 discloses
+accelerometers to establish the relative position of the GETs
+D2 discloses
+using accelerometers to determine if a wear member is stationary
+D3 is not clear
+how the accelerometer is used, but it could be inferred that (similar to D2), it
+determines if a wear member is stationary
+present invention is not merely the use of accelerometers to determine if a GET
+has fallen off the machine. The present invention
+is also specific to the
+algorithm to determining if a GET has fallen off the machine.
+D1 - US 2016/0237657 A1 (Carpenter et al.)
+Opponent’s inventive step argument in their written submissions is made
+only in relation to D1 (and not D2 or D3 which were
+raised in the Statement of
+Grounds and Particulars).
+Opponent summarises the disclosure of D1 in their submissions at paragraphs
+“D1 is entitled
+“Monitoring Ground-Engaging Products For Earth
+Working Equipment”
+. The abstract discloses that D1 concerns both a
+“product and system”
+“monitoring a
+characteristic”
+of GET used on
+“various kinds of earth working equipment”
+The system and product can be explained, at a high level, by reference to
+The GET is the point/tip (15). It has a cavity (18) to receive a base upon
+which it is
+mounted. There are one or more recesses (50C and 50D) in the mounting portion
+the point/tip into which one or more monitoring devices (25) are
+The monitoring device
+“is secured to a ground engaging product to
+monitor characteristics such as ... presence”
+and that monitoring
+“may include one or more sensors from a group consisting of
+radio frequency enabled modules,
+orientation sensors
+, temperature
+accelerometers
+, proximity sensors, force sensors and position
+D1 repeatedly explains that the monitoring device (25), in conjunction with a
+range of sensors, including accelerometers and orientation
+sensors, can be used
+to monitor the presence, orientation and relative positions of the
+Opponent provides at paragraph 81 a table indicating where features of claim 1
+are asserted to be disclosed in D1:
+Claim feature
+Exemplary disclosure in D1
+A fall detection method for detecting the fall of a wear element from among
+a plurality of wear elements of an earth moving machine,
+“The present invention pertains to a device and system for
+identifying and monitoring characteristics such as... presence”
+also: [0099], [0118].
+wherein each wear element is provided with a three-axis
+accelerometer;
+It is clear from Figure 5 (above) that the monitoring device (25) and
+sensor (35) are provided at the wear element. See also:
+[0018]-[0019].
+[0019] and [0116] disclose that the sensor may be an
+accelerometer.
+Further, [0017] discloses the monitoring devices (mounted
+on the GET) are to determine whether they are
+“in established relative
+positions for the equipment on which they are secured”
+. See also:
+The use of a three-axis accelerometer would be the routine way of
+undertaking such monitoring at the Priority Date.
+wherein at least one reference axis is selected, and said method comprises
+the following steps when said earth moving machine is in
+an operative
+This is not expressly disclosed, but is an implementation detail that would
+“immediately apparent”
+to a PSA which they would consider,
+as a matter of routine, and without the need for any ingenuity, for the reasons
+set out below.
+a) for each of said wear elements, obtaining an accelerometer measurement
+of said wear element provided by said three-axis accelerometer
+of said wear
+This is disclosed. As explained, [0019] and [0116] disclose that the sensor
+may be an accelerometer or orientation sensor. In order
+for such sensors to be
+used to monitor
+(see: [0019]) an accelerometer
+measurement must be provided by the accelerometer.
+for each of said at least one reference axis:
+See integer 1(iii) above.
+b) for each of said wear elements, determining a rotational position
+measurement with respect to said reference axis of said wear
+element based on
+said accelerometer measurement of said wear element;
+[0017] discloses using the monitoring device in the following manner:
+“Loss of a product member is detected when one monitoring device
+deviates beyond a certain range from its established position,
+orientation”
+. It would be routine and intuitive for a PSA to determine
+the orientation of the wear element based on the accelerometer measurement.
+also [0122] which refers to
+“detecting the presence of the product
+through its relative position and orientation with the other
+. D1 discloses that one embodiment is the use of
+accelerometers as part of the monitoring devices in the GETs and the subsequent
+and comparison, of each GET to detect presence/loss of the GET. When
+the PSA follows these instructions they would consider determining
+a rotational
+positional measurement about a reference axis as this is a routine and intuitive
+way of determining orientation.
+c) determining a mean reference value based on said rotational position
+measurements of each of said wear elements;
+This is disclosed by [0017] and [0122] and, in any event, is an
+implementation detail that a PSA would consider, as a matter of routine,
+without the need for any ingenuity, for the reasons set out below.
+d) for each of said wear elements, determining a deviation value of said
+wear element based on the deviation between said rotational
+position measurement
+See integer 1(vii) above.
+e) for each of said wear elements, determining that there is a fall of said
+wear element if said deviation value of said wear element
+exceeds a threshold
+This is disclosed by [0017]
+(“Loss of a product is detected when
+one monitoring device deviates beyond a certain range from its established
+) and [0122]
+(“Loss of a product ... a significant
+change in position of the monitoring device is detected when one monitoring
+device deviates
+beyond a certain range of its established
+f) repeating steps (a) to (e) in successive iterations.
+This is disclosed. [0002] discloses a system for identifying and monitoring
+characteristics. To have any utility, D1 must be describing
+a system which is
+“iterated in practice”
+submissions on the integers of the claims are considered below.
+Integer 1(i)
+Integer 1(i) is uncontroversial, both parties accepting that this integer is
+disclosed in D1.
+Integer 1(ii)
+Opponent’s submissions on Integer 1(ii) at paragraph 85-88
+Integer 1(ii):
+There does not appear to be any contest that D1
+discloses the use of an accelerometer. Nevertheless, it appears that Dr
+takes two points, neither of which withstand scrutiny.
+, Dr Vercellone asserts that
+“I am not told that an
+accelerometer (which is mentioned later) is provided with each GET”
+This point has no substance. D1 discloses that
+“each ground engaging
+product on a digging edge includes at least one monitoring device”
+and two paragraphs later, that
+“As examples, the at least one
+monitoring device may include ... accelerometers”
+. It is quite
+irrelevant that D1 might also disclose other systems, in which an accelerometer
+is not used on each GET.
+, Dr Vercellone asserts that
+“I can find no statement
+elsewhere in D1 as to the type of accelerometer that could be used”
+and in particular,
+“D1 does not tell me to use a three-axis
+accelerometer”
+. This point has no more substance than the first point.
+It was CGK at the Priority Date that accelerometers could be used for
+orientation
+detection and D1 repeatedly teaches that the monitoring device
+(which may include an accelerometer) may be used for this purpose.
+As to whether
+“three-axis accelerometer”
+is disclosed, it is relevant to
+note that claim 2 exposes that a “three-axis accelerometer” may be
+either a single three-axis
+accelerometer, or alternatively, three single-axis
+accelerometers. Either way, however, the key point is that the evidence makes
+clear that the use of such accelerometers would be inevitable, if a PSA was to
+follow the teaching in D1 to implement a monitoring
+system using an
+accelerometer [Hillier 2 at [18]]:
+I consider it inevitable that the person skilled in the art following the
+directions in D1 would select a three-axis accelerometer
+or three single-axis
+accelerometers. When using accelerometers for orientation detection, the first
+choice, would be an accelerometer,
+or set of accelerometers, configured to
+provide readings with respect to three axes. Otherwise, some orientations would
+be indistinguishable
+from one another. Three-axis accelerometers were common by
+2019 for orientation detection and they were also inexpensive.
+Therefore, it is unlikely that the person skilled in the art, at July
+2019, would select less than a three-axis accelerometer device/arrangement
+following the directions in D1 to use accelerometers to monitor orientations of
+GET on a lip, particularly so if the orientation
+monitoring was to differentiate
+between GET on a lip and those that are detached.
+Put simply, there was a known, technical need, to use a three-axis
+accelerometer when implementing the teaching of D1 at the Priority
+Further, there was no technical difficulty in doing so.
+Applicant’s submissions at paragraphs 73-74 regarding the integer 1(ii)
+are as follows:
+Integer 1(ii):
+It is implicit from OS [Opponent submissions] that the
+Opponent accepts D1 does not disclose any particular type of accelerometer,
+alone a three-axis accelerometer. The submission at OS [87] relies on the
+proposition that it was "inevitable" a PSA would select
+out of the myriad
+sensors described in D1 an accelerometer, and would then select a three-axis
+accelerometer, or an arrangement of
+three single-axis accelerometers, when
+implementing D1. That submission cannot be sustained.
+The contention that it was CGK at the Priority Date to use three-axis
+accelerometers (or three single-axis accelerometers) for orientation
+is unsupported by probative evidence. In his first declaration, Dr Hiller
+provides a general account of sensors used in
+systems for monitoring GETs,
+including inertial sensing systems, but does not identify any instance in which
+three-axis (triaxial)
+accelerometers were known to be used in any such
+application, including in the context of wear element loss detection. While Dr
+asserts in his second declaration that the use of three-axis
+accelerometers for orientation detection was well-known at the Priority
+does not provide any specific references to technical publications or other
+contemporaneous materials to support that evidence
+which demonstrate such use at
+the Priority Date.
+the context of accelerometers used to determine orientation, I consider Dr
+Hillier’s evidence that three-axis accelerometers
+would be used to be
+persuasive. I consider Integer 1(ii) to be obvious in light of D1.
+Integer 1(iii)
+Opponent submissions state at paragraph 89:
+Integer 1(iii)
+: Dr Vercellone asserts that
+“D1 makes no
+mention of selecting ... reference axes”
+, and further,
+also does not direct me to use an accelerometer to determine the orientation of
+. This is another example of Dr Vercellone adopting an unduly
+narrow and literal approach to disclosure. There can be no debate that
+teaches the use of accelerometers in the monitoring device, nor that D1 teaches
+the use of the monitoring device to determine
+orientation of a GET. That being
+so, as Dr Hillier explained,
+“[d]efining orientation by reference to a
+reference axis would be immediately apparent as a possible approach to the
+“defining the orientation by reference to reference
+axes (about which the rotation is measured) would be
+the most likely approach
+the PSA would have taken
+“any orientation must be
+defined relative to some other (known) orientation and
+the reference is most
+commonly defined by an orthogonal set of (reference) axes”
+(emphasis added). Indeed, the reality is that any orientation must be defined
+relative to some other (known) orientation. Thus, the
+use of a reference would
+“required as part of the way to define orientation”
+taught in D1. Notably, Dr Vercellone does not suggest that the use of a
+reference axis would involve some contribution
+“beyond the skill of the
+or any difficulty to be overcome. Rather, the extent of his
+evidence seems to be that he cannot locate a literal disclosure of this
+implementation step.
+Applicant’s submissions at paragraph 75 state:
+Integer 1(iii):
+The submissions at OS [89] rest on the assumption
+that, when following D1, the PSA would implement a system for monitoring
+of a wear element using orientation measurements obtained from an
+accelerometer. As observed above, D1 refers to the possible inclusion
+an “accelerometer” is to be
+used for orientation, as opposed to any
+other purpose. The submissions at OS [89] are therefore circular. They assume
+that an accelerometer
+would be used to determine orientation and then argue
+that, having made that assumption, it would be routine to define orientation
+with respect to a reference axis. For the reasons outlined above, the underlying
+proposition is not established on the evidence.
+accept that D1 is using accelerometers to determine orientation of the wear
+members, which undermines the Applicant’s argument
+on this point. Although
+I agree with Dr Vercellone that a reference axis is not explicitly disclosed in
+D1, I also agree with Dr
+Hillier’s evidence that a reference axis would be
+used by a person skilled in the art to measure orientation against. I consider
+Integer 1(iii) to be obvious in light of D1.
+Integer 1(vi)
+Opponent’s submissions state at paragraph 90:
+Integer 1(vi)
+: Dr Vercellone asserts that
+“D1 does not tell
+me to use an accelerometer measurement to determine the rotational position of a
+. Again, this is an example of Dr Vercellone adopting an unduly
+narrow and literal approach to disclosure. The point being made by
+Dr Vercellone
+is that, even though D1 teaches the use of accelerometers in the monitoring
+device, and even though D1 teaches the
+use of the monitoring device to determine
+orientation of a GET, D1 does not expressly state
+“what characteristics
+an accelerometer is to determine”
+and it would also be possible to use
+an accelerometer to measure other characteristics (such as
+“the extent
+of usage of the GET”
+). This may be literally true, but is quite
+irrelevant. The question is whether it would be obvious to a PSA, armed with D1,
+teaches the use of accelerometers and the measurement of rotational
+position of GET, to use accelerometers to measure rotational
+position of GET. In
+circumstances where Dr Vercellone has admitted that
+“[a]ccelerometers
+were known and used in a wide variety of devices and vehicles prior to July
+, and the evidence makes plain that
+“it is, and was at
+July 2019, well known that accelerometers can be used for orientation
+, it would have been obvious to a PSA, armed with D1, to use
+the type of sensor disclosed (an accelerometer) to detect the metric
+(rotational position, that is, orientation).
+Applicant’s submissions at paragraph 76 state:
+Integer 1(vi):
+The submissions at OS [90] overlook the significance of
+the point being made by Dr Vercellone. In the absence of any express teaching
+D1 regarding the use of an accelerometer for orientation detection, it is
+entirely appropriate to consider other potential uses
+of such a device. That
+observation is not irrelevant pedantry, but a reflection of the lack of
+disclosure in D1. Where a component
+has several plausible applications, it
+cannot simply be assumed that a PSA would understand a bare reference to that
+component as
+teaching its use for the purpose that aligns with the claimed
+invention. Further, the uses postulated by Dr Vercellone – calculation
+use time or assessments of machine operation or efficiency by reference to
+information provided by an accelerometer based on movement
+measurements –
+are entirely consistent with the limited teaching in D1 regarding the use of
+accelerometers, namely, to provide
+“information regarding the operating
+conditions in which the ground engaging product is being used”
+brief, the disclosure in D1 at [0122] which refers to “detecting the
+presence of the product through its relative position
+and orientation with the
+other products” seems to be only possible as being understood as a
+disclosure of Integer 1(vi).
+Integers 1(vii), 1(viii) and 1(ix):
+Opponent states at paragraph 91-100:
+Integers 1(vii) & 1(viii)
+: These integers require the calculation
+“mean reference value”
+based on the
+“rotational
+position measurements”
+of the wear elements and a
+of a wear element based on the deviation between the
+“rotational position measurement”
+of that wear element and
+“mean reference value”
+Dr Vercellone disputes that there is any disclosure of the determination of a
+mean reference value, on the basis that the disclosure
+and does not expressly recite that
+“there is a
+comparison made of one GET to another GET”
+. It appears that Dr
+Vercellone denies the disclosure of a deviation value on the same basis.
+Yet again, this involves Dr Vercellone requiring a strict, literal
+disclosure, rather than approaching the nature of the disclosure
+in D1, and how
+it would be implemented by a PSA at the Priority Date, with commonsense.
+At [0017], D1 teaches that
+“Loss of a product member is detected
+when one monitoring device deviates beyond a certain range from its established
+or orientation.”
+At [0122], D1 then further teaches that
+(emphasis added):
+Loss of a product (e.g., through breakage or pin ejection) results in loss
+of the monitoring device from the established electronic
+framework; i.e.,
+significant change in position of the monitoring device is detected when one
+monitoring device deviates beyond a certain range of
+its established position
+with the other monitoring devices
+...Alternatively, the remote device 38
+detects the positions of the monitoring devices 25 to ensure the presence of
+each product in
+established position relative to the other monitoring
+. In either case, by detecting the presence of the product through
+relative position and orientation with the other products
+, the system
+operates irrespective of the movement and operation of the earthworking
+equipment with the ground engaging products.
+These passages make clear that D1 is teaching that a comparison be made
+between the rotational position of the monitoring device on
+a GET and the
+rotational position of the monitoring devices on the other GET (i.e. the
+“other monitoring devices”
+which are on
+). As Dr Hillier has explained,
+“In order to detect
+the presence (or absence is implied) of the GET relative to the others via
+orientation, then evaluating
+the general or average orientation of the other GET
+is implicit”
+. Dr Hillier also noted that his view of this point is
+supported by the
+“broad meaning of
+“mean reference
+that is established by the Opposed Application”
+observed that when following the directions in D1 to compare the orientation of
+one GET to the other GETs, the PSA
+“would immediately consider
+comparing the orientation of the GET under investigation to an arithmetic mean
+of the orientation
+of the other GETs, as this is a very straightforward and
+intuitive way to determine how far one measurement deviates from a set of
+measurements”
+Similarly, in order to determine whether a GET has
+“deviate[d]
+beyond a certain range”
+“relative position and
+orientation with the other products”
+, it is necessary to undertake a
+comparison between the position/orientation of that GET and other GET, thereby
+resulting in the calculation
+of a deviation value. These are straightforward
+implementation details that a PSA would address when following the teaching of
+to detect the orientation of a GET relative to the other GET, as described in
+Dr Vercellone merely asserts that
+“It is not necessary to obtain a
+mean reference value in order to compare the orientation of one GET with the
+orientation of
+. However, that is not what D1 discloses. D1 at
+[0122] expressly, and repeatedly, teaches a comparison between the orientation
+one GET “with the other monitoring devices”, that is, all such
+other devices. The comparison which Dr Vercellone asserts
+to potentially avoid
+the need for a mean reference value is not the comparison which D1 teaches and
+discloses. It follows that the
+point made by Dr Vercellone goes nowhere.
+Further, and importantly, Dr Vercellone does not anywhere suggest that the
+use or calculation of a mean reference value or deviation
+value would be
+“beyond the skill of the calling”
+or require any difficulty
+to be overcome. Indeed, it is to be recalled that the Application expressly
+admits that
+“the skilled person will understand that different
+formulations can be used to obtain representative values”
+otherwise allows the PSA complete discretion as to how a mean reference value or
+deviation value is to be calculated, thereby
+revealing that this involves
+nothing more than the deployment of CGK. Thus, even taken at face value, the
+evidence of Dr Vercellone
+appears to rise no higher than an assertion that there
+might have been another, equally obvious, and technically straightforward,
+of implementing the teaching of D1. That is no answer to an allegation of lack
+of inventive step.
+Integer 1(ix)
+: this integer requires a determination that there has
+been a fall of the wear element if its deviation value exceeds a threshold
+value. Although Dr Vercellone denies this is disclosed, that appears to be on
+the basis that D1 does not literally use the words
+. It could not be clearer that D1 discloses this integer at
+[0017] & [0122], where it is explained that
+“significant change in
+of a monitoring
+device “beyond a certain
+will indicate
+“loss of a product”
+“certain range”
+discussed in [0017] & [0122] is the
+“threshold value”
+required by this integer.
+It follows that claim 1 of the Application does not involve an inventive step
+over D1 when combined with the CGK.
+Applicant states at paragraph 77-79:
+Integers 1(vii) and 1(viii): The submissions at OS [91]-[98] rely heavily on
+the proposition that D1 teaches or necessarily implies
+the calculation of a
+“mean reference value” based on “rotational position
+measurements” of the wear elements
+and a “deviation value”
+based on the deviation between the “rotational position measurement”
+of that wear
+element and the “mean reference value”. That
+proposition cannot be sustained.
+D1 does not disclose the use of comparative statistical operations –
+such as determining an average or deviation – as
+part of the detection
+method. Instead, it refers generally to detecting when a monitoring device
+“deviates beyond a certain
+range”, without identifying what that
+range is or how it is derived. Dr Hillier’s evidence regarding these
+including that “evaluating the general or average
+orientation of the other GET is implicit” and that the PSA “would
+immediately consider comparing the orientation of the GET under investigation to
+an arithmetic mean of the orientation of the other
+improperly elevates hindsight reasoning.
+Further, the Opponent’s attempt (at OS [97]-[98]) to dismiss Dr
+Vercellone’s evidence is misplaced. Dr Vercellone correctly
+that D1 does not describe determining a mean reference value based on the
+rotational position of all monitoring devices
+Hillier states in Hillier 2 at [23]:
+Regarding paragraph 49vii., Dr Vercellone says that D1 does not disclose the
+determination of a mean reference value based on rotational
+measurements of each wear element. I disagree and stand by the comments in my
+First Declaration that, when following the
+directions at paragraph [0122], for
+example, to detect the presence (and therefore loss) of a product (GET) through
+its relative
+orientation with the other products (GETs), it is implicit that the
+orientation of each GET is compared to the general or average
+orientation of the
+others (described in D1 as the “established orientation”). My view
+on this point is strengthened by
+the broad meaning of “mean reference
+value” that is established by the Opposed Application. Regardless of how
+meaning of “mean reference value” may be, when the PSA
+follows the directions in D1 to compare the orientation of one
+GET with the
+orientation of the other GETs, I believe they would immediately consider
+comparing the orientation of the GET under
+investigation to an arithmetic mean
+of the orientation of the other GETs, as this is a very straightforward and
+intuitive way to
+determine how far one measurement deviates from a set of
+measurements.
+Reiterating
+an excerpt from the above passage, it is Dr Hillier’s evidence that a
+person skilled in the art would:
+“...compare the orientation of one GET with the orientation of the
+other GETs...”
+“...comparing the orientation of the GET under investigation to an
+arithmetic mean of the orientation of the other GETs...”
+Hillier states that the orientation of the
+GET under investigation
+be compared with the mean of the
+. However, this is
+the invention as presently defined.
+present invention is to take the mean of
+all the GETs orientations
+orientation of each GET is then individually compared with this calculated mean
+of all the GETs.
+Hillier, even after he had read the opposed specification, gave evidence that
+the person skilled in the art would make an invention
+to the claimed invention. This is clearly detrimental to the Opponent’s
+position that these claimed features (Integers
+1(vii), 1(viii) and 1(ix)) are
+Additionally,
+in other parts of Dr Hillier’s evidence he also does not arrive at the
+claimed invention. For example, Hillier
+states in Hillier 1 at paragraph
+There are any multitude of ways to quantify that the orientation of one item
+of GET is different to the others – the most obvious
+being variations on
+that presented in AU ‘932, i.e. simple comparisons of the difference of
+the orientations of the GET against
+each other, and against a threshold,
+although I would consider minor adjustments in the method to take advantage of
+simple statistical
+outlier analysis methods would also be quite run-of-the-mill
+ways to identify the lost item of GET given this data.
+Hillier is envisaging a simple difference calculation between the orientation of
+the GET against each other GET. This is not the
+same as the calculating the mean
+value of the orientation of all GETs defined in the claims.
+paragraph 86 of Hillier 1 Dr Hillier states:
+The specific use of a weighted sum (or weighted mean) to get the reference
+value seemed unusual to me, but as I alluded to before,
+there are any number of
+ways that this concept can be implemented, and within reason, the various
+implementations would perform the
+same function without real impact to the
+overall method’s or system’s performance.
+Dr Hillier talks about a weighted mean which can be understood as a more
+generalised version of a mean (where a simple mean calculation
+would be where
+all the weightings were set to 1). However, it is not clear whether he is
+referring to the weighted mean of
+the GETs, or calculating the
+weighted mean of the other GETs aside from one (as he discusses in further
+detail in Hillier 2). It
+is notable that Dr Hillier considers the use of
+weighted mean to be ‘unusual’ which seems to be the contrary of
+consider that Dr Hillier’s evidence is not persuasive that the modifying
+D1 to include integers 1(vii), 1(viii) and 1(ix)
+would be obvious in light of
+D1. The evidence of Dr Vercellone is also not supportive of a finding that the
+claims lack an inventive
+step, at least with respect to these
+Inventive step conclusion
+have found that integers 1(i) and 1(vi) are disclosed in D1. I have found
+integer 1(ii)
+– using a three-axis accelerometer rather than merely an accelerometer
+disclosed in D1; and
+integer 1(iii)
+– measuring the orientation with respect to a reference
+would each be an obvious step for a person skilled in
+the art. I have found that a person skilled in the art would not, as a matter
+routine, modify D1 such that it includes the integers 1(vii), 1(viii) or
+Consequently,
+the claimed invention constitutes an inventive step over D1.
+claimed invention is a manner of manufacture.
+claimed invention is inventive in light of the prior art.
+opposition is unsuccessful. The Application can proceed to grant.
+typically follow the event. I see no reason to depart from this practice in this
+the opposition is unsuccessful, I will award costs according to Schedule 8
+against the Opponent, CQMS Pty Ltd.
+Delegate of the Commissioner of Patents
+RTF format (5.77 MB)
+Signed PDF/A format

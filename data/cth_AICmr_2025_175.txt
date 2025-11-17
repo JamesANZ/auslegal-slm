@@ -1,0 +1,891 @@
+Commissioner Initiated Investigation into Vinomofo Pty Ltd (Privacy) [2025] AICmr 175 (17 October 2025)
+Commissioner Initiated Investigation into
+Vinomofo Pty Ltd (Privacy)
+[2025] AICmr 175
+(17 October 2025)
+Decision and reasons for decision of
+Vinomofo Pty Ltd
+Decision date
+Case reference number
+CII23/00017
+(Cth) — Australian Privacy
+Principles — APP 11.1— Whether reasonable steps taken to protect
+personal information
+— Breach of APP 11.1 — Failure to take
+reasonable steps — Must not repeat or continue acts and practices found
+be an interference with individuals’ privacy — Specified steps to
+address interference.
+Determination
+find that Vinomofo Pty Ltd (
+) interfered with the privacy of
+individuals, whose personal information it held in the database (as described at
+paragraphs [
+]) within the meaning of
+to take such steps as were reasonable in the circumstances to protect that
+personal information from misuse, interference
+and loss and from unauthorised
+access, modification or disclosure, in breach of Australian Privacy Principle
+(APP) 11.1.
+Declarations
+declare, under
+s 52(1A)(a)
+, that the acts and practices of
+the respondent as outlined at paragraph [
+], constitute an interference with the
+acts and practices.
+further declare under
+s 52(1A)(b)
+that the respondent
+of the date of this determination:
+security logging in all of the respondent’s Amazon Web Service’s
+) environments that store personal information;
+appropriate security access settings to any database that holds the personal
+information collected by the respondent;
+systems or controls to monitor its systems for signs of unauthorised
+written policies and procedures that meet the minimum-security baseline
+requirements as set out in the Industry Standards;
+an independent reviewer to review the adequacy of staff with cyber security
+expertise and address any shortcomings identified;
+a privacy and security aware culture by implementing an appropriate training
+schedule for staff.
+of the date of this determination, engage a suitably qualified
+independent reviewer, such as a privacy or cyber security expert
+the effectiveness of the respondent’s implementation of the actions
+outlined at paragraph [
+.a.i.–vi]; and
+a report that specifies the independent reviewer’s findings and
+recommendations (
+review report
+of the date of the review report, provide a copy of the report to
+the Office of the Australian Information Commissioner
+of the date of the review report, action any recommendations
+contained in the report; and
+to the OAIC on the steps it has taken to action the recommendations contained in
+the review report within
+of taking that
+this matter, the respondent, an online wine wholesaler, experienced a data
+breach that resulted in unauthorised access to its customers’
+information.
+OAIC’s investigation, and my resulting determination, concerns the
+respondent’s compliance with APP 11.1, which requires
+an entity that is
+subject to the
+to take reasonable steps to protect the personal
+information that it holds from misuse, interference and loss, and from
+unauthorised
+access, modification or disclosure.
+determination provides a clear application of APP 11.1 in the context of data
+migration projects, and in particular speaks to
+entities’ obligations when
+using cloud infrastructure providers to house personal information. It explores
+the technical and
+organisational steps entities should consider to meet their
+obligations under APP 11.1.
+Findings and Reasons
+Factual background
+respondent is an online wine wholesaler. It is an Australian proprietary company
+that was registered in June 2013 and its business
+model involves direct
+engagement with wine producers to offer online deals to its customer
+The respondent holds personal
+information on its customers including customers’ names, genders, dates of
+birth, addresses,
+email addresses and phone numbers.
+The database
+27 December 2018, the respondent commenced a platform transformation project
+Platform Transformation Project
+) to upgrade its system for managing
+customer data, including customers’ personal information (
+management system
+implement the Platform Transformation Project, the respondent took a staged
+approach to migrating the data (
+Data Migration Project
+) from its legacy
+environment to the new production platform system (
+New Production Platform
+facilitate the Data Migration Project, the respondent transferred personal
+information to a temporary database, a PostgreSQL database
+the database
+provided by AWS Relational Database
+respondent initially characterised the database as a testing platform, on which
+personal information was held for data migration
+It later clarified that
+the database was a “temporary migration database” and was not used
+for the purpose of testing
+nor was any testing
+undertaken.
+respondent submitted that it adopted a staged approach to migrate the data using
+the database due to differences in the data structure
+between the legacy and New
+Production Platform system.
+first tranche of data was transferred to the database on 15 April
+respondent noted that alternative approaches were not viable because it would
+have required the read-replica in the legacy database
+to be queried during low
+traffic hours outside of business hours, resulting in delays to the Data
+Migration Project and delayed security
+respondent transferred personal information to the database to facilitate the
+Data Migration Project and enable ongoing reporting
+throughout the Platform
+Transformation Project, specifically:
+profiles (including name, gender, date of birth, address, email addresses and
+phone number, but excluding customer history)
+on 15 and 20 April 2022; and
+lists (potentially including name and email address) on 9 August
+The notifiable data breach
+On 25 September 2022, the respondent experienced a data breach, where an
+unauthorised third party (
+threat actor
+) accessed and exfiltrated data
+from the database (
+On 17 October 2022, the respondent notified the OAIC of the Incident, which it
+had assessed as an eligible data
+At the time of the Incident, the database held approximately 17GB of data, which
+included the personal information of approximately
+928,760 individuals
+(customers and members) comprising:
+information: gender, date of birth;
+information: name, email address, phone number, residential address; and
+information: sales order history and invoice
+information.
+threat actor sought a ransom payment from the respondent for the data that was
+exfiltrated. The data was posted for sale on the
+dark web on 16 October 2022. A
+sample of the data posted was subsequently sold on 20 October
+response to the data breach notification, the OAIC made preliminary inquiries of
+the respondent.
+As a result of
+those inquiries, concerns arose in relation to the respondent's privacy
+practices, particularly in relation to APP
+The investigation
+5 April 2023, the former Australian Information Commissioner commenced an
+investigation under
+into the respondent’s
+compliance with APP 11.1 during the period 1 January 2022 to 5 June 2023
+relevant period
+), which captured the time of the
+initial preliminary view was issued to the respondent on 23 December 2024. The
+respondent made submissions in
+revised preliminary view was issued to the respondent on 28 May 2025. The
+respondent made submissions in
+Application of relevant law
+The APPs in Schedule 1 of the
+regulate the handling of personal
+information by Australian government agencies and certain private sector
+organisations (
+APP entities
+An APP entity is prohibited from doing an act, or engaging in a practice, that
+breaches an APP.
+practice of an APP entity is an interference with the privacy of an individual
+if it breaches an APP in relation to the
+personal information about an
+individual.
+I am satisfied that the respondent is an APP entity because it is a body
+corporate that is not a small business
+a registered political
+party, an agency, a State or Territory authority or a prescribed instrumentality
+of a State or Territory,
+an annual turnover greater than $3 million in three consecutive years between
+2019 and 2022.
+In making this determination, I have considered the
+Australian Privacy Principles Guidelines
+to privacy regulatory
+and material
+provided by the respondent.
+For the purposes of
+and following my consideration of
+the submissions and evidence, I am satisfied that:
+acts and practices to which the investigation relates can be adequately
+determined in the absence of a hearing with the respondent;
+are no unusual circumstances that would warrant holding a hearing before making
+this determination.
+The facts and circumstances of this matter require me to consider the relevant
+law, and in particular determine the answer to the
+the respondent take such steps as were reasonable in the circumstances to
+protect the personal information it held from misuse,
+interference and loss, and
+unauthorised access, modification or disclosure (
+security risks
+accordance with its obligations under APP 11.1?
+Did the respondent to take such steps as were reasonable in
+the circumstances to protect the personal information it held from security
+risks, in accordance with its obligations under APP 11.1?
+It is not in dispute that the Incident involved unauthorised access to personal
+information that the respondent held in the database.
+However, in determining whether the respondent breached APP 11.1 it is relevant
+to consider what steps the respondent took to protect
+the personal information
+it held and whether those steps were reasonable in the circumstances to protect
+the information it held
+from the security risks. The steps an APP entity is
+required to take to meet its obligations under APP 11.1 will depend on the
+circumstances.
+is not prescriptive concerning what steps will be reasonable in
+the circumstances. This is an objective test that has regard to how
+a reasonable
+person, who is properly informed, would be expected to act in the
+circumstances.
+question to be determined on a case-by-case basis and the obligation is not
+susceptible to reduction to fixed
+That is to say, what is
+reasonable is a question of fact in each individual case and includes, where
+relevant, taking steps to implement
+strategies in relation to:
+Governance,
+culture and training
+policies, procedures and
+Federal Court of Australia (
+) has provided guidance on the approach
+to be taken to determine if steps taken were reasonable in the circumstances,
+albeit within
+the context of corporations law
+The Court has observed
+that identifying steps that could have been taken, but were not taken, can be
+of testing the reasonableness of what was (and
+was not) done. However, the focus must always be on whether the steps that were
+in their totality, were
+reasonable.
+This requires
+consideration of whether the steps that were taken to protect personal
+information from the security
+were commensurate to the
+risks presented in the relevant
+circumstances.
+Accordingly,
+I adopt this analytical approach to determine whether the steps that the
+respondent took were reasonable in the circumstances.
+It is therefore relevant
+for me to identify the following:
+are the relevant circumstances?
+steps were taken by the respondent to protect the personal information it held
+from security risks? and
+the steps taken by the respondent, in their totality, commensurate to the
+security risks in relation to the personal information
+Factors that may be relevant to assessing whether particular steps were
+reasonable in the circumstances may include the degree of
+difficulty or
+practicability of any given step, and the costs associated with them.
+Additionally, a step may be reasonable but unnecessary
+because an APP entity is
+taking other steps commensurate to the risk, to which the proposed step adds
+its response to a preliminary view I provided to the respondent on this matter,
+the respondent noted that the some of the legal
+interpretations in adjacent case
+law, as discussed at paragraph [
+were developed after the time of the incident in 2022. It raised concern with
+respect to risks that arise from applying standards
+that were not reflective of
+the applicable regulatory environment at the
+acknowledge the respondent’s view, I do not accept that my analysis, given
+its regard to instructive reasoning and
+legislative interpretation from the
+Court, imports any retrospectivity.
+The relevant circumstances
+In considering what steps the respondent took to protect the personal
+information it held and whether such steps were reasonable
+in the circumstances,
+as required by APP 11.1, I have had regard to the following
+circumstances:
+personal information held
+– the personal information stored in the
+gender, date of birth, contact information and sales order history and
+invoice information.
+Guidelines consider that as the amount of personal information that is held by
+an entity increases, so too will the steps
+that is reasonable to take to protect
+nature of the entity
+– the respondent is a for-profit entity with, at
+the time of the Incident, an income of approximately $72 million per financial
+and approximately 120
+I therefore consider
+it to be a reasonably well-resourced entity. While the respondent has clarified
+that it now has 50 employees,
+for the purposes of considering whether it took
+reasonable steps under APP 11.1, it is relevant to consider the nature of the
+at the time the Incident occurred.
+adverse consequences
+– the respondent held a large amount of personal
+information about its customers and members. It is generally accepted that
+unauthorised access or disclosure of personal information posed a risk of harm
+to affected individuals, including through identity
+theft or fraud, the
+publication and sale of their personal information on the dark web, and being
+targeted by online scams. More
+rigorous steps are generally required as the risk
+of adversity
+What steps did the respondent take to protect the personal
+information it held from security risks?
+The OAIC’s investigation considered steps the respondent had in place at
+the time of the Incident to assess whether it met
+the requirements of APP 11.1.
+To support this consideration, the respondent provided an outline of the
+technical and organisational
+measures it had in place at the time of the
+the respondent also raised concerns about retrospectivity, similar to those
+described at paragraph [
+relation to my consideration of their technical and organisational measures. It
+noted that APP 11.3 – which specifies
+that reasonable steps for the
+purposes of APP 11.1 include technical and organisational measures – was
+not in effect at the
+time of the Incid
+11.3 was indeed not in effect at the relevant time and I address it here only
+because it was specifically raised by the respondent.
+I note that APP 11.3 was
+not introduced as a new requirement, as specified in the relevant Explanatory
+Memorandum, but rather was
+introduced ‘to give further guidance and
+clarification to APP entities, and to avoid
+the APP Guidelines with respect to APP 11 that were in place at the relevant
+time – made under
+on 22 July 2019 –
+set out the reasonable steps that should be taken by an entity to secure
+personal information and include
+measures that would accurately be characterised
+as organisational and technical. Organisational measures, for example, is an
+description of: ‘governance, culture and training’ and
+‘internal practices, procedures, and
+measures is an accurate description of ‘ICT security’, ‘access
+security’ and ‘third party
+providers (including cloud
+computing)’
+respondent’s description of the technical and organisational measures it
+had in place at the time of the Incident included:
+security for the respondent’s ICT devices, including security software
+(Bitfender) installed on all devices, endpoint
+protection, access restrictions
+based on employee level and business requirements
+security measures including Single Sign-on to authentication via Google Identity
+provider and multifactor authentication
+of Software as a Service (SaaS) applications including data encryption within
+the AWS environment and email security through Google
+Enterprise Workspace
+subscription
+and logging measures for central internally built eCommerce business
+applications and some IT applications, with periodic reviews
+of authentication
+logs for unexpected
+Organisational
+respondent required all staff to complete annual training courses in relation to
+the time of the Incident, 141
+employees had undertaken all or some of these
+September 2021, the respondent engaged a Chief Technology Officer who was
+responsible for governing the organisation’s security
+principles,
+monitoring vulnerabilities and ensuring employees implemented best practice in
+relation to the use of technology. In
+March 2022, the respondent engaged a Head
+of Data & Technology Officer whose main responsibilities included data
+security and
+building data governance frameworks and alerts for data
+respondent had an IT Policy
+Data Retention and Data Destruction
+that broadly set out the
+respondent’s expectations in relation to the operation and use of its
+network and equipment, and principles
+and procedures governing the retention and
+destruction of data.
+In relation to the Platform Transformation Project, the respondent submitted
+that it conducted a one-off risk assessment which reviewed
+the SaaS application
+security access layers, integration controls, and security documentation for
+compliance, data handling and access
+security, audit logging
+capability.
+Were the steps taken by the respondent, in their totality,
+commensurate to the security risks?
+I acknowledge that the respondent took the steps outlined in paragraphs [
+], which went some way to taking the
+reasonable steps required by APP 11.1. However, I am not satisfied that the
+respondent took such
+steps that were, in their totality, commensurate to the
+security risks and reasonable in the circumstances to protect the personal
+information it held.
+particular, I have identified the following risks that were inherent in the
+respondent’s security framework and which do
+not appear to have been
+appropriately addressed by the steps taken by the respondent at paragraphs [
+respondent had limited ability to monitor, detect, be alerted to, respond to and
+record security threats, unauthorised access
+or suspicious activity occurring on
+the database (see my analysis concerning security logging and access monitoring
+below at paragraphs
+] and paragraphs [
+] respectively);
+respondent failed to apply appropriate security controls proportionate to the
+level of risk occasioned by the use of cloud infrastructure
+(see my analysis
+regarding the steps the respondent could have taken with respect to cloud
+infrastructure security controls, below
+at paragraphs [
+respondent’s culture and business posture was not one that valued or
+nurtured attention to customer privacy, as exemplified
+by failures regarding its
+policies and procedures, training, and cultural approach to privacy (see my
+analysis addressing policies
+and procedures, people and culture, below at
+paragraphs [
+] and paragraphs [
+] respectively).
+I discuss the risks inherent in the respondent’s security framework and
+the steps that could have been taken to address them
+further below at paragraphs
+]. In undertaking this analysis, I have
+had regard to the circumstances outlined at paragraph [
+], and the cybersecurity and
+information security standards and frameworks which existed at the time of the
+Incident and applicable
+ally, NIST CSF,
+7000 series,
+the Essential
+and the Information
+curity Manual (
+my view, taking into consideration the relevant standards and frameworks and the
+respondents’ circumstances, there were other
+steps the respondent could
+have taken to protect personal information from the security risks, as set out
+below. Having regard to
+these steps that could have been taken, but were not, I
+consider that the totality of the steps taken by the respondent to protect
+personal information it held were not commensurate to the risks presented in the
+circumstances. In order to protect the personal
+information it held from the
+security risks identified in paragraph [
+], the respondent could have taken the
+following steps, or some combination thereof:
+or additional
+security logging
+capability;
+appropriate
+cloud infrastructure security controls
+access monitoring controls
+to alert the respondent to suspicious or
+unauthorised activity;
+implementing
+and using more robust security
+policies and procedures
+a poor culture of information security awareness and
+Security logging
+Unauthorised access of personal information can be detected by reviewing a
+record of system activities, such as an audit log. Maintaining
+a record of
+system activities is often the best way for reviewing activity on a computer
+system to detect and investigate privacy
+According to Industry Standards, the minimum controls expected of an
+organisation like the respondent with respect to security logging
+all events where a user is performing read, create, modify, or delete actions to
+event logs for a minimum of 1 year; and
+event logs in a centralised and secure information
+In the circumstances of the Incident, the respondent submitted that it had
+limited security logging capability in relation to the
+claimed that detailed logging was in place for its central internally built
+eCommerce business applications,
+but some databases, including the database
+impacted by the Incident, did not have logging
+Logging functionalities in an AWS database, whilst not configured by default,
+can be enabled by AWS CloudTrail, which tracks actions
+performed by a user,
+role, or an AWS service and can log details for 90 days, including the IP
+address from which a request is made,
+the date and time of an
+It is my view that
+enabling CloudTrail would not have been a complex process, as it only required a
+user to log in to their AWS account
+and update the properties of the relevant
+AWS database.
+With the absence of security logging, the threat actor was able to gain access
+to and exfiltrate the respondents customer database
+without detection.
+Cloud infrastructure security controls
+AWS cloud environment. The database was used by
+the respondent as a temporary
+migration database to facilitate the Data Migration Project as part of its
+Platform Transformation
+Cloud computing offers a range of potential benefits to an entity, including
+improvements to the entity’s cyber security posture
+and mitigation of
+cyber threats, particularly where the entity does not have the resources or
+capability to develop its own cloud
+storage. Organisations that store data in
+the cloud are responsible for maintaining the appropriate security
+configurations of their
+infrastructure
+regard to the circumstances outlined at paragraph [
+], it was reasonable for the respondent
+to have applied appropriate security controls to its cloud infrastructure, on
+which the database
+was located, by:
+is isolated and not accessible via the internet;
+implementing
+a web application firewall for any database not isolated from the internet;
+any personal information stored in the
+When an AWS database is created, the default settings are set to private and the
+AWS by default, also
+encrypts all databases with an industry standard encryption algorithm on
+The respondent has
+advised that settings for AWS were not updated to support VPC by default until
+11 March 2013.
+at the time of the incident, the database was poorly configured
+not hosted on a VPC or isolated from the internet;
+not have web application firewall in place, and
+not have encryption
+respondent has noted that no reconfiguration of the security settings took place
+before the incident. The database was created
+outside of a VPC due to the legacy
+nature of the AWS account, which did not have a VPC as default when it was
+created in 2012. Consequently,
+the respondent’s legacy databases,
+including the database, were not attached to any VPC as
+Access monitoring
+Where an organisation stores content in an environment that is not intended to
+be disclosed to the public, it is reasonable to regularly
+review and monitor the
+environment, to ensure the content is not being accessed by unauthorised
+access monitoring detects unauthorised access to personal information. Use of
+proactive security monitoring to identify possible
+unauthorised access is a
+reasonable step for entities that use systems or databases which hold large
+amounts of personal
+information.
+In the circumstances of the Incident, the respondent submitted that it did not
+apply access monitoring controls to its AWS environment
+on which the database
+was stored.
+This led to the
+respondent’s inability to monitor, be alerted to, and respond to
+unauthorised access or suspicious activity.
+on a [redacted] submitted by the respondent, the Incident occurred on 25
+September 2022.
+However, it was
+only when a sample of data was published online on 16 October 2022 that the
+respondent confirmed that its database
+compromised.
+light of the circumstances I have outlined at paragraph [
+] it was reasonable for the respondent
+to have taken steps to ensure that the following access monitoring controls were
+in place to
+detect anomalous activity and possible unauthorised
+centralised access monitoring platform for security alerts for databases with
+sensitive customer data and business-critical systems;
+alerts from its monitoring platform; and
+of these alerts on the basis of their criticality level (for example, alerts
+rated as high or critical severity to be actioned
+immediately).
+Had the respondent enabled the appropriate logging and access monitoring
+controls on the database, it would have been more likely
+to proactively detect
+and respond to the unauthorised access and exfiltration.
+At the time of the Incident, the respondent failed to apply reasonable access
+monitoring controls to the AWS environment which stored
+the personal
+information.
+Policies and procedures
+should document the internal practices, procedures and systems used to protect
+personal information. The documentation should
+be regularly reviewed and updated
+and outline the personal information security measures that are established and
+maintained against
+the risks and threats to personal
+information.
+respondent provided the OAIC with a Security Audit report dated 31 August 2021.
+The Security Audit report stated that formal security
+policies and procedures
+governing the respondent’s business operations did not
+Critically, it outlined
+that the respondent did not have any policies or procedures documenting
+information security, security roles
+and responsibilities, or the acceptable use
+of assets such as laptops, emails or
+While I acknowledge the respondent’s claim that it did have an active IT
+Policy in place at the time of the
+the occurrence of the
+Incident despite the Policy brings into question its effectiveness. Similarly, I
+acknowledge the respondent’s
+affirmation that all staff were trained on
+data protection at the time of the Incident through the privacy training module
+‘Safetrac’.
+the nature and volume of personal information the respondent routinely collected
+for its business activities, it is my view
+that it was reasonable for the
+respondent to have implemented documented practices, procedures and systems to
+ensure a consistent
+approach to the security of personal information. Having
+documented security policies and procedures is a basic security safeguard,
+particularly for an organisation holding significant amounts of personal
+information.
+People and culture
+Security policies and practices are only effective when properly and
+consistently implemented and followed by employees. Security
+arrangements should include appropriate training, resourcing and management
+focus to foster a privacy-and security-aware
+culture. Insufficient interest in
+personal information security from staff, in particular senior management, can
+lead to threats
+to the security of personal information being ignored and not
+properly attended
+At the time of the Incident, the respondent’s management team responsible
+for cyber security comprised of 3 individuals including
+the Head of Data and
+Technology and Head of Engineering. Both positions were staffed by former
+engineers with no formal qualification
+or certifications in cyber
+Additionally, the respondent categorised its public facing privacy policy under
+the title ‘The boring stuff’, noting
+impressed with your commitment... But the good stuff is all up there, buddy.
+[Emoji: Finger pointing up].
+Since you're here, check out these links and
+boring bits, if you're into that kind of
+The respondent
+confirmed that this content has since been removed from its privacy
+I acknowledge the
+respondent’s submission that this content was intended to contrast
+‘serious legal and service links’
+– including privacy –
+with the product-focused “fun” content; and that it removed this
+content to avoid misinterpretation
+rather than to reflect a change in its
+commitment to privacy or internal
+also acknowledge the respondent’s advice in response to my preliminary
+view that prior to the Incident, the respondent did
+not appear to consider its
+customers’ privacy as a business priority. The respondent stated that
+because of COVID-19 where
+offices in Victoria were shut down during extended
+lockdowns, upgrading its telephone system had to take operational priority to
+maintain continuity of service.
+I understand that COVID-19 impacted the respondent and prompted the urgent need
+to upgrade its telephone system to facilitate remote
+I maintain that there was an unacceptable delay by the respondent in uplifting
+its security posture prior to commencement
+of the Data Migration Project and the
+transfer of the first tranche of data to the database in April 2022. The
+respondent was aware
+of the deficiencies in its security governance and that it
+needed to uplift its security posture at least 2 years prior to the Incident.
+The respondent was also aware of the areas where significant security risks
+existed that required urgent attention following the
+Security Audit Report which
+was issued a year prior to the incident.
+At the time the Security
+Audit Report was issued in August 2021, this was toward the end of the COVID-19
+lockdowns in Melbourne,
+which commenced in March
+find that the during the relevant period, the totality of steps taken by the
+respondent were not reasonable in the circumstances
+to protect the personal
+information it held from misuse, interference and loss and unauthorised access,
+modification or disclosure.
+Declarations
+I have found that the respondent interfered with the privacy of individuals, I
+have a discretion under
+to make one or more
+declarations. Consequently, I have made declarations at paragraphs [
+] of this determination.
+Commissioner
+Review rights
+(Cth) states that a party may apply
+to have a decision under
+or (1A) to make a determination reviewed by the
+Administrative Review Tribunal (
+). The ART provides independent merits
+review of administrative decisions and has power to set aside, vary, or affirm a
+An application to the ART must be made within 28 days
+after the day on which the person is given the privacy determination
+Administrative Review Tribunal Act 2024
+(Cth); r 5(3)
+Administrative Review Tribunal Rules 2024
+(Cth)). An application fee may
+be payable when lodging an application for review to the ART. Further
+information is available on
+the ART’s website (
+www.art.gov.au
+) or by telephoning 1800 228
+A party may also apply under
+Administrative Decisions (Judicial
+Review) Act 1977
+(Cth) to have the determination reviewed by the Federal
+Circuit and Family Court of Australia or the Federal Court of Australia. The
+Court may refer the matter back to the OAIC for further consideration if it
+finds the Information Commissioner’s decision was
+wrong in law or the
+Information Commissioner’s powers were not exercised properly. An
+application to the Court must be lodged
+within 28 days of the date of the
+determination. An application fee may be payable when lodging an application to
+the Court. Further
+information is available at
+https://www.fcfcoa.gov.au/gfl
+www.federalcourt.gov.au/
+ASIC Organisational &
+Business Search, accessed 16 April 2025.
+Response to First s 44(1)
+Notice dated 17 July 2023 – letter from the respondent to the OAIC.
+Response to First s 44(1)
+Notice dated 17 July 2023 – letter from the respondent to the OAIC.
+Notifiable Data Breach Form
+submitted by the respondent 17 October 2022 (OAIC Reference DBN22/01026),
+Response to preliminary inquiries
+dated 2 November 2022 (OAIC Reference
+APP-PI22/0035) and Response to First s 44(1) Notice dated 17 July 2023 –
+Appendix F,
+Cyber Response to customer communications.
+Respondent’ s submissions
+in response to the revised preliminary view dated 25 June 2025.
+Respondent’s submissions
+in response to the initial preliminary view dated 31 January 2025.
+Response to First s 44(1)
+Notice dated 17 July 2023 – letter from the respondent to the OAIC.
+Respondent’s submissions
+in response to the initial preliminary view dated 31 January 2025.
+Response to First s 44(1)
+Notice dated 17 July 2023 – letter from the respondent to the OAIC.
+Notifiable data breach form
+submitted by the respondent 17 October 2022 (OAIC Reference DBN22/01026).
+Notifiable data breach form
+submitted by the respondent 17 October 2022 (OAIC Reference DBN22/01026).
+Response to First s44(1)
+Notice dated 17 July 2023 – Appendix D: [redacted].
+Letter from the OAIC to the
+respondent – Preliminary Inquiries dated 26 October 2022.
+Letter from the OAIC to the
+respondent – s 43(1AA) Notice dated 5 April 2023.
+Respondent’s
+submissions in response to the initial preliminary view dated 31 January
+Respondent’ s
+submissions in response to the revised preliminary view dated 25 June 2025.
+Respondent’s
+submissions in response to the initial preliminary view dated 31 January
+to privacy regulatory action
+APP Guidelines [B.108].
+Australian Securities and
+Investments Commission v R M Capital Pty Ltd
+[2024] FCA 151
+APP Guidelines [11.9].
+Australian Securities and
+Investments Commission v Firstmac Ltd
+[2024] FCA 747
+Securities and Investments Commission v R M Capital Pty Ltd
+Australian Securities and
+Investments Commission v R M Capital Pty Ltd
+[2024] FCA 151
+i.e., risk of misuse,
+interference and loss, and unauthorised access, modification or disclosure.
+Australian Securities and
+Investments Commission v R M Capital Pty Ltd
+[2024] FCA 151
+Australian Securities and
+Investments Commission v R M Capital Pty Ltd
+[2024] FCA 151
+Respondent’ s
+submissions in response to the revised preliminary view dated 25 June 2025.
+Notifiable data breach form
+submitted by the respondent 17 October 2022 (OAIC Reference DBN22/01026).
+APP Guidelines [11.8].
+Respondent’s
+submissions in response to the initial preliminary view dated 31 January
+Response to Second
+Notice dated 29 April 2024 –Privacy Fraud Safetrac Completion report.
+APP Guidelines [11.8].
+Respondent’ s
+submissions in response to the revised preliminary view dated 25 June 2025.
+Explanatory Memorandum,
+APP Guidelines
+(July 2019 – October 2025) [11.8].
+APP Guidelines
+(July 2019 – October 2025) [11.8].
+Response to First s44(1)
+Notice dated 17 July 2023 - letter from the respondent to the OAIC.
+Response to Second s 44(1)
+Notice dated 29 April 2024 – Privacy Fraud Safetrac Completion report.
+Response to Second s44(1)
+Notice dated 29 April 2024 – letter from the respondent to the OAIC, Table
+Response to Second s44(1)
+Notice dated 29 April 2024 –respondent’s IT Policy.
+Response to Second s44(1)
+Notice dated 29 April 2024 –respondent’s Data Retention and
+Destruction Policy.
+Response to First s44(1)
+Notice dated 17 July 2023 – letter from the respondent to the OAIC.
+NIST Cybersecurity Framework
+(since 2014), ISO 27001:2013, The Australia Information Security Manual (ISM)
+(since 2020), (ISM-0859
+and ISM-1537).
+Information Security
+Standards (since1995)
+Cyber Security Centre Essential Eight Maturity Model (since 2017)
+Information
+Security Manual (since 2016).
+Guide to securing personal information
+, ‘Audit logs, audit trails and
+monitoring access’.
+NIST Cybersecurity Framework
+(since 2014), ISO 27001:2013, The Australia Information Security Manual (ISM)
+(since 2020), (ISM-0859
+and ISM-1537).
+Response to First s44(1)
+Notice dated 17 July 2023 – letter from the respondent to the OAIC.
+Enabling CloudTrail logging for s3 buckets
+accessed 21 November 2024.
+Notifiable Data Breaches Report: January to June 2024
+, Misconfiguration of
+cloud-based data holdings.
+is Amazon VPC
+accessed 20 December 2024, NIST Cybersecurity Framework (since
+2014), PR.AC-7; ISO 27001:2013, A.9.4.2; Essential Eight Maturity
+NIST Cybersecurity Framework
+(since 2014), PR.DS-1; ISO 27001:2022, 8.11.
+Default VPC components accessed 20 December 2024
+data with encryption - Amazon Simple Storage Service
+accessed 20 December
+Respondent’s
+submissions in response to the initial preliminary view dated 31 January
+Response to First s44(1)
+Notice dated 17 July 2023 – Appendix D: [redacted].
+Respondent’s
+submissions in response to the initial preliminary view dated 31 January
+to securing personal information
+, Access security.
+to securing personal information
+, Access security.
+Response to First s44(1)
+Notice dated 17 July 2023 – letter from the respondent to the OAIC.
+Response to First s 44(1)
+Notice dated 17 July 2023 – Appendix D: [redacted].
+Letter from the respondent
+to the OAIC - Response to First s44(1) Notice dated 17 July 2023 –
+Appendix D: [redacted].
+NIST Cybersecurity Framework
+(since 2014): DE.CM-3 and DE.CM-7; ISO 27001:2013, A.12.4.1.
+to securing personal information
+, Internal practices, procedures and
+Response to Second s44(1)
+Notice dated 29 April 2024, Brennan IT, ‘Security Audit Report’
+dated 31 August 2021.
+Response to Second s44(1)
+Notice dated 29 April 2024, Brennan IT, ‘Security Audit Report’
+dated 31 August 2021.
+Respondent’s
+submissions in response to the initial preliminary view dated 31 January
+Respondent’s
+submissions in response to the initial preliminary view dated 31 January
+to securing personal information
+, Governance, culture and training.
+Response to Second s44(1)
+Notice dated 29 April 2024– letter from respondent: Annexure D.
+Internet Archive Wayback
+Machine, Vinomofo Australia website 30 September 2022.
+Respondent’s
+submissions in response to the initial preliminary view dated 31 January
+Respondent’ s
+submissions in response to the revised preliminary view dated 25 June 2025.
+Respondent’ s
+submissions in response to the revised preliminary view dated 25 June 2025.
+Response to Second s44(1)
+Notice dated 29 April 2024, Brennan IT, ‘Security Audit Report’
+dated 31 August 2021.
+See, for example, ABC News,
+marks 200 days of COVID-19 lockdowns since the pandemic began
+, accessed 2
+October 2025.
+RTF format (11.5 MB)
+Signed PDF/A format

@@ -1,0 +1,998 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/UNSWLawJlStuS/2025/30.html
+Scraped: 2025-11-17 15:46:34
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Tziolis, Isabella --- "Algorithmic Justice? The Threat Artificial Intelligence Decision-Making Algorithms Pose to the Rule of Law in Odr" [2025] UNSWLawJlStuS 30; (2025) UNSWLJ Student Series No 25-30
+ALGORITHMIC JUSTICE? THE THREAT ARTIFICIAL INTELLIGENCE
+DECISION-MAKING ALGORITHMS POSE TO THE RULE OF LAW IN ODR
+ISABELLA TZIOLIS
+I INTRODUCTION
+Online Dispute Resolution’s (‘ODR’) nature as a disruptive
+legal technology marks a significant shift in the legal
+paradigm, especially as
+artificial-intelligence (‘AI’) driven ODR systems increasingly
+replace human judgement in dispute
+Despite the
+revolutionary benefits of efficiency and accessibility that AI offers, this
+technological development has raised important
+questions about the extent to
+which AI’s integration in ODR possesses the ability to erode the rule of
+law. Given the breadth
+of the rule of law as a legal principle, this article
+confines its analysis to three foundational tenets of the rule of law. These
+procedural fairness, transparency, and impartiality. Accordingly, this article
+addresses the question by way of critical analysis
+into three primary challenges
+which AI in ODR evokes. First, algorithmic bias, arising from skewed training
+data sets embedded with
+human and societal bias, has the potential to perpetuate
+discrimination,
+compromising procedural fairness in ODR. Second, the inherent ‘black
+box’ nature of AI exacerbates the effect
+of algorithmic bias by obscuring
+the rationale and process behind AI-driven
+thus diminishing
+transparency and subsequently undermining public trust in the legal system.
+Third, the absence of human communication
+and AI’s failure to replicate
+human’s value-based judgement reduces the ability for a nuanced
+therefore potentially
+affecting the impartiality and perceived fairness of the decision. Accordingly,
+as society becomes increasingly
+dependent on AI in ODR, it is essential to
+identify and address the associated risks to safeguard the rule of law and
+preserve public
+trust in the legal system. Indeed, a cautious and principled
+approach to the integration of AI in ODR is necessary.
+This article therefore asserts that presently, the development of supportive
+and instrumental AI systems in ODR holds the greatest
+potential for ensuring
+human oversight remains dominant in the administration of
+In doing so, these systems
+can significantly minimise the erosion of procedural fairness, transparency, and
+impartiality in a legal
+system increasingly impacted by AI’s significant
+vices. However, until such systems are rigorously implemented and tested,
+asserted that, to a large extent, AI-driven decision-making in ODR pose a risk
+to the rule of law.
+II THE ROLE OF AI IN ODR
+The rapid acceleration of technological innovation in the digital age has
+heightened societal demand for accessible and efficient
+mechanisms for dispute
+resolution, thereby resulting in the proliferation of ODR as a ‘leading
+dispute resolution tool’.
+refers to a ‘broad set of technologies meant to either supplement or
+replace ways in which people have traditionally resolved
+These technologies
+include platforms enabling online mediation, conciliation, arbitration and
+adjudication.
+In addition to the
+increasing prominence of ODR, the consideration and implementation of AI in ODR
+has demonstrated a marked and
+significant expansion, reflecting a broader
+embrace of automated and algorithmic legal
+decision-making.
+‘compendious and fluid term’, which can be classified in relation to
+the type of model or process
+Despite the existence of
+narrow definitions, this article employs an expansive conceptualisation of AI
+utilised by Orna Rabinovich-Einy
+and Ethan Katsh. Thus, AI, is defined as a
+‘set of algorithms derived from any array of calculations’ which
+allow machines
+to ‘reach outcomes, [and] anticipate problems ... to solve
+complex problems without human intervention or
+supervision’.
+Significantly, the rapid advancement of AI-assisted ODR prompted Bathurst to
+coin the term ‘AI-DR’ to capture this emerging
+phenomenon.
+is defined as ‘the replication of human decision-making’ where
+‘systems modelled on past data
+applying the rules it knows for specific sets of facts’ to produce
+decisions to resolve
+Notably, Arno Lodder and John Zeleznikow have extensively examined the different
+formations of AI-DR, fixating upon platforms which
+use rule-based reasoning,
+case-based reasoning, machine learning, and artificial neutral
+Whilst acknowledging
+the diversity of AI-DR models in use and under development, this article does
+not seek to provide a technical
+dissection of each formation. Rather, it adopts
+a generalised conception of AI-DR as an ODR platform which leverages AI-decision
+making algorithms to adjudicate disputes, for the purposes of interrogating the
+extent to which AI-DR threatens the foundational
+principles underpinning the
+rule of law.
+Demonstrating the increasing utilisation of AI-DR to resolve legal disputes
+is ‘eBay’s Resolution Centre’, identified
+paradigmatic example of an ODR system’, which uses algorithm driven online
+dispute resolution methods to resolve
+millions of disputes within eBay
+Additionally, in April
+2025 a partnership between University of New South Wales Kaldor Centre Director
+Professor Daniel Ghezelbash
+and the National Justice Project established
+‘Hear Me Out’, a free online platform which utilises AI to assist
+to understand and lodge a formal complaint with complaint authorities in
+New South Wales.
+These examples
+demonstrate the increasing popularity of AI in dispute resolution and its
+expanding role in enhancing access to justice.
+It is noted that at present
+Australia does not use AI-DR formally in the legal system, however Monika
+Zalnieriute, Lyria Bennett
+Moses and George Williams have proposed that the
+spectrum is transitioning from AI assisted decisions, ‘where automation
+a supporting role’, to AI-made decisions where decisions ‘are
+made entirely by
+However, the
+significant legal and ethical ramifications of AI must be first addressed and
+mitigated before such technologies can
+be responsibility integrated into
+Australian ODR platforms.
+Notably, with the increasing adoption of ODR, the traditional ADR framework,
+typically fixed around the neutral third party of the
+human mediator or
+arbitrator, has expanded to include a ‘fourth party’, the technology
+Here, Katsh and Janet
+Rifkin’s conceptualisation of technology as a ‘fourth party’
+in ODR underscores the active
+role that technology plays in structuring the
+dispute resolution process.
+Unlike a passive tool, the technology embedded in ODR platforms structures the
+procedural landscape, determining the manner in which
+parties interact, the
+solutions visible to them, and how the outcomes are attained. This observation
+supplements Lessig’s proposition
+that ‘code is law’,
+highlighting the normative power of software
+architecture.
+In the context of
+AI-DR, this dynamic is even more pronounced. Indeed, design decisions embedded
+in AI systems operating on ODR platforms
+are not neutral choices. Rather, they
+are reflective of purposeful value judgements and institutional priorities as
+AI’s influence
+in ODR increases. As such, the movement from merely
+supplementing the third party to actively substituting human judgement,
+the growing imperative to critically examine the fourth party’s
+impact on the integrity of the rule of law.
+The rule of law has been employed as the metric to critically analyse the
+inherent ramifications of AI-decision making algorithms
+for it stands as a
+stable and universally recognised principle within a disparate and diverse
+global society.
+Rather than
+seeking to define the rule of law exhaustively, this article adopts three widely
+accepted tenets, procedural fairness,
+transparency and impartiality, as
+analytical lenses.
+Through this
+framework, the article asserts that the current capabilities and limitations of
+AI-decision making algorithms pose a
+substantial threat to the maintenance and
+integrity of the rule of law when utilised in ODR systems.
+III ALGORITHMIC BIAS: A THREAT TO PROCEDURAL
+The increasing utilisation of AI-DR evokes significant concerns as to the
+integrity of procedural fairness, especially when considering
+the profound
+impact algorithmic bias imposes on decision-making, affected stakeholders, and
+broader society. As Sela Ayelet articulates,
+procedural justice encapsulates
+‘the idea of fairness in the processes by which decisions are made’,
+with its core principle
+being the right of all parties to a fair hearing before
+an impartial and unbiased
+adjudicator.
+This foundational
+principle is significantly threatened when AI systems are trained on data sets
+which reflect entrenched societal
+and systematic biases, given that the
+reliability and fairness of AI-DR’s performance is intrinsically reliant
+upon the quality
+and quantity of training data
+Notably, extensive
+empirical research on dispute resolution systems consistently affirm that the
+‘appropriateness, legitimacy,
+and effectiveness [of the system] depends on
+possessing reliable data about all impacted
+stakeholders’.
+Indeed, the
+prevalence of unconscious bias in AI-decision making algorithms poses a
+substantial challenge to the preservation of
+procedural fairness, and thus the
+legitimacy of the decision, as it undermines the perceived and actual
+impartiality of the adjudicative
+This erosion of
+fairness threatens to diminish public trust in the legal system and risks
+potentially exacerbating existing inequalities
+rather than ameliorating them.
+A The Existence of Algorithmic Bias in Human
+Empirical studies have consistently demonstrated that arbitrators, judges and
+juries often bring to their roles unconscious
+These are deeply
+embedded and frequently unrecognised even by the individuals
+themselves.
+Paul Marrow, Mansi
+Karol and Steven Kuyan assert that these biases, also identified as
+‘cognitive blinders’, arise from
+the human predisposition to rely on
+heuristics, also known as mental shortcuts, when processing complex information
+and making decisions.
+interrogating the rationale behind each decision, individuals often default to a
+familiar cognitive pattern, allowing
+biases to subtly and systematically distort
+their decisions, which can lead to inaccurate judgement and illogical
+interpretation.
+Australian context, comparative studies on sentencing outcomes underscore the
+real-world consequences of such biases. Here,
+despite having identical patterns
+of reoffending, Aboriginal and Torres Strait Islander people are more likely to
+be imprisoned,
+and less likely
+to receive a community-based sentence or a fine than non-Indigenous
+Australians.
+This disparity
+illustrates how unconscious bias can substantively undermine the equitable
+administration of justice, thereby serving
+as a cautionary parallel for the
+employment of AI in ODR. Indeed, if human decision-makers, despite experience,
+oversight and accountability
+measures, are susceptible to such unconscious
+biases, it raises critical concerns about replicating such inequities through
+algorithmic
+decision-making systems trained on historically biased data.
+B The Transference of Unconscious Bias to AI-Decision
+Making Algorithms
+Accordingly, when AI systems are trained by data sets containing implicit
+human biases, these biases risk being encoded into the very
+architecture of
+decision-making technologies.
+is for this reason that Marrow, Karol and Kuyan posit that AI training data
+‘is fertile ground for the insidious involvement
+of unconscious
+Indeed, an AI
+system’s understanding of the world is constrained by the data it is
+trained on, data that is selected and defined
+by humans operating within their
+own biases. Here, when AI-decision making algorithms are trained on biased
+judgements, which reflect
+harsher outcomes for marginalised individuals, the AI
+system may internalise and replicate those inequitable patterns in its outputs.
+Synonymous with humans, AI-decision making algorithms make mistakes due to
+programmed heuristics that they rely on. Accordingly,
+these algorithms, by their
+programmed nature, simplify complex realities into readable code, and are
+therefore prone to error.
+Corroborating this assertation, a 2017 study conducted by Aylin Calsikan, Joanna
+Bryson and Arvind Narayanan exposed that AI systems
+internalise and replicate
+racist or sexist biases by learning from word associations embedded in the data
+they are trained on which
+reflects humanity’s cultural and historical
+Thus, it is unsurprising
+that in 2014 a google app was flagged for erroneously labelling African
+Americans as gorillas.
+that is not to say humans do not make errors, it is asserted that AI errors are
+not merely mistakes, but manifestations of
+underlying biases derived from
+trained datasets and consequently reproduced. Additionally, without explicit
+human instruction, AI
+lacks the capacity, at present, to seek out or
+contextualise information beyond its programmed
+parameters.
+Notably, although
+human decision making is undoubtedly susceptible to unconscious bias, it has the
+capacity to evolve through reflection,
+experience and dialogue. In distinct
+contrast, AI algorithms, with the exception of machine learning systems, rely
+upon their developers
+to implement change. They cannot adapt or grow
+autonomously beyond the parameters they were
+Indeed, ‘AI
+doesn’t even know there is a world beyond what humans define for
+rendering the system
+vulnerable to re-producing biases encoded in its datasets. Overtime, this has
+the potential to result in systematic
+patterns of discrimination which will
+become increasingly entrenched with continued algorithmic use and reliance,
+thereby representing
+an explicit abrogation of procedural fairness.
+IV THE ‘BLACK BOX’ PROBLEM: UNDERMINING
+TRANSPARENCY
+Exacerbating the ramifications of unconscious bias in AI systems is the
+opaque nature of AI decision-making and output. Marrow, Karol
+and Kuyan assert
+that transparency’s characterisation as ‘overt behaviour consistent
+with a commitment to neutrality
+and freedom from prejudice and bias’, is
+uniquely challenging for AI-DR.
+This is because at present, AI is unable to provide clear rationales for the
+produced output, representing a significant omittance
+of an extremely critical
+component of decision-making.
+Engaging with this notion, Justice Melissa Perry and Sonya Campbell posit that
+the opacity of AI systems ensures that biases implicitly
+operating in AI systems
+are difficult to discern, which significantly complicates the ability for human
+Indeed, this
+opaqueness has given rise to increasing concern in academic scholarship and
+broader society in relation to the ‘black
+box’ nature of AI, and the
+subsequent lack of transparency and thus accountability AI-DR
+This concern has resulted
+in society’s current perception of AI being a ‘black box’
+whose operations cannot be
+comprehended, for its output cannot be explained
+transparently.
+A AI’s Inability to Explain
+Traditional dispute resolution affords participants the ability to scrutinise
+the rationale behind a decision and if so inclined challenge
+the reasoning
+behind the decision. Contrastingly, AI generated determinations often omit a
+clear, comprehensible trail of reasoning
+preventing applicants from
+understanding the rationale behind a decision, and thereby obfuscating
+challenges.
+This lack of
+transparency significantly undermines a core tenet to the rule of law,
+transparency. Bathurst J asserts that transparency
+is integral to maintaining
+trust and legitimacy in the legal system, for without it society may disengage
+from legal institutions,
+perceiving them as opaque, unaccountable, and ultimately unjust. Indeed, while
+the ‘robodebt’ debacle did not involve
+what society typically
+classifies as AI, it nonetheless serves as a powerful cautionary tale as to the
+dangers of opaque algorithmic
+decision-making, particularly in relation to the
+failure to meet essential standards of transparency. Robodebt involved an
+data matching system which cross-referenced welfare recipients’
+income data from the Australian Tax Office to detect potential
+social security
+overpayments.
+Rather, than
+accounting for the actual distribution of income over time, the system applied
+an averaged income figure across fortnightly
+benefits period, an approach which
+often led to incorrect debt
+calculations.
+From 2016, the
+system automatically issued debt notices to welfare recipients claiming they
+owed a debt for every matter which they
+could not disprove the possibility of
+overpayment, notably failing to disclose how such matter was
+calculated.
+This fundamental
+absence of clear reasoning and explanation meant that affected individuals were
+effectively denied the opportunity
+to meaningfully contest the decisions with
+ease, highlighting the procedural deficiencies of ‘black box’ AI
+Here, the absence of clear, interpretable reasoning not only rendered
+the decisions difficult to challenge, especially for the recipients
+primarily represented vulnerable citizens but also represented a ‘very
+sorry chapter in Australian public administration’,
+as Murphy J
+admonished.
+Crucially, Robodebt
+significantly reduced public trust in automated decision-making systems in
+Australia due to the lack of transparency
+in relation to how decisions were
+generated, challenged, and ultimately justified. This is directly relevant to
+AI-driven decision-making,
+because the societal acceptance and trust of such
+mechanisms in part similarly depends on their successful ability to provide
+contestable, and comprehensible rationales for their output. When AI
+replicates the opacity which inflicted Robodebt, it risks not
+only perpetuating
+harm, but also undermining the very foundation of public confidence necessary
+for the responsible integration of
+AI-decision making in dispute resolution
+domains. Notably, Robodebt’s failure has cultivated a social environment
+automated programs are viewed with suspicion and there exists an
+inherent unease and distrust, creating a climate where the introduction
+AI-decision making systems is not met with optimism, but with heightened
+scrutiny and scepticism. Here, Robodebt communicates
+an integral lesson; without
+meaningful transparency, AI systems have the propensity to provoke the same
+erosion of trust and legitimacy
+that Robodebt so starkly demonstrated.
+B Challenging AI Decisions in the ‘Black
+Additionally, the ‘black box’ nature of AI-decision making
+algorithms may result in decisions being regarded as unjustifiable
+uninterpretable, thereby raising a ground for the rejection of such a decision.
+Engaging with this concern, Sean Shih and Eric
+Chang use the interaction of AI
+and the United Nations Commission on International Trade Law Model Law on
+International Commercial
+Arbitration (‘UNCITRAL Model Law’) to
+demonstrate that present conventions explicitly require the provision of reason
+behind decisions.
+Indeed, under
+article 31(2) of UNCITRAL Model Law, the provision of an arbitration award shall
+state the reason upon which it is
+If AI is utilised to hand
+down an arbitration award and fails to provide reasons upon which it is based,
+then the award may be set
+aside for a failure to comply with UNCITRAL Model Law.
+As such, this lack of transparency in AI-DR is deeply problematic as it not
+can contravene established legal standards, but also threatens the perceived
+fairness, transparency, and enforceability of decisions
+rendered through
+V THE ABSENCE OF HUMAN COMMUNICATION: RESTRICTING
+IMPARTIALITY
+Crucially, as highlighted by Marrow, Karol and Kuyan, unlike human
+arbitrators, who typically lack access to comprehensive datasets
+of comparable
+cases and remain unaware of statistically relevant patterns, AI systems are
+designed to base their determinations entirely
+on statistical
+While some may claim
+this to suggest a level of consistency, it also highlights a fundamental
+limitation of AI, its inability to
+reproduce human communication. AI algorithms
+operate through pattern recognition and probabilistic inference, devoid of
+reasoning, contextual judgement or common
+This limitation becomes
+significant when considering Galenter’s stipulation that ‘disputes
+are not some elemental particles
+of social life that can be counted and measured
+... like births or deaths’, rather they are more akin to ‘constructs
+[such] as illnesses and friendships, composed in parts of the perceptions and
+understandings of those who participate in and observe
+Accordingly, the
+mechanical nature of AI-decision making algorithms struggles to understand and
+replicate the socially constructed
+nature of conflict, making it difficult to
+resolve complex interpersonal disputes. This is exacerbated by the absence of
+human interpretive
+functions, such as empathy, moral reasoning and the capacity
+to weigh nuanced circumstances, which collectively raises profound concerns
+AI to adjudicate disputes. However, it is important
+to note that while human
+judgement may be more empathetic, morally attuned, and capable of navigating
+nuances, making it arguably
+more suitable than AI-decision making algorithms for
+adjudicating human disputes, this does not equate to true impartiality. Human
+judgement is still inherently shaped by bias, subjectivity, and social
+conditioning.
+A AI is Not a Neutral Third Party
+The assertion that AI can substitute neutral human third parties in ODR is
+highly flawed. Crucially, human decision making in legal
+contexts, is the
+process wherein the conscious and unconscious portions of a human’s mind
+work in tandem to make a
+Here, AI fundamentally
+lacks the emotional intelligence, self-awareness, and empathy that effective
+dispute resolution demands.
+Notably, modern neurological research has revealed that emotions are a
+fundamental part of rational
+decision-making,
+without their
+influence decisions risk lacking empathy, moral nuance, and contextual
+sensitivity, ultimately failing to deliver true
+justice for the parties
+involved. Corroborating this position, Sourdin suggests that the essential
+principles of ‘nuances of
+expression, timing, communication, framing of
+persuasion often make the difference between success and failure in bargaining
+mediation’.
+successful human third party simultaneously navigates the emotions and
+priorities of the disputing parties and remains
+conscious of their own biases to
+maintain impartiality. This level of nuanced human judgement is essential to
+guiding disputing parties
+to a resolution grounded in empathy, openness and
+mutual understanding. AI, in significant contrast operates without genuine
+comprehension or self-reflective awareness, making AI-decision making
+algorithms a poor choice to engage in the delicate nature of
+human-centred
+dispute resolution. However, at dissonance from the aforementioned position
+Hutson contests that while AI does not
+have natural human intelligence, humans
+have taught AI how to learn.
+Indeed, although presently AI cannot empathise in the same manner as a human,
+empathetic AI is in development which will allow AI
+to come closer to mimicking
+human judgement.
+However, as
+Shih and Chang highlight it is unlikely that human decision-makers in ODR will
+be completely replaced in the near future,
+particularly those requiring nuanced
+understanding of legal principles and human
+behaviours.
+B Society’s Perception of AI in ODR
+Substantiating the critical concern of impartiality, public sentiment towards
+AI-decision making algorithms in ODR represents a pervasive
+apprehension about the erosion of human value driven judgement in exchange for
+‘machine made justice’. This
+proposition is corroborated by a 2015
+study which compared virtual representations controlled by artificially
+intelligent software-agents
+and humans and found that simply believing one is
+interacting with a computer program rather than a human is sufficient to alter
+one’s attitudes and
+In this study, Ayelet
+comments on the reality that AI-driven mediators possess the propensity to
+negatively skew the quality of the
+dispute resolution for they appear to be
+‘depersonalised, mechanical, or excessively
+These perceptions
+manifest serious concerns regarding the legitimacy and impartiality of AI-DR,
+particularly where ODR demands empathy,
+discretion and impartial judgements to
+ensure justice is afforded for all parties. Further, theories of law and
+technology posit
+that individuals exhibit a greater reluctance to relinquish
+decision-making autonomy to AI-decision making algorithms than to human
+adjudicators.
+This is largely
+due to the position that ‘machine made justice’ is disparate to the
+distinctly human traits of fairness
+and justice which society understands AI to
+be unable to replicate. This position is articulated by Jacques Ellul who
+famously posited,
+‘it is impossible to transform the notion of justice
+into technical elements ... if one pursues genuine justice (and not some
+automatism or egalitarianism), one never knows where one will
+Although, it is
+acknowledged that advancements in natural language, speech recognition, and
+image processing technologies have endowed
+AI with remarkably human-like
+capabilities, at present AI algorithms ‘are still unable to reason and
+decide like humans’.
+Indeed, this tension is emblematic of a broader socio-technological anxiety,
+namely the fear that AI as a fourth party in ODR is
+representative of a movement
+of ‘technology replacing
+Remarkably, the
+extensive and growing body of scholarship concerning ODR and the centrality of
+human interaction directly disproves
+Phillippe Gillieron’s earlier
+sentiment that ‘considering the amount of literature published by legal
+scholars about
+ODR, it is quite surprising to notice that few authors have dealt
+with ... the issue of human
+interaction’.
+current technologically advanced era, it is therefore unsurprising that ODR
+literature disseminates prevailing societal concerns,
+and explicitly
+communicates society’s fear of allowing and encouraging AI algorithms to
+make binding decisions which significantly
+impacts individuals lives.
+VI A BALANCING ACT: CAN HUMAN VALUES AND AI COINCIDE
+HARMONIOUSLY?
+As reliance on AI-DR continues to grow, so too do concerns about its
+compatibility with the principles of the rule of law. In this
+context, the
+assertion by Justice Oliver Wendell Holmes that ‘it is as it should be,
+that the law is behind the
+increasingly problematic to adhere to, particularly in an era where rapid
+technological advancement risks outpacing the legal
+systems ability to safeguard
+the principles of procedural fairness, transparency and impartiality.
+Accordingly, these concerns have
+encouraged various entities in public and
+private spheres to establish practice and ethical guidelines for the utilisation
+in legal systems. Significantly, these guidelines consistently emphasise
+the maintenance of fairness, transparency and accountability
+in AI systems as
+central elements of ethical algorithmic design, aimed at ensuring innovation
+does not arrive at the expense of legal
+integrity and public trust.
+Crucially, this Part does not seek to develop a proposal for a universal
+guideline designed to effectively combat the inherent risks
+of AI to the rule of
+law. Instead, it implores developers and the legal community to prioritise
+instrumental and supportive ODR models,
+those which are designed to ensure human
+oversight is at the forefront of decision-making, given the profound
+ramifications AI currently
+presents in the ODR context.
+A Models to Consider for the Mitigation of AI’s
+Ramifications
+Gary Edmond and Kristy Martire assert that ‘impartiality has been
+considered so fundamental to the administration of justice,
+and partiality (or
+bias) so disruptive, that judges in common law systems developed rules and
+procedures to insulate legal institutions
+and practice from
+Supplementing this
+position, the Hon Beverly McLauchlin stipulated that an essential part of
+delivering impartial justice in Australia
+is ensuring ‘unidentified biases
+against people of particular, races, classes or genders’ do not abrogate
+the ‘values
+and principles entrenched in our legal
+Accordingly, to
+mitigate the inherent risk of unconscious bias in AI-driven systems, objective
+justice criteria should be mandated
+and integrated into the design of ODR
+Here, Ayelet has
+suggested that this can include structuring processes that either maximise the
+availability and quality of relevant
+information for decision makers or minimise
+the potential for bias in how evidence is framed and
+Interestingly, some
+critics, like Ritik Dhankhar, adopt a stringent stance, contending that the
+possibility that an AI decision-making
+algorithm contains 0.000001% bias is a
+strong enough argument to remove AI from ODR processes all
+However, such a
+position is arguably reductive, as it fails to account for the reality that
+human decision-makers are also inherently
+susceptible to bias, and it is
+precisely human bias which informs algorithmic bias. Therefore, is important to
+recognise that whether
+decisions are rendered by humans or AI, bias remains a
+persistent and pervasive influence, manifesting through cognitive heuristics
+the former and encoded biases in the training datasets in the latter.
+Additionally, efforts to address AI’s ‘black box’ problem
+have given rise to the development of ‘Explainable
+AI’, which is
+designed to enhance transparency by disclosing the considered criteria, the
+decision-making process followed,
+and the percentage margin for error associated
+with the output.
+However, this
+approach fails to mitigate the ‘black box’ problem. Indeed, although
+‘Explainable AI’ may reveal
+the formulas and computational models
+it critically fails to
+elucidate the underlying rationale for selecting the particular models in the
+first instance. This omission
+represents a crucial gap in parties understanding
+the rationale behind a decision which may impose profound personal, legal or
+consequences on the parties. Further, acknowledging the pertinent need
+for transparency in the utilisation of AI, the
+General Data Protection
+’) has established a ‘right of
+explanation’ in the European Union. The ‘right to explanation’
+individual's the right to obtain meaningful information regarding the
+logic, significance and potential consequences of automated
+decisions which
+affect them.
+However, despite
+this right in theory being effective as it is designed to promote transparency,
+in practice it possesses multiple
+challenges. Indeed, Ngo Nguyen Thao Vy
+highlights that AI developers struggle to produce a ‘clear and
+understandable explanation
+of how complex algorithms arrive at their
+decisions’.
+difficulty is compounded by the fact that AI developers are significantly
+concerned about the ramifications inherent in disclosing
+trade secrets and
+confidential information about how their particular algorithms work, which may
+result in ‘bad actors manipulating
+or gaming the
+B The Suitability of an Instrumental and Supportive AI-DR
+As Ayelet posits, the pressing ‘issue now facing researchers,
+practitioners, and policymakers is not whether to use ODR, but
+rather how to
+best employ ODR’.
+Effectively engaging with this position necessitates a critical interrogation of
+the appropriateness of instrumental and supportive
+AI-DR systems in contrast to
+principal and substantial models. Instrumental ODR systems assume the
+traditional fourth party role,
+one in which AI aids rather than supplants the
+human third party responsible for
+adjudication.
+In contrast,
+principal ODR systems conflate the roles of both the third and fourth parties,
+utilising AI-decision making algorithms
+to facilitate the resolution of disputes
+independent of human
+intervention.
+This critical
+omittance of human intervention underscores the importance of instrumental ODR
+models which ensure human oversight
+remains dominant in the administration of
+justice, as to not endorse the provision of ‘machine made justice’.
+The argument
+in favour of human presence within ODR is substantiated by
+supportive ODR models, wherein the human third party utilises AI as a
+This is at dissonance
+to substantial ODR models, where AI assumes the conventional functions of the
+human third party by undertaking
+core adjudicative functions to render decisions
+in disputes.
+Indeed, both
+instrumental and supportive ODR systems encapsulate the proposition that
+decision-making is fundamentally a human
+phenomenon,
+a principle which
+should remain, notwithstanding the growing integration of AI as a supportive
+aid. Further the endorsement of such
+systems aligns with Abbott and
+Elliot’s assertion that AI should not replace humans in ODR as it
+critically cannot substitute
+human reasoning and common sense, nor can it
+achieve fairness and justice.
+Indeed, until AI developers are better equipped to mitigate the risks inherent
+with AI use, with particular regard to unconscious
+bias, the ‘black
+box’ problem and inability to replicate human judgement, the dominant use
+of supportive and instrumental
+AI systems should be endorsed.
+VII CONCLUSION
+As articulated by Justice Perry, ‘it is very easy to fall prey to the
+efficiencies of new technologies to supplement or even
+supplant human
+decision-making. The danger of over-reliance on them is the dehumanisation of
+decision making’.
+cautionary assertion resonates powerfully in the context of AI-DR, where the
+pursuit of efficiency and scalability must not
+come at the expense of the
+integrity of the rule of law. Notably, the legal profession’s historically
+cautious and incremental
+approach to embracing change renders it difficult to
+predict with precision when the legal profession will wholeheartedly embrace
+decision-makers in ODR.
+cautiousness, whilst understandable, highlights the perennial necessary tension
+between innovation and tradition within the
+legal system. As Bergson observes,
+‘for a conscious being, to exist is to change, to change is to mature, to
+mature is to go
+on creating oneself
+endlessly’.
+legal profession’s recalcitrance to swiftly embrace AI may indeed reflect
+a necessary maturation process, one which
+critically ensures any shift towards
+AI-decision making algorithms does not undermine the foundational tenets of
+procedural fairness,
+transparency, and impartially which safeguard the integrity
+of the rule of law. As such, although AI in ODR provides unprecedented
+opportunities for enhancing society’s access to justice, it critically
+serves as a significant risk to the integrity of the
+rule of law. This risk,
+manifesting through AI’s inherent ramifications of algorithmic bias, the
+‘black box’ problem,
+and inability to mimic human judgement, demand
+a cautious and principled response. Specifically, the adoption of instrumental
+supportive ODR models, which crucially preserve and recognise the importance
+of human oversight in decision-making offer the most
+viable path forward.
+Indeed, only by approaching AI in ODR with caution and a steadfast commitment to
+the rule of law, can the legal
+system ensure that justice in the digital age
+remains fair, transparent and impartial.
+Sela Ayelet, ‘Can
+Computers be Fair: How Automated and Human-Powered Online Dispute Resolution
+Affect Procedural Justice in
+Mediation and Arbitration’
+(2018) 33(1)
+Ohio State Journal on Dispute Resolution
+Paul Bennet Marrow, Mansi
+Karol and Steven Kuyan, ‘Artificial Intelligence and Arbitration: The
+Computer as an Arbitrator’
+(2020) 74(4)
+Dispute Resolution Journal
+, 59–60; Sean Shih and Eric Chin-Ru Chang, ‘The Application of AI
+in Arbitration: How Far Away are We from AI Arbitrators?’
+(2024) 17(1)
+Contemporary Asia Arbitration Journal
+, 77; Ritik Dhankhar,
+‘Moving towards an AI Oriented Arbitration: Significance and
+Challenges’ (2023) 6(1)
+International Journal of Law Management and
+2028, 2033.
+Marrow, Karol and Kuyan (n 2)
+Ayelet (n 1) 116; Shih and
+Chang (n 2) 77.
+Samuel D Hodge Jr, ‘Is
+the Use of Artificial Intelligence in Alternative Dispute Resolution a Viable
+Option or Wishful Thinking?’
+(2024) 24(1)
+Pepperdine Dispute Resolution
+Law Journal
+Hibah Alessa, ‘The Role
+of Artificial Intelligence in Online Dispute Resolution: A Brief and Critical
+(2022) 31(3)
+Information and Communications Technology
+Ibid 319–20.
+Hodge Jr (n 5) 103.
+Alessa (n 6) 320.
+Terry Carney,
+‘Automation in Social Security: Implications for Merits Review?’
+(2020) 55(3)
+Australian Journal of Social Issues
+Orna Rabinovich-Einy and
+Ethan Katsh, ‘Artificial Intelligence and the Future of Dispute
+Resolution: The Age of AI-DR’
+in Mohamed Abdel Waheb, Daniel Rainey and
+Ethan Katsh (eds),
+Online Dispute Resolution: Theory and Practice
+International Publishing, 2021) 1, 2–3.
+T F Bathurst AC,
+‘ADR, ODR and AI-DR, or Do We Even Need Courts Anymore?’, (Speech,
+Inaugural Supreme Court ADR Address,
+20 September 2018)
+<https://supremecourt.nsw.gov.au/documents/Publications/Speeches/2018-Speeches/Bathurst_20180920.pdf>.
+Arno R Lodder and John
+Zeleznikow,
+Enhanced Dispute Resolution Through the use of Information
+(Cambridge University Press, 2010) 73–5.
+Ayelet (n 1) 103.
+Kate Newtown, ‘Hear
+me out: What If AI Could Help Solve Your Legal Problems?’,
+(Web Page, 16 April 2025)
+<https://www.unsw.edu.au/newsroom/news/2025/04/hear-me-out?utm_source=linkedin&utm_medium=social>.
+Monika Zalnieriute, Lyria
+Bennett Moses and George Williams, ‘The Rule of Law and Automation of
+Government Decision-Making’
+(2019) 82(3)
+Modern Law Review
+Noopur H Amin, ‘A New
+Frontier in Online Dispute Resolution: Combining AI and Mindfulness’
+(2024) 15(2)
+Journal of Law, Technology and The Internet
+Ethan Katsh and Janet
+Online Dispute Resolution: Resolving Conflicts in Cyberspace
+(Jossey-Bass, 2002) 33, 93.
+Lawrence Lessig,
+And Other Laws of Cyberspace
+(Basic Books, 1999).
+Zalnieriute, Bennett Moses
+and Williams (n 17) 4.
+Ayelet (n 1) 105.
+Marrow, Karol and Kuyan (n
+Ayelet (n 1) 95.
+Dhankhar (n 2) 2033.
+Marrow, Karol and Kuyan (n
+Cole Dorsey,
+‘Hypothetical AI Arbitrators: A Deficiency in Empathy and Intuitive
+Decision-Making’ (2021) 13(1)
+Arbitration Law Review
+Pat K Chew and Robert
+Kelley, ‘The Realism of Race in Judicial Decision Making: An Empirical
+Analysis of Plaintiffs’
+Race and Judges’ Race’
+(2012) 28(1)
+Harvard Journal on Racial and Ethnic Justice
+Australian Law Reform
+Commission,
+Pathways to Justice: An Inquiry into the Incarceration Rate of
+Aboriginal and Torres Strait Islander Peoples
+(Report No 133, December 2017)
+Dhankhar (n 2) 2033.
+Marrow, Karol and Kuyan (n
+Rabinovich-Einy and Katsh
+Aylin Caliskan, Joanna J
+Bryson and Arvind Narayanan, ‘Semantics Derived Automatically from
+Language Corpora Contain Human-Like
+Biases’ (2017) 356(6334)
+Rabinovich-Einy and Katsh
+Marrow, Karol and Kuyan (n
+Rabinovich-Einy and Katsh
+Marrow, Karol and Kuyan (n
+Dhankhar (n 2) 2034.
+Justice Melissa Perry and
+Sonya Campbell, ‘AI and Automated Decision-Making: Are You Just Another
+Federal Court of Australia Digital Law Library
+21 October 2021)
+<https://www.fedcourt.gov.au/digital-law-library/judges-speeches/justice-perry/perry-j-20211021>.
+Rabinovich-Einy and Katsh
+Marrow, Karol and Kuyan (n
+Stephen Daly,
+‘Artificial Intelligence, the Rule of Law and Public Administration: The
+Case of Taxation’
+(2024) 83(3)
+Cambridge Law Journal
+TF Bathurst AC (n 12).
+Yee-Fui Ng et al,
+‘Revitalising Public Law in a Technological Era: Rights, Transparency and
+Administrative Justice’
+[2020] UNSWLawJl 37
+(2020) 43(3)
+University of New South Wales Law
+Ng et al (n 48) 1068.
+Luke Henrique-Gomez,
+‘Robodebt Responsible for $1.5bn Unlawful Debts in “Very Sorry
+Chapter”, Court Hears’,
+The Guardian
+(online, 7 May 2021)
+<https://www.theguardian.com/australia-news/2021/may/07/robodebt-responsible-for-15bn-unlawful-debts-in-very-sorry-chapter-court-hears>.
+Shih and Chang (n 2)
+United Nations Commission
+on International Trade Law,
+UNCITRAL Model Law on International Commercial
+Arbitration 1985 with Amendments Adopted in 2006
+, UN Doc A/40/17 (7 July
+2006) art 31(2) (‘UNCITRAL Model Law’).
+Marrow, Karol and Kuyan (n
+Mark Galenter,
+‘Reading the Landscape of Disputes: What We Know and Don’t Know (and
+Think We Know) about Our Allegedly
+Contentious and Litigious Society’
+(1983) 31(4)
+UCLA Law Review
+Dorsey (n 30) 10.
+Amin (n 18) 299.
+Dorsey (n 30) 13.
+Tania Sourdin,
+Alternative Dispute Resolution
+(Lawbook Co, 5
+ed, 2016) 1,
+Matthew Hutson, ‘How
+Researchers are Teaching AI to Learn Like a Child’
+Science Magazine
+(24 May 2018)
+<https://www.science.org/content/article/how-researchers-are-teaching-ai-learn-child>.
+Esat Dedezade, ‘Jobs
+of the Future: Teaching Empathy to Artificial Intelligence’,
+(Web Page, 13 June 2019)
+<https://news.microsoft.com/europe/more-than-a-feeling-teaching-empathy-to-artificial-intelligence>.
+Shih and Chang (n 2)
+Jesse Fox et al,
+‘Avatars Versus Agents: A Meta-Analysis Quantifying the Effect of Agency
+on Social Influence’ (2015)
+Human-Computer Interaction
+Ayelet (n 1) 113.
+Jacques Ellul,
+Technological Society
+(Vintage, 1967) 1, 291–2.
+Ayelet (n 1) 116.
+Lodder (n 14) 146.
+Phillippe Gillieron,
+‘From Face-to-Face to Screen-to-Screen: Real Hope or True Fallacy’
+(2008) 23(2)
+Ohio State Journal on Dispute Resolution
+Lodder (n 14) 146.
+Katsch and Rabinovich-Einy
+Gary Edmond and Kristy A
+Martire, ‘Just Cognition: Scientific Research on Bias and Some
+Implications for Legal Procedure and
+Decision-Making’
+(2019) 82(4)
+Modern Law Review
+Beverley McLachlin,
+‘Judicial Impartiality: The Impossible Quest?’ in Ruth Sheard (ed),
+A Matter of Judgment: Judicial Decision-Making and Judgment Writing
+(Judicial Commission of New South Wales, 2003) 1, 23.
+Ayelet (n 1) 145.
+Dhankhar (n 2) 2034.
+Regulation (EU) 2016/679
+of the European Parliament and of the Council of 27 April 2016 on the Protection
+of Natural Persons with
+Regard to the Processing of Personal Data and on the
+Free Movement of Such Data, and Repealing Directive 95/46/EC (General Data
+Regulation)
+[2016] OJ L 119/1, art 22.
+Ngo Nguyen Thao Vy,
+‘AI Implementation in ODR: A Game-Changer or a Troublemaker of Data
+Protection’ (2023) 8(1)
+Vietnamese Journal of Legal Sciences
+Ayelet (n 1) 138.
+Katsh and Rifkin (n 19)
+Ayelet (n 1) 100.
+Hodge Jr (n 5) 109.
+Robin Dodokin, Sarah
+McEachern and Les Honywill, ‘Artificial Intelligence and Arbitration: A
+Perfect Fit?’,
+ADR Institute of Canada
+(Web Page, 2 March 2023)
+<https://adric.ca/artificial-intelligence-and-arbitration-a-perfect-fit/>.
+Ryan Abbott and Brinson S.
+Elliot, ‘Putting the Artificial Intelligence in Alternative Dispute
+Resolution: How AI Rules will
+Become ADR Rules’
+(2023) 4(3)
+Perry and Campbell (n
+Hodge Jr (n 5)
+Dhankhar (n 2)
+Print (pretty)
+Print (eco-friendly)
+RTF format (81.1 KB)
+PDF format (306 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

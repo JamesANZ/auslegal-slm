@@ -1,0 +1,165 @@
+Telstra Corporation Limited: Own motion investigation report [2012] AICmrCN 3 (1 June 2012)
+Timothy Pilgrim
+Relevant provisions of the Privacy Act
+NPP 2.1 Use and Disclosure
+NPP 4.1 Data security
+Telstra's remediation project
+Acronyms and abbreviations
+On 12 December 2011, the Australian Privacy Commissioner (the Commissioner) opened an own motion investigation in response to allegations
+that Telstra Corporation Limited (Telstra) had breached customer privacy by making its web-based customer management tool publicly
+available on its website. The tool is used to track orders for bundled products
+(the Visibility Tool).
+The Commissioner received information which indicated that customers' personal information was accessible online. The personal information
+included names, phone numbers, service holdings and order numbers, as well as a free text field where consultants could write a customer's
+username and password, or email or online bill account reference.
+The Commissioner's investigation focused on whether Telstra's handling of the personal information it held in the Visibility Tool
+was consistent with the National Privacy Principles (NPP) contained in Schedule 3 of the
+(Cth) (the Act). These principles include requirements about when personal information may be disclosed (NPP 2), and what security
+measures must be in place to protect the personal information (NPP 4).
+The Commissioner took the view that the incident amounted to an unauthorised disclosure of customers' personal information by Telstra,
+and therefore breached NPP 2.
+The Commissioner also concluded that at the time of the incident, Telstra did not have adequate security measures in place to protect
+the personal information it held in the Visibility Tool from misuse and loss and from unauthorised access, modification or disclosure,
+resulting in a breach of NPP 4.
+On 9 December 2011, a participant on an internet and technology discussion forum posted comments on a thread stating that an internal
+Tool could conduct a search using the customer's last name, account number, order ID or reference number.
+At the time of the incident, the Visibility Tool could only be accessed by an individual who had the specific URL for the Visibility
+Tool either by:
+entering the URL in their browser window, or
+obtaining the URL by conducting a specific search on Google using a number that should not have been made publicly available, or
+entering the search 'help Telstra bundles'.
+When accessing the Visibility Tool, the details of 734,000 customers were accessible at the time of the incident.
+Actions by Telstra
+On becoming aware that personal customer information was available via the Internet, an Incident Response Team was created and worked
+to protect the security of customers' personal information and to minimise customer inconvenience.
+Telstra advised that upon receiving the information it:
+took steps to remove access to the Visibility Tool as soon as it was aware that it was publicly available
+disabled the platforms that required personal information for access, including the online billing and email platforms, until Telstra
+was able to confirm that these platforms were not affected
+Telecommunications Industry Ombudsman to alert them to the incident
+undertook an investigation, focusing on whether there had been an unauthorised disclosure of personal information and whether the
+overall security safeguards in place within Telstra were consistent with the principles of the
+reset the passwords of approximately 73,000 Telstra customers as a precaution
+ascertained that the information available on the Visibility Tool included customers' names, phone numbers, service holdings and order
+numbers, as well as a free text field where consultants could write a customer's username and password, email address or online bill
+account reference. The free text field in a very limited number of cases also included mobile phone numbers, unique passwords, date
+of birth, drivers licence number, passport number, credit card number (excluding expiry dates or CCV numbers) or Medicare number
+informed potentially affected customers by phone, SMS, email or direct mail. Customers were notified of the disclosure and the potential
+risk. Customers were also advised that Telstra would work with them to deal with the situation to the customer's satisfaction. A
+direct hotline was also set up for customers to call with any questions or concerns.
+Investigation
+Telstra undertook an investigation and prepared an incident report. The incident report revealed that a number of key events led to
+the public availability of the Visibility Tool including that:
+a series of errors occurred from the initial deployment of the Telstra Bundles Project to the roll-out of the Visibility Tool
+the first error was the incorrect categorisation of the project as one that did not involve the processing, storing or transferring
+of customer data. Therefore, a process with a strict set of security control and oversight processes was not put into place
+subsequent errors occurred from the time of the deployment of the Telstra Bundles Project (the Project) in March 2011 until December
+2011. The errors included the failure of a single employee to report the external accessibility of the Visibility Tool once they
+were made aware of its accessibility
+between 26 July 2011 and 19 October 2011, the Visibility Tool was partially protected through the use of a pass through authentication
+mechanism, which meant that the Visibility Tool was accessible only to those who obtained the appropriate URL for the site from a
+secure Telstra website. In October 2011 a software restoration was undertaken which inadvertently restored incorrect software settings,
+removing the pass through authentication mechanism, resulting in the URL being made publicly available by December 2011.
+In November 2011, Telstra was informed that the Visibility Tool was accessible externally and was not protected by the Telstra firewall.
+However, no action was taken to escalate this alert to the appropriate internal Telstra business areas. Telstra has identified two
+key causes of the incident:
+an incorrectly completed Compliance Questionnaire - an early failure by a project manager to correctly complete a compulsory internal
+questionnaire required to determine the necessary security profile of a new project relating to the recording of Telstra customer
+bundle orders
+failure to follow proper systems, processes and oversight - subsequent failures by the project team tasked with developing and implementing
+the Visibility Tool to raise relevant privacy and security risks outside the project team.
+Telstra committed to the following remedial actions:
+an audit of all Telstra applications using technology based platforms that supported the Visibility Tool and that collect, store or
+use customers' personal information
+revision of the Privacy Compliance Program, including reviewing training and compliance processes relating to customer data management,
+and reinforcing with staff the consequences of non-compliance with Telstra's policies and procedures
+implementation of a new internal training program for using Telstra's Enterprise Program Management Tool processes, including the
+completion of Compliance Questionnaires
+enhancement of the existing processes, including updated training material, a simplified risk register and templates that are easier
+establishment of a system where the Chief Privacy Officer is involved in the management of incidents concerning privacy. Where an
+incident involves a privacy risk, the Chief Privacy Officer will undertake a risk assessment and, where appropriate, notify the OAIC.
+This is consistent with the
+OAIC's Data Breach Notification Guidelines
+, which encourage organisations to notify the affected individuals and the OAIC if there is a real risk of serious harm as a result
+of a data breach
+improvement of the Telstra employee privacy security training and updates to Telstra's Information Security and Records Management
+course, deployed in February 2012
+updates, deployed on 16 December 2011, included in Telstra's refresher privacy and security training modules
+implementation of a specific training program for all Telstra's employees and contractors with access to customers' credit card information,
+deployed by 1 March 2012.
+Relevant provisions of the Privacy Act
+Telstra is required to comply with the 10 National Privacy Principles (NPPs) contained in the
+, which regulate the way that organisations handle 'personal information'. Personal information is information that identifies an
+individual or could reasonably identify an individual. The
+defines 'personal information' as information or an opinion (including information or an opinion forming part of a database), whether
+true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be
+ascertained, from the information or opinion.
+The Commissioner's investigation focused on whether the incident was an 'unauthorised disclosure' of personal information and therefore
+whether the handling of personal information under the Telstra Bundles Project was consistent with:
+NPP 2 (use and disclosure)-in particular NPP 2.1, which provides that an organisation must only use or disclose personal information
+for the primary purpose for which it was collected, unless one of a number of exceptions apply
+NPP 4 (data security)-in particular NPP 4.1, which requires organisations to take 'reasonable steps' to protect the personal information
+they hold from misuse and loss and from unauthorised access, modification or disclosure.
+NPP 2.1 Use and Disclosure
+In general terms an organisation
+personal information when it releases information to others outside the organisation.
+The Commissioner's investigation concluded that specific errors by Telstra staff led to the Visibility Tool being publicly accessible.
+The external accessibility of customers' personal information was an unauthorised disclosure and therefore a breach of NPP 2.1.
+The Commissioner found that the disclosure of customers' personal information occurred on a large scale and over a substantial period
+of time. Overall, Telstra reset around 73,000 passwords of Telstra customers (the Visibility Tool contains 734,000 'Bundles' customers)
+and initiated a customer contact strategy to inform customers who were potentially affected by phone, SMS, email or direct mail.
+The Visibility Tool had been accessible externally between 26 July 2011 and 19 October 2011. Later in October 2011, a software restoration
+was undertaken and it inadvertently restored incorrect software settings that meant that in December 2011, the Visibility Tool was
+once again available externally.
+The disclosure of Telstra customers' personal information was not a result of a one-off human error but rather a series of errors
+that revealed significant weaknesses in Telstra's reporting, monitoring and accountability systems. The fact that a number of people
+were aware of the errors and did not raise them with higher management demonstrates that Telstra's policies and procedures had not
+been followed on a number of occasions.
+Data security
+In order for an organisation to be compliant with NPP 4.1, it must take reasonable steps to protect the personal information it holds
+from misuse and loss and from unauthorised access, modification or disclosure.
+In assessing whether Telstra took reasonable steps to comply with NPP 4.1, the Commissioner reviewed the overall security safeguards
+put in place by Telstra prior to and following the incident.
+Whether measures taken to secure personal information are considered to have been 'reasonable steps' will depend on the organisation's
+particular circumstances. For example, the size of the organisation, how the organisation handles the personal information it holds,
+and the type of information that it holds will be relevant factors.
+In deciding what security safeguards are reasonable to comply with its obligations under NPP 4.1, an organisation could consider a
+range of measures including:
+taking steps to identify security risks to personal information held by the organisation and developing policies and procedures that
+reduce identified risks to security
+training staff and management in security awareness, practices and procedures
+monitoring compliance with the security policies, periodic assessments of new security risks and the adequacy of existing security
+The Commissioner accepted that Telstra had existing policies and procedures in place that should have been followed and that, if followed,
+would have prevented the errors that led to this incident. However, in order to satisfy the requirements of NPP 4.1, the Commissioner
+emphasised that 'reasonable steps' must include both the documented policies and procedures, and behaviours consistent with those
+policies and procedures.
+Policies and procedures in and of themselves do not demonstrate compliance with NPP 4.1 if it cannot be shown that organisations are
+acting on them. On this basis, the Commissioner found that Telstra did not have reasonable steps in place with regard to data security
+in the Visibility Tool in compliance with NPP 4.1.
+Telstra's remediation project
+The Commissioner noted that Telstra took appropriate steps to investigate the incident, notify affected customers and contain the
+breach; and, at the time of the Commissioner's investigation, was implementing a comprehensive review of its security systems. These
+steps aimed to mitigate the effects of the breach and ensure that no further unauthorised access occurred.
+The Commissioner considers that in relation to the incident:
+Telstra disclosed customers' personal information in breach of NPP 2.1
+Telstra was in breach of NPP 4.1 as it did not take reasonable steps to protect customers' personal information from unauthorised
+access and disclosure.
+The Commissioner acknowledges that on becoming aware of this incident Telstra acted immediately to restrict access to personal information,
+commenced an investigation into the incident and implemented a number of security and policy measures. These actions could be seen
+as reasonable steps to protect the personal information held by Telstra from unauthorised access.
+The Commissioner decided to cease the OAIC's own motion investigation upon reviewing information from Telstra about its remediation
+project. He found that the remediation steps that Telstra was taking put into place comprehensive data security systems, in compliance
+with the Act.
+In ceasing his investigation into the matter, the Commissioner asked Telstra to provide him with a report on the progress of the remediation
+project by October 2012. He also asked Telstra to provide to him with a report on the completion of the remediation project by April
+Should the OAIC receive an individual complaint concerning this matter, it will deal with it on its merits.
+Acronyms and abbreviations
+Commissioner Privacy Commissioner
+Cth Commonwealth
+OAIC Office of the Australian Information Commissioner
+Telstra Telstra Corporation Limited
+'Telstra Bundle requests' refers to orders that include a range of Telstra fixed, broadband and pay TV products. The Telstra Bundles
+project was created to improve how such orders were recorded and tracked.
+Guidelines to the National Privacy Principles
+Guidelines to the National Privacy Principles,
+No downloadable files available

@@ -1,0 +1,969 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/DTLJ/2001/3.html
+Scraped: 2025-11-17 14:54:49
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Sainsbury, Maree --- "Databases and Copyright - Finding the Match" [2001] DigTechLawJl 3; (2001) 3(1) Digital Technology Law Journal 3
+and Copyright -
+Finding the Match
+University of Canberra
+Introduction
+Use of existing
+decision: the facts
+Supreme Court decision
+position under Australian law
+implied term or implied licence
+Implications
+of the Tasini decision
+and collective works - some observations
+existence of copyright in a collective work
+and electronic databases - some conclusions
+Introduction
+have a complementary relationship. Using digital technology to create
+maintain a database has
+many advantages. The two main ones are, first,
+amounts of information can be stored in a relatively small amount of
+it is possible to create a search engine to search the
+makes it easier and faster to retrieve information, or to search
+information according to the needs of the user. As a consequence, it
+an increasingly common practice for information
+in a database to be
+into digital form.
+recent decisions have
+highlighted the issues that the practice of creating digital databases
+for the application of copyright
+law. Each decision reflects a
+perspective. The United States Supreme Court decision in
+York Times Co. Inc
+decision) concerned the right of an author to prevent digital
+reproduction of
+his or her work as part of an electronic database.
+The decision of the
+Court of Australia in
+Telstra Corporation Limited v Desktop
+Marketing Pty Ltd
+considered when the creator of a database, digital or otherwise, had
+to prevent reproduction of that database
+on the grounds of copyright
+infringement.
+of these decisions are discussed
+below, together with the broader implication for the use of digital
+for the author
+of the original information, the creator of the
+the user of the database.
+of existing copyright material in a database
+The Tasini decision: the facts
+Tasini is a freelance
+writer. He sold articles to various publishers, including
+New York Times
+publishers had later sold the articles to University Microfilms, Inc
+MEAD Corporation for inclusion in their electronic
+Unimpressed when
+his article also appeared on LEXIS-NEXIS and elsewhere in digital form,
+Tasini took the publishers
+to court. Five other freelance authors who had written articles for
+newspapers, a magazine published
+by the New York Times and other
+publishers,
+joined him in alleging that their copyright had been infringed. The
+the publishers were entitled to reproduce, or permit
+reproduction of,
+the articles in an electronic form.
+United States Copyright Act
+(the US Act), like its
+Australian counterpart,
+grants copyright to the author of an original literary work.
+Where a number of works are
+collated, a
+new copyright may also arise in the collation, or collective work.
+This occurs where the collective
+itself be seen as an original literary work.
+There are then two layers of copyright. First, the
+underlying works, in which copyright will have first vested in the
+Secondly, the
+author of the collective work will own the copyright in the collective
+201(c) of the US Act
+'Copyright in each separate
+contribution to a
+collective work is distinct from copyright in the collective work as a
+initially in the author of the contribution. In the absence
+express transfer of the copyright or of any rights under it, the
+of reproducing and distributing the contribution
+as part of that
+collective work, any revision of that collective work, and any later
+work in the same series.'
+other words, the agreement of
+an author to contribute to a collective work, such as a database, does
+affect the underlying
+contribution. The copyright vesting in the author of a collective work
+only extends
+to his or her original contribution to that collective work. The author
+separate contribution is free to continue to use his
+or her individual
+contribution, for example, by publishing it elsewhere. The author of
+collective work has no rights in that
+contribution except as a part of
+collective work.
+decision, the
+publishers relied on section 201(c), alleging that this granted to them
+right to 'reproduce and distribute' the
+authors' works including the
+reproduction
+in electronic databases. They further argued that a finding for the
+and the granting
+of an injunction, would have devastating consequences.
+texts going back decades. A ruling for the authors would mean that
+there would
+be gaps in this electronic history. The authors' argument
+was that the
+publication of the articles in electronic databases was outside the
+section 201(c) as it did not amount to
+a use as a part of the
+collective work,
+but rather a different use. Consequently, as no permission had been
+that this was a breach of the authors' copyright.
+August 1997, the District Court
+found for the publishers on the basis that section 201(c) allowed the
+reproductions.
+found that this privilege could be transferred from the original
+publishers to
+the electronic publishers. The databases reproduced
+the original works
+of a ... revision of the collective work'. To qualify as a revision,
+only preserve some significant
+original aspect of the collective work.
+the databases preserved the original publisher's selection of articles.
+of Appeals for the Second Circuit reversed this
+decision in September 1999,
+finding that copyright had been infringed. This was on the basis that
+number of periodicals.
+The Supreme Court decision
+Ginsburg delivered the majority opinion of the
+Court. Justice Stevens, with whom Justice Breyer agreed, delivered a
+majority found that the actions of the publishers were
+not within section 201(c) as the articles had not been distributed as a
+the collective work. It was found that the databases reproduced and
+distributed
+the articles standing alone and not in context.
+As a result, both the
+electronic publishers had infringed the authors' copyright.
+to the Court, the databases did not constitute
+'revisions' of the original publications. The articles were presented
+different way. Divorced of the original context, each article could be
+as a separate item. In one of the digital
+products the graphics and
+were also different. Therefore, it could not be said that the digital
+reproduced the
+articles as 'part of' or as a 'revision' of the original
+publication. The articles could more readily be viewed as part of a new
+compendium, or, alternatively, as no longer part of a collective work
+as presented individually.
+publishers attempted to make an analogy between their
+products, and microfilm and microfiche, arguing that the transfer of a
+between media should not alter the character of that work for copyright
+purposes. The Court found this analogy wanting.
+Microfilm typically contains a photographic reproduction
+of a periodical. Articles appear in exactly the same context, and with
+the same formatting, as they did in the original publication. The
+placing the individual articles in a digital database
+was more than
+conversion from one media to another. The publication of works in a
+overrides the author's rights to
+control the individual reproduction
+distribution of each article.
+dissenting judgement found that the electronic
+articles were
+published for the purposes of section 201(c). The
+aggregation of a
+number of editions of periodicals within one database did not
+equation. The individual contributions had not been modified, nor
+published in
+an entirely different way. A collection
+of articles from a single
+the newspaper, converted into electronic form, could be seen as a
+revision, as
+'one of the hallmarks
+of copyright policy... is the principle of media
+neutrality'.
+not matter that the revisions might look and feel quite different from
+original as a result of the different medium being
+used. Therefore, the
+emphasis that the majority placed on the differences in formatting and
+was unwarranted. As long as each
+electronic reproduction specifically
+to the name of the publication in which the article first appeared, the
+that publication and the location of the article within that
+publication, it
+could be seen as a part of a revision. The electronic
+files contained
+entire editorial content of the original edition of the New York Times
+day. The articles, therefore,
+did not stand-alone. The collection of a
+of editions of the publications was analogous to placing single
+editions in a
+public library or bookstore.
+The fact that an individual user could view or print
+copies of the individual articles did not change the nature of the
+a revision. This was again a media-specific necessity, and no
+different, for
+example, than storing a newspaper on microfiche.
+looked at the policy behind the enactment of
+section 201(c). At the time it was enacted, the developments in
+digitisation
+which provided the background to this litigation would not have been
+anticipated. Copyright laws should only restrict the dissemination
+insofar as necessary to encourage their production.
+It should also promote the broad public
+availability of literature, music and the arts.
+According to Stevens J, the majority had discounted the
+effect its decision would have on the availability of digital
+mean that electronic archives would remove freelance pieces from their
+freelance writers
+suffer any detriment. Section 201(c) made it clear that they still
+unlikely that the user of an electronic
+would be looking for a stand-alone article of a particular author.
+Instead, the
+subject. Therefore, on balance, according to the minority,
+publisher better advanced the purposes of copyright law.
+The position under Australian law
+decision turned on the interpretation of one
+section in the US Act. The Australian Act does not have an equivalent
+Where a freelance author authorises a publisher to use an article as
+collective work, the uses which the publisher can
+make of the article
+depend on the nature of the authorisation.
+There are a
+number of different situations which may
+exist, each of which will give rise to different considerations in
+determining
+whether a publisher is entitled to make use of an article in an
+electronic database.
+there may be a written or verbal express agreement
+between the author and the publisher. In this case, the rights of the
+to use the article will depend upon the terms of the agreement. In
+permit publication of the article, the agreement will
+either include a
+or an assignment of copyright.
+Secondly, the author may simply send an article to a potential
+publisher for
+publication. The issue of copyright may never be expressly
+situation will give rise to one of two situations. Where the publisher
+the work for publication and provides
+payment to the author, there will
+implied contract. The rights of the publisher in relation to the work
+depend upon the
+implied terms of this contract. If there is no binding
+between the parties, the rights of the publisher will depend on the
+the implied licence which has been granted by the author.
+These situations are considered
+An express agreement
+Australian Act grants to the author of an original
+literary work the following rights:
+a) to reproduce the
+work (in a material
+b) to publish the work;
+c) to perform the work in public;
+d) to communicate the work to the public;
+e) to make an
+adaptation of the work;
+f) to do any of the acts set out in paragraphs (a) to
+(d) above in relation
+to an adaptation of the work.
+context, it is important to note the definition of
+'communicate'. It means make available online or electronically
+(whether over a path, or a combination of paths, provided by a material
+substance or otherwise) a work or other subject-matter.
+A copyright
+owner may deal with each of these rights
+separately.
+example, a journalist may assign, or grant a licence in respect of, the
+to reproduce the work, while retaining the right
+to communicate the
+Consequently, the owner of the right of reproduction (or the holder of
+licence) would have to seek the
+permission of the author to make the
+available on-line, or electronically transmit the work. However, the
+the work will include the right to reproduce the work
+electronically,
+unless that is specifically excluded. The right of communication
+required where the work is to be made available on-line or transmitted
+An implied term or implied licence
+Where there
+is a contract between the author and
+publisher, the terms of which do not grant the publisher a right to
+publish the
+in electronic form, the publisher may be able to argue that there
+implied term to this effect.
+be implied in fact (usually to give business
+efficacy to the contract or to reflect custom, usage or a course of
+in law (given the nature of the contract itself) or by statute.
+In this context, the most likely
+argument is that there is a term implied in fact, to give business
+efficacy to
+a contract.
+circumstances in which a court will imply a term to
+give business efficacy to a contract were outlined by the Privy Council
+Refinery (Westenport) Pty Ltd v Shire of Hastings
+the Board emphasising that any
+implication must be based on the presumed or imputed intention of the
+Their Lordships expressed
+the relevant principles as follows:
+'...for a term to be
+implied, the following
+conditions (which may overlap) must be satisfied: (1) it must be
+reasonable and
+(2) it must be necessary to give business efficacy to the
+so that no term will be implied if the contract is effective
+must be so obvious that 'it goes without saying'; (4) it must be
+clear expression; (5) it must not
+contradict any express term of the
+In applying
+these principles, the circumstances of the
+author and the publisher will vary greatly. In determining whether
+publication
+in an electronic database is reasonable and equitable, the nature of
+article, and the nature of the publication to which the
+author has sent
+will be relevant. Any detriment caused to either party will be
+considered.
+the work in a digital database may have an
+adverse effect on the author, in some circumstances enabling the author
+that an implied term is inequitable. Disadvantages for the author
+that alteration of the work is easier to achieve and difficult
+detect. It is
+harder for the owner to control use of the work. A digital work is much
+to distribute, being easily compressed
+and easily transmitted to many
+locations and across national boundaries. The nature of the work may be
+that it cannot
+be digitally reproduced with accuracy.
+All of these factors may suggest that
+such a term is inequitable.
+greater obstacle to the existence of an implied
+term may prove to be establishing that a term allowing digital
+reproduction
+reproduction in an electronic database is necessary to give business
+to the agreement and so obvious that it goes without
+saying. It will
+particular circumstances that this will be the case. It may be that the
+is aware that the publisher
+was envisaging electronic publication, for
+because that is the publisher's practice in the ordinary course of its
+or that it is in some way vital to the publisher's business.
+implied term in a contract, the existence and
+scope of an implied licence will depend upon the facts of the case. The
+difference is that a publisher will be able to argue on the basis of an
+licence even where there is no binding contract between
+the parties.
+third party may be able to establish an implied licence as a defence to
+for copyright infringement.
+In some instances, the test applied by the
+to determine whether there is an implied licence may be seen as
+analogous to
+test used to determine whether there is an implied term in the
+The Federal
+Acohs Pty Ltd v R A Bashford
+Consulting Pty Ltd
+) considered
+comprehensively the situations in which
+an implied licence will exist.
+Applying the principles set down in
+Beck v Montana
+Constructions Pty Ltd
+) the Court set out
+three questions which must be answered:
+there an implied licence to use
+the copyright material to carry out a particular purpose?
+is the purpose?
+the use by the alleged
+infringer in accordance with the licence conferred?
+determining whether any implied licence exists
+is only the first step in establishing a defence to copyright
+infringement.
+scope of the licence must also be considered and a determination made
+whether the defendant's actions are within the scope
+of that licence.
+situation where the purpose for which the copyright
+material is licensed may include electronic publication is where that
+common and well known in the particular industry. In
+the copyright
+material consisted of material safety data sheets (MSDS's) containing
+information about hazardous substances
+and other chemicals used in
+throughout Australia. Acohs was a company providing computerised
+information management
+services using a database management system
+the respondents claimed copyright in a number of the MSDS's. The
+Australia Standard for Control of Workplace Hazardous
+Substances (1994)
+obligations on manufacturers, importers, suppliers and employers to
+make MSDS's
+available for all hazardous
+substances which they supplied or used. A
+Code of Practice specifically referred to the possibility of providing
+to MSDS's by computerised database (clause 8.6). The Court therefore
+copying of the MSDS's for use in a computerised database
+and for safety
+purposes fell within the scope of an implied licence.
+stage, it is unlikely that an analogy could be
+drawn between the facts of
+and the situation
+of a publisher compiling an
+electronic database. The freelance author is not providing information
+be used for the purpose of providing information to others
+industrial safety matters. The public interest element in allowing
+reproduction
+of this type of material was one component of the Court's reasoning in
+Ordinarily, the
+freelance author is providing material to a publisher for the purpose
+publication in the course of that publisher's
+business, to earn income
+journalist and to enhance his or her reputation. Where it is in the
+the publisher's business
+to include material in an electronic database,
+author is aware of that fact, then it is likely an implied licence will
+found to allow that use. Where that is not the case, it is arguable
+inclusion in an electronic database may contribute to enhancing
+reputation. However, a publisher would be taking a risk in relying such
+untested, and debatable, proposition.
+, determining the scope of an implied
+licence will hinge on the purpose for which the copyright material is
+used. Where an author
+submits a work for publication, this purpose will
+that publication. However, whether or not that purpose includes
+publication or inclusion in a database will depend on the facts. As
+implied terms, where the author is aware that the publisher
+publishes work electronically or includes work in an electronic
+argument based on an implied licence is likely
+to succeed. However, the
+of the licence will be limited. It will only extend to publication in
+of database in which
+the publisher ordinarily includes material. Where
+publisher ordinarily keeps an online database, then the licence may
+the inclusion of the work in that database, but not to authorising a
+party to include the work in a database of a different
+nature. The
+decision in
+De Garis & Moore v Neville Jeffress Pidler
+supports this proposition. It was
+stated there that a
+freelance writer submitting material for publication impliedly licences
+relevant media organisation to publish it. But if a freelance
+submits an article to a media organisation for publication
+newspaper or magazine or submits a film or recording for broadcast by a
+particular station, a licence to publish
+it in another publication or
+broadcast it on another station is not, ordinarily, implied
+determining the terms or scope of any implied licence,
+one issue which may arise is whether the implied licence is an
+irrevocable
+If not, the author would be able to revoke the licence at any time,
+that the publisher remove the article or pay compensation
+inclusion of the article in the database would then infringe the
+Trumpet Software Pty Ltd v OzEmail Pty
+considered the circumstances in which an implied licence may be
+It was found that a
+bare licence (i.e., a non contractual licence) could be revoked at any
+the licensor. However, where the
+licensee was able to establish that it
+acted upon the licence to its detriment, the licensee may be able to
+licensor should be estopped from revoking the license.
+Where the publisher has acted on
+basis of an implied licence and taken steps to include the work in a
+then detriment
+could be established.
+journalist receives payment for an article, any
+implied licence will be contractual and the reasoning in
+apply. Consideration was given to the implications of revocation of a
+contractual licence in
+Cowell v Rosehill Racecourse Co Ltd
+Where no proprietary interest was
+granted, it was found that a contractual licence could be revoked,
+there being a remedy
+available for breach of contract. The issue then
+whether a court would grant an order for specific performance as a
+whether damages would be adequate.
+Where the removal of the article would cause hardship or
+injustice to the publisher then specific performance would be the
+appropriate
+It would be
+a matter for the courts discretion, in balancing the claims of both
+parties, to
+decide on the most appropriate remedy.
+Implications of the Tasini
+decision has important implications for
+freelance writers and publishers in the United States. The fact that
+an electronic
+rights means
+that the writer whose works have been used in this way without his
+consent will be entitled to compensation. Further, to prevent future or
+infringement, the publishers who compile electronic
+remove articles from their databases.
+The Supreme Court dismissed arguments based on this fear
+as 'unavailing', stating that the ruling did not mean publishers would
+forced not to include articles in databases. The court could award an
+appropriate remedy, which may mean compensation. However, this
+that requiring the publisher to remove the work will never be an
+appropriate
+In reality,
+it may be that the authors and publishers
+reach some compromise which allows the authors to receive payment. This
+is likely to be in the best interests of the authors,
+publishers and
+the public. Jonathon Tasini has been quoted as stating that
+put out the olive branch to the media industry and ... avoid all that
+wrangling)'.
+consequence of the decision is that publishers who
+wish to compile, or authorise others to compile, electronic databases,
+need to obtain consent from the author. This may mean requiring
+writers to assign the right to publish the works electronically
+are accepted for publication. As noted in the dissenting judgment in
+New York Times
+has since 1995 required
+freelance authors to grant to the
+Times the 'electronic rights' to articles.
+In the majority of cases the publisher, with a superior
+bargaining power, will be able to insist on this as another clause in a
+form contract. It may also mean that written contracts are
+often. This is a positive development, meaning that the rights
+can be clearly defined. However, given the superior bargaining power of
+publishers, this advantage may prove
+to be artificial.
+some observations
+The existence of copyright
+in a collective work
+collective work will itself attract copyright protection
+where it is original.
+Depending upon the nature of the collection, for the purposes of the
+Act it will most likely be classified as a literary
+work, which is
+include a compilation.
+Determining
+when a collective work or compilation is
+original enough to attract copyright protection has been the subject of
+debate, both judicial and academic.
+The recent Federal Court decision in
+Telstra Corporation
+Limited v Desktop Marketing Pty Ltd
+illustrates the issues. Telstra Corporation Limited
+(Telstra) had alleged that Desktop Marketing Pty Ltd had infringed its
+in the white and yellow pages telephone directories (the
+directories).
+respondent, Desktop Marketing Systems Pty Ltd (DtMS)
+had produced three CD Rom products which Telstra alleged infringed its
+in the directories. These were:
+CD Phone Directory - a product
+containing the white and yellow pages listings data. It could be
+- containing the same
+information, but allowing more sophisticated searching options.
+Pro - enabled businesses
+to be classified by type and reference to various other classification
+It also included
+additional information where available, such as the
+employees, AusDoc number, facsimile number and whether or not the
+wanted to be canvassed for marketing purposes. All this information
+accessed by doing various searches.
+The primary
+data for all these products came from the
+Telstra directories, although the information was changed in some minor
+(for example, the expansion of abbreviations, and the
+incorporation of
+some different headings).
+The Telstra
+directories were literary works for the
+purposes of the Australian Act. The issue before the court was whether
+directories
+possessed the required level of originality for the
+purposes of
+There is no
+compiles facts, this compilation can be original for the purposes of
+The facts themselves will not be protected, rather the way the facts
+published or compiled. There are two general theories
+as to when a
+compilation
+of facts will be original for copyright purposes:
+'sweat of the brow' theory.
+According to this point of view, so long as the author has exerted some
+in compiling the facts,
+this time and labour will be rewarded by a
+Kingdom. For
+example, in
+Walter v Lane
+the copying down and publication of speeches of the Earl of Rosebery
+to attract copyright protection. The exact level of
+exertion required
+issue which has never been clearly decided (see the discussion in
+(Aust) Pty Ltd v Compact Business Systems Pty Ltd
+need for intellectual effort
+in the selection or arrangement of the facts. This is the approach
+accepted in the
+United States,
+the leading case being
+Feist Publications, Inc
+v Rural Telephone
+Service Co, Inc.
+Supreme Court rejected the sweat of the brow theory, stating that the
+originality was that the choice in making the
+compilation must 'entail
+minimal degree of creativity'. O'Connor J stated that in most cases
+be satisfied in the case
+of a compilation, however, there may be cases
+the 'creative spark is utterly lacking or so trivial as to be virtually
+nonexistent'.
+Therefore, the standard of creativity is low, but it does exist.
+decision, Finkelstein J considered that,
+as a judge sitting at first instance, the Australian approach of
+following UK
+authorities
+should continue. He found that copyright existed both in
+directories (as there was much evidence that skill and effort had been
+in their creation) and also the headings used in the yellow pages
+(following the authority of
+Lamb v Evans
+in which copyright was found to
+exist in the headings used
+in a trade directory.)
+the threshold of protection for a compilation of
+factual data involves balancing a number of policy issues, which were
+in this decision. On the one hand, to grant protection too
+would limit the ability of authors to build on earlier works,
+progress. On the other hand, the collection of factual material is
+essential to
+the economy. Databases provide information
+to businesses, professionals
+consumers and, as such, rewarding the efforts of the authors should
+their development.
+decisions discussed in this article illustrate the
+need to give consideration to copyright when compiling and using an
+novelty of the capacity to easily develop electronic databases,
+nature of the copyright implications is still being realised. Yet, the
+electronic database is an extremely important resource,
+and one which
+going to grow in importance as technology progresses.
+decision and the
+illustrate one important point. If in doubt, seek permission. The
+decision has broader implications for any organisation which is
+considering, or
+has, digitised works. The decision offers protection
+for the author of
+allowing him or her to retain the right to decide if, and in what form,
+electronic publication is to
+take place.
+Australian context, given the differences in the
+law, the decision is not directly relevant. However, should a similar
+arise, the facts would test the willingness of a court to find an
+licence or implied contractual term allowing digital reproduction.
+submitted that the same conclusion would be reached and that, except in
+exceptional circumstances, a court would be reluctant
+to find a right
+reproduce or distribute electronically in the absence of an express
+decision illustrates the courts willingness to
+protect those who take the time and effort to compile a database. Once
+offers important protection for the author. The author of a
+work will not have to establish any intellectual effort, but
+for the time and effort expended in compiling what is often a useful,
+economically valuable, business tool.
+decision and the
+decision are good
+ones. Both represent a warranted protection of the rights of an author.
+rights of the users of copyright material
+are affected. However, on
+the copyright user still possesses the ability to negotiate with the
+owner and obtain
+the right to publish a work electronically or to
+reproduce a
+of these uses, a control which is important in a digital environment.
+Slip opinion, No 00-201, available at
+http://www.supremecourtus.gov/opinions/00slipopinion.html/.
+More detail on the law suit, and the history behind it, is available at
+http://www.nwu.org/tvt/tvthomehtm/
+[2001] FCA 612
+, available from
+http://www.austlii.edu.au/
+LEXIS-NEXIS operate the database NEXIS, a computerised database
+articles in text only format from various periodicals.
+Subscribers can
+the database and view, print or download articles. The formatting of
+articles on the database will be
+very different from the way they
+appear in the
+original journal publication, as heading size and page breaks are not
+reproduced.
+LEXIS-NEXIS also permitted
+reproduction of some
+of the articles on CD products, the New York Times OnDisc and General
+Periodicals
+On Disc. Both products are also searchable in a similar way
+17 USC §101 (1994).
+(Cth) (the Australian Act).
+The US Act provides that 'copyright protection subsists ... in original
+of authorship fixed in any tangible medium of expression
+... from which
+can be perceived, reproduced, or otherwise communicated'. 17 USC
+For the distinction between a joint work and a collective work, see
+21. Another category of work is the derivative work
+(or adaptation) in
+one or more pre-existing works are altered to form a new creation. With
+collective work, alterations to
+the original contributions are minimal.
+Smith, F H, 'Tasini v New York Times Co: A Copyright or a Right to
+New England
+Law Review, vol 32, no 4 (available at
+http://www.nesl.edu/lawrev/vol32/32-4/smith.htm/
+As to which see paras 40-47.
+The general position is that it is the author of the work who is the
+being works created in the course of employment. In this case,
+vest in the employer (section 201(b)
+of the US Act). For the Australian
+equivalent, see
+section 35.
+See above, note 4.
+This section was introduced in 1976 to protect authors who had
+consented to
+their works being published as part of a collective work.
+The law prior
+amendment only recognised copyright when an article was printed with a
+(§18 of the
+of 1909, Stat.
+1079). Many publishers refused to print notices attributing copyright
+individual contributors, meaning that
+the work became public domain
+had been assigned to the publisher).
+New York Times Co v
+, see above note
+Another issue which arose in interpreting
+section 201(c)
+was whether
+granted to the author of the collective work were transferable. The
+Court found that they were (United
+States District Court, Southern
+District of New
+York, 93 Cir. 8678 (SS)). The Court of Appeal and the Supreme Court
+unnecessary to decide the issue, finding that
+section 201(c)
+See paras 11-16.
+United States District Court, Southern District of New York, 93 Cir.
+United States Court of Appeals for the Second Circuit,
+972 F. Supp. 804
+New York Times v Tasini
+, see above note 1, p 15.
+New York Times v Tasini
+, see above note 1, p 16.
+New York Times v Tasini
+, see above note 1, p 7.
+New York Times v Tasini
+, see above note 1, p 12.
+New York Times v Tasini
+, see above note 1, p 15.
+Twentieth Century Music Corp v Aiken
+[1975] USSC 122
+, 156 (1975).
+There are express provisions dealing with works of joint authorship
+however a work of joint authorship is defined as 'a work that has been
+by the collaboration of two or more authors and
+in which the
+contribution of
+each author is not separate from the contribution of the other author
+contributions of the other
+authors'. Thus, a work of joint authorship
+distinct from a collective work, which is the combination of the works
+of authors in which the contribution of each author is clearly
+identifiable.
+Note that the position with regards to employed journalists will be
+Section 35(4) of the Australian Act grants copyright
+to the journalist
+far as it relates to reproduction of the work for inclusion in a book
+or reproduction
+of the work in the
+form of a hard copy facsimile, but not including
+reproduction by the proprietor of the magazine, newspaper or periodical
+connected with publication. For all other purposes, the
+proprietor owns
+the copyright. Therefore, the proprietor would have the right
+reproduce the
+work in an electronic database.
+The discussion in the article is limited to a commercial re-use of a
+Where the re-use is not commercial in nature, the user
+of the work may
+defence based on fair dealing. In relation to literary works, these
+are set out in the Australian
+Act in sections 40-42. A fair dealing
+allowed where it is for the purpose of research or study, criticism or
+reporting of news. Where the purpose is for research or study,
+gives some further guidance as to what will be a fair dealing.
+the purpose and character of the dealing and the nature of the work are
+(section 40(2)). It will be a fair
+dealing for the purposes of research
+study where a reasonable portion is taken (section 40(3)). Ten percent
+pages of a work, or, where it is an electronic work, ten
+the total work, is deemed to be a reasonable portion (section
+10(2A)). Whether or not a greater amount constitutes a fair dealing
+will depend
+on the facts. The reproduction of
+an article by a publisher is unlikely
+within any of the fair dealing categories. See the decision in
+Moore v Neville Jeffress Pidler Pty Ltd
+(1990) 37 FCR 99
+where Beaumont J
+rejected an argument that the reproduction and collation of news
+clippings was
+for the purposes of research and
+study. Although it may have been used
+research or study, it was the purpose of the person making the
+reproduction
+that was relevant,
+and in this case that purpose was to make a
+commercial gain
+from providing a service. Further, it was held that the defence of fair
+for the purpose of reporting of news was unavailable. This defence only
+where the reproduction is contained in a
+newspaper, magazine or similar
+periodical.
+The situation may be
+different where an
+individual compiles a database for the purposes of their own research
+However, the
+reproduction of an entire article is unlikely to be a
+portion, especially where the researcher already possesses a hard
+A complete assignment of copyright can only be achieved if it is in
+writing and
+signed by, or on behalf of, the assignor (section
+There is an overlap between the implied licence and implied contractual
+as a licence may exist as a contractual term. The distinction
+may also exist in the absence of a binding contract. See
+Express Co Pty Ltd v Time Life International (Nederlands) B.V.
+[1977] HCA 52
+(1977) 138 CLR
+Carter, J W and Harland, D J,
+Contract Law in Australia
+3 ed, Butterworths,
+Sydney, 1996, p 237.
+(1994) 180 CLR 266 - decided by the Privy Council in 1977, on appeal
+Full Court of the Supreme Court of Victoria.
+(1994) 180 CLR 266 at 283.
+For example, an art work. However, literary works may also be different
+reproduced electronically.
+Trumpet Software Pty Ltd v OzEmail Pty Ltd
+[1996] FCA 560
+at 499. However,
+where there is no agreement of any kind between the parties, the
+contractual
+approach will not be applicable. (See
+Van Caenegem, W,
+Intellectual
+Butterworths, Sydney, 2001, p 338).
+(1997) 37 IPR 542.
+(1963) 80 WN (NSW) 1578.
+For example, in
+Trumpet Software Pty Ltd v OzeMail Pty Ltd
+[1996] FCA 560
+(1996) 34 IPR 481
+it was held there that although an implied licence existed for the
+distribution
+of shareware, it did not extend to the distribution
+of that shareware
+altered form. Therefore, even where an implied licence is found to
+scope will need to be carefully
+considered.
+This was relevant to the decision, as one of the grounds for the Court
+the relief sought was that it would be contrary to
+the public interest
+Court to grant an injunction preventing publication of the MSDS's for
+reasons. It was stated that
+was difficult to conceive of a situation
+court would grant an injunction the effect of which would deprive
+public of the benefit of information necessary for their safety.
+The test for proving an implied licence exists has proven to be a hard
+satisfy in other contexts. For example, in
+Fylde Microsystems
+Ltd v Key Radio
+Systems Ltd
+[1998] Info TLR 374
+the defendant had requested
+the plaintiff to
+develop a circuit board for a mobile radio which were to be loaded with
+software known
+as Keyport. The defendant had also used the software in
+radios. The defendant argued that, if the plaintiff owned the copyright
+the software (which was in dispute), the defendant had an implied
+to use it. This argument was put forward on the basis
+that there had
+collaborative venture where neither party paid the other for work done,
+a result, a licence for each
+party to use the outcome should be implied
+reasons of commercial efficacy. Laddie J found that such a term was
+nor reasonable.
+See also the recent decision
+of the United States
+District Court of the Southern District of New York in
+House Inc v
+Rosetta Books
+(01 Civ. 1728 (SHS)), where Stein J found that
+the granting of
+the right by an author to a publisher to 'print, publish and sell
+in book form' did not give the publisher the right to publish the books
+electronic format.
+(1990) 37 FCR 99.
+[1996] FCA 560
+(1996) 34 IPR 481.
+On the basis of
+Walton Stores (Interstate) Ltd v Maher
+[1988] HCA 7
+(1988) 164 CLR 387.
+(1937) 56 CLR 605.
+Hewett v Court
+[1983] HCA 7
+(1983) 149 CLR 639
+See the discussion at paragraphs 37-39.
+See Mayfield, K, 'Writers Fight for E-Rights' in Wired News,
+http://www.wired.com/news/prin/0
+,1294,42538,00.html/
+where it was state that 'This result will have unexpected,
+unprecedented and
+irreversible consequences for the
+integrity and accessibility of the
+record and the progress of historical scholarship'.
+McGuire, D, 'Supreme Court to Create More Freelancer Wrangling' in
+http://wwwnewsbytes.com/im.display.printable?client.id
+newsbytes@story.id
+New York Times v Tasini
+, see above note 1, per
+Stevens J, p 17.
+As to the nature of a collective work, paras 5-6.
+Section 10(1)
+See, for example, Bannister, J, 'Originality and access; copyright
+of compilations and databases' in
+Journal of Law and
+Information Science
+(2) 1999 : 227-245; Trimmer, A, 'Copyright protection of compilations
+Computers And Law
+, (30) September 1996: 46-47.
+[2001] FCA 612.
+[1900] AC 539.
+(1985) 84 FLR 101.
+[1892] 3 Ch 463 (Chitty
+[1893] 1 Ch 218 (CA).
+Desktop Marketing Systems lodged an appeal to the Full Federal Court on
+http://www.dtms.com.au/whatsnew/telstra.html.
+See Yastrebroff, N, 'Copyright for Online Databases',
+Intellectual
+Property Law Bulletin
+, May 1996, p 33. Yastreboff states
+that online databases
+have the fundamental nature of 'public good'. They have high design and
+development costs relative to the costs of reproduction and
+distribution. Unless
+producers are able to prevent unauthorised reproductions,
+they will not
+Print (pretty)
+Print (eco-friendly)
+No downloadable files available
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

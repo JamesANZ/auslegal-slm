@@ -1,0 +1,660 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/DTLJ/2001/1.html
+Scraped: 2025-11-17 14:54:58
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Alpin, Tanya --- "When are compilations orginal? Telstra Corporation Ltd v Desktop Marketing Systems Pty Ltd" [2001] DigTechLawJl 1; (2001) 3(1) Digital Technology Law Journal 1
+When are compilations original? Telstra Corporation Ltd v
+Desktop Marketing Systems Pty Ltd
+Tanya Aplin
+Robinson College, Cambridge
+Introduction
+Subsistence
+Infringement
+Introduction
+Telstra Corporation Ltd v
+Desktop Marketing Systems Pty Ltd
+is a recent first instance decision of the Federal Court of Australia
+concerning the standard of originality required for compilations
+attract copyright protection. Its significance lies in the fact that
+Finkelstein J refused to follow the approach of the U.S.
+Supreme Court
+Feist Publications, Inc v Rural Telephone Service Co. Inc
+('Feist'). Instead, his honour held that sufficient labour or
+expense in gathering data, known alternatively as 'industrious
+collection'
+or 'sweat of the brow', could qualify a compilation as
+Telephone directories were at
+the centre of the dispute in this case. The applicant, Telstra
+Corporation Ltd ('Telstra'), together
+with its wholly owned subsidiary,
+Pacific Access, is in the business of producing, on an annual basis,
+white pages directories and
+yellow pages directories for each of
+fifty-five areas within Australia. The first respondent, Desktop
+Marketing Systems Pty Ltd ('Desktop')
+produced its own versions of
+white and yellow pages directories on CD-Rom. The second respondent was
+a director of Desktop. Telstra's
+objection to Desktop's business
+activities arose from the simple fact that Desktop's products used
+primary data extracted from its
+directories.
+To appreciate the nature of
+Telstra's claim of copyright infringement against Desktop, it is useful
+to look in more detail at the
+nature and production of their respective
+Each white pages directory
+produced by Telstra follows a standard format. The first segment of a
+directory contains 'information pages',
+which pages include useful
+general information. The second segment is the true 'directory' part of
+the publication, in which the
+name, address and telephone number of
+every subscriber in the area, barring those with a 'silent' number, is
+Every white pages directory is
+created by a combination of manpower and machine. The telephone number
+and address of every telephone
+subscriber is entered manually into a
+computer program. This program classifies entries into those that do or
+do not require manual
+editing and then transfers the information to a
+into alphabetical
+order. An entry that is rejected by the program is
+manually verified. The information is then transferred from the
+graphics compilation and typesetting system. Editors
+proof every line of the proof pages for errors. Corrected proof pages
+sent to the publisher for printing, binding and publication.
+The major difference in the
+format of a yellow pages directory is that businesses are grouped under
+headings that describe business
+activity. These headings are listed
+alphabetically and each business is listed under the appropriate
+heading in alphabetical order,
+together with its address and telephone
+number. There is also the option of purchasing an enhanced entry,
+namely, a listing formatted
+in such a way as to attract special
+attention. The sale of enhanced listings is what makes the production
+of directories (both white
+and yellow) lucrative for Telstra.
+Compiling a yellow pages
+directory also requires the appropriate heading for a particular
+listing to be chosen. This is usually done
+by the subscriber, with
+occasional guidance from a Telstra salesperson. Headings are selected
+from unpublished heading books, which
+have been developed over many
+years and which are revised annually.
+Desktop produced three CD-Rom
+directories, 'CD-Phone Directory', 'Phonedisk' and 'Marketing Pro'.
+CD-Phone Directory contained the
+name, address and telephone number of
+every telephone subscriber in Australia. Names were listed
+alphabetically within each postcode
+number and postcodes were ordered
+sequentially. A search by name could be conducted. Phonedisk contained
+the same data as CD-Phone
+Directory, but permitted the data to be
+be saved or printed.
+Marketing Pro was Desktop's
+most sophisticated and commercially successful product. It consisted of
+eight different editions representing
+different geographical areas (one
+national edition, four state editions and three city additions). As
+well as grouping each business
+by type, businesses were also
+categorised by reference to the American Standard Industrial
+Classification Code and its Australian
+and New Zealand counterparts.
+Advanced searching capabilities were available. There were twenty-seven
+different ways to search the
+data, amongst the more important being by
+business name, business activity, industry classification and area.
+also be saved and printed.
+The primary data for Desktop's products
+was extracted from the applicant's directories, however, it was not
+directly extracted by
+the respondents. Rather, a Sydney company
+arranged for every directory published by Telstra to be sent to the
+Philippines, whereupon
+a team of persons entered the data from these
+directories into a computer. The data was changed in various respects;
+for example,
+abbreviations were expanded, the name of the State was
+included and the data was formatted so that it could be read easily by
+a computer.
+Desktop received this data in
+electronic form and loaded it onto its own computer system. It
+conducted limited verification of the
+data, however, it did insert
+additional information, namely, the appropriate industry code, number
+of employees, fax number and Ausdoc
+DX number. It used virtually
+identical headings to those used by Telstra in each of its three CD-Rom
+Telstra brought an action
+against Desktop claiming infringement of certain directories published
+between 1996 and 1999 and in certain
+headings books produced between
+1996 and 1998. Desktop denied that copyright subsisted in the
+directories or headings books or that
+it had infringed copyright. The
+second respondent was alleged to have authorised the infringement by
+Desktop, however, no finding
+was made on this issue.
+Telstra claimed that each
+directory and headings book was an original literary work, being a
+compilation, pursuant to sections 32
+(Cth) ('Act'). The respondents conceded that each condition for
+subsistence of copyright, apart from the requirement of originality,
+had been satisfied. The respondents claimed that Telstra's products did
+not demonstrate sufficient skill in their selection or arrangement
+data and thus were not original works. Telstra, however, contended that
+industrious collection of data could suffice to make its
+original and that, in any event, they were the result of intellectual
+The respondents admitted
+copying from the applicant's works, however, they denied that the
+CD-Rom products were substantially similar
+to Telstra's directories and
+headings books.
+Subsistence
+Finkelstein J did not doubt
+that creative selection or arrangement of data would confer copyright
+on compilations.
+The question was whether copyright
+could subsist in the presence of industrious collection of data,
+despite the absence of intellectual
+labour. In answering this question,
+Finkelstein J reviewed a series of English cases
+on compilations decided prior to the
+1911 (UK), which Act was adopted in
+Australia by virtue of the
+(Cth). These cases, he said, supported an 'industrious collection'
+approach to originality: "According to [them] copyright protection
+be given as a reward for the author's investment of time and money,
+even if there be no creativity in the work."
+1911 (UK) was the first statute to grant express protection to
+compilations as a form of original literary work.
+In his honour's view, subsequent
+English decisions did not reject the pre-1911 approach to compilations.
+H Blacklock & Co Ltd v C Arthur Pearson Ltd
+was an example of continued support for an 'industrious collection'
+test of originality and the cases in which compilations were
+did not undermine this test, since they were examples of insufficient
+skill and labour.
+According to Finkelstein J, the
+effect of the English authorities was that copyright could subsist in
+compilations where sufficient
+intellectual effort was applied to the
+selection or arrangement of the facts or where the author has engaged
+in sufficient work or
+incurred sufficient expense in gathering the
+facts. The requisite amount of intellectual effort, labour or expense
+was a question
+of degree. Copyright protection did not extend to the
+facts themselves, so that a third person could publish the same facts,
+he collected the facts himself and did not copy them from
+another work.
+The respondents urged his
+honour to depart from the English authorities and to follow
+the US Supreme Court held that
+original compilations required independent creation by the author and a
+minimal level of creativity
+in the selection or arrangement of data.
+Finkelstein J discussed arguments of principle and policy in respect of
+a Feist approach,
+but he felt bound by the pre-1911 English authorities, which had been
+incorporated into Australian law in 1912. Subsequent Australian
+legislation had not eschewed the English approach and Australian cases
+could not be explained solely by reference to creative selection
+arrangement. Thus, his honour concluded, it was not possible "to
+jettison the old law and replace it with the principles expressed
+Finkelstein J had little
+difficulty in concluding that each directory and headings book, when
+considered as a whole,
+was original.
+Sufficient skill had been applied in producing the information pages of
+each directory and
+Lamb v Evans
+supported the finding that the headings books were original.
+Infringement
+Telstra alleged that Desktop
+infringed copyright in their directories and headings books by
+reproducing a substantial part of these
+Finkelstein J
+stated that in considering whether a substantial part of a work has
+been reproduced the originality of the part allegedly
+copied is an
+influential factor. This was clear from cases such as
+(Football) Ltd v William Hill (Football) Ltd
+Data Access
+Corporation v Powerflex Services Pty Ltd
+"Once it is accepted that
+'industrious collection' will suffice to confer copyright, it follows
+that the directory portion of the
+white pages directories, the
+directory portion of, and the headings in, the yellow pages
+directories, and the headings in the headings
+books, are original and
+essential features of the respective works. This was not seriously in
+However, Finkelstein J
+indicated that, had he preferred the creativity approach to
+originality, he would have found that the telephone
+listings and
+headings in the applicant's works lacked any trace of creativity.
+Presumably, if
+this had been the case, a real issue would have arisen over whether a
+substantial part of Telstra's works had been
+The respondents admitted
+copying from the Telstra's directories and headings books, however,
+they denied that their CD-Rom products
+were sufficiently similar to the
+applicant's products to constitute a reproduction. The respondents
+claimed that the inclusion of
+additional information and a different
+visual presentation of data made their products sufficiently dissimilar
+to preclude a finding
+of infringement. In terms of additional
+information, addresses were given in full (ie, street, suburb, state
+and postcode), facsimile
+numbers were sometimes included and the
+Marketing Pro product included the position of the business and its
+industry codes. In terms
+of the visual presentation of data,
+information did not appear within columns on a page, but as a separate
+'record' of information.
+In each record, information was listed next to
+appropriate headings: eg, 'Company Name', 'Address', 'Telephone' and
+'Facsimile'.
+Because of the record format, the relevant headings
+appeared with each business entry, as opposed to just once.
+These differences did not
+persuade Finkelstein J of non-infringement. His honour explained that
+sufficient similarity did not relate
+solely to physical appearance of
+data, but to "whether the substance of the information that has been
+taken from Telstra's works...has
+been reproduced in the CD-Roms."
+Finkelstein J
+had little trouble in finding that the "significant recorded
+facts...are the same, or substantially the same, as they
+Telstra's works" and, thus, that the respondents had infringed
+Finkelstein J was correct in
+his view that prior to the
+(UK) courts protected compilations that were a result of 'labour and
+expense'. This is clear from the cases he relied upon, along
+v Cater, Stoffell and Fortt Ltd
+Walter v Steinkopff
+Courts were also prepared to
+protect compilations that resulted from intellectual skill.
+The express
+reference to 'original' works in the 1911 and 1912 Acts did not mark
+the introduction of a higher standard of originality
+previously the case.
+However, Finkelstein J's
+conclusion that originality may be conferred either by creative
+selection or arrangement of data or by industrious
+collection of data
+oversimplifies the way in which courts have dealt with this issue since
+1911. First, courts have avoided approaching
+the originality issue in
+this specific, alternative manner, but have tended to ask whether
+sufficient 'skill, judgement and labour'
+has been expended in producing
+the compilation.
+In other words, courts have generally avoided protecting compilations
+solely on the basis of expenditure of effort and money.
+At the same
+time, however, courts have protected compilations that have displayed
+marginal skill in their selection or arrangement,
+but which have
+involved considerable labour or expense.
+application of the 'skill and labour' test is a highly flexible one and
+it may operate as a pretext for protecting mainly
+investment. Second,
+courts have regularly looked beyond the physical process of presenting
+and ordering information when assessing
+whether a compilation is
+original. Instead, they have been prepared to consider skill and effort
+applied in gathering or calculating
+data for a compilation.
+effect of Anglo-Australian authorities may be more accurately stated as
+follows: compilations will attract copyright where
+there has been
+sufficient skill and labour expended in the collection, selection or
+arrangement of information
+and the expenditure of skill and labour need not be proportionate.
+In terms of whether a
+substantial part has been copied, it is correct to say that the
+originality of the part taken is highly relevant.
+compilation has attracted copyright due only to its creative selection
+or arrangement, failure to copy the collocation of
+material has
+resulted in non-infringement.
+compilation has been copied wholesale, courts have found infringement
+without having to isolate whether skill and labour
+collecting, selecting or arranging information has been appropriated.
+Where persons
+have verified, rearranged or embellished data taken from earlier
+compilations this has nevertheless amounted to infringement.
+These cases may
+be seen as examples of appropriation of substantial skill and labour
+expended in collecting information. The finding
+of copyright
+infringement in Telstra may be justified on the same basis.
+The interesting question to
+emerge from Telstra is whether Australian law should follow
+. This issue is likely to be at the heart of the respondents' appeal to
+the Full Federal Court.
+Finkelstein J concerned himself
+with two main arguments of principle: is an 'industrious collection'
+test contrary to the nature of
+protection of raw data? After a lengthy digression into 18th and 19th
+century English copyright
+law, Finkelstein J observed that copyright
+has largely protected creative works of art and literature. Therefore,
+protection of compilations
+resulting from 'industrious collection'
+arguably conflicts with the nature of copyright. However, his honour
+commented that compilations
+necessarily involve a different type of
+creativity because they consist of gathering, selecting and arranging
+information and the
+English cases have recognised this different order
+of creativity.
+One could also
+add that Australian copyright law has long protected subject matter
+that is the result of more labour and expense
+than skill, or at least
+the product of different (technical) skill.
+Thus, the scope of protection has been of a neighbouring rights kind.
+Future debate might therefore consider whether investment-driven
+compilations should be recast in this vein.
+Another criticism of the
+'industrious collection' approach to originality is that it undermines
+the fundamental principle that copyright
+law does not protect raw
+This criticism
+held sway with the Supreme Court in
+However, it is
+important to recognise that courts have, on occasion, refused copyright
+protection where this would otherwise protect
+Further, as has
+been emphasised by judges
+(including Finkelstein J) and commentators,
+third persons remain free to collect primary data. Of course, this
+statement does not hold true where the first compiler is also
+source of data. Examples of sole source information providers are
+racing authorities who fix racing lists,
+football authorities who compile fixture lists,
+broadcasters who fix radio programmes
+and telephone providers who compile lists of subscribers.
+situations, there is legitimate concern about whether second comers are
+wrongly inhibited from creating value-added or derivative
+products. But
+there are also mechanisms by which such monopoly effects could be
+regulated, namely, compulsory licensing
+and competition law.
+As a matter of policy,
+Finkelstein J highlighted two main objections to following
+standard of originality is an
+uncertain one and reduced protection for compilations will act as a
+disincentive to producing them.
+The Supreme Court in
+described the originality requirement for compilations as
+"a minimal level of creativity" in the selection or arrangement of
+commented that the requisite level of creativity is "extremely low" and
+"the vast majority of works" will meet this test.
+Finkelstein J
+remarked that the meaning of the
+criterion is uncertain
+and pointed to
+Publications, Inc v Chinatown Today Publishing Enterprises
+Advertising & Publishing Corp. v Donnelly Info Publishing Inc
+as examples of the courts struggling to apply the standard
+consistently.
+The uncertain
+application of the
+standard does not
+necessarily sound against its adoption in Australia. Rather, it
+emphasises that courts would have to provide clearer
+guidance on its
+scope. For example, courts would have to clarify whether or not skill
+in generating, calculating or collecting information
+is to be entirely
+A more important consequence of
+is that compilations will receive
+less protection. Finkelstein J commented that a 'creativity' approach
+to originality would exclude
+compilations in which functional or
+commercial considerations determined selection, and in which data was
+listed in obvious ways,
+such as alphabetically, chronologically, or
+sequentially.
+Probably of
+greater concern for database producers, however, is the fact that only
+creative selection or arrangement of materials
+would be protected.
+Thus, second comers would be able to extract data from a compilation,
+provided they rearranged the data and did
+not copy a substantial part
+of the first compiler's selection.
+In the other
+words, on a
+approach, the respondents in
+Telstra would probably avoid infringement.
+Anxiety over the impact of
+protection on incentives to create compilations, whether entirely
+justified or not, is very likely to generate pressure for
+Australia to
+adopt sui generis protection for databases. The experience in the
+United States tells us so: one need only look to the
+number of bills
+that have entered Congress post-
+In addition, a
+approach could rekindle the efforts of the European Union to make its
+The likelihood
+of national and international pressure to introduce sui generis
+What it does suggest, though, is that debate should be cast in wider
+terms to include the advantages and disadvantages of existing
+protection of compilations as compared with possible neighbouring
+sui generis
+protection of databases.
+wider debate gets seriously underway, it seems sensible to preserve the
+status quo and to decline to follow
+Finkelstein J indeed did. Whether the Full Federal Court will share
+this view remains to be seen.
+This case note was
+originally written for publication in the EIPR. The author would like
+to thank the editors of the EIPR for allowing
+re-publication of this
+note in the DTLJ.
+[2001] FCA 61.
+(Finkelstein J).
+s32 states that
+s10(1) defines
+'literary work' to include a table or compilation, expressed in words,
+figures or symbols.
+Paras 44, 47.
+v Stockdale
+[1806] EngR 112
+(1806) 12 Ves 270
+(1866) 1 Eq 697
+Morris v Ashbee
+[1900] AC 539.
+See s1 and s35(1)
+[1915] 2 Ch
+v J Young & Sons
+[1894] AC 335
+Cramp & Sons Ltd v Frank Smythson Ltd
+Adopting the
+approach in
+Ladbroke (Football) Ltd v William Hill
+(Football) Ltd
+[1964] 1 WLR 273.
+[1892] 3 Ch 462
+[1893] 1 Ch 218 (CA).
+Paras 90-91.
+See s31(1) and
+s14 of Act.
+[1964] 1 WLR
+[1999] HCA 49
+(1999) 166 ALR
+(emphasis supplied).
+Paras 93, 102.
+[1857] EngR 756
+69 ER 1294.
+LT(NS) 613.
+[1892] 3 Ch
+[1863] EngR 803
+(1863) 1 H&M 603
+& McDougall Pty Ltd v Robinson
+[1917] HCA 14
+(1917) 23 CLR 49
+Newspapers plc v News (UK) Ltd
+(1990) 18 IPR 201.
+& Co Ltd v Cooper
+(1923) 1B IPR 204
+(Football) Ltd v William Hill (Football) Ltd
+[1964] 1 WLR
+Sands & McDougall Pty Ltd v Robinson
+[1917] HCA 14
+Skybase Nominees Pty Ltd v Fortuity Pty Ltd
+(1996) 36 IPR 529.
+Football League Ltd v Littlewoods Pools
+[1959] Ch 637
+, 656 (Upjohn J) and
+Consolidated Press Ltd v Morgan
+[1965] HCA 21
+(1964) 112 CLR 483
+(Barwick CJ).
+v Wireless League Gazette Publishing Co
+[1926] Ch 433
+Engineering Co Ltd v Sykes Boxall & Co Ltd
+Kalamazoo (Aust) Pty Ltd v Compact Business
+Systems Pty Ltd
+(1984) 84 FLR 101
+T R Flanagan
+Smash Repairs Pty Ltd v Jones
+[2000] FCA 625
+(2000) 48 IPR 19.
+(Football) Ltd v William Hill (Football) Ltd
+[1964] 1 WLR
+Football League Ltd v Littlewoods Pools Ltd
+Winterbottom v Wintle
+[1947] WALawRp 21
+(1947) 50 WALR 58
+Mirror Newspapers Ltd v Queensland Newspapers Pty Ltd
+(1982) 59 FLR 71.
+(Oil Seals) Ltd v Beehive Spinning (A Firm)
+Access Corporation v Powerflex Services Pty Ltd
+[1999] HCA 49
+Cantor Fitzgerald International v Tradition
+[2000] RPC 95
+Film Productions Ltd v Eisinger
+[1969] 1 Ch 508
+FairFax & Sons Pty Ltd v Australian Consolidated Press Ltd
+(1960) SR(NSW) 413.
+v Cater, Stoffell and Fortt Ltd
+(1898) 78 LT(NS) 613
+Newspapers Plc v Liverpool Daily Post
+[1985] 1 WLR 1089
+Winterbottom
+[1947] WALawRp 21
+(1947) 50 WALR 58
+Mirror Newspapers
+Ltd v Queensland Newspapers Pty Ltd
+(1982) 59 FLR 71
+(Aust) Pty Ltd v Compact Business Systems Pty Ltd
+84 FLR 101.
+(1868) 7 Eq 34
+Waterlow v Rose
+(1989) 17 IPR 493
+Elanco Products Ltd v Mandops Ltd
+[1979] FSR 46
+Autocaps (Aust) Pty Ltd v Pro-Kit Pty Ltd
+[1999] 46 IPR 339.
+Eg broadcasts,
+sound recordings and published editions.
+already occurred to a limited extent: see Ricketson, 'Copyright and
+Data Bases' in Hughes, G (ed), Essays On Computer Law
+Professional, 1990), 67-98, 96-98 and Garrigues, 'Databases: A
+Subject-matter for Copyright or for a Neighbouring Rights
+(1997) 1 EIPR 3.
+Newspapers Ltd v The Labour Daily
+[1925] NSWStRp 15
+(1925) 25 SR(NSW) 593
+Press Ltd v London and Provincial Sporting News Agency Ltd
+[1935] Ch 672
+Victoria Park Racing & Recreation
+Grounds Co Ltd v Taylor
+[1937] HCA 45
+(1937) 58 CLR 479.
+(1866) 1 LR Eq 697
+[1900] AC 539
+, 549 (Halsbury LC) and 551 (Lord Davey).
+Eg Ginsburg,
+'Creation and Commercial Value: Copyright Protection of Works of
+Information'
+(1990) 90 Colum L R 1865
+, 1922; Thakur, 'Database
+Protection in the European Union and the United States: The European
+(2001) 1 IPQ 100
+[1934] SAStRp 12
+(1934) SASR 87.
+League Ltd v Littlewoods
+[1959] Ch 637.
+v Wireless League Gazette Publishing Co
+[1926] 1 Ch 433.
+(1990), 1924-1936.
+'Copyright, Databases & Misuse of Market Power'
+; Magill TV Guide
+[1995] 4 CMLR 78.
+345, 348, 358.
+The standard of
+'author's own intellectual creation' contained in Article 3(1) of the
+EU Database Directive has also been criticised
+for its ambiguity: see
+Karnell, 'European Originality: A Copyright Chimera' in Kabel et al
+(eds), Intellectual Property and Information
+Law (Hague: Kluwer, 1998),
+945 F. 2d (2d
+Cir. 1991).
+[1993] USCA11 1579
+999 F. 2d 1436
+(11th Cir. 1993).
+Paras 75-78.
+Ginsburg, 'No
+"Sweat"? Copyright and Other Protection of Works of Information After
+Feist v Rural Telephone'
+(1992) 92 Colum L R 338
+Investment and Intellectual Property Antipiracy Bill 1996 (HR 3531);
+Collections of Information Antipiracy Bill 1998 (HR
+2652); Collections
+of Information Antipiracy Act 1999 (HR 354); Consumer and Investor
+Access to Information Act 1999 (HR 1858). All
+have fail to be
+introduced.
+The EU was a
+main proponent of a Database Treaty, along the lines of the sui generis
+provisions of its Databases Directive, at the
+1996 WIPO Diplomatic
+Conference.
+Ricketson (1990) and Davison, 'Sui Generis or Too Generous: Legislative
+Protection of Databases, Its Implications for Australia
+Suggestions for Reform'
+[1998] UNSWLawJl 63
+(1998) 21(3) UNSW LJ 729.
+Federal Court is listed to hear an appeal from Desktop in December,
+Print (pretty)
+Print (eco-friendly)
+No downloadable files available
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

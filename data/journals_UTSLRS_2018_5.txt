@@ -1,0 +1,1534 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/UTSLRS/2018/5.html
+Scraped: 2025-11-17 15:50:56
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Rock, Ellen --- "Fault and Accountability in Public Law" [2018] UTSLRS 5; Jason Varuhas and Shona Wilson Stark (eds) The Unity of Public Law (Hart Publishing, 2018)
+This is a pre-publication copy of a
+chapter appearing in Mark Elliot, Jason Varuhas and Shona Wilson Stark (eds),
+The Unity of Public Law
+(Hart Publishing, 2018)
+Fault and Accountability in Public Law
+I. INTRODUCTION
+There are few who would deny that accountability is a core value that
+underpins our public law system. However, there are equally
+few who have
+explicitly explored the manner in which public law contributes to government
+accountability. On closer analysis, it
+is clear that while public law makes a
+number of important contributions to government accountability, the remedial
+limitations of
+public law prevent us from describing it as a comprehensive
+accountability regime. In the context of public governance, accountability
+be understood as a set of four interrelated objectives. The first is to provide
+transparency in government decision-making. The
+second is to control the
+exercise of public power and ensure that it stays within legal bounds. The third
+is to punish abuse of power,
+and the fourth is to restore interests that are
+affected as a result. Public law supports the first two of these objectives,
+it fails to provide any meaningful contribution to the latter two;
+public law remedies do not punish or restore.
+This raises somewhat of a
+predicament. How can accountability be a core public law value, on the one hand,
+but not be adequately reflected
+in our public law principles, procedures and
+remedies, on the other? Is accountability simply a rhetorical aspiration, rather
+a concrete objective of public law? Are there fundamental or pragmatic
+reasons why accountability cannot or does not apply in a comprehensive
+the public law sphere? The purpose of this chapter is to commence a dialogue
+as a comprehensive
+accountability regime. This is not intended as a proposal for law reform, but
+rather to stimulate discussion about
+how and why public law has developed in the
+way that it has, and what this might say about the place of public law as an
+accountability
+mechanism within our system of governance. In the context of this
+discussion there are a whole host of valuable issues that warrant
+consideration,
+to which the present chapter offers insufficient space to do justice. Instead,
+this chapter kick-starts the proposed
+dialogue by focussing on just one issue:
+are the norms that are enforced via public law consistent with the punitive and
+restorative
+objectives of accountability?
+In answering this question, the
+first issue to consider is when the punitive and restorative objectives of
+accountability might be
+relevant. Though there might be a number of ways of
+approaching this issue, one possibility is to take the lead from those who have
+identified a close connection between the concepts of accountability and
+responsibility. Based on this close connection, one way
+of giving shape to these
+objectives is to adopt a personal responsibility-based approach, in which
+punishment and restoration are
+viewed as functions of culpability. The notion of
+fault would play an important role in a culpability-driven accountability
+if we wish to hold officials accountable outside cases of intentional
+wrongdoing, we would need to identify a justification for doing
+position adopted in this chapter is that in searching for this justification, we
+might adopt a different approach for each of
+accountability’s objectives.
+The control objective arguably supports a
+strict liability
+wherein regulatory orders are justified irrespective of fault. This is because
+control is about policing the boundaries
+of public power, a goal that could not
+be achieved if we could only intervene where a boundary was knowingly or
+negligently transgressed.
+At the other extreme, punishment would only be
+justified when an official acts in a
+subjectively faulty way
+example, intentionally causing harm). This is because the punitive objective of
+accountability is concerned with condemning
+reprehensible conduct, a goal that
+would be undermined if innocent excesses of power attracted punishment. Finally,
+accountability’s
+restorative objective is concerned with putting wrongs
+right for the purpose of supporting the legitimacy of government. If legitimacy
+is threatened, we can justify reparative remedies outside cases of fault.
+However, at least in relation to the exercise of discretionary
+powers, the most
+coherent approach would be to limit the obligation to restore to cases where an
+official acts in an
+objectively faulty way
+(for example, falling short of
+a prescribed standard of reasonableness). To summarise, in a
+culpability-focussed accountability regime,
+we can likely justify imposing
+regulatory orders on a strict liability basis. However when it comes to
+punishment and restoration,
+liability in such a regime would depend on whether
+an official’s contravention is accompanied by the relevant degree of fault
+that engages those remedial responses: subjective fault for punishment and
+objective fault for restoration.
+We tend not to think about public law in
+terms of fault. Indeed, in many ways we think about public law as being a style
+liability regime, in which public law norms might be contravened
+irrespective of an official’s actual degree of knowledge or
+This might lead us to wonder whether our public law principles are capable of
+working within the accountability regime
+outlined above. If public law is not a
+fault-based regime, how could it accommodate a remedial framework that hinges
+off concepts
+of fault? This chapter explores the generally uncharted fault-based
+foundations of public law, concluding that two of our core grounds
+of judicial
+review can be understood as ‘benchmarks’ of fault. Bad faith stands
+as a benchmark of subjectively faulty
+behaviour, capturing conduct that rises to
+an unacceptable level of dishonesty or malice. 'Legal unreasonableness', which
+the place of the traditional
+unreasonableness test in
+stands as a benchmark of objective fault, capturing conduct that falls short of
+an objective measure of reasonableness and rationality
+in government
+decision-making. This analysis demonstrates that, at least insofar as
+accountability is dependent on notions of fault,
+our public law norms are
+consistent with the punitive and restorative objectives of
+accountability.
+The purpose of this analysis is to demonstrate the value in
+using accountability as a ‘lens’ through which to analyse
+of our public law system. We are prompted to think about public law in new ways,
+and to recognise features of our current
+system that we might previously have
+taken for granted. As demonstrated in this chapter, one thing that the
+accountability perspective
+shows us is that public law is not the strict
+liability regime that we often treat it as. Rather, there are shades of
+fault-based
+liability that are bound up in our public law grounds of review. We
+can therefore conclude that to the extent that accountability
+fault-based assessment of government decision-making, our public law principles
+are well adapted to this purpose. This
+argument does not go so far as to state
+that we should therefore be comfortable in expanding our public law remedies to
+neglected punitive and restorative objectives of accountability: that
+is a much wider question of law reform than is considered here.
+Rather, it shows
+us that if there are good reasons for public law’s failure to provide
+punitive and restorative contributions
+to government accountability, these
+reasons do not lie in any inconsistency between our grounds of review and the
+fault-based foundations
+of accountability.
+II. AN ACCOUNTABILITY FRAMEWORK
+I have written elsewhere about the concept of
+accountability, and its place within the public law
+A brief summary of that argument is set out here for convenience. In the context
+of public governance, I have argued that accountability
+is regarded as a core
+public law value, tied to our rule of law and separation of powers principles.
+One of the overriding purposes
+of accountability is to support the broader
+legitimacy of government, which it does through the pursuit of four objectives.
+objective of accountability is to provide transparency in government
+operations, by facilitating public scrutiny. In some cases,
+the transparency
+achieved through this process may be an end in and of itself, revealing sound
+administrative procedures and rigorous
+adherence to principles of good
+decision-making. However, in cases where transparency exposes a breach of norms
+of good administration,
+we must turn to the remaining three results-oriented
+objectives of accountability: to control public power, to punish abuse of power,
+and to restore interests affected as a result.
+The control objective of
+accountability is best understood by viewing accountability as a principal-agent
+relationship. The ability
+to control one’s agent is a fundamental feature
+of an agency relationship, enabling a principal to ensure that the agent acts
+not out of self-interest, but in pursuit of the best interests of their
+principal. This control may be manifested in a number of
+different ways, but the
+key characteristic is coercion; control is not merely a matter of influence, but
+instead enables the principal
+to compel their agent to comply with prescribed
+norms. The punitive objective of accountability serves a different purpose. It
+concerned with condemning reprehensible conduct; a ‘tar and
+feather’ response to wrongdoing. This objective of accountability
+an essentially expressive purpose, though some suggest that punishment may also
+serve as a deterrent against future
+transgressions.
+If the punitive
+objective of accountability is focussed on the actions of the wrongdoer, the
+restorative objective is more concerned
+with the effects of those actions on
+others. The obligation to repair harm is an important way in which
+accountability reinforces
+the legitimacy of government, providing the assurance
+that where the government causes harm as a result of its wrongdoing, that harm
+will not go unremedied.
+In a practical sense, each of the four objectives of
+transparency, control, punishment and restoration are supported through the
+and mechanisms that make up our system of public governance. For
+example, when we think about the legal system as a whole, we can
+range of court procedures contribute to transparency, including various
+evidentiary procedures, trial procedures and even
+the open nature of the court
+forum itself. The remaining three results-oriented objectives are in turn
+supported through the different
+courts: regulatory orders (such as injunctions) to provide control, punitive
+(such as fines) to provide punishment, and reparative remedies (such
+as compensation) to provide restoration. When viewed as a whole,
+then, the legal
+system contains a number of mechanisms and procedures that are capable of
+supporting the four objectives of accountability.
+I have argued, however,
+that public law does not make full use of the arsenal of accountability
+mechanisms that make up our legal
+When an official’s
+compliance with public law norms is in question, proceedings for judicial review
+may play a role in securing
+transparency by compelling the official to justify
+his or her conduct in an open public forum. However, if it is discovered that
+the official has in fact breached norms of good administration, the available
+public law remedies are inherently regulatory in nature,
+supporting only the
+accountability goal of control. Along with injunctive and declaratory relief,
+the writs of certiorari, prohibition
+and mandamus are essentially limited to
+policing the boundaries within which public power can be exercised. These
+remedies play no
+meaningful role in punishing abuse of power. In some cases, an
+applicant might derive a restorative advantage from these remedies
+(eg where the
+court quashes a decision to revoke a benefit, the effect of that remedy is to
+restore the benefit). However, such advantages
+are largely a matter of
+co-incidence rather than design. These advantages do not reflect the true
+character of the remedy, which
+is to contain public power within defined limits.
+This all leads to the conclusion that public law is not a comprehensive
+accountability
+regime, as it fails to contribute to two of the core objectives
+of accountability: punishment and restoration.
+III. A VALUABLE THOUGHT EXERCISE
+Before launching into the argument addressed in
+this chapter, it is useful to set out a hypothetical scenario. This not only
+us with a concrete way to explore the arguments presented, but also
+gives us an idea of what might be at stake. This hypothetical
+is one that I have
+used before,
+though for present
+purposes we can embellish it with a little colour. Imagine that Odette is an
+official with the local planning
+authority, and one of her responsibilities is
+to determine whether applications for proposed new developments should be
+or rejected. Odette has just been handed a new file relating to a
+particular development. She reviews the file and decides to reject
+application on the basis that the applicant has not provided sufficient
+supporting evidence. As it transpires, the applicant,
+Alex, phoned the planning
+authority last week to inform them that he had just put some additional
+supporting documents in the post.
+There are three alternate scenarios that
+this chapter.
+In the first scenario, assume that the administrative assistant
+who took Alex’s call recorded the filenote on the wrong file,
+meaning that
+Odette was unaware that Alex was sending further evidence when she made her
+decision. In the second scenario, the filenote
+has been correctly recorded on
+Alex’s file. However, when Odette reads this note, she decides that Alex
+has had plenty of time
+to get his evidence in: ‘enough is enough!’
+Accordingly, she decides to reject the application before the additional
+evidence arrives. In the final scenario, Odette is a little more underhanded. On
+reviewing the file, she recognises Alex’s
+name as one of her neighbours,
+with whom she is involved in an ongoing dispute. She accordingly decides to
+reject the application
+out of spite.
+Under our current public law regime,
+Alex could bring proceedings for judicial review to challenge the legality of
+decision. In all three scenarios, the claim might be based on
+allegations of denial of procedural fairness, or failing to take into
+relevant considerations. The decision in the second scenario may also be framed
+as one that is legally unreasonable: Odette’s
+decision not to wait for the
+additional evidence may be characterised as arbitrary, as in
+Minister for
+Immigration and Citizenship v
+In the third scenario, the
+decision may also be framed as one made in bad faith. Irrespective of which
+ground Alex stakes his claim
+on, the available remedies are limited to the
+prerogative writs and injunctive and declaratory relief. Public law cannot
+punish Odette,
+nor can it repair any harm suffered by Alex as a result of her
+conduct. While the retaking of the decision might have the effect
+of remedying
+losses in some cases, there are limitations as to what this might achieve. Most
+significantly, if Odette ultimately
+re-decides the matter in Alex's favour, this
+will not repair any of the harm that Alex has suffered in the meantime.
+accountability demands punishment and restoration in appropriate cases, and if
+we assume that this is a case in which those responses
+might be appropriate,
+what do these shortcomings in our public law system tell us?Are we simply wrong
+when we describe accountability
+as a core public law value? Or are we wrong to
+assign it punitive and restorative functions? Neither of these explanations for
+limitations of public law is particularly compelling. There is much to be
+said for treating accountability as a core public law value.
+The concept has
+close ties to our constitutional principles of rule of law and separation of
+powers, and there are convincing arguments
+to the effect that accountability is
+critical to secure the legitimacy of
+government.
+There is also much to
+be said for treating punishment and restoration as core objectives of
+accountability. Though some might express
+doubt about whether both of these
+features are essential in an accountability
+there is something very
+hollow in the idea of an accountability regime which is designed simply to
+expose wrongdoing, or to limit
+the possibility of future infractions. If we
+discover that an official has engaged in a flagrant abuse of public power, would
+say that they have been held accountable simply by reason that their
+wrongdoing has been unmasked and that they have been told not
+do it again? In
+appropriate cases, accountability demands that wrongdoers be punished, and their
+wrongs put right.
+If we accept that accountability is a core public law
+value, and that it demands punishment and restoration in appropriate cases,
+then can we make of the lack of punitive and restorative remedies in public law?
+It is my argument that we have much to gain
+from exploring whether there are
+fundamental or pragmatic reasons why public law cannot or does not perform a
+punitive or restorative
+role in securing government accountability. By
+investigating these reasons, we may ultimately conclude that there is a valid
+explanation
+for why our public law regime does not comprehensively reflect one
+of its core values. However, whether or not we manage to resolve
+that question,
+using accountability as a lens through which to explore our public law
+principles, procedures and remedies provides
+us with an opportunity to better
+understand the makeup of our public law system and why it might have developed
+in the way that it
+Bearing this goal in mind, there are a number of
+potential explanations for the limitations of public law that we might explore
+accountability ‘spectacles’. I have briefly canvassed two
+such possible explanations
+The first is that
+Australia’s separation of powers framework renders public law an
+unsuitable vehicle to impose accountability
+via punitive and restorative
+remedies. This is an idea that is sometimes implicit in arguments against the
+adoption of a public law
+The separation of
+powers concerns that underlie this position might stem, for example, from
+concerns about whether the award of damages
+moves the courts into the
+impermissible field of 'merits' review, or perhaps from more general concerns
+that this involves the courts
+in decisions about the distribution of public
+funds that are more appropriately assigned to the elected branches of
+government.
+A second possibility
+is a more pragmatic one: that the remedial limitations of public law are
+overcome through alternate judicial
+and non-judicial mechanisms that provide
+punishment and restoration in cases of government wrongdoing (eg liability in
+tort, liability
+under the criminal law, and
+compensation
+schemes, amongst others).
+This chapter is concerned with a third possible
+explanation: that the principles making up our public law system are
+incompatible
+with the objectives of punishment and restoration, thereby making
+it unfeasible to use public law to pursue these objectives. In
+other words, is
+public law capable of performing the theoretical acrobatics necessary to allow
+the courts to perform a robust accountability-enforcing
+role in public law
+cases? For instance, is there something in the nature of punitive and
+restorative remedies (eg awards of punitive
+and compensatory damages) that is
+fundamentally inconsistent with the structure and functions of public law? Is
+public law capable
+of dealing with questions of causation that must naturally
+arise in determining whether an official has caused harm so as to be responsible
+to repair it? Are our public law standing tests sufficiently well adapted to
+confine the availability of any punitive or restorative
+public law remedies to
+those who ought to be entitled to obtain them? Are the procedural aspects of our
+public law system (eg evidentiary
+procedures and the burden of proof) compatible
+with the determination of claims involving punishment and restoration? All of
+questions offer interesting opportunities to explore and better understand
+our public law system. In order to demonstrate the value
+of this thought
+exercise, this chapter focusses on just one question: are our public law grounds
+of review capable of supporting
+the fault-based analysis that might be required
+within a comprehensive accountability regime?
+IV. FAULT AND ACCOUNTABILITY
+Some take the view
+that accountability is closely tied to the notion of
+responsibility.
+This chapter
+takes the lead from these authors, looking at the potential shape of an
+accountability regime that is framed by reference
+to notions of personal
+responsibility. Fault would stand as a starting point in such a regime,
+requiring us to identify justifications
+for holding a person accountable for
+unintentional conduct. Before going on to outline the potential justifications
+that might be
+relevant in the context of government accountability, it is
+necessary to expand on what we mean when we speak about
+A. What is Fault?
+The concept of fault plays an important role in
+criminal and civil law. With some exceptions, it plays a far less important role
+public law. The notion of fault captures a range of factors relating to an
+individual’s state of mind, including intention,
+motive, knowledge and
+belief. Intention refers to the degree of deliberateness attaching to a
+person’s conduct, being intentional,
+reckless, or negligent. Intentional
+conduct involves a deliberate choice to act. A person may act deliberately with
+a view to achieving
+a particular outcome, or may act deliberately with no
+awareness of what the results of their conduct might
+Recklessness, while also deliberate in
+sits one step behind
+intention, involving ‘awareness of a risk that certain consequences will
+result from conduct, and indifference
+In this context, it
+is important to distinguish between ‘not caring’ whether a risk may
+eventuate, and the legal notion
+of recklessness, which is more properly
+characterised as ‘deliberately taking a known
+Negligence, though sometimes thought about in terms of
+‘inadvertence’ or
+‘inattention’,
+more appropriately described as a failure to adhere to a prescribed
+In other words, the
+intentionality of a defendant’s conduct is irrelevant to the enquiry, as
+they can be equally accountable
+for an oversight as for an intended
+Motives are also often relevant in the assessment of fault. In simple
+terms, motivation refers to a person’s reason for doing
+something. While
+related to the concept of intention, the two terms are not synonymous. For
+example, a person may drive over the
+speed limit with a murderous desire to harm
+others, or out of a desire to experience the thrill of driving fast, or out of a
+to race an ill child to the hospital. In each case the conduct of driving
+over the speed limit is deliberate (intentional), but the
+motive for that
+intentional conduct differs. The consequences of that conduct (eg injuring a
+pedestrian) may therefore correlate
+with intention (as with a murderous motive),
+or may be an unintended side effect. This example also says something about the
+of motives that may underlie a person’s behaviour. Good motives
+(such as racing an ill child to seek medical care) may in certain
+circumstances
+justify otherwise blameworthy
+motives may be further divided into intrinsically malicious and collaterally
+malicious categories.
+Intrinsically malicious motives are those which are inherently reprehensible,
+such as wanting to injure others. Other such motives
+would include spite, or
+wanting to gain at another’s expense. Collaterally malicious motives are
+those which, while not intrinsically
+bad, are not authorised in the
+circumstances. The thrill-seeking desires of our dangerous driver might fall
+into this category, as
+would acting for personal gain or some other goal which,
+while acceptable in some situations, would not be allowed in the circumstances.
+A person’s knowledge is a further state of mind that contributes to
+their degree of fault. There are a number of observations
+that we can make about
+a person’s knowledge. First, the fact that a person turns out to have been
+wrong about what they
+they knew is not determinative of fault. To
+take an example, a person may set fire to a house believing it to be inhabited.
+house is in fact inhabited, we can say that the wrongdoer
+‘knew’ of it. If it transpires that the inhabitants were not
+we cannot say that the wrongdoer ‘knew’ them to be inside, but
+instead that the wrongdoer ‘believed’
+them to be inside. In either
+case, we are generally concerned with attributing fault based on the
+wrongdoer’s state of knowledge
+or belief, rather than the empirical
+correctness of their state of knowledge or
+Secondly, there are
+varying degrees of knowledge that may be relevant in determining fault. For
+instance, we may define fault by
+reference to a wrongdoer’s actual,
+subjective knowledge or belief. Or we may extend fault to also capture knowledge
+been wilfully disregarded, in the sense that a wrongdoer has
+‘shut their eyes’ to information, in the manner of recklessness
+discussed above. We may further extend fault into an objective enquiry, so as to
+capture information that we say a wrongdoer ‘ought
+to have known’,
+or further, by imputing a wrongdoer with
+information.
+Taking these
+various ideas as a whole, we can view fault as an amalgam of various enquiries
+into a wrongdoer’s mind. We might
+pull together these ideas to describe
+three categories of fault, as follows. The first category,
+, would capture conduct that is inherently wrongful. Drawing from the
+three states of mind, this category might include intentional
+conduct undertaken
+out of an inherently wrongful motive, such as spite, or desire to harm, or to
+seek personal gain in circumstances
+where that would be inappropriate.
+Irrespective of motive, we might also include intentional or reckless conduct
+undertaken in the
+belief that harm would, or was likely to, arise. The second
+objective fault
+, would not be concerned with subjective
+intention, motives and knowledge. Instead, it would be focussed on what a person
+have done, desired or known. Liability within this category of fault
+involves an implicit judgment that a person ought to have acted
+differently, or
+ought to have appreciated that their conduct was likely to have certain
+consequences. While it uses the label ‘fault’,
+what we are really
+dealing with here is a failure to comply with a standard of
+The final category,
+strict liability
+, is not a quality of fault, but instead reflects
+the notion of liability irrespective of fault. In this category, a
+wrongdoer’s
+degree of intention, motives and knowledge are irrelevant, as
+is the question of whether the wrongdoer has failed to meet an objective
+standard. All that matters is whether a wrongdoer has committed a prohibited act
+or produced a prohibited result. Therefore, this
+category is capable of
+attaching liability to innocent as well as malicious breaches. It is important
+to note that these three categories
+of fault are not mutually exclusive. For
+example, a strict liability provision may make it an offence to cause water
+pollution. If
+a person deliberately pollutes a river out of a desire to damage a
+neighbour’s property, we may not only conclude that they
+have contravened
+the strict liability provision, but also that their actions are intentionally
+malicious (subjective fault), and
+that they ought to have acted differently
+(objective fault).
+B. Why is Fault Relevant in the Context of
+Accountability?
+identified the different qualities of fault that might attach to conduct, the
+next important question to ask is why should
+we be concerned with fault in the
+context of accountability? This chapter considers the potential shape of an
+accountability regime
+if it were informed by notions of personal
+responsibility.
+There are close
+ties between the concepts of responsibility and accountability, to the extent
+that they are sometimes treated as
+synonymous.
+Relevantly for present purposes, there are some who would view the concept of
+‘responsibility’ as referring to the normative
+‘accountability’.
+this view, responsibility involves being a responsible
+while accountability
+involves the external process of being held to account. A failure to act
+responsibly is what exposes a person
+to an accountability process, and being
+held accountable can be seen to reinforce the underlying norms of responsibility
+going forward.
+Though accountability and responsibility are best not reduced to
+synonyms, there are clear symbiotic elements to the relationship
+between the two
+concepts. If we take the approach that accountability has its basis in notions
+of personal responsibility, what might
+this tell us about when and how it is
+appropriate to hold government officials accountable?
+Fault is a recurring
+theme in the literature on responsibility. Many explanations of responsibility
+employ as their starting point
+the idea that a person should only be held
+responsible in circumstances where they are culpable, and that a person can only
+be culpable
+in circumstances where they possess a requisite level of mental
+engagement (usually that their conduct was intentional and the resulting
+consequences were intended, or at least
+At its core, the idea of restricting responsibility (or accountability) to cases
+in which a person acted intentionally is bound up
+in the notion of choice: it is
+appropriate to hold people accountable for the consequences of the choices that
+they have made.
+For this reason,
+we have little difficulty holding a person responsible (or accountable) if they
+have acted on the basis of subjective
+fault, out of a desire to cause harm, or
+foreseeing but not caring that they will cause harm. The rationale becomes more
+the further we move away from deliberate choice, or subjective
+On what basis can we
+impose liability where a person has not actually averted to the possibility of
+harm in any subjective sense?
+Three possible justifications are the theories of
+unexercised capacity, outcome-responsibility, and relational
+responsibility.
+The idea of unexercised capacity informs Hart’s
+justification for criminal punishment in the absence of subjective fault. The
+crux of the theory is that a person might be held responsible not only for their
+deliberate conduct, but also for failing to exercise
+‘the capacities and
+powers of normal persons to think about and control their
+In other words,
+if a person could have acted differently, we can justify holding that person
+responsible for their choice not to
+have done so. This enquiry becomes one part
+objective and one part subjective: we ask whether a person has failed to meet an
+standard, and then ask whether that person was in fact capable of
+meeting that
+It is in this respect that the unexercised capacity theory falls short of
+offering a complete explanation for responsibility in absence
+of deliberate
+wrongdoing. Asking what an individual could have done differently is a
+subjective enquiry into their available alternatives.
+But the objective fault
+criteria considered in this chapter go further, asking what a reasonable person
+in the circumstances (not
+the individual in question) might have done
+differently. In this sense, when we say that a person ought to have acted
+differently,
+it is not a complete answer to say that factors outside the
+person’s control influenced their ability to meet the relevant
+Therefore, the idea of unexercised capacity does not take us much further than
+liability based on subjective fault.
+Outcome-responsibility, as posited by
+Honoré, provides a second possible justification for responsibility in
+absence of subjective
+fault. For Honoré, the notion of responsibility
+cannot be explained solely by reference to a person’s behaviour, or
+Rather, a person can also take on responsibility
+voluntarily,
+or it may be
+imposed through societal norms.
+Irrespective of its source, responsibility for Honoré ‘involves a
+combination of actual or assumed control and risk’,
+and within that frame
+it is appropriate that a person who can take the credit arising from their
+conduct is also subjected to the
+‘discredit’).
+Honoré employs this notion of a credit-discredit balancing act to argue
+that when applied consistently over time, imposing
+responsibility derives
+overall benefit for individual members of
+However, he
+distinguishes between the idea of outcome-responsibility and liability: some
+‘extra element’ is needed to
+superimpose a legal
+Beyond cases of fault,
+Honoré suggests that legal sanctions may be appropriate where the
+wrongdoer’s conduct ‘carries
+with it a special risk of
+Again, this theory
+does not take us much further in our accountability analysis. The attribution of
+responsibility for outcomes does
+not of itself extend to imposing sanctions, and
+the search for Honoré’s ‘extra element’ leads us into a
+circular quest for the elusive justification for strict liability.
+theoretical justification holds more promise. This view, proposed by Cane,
+relies on the relational nature of responsibility
+to justify remedial responses
+outside cases of fault.
+the unexercised capacity and outcome-responsibility theories, which are
+essentially focussed on the wrongdoer, Cane’s
+argument is that
+responsibility is a two-sided affair that should take into account not only the
+wrongdoer, but also the interests
+of the victim and society more generally.
+Through a distributional analysis, a balance is struck between the interests of
+the parties,
+in some cases supporting the imposition of obligations to repair in
+absence of fault.
+words, a person might be held responsible beyond cases of subjective fault by
+virtue of burdens inherent in the relationship
+between the parties. These
+observations take on particular significance in the context of accountability,
+which is by definition
+a relational concept. There is much to be said for the
+view that an accountability mechanism should strike a balance between the
+interests of the two parties to that relationship, which in some cases may
+justify remedial responses beyond cases of subjective
+C. How Would a Comprehensive Accountability Regime Approach
+adapt the foregoing analysis to ask how fault might determine the availability
+of remedial responses in a comprehensive public
+law accountability regime. To
+reiterate the conclusions drawn earlier in this chapter, once transparency has
+exposed a breach of
+obligations, the three results-focussed objectives of
+accountability are to control the exercise of power, punish excess of power,
+restore interests affected as a result. The current public law regime serves the
+accountability objective of control through
+regulatory orders. Fault presently
+plays very little part in determining whether or not an official has contravened
+a public law
+norm, or in selection of the appropriate public law remedy. In
+essence, liability under the current regime is strict, and the available
+remedies are regulatory. In a comprehensive accountability regime, it is
+appropriate that regulatory orders continue to be available
+irrespective of
+fault. Accountability’s control objective is concerned with policing the
+boundaries of public power. We could
+not achieve this goal if only faulty
+excesses of power were the subject of a remedy, and so we would have little
+concern about maintaining
+a strict liability approach to the award of regulatory
+orders. The current regime effectively serves the objective of control, but
+might it operate in the context of punishment and restoration?
+accountability objective of punishment, served by way of punitive sanctions, is
+concerned with public condemnation of inherently
+wrongful conduct. It is this
+condemnatory character of punishment that might lead us to confine punishment to
+cases of subjective
+fault, in line with the choice theory. Where a person has
+acted maliciously, or knowing they are likely to cause harm, accountability
+demand a sanction that signifies the inherent wrongfulness of their conduct.
+Returning to the earlier hypothetical, Odette’s
+spiteful conduct in the
+third scenario may be of such a character as to warrant condemnation via
+punitive sanctions. However, if
+we were to go further and extend the reach of
+punishment into objectively faulty and unfaulty conduct (as in the first two
+scenarios),
+we risk undermining this primary condemnatory characteristic of the
+sanction. For this reason, we might conclude that there is merit
+in restricting
+the punitive objective of accountability to cases of subjective
+Turning to the restorative objective of accountability, served by
+reparative remedies, different considerations apply. These remedies
+do not bear
+the same stigma of condemnation as punitive sanctions, and so we might have
+fewer concerns about moving beyond the limits
+of subjective fault. Having
+removed this ideological roadblock, it is necessary to identify what quality of
+fault best supports the
+restorative function of accountability. In this respect,
+Cane’s relational justification for responsibility is of
+assistance.
+The relational
+approach, as framed in this chapter, sees accountability as a relationship in
+which the interests of each party must
+be balanced against one another, so as to
+appropriately distribute losses between them. The starting point in any such
+exercise must be to identify the relevant interests at stake, and in
+this respect it might be tempting to turn to concepts of individual
+constitutional rights. However, this would be an unnecessary complication. The
+relevant standards that are enforced via public
+law are not determined primarily
+by the failure to respect or protect individual rights and interests, but relate
+more generally
+to proper administration of public power. As Varuhas notes, these
+norms are concerned with ensuring that ‘public powers are
+properly... and in the public interest’, and to the extent that they
+operate to the benefit of individuals, this
+is a ‘subsidiary’ rather
+than ‘primary’ function of the
+Bearing this in mind, it is necessary to identify the quality of fault that best
+balances the interests of the government against
+those of the individual who has
+been harmed as a result of the relevant ‘public
+It may be that
+there are certain public law norms that justify a strict liability approach in
+respect of the obligation to restore.
+For instance, accountability might be
+thought to demand the restoration of taxes to individuals who pay pursuant to
+an invalid demand,
+irrespective of the degree of fault accompanying that demand.
+The nature of the public wrong in such a case (taxation without parliamentary
+approval) might be thought sufficiently fundamental that to limit restoration
+only to cases of intentional or negligent wrongdoing
+might threaten the
+legitimacy of government. Accordingly, we might reach the view that it is
+appropriate to expand reparative remedies
+(here, restitution) to such cases on a
+strict liability basis, consistently with the approach adopted by the House of
+may be other public law norms that would justify a strict liability approach to
+the obligation to restore, however we can leave
+the task of identifying these
+for another day. This chapter is concerned with fault, and a fault-based
+approach to liability is appropriate
+in at least one key area of government
+activity: the exercise of discretionary powers.
+Where Parliament confers
+discretionary powers on an official, a more finely tuned approach to the
+restorative objective is required.
+In deciding when the obligation to restore
+might be enlivened in such cases, we must ask: what is the minimum degree of
+necessary to maintain public confidence in our system of government?
+The blanket adoption of either strict liability or subjective
+fault represents
+extreme alternatives, neither of which seems advisable. Limiting reparative
+remedies to cases of intentional misuse
+of discretion fails to provide
+accountability in cases of wrongful (but not intentional) excess of power. For
+instance, an official
+might unknowingly exercise their powers in a manner that
+we might describe as extremely unreasonable and arbitrary. We might be
+justifiably
+concerned about the legitimacy of our system of government if
+individuals who suffer harm as a consequence of such an exercise of
+left to bear their own losses. Accordingly, limiting reparative remedies to the
+subjectively faulty exercise of discretionary
+power would not further the
+important objectives of accountability. But does accountability demand that we
+make reparative remedies
+available for all reasoning errors that may arise in an
+official's exercise of discretion (strict liability)? Or only those which
+short of an acceptable standard of reasonableness (objective fault)? While a
+valid case might be made for the former argument,
+the position adopted in this
+chapter is that in the context of discretionary powers, the more cohesive
+approach is to adopt objective
+fault as the relevant criterion for the
+availability of reparative remedies. This approach represents a 'middle ground',
+a distinction between those public law contraventions that demand
+restoration and those that do not, while taking into account the
+interests of
+parties in the accountability relationship. This approach also
+conforms to the modern Australian understanding of unreasonableness,
+as is drawn
+out in the following section.
+To summarise, then, in an accountability
+regime that is informed by notions of personal responsibility, the concept of
+fault might
+be used to define the circumstances in which it is appropriate to
+engage each of the three results-focussed objectives of accountability.
+via regulatory orders would be appropriate on a strict liability basis,
+punishment via punitive sanctions would be appropriate
+in cases of subjective
+fault, and, at least in connection with the exercise of discretionary powers,
+restoration via reparative remedies
+would be appropriate in cases of objective
+fault. Keeping this framework in mind, we can turn to consider whether our
+system is compatible with this approach.
+V. FAULT IN PUBLIC LAW
+Judicial review grounds
+are not traditionally thought about in terms of fault, and indeed, are often
+treated as forming a largely
+strict liability
+While it is correct that
+fault is not determinative of contravention of the majority of the grounds of
+judicial review, on closer
+analysis we can see that issues of intention, motive,
+knowledge and belief do play an important role in public law. In particular,
+can see that the judicial review grounds establish benchmarks of subjective
+fault (in the form of bad faith) and objective fault
+(in the form of legal
+unreasonableness). The argument drawn out in this chapter is that there is
+therefore no inconsistency between public law and the punitive
+and restorative
+objectives of accountability, at least insofar as the concept of fault is
+A. Fault in Judicial Review Grounds
+we look at the grounds of judicial review, we can see that two of the grounds of
+review entail a finding of fault: bad faith
+and legal unreasonableness. Other
+grounds also invite an assessment of an official’s knowledge, intention
+and motives, though
+not necessarily leading to a conclusion of fault.
+(i) Bad Faith: Subjective Fault
+The ground of bad faith invites a direct
+fault-based assessment of an official’s conduct. ‘There is no such
+thing as...
+constructive bad
+and so determining
+contravention of this standard is an inherently subjective enquiry. An official
+will contravene this ground if
+they act ‘in a way that [they] actually
+knew was wrong’,
+they are ‘reckless as to whether [the exercise of power] was in a manner
+required by law’.
+there are many types of behaviour which might amount to bad faith, dishonesty
+and acting for an improper purpose are most
+to the language of fault adopted above, bad faith will invariably amount to
+subjective fault on the part of an official,
+capturing intentional or reckless
+conduct engaged in for malicious or prohibited ends. Accordingly, we can
+conclude that the bad
+faith ground entails a finding of subjective
+(ii) Legal Unreasonableness: Objective Fault
+Another ground of
+review that might be thought to entail fault is that of unreasonableness. Until
+recently in Australia, this ground
+was identified by the well-known (and often
+verbal formula derived from the
+decision, which provides a
+basis to challenge an exercise of power that is so unreasonable that no
+reasonable official might have
+adopted that same
+Taken at face value, the wording of the
+formulation
+reflects the notion of objective fault, in the sense that it requires evaluation
+of an official’s failure to adhere
+to a prescribed standard of
+However, this raises
+two related difficulties. The first is whether it is possible for the
+formula to simultaneously operate as a test of invalidity and
+fault. For instance, we might wonder whether this touches on the well-canvassed
+debate around the interaction between public and private law concepts of
+reasonableness.
+The supposed movement towards ‘convergence’ of public and private
+law standards of reasonableness has many
+detractors.
+However, it is
+unnecessary to enter into the merits of this debate here. The present question
+is not whether public law unreasonableness
+can be equated with private law
+understandings of fault, but whether public law unreasonableness is, in its own
+right, indicative
+of fault. This chapter has framed the concept of objective
+fault in terms of failure to adhere to a prescribed standard of conduct,
+involving a judgment that a person ought not to have acted as they did. It is
+difficult to see how the
+test of unreasonableness is not an
+objective standard of this nature. The task undertaken by the court is to
+evaluate an official’s
+conduct by reference to an external
+official’s conduct falls short of this standard, it is beyond power. In
+this respect, it is neither here nor there that
+public law unreasonableness is
+not solely concerned with individual interests (as is the focus for private law
+unreasonableness).
+Rather, the
+public law norm represents an objective standard of reasonable decision-making,
+breach of which is objectively faulty,
+irrespective of whether it relates to a
+failure to respect or protect individual interests.
+The second difficulty is
+whether it is still possible to equate
+unreasonableness with
+objective fault following recent moves to define it as a dynamic, rather than
+fixed, standard in Australian
+the Australian
+High Court adopted a new formulation of ‘legal unreasonableness’,
+indicating that
+should not be treated as either the
+‘starting point’ or the ‘end point’ in determining the
+relevant standard.
+Instead, it
+was to ‘be the standard indicated by the true construction of the
+The implication
+to be drawn from these statements is that unreasonableness may mean different
+things in different contexts, a move
+which has been described as having robbed
+the standard of ‘any meaningful
+For the purpose
+of this chapter, what is critical to note is that (whatever its content) the
+unreasonableness test remains an
+objective standard
+effect of the
+decision was to alter the source or content of the
+standard, not its nature as a yardstick by which government conduct can be
+So much is evident in the Full Federal Court’s subsequent
+description of the test as a ‘standard of legal unreasonableness
+apply across a range of statutory powers’, with its ‘indicia to be
+found in the scope, subject and purpose of the
+particular statutory
+provisions’.
+recent Australian Federal Court decision, Manousaridis J emphasised that legal
+unreasonableness remains an external
+For Manousaridis J, to
+say that an official must act reasonably ‘presupposes the formulation of a
+rule of conduct that [an
+official] must have been obliged to
+meaning that
+there can be no conclusion on reasonableness until after determining the content
+of the relevant standard.
+Manousaridis J’s view, to conflate the two enquiries (being determination
+of the relevant standard and evaluation of unreasonableness)
+increases the risk
+that the courts will simply adopt their own view of reasonableness, rather than
+measuring the conduct against
+an objective
+This must be correct.
+In reaching a view that a decision is ‘arbitrary’,
+‘capricious’, ‘lacking in
+evident or intelligible
+justification’ or any of the various other verbal formulae used to
+describe unreasonableness,
+court must determine and apply an objective standard in order to avoid
+encroaching on the merits of the decision.
+Therefore, even if the source of
+the reasonableness standard has shifted in Australian law, the underlying task
+remains the same;
+the role of the courts is to determine whether an official has
+failed to adhere to an objective standard of conduct, failing which
+the official
+will have exceeded the scope of their powers. In this sense, the
+formula provides a basis to conclude that an official’s
+exercise of discretion is objectively faulty.
+(iii) Other Grounds of Review
+A number of the remaining grounds of review
+invite assessment of an official’s subjective intention, motives,
+knowledge and
+belief, though not necessarily for the purpose of determining
+fault. The first such ground is that of improper purpose, which involves
+direct enquiry into an official’s motives in exercising a power. However,
+unlike the ground of bad faith, conduct that contravenes
+the improper purpose
+ground will not necessarily amount to subjective fault. For instance, an
+official might refuse an import licence
+out of a desire to harm the applicant,
+or with seemingly good intentions, such as desiring to promote the interests of
+local goods
+over imported goods. While both purposes might be improper in light
+of the terms of the statute, only the former would amount to
+subjective fault.
+In this way, the improper purpose ground involves analysis of an
+official’s intention and motives, without
+signifying a particular type of
+fault. Failure to exercise discretion involves a similar
+as while the court
+enquires into whether an official was motivated by the desire to simply rubber
+stamp a policy or to exercise independent
+judgment, a finding of contravention
+does not necessarily equate to a particular degree of fault.
+Actual bias is
+another ground of review that falls into this category. At first glance, this
+ground may appear to be tied to the notion
+of subjective fault. An official will
+contravene this ground if they make a decision in circumstances where they have
+an interest
+in the outcome, bear personal ill-will, or have already reached a
+decision before hearing the evidence. Actual biases are clearly
+a subjective
+matter, in the sense that we are enquiring into an official’s actual
+mindset in determining whether the standard
+has been contravened. However, it is
+doubtful that this ground will always involve subjective fault. Many biases may
+be subversive
+in nature, with the effect that an official may not even be aware
+of their predisposition. For example, a racist official may treat
+applicant’s application more favourably than another based their bias. If
+the official is aware of their bias, and
+acts on it knowingly, this would be a
+clear case of subjective fault. On the other hand, if the official is unaware of
+their bias,
+can we say that they have acted in a subjectively faulty way?
+Answering this question would draw us into theoretical disputes as
+blameworthiness of particular character
+that are beyond the
+scope of this chapter. What we can say, however, is that actual bias may rise to
+the level of subjective fault
+in some cases, and may constitute a lesser degree
+of fault in others.
+Issues of intention, motives and knowledge are irrelevant
+in relation to the remaining grounds of review. For instance, it is no defence
+to an allegation of taking into account irrelevant considerations to say that
+the official did not appreciate the irrelevance of
+the information. Similar
+observations might be made with respect to the grounds of procedural fairness,
+no evidence, uncertainty,
+and reasonable apprehension of
+(iv) Summary
+The foregoing analysis demonstrates that at
+least two of the judicial review grounds are directly tied to concepts of fault,
+faith equates to subjective fault and legal unreasonableness equates to
+objective fault. The remaining grounds, some of which invite
+assessment of an
+official’s intention and motives, may be contravened deliberately,
+negligently or innocently, with the effect
+that we cannot describe conduct
+contravening these grounds as necessarily entailing fault of a particular
+quality. This tells us
+that public law can certainly be understood as involving
+some assessment of an official’s degree of fault. But can we go further
+as to link these fault-based assessments to the accountability framework set out
+B. Benchmarks of Subjective and Objective Fault
+framed in this chapter, a comprehensive accountability regime would provide for
+control by issuing regulatory orders irrespective
+of fault, punishment by
+issuing punitive sanctions in cases of subjective fault, and (at least in
+relation to the exercise of discretionary
+powers) restoration by issuing
+reparative remedies in cases of objective fault. The following discussion shows
+that our public law
+grounds of review are in fact compatible with this
+framework, as we can view bad faith as a benchmark of subjective fault, and
+unreasonableness as a benchmark of objective fault.
+Contravention of
+the judicial review ground of bad faith will invariably involve subjectively
+faulty conduct, as it is tied up in
+the concepts of intentional or reckless
+pursuit of malicious or prohibited motives. This is not to say that other
+grounds of review
+may not also be contravened accompanied by a subjectively
+faulty mindset. For example, it would be a subjectively faulty contravention
+the improper purpose ground for an official to act out of a desire for personal
+gain. It is difficult to see, though, how such
+subjectively faulty behaviour
+would not also contravene the ground of bad faith. In this way, we can view bad
+faith as a benchmark
+of subjective fault in public law. The accountability
+framework set out in this chapter is directed at punishing precisely the type
+conduct that is encompassed by this benchmark, and accordingly we might take the
+view that it would be consistent with the objectives
+of accountability to allow
+the courts to impose punitive sanctions where an official’s conduct rises
+to the level of bad faith.
+Turning to accountability’s restorative
+objective, it was suggested above that in the exercise of discretionary powers,
+remedies might be engaged where conduct exceeds a minimum threshold
+of objective fault. In the public law context, subjectively faulty
+conduct (that
+is, conduct rising to the level of bad faith) will naturally go beyond these
+limits. However, the critical question
+for present purposes is where to set the
+threshold of objective fault in public law. It was concluded
+unreasonableness can be viewed as equating to objective fault, being an external
+yardstick against which an official’s
+exercise of discretion can be
+measured, and found wanting. It is possible to think about this ground as
+setting a benchmark of objective
+fault in public law, as other types of errors
+can be made in a way which rises to the level of unreasonableness or
+irrationality
+reflected in the standard. This is perhaps implicit in the
+Australian High Court’s description of unreasonableness in
+plurality indicated that unreasonableness may either be a conclusory label
+applied to other errors in
+or a conclusion to be
+drawn where, despite no identifiable error, the decision ‘lacks an evident
+and intelligible
+justification’.
+‘legal unreasonableness’ is an umbrella-style concept that reflects
+the minimum requirements of reasonableness and
+rationality in the exercise of
+public power, it can be employed as a benchmark against which particular errors
+in reasoning can be
+measured. In this way, it is possible to think about legal
+unreasonableness as a benchmark of objective fault in public law.
+these ideas together, we can start to see that public law is indeed compatible
+with a fault-based assessment of liability
+for punitive and restorative remedial
+responses. Though we ordinarily think about public law standards of conduct (and
+accompanying
+exposure to regulatory orders) as strict liability in nature, our
+grounds of review are well-adapted to the fault-based analysis
+contemplated in
+this chapter. Restoration might be relevant where an official exercises their
+discretionary powers in an objectively
+faulty way, by exceeding the generous
+limits of rationality and reasonableness offered by the legal unreasonableness
+standard, while
+officials who act in a subjectively faulty way, as typified by
+the bad faith ground, might be liable for punishment. The use of 'might'
+of these instances is deliberate, as any discussions around, in particular,
+restoration, must go on to address questions
+of causation and loss.
+VI. CONCLUDING REMARKS
+start to see that the public law grounds of review
+are in fact quite cohesive
+with the fault-based accountability framework set out above. Odette’s
+conduct in each scenario could
+be characterised as a breach of a range of
+different public law norms. In all three scenarios, she has failed to accord
+fairness, or perhaps to take into account relevant considerations.
+However, both the second and third scenarios go beyond procedural
+expanding into faulty conduct. In the second scenario, Odette has exercised her
+discretion in an arbitrary way that might
+characterise her decision as legally
+unreasonable, while in the third scenario her decision was motivated by spite,
+and was therefore
+made in bad faith.
+If we were concerned with approaching
+these breaches of public law norms from the perspective of enhancing government
+accountability,
+the type of breach would be indicative of the accountability
+objective that might be relevant in each scenario, and the character
+remedies that might be thought appropriate to serve those objectives. The
+control objective of accountability would be engaged
+in all three scenarios, and
+would be supported by the raft of regulatory orders that are already available
+in public law cases. The
+restorative objective of accountability, as understood
+in this chapter, is engaged in cases where an official’s exercise of
+discretion is objectively faulty, as measured against the standard of legal
+unreasonableness. Odette’s conduct in both the
+second and third scenarios
+falls short of this standard, and so restoration (via reparative remedies) might
+potentially be relevant
+in both of those
+The punitive
+objective of accountability is engaged where an official acts in a subjectively
+faulty way, rising to the level of bad
+faith. Only Odette’s conduct in the
+third scenario satisfies this criterion, and so punishment (via punitive
+sanctions) could
+only be relevant in that context.
+Of course, reparative
+remedies and punitive sanctions do not presently form part of the court’s
+public law arsenal, and so Alex
+cannot rely simply on breaches of public law
+(however faulty) in order to avail himself of remedies that serve these
+functions. The
+purpose of this chapter is not to suggest that this shortfall in
+public law reflects an ‘accountability gap’ that ought
+immediately
+to be filled through the creation of public law remedies that perform punitive
+and restorative roles.
+a whole host of important matters that would need to be considered in the
+context of such discussions, including valid
+concerns regarding how the courts
+might go about determining causation in public law cases, and the impact that
+this might have on
+the separation of powers. This is particularly so in
+Australia, which maintains a strict distinction between legality and merits
+review. Further, it might validly be argued that there are other mechanisms
+outside public law that are well-adapted to performing
+these roles, perhaps to
+better effect than the courts.
+As was noted at the outset, the purpose of
+this chapter is not to suggest any immediate campaign for law reform centred
+around increasing
+government accountability. Rather, its primary purpose is to
+demonstrate that focussing on government accountability can allow us
+understand the principles that make up our system of public law. In this chapter
+the ‘lens’ of accountability
+has shown us that if the punitive and
+restorative objectives of accountability require an assessment of an
+official’s degree
+of fault, there is nothing in our public law principles
+that is necessarily inconsistent with such an approach. On the contrary,
+public law grounds of review already embody the types of enquiries that such an
+approach might demand. This all tells us that
+if there are good reasons for
+public law’s failure to hold the government accountable through
+restorative and punitive mechanisms,
+these reasons do not lie in the public
+law’s inability to embrace a fault-based analysis of the exercise of
+public power.
+I am grateful to the
+participants at the Unity of Public Law Conference for their valuable feedback,
+as well as to Peter Cane for
+his, as always, insightful comments on earlier
+drafts. My thanks also to the editors of this collection for their comments and
+All errors remain my own. This research is supported by an Australian
+Government Research Training Program (RTP)
+Scholarship.
+‘legal unreasonableness’ was adopted by the High Court of Australia
+in place of the traditional ‘
+unreasonableness’
+Minister for Immigration and Citizenship v Li
+[2012] HCA 61
+(2013) 249 CLR
+The implications of the
+decision are detailed in the text
+accompanying n
+below. This case
+represents a move away from the strictness of the
+formula and
+towards a variable content standard of reasonableness in Australia. However,
+there remain doubts as to whether this might
+open the door to variegated
+intensity review underpinned by rights-consciousness as has been developed in
+other jurisdictions: see
+eg L McDonald, ‘Rethinking Unreasonableness
+Public Law Review
+, 132; M Barker and A Nagel,
+‘Legal unreasonableness: life after Li’
+[2015] AIAdminLawF 1
+, 9; G Weeks,
+Soft Law and Public Authorities: Remedies and Reform
+(Oxford, Hart Publishing, 2016) 154. Therefore comments on the legal
+unreasonableness ground must be read within the context of that
+limitation, though many of the broader themes explored in this chapter are
+common to other jurisdictions.
+E Rock, ‘Accountability: A Core Public Law Value?’ (2017) 24(3)
+Australian Journal of Administrative Law
+For an overview of
+theorists who adopt this stance, along with an opposing view, see N Hanna,
+‘Facing the Consequences’
+(2013) 8(3)
+Criminal Law and
+I have expanded on these ideas in an earlier article: Rock (n
+See eg C Harlow and R
+Rawlings, ‘Promoting Accountability in Multilevel Governance: A Network
+European Law Journal
+, 545; M Philp,
+‘Delimiting Democratic Accountability’
+See eg Administrative
+Review Council,
+Federal Judicial Review in Australia
+(2012) 180–81.
+The first of these concerns
+is of particular relevance in the Australian jurisdiction, in which the orthodox
+position is that the
+courts are confined to reviewing the legality, rather than
+the merits, of administrative action:
+Attorney-General v Quin
+, 35-36. The latter concern is perhaps of broader interest to those in
+other jurisdictions.
+text accompanying n
+P Cane, ‘Mens
+Rea in Tort Law’
+Responsibility in Law and Morality
+(Oxford, Hart Publishing, 2002)
+See eg ibid
+This is the terminology
+proposed by Cane: ibid 539.
+Note, however, that this is not always the case. The criminal law sometimes
+distinguishes between these two states of mind in punishing
+attempts less
+severely than completed
+eg a minister may be
+taken to have constructive knowledge of information contained in a relevant
+departmental file:
+Minister for Aboriginal Affairs v Peko-Wallsend
+See eg Cane
+responsibility-based approach is not the only possible way to understand
+accountability. This chapter is concerned with exploring
+what might follow from
+adopting this approach, and different conclusions would be drawn if a different
+premise were adopted.
+generally R Mulgan, ‘“Accountability”: An Ever-expanding
+Concept?’ (2000) 78
+Public Administration
+555, 557–58; J
+Koppell, ‘Pathologies of Accountability: ICANN and the Challenge of the
+“Multiple Accountabilities
+Administration Review
+, 98; M Dubnick, ‘Accountability and the
+Promise of Performance: in Search of the Mechanisms’ (2005) 28
+Performance & Management Review
+376, 380; M Bovens, T Schillemans and PT
+Hart, ‘Does Public Accountability Work? An Assessment Tool’ (2008)
+Public Administration
+225, 227; C Harlow, ‘Accountability and
+Constitutional Law’ in M Bovens, R Goodin and T Schillemans (eds),
+Oxford Handbook of Public Accountability
+(Oxford, OUP, 2014) 195,
+See eg Mulgan
+These are ‘the
+“internal” functions of personal culpability, morality and
+professional ethics’: ibid
+Concept of Law
+(Oxford, Clarendon Press, 1961) 173, cited in Cane (n
+) 95. Lord Bingham expresses a good
+example of this view in
+[2003] UKHL 50
+[2004] 1 AC 1034:
+‘It is clearly
+blameworthy to take an obvious and significant risk of causing injury to
+another. But it is not clearly blameworthy
+to do something involving a risk of
+injury to another if ... one genuinely does not perceive the risk. Such a person
+may fairly be
+accused of stupidity or lack of imagination, but neither of those
+failings should expose him to conviction of serious crime or the
+punishment’ (at [32]).
+and Responsibility: Essays in the Philosophy of Law
+, 2nd edn (Oxford, OUP,
+Such an approach
+excuses those who were unable to meet objectively established standards by
+reason of physical or mental incapacity,
+for example, and has been described as
+the ‘individualisation of the negligence standard’: see eg M Moore
+and H Hurd,
+‘Punishing the Awkward, the Stupid, the Weak, and the Selfish:
+The Culpability of Negligence’
+Criminal Law and Philosophy
+Responsibility and Fault
+(Oxford, Hart Publishing, 1999)
+As may be the case
+where a political leader assumes responsibility by taking on that
+Such as the
+responsibility owed to one’s family: Honoré (n
+108–09. Discussed
+JNE Varuhas,
+‘Against Unification’ in H Wilberg and M Elliott (eds),
+and Intensity of Substantive Review: Traversing Taggart’s Rainbow
+(Oxford, Hart Publishing, 2015) 91,
+Woolwich Equitable
+Building Society v Inland Revenue Commissioners
+[1993] AC 70.
+factor that may support the imposition of an obligation to restore in such cases
+is that the applicable remedy (restitution)
+is less intrusive than compensatory
+remedies: see eg P Cane, ‘The Constitutional Basis of Judicial Remedies,
+in Public Law’
+in P Leyland and T Woods (eds),
+Administrative Law
+Facing the Future: Old Constraints and New Horizons
+(London, Blackstone
+Press, 1997) 242, 257.
+Minister for
+Immigration & Multicultural & Indigenous Affairs v SBAN
+[2002] FCAFC
+SCAZ v Minister
+for Immigration & Multicultural & Indigenous Affairs
+ibid. Cited with
+approval in
+SBBS v Minister for Immigration & Multicultural &
+Indigenous Affairs
+[2002] FCAFC 361
+SBAP v Refugee
+Review Tribunal
+[2002] FCA 590
+Usually on the basis
+that it is tautological and vague: See eg McDonald (n
+The original
+formulation was set out in
+Associated Provincial Picture Houses Ltd v
+Wednesbury Corporation
+[1947] EWCA Civ 1
+[1948] 1 KB 223
+230: ‘so unreasonable
+that no reasonable [official] could ever have come to it’. Note also that
+the Australian courts
+have drawn a distinction between the application of the
+ground to reasoning processes (irrationality review) and to the exercise
+discretion (unreasonableness review): see eg M Aronson and M Groves,
+review of administrative action
+(5th edn, Pyrmont, Thomson Reuters, 2013)
+284. There remain reasons to maintain the distinction between the two ideas: see
+eg G Airo-Farulla,
+‘Reasonableness, rationality and proportionality’
+in Matthew Groves and HP Lee (eds),
+Australian administrative law:
+Fundamentals, principles and doctrines
+(Cambridge, Cambridge University
+Press, 2007) 212, 215. Nothing much turns on this distinction for the purpose of
+this chapter.
+See eg P Cane,
+‘Fault and Strict Liability for Harm in Tort Law’ in W Swadling and
+G Jones (eds),
+The Search for Principle: Essays in Honour of Lord Goff of
+(New York, OUP, 1999) 171, 178–79; Cane (n
+) 271. Harlow wonders whether it might be
+described as an ‘objective bad faith standard’: C Harlow,
+Liability: Tort Law and Beyond
+(Oxford, OUP, 2004)
+See eg P Craig and D
+Fairgrieve, ‘
+, Negligence and Discretionary Powers’
+, 648; TR Hickman, ‘The Reasonableness
+Principle: Reassessing its Place in the Public Sphere’
+; R Bagshaw, ‘Monetary Remedies in Public
+Law—Misdiagnosis and Misprescription’
+Legal Studies
+Airo-Farulla (n
+This was one of the
+criticisms of the convergence theory raised by Bagshaw: Bagshaw (n
+), 17–18. Varuhas makes a similar
+point in reference to the suggested convergence of administrative law and human
+rights law:
+As noted at n
+, there remain doubts as to whether
+this movement towards a dynamic standard of reasonableness in Australia
+potentially represents
+a broader movement towards variegated intensity review or
+perhaps ‘anxious scrutiny’ in cases where rights are at stake,
+approach which has been developed in other jurisdictions: see eg M Taggart,
+‘Proportionality, deference, Wednesbury’
+New Zealand Law
+, 433-435. At the very least, there would be serious questions as
+to how such an approach might be realised in Australia, which lacks
+‘normative hierarchy established by rights’ against which the
+approach in other jurisdictions is anchored: McDonald
+ibid [68]. Further implications of the
+decision are discussed below.
+Note however that Gageler J applied
+in the traditional sense
+of a generic, externally defined standard of reasonableness (at
+McDonald (n
+Minister for
+Immigration and Border Protection v Singh
+[2014] FCAFC 1
+(2014) 231 FCR 437
+SZVMG v Minister
+for Immigration and Border Protection
+[2016] FCCA 631
+ibid [19]. See also
+Airo-Farulla (n
+A catalogue of
+descriptions was referred to in
+Minister for Immigration and Border
+Protection v Eden
+[2016] FCAFC 28
+(2016) 240 FCR 158
+Incorporating the
+grounds of acting under dictation or the inflexible application of
+See eg Moore and
+Unlike actual bias, apprehended bias may be made out irrespective of whether the
+official was actually biased or entirely innocent.
+All that is relevant for the
+purpose of determining breach of this ground is external
+appearances.
+See section
+V.A.ii above.
+‘having... given disproportionate weight to some factor or reasoned
+illogically or irrationally’:
+) [72] (Hayne, Kiefel and Bell
+ibid [76] (Hayne,
+Kiefel and Bell JJ).
+noted above, the use of ‘might’ here is deliberate; any discussion
+around reparative remedies must address important
+issues of causation and loss
+which are not considered in this
+One remedy that may
+be viewed as performing a dual role in this context is an award of damages,
+which is able to take compensatory
+or punitive form.
+Print (pretty)
+Print (eco-friendly)
+RTF format (309 KB)
+PDF format (373 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

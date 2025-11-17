@@ -1,0 +1,938 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/UNSWLawSocCConsc/2024/19.html
+Scraped: 2025-11-17 15:47:38
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Beckers, Anna; Teubner, Gunther --- "Sociological Jurisprudence and Digital Technology: the Need for Cross-Disciplinary Analysis" [2024] UNSWLawSocCConsc 19; (2024) 18 UNSW Law Society Court of Conscience 137
+B The Constitutive Role of the Social Sciences
+SOCIOLOGICAL JURISPRUDENCE AND DIGITAL TECHNOLOGY: THE NEED
+FOR CROSS-DISCIPLINARY ANALYSIS
+Anna Beckers
+and Gunther Teubner
+Dealing with the relation between information technology and private law,
+the article discusses the potential of sociological jurisprudence
+and examines
+its effects in concrete cases. Current judicial decisions, selected from
+different European courts, are scrutinised
+to determine whether alternative and
+socially adequate results can be reached when these decisions are confronted
+with sociological
+insights, in particular from systems theory. In particular,
+the article deals with the problem of how the law reacts to the personification
+of algorithms as actants, the emergence of human-machine-associations, the
+definition of damage for the use of the internet, and
+network and swarm
+properties of labour relations in digital platforms. More generally, the article
+discusses collisions between various
+social theories, knowledge transfer from
+the social sciences to law, and the normative potential of social
+Keywords: sociological jurisprudence, law of digitality,
+interdisciplinarity, transversality, theory collisions, knowledge
+I Against The Technology-Determinist Short-Circuit
+Machine Behaviour and Socio-digital Institutions
+One should avoid the interdisciplinary short-circuit in the legal analysis of
+information technology. One cannot draw far-reaching
+conclusions for the law
+from only examining the technical properties of new technologies.
+‘Technology determines legal regulation’—with
+argument, one remains caught in simple causal models and equally simple
+normative conclusions. In contrast, a more complex
+multidimensional model will
+be presented here. The model places different social contexts of technology use
+at the centre of legal
+arguments and emphasises the role of the social sciences
+in developing an appropriate legal regime for digital risks.
+The starting point is a typology developed in IT studies that distinguishes
+three types of machine behaviour: individual, collective,
+Individual machine
+behaviour refers to intrinsic properties of a single algorithm, whose risks are
+driven by its single source code
+or design in its interaction with the
+environment. Hybrid human-machine behaviour is the result of close interactions
+between machines
+and humans. They result in sophisticated emergent entities with
+properties whose risks cannot be identified if one isolates the involved
+and algorithms. Collective machine behaviour refers to the systemwide behaviour
+resulting from machine agent interconnectivity.
+Here, looking at individual
+machine behaviour makes little sense, while the collective level analysis
+reveals higher-order interconnectivity
+structures responsible for the emerging
+This typology is relevant for the law dealing with digital risks. However, to
+avoid the technology-determinist short-circuit, it is
+necessary to introduce
+‘socio-digital institutions’ as intervening variables between
+technology and law. Socio-digital
+institutions are stabilised complexes of
+social expectations, in particular, expectations regarding the behaviour of
+algorithms in
+social contexts. Such institutions are neither identical with
+social systems, formal organisations, or social relations. Instead,
+systems, including formal organisations and interpersonal relations, produce
+expectations via their communications, which
+– to use a classical
+formulation – condense into institutions under an ‘idée
+directrice’. Such expectations
+are institutionalised when consensus can be
+assumed to support them.
+because institutions consist of society-wide expectations, they have the ability
+to build bridges between different social
+systems and their
+expectations.
+In such bridging
+institutions, legal, economic, political and technological expectations meet,
+and it is often difficult to distinguish
+between the expectations of the systems
+The Constitutive Role of the Social
+Thus, there is a need for an ‘institutional turn’ in the law of
+digitality.
+Idiosyncratic
+socio-digital institutions structure the appropriate models of responsibility
+for the actions of autonomous
+algorithms.
+To appropriately
+understand these contexts, the social sciences are needed. They serve as
+intermediaries between IT sciences and
+jurisprudence.
+Their methods are
+able to analyse in-depth specific socio-digital institutions and their risks and
+to interpret them with sufficient
+Socio-digital institutions correlate with the types of machine behaviour
+mentioned above: individual machine behaviour is realised
+as an agent’s
+action in the institution of digital assistance. Hybrid machine behaviour gives
+rise to the institution of a
+human-machine association that emerges in the dense
+interaction between humans and machines. Collective machine behaviour occurs
+when interconnected algorithms remain only indirectly connected to the social
+sphere. Here, society is exposed to invisible machines
+and their interconnected
+operations. Each type of machine-behaviour thus gives rise to a specific
+socio-digital institution.
+Each socio-digital institution has its own novel risks of harm to which
+liability law must respond: The risk of digital assistance
+arises when tasks are
+delegated to autonomous algorithms instead of humans, and their decisions can no
+longer be controlled. Human-machine
+associations create the risk of emergent
+collective decisions that cannot be traced back to individual decisions of the
+or humans involved. The risk of digital interconnectivity is related
+to society’s exposure to an opaque network of uncontrollable
+interconnected algorithms.
+The law dealing with digital risks will gain relevant insights from the
+social sciences, as demonstrated in the following analysis
+of particular cases.
+Reference is made to theories on (1) the social personification of algorithms,
+(2) emergent properties of human-algorithm
+associations, (3) the definition of
+damage for the use of the internet, (4) network and swarm properties of labour
+relations in digital
+II Sociological Jurisprudence In Digital Conflicts:
+Selected Cases
+Google’s ‘Autocomplete’ Function:
+Algorithms as Actants
+Several autocomplete cases have been brought against Google for violation of
+personality rights.
+auto-complete function proposed compromising search terms for names of
+well-known personalities. The Google autocomplete function
+completes a search
+entry with similar terms. In the cases that became known as auto-complete cases,
+google searches combined, for
+instance the name of a company and its founder
+with the cult organisation Scientology or the name of a prominent figure with
+terms escort lady and prostitute. Google argued that the algorithm’s
+suggestions were unforeseeable and uncontrollable or that
+the unpredictability
+stems from the user input, with Google just collecting data and publishing
+However, the courts
+have ruled the opposite. Search results violating personality rights are
+attributable to the company with the
+company violating a duty to control.
+Consequently, Google is liable in principle once it obtains knowledge of
+personality rights
+violations by its autocomplete
+The requirement for Google to obtain knowledge to trigger the duty to control
+creates a massive evolving liability gap because it
+does not cover autocomplete
+operations that remain undetected by the company. The following arguments will
+suggest a different result.
+Google is, per se, liable for violating personality
+rights by its search algorithm – already in the very first instance where
+The case very well illustrates the socio-digital institutions discussed
+above. The Google autocomplete function occupies a somewhat
+strange intermediate
+place between an autonomous algorithmic decision and a hybrid human-machine
+interaction, in which user input,
+Google’s management’s programming
+of the search algorithm, and the mathematical operations are all present. The
+for that ambivalence is that the action is not generated based on
+training data, but is made by using real-time user input and personalised
+criteria of the users. In addition, the auto-complete function is only activated
+by user input in the search engine and its rules
+are constantly revised within
+the organisation. Google autocomplete is, as an observer has it, ‘...a
+social process that at
+many points could be informed by social
+Is this, then,
+according to our classification, a human-machine association or a case of
+digital assistance? The Google autocomplete
+results are based on the interaction
+between human user input and machine calculations. At the same time, the
+relation between human
+input and the algorithmic operations is not a clear-cut
+cooperative relation but rather one of delegation.
+Sociological analysis clarifies the conditions under which one of the two
+socio-digital institutions emerges - digital assistance
+or human-machine
+association. The delegation of tasks from the Google organisation to the
+autocomplete algorithm creates two autonomous
+but interdependent chains of
+action, and then a principal-agent relationship emerges between
+Such relationships
+necessarily presuppose social agency for both the principal and the agent.
+Therefore, a (partial) attribution
+of personhood to algorithms becomes possible
+within digital assistance.
+Personification of algorithms – several social theories provide the
+appropriate rationale for this complex
+Economists contribute
+relatively little to this topic. When they observe the use of algorithms in
+markets, they implicitly perceive
+algorithms as rational
+In contrast to narrow
+rational choice assumptions, sociological theory analyses personification as a
+performative act that institutes
+the social reality of an actor, which cannot be
+identified with a specific rationality, economic or else. Actor-Network Theory
+the interactive qualities that transform an algorithm into an
+Information philosophy defines the conditions under which algorithmic
+actions can be considered
+autonomous.
+Systems theory
+describes in detail how, in a situation of double contingency, emergent
+human-machine communication constitutes the
+social identity of the algorithm and
+its (limited) action capacities.
+Each social context creates its own criteria for algorithmic personification;
+the economy is no different than politics, science,
+morality, or law. Political
+philosophy describes in detail how the transfer of a ‘
+’ constitutes the personhood of algorithms in principal-agent
+relations, which opens up new productive potentials but simultaneously
+‘implies clear risks and dangers for
+modernity’.
+As a result of social personification, technological risks are transformed
+into social risks. Causal risks stemming from the movement
+of objects are now
+conceived as action risks arising from the disappointment of Ego’s
+expectations about Alter’s
+In digital assistance,
+no longer an instrumental subject-object relationship appears; instead, it is a
+subject-subject relation,
+more precisely, a principal-agent relation with its
+typical communicative risks. The more the institution of digital assistance
+online transactions, the more the law is challenged to decide, according
+to its own criteria, the type of legal personhood it grants
+to digital actors.
+In this constellation, special liability rules that react to the risks of
+digital actors’ decision-making
+are necessary, which differ from the
+causal risks of dangerous objects. This is why legal policy proposals that
+introduce a new strict
+liability regime or simply modify tort liability rules
+are inadequate.
+Such proposals
+would treat algorithms wrongly as objects, dangerous installations, or defective
+products and ignore what is new about
+algorithms – their autonomous
+decision-making ability. Instead, the rules of agency law and vicarious
+liability are to be applied
+to faulty decisions of algorithms in the context of
+digital assistance. The principal is bound when the algorithm enters into
+as an agent, and the principal is liable when the algorithm decides
+incorrectly and causes
+The Google autocomplete algorithm demonstrates the development from
+automation to digital autonomy very well. The algorithm’s
+operations are
+determined by mathematical calculations, but the varying user input and the
+learning abilities of the algorithm in
+the light of such inputs, as well as
+unforeseeable individual user properties, results in autonomous decision-making
+under uncertainty.
+‘Thus, Google provides for some decision premises by
+certain conditions via ‘input’, but what becomes visible as
+‘output’ at the end, cannot be predicted with any
+certainty’.
+It is already
+the first autonomous algorithmic decision violating personality rights that
+triggers vicarious liability.
+It is not a wrongful decision by Google but the output of the autocomplete
+function that counts as a violation of personality rights.
+It is not necessary
+to show that Google had knowledge of the infringement. Instead, it is the
+communicative act of auto-completion
+itself that the law treats as a violation.
+Hence, one does not need to find the conditions for contractual or tortious
+(violation of a contractual obligation or a duty of care) in the human
+principal’s behaviour, which becomes increasingly difficult
+autonomous systems.
+Instead, it
+is exclusively the auto-complete output that needs to be qualified as illegal or
+not. This solution, which is based on
+the general principles of contractual and
+tortious liability, would also solve the related legal problems regarding the
+applicability
+of liability rules for news providers. Google’s liability
+does not depend on whether the company is a news provider or an intermediary
+because this distinction does not affect its role as principal.
+Digital journalism: Human-algorithm-association as
+Collective Actors
+A second significant responsibility gap looks quite different, as the example
+of investigative journalism will illustrate. It is
+common practice today in
+journalism to use algorithms for investigation and producing content and news.
+This happened also in Panama
+Papers, a real-life case partly amended here. An
+international consortium of journalists used software to analyse numerous
+in a complex investigation to uncover illegal tax
+Algorithms were used
+to mark, categorise, and select the relevant texts. Humans were involved in
+their work in close interaction.
+Although such human-algorithm cooperation can be highly beneficial to
+uncovering complex news stories – some journalistic investigations
+have been impossible without the help of the technology – there is also
+considerable potential for damage. Who is liable
+if, during such an
+investigation, persons or companies are accused of misconduct that, in fact,
+were not involved? In this situation,
+a responsibility gap emerges when it
+cannot be clearly determined whether the algorithm was at fault or the humans
+erred. Current
+law does not provide for liability of such a human-machine
+association.
+Unlike the operator's exclusive liability in Google autocomplete, digital
+journalism is a case of ‘digital hybridity’,
+another socio-digital
+institution in its own right.
+Hybrid human-machine behaviour results from closely intertwined interactions
+between algorithms and humans. It would be wrong to
+use the individualistic
+approach of principal-agent relations and to separate single human and
+algorithmic actions since one would
+fail to notice that collective actors have
+been established. They develop properties whose risks differ qualitatively from
+of individual action within digital assistance. While digital
+assistance has to cope with the risks of algorithmic autonomy, digital
+has to deal with the transformation of single human-algorithm interactions into
+collective actorship.
+What is the contribution of the social sciences here? Due to their adherence
+to methodological individualism, economic analyses are
+sceptical of the reality
+status of collective actors. They conceive them as a mere ‘nexus of
+contracts’ and judge their
+personification as an abbreviation at best and
+as dangerous ‘errors’, ‘traps’ or ‘fictions’
+In contrast, sociology
+focuses closely on the differences in human-algorithm
+interactions.
+They range from
+short-term loose contacts to full-fledged human-algorithm
+‘organisations’ with an internal division of
+labour and distribution
+of competencies. Each of these hybrids creates its own risks. In loose contacts,
+the acts of humans and algorithms
+can be easily identified and can be qualified
+as principal-agent relations discussed above as our first socio-digital
+institution.
+Most conspicuous, however, are constellations of dense interaction,
+in which responsibility for actions can only be established for
+the whole hybrid
+entity. In contrast, it cannot be established for the individual algorithm or
+human involved.
+The wrongful action is attributed to the emerging human-algorithm
+association, and liability is channelled to a multitude of actors
+‘behind’ the digital hybrid. A whole network of different actors
+initiates a dense human-algorithm interaction
+and profits from its results.
+Since control is dispersed among the network nodes, responsibility follows this
+specific risk structure.
+For human-machine associations, a fully developed
+corporate liability of the association as such cannot be established, at least
+for the time being. Instead, the principles of enterprise liability are well
+suited to shape the responsibility of digital
+Enterprise liability
+works in two steps. In the first step, the wrongful action is attributed to the
+hybrid as a collective without
+disentangling the contributions of humans and
+algorithms. In the second step, liability for the collective action is
+channelled to
+all the network nodes. These nodes have set up the hybrid and
+benefit from its activities. The hybrid is the source of their benefits.
+result, all the network nodes are liable according to benefit and control. If a
+hub enterprise contractually coordinates the
+network, primary liability should
+fall on this hub, usually the producer, who can take recourse on the network
+If, in digital journalism, the algorithm that analysed the multitude of
+documents in collaboration with the journalists operated according
+programming and the human journalists fulfilled their monitoring duties, no one
+can be held liable.
+‘collective moral responsibility’ situation in which a group commits
+an unlawful act even though the individuals
+involved behaved
+Identifying a single
+wrongful act is impossible, although the collective work of algorithms and
+journalists led to the wrongful allegations.
+Accordingly, enterprise liability,
+as outlined above, is appropriate. The wrongful conduct is attributable to the
+human-machine association
+as a collective of journalists and algorithms. This
+allows channelling financial liability to the network members. The injured party
+can successfully sue the central node of the network. In the case of hybrid
+journalism, this can be either the controlling news organisation
+or the producer
+of the algorithm. Within the network, the internal proportional distribution of
+liability would be according to the
+economic benefit and control in the
+collaborative network.
+Blockage of Internet Access: Determination of
+The law cannot rely exclusively on economic analyses when choosing relevant
+social science theorems, as many authors
+While economic perspectives
+are certainly relevant when identifying incentives for appropriate standards of
+care and activity levels,
+are relatively indifferent to broader societal problems, especially adequate
+victims’ compensation, encroachment of public
+institutions, or ecological
+damage. Any claims of monopoly on social theory made by one of the social
+science disciplines must be
+firmly rejected. This applies not only to legal
+economics, which has explicitly claimed to become law’s leading science in
+recent years, but it also applies to ‘sociology at the gates of
+law,’ critical theories of law as politics, or moral
+philosophy’s
+claims on legal normativity. It is impossible today to base law only on one
+theory of society from whatever discipline
+it is presented. Transversality
+– this is arguably the appropriate response to the rivalry between social
+theories. Transversality
+has been developed in response to a similar situation
+in philosophy struggling with the contemporary discourse plurality that followed
+the collapse of the
+In the legal cases
+discussed here, it becomes apparent that the law cannot be one-sidedly
+economised, politicised, sociologised,
+or moralised. Law must reject the
+totality claims of any theory but, simultaneously, accept the inherent right of
+diverse coexisting
+social theories. Legal arguments should exploit the plurality
+of language games in formulating concepts, principles, norms, arguments,
+decisions. In a transversal passage, the law chooses the interdisciplinary
+points of contact – on its own responsibility.
+The transversal approach becomes relevant in a recent decision by the German
+Federal Court of Justice, which had to determine the
+legal qualification of
+internet use when compensation is demanded for a permanent blockage of internet
+access and define the concrete
+A telecommunications
+company was unable to provide Internet access when the Internet was permanently
+interrupted after a change of
+In this case, the usual qualification as compensation for loss of use of
+economic goods is too narrow.
+The prevailing economic perspective, which focuses solely on market value, needs
+to be revised. Since the Internet has now become
+an ‘existential living
+space’, the legal determination of damage compensation must be changed to
+include social, cultural
+and aesthetic aspects. The ‘value’ of
+Internet access for users needs to be determined in a transversal passage
+various social theories, which deal with the value category in different
+social contexts.
+An economic
+perspective is not wrong, but it is far too one-sided. It reduces the Internet
+to a mere economic good and does not do
+justice to the multidimensionality of
+value involved. Instead of evaluating Internet blockage solely based on economic
+a sociologically informed analysis will demonstrate that the Internet
+is more than an economic good but a social institution in which
+meaningful and
+technical communications are closely linked. Accordingly, different value
+criteria from various social contexts will
+distinctions
+directrices
+are neither commercialization versus non-commercialization, nor
+market-based predictability versus non-calculability, nor luxury goods
+basic economic goods. Instead, the Internet needs to be legally qualified as a
+polycontextural institution and a space for
+development.
+While economics
+contributes only to a shallow understanding of the Internet’s value,
+sociological-cultural analyses, which
+today are turning their attention to
+digital media, provide for a deeper analysis. If one takes private law seriously
+as society’s
+constitution, one has to consider the broader social aspects
+of the information technology ‘Internet’. First and foremost,
+significance of the Internet as a living space, i.e., as the living and
+experiential world of the person, must be considered.
+This requires special
+protection of information technology, which is of central importance for
+developing the human personality.
+This is nothing less than the psychophysical
+integrity of persons.
+Legal guarantees are required to ensure people's free access to the Internet.
+With such guarantees of a certain socio-digital minimum
+subsistence level, the
+law can act as a technology for the humanization of technology. This changes the
+concrete criteria for legal
+decision-making and the legal qualification of
+damage compensation. Adequate compensation of the immaterial damage for
+infringement
+of the general personality right replaces the dubious disguise as
+abstract compensation for the loss of an economic good.
+Digital Crowdsourcing: Labour Relations in
+Novel network or swarm organisation forms on the Internet put traditional
+categories of labour law under pressure. Based on social
+science analyses, legal
+arguments about socio-digital institutions' normativity come in. The Internet
+represents a new context of
+legal conflicts for which an institutional analysis
+can provide a deeper understanding. In the ‘Crowdtree’ case, the
+plaintiffs sought payment of minimum wage for work performed by the defendant,
+who operates a digital crowdsourcing platform in
+Crowdtree invited
+tenders for operational HITs (Human Intelligence Tasks) in the quality control
+of large volumes of data. The average
+hourly wage was lower than €2-3 per
+hour. The plaintiffs wanted to enforce the applicability of the German minimum
+€8.50 per hour. They argued that the crowd workers were employees
+of the defendant. The defendant objected that it merely maintained
+relationships
+with the crowd workers as independent contractors. The court found in favour of
+the plaintiffs: The plaintiffs had
+to be paid €8.50 until an effective
+system of collective power had been established.
+The decision is sound, but the reasoning needs to be improved. According to
+social science analyses, crowd workers are neither employees
+nor self-employed
+in the traditional sense. Their hybrid form of employment requires new normative
+points of reference, not in the
+law but in the crowd's social, network, or
+swarm-like self-regulation
+The law must address
+these access and interaction conditions. The development of the collective
+dimension of labour law is a prerequisite
+for the social design of contract
+Transversality will again be pertinent to understand digital crowdsourcing
+platforms because labour law has to deal with novel forms
+of network or swarm
+organisation. Both economic and sociological analyses initially identify a
+fundamental organisational transformation
+in a parallel fashion. Economics has
+been inspired to investigate new forms of transaction and sociology to analyse
+new modes of
+cooperation in non-hierarchical forms of
+organisation.
+Their effects on
+private law have already been studied in relation to network
+arrangements.
+A network consists
+of several organisations that enter interrelated contracts, which are closely
+coordinated through vertical integration,
+without, in fact, ever creating a
+single integrated business entity such as a corporation or a partnership. The
+problem confronting
+the law is that neither corporate nor contract law fits the
+economic phenomenon of network organisation. As a result, the law needs
+address some of the conflicts generated by networks
+adequately.
+Both the individualistic perspective of contract as well as the aggregate
+corporate perspective provide unsuitable legal concepts
+for digital networks. In
+this situation, economic transaction cost theory proves fruitful when it shows
+that rational actors choose
+network forms of business organisation if they offer
+transaction cost advantages over contractual or corporate structures. However,
+economic theory goes beyond this analysis and insists that the new networks are
+aimed exclusively at minimising transaction costs;
+furthermore, it wants private
+governance to monopolise conflict regulation in the network and rejects
+interventions by state law
+as inefficient. At this point, the law must reject
+the economic interpretation. It is only in the transversal passage through other
+social theories that the complexities of networks become visible to the law,
+requiring a normative perspective that goes beyond transaction
+minimization. For the hybrid organisation of digital networks, a double
+attribution is needed, i.e. a simultaneous commitment
+to the various individual
+goals and to the overarching
+Moreover, with a transversal orientation, the law takes up the impulses of
+economic, political, sociological, ethical, and other theories
+side by side. It
+institutionalises the conflicts between different social rationalities that
+emerge in digital platforms. This implies
+the legal obligations of network
+members to adjust their behaviour to different contradictory logics of action.
+The law requires
+participants to consider several contradictory imperatives
+simultaneously, albeit with different emphases, more precisely, the conflicting
+requirements of technological requirements, economic profitability, scientific
+knowledge, productive standards, and political orientation
+towards the common
+After such a transversal
+passage through different disciplines, the law can more adequately
+constitutionalize the novel organisational
+forms of digital platforms. Moreover,
+the legally relevant network purpose, the legal definition of the user status,
+and the duties
+of users and organisational leadership can be determined in
+detail. This has consequences for the qualification of labour relations
+digital platforms.
+This is where reflexive labour law comes in. According to this, law must
+‘primarily process — and redevelop — social
+knowledge about
+self-regulatory processes in different social
+Legal doctrine
+needs to carefully examine different legal institutions in order to determine
+whether, in terms of their internal
+normative logic, their ‘inner
+basis’ as jurists like to frame it, they are capable of responding
+sensitively to the structures
+and problems of the social phenomena as perceived
+by the law. These subtle search operations, which are performed with the aid of
+the sensory concepts of doctrine, are to be referred to here using the term
+‘responsiveness’.
+The responsiveness of the law is not to be judged before the forum of the social
+sciences, which ensure the authentic use of the
+term, or before the forum of a
+superordinate third instance acting as an intermediary between law and social
+theory, but only before
+‘forum internum’
+itself. In a complex examination, the law is challenged by the external problem
+analyses of social theories, but only
+if they are usable according to
+law’s own selection criteria, and it reconstructs these internally in its
+own language, in
+which it can then match problems and solutions together.
+Social science analyses observe that the coordination of crowd activities is
+characterised by affiliation and specific communication
+Crowdsourcing differs
+from networks; crowd workers are coordinated as swarms, which cannot rely on
+stable structures of connectivity
+but must constantly establish their
+connections through spontaneous interaction. Collectivity and knowledge are
+generated via feedback
+loops. Swarm intelligence thus allows flexible,
+spontaneous, unorganised problem-solving. Because of this reactivity, swarms
+no form or order but represent open process, movement, pure happening, and
+collectivity
+. They exist only in relationality and in the sudden
+act of flowing together. Swarm denotes spontaneous collectivity.
+In the crowdsourcing case, the defendant is neither the plaintiffs' employer
+nor the platform's mere labour marketplaces. Instead,
+they are intermediaries
+with a specific mediating role that entails certain social obligations. The
+courts are establishing increased
+duties of protection on the part of such
+intermediaries for the personal rights of their users, taking into account
+special digital
+communication
+conditions.
+In addition to the
+regional minimum wage regulations and the minimum remuneration entitlement under
+Art. 4 of the European Social
+Charter, the principles of good faith are used to
+determine the remuneration amount. This results in a total remuneration claim of
+€ 8.50 gross per hour.
+III Conclusion
+We have attempted to show here in a general way, using several selected
+cases, that at the point where social theory meets law an
+added value can be
+generated in terms of legal doctrine if the precarious relationship between
+autonomy and interconnectedness in
+three different dimensions is respected.
+Transversality draws conclusions from the autonomy of different
+incommensurable social theories and their mutual interconnectedness.
+denies any monopoly claim and selects points of contact in a transversal
+exploration.
+Responsiveness insists on the autonomy of legal doctrine vis-à-vis
+social theory and takes account of its interconnectedness
+with them by the
+law‘s self-exposure to the challenges posed by social theories, drawing
+inspiration from this for normative
+innovation, and observing the effects
+thereof on the social world.
+Self-normativity: the law achieves normative orientation not from social
+theory, but solely from internal processes of the law and
+at the same time from
+the self-normativity developed by the reflection dogmatics of other social
+Dr Anna Beckers is Professor of Private Law and Social Theory at
+Maastricht University, Faculty of Law, The Netherlands.
+# Dr Gunther Teubner is Emeritus Professor of Private Law and Legal
+Sociology, Goethe-University, Frankfurt am Main, Germany.
+For more details, see the monographic treatment of the whole
+model which is summarised here, Anna Beckers and Gunther Teubner,
+Liability Regimes for Artificial Intelligence: Algorithmic Actants, Hybrids,
+(Hart Publishing, 1
+ed, 2021) (‘
+Regimes for Artificial Intelligence
+’). Here, we generalise the
+findings of the book and discuss how the abstract concepts of transversality and
+reflexive law bear
+on case analyses.
+Iyad Rahwan et al,
+‘Machine Behaviour’ (2019) 568
+477, 482, fig. 4.
+Niklas Luhmann,
+Sociological Theory of Law
+(Routledge, 1985) ch II.4.
+See in more detail Gunther
+Teubner, ‘Legal Irritants: Good Faith in British Law or How Unifying Law
+Ends Up in New Divergences’
+Modern Law Review
+See generally Roberto Esposito,
+Institution tr Zakiya Hanafi
+(John Wiley & Sons, 1
+This follows the call for an
+institutional turn in contract interpretation, which becomes particularly
+relevant for emerging institutions
+in the digital sphere, see Dan Wielsch,
+‘Contract Interpretation Regimes’ (2018) 81(6)
+Jack Balkin, ‘The Path of
+Robotics Law’ (2015) 6
+California Law Review Circuit
+Carla Reyes ‘Autonomous
+Corporate Personhood’ (2021) 96(4)
+Washington Law Review
+Liability Regimes for
+Artificial Intelligence
+(n 1) 20–2, 45–8, 90–7,
+For Italy, Ordinario di
+Milano case number 10847/2011, 24 March 2011; for the U.S.
+, US District Court Central District of
+California, SACV12-02202-JST, case settled 7 March 2013; for Germany BGH GRUR
+2013, 751 (Scientology).
+There are also reports about cases having taken place
+in Japan (2013, decided in favour of plaintiffs), France (2012, settled),
+(2012, decided in favour of plaintiffs), Belgium (decided in favour of
+This was a central argument
+by Google in the Japanese case on autocomplete, see ‘Google ordered to
+change autocomplete in Japan’,
+(online, 26 March 2012)
+<www.bbc.com/news/technology-17510651>.
+BGH GRUR 2013, 751 recurs to
+the duties to control. Supportive Dan Wielsch, ‘Die Haftung des Mediums:
+BGH 14.05.2013 (‘
+Google Autocomplete’
+)’ in Bertram
+Lomfeld (ed),
+Die Fälle der Gesellschaft: Eine neue Praxis
+soziologischer Jurisprudenz
+(Mohr Siebeck, 2017) 125.
+Frank A Pasquale,
+‘Reforming the Law of Reputation’ (2015) 47(2)
+Loyola University
+of Chicago Law Journal
+See generally Tobias D
+Krafft, Katharina A Zweig and Pascal D König, ‘How to Regulate
+Algorithmic Decision-Making: A Framework
+of Regulatory Requirements for
+Different Applications’ (2022) 16(1)
+Regulation & Governance
+For details, see again
+Liability Regimes for Artificial Intelligence
+(n 1) 8–10,
+Xavier Gabaix and David I
+Laibson, ‘A Boundedly Rational Decision Algorithm’ (2000) 90(2)
+American Economic Review
+Bruno Latour,
+Politics of
+Nature: How To Bring the Sciences Into Democracy
+(Harvard University Press,
+2004) ch 2.
+Luciano Floridi and Jerry W
+Sanders, ‘On the Morality of Artificial Agents’ in Michael Anderson
+and Susan L Anderson
+Machine Ethics
+(Cambridge University Press,
+2011) 184, 192–205.
+Elena Esposito,
+‘Artificial Communication? The Production of Contingency by
+Algorithms’ (2017) 46(4)
+Zeitschrift für Soziologie
+Katrin Trüstedt,
+‘Representing Agency’ (2020) 32(2)
+Law & Literature
+Gunther Teubner,
+‘Rights of Non-Humans? Electronic Agents and Animals As New Actors in
+Politics and Law’
+Journal of Law and Society
+See Andrea Bertolini,
+‘Artificial Intelligence and Civil Liability
+’, European
+(Study Commissioned by the Juri Committee on Legal Affairs, 2020)
+See Mihailis E Diamantis,
+‘Vicarious Liability for AI’ (2024) 99(1)
+Indiana Law Journal
+317, 320–8; Dalton Powell, ‘Autonomous Systems As Legal Agents:
+Directly By The Recognition Of Personhood Or Indirectly
+By The Alchemy of
+Algorithmic Entities’ (2020) 18(1)
+Duke Law & Technology Review
+Graziana Kastl, ‘Eine
+Analyse der Autocomplete-Funktion der Google-Suchmaschine‘ (2015) 117
+Gewerblicher Rechtsschutz und Urheberrecht
+136, 140 (Our
+translation).
+See Martin Ebers,
+‘Liability for Artificial Intelligence and EU Consumer Law’ (2021)
+Journal of Intellectual Property, Information Technology and Electronic
+Commerce Law
+204, 211–12.
+This is a fictitious case,
+but one that uses publicly available information on the Panama Papers research
+to illustrate the emergent
+properties of a human-algorithm association. For
+details: Panama Papers: Ivonne Wagner, Wolfgang Jaschensky and Laura Terberl,
+Journalists Behind the Leak’,
+Sueddeutsche Zeitung
+(online, 25 April 2016), <
+www.sueddeutsche.de/politik/panama-papers-the-journalists-behind-the-leak-1.2966929
+On hybrid journalism in
+general, see Nicholas Diakopoulos,
+Automating the News: How Algorithms are
+Rewriting the Media
+(Harvard University Press, 2019) 13–40.
+For details see Anna Beckers
+and Gunther Teubner, ‘Human-Algorithm Hybrids as (Quasi-)Organisations? On
+the Accountability
+of Digital Collective Actors’ (2023) 50(1)
+of Law and Society
+See Michael C Jensen and
+William H Meckling, ‘Theory of the Firm: Managerial Behavior, Agency Costs
+and Ownership Structure’
+(1976) 3(4)
+Journal of Financial Economics
+306, 311; Frank H Easterbrook and Daniel R Fischel, ‘The Corporate
+(1989) 89(7)
+Columbia Law Review
+See, eg, Andreas Hepp,
+Deep Mediatization: Key Ideas in Media & Cultural Studies
+(Routledge,
+See, eg, Philip Pettit,
+‘Responsibility Incorporated’ (2007) 117(2)
+Similarly, David C Vladeck,
+‘Machines without Principals: Liability Rules and Artificial
+Intelligence’
+(2014) 89(1)
+Washington Law Review
+, 149; Jessica
+S Allain, ‘From Jeopardy! to Jaundice: The Medical Liability Implications
+of Dr. Watson and Other Artificial
+Intelligence Systems’ (2013) 73(4)
+Louisiana Law Review
+1049, 1074.
+Seth C Lewis, Amy Kristin
+Sanders and Casey Carmody, ‘Libel by Algorithm? Automated Journalism and
+the Threat of Legal Liability’
+(2019) 96(1)
+Journalism & Mass
+Communication Quarterly
+See generally on the
+concept, David Copp, ‘The Collective Moral Autonomy Thesis’ (2007)
+Journal of Social Philosophy
+See Georgios I Zekos,
+Economics and Law of Artificial Intelligence: Finance, Economic Impacts, Risk
+Management and Governance
+(Springer, 2021) 361–400.
+See Gerhard Wagner,
+‘Robot, Inc.: Personhood for Autonomous Systems?’ (2019) 88(2)
+Fordham Law Review
+591, 597–9.
+Wolfgang Welsch,
+Vernunft: Die zeitgenössische Vernunftkritik und das Konzept der
+transversalen Vernunft
+(Suhrkamp, 1996); see also Félix Guattari,
+‘Transdisciplinarity Must Become Transversality’ (2015) 32(5)
+Theory, Culture & Society
+Bundesgerichtshof, III ZR
+98/12, 24 January 2013 reported in (2013)
+Malte-C Gruber, 'Digitaler
+Lebensraum’, in Bertram Lomfeld (ed),
+Die Fälle der Gesellschaft:
+Eine neue Praxis soziologischer Jurisprudenz
+(Mohr Siebeck, 2017) 115,
+Digitaler Lebensraum’
+For a recent discussion of
+value in different social contexts see Isabel Feichtner and Geoff Gordon (eds),
+Constitutions of Value: Law, Governance, and Political Ecology
+(Routledge, 2023).
+Digitaler Lebensraum
+(n 39) 122–3.
+This is a fictitious case
+inspired by the factual scenario in United States District Court von California,
+San Francisco Case No.
+12-cv-05524-JST – Class Action
+Crowdflower
+Isabell Hensel, ‘Hire
+Me! Arbeiten in der Crowd‘ in Bertram Lomfeld (ed),
+Die Fälle der
+Gesellschaft: Eine neue Praxis soziologischer Jurisprudenz
+(Mohr Siebeck,
+2017) 183, 188–94 (‘Hire Me!’).
+See generally Stefan
+Grundmann, Fabrizio Cafaggi and Giuseppe Vettori (eds),
+The Organizational
+Contract: From Exchange to Long-Term Cooperation in European Contract Law
+(Ashgate, 2013).
+Isabell Hensel, ‘When
+Gorillas Strike: Constitutional Protection of Non-Value Institutions in Labor
+Law’ (2024) 44(1)
+Zeitschrift für Rechtssoziologie
+generally Gunther Teubner,
+Networks as Connected Contracts
+Publishing, 2011).
+See generally Hugh Collins,
+‘Introduction to Networks as Connected Contracts’ in Teubner (n
+Pablo M Baquero,
+of Collaborative Contracts for Innovation
+(Hart Publishing, 2020)
+Gunther Teubner,
+‘Coincidentia Oppositorum: Hybrid Networks Beyond Contract and
+Organization’ in Marc Amstutz and Gunther
+Teubner (eds),
+Contractual
+Networks: Legal Issues of Multilateral Cooperation
+(Hart Publishing,
+Ralf Rogowski,
+Labour Law in the World Society
+(Edward Elgar, 2014).
+On responsiveness,
+see fundamentally Philippe Nonet, Philip Selznick and Robert A Kagan
+Society in Transition: Toward Responsive
+Law (Routledge, 2001).
+Niklas Luhmann,
+‘Interaction, Organization, Society’ in Niklas Luhmann,
+Differentiation of Society
+(Columbia University Press, 1982) 69.
+Google Spain SL and
+Agencia Española de Protección de Datos and
+Mario Costeja González (AEPD)
+(Court of Justice of the European
+Union, C-131/12, ECLI:EU:C:2014:317, 13 May 2014);
+[2015] ECHR 586
+; Bundesgerichtshof, ‘Anonymität der Nutzer von
+Bewertungssystemen’, BGHZ 201, 380.
+Hire me! (n 43) 194.
+Print (pretty)
+Print (eco-friendly)
+RTF format (131 KB)
+PDF format (347 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

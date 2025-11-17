@@ -1,0 +1,1118 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/nsw/NSWFTT/2000/8.html
+Scraped: 2025-11-17 11:56:59
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Austin Customs Agents Pty Ltd v Breakfast Bytes Pty Ltd [2000] NSWFTT 8 (2 May 2000)
+Fair Trading Tribunal
+New South Wales
+Consumer Claims Division
+AUSTIN CUSTOMS AGENTS PTY LTD
+BREAKFAST BYTES PTY LTD
+[2000] NSWFTT 8
+Austin Customs Agents Pty Ltd
+Respondent:
+Breakfast Bytes Pty Ltd
+File Number:
+CO 1999/5599
+Catch Words:
+Consumer claim – provision of a domain name hosting service –
+description of Internet – description of domain names
+– definition
+and use of a server – authority to act as an agent – ACCC and
+principles of Consumer Protection principles
+in electronic commerce –
+Internet industry draft code of practice – OECD guidelines for consumer
+protection in the context
+of the Internet – unsolicited goods and
+Primary Legislation:
+Electronic Commerce Act
+Fair Trading Act
+Matter for Decision:
+Consumer claim
+Cases Cited:
+Freeman and Lockyer v Buckwurst Park Properties Ltd
+Crabtree Vickers Pty Ltd v Australian Direct Mail Advertising and Addressing
+[1975] HCA 49
+(1975) 133 CLR 72
+Pavey and Mathews Pty Ltd v Paul, Deane J
+Christian and Nielsen Pty Ltd v Goliath Portland Cement Company Ltd (Full
+Court – SCT of Tasmania)
+P H Molony, Senior Member
+Hearing dates:
+14 February 2000
+Submissions closed:
+Date of Decision:
+REPRESENTATION
+Mr Smith, director of Applicant
+Respondent:
+Mr Todd, director of Respondent
+I declare that the Applicant Austin Customs Brokers Pty Ltd is not indebted
+to and does not owe the Respondent Breakfast Bytes Pty
+Ltd any monies for the
+provision of domain name hosting services, and for time or debt default charges
+associated with the provision
+of domain name hosting services by the Respondent,
+for the domain names customsagent.net, customsagents.net and customsbrokers.net,
+in the period November 1998 to 30 June 2000.
+REASONS FOR DECISION
+Introduction
+1) This application was filed on 1 October 1999. In it, the
+Applicant Austin Customs Brokers Pty Ltd (Austins) seeks an order that
+not have to pay any of the money demanded of it by the Respondent Breakfast
+Bytes Pty Ltd (Breakfast Bytes) for domain name
+hosting services provided by the
+Respondent. The application was initially listed before another Member of the
+Tribunal on 13 January
+2000, who disqualified herself from the hearing. As a
+result the application was re-listed for hearing before me on 14 February
+At the conclusion of the hearing I reserved my decision because of the novelty
+of the issues raised.
+2) The application is factually and technically complex, and
+raises interesting issues of law in relation to the provision of digital
+services over the Internet. During the course of the hearing sworn evidence was
+taken from the Austin's representative Mr Smith,
+Mr Lloyd Austin, a director of
+the Austin's, and Breakfast Bytes' representative, Mr Todd. Ms Brook, another
+director of Breakfast
+Bytes also attended the hearing and was sworn in, but did
+not give evidence. In reality there was little dispute between the parties
+to the factual background to the application, their dispute was as to the legal
+consequences which flowed from those facts. In
+order to properly understand the
+nature of the dispute and the legal issues raised, it is first necessary to
+traverse some of the
+technical issues and terms raised by the application. I do
+so as simply as possible.
+The Domain Name System and
+Domain Name Servers
+3) The Internet is a vast array of computers, be they single
+computers, part of a local area network (LAN) or a wide area network
+operated by individuals, governments, educational institutions or industry,
+which are able to communicate with each other
+by means of a series of overlayed
+communication protocols called Transmission Control Protocol/Internet Protocol
+TCP/IP breaks data into packets or
+datagrams which are transmitted across the networks to their destination. Each
+packet does not
+necessarily follow the same path to its destination, but the
+transmitting computer must know the destination in order for data to
+successfully transmitted.
+Each computer
+interfacing with the Internet therefore is allocated an IP address, which is a
+unique 32 bit number, so that data
+can be transmitted to it. Computers that
+dial in to an Internet Service Provider (ISP) using a modem to gain access to
+the Internet,
+usually do not have a permanent IP address, but are allocated an
+IP address each time they log onto their ISP, which corresponds
+address of each modem supported by the
+4) IP addresses are long and difficult to remember: consisting of
+four octets between 1 and 255. A full TCP/IP address includes a
+communications
+port number.
+In order to make the Internet
+easier for people to navigate the Domain Name System (DNS) was created. Put
+simply, the DNS allocates
+unique, more user friendly domain names to each IP
+. Thus the domain name
+www.howstuffworks.com
+refers to - or
+is mapped to - the IP address 216.27.61.127.
+The organisation and allocation of domain names has long been the subject of
+tension and debate, and has recently undergone significant
+5) A domain name is made up of a number of components. These
+a) the host name (www)
+b) the domain name (howstuffworks), and
+c) the top-level domain name (com).
+Top-level domain names may be com, net, edu, org or gov, each of
+which is indicative of a certain type of user
+Com or net is indicative of a commercial organisation. Org commonly indicates a
+non-commercial organisation, edu an educational
+institution, and gov an arm of
+government. In addition there are national domains which indicate the country
+in which a domain is
+registered, though not necessarily located. The national
+domain name "au" represents Australia, "uk" the United Kingdom, and "fr"
+Thus the name
+www.nsw.gov.au
+is the domain
+name of the New South Wales government. In the top level domains there is no
+national country identifier.
+6) Domain names are registered to their users. It is said that
+there is no ownership of domain names although commercial experience
+to the contrary
+. Registration systems have
+been established in the top-level and country level domains to ensure that each
+domain name remains unique.
+In the top-level domain the Registry is now run by
+Network Solutions a company established for that
+. In the ".au" domain the Registry is
+now run by Melbourne IT
+, a recently floated
+company which took over the Registry role from the University of Melbourne. The
+registration of domain names
+is a matter governed by international protocols and
+agreements, necessary to ensure the operation of the domain name system, and
+orderly integration of, as well as navigation of the world wide web (the
+7) A domain name must have an IP address to which it refers or is
+mapped. It is possible for there to be a number of domain names
+mapped to the
+same IP address. To enable this to occur there are a multiplicity of domain
+name servers, which serve the purpose
+of translating domain names to IP
+addresses, thereby enabling navigation of the
+. Thus, when an individual is
+using browser software, such as Netscape Navigator or Internet Explorer, to view
+materials on the Internet,
+he or she will follow a link to or enter the
+universal resource locater (URL) of the site they wish to visit , such
+http://www.lawlink.nsw.gov.au/ftt/ftt.nsf/pages/index
+8) The "http" indicates the protocol they wish to use: in this
+case hyper-text transfer protocol one of the suite of protocols contained
+TCP/IP. It is sometimes easier to think of protocols as systems for delivery of
+Internet services. Thus http refers to the
+world wide web service which provides
+access to documents, graphics and text using hyper-text mark-up language
+. FTP refers to file transfer
+protocol which is the mechanism for transferring data files across the Internet.
+Other services include
+telnet, news, e-mail and chat. The domain name above
+indicates the lawlink site maintained by the New South Wales government. The
+balance of the address indicates which hyper-text page, in which directory, at
+the site is being sought. In this example it is the
+Trading Tribunal. When the browser user enters this address in the browser
+location bar (or presses a link
+to that page), the browser communicates with one
+or a series of domain name servers to translate the name
+www.lawlink.nsw.gov.au
+address. The browser then forms a connection with the server at the IP address,
+sends a GET request for the relevant
+page, and the server then transfers the
+html text for the page back to the browser which reads the html document and
+displays it
+properly formatted on the
+. In reality the system is often
+more complicated than that, involving the name server requesting further
+information from other
+DNS servers (often referred to as root
+9) Frequently, but by no means always, the domain name server will
+be managed and configured by the ISP which hosts the web site of
+the domain in
+question. Larger companies and government departments may have their own domain
+name servers, dealing with domains
+within their domain, and have all their web
+pages and sites on their own servers. In other cases the web-site may be hosted
+ISP on a server in one location, but the domain name server which refers to
+it may be separately operated and located. Domain name
+servers in effect run an
+inter-related database of domain names and equivalent IP addresses, which point
+to the IP addresses of a
+multiplicity of domains. For the purpose of these
+reasons the provision of a DNS server configured for an IP address will be
+to as DNS hosting, which needs to be contrasted with the provision of
+hard disk space on a server with a permanent connection to
+the Internet for the
+purpose of displaying information on the world wide web, and disseminating
+information over the Internet. The
+latter will be referred to as Website
+hosting. When a website is created or moved, the DNS system requires that the
+domain name
+Registry and the DNS hosting service - if separate from the Website
+hosting service - be notified of the change so that the DNS server's
+configuration can be changed: this is known as a change of
+delegation.
+10) In order to avoid confusion, it is worth diverting to consider
+the meaning of the word server. As the name implies a server provides
+users of the Internet. Those users are using computers, which the same
+terminology refers to as clients: they receive rather
+than supply data. It is
+possible for a single computer to be both a client and a server. Servers, by
+their nature can serve different
+purposes and are differently configured
+depending upon the use to which they are being put; eg, web servers, domain name
+and ftp servers. One thing they all share in common is the fact that
+they have a permanent connection to the Internet. A single
+server may be
+configured to serve a number of purposes, in which case the service which it is
+supplying is accessed by specifying
+the port address of that service as part of
+the TCP/IP address. Name servers are commonly found at port 42, while world
+servers are commonly found at port 80. These are used as the default
+port addresses for Internet communications
+11) With that technical background in mind I turn to the issues
+raised by this application.
+The Evidence
+12) In October 1997 Austins commenced negotiations with an
+Internet web-site builder called Net Rezults Pty Ltd (Net Rezults), with
+to securing the registration of a number of domain names for use in conjunction
+with a web-site which the applicant was considering
+having Net Rezults build for
+it. In due course Net Results procured for Austins the registration of three
+domain names at a cost
+of $595.00 each. These were:
+a) customsbrokers.net
+b) customsagent.net
+c) customsagents.net
+Each of these domain names are what is termed top level domain
+names and were registered through Network Solutions, the Registrar
+of top level
+domain names in the United States, on 18 January 1998. The Registration details
+for each domain name are the same.
+They show the Registrant to be Austin
+Customs Agents, the administrative contact to be Mr Smith, and the technical and
+billing contact
+to be Mr Jackson-Gross of Net Rezults.
+13) In a letter from Net Rezults to Austins dated 24 October 1997
+Net Rezults wrote, among other things:
+charge $595 per domain name. This is negotiable if you purchase a quantity of
+domain names. This covers the registration fee,
+hosting of the name for an
+unlimited period until you wish to activate your site. It includes the cost of
+hyperlinking to any other
+web address. For example your company
+14) Mr Todd gave evidence that on the same day as Net Rezults
+registered the domain names with Network Solutions, 18 January 1998,
+Bytes configured the domain names on its DNS servers, in accordance with
+e-mailed instructions received from Network Solutions.
+They could tell they were
+referred by Net Rezults because of the billing and technical contacts. He
+explained that Breakfast Bytes
+had a standing arrangement with Net Rezults, to
+configure DNS servers on behalf of Net Rezults' clients, and to issue regular,
+bulk bills to Net Rezults for those services provided to its customers.
+Mr Todd was anxious to make it clear that the DNS services
+provided by Breakfast
+Bytes are separate and distinct from the domain name registry services provided
+by Network Solutions.
+15) Following discussions between the Austins and Net Rezults, on
+12 February 1998 Net Rezults wrote to Mr Smith as follows:
+Further to our conversation
+today, I have drawn up the details of the construction of your
+Included in the cost of each of your domain names are registration
+with all 21 search engines, both in Australia and Internationally.
+The cost of your website will include 3 web pages including all
+frames, simple animation and your e-mail addresses, and free hosting
+maintenance for 12 months, all for just $1,500.00.
+Keith may I also ask you to complete the questionnaire, so I can
+hand the information to our graphic designers to enable us to make
+biggest custom agents/brokers on the world wide web.
+16) In response Mr Smith completed the Internet questionnaire and
+faxed it to Net Rezults on 16 February 1998. On the same day Net
+Rezults faxed
+an invoice to the Applicant which was paid. Subsequently, Net Rezults proceeded
+to develop a small website for the
+Applicant and advised the Applicant of how to
+access the proposed pages over the Internet. The address given was
+http://www.thepla.net/~rezults/austin/
+This address indicates that - at that time - Net Rezults had not established a
+separate Web site for Austins, and had developed
+the Web pages for viewing on
+www.thepla.net
+. This is consistent with
+Breakfast Bytes statement that none of Austin's various domains were ever Web
+hosted, as Breakfast Bytes
+never received a delegation for them. On 16 March
+1998 the Applicant wrote to Net Rezults setting out the changes it wanted to the
+text and design of the web pages.
+17) In April 1998 Mr Smith became concerned when he was unable to
+access the company website over the Internet at www.thepla.net.
+He went to Net
+Rezults offices in Sussex Street and was told that Net Rezults had gone 'down
+the tube'. He subsequently verified
+this with the Australian Securities
+Industry Commission. Mr Smith explained that he thought this meant that Austins
+had not only
+lost its investment in the website, but had also lost its domain
+18) Mr Todd said that in May 1998 he became aware that Net Rezults
+was in liquidation. At that time Breakfast Bytes was providing
+DNS hosting
+services to approximately 2,500 of Net Rezults customers. Over the next six
+months Mr Todd said Breakfast Bytes billed
+Net Rezults care of the liquidator
+for these services. He said that this was in accordance with Breakfast Bytes
+policy of invoicing
+the billing contact first. When this resulted in no
+payments being forthcoming Breakfast Bytes decided to bill the clients directly.
+They did so on the basis of advice that the individual clients were their
+customers, not Net Rezults. Mr Todd explained that their
+aim was to get
+customers to ring Breakfast Bytes in the hope of sorting the situation
+19) On 4 December 1998 Breakfast Bytes faxed an invoice to
+Austins. The invoice was for $120.00, payable within 14 days, being $60.00
+for Domain Name Hosting of customsagents.net and customsbrokers.net for the
+period November 1998 to 30 June 1999. Mr Todd explained
+that at that time
+Breakfast Bytes had not associated the domain name customsagent.net with
+Austin's. The invoice from Breakfast Bytes
+showed a post office box address
+only, and contained a number of warnings and conditions which I set out in
+FEES INCLUDE ADMINISTRATION AND HOSTING UNTIL 30 JUNE 1999 WHEN A RENEWAL WILL
+BE ISSUED FOR HOSTING SERVICES ONLY.
+IF YOU HAVE CANCELLED THIS SERVICE YOU MUST NOTIFY BREAKFAST BYTES
+IN WRITING. YOU ARE LIABLE FOR ALL FEES AND CHARGES UP TO THE
+CANCELLATION OTICE IN WRTING. A SERVICE IS NOT CANCELLED AND WILL CONTINUE TO
+ACCRUE DEBT UNTIL NOTICE IS PROVIDED IN WRITING.
+1. Domain Authorities for Names hosted and not paid within 14 days
+of this invoice will be notified to release the domain name.
+2. Cleared payments must be made by the due date shown on this
+3. If payment is made by cheque, a $30.00 cheque clearance fee must
+be included if the cheque is sent less than seven days before
+the due date.
+Failure to include the $30.00 fee could deem your payment overdue if the funds
+are not cleared by the due date.
+4. You are liable for any cheque and banking fees charged to
+Breakfast Bytes if the bank does not honour your cheque. A fee of $30.00
+charged to you for each dishonour.
+5. Overdue invoices will attract administration and collection fee
+of $150 per hour or part thereof for each attempted collection.
+6. If you incorrectly mark the cheque, you are liable for any costs
+associated with resolving payment and clearance of the cheque
+at the rate of
+$150 per hour or part thereof.
+7. Discounts are provided on the basis that payment is made by the
+due date. This will ensure further invoices will also be
+discounted.
+8. Discounts are given at the discretion of the directors of
+Breakfast Bytes Pty Ltd.
+20) Mr Smith said that when he received this invoice he noticed a
+number of things about it:
+a) it was from a company he had never heard of, Breakfast
+b) it did not disclose a street address for Breakfast Bytes; and
+c) it related to only two domain names.
+His initial reaction was that it was some sort of 'scam'. He
+decided not to react or reply to it.
+21) On 4 December 1998 Breakfast Bytes followed up the invoice
+with a telephone call, leaving a message for Mr Smith who was out of
+the office.
+He returned that call on 14 December 1999 at 9:35am. After a discussion,
+lasting 9 minutes according to Breakfast Bytes,
+during which the situation was
+reviewed, Mr Smith said he wanted to make further inquiries about Breakfast
+Bytes. Mr Todd said it
+was apparent from this discussion that Mr Smith did not
+realise that the domain names were still registered to Austins.
+22) On 15 December 1999 at 1:01pm Breakfast Bytes rang Austins and
+spoke with Mr Smith for an hour. Mr Todd said that the nature
+of the domain
+name hosting services provided by Breakfast Bytes was explained to Mr Smith. He
+was told that Net Rezults, as Austin's
+agent, had arranged for Breakfast Bytes
+to provide domain name hosting services for Austin's domain names in January
+1998. He was
+told that companies that did not have the facilities to offer
+domain name hosting services, frequently arranged for Breakfast Bytes
+those services to their clients. He was told that only Austins could deregister
+the domain names or change the domain
+name server with Network Solutions,
+because Breakfast Bytes was prohibited from doing so under its agreement with
+Network Solutions.
+He was told about the other services offered by Breakfast
+Bytes including Web site hosting. He requested a copy of Breakfast Bytes
+standard agreement and a copy of the original invoice. These were faxed to him.
+Mr Smith agreed with Mr Todd's summary of this conversation.
+23) There was no further contact between Breakfast Bytes and
+Austins until 2 February 1999 when Breakfast Bytes rang Mr Smith who
+confused about the agreement. The agreement was explained to him and he was
+asked when he would be paying the invoice. He said
+he would call back soon.
+This call lasted 10 minutes. On 19 February 1999 Mr Smith wrote to Mr Todd.
+This was unsuccessfully faxed
+to Breakfast Bytes and so was ultimately posted on
+22 February 1999, and received on 24 February 2000. Mr Smith
+have been making some enquires. Both of the domain names mentioned in your
+invoice are registered to www.ah.net and
+to Austin Customs, and there
+is no connection to B/Bytes. I fail to see why we should agree to pay anything
+in these circumstances.
+apparently something to do with the AUX MEDIA GROUP, and not B/Bytes. If the
+domain names are not registered to Austin Customs
+and are not hosted in some
+sort of beneficial and direct way by B/Bytes, then there is nothing to be paid
+for. Even if those names
+could be registered to us (which I doubt would
+happen), we would get "zilch" from them in benefits to our company from B/Bytes.
+but no thanks.
+Keith Smith
+24) On 25 February 1999 Breakfast Bytes called Austins and left a
+message for Mr Smith. On the same day Breakfast Bytes conducted
+a search of
+the domain name registry database which showed that both customsagents.net and
+customsbrokers.net had been registered
+to Austins on 18 January 1998. Copies of
+these searches were tendered during the hearing. On the same day Breakfast
+Bytes spoke
+with a Mr Sharp from Austins, who denied that Austins was liable for
+Breakfast Bytes' fees. Mr Todd said that Mr Sharp was asked
+to arrange for the
+registration of customsagents.net and customsbrokers.net to be terminated if
+Breakfast Bytes’ services were
+not wanted. Mr Todd explained that the
+registration with Network Solutions lasted for two years, and that Breakfast
+Bytes had no
+authority remove them from the server unless Network Solutions was
+advised of a cancellation or transfer to a different DNS server.
+25) On 14 March 1999 Breakfast Bytes discovered that it was also
+providing domain name hosting for Austins in the name customsagent.net.
+Austins on 18 January 1998, and that all three
+names remained registered. On 13
+April 1999 Breakfast Bytes sent Austins a new invoice this time for a total of
+$646.00 comprised
+a) the initial $120.00;
+b) 94 minutes of time charges - relating to telephone calls with
+Austins - charged at $4.00 a minute ($240.00 an hour); and
+c) $140.00 being four separate debt collection charges of $35.00
+each, relating to an allocated potion of four separate conversations
+Austins, two of which were also the subject of the time charges mentioned above.
+The charges made are best illustrated in a table.
+Time Charged
+Time Charge
+Debt Collection Time
+Debt Collection Charge
+26) Mr Smith replied to this invoice by fax on 14 April 1999. In
+summary he denied having any contract with Breakfast Bytes, and
+refused to pay
+for unsolicited and 'not needed' services. There then ensued a series of
+increasingly hostile communications which
+there is little value n repeating
+here. Of note is that:
+a) on 20 April 1999 Mr Todd wrote to Mr Smith advising, among
+other things,
+provided services to
+Breakfast Bytes and that Breakfast Bytes had nothing to do with the AUX Media
+b) on 25 July 1999 Breakfast Bytes faxed Austins an additional
+invoice for $590.67 (making the total owing $1,327,71) comprised
+i) an account keeping fee (time allocated 1 minute 26 seconds) of
+ii) time based consultancy fees for the period 14 April 1999 to 20
+April 1999 totalling 18 minutes and 10 seconds charged at $4.00
+iii) domain name hosting fees for the 1999-2000 financial year of
+$468.00; and
+iv) interest due of $15.23.
+Submissions
+Made by the Parties
+27) Austins' submissions in this case were simple. Austins say
+that there is not and never was any contractual relationship between
+Breakfast Bytes. Austins contract was with Net Rezults. Under the terms of
+that contract Net Rezults were to provide them
+with all relevant services
+including domain name hosting. Austins deny that Net Rezults was ever
+authorised to enter contractual
+relationships on their behalf.
+28) Breakfast Bytes says that Net Rezults at all times acted as
+agent for Austins in its dealings with Breakfast Bytes. While the
+arrangement between Net Rezults and Breakfast Bytes is not documented, Breakfast
+Bytes implicitly argued that it is industry
+practice for Website developers such
+as Net Rezults to act as agent for their principals when arranging for domain
+name hosting services.
+In doing so Net Rezults relied on the nature of the
+services it provides, and the fact that those services can only be terminated
+the cancellation of the domain name registration, or a transfer of domain name
+servers, which under Network Solutions domain name
+policy and agreements can
+only be occur at the request of the Registrants administrative contact. Mr Todd
+referred to a copy of
+Network Solutions standard contract at the time in support
+of this. He also pointed to the fact that the standard Network Solutions
+contract made it clear that a web site developer registering a domain name for a
+client was doing so as agent for the client. He
+argued that the same
+relationship must exist when a web site developer engages a domain name hosting
+provider to host a domain name,
+because the web site developer had no ongoing
+control with respect to the domain name.
+29) Alternately, Mr Todd argued that Breakfast Bytes was entitled
+to recover its fees from Austins pursuant to sections 58 of the
+Fair Trading Act
+30) In considering the evidence given in the course of the
+hearing, I was impressed by the technological knowledge and the depth of
+preparation displayed by Mr Todd. I was similarly persuaded that he has little
+tolerance for those who do not grasp, and have little
+understanding of, the
+technicalities of cyberspace. I was left with the definite impression that he
+does not tolerate those he considers
+ignorant gladly, and has difficulty in
+making himself understood by those who do not share his technical expertise.
+This may, in
+part, explain why this dispute has reached the stage it has.
+Correspondingly, I was satisfied that Mr Smith from Austins had no
+understanding
+of the technology, systems or industry he was dealing with when he embarked on
+the task of putting his company on the
+Internet. While Mr Smith said in the
+course of evidence that he had learned a lot during the course of the dispute,
+what knowledge
+he had gained was only minimal. He clearly had no understanding
+of the technical matters I have sought to outline earlier in these
+reasons, he
+did not understand the domain name registration system, and displayed an
+understandable suspicion of the unknown when
+discussing these matters. That
+also, I suspect, is a contributing factor to the escalation of this dispute.
+Nonetheless I was satisfied
+that both of them did their best to give the
+Tribunal a full and complete picture of what had transpired.
+31) Having considered the evidence I make the following findings
+a) In early January 1998 Austins engaged Net Rezults to register
+domain names on its behalf. Included in the fee Austins paid Net
+Rezults was
+provision for:
+i) all registration fees;
+ii) hosting of the name for an unlimited period;
+iii) hyperlinking to any other web address.
+b) On 18 January 1998 Net Rezults procured the registration of the
+following domain names on Austins' behalf with Network Solutions:
+i) customsbrokers.net
+ii) customsagent.net
+iii) customsagents.net
+c) On 18 January 1999, pursuant to an arrangement in place between
+Net Rezults and Breakfast Bytes, Breakfast Bytes commenced providing
+DNS hosting
+services for Austins' three domain names, and in accordance with the arrangement
+in place, billed Net Rezults for those
+d) In February 1998 Austins engaged Net Rezults to develop a web
+site for it, which the domain names were intended to refer to.
+e) Net Rezults commenced development of the Austins' web site, and
+in March 1998 that development reached the stage whereby draft
+viewable over the Internet at Net Rezults' development site.
+f) In April 1998 Net Rezults ceased trading and was subsequently
+placed in liquidation in May 1998.
+g) Net Rezults did not complete the development of Austin's web
+site, nor arrange for the hosting of that web site, nor for the domain
+refer to such a web site.
+h) Net Rezults ceased paying Breakfast Bytes for DNS hosting
+services provided by Breakfast Bytes for Net Rezults' clients.
+i) On 11 December 1998 Breakfast Bytes invoiced Austins for the
+supply of DNS hosting services from November 1998 to 30 June 1999.
+Its invoice
+set out various conditions of trade, especially with respect to default in
+j) Austins did not accept liability for Breakfast Bytes' invoice
+and denied that Breakfast Bytes was providing it with any
+k) Breakfast Bytes continued to provide DNS hosting services for
+the three domain names registered to Austins, and requested Austins
+the registrations if it was not going to pay for the DNS hosting services.
+Breakfast Bytes advised Austins that it was
+unable to unilaterally terminate the
+services because of its agreement with Network Solutions.
+l) In the period since December 1998:
+i) Breakfast Bytes has continued to supply the DNS hosting
+ii) Austins have refused to acknowledge that that service was
+being provided;
+iii) Breakfast Bytes have invoiced Austins for the delivery of the
+DNS hosting services together with substantial time charges for
+discussions with
+Austins about the dispute and debt recovery charges.
+Application
+32) This case highlights difficulties which are being, and will
+continue to be experienced, in adapting the law to modern technology.
+in my view, highlights the tendency of those engaged in digital commerce to let
+technological solutions overcome good business
+practice, and presume a license
+which the law has not readily granted to others. An example can be readily
+found in Breakfast Bytes
+failure to communicate at all with those it argues are
+its clients, preferring instead the ease of digital communication with the
+middlemen who introduce those clients. It is paradoxical that, at the same
+time, technology enabled the first direct contact with
+those clients to be the
+dispatch, by fax, of invoices generated by an automated billing process capable
+of time charging to the second.
+I suspect a simple letter of explanation may
+have been more successful with Austins. Some of these difficulties will be
+by the introduction of the Electronic Commerce Act 1999
+which seeks to treat digital and
+written communications equally, adopting the principles of functional
+equivalence and media neutrality.
+33) A detailed examination of all communications between Austins
+and Net Rezults makes it clear that at no time did Austins expressly
+Net Rezults to act as its agent in procuring domain name or web hosting services
+on its behalf. Rather it contracted with
+Net Rezults to supply those services.
+I think an argument can be advanced that Austins impliedly authorised Net
+Rezults to act as
+its agent in procuring the registration of the domain names
+with Network Solutions, as it was clearly the understanding of both Austins
+Net Rezults that the domain names had to be registered with a third party. In
+those circumstances an agency might be implied
+to give business efficacy to the
+In any case, I have no doubt
+from Mr Smith's evidence that Austins wish to ratify Net Rezults' conduct in
+registering the domain
+names. That, however, is not the issue here. With
+respect to DNS hosting services Net Rezults told Austins that for payment of
+fee Austins would receive, among other things, 'hosting of the name for an
+unlimited period until you wish to activate your site'.
+Those words are
+indicative of a sale of services.
+34) Breakfast Bytes argues that its arrangement with Net Rezults
+and other web site developers is predicated on the web site developers
+agent of their principals. The fact that the principals were not billed by
+Breakfast Bytes militates against this. Why
+bill the agent of a disclosed
+principal, not the principal? The billing of the web developer is strong
+evidence that the web developer
+is the client, who with the knowledge and
+consent of Breakfast Bytes, is reselling the DNS hosting services to its
+clients. It is
+a relationship analogous to that of a builder, who engages
+various expert sub-contractors to work on the building site, and who is
+responsible for the payment of those sub-contractors. The builder sells the
+construction of the building to his or her client as
+a package. I am reinforced
+in this conclusion by the failure of Breakfast Bytes to produce any
+documentation as to the arrangement
+it had 'in place' with Net Rezults, and the
+practice of Breakfast Bytes in not communicating with its alleged clients. It
+be a simple matter for Breakfast Bytes to automate an e-mail notification
+of its services to new clients introduced by web developers,
+without the need to
+resort to more mundane methods of communication. It could have done so with
+Austins. Mr Smith’s e-mail
+address was registered with Network Solutions.
+That it did nothing at all, is confirmatory of the fact that its client was Net
+rather than Austins. Further, it is clear that Net Rezults did not
+pass Breakfast Bytes fees on to Austins for payment as one would
+expect in the
+case of an agency. Rather, it aggregated Breakfast Bytes services with those
+purchased from others, into an overall
+domain name registration package it
+offered Austins, which clearly included an element of profit for Net Rezults.
+This is redolent
+of a relationship of a seller and purchaser, not that of agent
+and principal.
+35) Breakfast Bytes relies on the nature of Network Solutions
+rules with respect to the cancellation of domain name registrations,
+transfer of DNS hosting services as supporting its contention that Net Rezults
+acted as Austins' agent. As I understand it
+the reasoning underlying this is
+that, as only Austins can terminate the registration or transfer the DNS hosting
+service for the
+domain names, under the terms of their registration with Network
+Solutions, Net Rezults cannot be Breakfast Bytes' client as they
+do not have the
+authority to change the registration details. Only Austins' have that
+authority, ipso facto, they must be Breakfast
+Bytes' client. This reasoning is
+syllogistic, requiring acceptance of the proposition that a client must have
+authority to deal with
+Network Solutions in order to contract with Breakfast
+Bytes for DNS hosting services. Yet no such condition or warranty by the client
+(or indeed by Net Rezults as putative agent), appears on any of the
+documentation produced by Breakfast Bytes. To return to the
+building analogy. A
+builder is engaged to prepare the site and undertake the building works. The
+owner requires and obtains an excavation
+permit to prepare the site. The
+builder in turn engages a specialist excavator to do the excavation. After
+commencing work at the
+site the excavator advises the builder that because of
+rock it will be necessary to apply for a modification to the permit. As the
+owner must apply for the permit, the Council will not recognise an application
+in the Builder's name, does that change the legal
+relationships between the
+parties? Does the Builder become the agent of the owner with respect to the
+excavator, because only the
+owner can apply to change the permit? I think not.
+Yet that is the logic underlying Breakfast Bytes' contention with respect to
+only Austins being able to change the domain name registration details with
+Network Solutions.
+36) The only other means by which it can be argued that Net
+Rezults acted as Austins agent with respect to Breakfast Bytes is by application
+of the doctrine of ostensible authority. In Freeman & Lockyer v Buckwurst
+Park Properties Ltd
+in a frequently quoted
+passage Lord Diplock said
+An "apparent" or "ostensible" authority [as compared to actual authority] is a
+legal relationship created between the principal and
+the contractor, created by
+a representation, made by the principal to the contractor, intended to be and in
+fact acted upon by the
+contractor, that the agent has authority to enter on
+behalf of the principal into a contract of a kind within the scope of the
+authority, so as to render the principal liable to perform any
+obligations imposed upon him by the contract. To the relationship
+so created the
+agent is a stranger. He need not be (although he generally is) aware of the
+representation, but he must not purport
+to make the agreement as principal
+himself. The representation, when acted upon by the contractor by entering into
+a contract with
+the agent, operates an estoppel, preventing the principal
+asserting that he is not bound by the contract. It is irrelevant whether
+agent has actual authority to enter the contract.
+The doctrine of ostensible authority clearly has no application
+here, as there is no evidence of Austins at any time making any representation
+to Breakfast Bytes, let alone one with respect to Net Rezults having authority
+to act on its behalf
+. It is worth
+repeating that Breakfast Bytes configured the DNS server for Austins' domain
+names, upon receipt of e-mailed advice
+from Network Solutions, in accordance
+with an agreement in place with Net Rezults. At no time prior to the DNS
+servers being configured
+was there any contact between Austins and Breakfast
+37) I therefore am not satisfied that Net Rezults acted as
+Austins' agent. The contract for the provision of DNS hosting services
+between Breakfast Bytes and Net Rezults. It can be understood as a sub-contract
+entered into by Net Rezults in fulfilling
+its contractual obligations to
+38) In passing I note that the Australian Competition and Consumer
+Commission has published a set of principles called, Consumer Protection
+Principles in Electronic-Commerce.
+these principles are those that exhort on line businesses to:
+Provide easily accessible, accurate information about your identity and physical
+location, and about the goods and services you offer
+Provide customers with accurate information related to the terms and
+conditions of the transaction. ...
+Allow your customers to indicate clearly that they intend to make a
+purchase in a manner that allows them to both identify precisely
+the goods or
+services they wish to purchase and maintain a complete and accurate record of
+the transaction.
+Develop and implement mechanisms to provide consumers with a
+multi-step confirmation process.
+Have in place fair and effective policies and internal mechanisms to
+address and respond to consumer complaints and difficulties within
+a reasonable
+time, without undue cost to the consumer, and without prejudice to judicial
+While these principles do not have legislative status they reflect
+a standard of probity and fairness in on-line business transactions
+providers should aim to achieve. Similar principles can be found in the
+Internet Industry Draft Code of Practice,
+and in the OECD Guidelines for Consumer Protection in the Context of the
+Internet. I observe that Breakfast Bytes breached each
+and everyone of these
+principles in its dealing with Austins, who it identified as its client. The
+use it made of its charging and
+default policy in attempting to intimidate
+Austins into paying its account was clearly unfair. A glance at the table on
+charges unilaterally levied against Austins, amply demonstrates the
+use to which these policies were put. As I have found that there
+is no contract
+between Austins and Breakfast Bytes I do not need to explore those issues
+39) Mr Todd for Breakfast Bytes argued that if there was no
+contractual relationship between Breakfast Bytes and Austins, Breakfast
+was nonetheless entitled to recover its charges pursuant to section 58 of the
+Fair Trading Act 1987
+which deals with the provision of unsolicited goods and
+services. Relevantly it provides:
+58 Assertion of right to payment for unsolicited
+goods or services, or for making entry in directory (TPA
+(2) A person shall not, in trade or commerce, assert a right to
+payment from another person for unsolicited services unless the person
+the right has reasonable cause to believe that there is a right to
+(5) For the purposes of this section, a person shall be taken to
+assert a right to payment from another person for unsolicited goods
+unsolicited services, or of a charge for the making of an entry in a directory,
+if the first-mentioned person:
+(a) makes a demand for the payment or asserts a present or
+prospective right to the payment,
+(b) threatens to bring any legal proceedings with a view to
+obtaining the payment,
+(c) places or causes to be placed the name of the other person on a
+list of defaulters or debtors, or threatens to do so, with a
+view to obtaining
+the payment,
+(d) invokes or causes to be invoked any other collection procedure,
+or threatens to do so, with a view to obtaining the payment,
+(e) sends any invoice or other document stating the amount of the
+payment or setting out the price of the goods or services or the
+charge for the
+making of the entry and not stating as prominently (or more prominently) that no
+claim is made to the payment, or
+to payment of the price or charge, as the case
+(7) For the purposes of this section, an invoice or other document
+purporting to have been sent by or on behalf of a person shall
+be deemed to have
+been sent by that person unless the contrary is established.
+(8) In a proceeding against a person in respect of a contravention
+of this section:
+(a) in the case of a contravention constituted by asserting a right
+to payment from another person for unsolicited goods or unsolicited
+services the
+burden lies on the defendant of proving that the defendant had reasonable cause
+to believe that there was a right to
+payment, or
+40) Section 58 is a provision which, among other things, seeks to
+prevent people demanding payment for the provision of unsolicited
+unless they have reasonable cause for believing there is a right to payment. It
+does not provide that a person who has
+reasonable cause for believing there is a
+right to payment, is entitled to payment. In order to recover payment that
+person must
+establish that right to payment. In other words, section 58 deals
+with the circumstances in which a person may demand payment for
+unsolicited
+services, but does not give a right to recover payment for unsolicited services.
+The section therefore can be of no assistance
+to Breakfast Bytes in attempting
+to recover from Austins, as it does not confer a right of action. Accordingly,
+I do not intend
+to further consider the applicability of the section to this
+case. There was an issue as to whether Breakfast Bytes could recover
+unsolicited services under section 59 of the
+Fair Trading Act
+, but that deals
+with the liability of recipients of unsolicited goods, not
+41) One further issue arises from the way Mr Todd presented
+Breakfast Bytes' case: whether Breakfast Bytes is entitled to recover
+of the services it provided to Austins by application of the doctrine of
+restitution for unjust enrichment. A constant
+theme of his argument was that
+Austins were receiving DNS hosting at the cost of Breakfast Bytes, but at no
+cost to Austins. In
+Pavey & Matthews Pty Ltd v
+Deane J said of the concept of unjust
+It constitutes a unifying legal concept which explains why the law recognizes,
+in a variety of distinct categories of case, an obligation
+on the part of a
+defendant to make fair and just restitution for a benefit derived at the expense
+of a plaintiff and which assists
+in the determination, by the ordinary processes
+of legal reasoning, of the question whether the law should, in justice,
+such an obligation in a new or developing category of case (see
+Muschinski v. Dodds
+(1985) 60 ALJR 52, at p 67;
+[1985] HCA 78
+, at p 455;
+Goff & Jones, op. cit., at pp 11ff.). In a category of case where the law
+recognizes an obligation to pay a reasonable
+remuneration or compensation for a
+benefit actually or constructively accepted, the general concept of restitution
+or unjust enrichment
+is, as is pointed out subsequently in this judgment, also
+relevant, in a more direct sense, to the identification of the proper basis
+which the quantum of remuneration or compensation should be ascertained in that
+particular category of case.
+42) Earlier,
+His Honour said
+when discussing cases in which parties had been able to reclaim moneys wrongly
+paid on the basis of an implied (or
+quasi) contract:
+In that ... category of case, the tendency of common lawyers to speak in terms
+of implied contract rather than in terms of an obligation
+imposed by law (see,
+e.g., per Salter J
+., Scott v. Pattison
+(1923) 2 KB 723
+, at pp 727-728)
+should be recognized as but a reflection of the influence of discarded fictions,
+buried forms of action and the conventional
+conviction that, if a common law
+claim could not properly be framed in tort, it must necessarily be dressed in
+the language of contract.
+That tendency should not be allowed to conceal the
+fact that, in that category of case, the action was not based upon a genuine
+agreement at all. Indeed, if there was a valid and enforceable agreement
+governing the claimant's right to compensation, there would
+be neither occasion
+nor legal justification for the law to superimpose or impute an obligation or
+promise to pay a reasonable remuneration.
+The quasi-contractual obligation to
+pay fair and just compensation for a benefit which has been accepted will only
+arise in a case
+where there is no applicable genuine agreement or where such an
+agreement is frustrated, avoided or unenforceable. In such a case,
+very fact that there is no genuine agreement or that the genuine agreement is
+frustrated, avoided or unenforceable that
+provides the occasion for (and part of
+the circumstances giving rise to) the imposition by the law of the obligation to
+make restitution.
+Mason and Wilson JJ said of the application of the doctrine to
+cases in which there was a subsisting
+Where work is done by a plaintiff under a contract which expressly or impliedly
+provides for the plaintiff's remuneration, there
+is no ground in restitution or
+unjust enrichment for imposing an obligation to pay remuneration different from
+the agreed remuneration.
+43) In this case there was no contract between Breakfast Bytes and
+Austins. There was, however, a contract between Breakfast Bytes
+and Net Rezults.
+In Christiani & Nielsen Pty Ltd v Goliath Portland Cement Company
+the Full Court of the Supreme Court
+of Tasmania considered an appeal against an order striking out a claim for
+restitution for unjust
+enrichment. In that case Christiani had been engaged as
+a sub-contractor by a Builder with the knowledge and at the request of the
+Goliath. Subsequently, after Christiani had undertaken various works, the
+Builder was placed in liquidation and Christiani
+was unpaid. In the complex
+litigation which ensued, Christiani, among other things, claimed restitution for
+unjust enrichment from
+Goliath. Zeeman J (with whom Crawford J concurred)
+Whilst it may be arguable that there is nothing in
+Pavey and Matthews Pty Ltd
+(supra) which prevents recovery by Christiani, nothing that was said
+in that case is capable of forming the foundation for the claim
+by Christiani on
+a quantum meruit. By its pleadings, as I have construed them, Christiani sought
+to claim an entitlement to be paid
+what it claims is owing to it by the first
+defendant pursuant to the subcontract merely because Goliath requested that it
+work whereupon Christiani entered into the subcontract with the first
+defendant pursuant to which it was to do the work. One needs
+only to state the
+claim in those stark terms to immediately recognise that is one which is not
+maintainable. Whilst it may be that
+Deane J did not have the present type of
+situation in mind when he referred to the concurrent existence of a valid and
+enforceable
+agreement, it may yet be said that the circumstances of the present
+case cannot possibly give rise to any "occasion or legal justification
+law to superimpose or impute an obligation or promise to pay a reasonable
+remuneration" on the part of Goliath.
+By entering into the subcontract Christiani made a commercial
+decision that it was prepared to perform the subject matter of the subcontract
+and look to the first defendant for payment. That may have been a commercial
+decision which was wise or foolish. Regardless of
+the wisdom of that decision
+there is no occasion for the law to relieve Christiani of the consequences of
+the first defendant's inability
+to perform its side of the contract, if indeed
+it is unable to do so, by imposing upon Goliath the obligation to pay for work
+materials for which the first defendant has failed to pay. Had Christiani
+wished to protect itself against the risk that it would
+not be paid by the first
+defendant then it could have sought to protect itself by asking that Goliath
+join in the subcontract in
+some appropriate way. Goliath might or might not
+have been prepared to accede to such a request. If it had done so then
+could have sought relief from Goliath on the contract. If it had
+declined to do so then Christiani would have had to decide whether
+enter into the subcontract without such protection or not enter into the
+subcontract at all
+44) In my view Zeeman J's words can be applied with equal force
+and effect to the situation here. If Breakfast Bytes had desired
+protection of contracting directly with Austins, rather than with Net Rezults as
+a web developer, it was open to Net Rezults
+to so arrange its business affairs,
+so that its contracts were directly with the Registrants of the domain names for
+whom it provided
+DNS hosting services. Instead, Breakfast Bytes operated in a
+manner which kept the Registrants, including Austins, entirely out
+of the loop.
+Breakfast Bytes contract was with Net Rezults. If Breakfast Bytes is unable to
+recover from Net Rezults that is a
+consequence of the commercial risk Breakfast
+Bytes assumed when it chose to contract with Net Rezults, and not to require
+Registrants
+to contract with it for the supply of DNS hosting services. From
+Austins' point of view it has already purchased the service which
+Bytes supplies from Net Rezults. The arrangements between Net Rezults and
+Breakfast Bytes in respect to that service are
+a matter for them, and not a
+concern of Austins.
+45) The conclusion I reach, therefore, is that Austins do not owe
+Breakfast Bytes anything. There will be a declaration to that effect.
+back over these reasons, I am left with the impression that this is a situation
+in which Breakfast Bytes has allowed easy
+technological solutions to drive it
+business systems, rather than the proper commercial needs of the business
+driving its technology:
+the cart before the horse. The results are
+predictable.
+P. H. Molony
+Senior Member
+HEREBY CERTIFY THAT THIS IS A TRUE AND ACCURATE RECORD OF THE REASONS FOR
+DECISION OF THE ADMINISTRATIVE DECISIONS TRIBUNAL.
+Ian F. Fletcher
+(Ed) 'Centrepoint '[1996]
+Journal of Business Law
+416, at 417 - 418.
+www.howstuffworks.com/webserver2.htm
+Ian F. Fletcher (Ed) 'Centrepoint '[1996]
+Journal of Business Law
+www.howstuffworks.com/webserver4.htm
+Ian F. Fletcher (Ed) 'Centrepoint '[1996]
+Journal of Business Law
+Your Website: Legal issues relating to the Allocation of Internet Doman Names',
+University of NSW Law Journal
+http://www.networksolotions.com
+http://www.melbourneit.com.au
+www.howstuffworks.com/webserver5.htm
+Ian F. Fletcher (Ed) 'Centrepoint '[1996]
+Journal of Business Law
+at 417 - 418.
+www.howstuffworks.com/webserver.htm
+www.howstuffworks.com/webserver.htm
+This will come into effect with respect to most Commonwealth laws on 1 January
+2001. see the discussion in "A national framework
+for electronic commerce"
+Internet Law Bulletin
+Bank Ltd v Ateliers de Construcions Electirques de Charleroi
+(1999) 39 ALJR
+Weiner v Harris
+[1910] 1 KB 285
+Bosanquet v Mofflin
+SR (NSW) 617.
+Bowstead and Reynolds on Agency
+[1964] 2 QB 480
+Crabtree Vickers Pty Ltd v Australian Direct Mail Advertising and Addressing
+[1975] HCA 49
+(1975) 133 CLR
+These can be accessed at
+http://www.accc.gov.au/ecomm/principles.htm
+industry draft code of Practice -
+Internet Law
+Liability of recipient of unsolicited goods (TPA
+(1) A person to
+whom unsolicited goods are supplied by another person, in trade or commerce, is
+not liable to make any payment for
+the goods and is not liable for the loss of
+or damage to the goods other than loss or damage resulting from the doing of a
+and unlawful act in relation to the goods during the period specified in
+subsection (4).
+(2) Subject to subsection (3), where a person sends, in trade
+or commerce, unsolicited goods to another person:
+(a) neither the person who
+sent the goods nor any person claiming under that person is entitled after the
+expiration of the period
+specified in subsection (4) to take action for the
+recovery of the goods from the person to whom the goods were sent, and
+(b) upon the expiration of that period the goods become, by force of this
+section, the property of the person to whom the goods
+were sent freed and
+discharged from all liens and charges of any description
+(3) Subsection (2)
+does not apply to or in relation to unsolicited goods sent to a person if:
+(a) the person has at any time during the period specified in subsection (4)
+unreasonably refused to permit the sender or the
+owner of the goods to take
+possession of the goods,
+(b) the sender or the owner of the goods has
+within that period taken possession of the goods, or
+(c) the goods were
+received by the person in circumstances in which the person knew, or might
+reasonably be expected to have known,
+that the goods were not intended for the
+(4) The period referred to in subsections (1), (2) and (3) is:
+(a) if the person who receives the unsolicited goods gives notice with respect
+to the goods to the sender in accordance with subsection
+(i) the period
+of 1 month next following the day on which the notice is given, or
+period of 3 months next following the day on which the person received the
+goods, whichever first expires, and
+(b) in any other case the period of 3
+months next following the day on which the person received the goods.
+notice referred to in subsection (4) shall be in writing and shall:
+state the name and address of the person who received the goods,
+the address at which possession may be taken of the goods if it is an address
+other than that of the person, and (c) contain
+a statement to the effect that
+the goods are unsolicited
+[1987] HCA 5
+162 CLR 221
+at para 26 -27
+Print (pretty)
+Print (eco-friendly)
+RTF format (117 KB)
+Signed PDF/A format
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

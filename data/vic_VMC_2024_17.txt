@@ -1,0 +1,3968 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/vic/VMC/2024/17.html
+Scraped: 2025-11-17 13:34:25
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Jayawardana v Telstra Limited [2024] VMC 17 (11 October 2024)
+MAGISTRATES’ COURT OF VICTORIA
+No. MAG-CI-230098150
+SHEHAN JAYAWARDANA
+TELSTRA LIMITED TRADING AS TELSTRA
+MAGISTRATE:
+WHERE HELD:
+DATE OF HEARING:
+4, 5 and 6 March, written submissions 15 and 20 March
+DATE OF DECISION:
+11 October 2024
+CASE MAY BE CITED AS:
+Jayawardana v Telstra Limited
+MEDIUM NEUTRAL CITATION:
+[2024] VMC 17
+INDUSTRIAL LAW –
+Fair Work Act 2009
+alleged contravention of enterprise agreement – dispute as to
+Plaintiff’s classification level under enterprise agreement
+principles of construction of enterprise agreements – principles for
+determining applicable classification.
+APPEARANCES:
+For the Plaintiff
+Daniel Dwyer
+Communications Electrical and Plumbing Union
+For the Defendant
+Chris O’Grady
+Dimitri Ternovski
+Seyfarth Shaw Australia
+TABLE OF CONTENTS
+Repair and maintenance of the network, or a
+part of it 48
+Installation and repair of CPE products
+and cabling, and associated work 49
+Work on small and large Pair Gain
+Systems and Radio based connections. 50
+Non-network interference and network
+interference work 52
+Examples without equivalent in other
+Prescribed Diagnostics/Complex
+Diagnostics/Very Complex Diagnostics 69
+Range of solutions 71
+HER HONOUR:
+INTRODUCTION
+Plaintiff Mr Shehan Jayawardana is employed by Telstra Limited
+Technician, working on Telstra’s optical fibre network. Mr Jayawardana
+claims he has been underpaid by Telstra since
+2019, in breach of the enterprise
+agreements applicable to his employment and
+Fair Work Act 2009
+), because Telstra has incorrectly classified his role.
+Telstra denies that Mr Jayawardana has been underpaid and says he has been
+correctly classified.
+Court, an eligible State or Territory Court pursuant to
+of the Act, has
+enterprise agreement pursuant to
+of the Act and to impose pecuniary
+penalties pursuant to
+Determining
+Mr Jayawardana’s classification level requires consideration of Core Job
+Descriptions (CJDs) which underpin the
+enterprise agreement classification
+structure, and which have not been updated since 2002. At that time
+Telstra’s network predominantly
+used older transmission technologies, such
+as copper, rather than optical fibre, and the CJDs primarily refer to products
+and services
+based on these older technologies. Mr Jayawardana does not work on
+the copper network. The key issue in the proceeding is the interpretation
+CJDs designed predominantly for the copper network and their application to Mr
+Jayawardana’s work on the optical fibre network.
+MR JAYAWARDANA’S CONTRACTS AND THE CLASSIFICATION
+of the facts in the matter were agreed by way of a Statement of Agreed Facts
+dated 21 December 2023 (
+).The following background matters were not
+in dispute.
+Jayawardana has been employed pursuant to three successive written contracts.
+His 30 January 2012 contract provided that he was
+employed as ‘Constructor
+Repairer’ classified at CFW3. His 30 January 2013 contract provided that
+he was employed as
+‘CAN Infrastructure Builder’ classified at CFW4.
+His current contract dated 26 October 2022 (
+2022 Contract
+) provides that
+he is employed as a ‘Service Technician’ classified as CFW4. The
+2022 Contract was entered into following
+a corporate restructure and did not
+result in any changes to Mr Jayawardana’s role or duties.
+all relevant times, Telstra has classified Mr Jayawardana as CFW4. Mr
+Jayawardana contends that he should have been classified
+alternatively CFW5 since at least 1 October 2019.
+classification references in Mr Jayawardana’s contracts, and in respect of
+the claim, are derived from the enterprise agreements
+applicable to Mr
+Jayawardana’s employment, being:
+(a) the Telstra Enterprise Agreement 2015-2018 (
+), from 12 November 2015 until 18 June 2020;
+(b) the Telstra Enterprise Agreement 2019-2021 (
+), from 19 June 2020 until 12 July 2022; and
+(c) the Telstra Limited Enterprise Agreement 2022-2024
+2022 Agreement
+) from 13 July 2022 onwards.
+classification provisions have not materially changed across the enterprise
+agreements and the parties agreed that the 2022 Agreement
+provisions may be used
+as a proxy for the classification structure across each of the enterprise
+agreements.
+Jayawardana is a ‘workstream
+under the 2022
+Agreement. Accordingly, his minimum fixed remuneration rate is determined based
+on the relevant Band,
+which refers
+to the level of a job within the relevant
+workstream.
+Mr Jayawardana falls
+under the ‘Customer Field Workstream’ or ‘CFW’, which is
+defined as:
+Employees engaged in Customer Access Network (CAN) construction and/or in the
+end to end installation, operation, maintenance and
+repair of all services for
+customers and/or in the supervision and/or direct operational support of such
+employees and the testers
+in the service assurance call
+C ‘Workstream Arrangements’ at clause C1 provides:
+C1. WORKSTREAM PRINCIPLES
+C1.1. Telstra will allocate a Workstream Employee to a Workstream (see the
+Dictionary for Workstream definitions).
+C1.2. The following principles apply:
+a) Work in each Workstream will be evaluated in accordance with the Telstra Job
+Evaluation and Classification System and these principles.
+b) Each Band, within a Workstream, will have agreed representative Core Job
+Descriptions which form part of this Agreement. There
+may be more than one Core
+Job Description for each Band.
+c) As part of the Telstra Job Evaluation and Classification process, managers
+will design any new jobs that will go into a Workstream.
+If Telstra and any new
+employee to whom the new job applies cannot reach agreement on the grading of
+the new job, the matter will
+be referred to a review team
+comprising:
+external consultant expert in Telstra's Job Evaluation and Classification
+ii) a Telstra representative;
+iii) the employee (who may be represented, including by a Telstra Union).
+d) A majority of the three person team will determine the outcome and this
+outcome will be binding on the Parties to this Agreement
+without recourse to
+further review or appeal.
+e) Telstra and the Telstra Unions may agree to change the current Core Job
+Descriptions during the life of the Agreement. However,
+they will not be changed
+without such agreement.
+Dictionary defines ‘Core Jobs [sic] Descriptions’ (CJDs) as:
+Job descriptions that underpin the classification of
+These have been graded and placed into
+Job Evaluation and Classification System
+using agreed job descriptions. Core
+jobs align particular job duties with
+for the life of this
+, are subject to a review (see Appendix C), and guide evaluators
+in determining the appropriate
+for new or substantially altered
+CJDs collectively form the ‘Job Evaluation and Classification
+System’ referred to in the enterprise agreements, and
+there are four CJDs
+relevant to this proceeding: CAN Infrastructure Build CFW4; Installer/Repairer
+CFW4; Installer/Repairer CFW5
+and Installer/Repairer CFW7. A detailed comparison
+of the text of the relevant CJDs prepared and agreed by the parties is copied
+Appendix 1.
+RELEVANT LEGAL PRINCIPLES
+Principles guiding the proper construction of an Enterprise
+parties agreed that the principles governing the construction of enterprise
+agreements are as set out in
+Australian Manufacturing Workers’ Union v
+Berri Pty Ltd
+The principles relevant to the task of construing a single enterprise agreement
+may be summarised as follows:
+construction of an enterprise agreement, like that of a statute or contract,
+begins with a consideration of the ordinary meaning
+of the relevant words. The
+resolution of a disputed construction of an agreement will turn on the language
+of the agreement having
+regard to its context and purpose. Context might appear
+(i) the text of the agreement viewed as a whole;
+(ii) the disputed provision’s place and arrangement in the agreement;
+(iii) the legislative context under which the agreement was made and in which
+it operates.
+task of interpreting an agreement does not involve rewriting the agreement to
+achieve what might be regarded as a fair or just
+outcome. The task is always one
+of interpreting the agreement produced by parties.
+common intention of the parties is sought to be identified objectively, that is
+by reference to that which a reasonable person
+would understand by the language
+the parties have used to express their agreement, without regard to the
+subjective intentions or
+expectations of the parties.
+fact that the instrument being construed is an enterprise agreement made
+pursuant to Pt 2-4 of the FW Act is itself an important
+consideration. It may be inferred that such agreements are intended to establish
+binding obligations.
+FW Act does not speak in terms of the “parties” to enterprise
+agreements made pursuant to Pt 2-4 agreements, rather
+it refers to the persons
+and organisations who are “covered by” such agreements. Relevantly s
+172(2)(a) provides that
+an employer may make an enterprise agreement “with
+the employees who are employed at the time the agreement is made and who
+covered by the agreement”. Section 182(1) provides that an agreement is
+“made” if the employees to be covered
+by the agreement “have
+been asked to approve the agreement and a majority of those employees who cast a
+valid vote approve
+the agreement”. This is so because an enterprise
+agreement is “made” when a majority of the employees asked to
+approve the agreement cast a valid vote to approve the agreement.
+agreements are not instruments to which the
+Acts Interpretation Act 1901
+(Cth) applies, however the modes of textual analysis developed in the general
+law may assist in the interpretation of enterprise
+agreements. An overly
+technical approach to interpretation should be avoided and consequently some
+general principles of statutory
+construction may have less force in the context
+of construing an enterprise agreement.
+construing an enterprise agreement it is first necessary to determine whether an
+agreement has a plain meaning or it is ambiguous
+or susceptible of more than one
+may be had to evidence of surrounding circumstances to assist in determining
+whether an ambiguity exists.
+the agreement has a plain meaning, evidence of the surrounding circumstances
+will not be admitted to contradict the plain language
+of the agreement.
+the language of the agreement is ambiguous or susceptible of more than one
+meaning then evidence of the surrounding circumstance
+will be admissible to aide
+the interpretation of the agreement.
+admissibility of evidence of the surrounding circumstances is limited to
+evidence tending to establish objective background facts
+which were known to
+both parties which inform and [sic] the subject matter of the agreement.
+Evidence of such objective facts is
+to be distinguished from evidence of the
+subjective intentions of the parties, such as statements and actions of the
+parties which
+are reflective of their actual intentions and expectations.
+12. Evidence of objective background facts will include:
+(i) evidence of prior negotiations to the extent that the negotiations tend to
+establish objective background facts known to all
+parties and the subject matter
+of the agreement;
+(ii) notorious facts of which knowledge is to be presumed; and
+(iii) evidence of matters in common contemplation and constituting a common
+assumption.
+diversity of interests involved in the negotiation and making of enterprise
+agreements (see point 4 above) warrants the adoption
+of a cautious approach to
+the admission and reliance upon the evidence of prior negotiations and the
+positions advanced during the
+negotiation process. Evidence as to what the
+employees covered by the agreement were told (either during the course of the
+negotiations
+or pursuant to s 180(5) of the FW Act) may be of more assistance
+than evidence of the bargaining positions taken by the employer
+or a bargaining
+representative during the negotiation of the agreement.
+extrinsic material may be used to aid the interpretation of a provision in an
+enterprise agreement with a disputed meaning,
+but it cannot be used to disregard
+or rewrite the provision in order to give effect to an externally derived
+conception of what the
+parties’ intention or purpose was.
+the industrial context it has been accepted that, in some circumstances,
+subsequent conduct may be relevant to the interpretation
+of an industrial
+instrument. But such post-agreement conduct must be such as to show that there
+has been a meeting of minds, a consensus.
+Post-agreement conduct which amounts
+to little more than the absence of a complaint or common inadvertence is
+insufficient to establish
+understanding.
+further relied on
+Sheehan v Thiess Pty Ltd
+Target Australia Pty Ltd v Shop, Distributive and Allied Employees’
+Association
+support of the principle that because enterprise agreements are instruments with
+statutory force, distinct from commercial agreements
+between parties, contextual
+matters should not be taken into account unless they are notorious or known to
+the persons intended to
+be bound by the agreement.
+decision also cites the applicable broad principles for construing
+an enterprise agreement from
+WorkPac Pty Ltd v Skene
+recognise, amongst other things, that the words of an agreement must be
+understood in their industrial context, in light of
+customs and working
+conditions, with intentions expressed in practical terms intelligible to parties
+but without careful attention
+to form and drafting, legal niceties or jargon. A
+purposive approach must be taken.
+Approach to determining an employee’s classification
+principles applicable to determining Mr Jayawardana’s classification level
+were also not in dispute. The following extract
+Davies v Carnachan
+Family Trust Pty Ltd
+describes the required approach:
+[12] The courts and industrial tribunals have developed principles to be applied
+ascertain whether an employee falls within a particular classification described
+in an award or agreement. Where the employee performs
+mixed functions, the
+approach has been to examine the “
+major and substantial
+” of the employee or the “
+primary function
+” of the employee.
+For example, in
+Logan v Otis Elevator Company Pty Ltd
+, Moore J referred to and applied the decision of Sheldon J in
+O’Donnell Griffin (Television Services) Pty Ltd
+[1971] AR (NSW) 18
+his Honour, applying the “
+major and substantial
+” test, relevantly observed:
+...it is not merely a matter of quantifying the time spent on the various
+of work performed by a complainant; the quality of the different types of
+done is also a relevant consideration.
+[14] The task of the Court in examining the major, substantial or principal
+aspect of the work performed by the employee will include
+consideration of the
+amount of time spent performing particular tasks, but also the circumstances of
+the employment, and what the
+employee was employed to do. The question is one of
+fact, to be determined by reference to the duties actually attaching to the
+rather than its title:
+City of Wanneroo v Holmes
+Joyce v Christofferson
+Additionally,
+each classification level must be considered in context, consistent with the
+approach described in
+Michael Watson v Safe Places Community Services Limited
+Safe Places
+Further, the principles of construction of enterprise agreements also operate
+considering classification structures, including indicative tasks specified for
+various levels, for the purpose of determining the
+appropriate classification
+Level of an employee. Each level of a classification structure and the
+underpinning definitions must be
+read in the context of higher or lower levels
+having regard to the descriptions at higher and lower levels of similar tasks
+ascending and descending degrees of
+complexity.
+Jayawardana bears the onus of proving on the balance of probabilities that
+Telstra has contravened the relevant enterprise agreements
+by failing to
+classify and pay him in accordance with the CFW7 classification level, or
+alternatively the CFW5 classification level.
+APPROACH TO THE EVIDENCE
+adopt as findings the facts as agreed in the SOAF, with limited exceptions,
+where indicated.
+addition, Mr Jayawardana and Mr John Ellery, union official in the Victorian
+Branch of the Communications Electrical and Plumbing
+Union Communications
+Division, Telecommunications & Services Branch (
+evidence for Mr Jayawardana. For Telstra, employees Mr Michael Cooper, Mr Tony
+Considine and Mr Riccardo De Blasio gave evidence.
+Ellery has been an official of the Union for 29 years and prior to this was an
+employee of Telstra from February 1975 to 1994.
+At the time he left Telstra, he
+was a senior technical employee and did not work with cable in the field. He
+experienced ‘the
+dawn of the fibre age’ in a research environment.
+Cooper is the ‘Principal – Access Networks’ and is responsible
+for the financial and operations functions in
+the Customer Access Network
+Over the 28 years
+he has been employed by Telstra he has worked in the field on copper cable and
+optical fibre maintenance. He was
+also team manager of the optical fibre team.
+Considine is the Business Senior Lead in Field Services and has national
+responsibility across the optical fibre, copper wire,
+pits and duct network.
+This includes cable incident restoration, the fibre maintenance program and
+construction and installation
+of wideband services. He reports to Mr Cooper. He
+has been employed by Telstra for 24 years and from 1999 to 2010 was a Field
+Communications
+Technician, working on the copper then fibre network after
+obtaining fibre accreditation in 2007.
+De Blasio is the CAN Program Coordinator – Optic Fibre. He coordinates the
+repair and maintenance of optical fibre cable
+in the network and is responsible
+for the geographic area covering the eastern side of Victoria (including all of
+Melbourne), all
+of Tasmania and part of southern NSW. Mr De Blasio reports to Mr
+Considine. In his 38 years as a Telstra employee he has worked predominantly
+optical fibre and copper cable jointing and maintenance roles.
+also tendered by consent the Witness Statement of Emma Tullberg, attaching the
+Telecommunications Training Package ICT97 Technical & Call Centre Streams
+Volume 1 – General Information Assessment Guidelines
+Qualifications
+dated January 2001 (
+2001 Curriculum Document
+provides details about AQF qualifications listed in the relevant
+Frequently,
+the witness evidence traversed subject matters addressed in the SOAF. I have
+considered this evidence as supplementary
+to the SOAF, given both parties led
+evidence of this nature, and neither party objected to its admissibility on the
+basis that it
+contradicted or qualified an agreed fact.
+witness gave opinion evidence as to the complexity of the work of Mr Jayawardana
+and others. Telstra submitted that because its
+witnesses were not challenged on
+their opinions in cross examination, I should accept their evidence. I disagree
+that the evidence
+should be accepted on this basis. The issue of complexity was
+clearly disputed, and I am satisfied that the Telstra witnesses were
+and did, answer Mr Jayawardana’s evidence on this issue. Mr Jayawardana
+and Mr Ellery tended to say that Mr Jayawardana’s
+work is complex, and the
+Telstra witnesses tended to say that his work is simple, or not complex, or that
+other work is more complex.
+Given the lack of independence of any of the
+witnesses, and their almost universal unwillingness to depart from the opinions
+suited their case, I have generally given little weight to the opinion
+evidence. Where no evidence was led of the facts on which
+the opinion was based,
+I have generally given it no weight. Insofar as I have relied on opinion
+evidence, I considered the Telstra
+witnesses had relatively greater expertise,
+being more familiar with the relevant work and having performed the same or
+similar work
+themselves. I have also had regard to opinions Mr Jayawardana
+offered as to his own work. However I consider Mr Ellery had only limited
+relevant expertise based on his past research work.
+than in respect of the opinion evidence, there were no issues with the
+credibility or reliability of the witness evidence.
+THE OPTICAL FIBRE NETWORK COMPARED TO THE COPPER NETWORK
+was agreed that optical fibre is a medium to transmit information between two
+points by sending and receiving light wavelengths.
+A single optical fibre is
+slightly thicker than a strand of hair. In the Telstra network, optical fibres
+are used for three main
+connection types: the connection of customer premises
+equipment (communications equipment at customer premises) (
+equipment at a Telstra exchange; to connect equipment within a Telstra exchange;
+and to connect Telstra exchanges to each other
+via the Inter Exchange Network
+). Mostly, optical fibres are individually coated in plastic then
+bundled inside of cables, which can hold up to 360, or less commonly
+720 fibres.
+Cables may or may not be buried underground. Fibre Access Points (
+are plastic cannisters installed throughout the network to provide access to
+cables. They are labelled to allow technicians to identify
+the relevant
+Cooper said, and I accept, that in 1995, copper connected residential homes and
+a significant portion of enterprise customers to
+the network, with optical fibre
+used for larger scale connections, such as linking exchanges. Approximately 10%
+of the telecommunications
+network in Australia remains on copper, and Telstra
+still has approximately 1200 technicians working on copper technology, with
+approximately
+600 on any given day. Mr Ellery, said, and I accept, that
+‘circa 2000’ optical fibre was just beginning to expand into
+network. The copper network comprised copper wire cables configured in pairs,
+with the capacity to send two phone lines over
+one pair of copper wires, in
+contrast to an optical fibre capable of carrying a very large number of lines.
+contended that work on the copper network was in some respects more complex than
+work on the optic fibre network, whereas
+Mr Jayawardana contended that work on
+the optic fibre network was more complex than the copper network.
+Considine said working on the copper network involves complications that do not
+arise in fibre optic work. Copper cables are subject
+to electrical interference,
+whereas optic cables are not, and finding the source of this can be difficult
+and time consuming. In
+addition, older copper cables were not colour coded,
+making it more difficult to find the right pair. Further, locating a leak in
+gas-pressurised copper cables can be difficult, and involves the use of hydrogen
+gas and a hydrogen sensor to locate the fault, whereas
+for optic fibre, an
+automatic tool (
+) displays the fault location. He disagreed that work
+on the fibre network is more complex than the copper network.
+Jayawardana said that copper was obsolete and the fibre network is more
+advanced. Mr Jayawardana agreed that there were tools for
+fault finding and
+rectification available for fibre but said there were fault finding tools for
+the copper network too. He agreed
+that the tools for fibre had evolved over
+time. Mr Ellery said the network is equally complex now. Whilst there is no
+longer capacity
+for electromagnetic interference, there is other interference on
+the fibre network. He disagreed that higher problem solving skills
+were required
+on the copper network.
+Notwithstanding
+that the expansion of the optical fibre network has involved technological
+advancement, I am not satisfied that work
+on it is inherently more complex.
+Further, I accept that complications arose on the copper network that do not
+arise with fibre,
+however I do not conclude that this makes work on the copper
+network inherently more complex. These general opinions do not assist
+interpreting the CJDs and determining Mr Jayawardana’s classification
+MR JAYAWARDANA’S WORK
+The Melbourne Fibre Team
+was agreed that since 2013, Mr Jayawardana has worked in the Melbourne Fibre
+), which has approximately 16 technicians. The core role of the
+MFT is to perform repair and maintenance work on Telstra’s optical
+Repair and Maintenance Work)
+. This involves rectifying fibre
+faults. Since about mid-2021, the MFT’s work has expanded to improve the
+utilisation of its
+technicians, meaning technicians from the MFT can also be
+allocated to perform project work (
+Project Work
+), wideband work
+Wideband Work
+) and basic inspection and maintenance work (
+Inspection Work
+). The work of MFT technicians overwhelmingly consists of
+cabling work. They are primarily responsible for building or repairing fibre
+links between two points. MFT technicians may bolt on equipment at either end of
+a cable in accordance with a design, turn equipment
+on or off or plug/unplug a
+fibre link into a piece of equipment. However the configuration, activation,
+testing and troubleshooting
+of that equipment is not undertaken by MFT
+technicians.
+De Blasio said, and I accept, that of the 16 technicians in the MFT, around 10
+(including Mr Jayawardana) mainly undertake Repair
+and Maintenance Work, with
+the remainder mainly performing Wideband Work. Mr Jayawardana described this
+group within the MFT as the
+‘Fibre Maintenance Group’ (
+comprising around eight employees. Mr Jayawardana and Mr De Blasio both said,
+and I find, that Mr Jayawardana is one of only two
+CFW4 classified employees in
+the FMG, with the remaining employees (be it six or eight) classified as CFW5.
+Mr Jayawardana’s role
+was agreed that Mr Jayawardana’s core role is to:
+(a) Construct, repair and replace fibre optic cables in
+Telstra’s fibre network. This involves hauling, splicing and testing
+cables. It also requires filling in workbooks (for wideband and project work)
+and using fibre record databases;
+(b) Install hardware (such as patch panels and trays)
+by bolting them on to another structure (such as a rack) in accordance with
+design plan. Mr Jayawardana’s role is limited to physically affixing the
+hardware in the location specified in the design
+plan. He does not configure,
+activate or test any equipment or troubleshoot and rectify equipment faults; and
+(c) Inspect pits, pipes, ducts, poles, ladders and
+payphones and clean payphones.
+was agreed that Mr Jayawardana is also rostered to perform Area Point of Contact
+) work on weekends on a rotating roster.
+was agreed that between 2021 and late 2023 Mr Jayawardana spent around 70 per
+cent of his work time undertaking Repair and Maintenance
+Work (and around 60 per
+cent of his time from late 2023 to February 2024). Between 2021 and late 2023,
+Mr Jayawardana spent about
+13 per cent of his time on Project Work (and around
+40 per cent from late 2023 to February 2024.) Between 2021 and late 2023, Mr
+Jayawardana spent about 9.5 per cent of his time on Wideband Work, which he
+ceased performing in May 2023. Between 2021 and late
+2023, Mr Jayawardana spent
+subsequently undertake that work.
+Repair and Maintenance Work
+Identifying the location of a fault
+was agreed that the typical process when a fault on the fibre network is
+reported is that a technician from a different team identifies
+its approximate
+location, then notifies the Global Operations Centre (
+) which then
+allocates it to a technician such as Mr Jayawardana. The technician may test the
+fibre with an ‘OTDR’ to
+determine or confirm the location of the
+fault. An OTDR is an automated tool that tests a fibre link and identifies the
+of any fault. To use it, the technician plugs in a fibre, selects the
+wavelength and presses a button.
+The OTDR then
+displays a line graph, showing if there is a fault and its location (as distance
+of the fault from the OTDR). Based
+on that distance, the technician can
+determine the approximate physical location of the fault.
+Jayawardana said he undertakes testing from the exchange to work out the
+distance of the fault and its location. To do so, he uses
+which shows where the cable
+is running, and ‘Vis Net’ or ‘Visio’ which is a line
+diagram from the fault to
+locate the closest FAP. Mr De Blasio said that Visio
+is no longer used by technicians as drawings are provided, but described Vis
+in similar terms to Mr Jayawardana. Mr De Blasio said that MFT technicians
+always re-test the cable with an OTDR to prove the
+location of the fault. He
+said this is largely automated however some manual settings such as the distance
+range need to be selected.
+To read the OTD, Mr De Blasio said a straight line
+represents normal working fibre, and a spike or a drop shows an
+at that location in the fibre. A fibre joint shows up as a
+small spike. A sharp drop represents a cut (or the end of the fibre link).
+spike could be an excessive bend. Mr De Blasio said a break was obvious but
+agreed it was not so obvious where there is a bad
+joint or a kink. The
+technician places a cursor on the spike or drop on the line diagram and the OTDR
+tells them the distance of
+the fault along the link. Mr Jayawardana’s
+evidence as to how to read the OTDR was similar to Mr De Blasio’s.
+on this evidence I find that following the allocation of a fault by the GOC,
+locating the fault is work commonly undertaken
+by Mr Jayawardana using Net Maps,
+Vis Net and the OTDR, which allows the location of the fault on the network to
+be cross referenced
+with the approximate physical location of the fault. I find
+that whilst the OTDR is an automated tool, it requires manual input,
+experience and judgment in interpreting its display and identifying which fibre
+‘events’ are depicted by the display.
+Options for rectifying the fault
+was agreed that to rectify the fault the technician travels to the location of
+the fault or to the nearest FAP and identifies the
+source of the fault. The
+fault can be fixed by either: straightening a kink in the fibre; replacing and
+‘resplicing’
+a damaged section of fibre; using a spare fibre; or
+installing a new cable. The process of joining two pieces of optical fibre
+) involves: stripping off the cover with a hand tool; cleaning
+the fibre with solvent; putting a splice protector tube on one of the
+sliding it to one side; cutting the fibre with another hand tool; inserting two
+fibres to be spliced into a splicing machine
+and pressing a button. The machine
+automatically fuses the fibres, tests the splice and tells the technician
+whether the splice is
+good or bad. If the splice is bad, the process needs to be
+repeated. If the splice is good, the technician slides the splice protector
+the splice and heats it within the same device, so it shrinks and covers the
+splice. Alternatively, if the damaged fibre is
+inaccessible, the technician can
+resplice the customer’s service onto a spare fibre. Spare fibres can be
+identified using
+a fibre record database. A handheld device called a fibre
+identifier detects whether there is traffic on a fibre listed in the database
+vacant, as sometimes the database records are wrong.
+was agreed that if no spare fibre is available or a whole cable is cut or
+damaged, a whole section of cable may need to be cut
+and replaced by hauling in
+a new cable (
+). ‘Hauling’ means physically
+transporting cable and inserting a length through a conduit between two access
+such as manholes or pits. External contractors are engaged if hauling
+cable beyond about 120m long is required. As a damaged cable
+is still partially
+functioning, a Cutover will typically involve service disruption to other
+customers. Accordingly, the technician
+needs to obtain GOC approval before
+performing a Cutover. Cutovers are done out of hours, and in the meantime, the
+technician may
+put in a temporary fix by running a temporary fibre above ground.
+was agreed that a range of other testing and diagnostic tools may be used by a
+technician including a light pen; video scope; an
+inline PON/GPON Meter (used to
+simultaneously test multiple wavelengths up and down fibre); and an
+‘optical power meter and
+light source’ (an automated tool to measure
+signal loss or reduction in amplitude). A technician may also need to identify
+equipment and after consulting the GOC, turn off a piece of equipment, unplug
+the fibre, plug the fibre back in and turn the equipment
+back on. Once the
+repair is complete, the technician sends an email to another team identifying
+the work done, and that team updates
+the fibre databases.
+Mr De Blasio and Mr Jayawardana said that the technician is also required to
+test the spliced joints with an OTDR from the exchange.
+Mr Jayawardana said this
+function used to be performed by employees in the exchange who have now been
+retrenched. Mr De Blasio said
+following that testing, the technician notifies
+the GOC of the completed repair, and the GOC performs a remote test to confirm
+repair was successful. I find based on this evidence that Mr Jayawardana is
+also required to test a completed repair with an OTDR
+from the exchange.
+De Blasio agreed that after the fault has been fixed, administrative follow up
+work required of a technician could include: a police
+report; a red line markup
+report with a map; provision of details for a work order to the GOC; or
+provision of damage details and
+so a bill can be
+prepared. I find based on this evidence that Mr Jayawardana may be required to
+perform work of this nature.
+Major fault work
+was agreed that the typical process for rectifying fibre faults, such as cut or
+damaged fibre, is followed regardless of the scale
+of the repair or maintenance
+job. The difference is that larger scale jobs are more time consuming, as more
+tests and splicing are
+required, but the nature of the work is the same.
+Jayawardana provided a small number of examples of major faults he had worked
+on, but said any fault could potentially be a major
+fault considering the
+customer traffic on each fibre. Mr De Blasio said that most faults are minor
+faults where only one or two fibres
+are damaged. Mr Considine said that Mr
+Jayawardana’s examples were more serious than a typical fibre fault. I
+find based on
+this evidence that part of Mr Jayawardana’s Repair and
+Maintenance Work is to rectify major faults, however most faults Mr
+Jayawardana
+is required to repair are not major faults.
+Jayawardana provided the example of a major fault in Bonang, New South Wales in
+October 2023 he attended with a colleague. He travelled
+six hours to find the
+site had no mobile reception including for local emergency services. He located
+the damage to a direct-buried
+cable in fading light, in bush land near a river
+crossing. He contacted Mr De Blasio to organise an excavator. He worked almost
+hours to restore service to the town. Mr Jayawardana was required to
+determine the plan of work to restore services as quickly as
+possible, keep
+relevant departments informed and record details for paperwork. He was paid
+overtime for the work. Mr De Blasio described
+the Bonang incident as a
+‘big one’. He agreed Mr Jayawardana had decided an excavator was
+required and contacted him
+and asked him to arrange the excavator. He agreed
+that otherwise, the complete job was done by Mr Jayawardana and his associate.
+Mr De Blasio also dealt with the GOC and Major Incident Management Team because
+the terrain was remote, there was no mobile reception
+and there was community
+isolation. Mr Considine said he became involved in the Bonang incident because
+the severity had hit a certain
+level and they established a communication group
+with the incident management team, the transmission team and the field team
+Mr Jayawardana and Mr De Blasio said that for major faults, additional personnel
+are arranged. Mr Jayawardana said he informs
+the GOC and his co-ordinator to
+arrange additional staff and sometimes civil contractors. Mr De Blasio said he
+will arrange for another
+crew, or contractors, to assist.
+the typical process for optic fibre repair work applies to major faults, I find
+based on this evidence that Mr Jayawardana’s
+role includes determining the
+scope of the repair, repair plan and where necessary, staffing or contractor
+requirements. Further,
+I find that Telstra distinguishes between faults based on
+their severity in its internal processes, with escalated severity faults
+involving more senior staff and requiring communication between the field team
+and other internal groups.
+was agreed that major fault work may involve disruption to a very large number
+of customers and/or large geographic areas. Mr De
+Blasio said, and I find, that
+the difference is that large faults are more urgent as more customers are
+affected and they require
+more hours to fix.
+Country fault work
+Jayawardana said he is required at times to undertake work in the country
+because country staff don’t have a full knowledge
+of testing and repairing
+of fibre faults. Most country staff are not able to test and create fibre
+workbooks, or splice to a certain
+tolerance so that it passes the tests. Mr De
+Blasio said that MFT technicians assist Victorian country staff from time to
+there are limited resources with splicing experience in country areas,
+and most country technicians cannot do splicing work. Mr Considine
+technicians are sometimes allocated faults in the country because country teams
+do not have dedicated fibre technicians,
+but generalists working on all aspects
+of the network. Hence, they are typically less experienced with fibre. I find
+based on the
+evidence of the three witnesses that as part of his Repair and
+Maintenance Work, Mr Jayawardana is sometimes allocated to faults
+in the country
+because he is a more experienced splicer than most country technicians, most of
+whom are generalists, not dedicated
+fibre technicians, and cannot do splicing
+Jayawardana said that whilst he still has access to the same testing equipment,
+maps and tools to see if a fibre is carrying traffic,
+locating a country fault
+can be more difficult due to inaccurate plans of what he sees in the field. In
+this case, Mr Jayawardana
+has to redesign as he goes in consultation with the
+designer as to the route the cable will take and the availability of fibres.
+splicing is the same, but the cable is older and not as basic. Both Mr Considine
+and Mr De Blasio asserted that country work
+was no more complex than city work.
+However, their evidence did not address the basis of their opinion, or the
+specific matters raised
+in Mr Jayawardana’s evidence, and I have preferred
+Mr Jayawardana’s evidence. I find based on this that additional
+difficulties
+arise in country work. I conclude that dealing with inaccurate
+records, assisting with the redesign of the route and the need to
+older and different cable are matters which add complexity to Mr
+Jayawardana’s work.
+Time frames for fault work
+Cooper and Mr Considine both said that service level agreements provide for the
+restoration of fibre faults in the metro area within
+12 hours and in regional
+areas within 18 hours, with some exceptions. Mr Considine agreed that in some
+cases considerable penalties
+and compensation are payable if these timeframes
+are not met, but said most of those systems are be backed up so service can be
+Mr Cooper said these timeframes are not an expectation on Mr
+Jayawardana but on the business. Mr De Blasio said Mr Jayawardana’s
+is asked to try to meet the timeframes. He agreed that fixing optical fibre
+faults is high priority because fibre carries many
+customers’ data.
+Technicians are required to be available to repair fibre faults immediately, and
+drop other work to fix a
+on this evidence I find that Mr Jayawardana is required to complete fault work
+urgently and so far as is possible within the
+timeframes provided by service
+level agreements, due to the number of customers and amount of data each fibre
+carries. I preferred
+Mr De Blasio’s evidence as to the expectations on
+technicians regarding timing, given his relative proximity to the MFT as
+co-ordinator, to Mr Cooper’s evidence on this issue.
+Advances in technology and complexity of Repair and Maintenance
+Cooper said that over the last 30 years or so, there have been significant
+advances in the equipment and technology used for field
+work which have made the
+work of technicians less complex, including because less analysis is required.
+Mr Ellery disagreed that
+the advances of technology mean the work is less
+complicated.
+Cooper gave the example of the growth in the Remote Field Monitoring System
+), which covers an increasing proportion of the network and
+automatically pinpoints the distance of a fibre fault, meaning the GOC
+provide this to a technician. Mr Cooper’s evidence as to the RFMS did not
+address how Mr Jayawardana’s work would
+have been more complex in its
+absence. It does not alter my earlier findings regarding the requirements upon
+Mr Jayawardana to locate
+Cooper also gave the example of fibre splicing machine technology. The parties
+agreed that progressively over time, the process
+of splicing has become easier
+with modern equipment. Mr De Blasio also said that advances in the speed and
+ease of splicing made
+the work quicker. The Telstra witnesses described the
+previous process of manually lining up the fibres using a microscope, which
+now largely automated. Mr Considine agreed that the process still involves
+stripping the plastic cover off the fibre, cleaning
+the fibre with solvent,
+using a protector tube, cleaving the fibre and inserting it in the machine which
+melts the cables together.
+I find on this evidence that the lining up and fusing
+of the fibre has become easier over time, making the work quicker, with the
+other aspects of the splicing process remaining unchanged.
+Cooper also said OTDRs are now smaller and more accurate compared to those used
+in the early 2000s, and readings can be taken by
+the press of a button. Mr De
+Blasio said that OTDR automation makes things easier than the earlier ODTR
+model. However, neither witness
+addressed in any detail how this made the
+process of fault diagnosis less complex.
+that the process of splicing optical fibre is easier and quicker than it once
+was, I am otherwise not satisfied that the
+advances in technology relied on by
+Telstra make Mr Jayawardana’s Repair and Maintenance Work less complex.
+Wideband Work
+was agreed that the Wideband Work undertaken by the MFT requires a technician to
+build a fibre link from point A to point B following
+a given path in accordance
+with a design, and commission the link by testing it, calling another group to
+activate the equipment,
+and completing required database entries. The building
+of the fibre link involves the same cabling tasks as Repair and Maintenance
+(hauling, testing and splicing fibre) along with three additional tasks. First,
+test results must be recorded in a ‘workbook’.
+Technicians are
+provided with template excel spreadsheets containing blank cells to be populated
+by performing the test and then
+typing the result into the corresponding cell.
+Formulas then automatically populate a column in the spreadsheet with a
+or ‘fail’. Workbooks are prepared for new
+connections only (Wideband Work and Project Work), not for repairs on existing
+connections. The second additional task involves utilising databases for network
+inventory, confirming active fibre paths and booking
+activation appointments,
+however Mr Jayawardana has not accessed these databases for between one to two
+years. Thirdly, a MFT technician
+may install equipment at customer premises, by
+bolting the equipment onto a ‘Rack’ (a standard-size metal frame
+to house communication equipment) at customer premises, plugging in the
+fibre, then calling a different team to activate the equipment.
+was agreed that the majority of Wideband Work is done by the Digital Fibre
+Services Team (
+), a different business unit within Telstra. However,
+since July 2021, as part of Telstra’s expansion of the MFT’s work,
+Wideband Work on 5 of the 40 service types undertaken by the DFST has been
+allocated to MFT technicians. MFT technicians are allocated
+only one wideband
+task at a time, and approximately 6 of 16 MTF fibre technicians, not including
+Mr Jayawardana, perform exclusively
+Wideband Work. Mr Cooper said, and I find,
+that this arrangement involves only the lowest level wideband tasks, including
+fibre splicing,
+testing and building line systems, but not programming, customer
+interaction, organising contractors or civil works except some small
+accept Mr Cooper’s evidence that this arrangement came about to better
+utilise technicians between faults and thus
+involves the simpler, single fibre
+services, meaning less customer disruption when technicians attend faults.
+was agreed that Mr Jayawardana has not performed Wideband Work since May 2023.
+Mr Jayawardana said that from mid-2021 he was part
+of the initial MFT group
+doing all the Wideband Work. He helped upskill newer staff. In May 2023, after
+he questioned his supervisor
+Mark Mays whether the upskilling work should be
+classified at level 5 or level 7, Mr Mays took Mr Jayawardana off Wideband Work.
+He did not refuse to do the work; the work was not provided to him. Mr De Blasio
+said that Wideband Work ceased being allocated to
+technicians who did not
+perform data base entry, however none of the Telstra witnesses had direct
+knowledge of why Mr Jayawardana
+was taken off Wideband Work. I find Mr
+Jayawardana ceased performing Wideband Work because Telstra stopped allocating
+Telstra’s reason for doing so is not a matter which arises for
+determination in this proceeding.
+Project Work
+Work refers to MFT work other than Repair and Maintenance Work and Wideband
+Work. A typical example of Project Work is installing
+a short length of cable
+within a building (
+) at an exchange. Other examples are
+installation of ‘patch panels’, an assembly containing ports into
+which cables plug
+in. Installing a patch panel means bolting it onto a rack in
+accordance with a design plan or working on a ‘link’ connecting
+point A to point B over a very long distance (eg 100km). Project Work also
+involves the population of workbooks. MFT technicians
+work to a design
+specifying the work required. An example of a project design which Mr
+Jayawardana was allocated to work on required
+the creation of a 72-fibre
+‘tie cable’ between two points and identifying the location of the
+two points. Mr Jayawardana
+gave examples of sub racks which I accept he had
+installed. He said, and I accept, that Project Work also involves him sourcing
+material for the project and liaising with other project staff.
+Jayawardana said that Project Work design plans are never 100 per cent accurate
+because the records are not always accurate. Accordingly,
+he must test if
+allocated fibres are available, and if not must find a new fibre path and
+pack and records. Mr Considine agreed
+that there are instances where some of the plans are inaccurate or do not exist,
+because they
+haven't been captured properly when the lines were first built.
+When there is an inaccuracy on a wideband plan, the technician can
+‘Fibre Line’ who can advise alternative fibres and paths to try. Mr
+Considine said there is capacity for a technician
+to identify spare fibre
+themselves using ‘Multiman’ and ‘Tomahawk’ and suggest
+that to Fibre Line to hurry
+things up. Alternatively, the technician can
+allocate the work back to the delivery specialists via Mr Considine’s team
+say it needs to go into ‘redesign’ for a site assessment path or
+another review. I find based on this evidence that Mr
+Jayawardana contributes to
+required redesigns by identifying alternative fibre paths using available tools,
+and it is beneficial
+if he does so.
+Complexity - Wideband Work/Project Work v Repair and
+Maintenance Work
+Cooper said the Project Work and Wideband Work performed by Mr Jayawardana is no
+more complex than his Repair and Maintenance Work
+and is in some respects
+simpler because the technicians simply follow a plan in building a fibre link
+and do not need to locate a
+fault or select a repair solution. Further, it is
+not subject to the same time pressures as Repair and Maintenance Work. Mr De
+also said in some respects Project Work and Wideband Work is simpler
+because technicians work to a design plan, and no diagnostic
+process is required
+to locate a fault or determine a solution. Fault work restores live fibres, an
+interruption to which disrupts
+a customer. Repair and Maintenance Work is thus
+more time sensitive.
+De Blasio said Project Work and Wideband Work are very similar to Repair and
+Maintenance Work and are typically straightforward,
+but because the projects are
+larger scale, populating the workbook is time consuming and sometimes takes
+longer than building the
+link. It is tedious but not complicated. Mr Jayawardana
+disagreed, saying it had become extremely complex, as the function which
+automatically populated the fibre workbook with FAP locations now has to be done
+accepted that the Wideband Work of the Fibre Maintenance Technicians are the
+simpler services or lower level tasks, I conclude
+that this work is no more
+complex than Repair and Maintenance work. I also conclude that Project Work, as
+a class of work, is no
+more complex than Repair and Maintenance work, as a class
+of work. The cabling tasks required for each are the same.
+Mr Jayawardana’s role as a technician involves, or has involved,
+performing all three types of work as required by
+Telstra. Project Work and
+Wideband Work involve the different functions of installation of customer
+equipment and arranging activation,
+working to a design plan (including
+participating in required redesigns) and population of voluminous data into
+workbooks. These
+functions require the utilisation of qualitatively different
+skills than those used in Repair and Maintenance Work. Whilst I accept
+categories of work are in comparison no more complex than Repair and Maintenance
+Work, I conclude that the addition of these
+qualitatively different functions
+adds complexity to Mr Jayawardana’s role overall.
+General Inspection Work
+was agreed that Mr Jayawardana performs basic inspection and maintenance work,
+including inspection of pits, pipes, ducts, poles,
+payphones and payphone
+Area Point of Contact (APOC) Work
+was agreed that as part of his role as CAN Program Coordinator, Mr De Blasio
+acts as APOC for the eastern side of Victoria (including
+all of Melbourne), all
+of Tasmania and part of southern NSW from Monday until 4pm Friday each week. Two
+technicians from the MFT,
+including Mr Jayawardana, are allocated to be APOCs on
+weekends (starting from 4pm on Friday), on a rotating roster. The APOC is
+responsible for allocating faults to a fibre technician within the region. If a
+fault arises on the weekend, an automated system
+calls the first APOC from the
+list notifying a fault. Once the APOC accepts the fault, the system emails the
+fault details. In the
+case of a major fault, a person from the GOC might also
+telephone to highlight the urgency of the repair. The APOC fills out a webform
+to create a work ‘ticket’ in the ’Promise’ database or
+fault if it is within the
+Victorian urban area or otherwise allocates the fault to an available technician
+in country areas. Typically,
+the APOC repairs the fault themselves, however if
+it is too far away or the APOC cannot attend, they must find an available
+technician.
+on Mr Jayawardana’s uncontested evidence I find that he performs APOC work
+on a rolling roster every four weeks. He receives
+an ‘immediate on
+call’ allowance for the time he is rostered to perform the APOC work and
+receives overtime on top of
+the allowance if required to attend to a fault. The
+allowance he receives is an ‘essential customer servicing allowance’
+of about $600 for the weekend or $9 per hour pursuant to cl 67.4 of the 2022
+Agreement for the requirement to be immediately available
+to undertake work. Mr
+De Blasio receives the same allowance for performing APOC work. It was not in
+issue that Mr Jayawardana performed
+this work at all relevant times over the
+period to which his claim relates.
+De Blasio and Mr Considine said APOC is not a role in itself, but is a type of
+work or responsibility, which involves being on
+call to allocate technicians to
+faults. Mr Considine said being weekday APOC is not Mr De Blasio’s role
+but is one of the functions
+of his role. It was put to Mr Jayawardana that this
+function was not part of his core role, with which he disagreed. I find on this
+evidence that being the APOC is a function, type of work or responsibility of
+both the Coordinator role and Mr Jayawardana’s
+De Blasio distinguished his APOC responsibilities from those of Mr Jayawardana
+as he does not perform field work but allocates
+technicians to do so. Mr
+Jayawardana said he also allocates technicians to attend faults in country NSW
+and Tasmania. I find based
+on this evidence that as APOC, Mr Jayawardana
+allocates field work to other technicians when he cannot physically attend to
+De Blasio said that the weekend APOC does not deal with the work orders required
+after a temporary fix, which often involve arranging
+an external contractor, nor
+do they sign off on repair advices. Mr Jayawardana said that if he is required
+to undertake a temporary
+fix, he is required to identify the work required to
+complete a permanent fix, create a Map (Red Line Mark-up) of that work and
+all paperwork for Mr De Blasio to then complete the work order. I find
+based on this evidence that as APOC, Mr Jayawardana is not
+required to prepare
+work orders but is required to complete preparatory paperwork.
+Supervision, training and work performance
+was uncontested that Mr Jayawardana usually works in pairs with another
+technician and usually works unsupervised, but does not
+have any direct reports.
+I find, based on Mr Jayawardana’s evidence that whoever is onsite first
+usually takes charge of the
+was uncontested that Mr Jayawardana does not hold any formal or official
+training role. I find, based on Mr Considine’s evidence,
+that formal fibre
+training and accreditation are conducted by external training providers, with
+five-day optical fibre jointing classroom
+training covering splicing, testing
+and OTDRs and an additional two-day course in respect of licence accreditation.
+Mr Jayawardana
+said he has trained and supervised trainees and other technical
+staff at a CFW4 and CFW5 level, which involves showing other staff
+undertake particular tasks. Mr De Blasio said that where Mr Jayawardana works
+with a less experienced technician he may demonstrate
+how to do something,
+provide tips or show them the ropes, as a part of teamwork. I find based on
+this evidence that Mr Jayawardana
+provides informal ‘on the job’
+training and supervision to less experienced technicians, including those
+classified as
+CFW5. The difference in the evidence appeared to be no more than
+was no dispute that Mr Jayawardana is good at his job. As Mr De Blasio said, he
+is a good and reliable worker who takes pride
+in his work, performs neatly done
+builds, is a team player and his ‘go-to’ man. The performance
+reviews Mr Jayawardana
+relied on assessed him as rating between three and five
+with the most recent rating being four, in 2022-23 by his manager Mr Mays,
+states his performance has been ‘commendable and deserving of
+recognition.’ I am satisfied based on this, and his
+uncontested evidence
+as to the rating system, that this is a rating of above competent.
+Parts of the network on which Mr Jayawardana works
+was uncontested that Mr Jayawardana works across three different parts of the
+network, being the CAN, the IEN and within Exchanges.
+Mr Cooper and Mr Considine said, there was no difference in the process or tasks
+involved in diagnosing or repairing a fault
+or undertaking Wideband Work whether
+it occurs on the CAN, the IEN or in respect of tie cabling. Mr Considine also
+said that the
+fibre in a P1 (priority) Exchange is the same, the same type of
+connection exists between fibres, and agreed that the MFT works on
+between P1 exchanges. Mr Ellery agreed the nature of fault work doesn’t
+change whether it is between exchanges or between
+the exchange and the customer,
+saying ‘fibre is fibre’. Mr Jayawardana agreed that the process of
+splicing a fibre is
+the same. I find based on this evidence that the nature of
+the tasks required with respect to fibre optic cable are the same on each
+of the network.
+Mr Considine also said that working on the core network in P1 (priority)
+Exchanges was an example of the ‘more complex
+wideband work’
+undertaken by the DFST, and distinguished between ‘P1 techs’ and MFT
+technicians work on this basis.
+However, Mr Considine did not articulate why
+this work is more complex. The only specific evidence as to what work ‘P1
+undertake in a P1 Exchange was Mr Considine’s evidence that
+‘patching’ (splicing a service onto another fibre)
+occurs where the
+network does not switch automatically from a faulty link. It was not in dispute
+that patching was an option available
+to Mr Jayawardana for rectifying a cable
+fault. Telstra submitted that the effect of Mr Considine’s evidence was
+that in addition
+to the less complicated work Mr Jayawardana does, it can be
+assumed there is work done in P1 Exchanges that is inherently complicated,
+that performed by the DFST. I do not consider I can make this assumption on the
+above evidence. It does not alter my finding
+that the nature of cabling work is
+the same on each part of the network. However, I find based on this evidence
+that Telstra distinguishes
+the work undertaken in a P1 Exchange from work
+undertaken elsewhere on the network, notwithstanding that the nature of the
+work is the same.
+Mr Jayawardana and Mr Ellery said in effect that the impact of fault work on the
+IEN was more significant than the impact of
+fault work on the CAN. Mr
+Jayawardana said there was a difference between working on the CAN and the IEN
+because in the IEN, one
+fibre can run thousands of customers on it, including
+emergency services, and you need to know what you are doing. Mr Ellery also
+that as you get closer to the customer there are less fibres, the volume
+changes. Mr Cooper said the impact of a fault on an
+IEN, tie cable or CAN is
+pretty much the same. All will potentially have a customer impact, however there
+is a difference in the
+number of customers impacted as a smaller cable will have
+less customers. Mr Considine said there are sometimes multiple links between
+exchanges, and for the vast majority of IEN cable, so if one cable is faulty the
+connection can be switched to ensure continuity
+of service for the important
+links in that sense. He said that switching to an alternative link is an
+automatic process in a lot
+of cases, which means nil or very little customer
+impact, or alternatively it needs to be patched by a technician.
+find based on the evidence of Mr Jayawardana and Mr Ellery that as a general
+proposition, fibres and cables on the IEN are likely
+to carry a higher volume of
+customers, and that the closer a cable or fibre is to the customer, the less
+traffic there is likely
+to be. This was in effect acknowledged by Mr Cooper. I
+did not consider Mr Cooper’s conclusion that customer impact is the
+despite more customers being affected to be persuasive. I find that where more
+customers are affected, the customer impact will
+be greater. However, I find
+based on Mr Considine’s evidence that this impact is minimised where there
+are multiple links between
+P1 exchanges or on the IEN.
+MR JAYAWARDANA’S MAJOR AND SUBSTANTIAL EMPLOYMENT
+with the principles set out paragraph
+, Mr Jayawardana’s classification
+is to be determined with reference to his major and substantial employment,
+principal purpose
+or primary function. This is a question of fact, to be
+determined by the duties of his position, the circumstances of his employment,
+the time spent performing particular tasks as well as the quality of different
+job functions other than
+pole inspection work fall within the description of his major and substantial
+Telstra submitted
+that the principal function or substantial purpose of Mr Jayawardana's
+employment was to repair cable by finding
+faults, splicing and testing, and the
+Court should apply the classification appropriate to that work, regardless of
+whether occasional
+activities fell outside that work.
+assess Mr Jayawardana’s major and substantial employment I have considered
+both the terms of Mr Jayawardana’s contract
+and the work he has been
+required to and has actually performed, including both the proportion of the
+time and the qualitative nature
+of that work.
+Jayawardana’s 2022 Contract provides that he is employed as a Service
+Technician, and states ‘your role will be to
+perform the same or
+substantially the same work ... that you performed’ for the previous
+corporate entity.
+Accordingly,
+the 2022 Contract defines Mr Jayawardana’s role broadly, by reference to
+the full range of work he was actually
+performing at the relevant time, without
+exclusion. These are the duties actually attached to his position, and what he
+is employed
+then to a quantitative and qualitative assessment of that work. It was not in
+dispute that from mid-2021 onwards, Mr Jayawardana
+could be required by Telstra,
+and was so required, to perform functions across all the categories of
+‘work’ earlier described.
+This is reflective of the decision made by
+Telstra to improve the utilisation of technicians from the MFT. I find based on
+breakdown set out at paragraph
+that the proportion of time spent on
+each of the categories of work was material, and more than occasional. Even Mr
+Jayawardana’s
+basic inspection and maintenance work (with the lowest time
+percentage) equates on average to approximately half a day every fortnight.
+Further, because of the inevitable fluctuation of the type of work required of
+Mr Jayawardana, different forms of work were more
+or less prevalent at different
+times. I consider Mr Jayawardana’s major and substantial employment
+includes each of these forms
+of work. However, I would exclude Wideband Work
+after May 2023, as I infer that since that time, Telstra no longer requires Mr
+Jayawardana
+to perform that work.
+was agreed that Mr Jayawardana’s ‘core role’ is to construct,
+repair and replace fibre optic cables in Telstra’s
+fibre network,
+including hauling, splicing and testing cables, filling in workbooks and using
+fibre record databases; installation
+of hardware such as patch panels and trays;
+and basic inspection and maintenance work. It was not in dispute that he
+performed this
+work across all parts of the network, including the CAN, IEN and
+within Exchanges.
+which are not in the agreed ‘core role’ list but which the evidence
+demonstrates Mr Jayawardana also performs
+(a) Repair and Maintenance Work: fault location and
+diagnosis; determining the method of repair to be executed; determining the
+requirements for the repair; liaison with other groups within Telstra
+depending on the escalation level of a fault.
+(b) Project Work: working to a design plan and
+contributing to redesign where required; and
+(c) Wideband Work: installation of customer equipment
+and arranging activation of equipment.
+find that each of the functions described in paragraphs
+form part of Mr Jayawardana’s
+major and substantial employment, as the functions described in paragraph
+arise in the context of, and in a
+qualitative sense are necessary incidents of, the categories of work and the
+agreed core functions.
+Similarly, accepting that the time Mr Jayawardana spends
+on major fault work and country fault work is limited, I conclude that this
+is part of Mr Jayawardana’s major and substantial employment. Performing
+this work is inherent to Mr Jayawardana’s
+Repair and Maintenance Work. The
+FMG is responsible for rectifying fibre faults, and Mr Jayawardana is required
+to attend the full
+range of faults allocated to him, whether they are major
+faults or located in the country.
+further conclude that Mr Jayawardana’s major and substantial employment
+also includes his APOC work given my finding that
+it is a function of his role,
+both in fact and pursuant to his contract. It is a necessary function, he
+performs it regularly, and
+as it is a 24-hour function, the proportion of his
+work time it makes up is at least comparable to the other categories of work
+identified.
+The fact that it is undertaken outside normal hours or that Mr
+Jayawardana receives an immediate recall allowance for this work (along
+overtime when required to work) do not derogate from this conclusion.
+WORK AND CLASSIFICATION OF OTHER CFW EMPLOYEES
+contrast to the detailed evidence as to Mr Jayawardana’s work, the
+evidence as to the broader range of functions, duties
+and roles covered by the
+CFW stream, within which to contextualise Mr Jayawardana’s work, was
+limited to other MFT work, employees
+in the DFST and to the witnesses
+themselves.
+DFST employees
+was agreed that the DFST comprises about 140–150 technicians who are
+mostly classified at CFW5, with some CFW7 and CFW4 technicians.
+performs wideband work across approximately 40 service types. DFST technicians
+deal directly with Wideband Delivery Specialists
+and manage between 10 and 12
+orders to completion at a time. This includes confirming appointments with
+customers, booking activation
+appointments or “cutovers” with the
+required workforce and coordinating inductions to secure sites. They then
+the required physical work on each order and update databases. DFST
+technicians are responsible for:
+(a) end to end
+management and coordination of multiple orders at a time, including resolving
+design and scope issues, optimising resources
+and consolidating
+infrastructure.
+(b) Managing resources, including engaging with
+other work groups and scheduling install dates with customers and
+technicians.
+(c) Installation and commission (activation) of equipment and fibre cabling.
+This includes making IPMAN/SMNG bookings through the
+Wideband Service Activation
+team who are accountable for activating the service and testing.
+(d) Stakeholder management, including scheduling
+dates for installation in direct consultation with the programming team,
+and technicians, liaising with InfraCo Service Delivery Leads (project
+coordinators), and managing design changes, ensuring installations
+design standards.
+(e) Using Telstra’s Ideal system, which is a work basket dispatch/order
+management system.
+Considine said, and I find, that he manages a team of three ‘wideband
+coordinators’ who are responsible for: managing
+the DFST work; dealing
+directly with Wideband Delivery Specialists; providing stakeholder updates and
+management; task coordination;
+resource management; and managing customer
+appointments.
+Cooper said, and I find, that the additional functions of the DFST are performed
+by CFW5 and CFW7 employees, not CFW4 employees.
+He said a CFW5 employee in the
+DFST is required to liaise directly with customers for appointments, make
+IPMAN/SMNG bookings, provide
+project coordinators with updates and use the Ideal
+system. These are not duties performed by a CFW4 technician or by Mr
+Jayawardana.
+Further, the CFW5 and CFW7 employees in the DFST do their own
+dispatching, customer interaction and organise support between themselves,
+whereas the wideband work of the MFT is just building the line system, splicing
+and jointing in the street, potentially connecting
+up a box in a customer's
+premises and getting another part of Telstra to commission and activate it.
+Cooper said, and I find, that in respect of wideband programs, the DFST liaises
+directly with Service Delivery Leads (program owners)
+for example in respect of
+designers, whereas the MFT liaise with one of the coordinators in Mr
+Cooper’s team who does that
+interaction for them, with the MFT just doing
+the physical street work and connecting the service.
+Complexity - DFST Wideband Work v MFT Wideband Work
+Cooper said the DFST Wideband Work is more complex than the MFT Wideband Work.
+For the most part I accept this evidence, on which
+Mr Cooper was not
+challenged.
+find that the Wideband Work of CFW5 and CFW7 employees in the DFST involves the
+following additional complexities compared to the
+Wideband Work of the MFT:
+(a) Undertaking a wider range of Wideband Work than the
+MFT: whilst there was no direct evidence as to what features of the other
+wideband work made it more complex, I accept the requirement to work across a
+larger range of service types in itself adds to the
+complexity of the role,
+noting my earlier finding that there is no difference in the physical cabling
+work required irrespective
+of the context;
+(b) Managing multiple wideband orders at a time: I
+accept that managing multiple orders at a time, rather than one, adds to the
+of the role;
+(c) Direct customer liaison: I accept that liaising
+directly with customers involves the exercise of a qualitatively different set
+of skills to the technical skills otherwise associated with the role and adds to
+the complexity of the role accordingly;
+(d) Coordination of secure site inductions: this is not
+a function required of the MFT in undertaking Wideband Work and I accept that
+adds complexity to the role;
+(e) Making IPMAN/SMNG bookings and use the Ideal
+system: I accept that the use of additional technology platforms adds to the
+of the role; and
+(f) Liaising directly with
+Service Delivery Leads, resolving design and scope issues, managing design
+changes and ensuring installations
+comply to design standards: I accept that
+more direct engagement with Service Delivery Leads (rather than through a
+coordinator)
+may add to the complexity of the role. However, I am not satisfied
+that ‘ensuring installations comply to design standards’
+anything additional to the work Mr Jayawardana undertakes when he builds a
+Wideband link in compliance with a design.
+Other witnesses
+find on Mr De Blasio’s uncontested evidence that his role is classified as
+CFW7 and his responsibilities include: arranging
+and scheduling work orders;
+communicating with stakeholders including customers and entities; allocating and
+scheduling work; arranging
+for external contractors where required; ensuring
+required paperwork and databases are correctly completed by technicians;
+completed job details via SharePoint (staff also have access to the
+SharePoint document and are able to update it); doing financials
+for faults and
+ensuring costs are captured; submitting FAPs for approval and assisting with
+implementing new systems, processes and
+CFW2 and CFW3 CJDs were not in evidence. Some witnesses gave evidence of having
+been employed in these classifications however
+I did not consider this evidence
+sufficient to form a view as to the work covered by them.
+Other MFT Work
+Jayawardana gave uncontested evidence that he performs the same work as all the
+other CFW5 employees in the FMG. The SOAF does
+not distinguish between the work
+of Mr Jayawardana and other technicians in the MFT. The Telstra witnesses did
+not address why employees
+performing the same work as Mr Jayawardana in the FMG
+are classified at CFW5, other than Mr Cooper’s evidence referring in
+non-specific way to legacy arrangements. Telstra submitted that it was not open
+to conclude that the work of other employees is
+relevantly the same as Mr
+Jayawardana, having not heard evidence from those other employees. I consider
+the evidence I have referred
+to is sufficient, and I find that Telstra currently
+classifies all but two employees who perform the same work as Mr Jayawardana
+the FMG as CFW5 employees.
+De Blasio said in cross examination that from 2007 to 2012, he was in the same
+team as Mr Jayawardana doing the same work that
+Mr Jayawardana is now doing. He
+was classified as a CFW4 until, without application, he and around 14 others in
+the team were ‘given’
+the CFW5 classification. When re-examined on
+this evidence, he said developments in technology since that time in the speed
+of splicing made the work quicker, helping those that undertake the
+work. Telstra submitted based on this evidence that it was not
+open to conclude
+that Mr De Blasio was performing the same work as Mr Jayawardana, as there may
+have been changes in technology impacting
+on the complexity of the work.
+However, I did not understand Mr De Blasio to be resiling from his clear
+evidence that the work he
+was performing was the same as Mr Jayawardana’s,
+albeit that splicing technology advances have helped by making it quicker.
+find that in 2012, Telstra reclassified about 14 staff in the FMG from CFW4 to
+CFW5, including Mr De Blasio, who was doing the
+same work as Mr Jayawardana.
+Jayawardana said CFW7 technicians in the FMG had been retrenched, with remaining
+staff now doing their work (including testing
+from the exchange). In respect of
+these employees, I preferred the more detailed evidence of Mr De Blasio, and I
+find based on this
+evidence that the group previously had CFW7 technicians,
+retrenched about 10 years ago, who had previously travelled across Australia
+performing highly specialised Polarization Mode Dispersion and Chromatic Mode
+Dispersion testing and kept their CFW7 classification
+on a grandfathered basis.
+Only the more basic parts of the work they did are now performed by current
+staff, being standard fibre
+testing and workbooks.
+Relevance of the classification levels of other employees
+Jayawardana submitted that the Court can presume that the other FMG employees
+performing the same work as Mr Jayawardana were correctly
+classified by Telstra
+as CFW5 employees. Telstra submitted that there may be commercial or industrial
+reasons for an employer classifying
+other employees performing the same or
+similar work at a higher level, such as rewarding valued employees, recognising
+seeking to retain workers in a competitive environment. Further, the
+proper classification of Mr Jayawardana is an objective question
+for the Court,
+to be determined by applying the proper construction of the CJDs to the findings
+of fact about the nature and complexity
+of his work, not with regard to the
+classification of the other fibre maintenance technicians in the MFT as CFW5.
+characterised its classification of like employees as CFW5 as equivalent to
+post-contractual conduct, which cannot inform
+the proper construction of the
+contract, citing
+FAI Traders Insurance Company v Savoy Plaza Pty
+and Colvin J in
+in respect of the position under industrial agreements
+[23] Further, the Agreement is not to be construed by reference to the conduct
+of parties subsequent to its approval. This position
+has been adopted in respect
+of industrial awards:
+City of Wanneroo v Holmes
+[1989] FCA 553
+(French J) (a decision quoted with approval in the context of industrial awards
+in the recent decision of
+as applied in
+). It is a position that applies to commercial instruments because
+they take their meaning at the time they were made, not as adjusted
+subsequent conduct. The same can be said of industrial agreements. Therefore, it
+is not legitimate to use anything the parties
+said or did after the agreement
+was made as an aid to construction:
+Agricultural and Rural
+Finance Pty
+Ltd v Gardiner
+[2008] HCA 57; (2008) 238 CLR 570 at
+accepted, consistent with principle 15 from
+that subsequent
+conduct may be relevant in an industrial context, however referred to
+Rail, Tram and Bus Industry Union v KDR Victoria Pty Ltd t/as Yarra
+as authority for the
+need for caution when drawing upon a suggested common understanding by the
+parties as an aid to constructing
+an agreement.
+issue gives rise to two questions. The first is whether the evidence permits a
+factual finding to be made that Telstra classifies
+the majority of employees
+undertaking the same work as Mr Jayawardana in the FMG as CFW5 based on the work
+they perform, and has
+not ‘overclassified’ those employees for other
+unrelated reasons. On this issue, I consider the Court is entitled to
+as a general proposition, that Telstra classifies its employees based on the
+work they perform. I consider this presumption
+is open because that is the very
+function of a classification structure such as the one being considered in this
+proceeding. I accept
+that there may be alternative reasons for classifying an
+employee above the legal minimum classification for their role. For example,
+direct evidence was given by Telstra as to the grandfathering of the CFW7
+employees in the MFT, based on their previous roles, and
+I have accepted that
+evidence. It was similarly within Telstra’s capacity to lead evidence that
+it classified almost all of
+the other employees in Mr Jayawardana’s team
+as CFW5, or Mr De Blasio and 14 other employees in his team when he was
+the same work as Mr Jayawardana for commercial or industrial
+imperatives, but it did not do so. In the absence of evidence from Telstra
+any alternative reason, I find that these employees were so classified because
+of their duties and functions.
+second question is what flows from that finding. I do not conclude that CFW5 is
+the correct classification for the other members
+of the FMG performing the same
+work as Mr Jayawardana because Telstra classifies them as such, or that this is
+consequently determinative
+of Mr Jayawardana’s classification. Whilst
+evidence of a common understanding is capable of being relevant to a
+construction
+of the CJDs, the evidence is insufficient to establish a common
+understanding. Not all current employees in Mr Jayawardana’s
+are classified as CFW5. I am unable to be satisfied that this has been the case
+over successive agreements, or in respect
+of all employees performing the same
+work as Mr Jayawardana, for example in other States, as the evidence did not
+address these matters.
+Further, the evidence is of a very general nature and
+does not detail the aspects of the CFW5 CJD which result in these employees
+being correctly classified as CFW5.
+the fact that Telstra classifies most DFST technicians as CFW5 is not evidence
+of the objective correctness of that classification,
+and neither is the fact
+that Telstra classifies Mr De Blasio as CFW7 determinative of his correct
+classification. Mr Jayawardana
+did not dispute these employees were properly
+classified as CFW5 and CFW7 respectively and accordingly, I accept they are
+for the purposes of this proceeding. But, appropriately, Telstra also
+relied on evidence as to the work of Mr De Blasio and the
+DFST technicians, as
+it assists in identifying the range of functions involving fibre technicians and
+the location of those functions
+within the CFW classification structure.
+Applying the principle from
+that each level of a
+classification structure must be read in the context of higher and lower levels
+of similar tasks with ascending
+and descending degrees of complexity, the Court
+must consider the work performed by Mr Jayawardana in the context of the range
+work performed by other employees. On that basis, I consider it permissible
+to have regard to the fact that other members of the
+FMG performing the same
+work as Mr Jayawardana are classified as CFW5 by Telstra. I find on that
+evidence that there are no distinguishing
+features and no greater complexity or
+degree of specialisation between the work performed by other employees in the
+FMG and Mr Jayawardana.
+Further, I find that there are no longer any CFW7
+employees in that team, meaning the most complex work within that team is
+by CFW5 employees.
+ISSUES RELATING TO THE INTERPRETATION OF THE CJDs
+turning to a detailed consideration of the CJDs, I have first considered several
+discrete issues as to the approach the Court
+should take to interpreting the
+Historical distinction between External and Internal work
+Ellery’s evidence outlined a historical differentiation between outside
+field work (called Lines or External Plant) and inside
+work (called Technical or
+Internal Plant) which he said informed the development of the CJDs. Telstra
+objected to Mr Ellery’s
+evidence based on relevance, submitting with
+reference to the principles in
+evidence could not assist the Court in construing the agreements in
+circumstances where there is no evidence that the people
+who voted up the
+agreements had any knowledge of the matters he refers to. I accept
+Telstra’s submission. There was no evidence
+that the history described by
+Mr Ellery was commonly known to either the bargaining representatives or the
+employees to which any
+of the relevant enterprise agreements apply. I have not
+had regard to this evidence.
+Telstra’s capacity to direct Mr Jayawardana to perform
+less complex tasks
+submitted that because Mr Jayawardana’s 2022 Contract permits him to be
+deployed flexibly, he could be required to undertake
+aspects of the CFW4 roles
+which he does not currently perform, and Telstra need not have required him to
+do so for those CJDs to
+C3.1 of the 2022 Agreement provides:
+C3 MULTIFUNCTIONAL WORK PROVISIONS
+C3.1 We may ask a CFW, TW or TPW employee to perform any function in their
+Workstream at or below the employee’s work Band.
+If they have the
+necessary tool set (i.e.: training, competency, tools, required equipment,
+vehicle etc), the employee will use their
+skills and ability to complete the job
+competently.
+consider that the assessment must be based on the scope of Mr
+Jayawardana’s major and substantial employment in accordance
+findings. I do not consider Telstra’s capacity to direct Mr Jayawardana to
+perform lower level work impacts his classification.
+Clause C3.1 supports this
+conclusion as it permits Telstra to direct Mr Jayawardana to perform lower band
+work without impacting
+his band within the workstream.
+Treatment of identical content in some or all CJDs
+are several instances of content common to some or all CJDs. Broadly described,
+these relate to working without supervision,
+customer service, compliance with
+policies and practices, contribution to the company’s financial wellbeing,
+desirable personal
+characteristics such as leadership and initiative and
+compliance with resource and deployment business rules.
+consider that common content reflects baseline expectations of all of the CJDs
+and each associated classification level. Most significantly
+in respect of Mr
+Jayawardana, I find that the requirement to work without supervision is a
+feature of each of the CJDs and each of
+the classification levels to which they
+relate. This is a clear and definitive statement that employees in the CFW4
+classification
+work without supervision. Accordingly, the fact that Mr
+Jayawardana works without supervision is not determinative of a higher
+classification.
+I otherwise do not regard common
+content within the CJDs to be of assistance in distinguishing between the CJDs
+in determining Mr
+Jayawardana’s classification level.
+The impact of changed technology on interpreting the
+was agreed that the CJDs primarily relate to older technologies such as copper
+which Mr Jayawardana does not work on. Whilst the
+Workstream Principles envisage
+the joint creation of new CJDs and allocation of those into Bands for ‘new
+or substantially
+altered jobs,’ neither party argued that those provisions
+had application to this matter, and both submitted that the existing
+(albeit different ones).
+submitted that the changed technology should inform the interpretation of the
+CJDs as their text largely describes functions
+associated with the copper
+network and indicates that they have not been updated since 2002. Further,
+Telstra submitted that the
+Court can safely infer from the well-publicised and
+fundamental nature of the change from copper to fibre that this was well known
+to the Telstra employees voting to approve the relevant agreements. Accordingly,
+the Court should have regard to ‘the gist’
+of the CJDs, irrespective
+of the changed technology, in the same manner that the powers in the Australian
+Constitution
+are interpreted in light of changed technology. Further, Telstra
+submitted that the typical functions remain relevant as illustrative
+complexity of work covered by each CJD.
+Jayawardana acknowledged that the CJDs have not kept up with the real way the
+work is now organised but submitted that Telstra
+still does copper work, and it
+is not simply a matter of substituting fibre for copper. There are elements of
+the CJDs which reflect
+current work practices, such as the reference to optic
+fibre jointing, and the CAN and IEN which continue to exist. Further, the
+typical functions associated with a CJD are the most significant indicators of
+the classification, as the words avoid subjective
+and general descriptions and
+are clear indicators of the work contemplated. I understood Mr Jayawardana to be
+contending that aspects
+of the terms in the CJDs should continue to be given
+their meaning so far as is possible notwithstanding this technological change,
+and a straight substitution of optic fibre functions for the copper network
+functions may not be appropriate.
+CJDs are capable of interpretation either with or without regard to the context
+of changed technology. However, an approach which
+ignored this context would
+require terms in the CJDs relating to the copper network to be applied as though
+those functions were
+still typical for technicians working on Telstra’s
+network, despite the majority being obsolete so far as the fibre network
+concerned. Further, many functions performed by Mr Jayawardana are not mentioned
+in the CJDs. If the change in technology is not
+considered, the absence of these
+functions from the CJDs would also be a relevant consideration. In my view,
+interpreting the CJDs
+without regard to the historical context would lead to a
+misapplication of their terms. Given those considerations, I conclude that
+interpretation of the CJDs must be informed by the fact that they have not been
+updated since 2002 and primarily refer to copper-based
+products and services. To
+my mind, this approach is permissible for the reasons submitted by Telstra.
+Further, given there has been
+no change to the CJDs despite successive
+renegotiations of the enterprise agreements that give them force, it follows
+that both Telstra
+and the employees to whom the agreements apply had a common
+understanding that the CJDs are capable of applying to optic fibre work.
+I also conclude that the Court should give effect to the text of the CJDs so far
+as it is capable of having ongoing application,
+provided the historical context
+is considered. Despite the technological change the CJDs continue to describe
+the network, and the
+nature of work on it.
+addition, the CJDs are capable of application insofar as they identify the
+purpose and other features of the roles in generic terms.
+This includes the
+desirable characteristics of a person holding each role and the relative
+complexity of the work to which each applies.
+I also consider it appropriate to
+have regard to the degree of complexity of specific functions related to the
+copper network notwithstanding
+that those functions are not relevant to Mr
+Jayawardana’s work.
+Specific interpretation issues flowing from the impact of
+changed technology
+light of my finding that the CJDs are to be read in light of the changed
+technology, I have rejected the following specific submissions
+as to how to
+interpret the CJDs.
+Mr Jayawardana submitted that the absence of a reference to fibre optic jointing
+in the CFW4 Installer/Repairer CJD meant
+that it did not apply, a demarcation
+which he submitted did not extend to the CFW5 and CFW7 CJDs. Telstra submitted
+that because
+the CFW4 CAN Infrastructure Build CJD includes a specific reference
+to fibre optic jointing, whereas the other CJDs do not mention
+fibre optic
+jointing, work which typically involves a lot of fibre optic jointing is
+indicative of a CFW4 classification. I do not
+consider the absence of a specific
+reference to fibre optic cable in the CJDs is indicative that they do not apply
+to fibre optic
+cable work. Rather, I conclude that this reflects the CJDs having
+been developed at a time when fibre optic cabling was not a significant
+the network. I consider it more likely that the reference to fibre optic
+jointing in the CAN Infrastructure Build CJD, at
+a time where it was relatively
+rare on the network, reflects that fibre optic jointing work was permissible for
+employees in that
+classification, not that fibre optic jointing could
+be performed by those employees. The contrary approach would have
+the effect that all work associated with fibre optic jointing,
+irrespective of
+its complexity, must fall within the CAN Infrastructure Build CJD, and the CFW4
+classification. This was not contended
+for by either party. Mr Jayawardana
+contended this work was covered by the CFW5/CFW7 CJDs. Telstra also accepted
+that fibre optic
+fibre cabling work may be performed across each of the CJDs,
+but with a transition from more simple cabling work with a prescribed
+solutions dealt with in the CFW4 and CFW5 roles to very complicated cabling work
+encompassed by the CFW7 role.
+Mr Jayawardana submitted that because the CFW4 CJDs do not refer to completing
+workbooks and using databases, they do not
+apply to him. Telstra submitted that
+completing workbooks and using fibre optic cable databases is not indicative of
+CFW5 or CFW7
+classifications because these CJDs do not refer to those tasks. It
+is unsurprising that this work is not described in the CJDs given
+specific to the optical fibre network and the CJDs primarily describe the copper
+network. I conclude that the absence of
+these functions from the CFW4, CFW5 or
+CFW7 CJDs does not mean that those classifications do not apply.
+Location of work on the network - the CAN, IEN and
+Jayawardana submitted that the distinction between CAN and IEN is significant,
+with the IEN work having greater importance because
+of the potential for greater
+network disruption. Telstra submitted that it doesn’t matter where the
+work is undertaken as the
+task is the same, ‘fibre is fibre’, and
+there is no increased complexity in IEN work as opposed to the CAN work.
+CJDs in some instances describe work by reference to a specific part of the
+network. Most significantly, the CAN IB CFW4 CJD refers
+to work on the CAN, and
+the Installer/Repairer CFW5 CJD refers to the IEN. Notwithstanding the changes
+in technology, the network
+continues to be subcategorised in this way. Having
+found that cabling work across the network is common, I nonetheless conclude
+meaning must be given to these textual references.
+am reinforced in this view by the terms of the 2022 Agreement, which must be the
+starting point for assessing the application of
+the CJDs. The Customer Field
+Workstream description comprises the outer limits of the work which is then
+classified within it. The
+description of the Customer Field Workstream states:
+Employees engaged in Customer Access Network (CAN) construction
+in the end to end installation, operation, maintenance and
+repair of all services for customers
+in the supervision
+and/or direct operational support of such employees and the testers in the
+service assurance call centres.
+(emphasis added)
+is apparent from this description that there are three subcategories of
+functions described, one of which is CAN construction,
+and another of which is
+‘end to end installation, operation, maintenance and repair of all
+services for customers.’ The
+definition recognises these as two separate
+streams of work.
+ignore these similar subcategories as they are reflected in the CJDs would be to
+overlook the distinction drawn in the 2022 Agreement,
+as well as the clear words
+of the CJDs as to the parts of the network on which work is performed, on the
+basis that the work performed
+on each is materially the same. In my view, this
+would conflate the issue of the relative complexity of the work with the issue
+where the work is performed. Complexity of the work is an important
+consideration in light of other aspects of the CJDs, but it does
+not follow that
+the only distinguishing consideration as to the operation of the CJDs is
+complexity.
+greater potential for customer disruption on the IEN than the CAN would provide
+a reasonable explanation for the drawing of a
+distinction by the parties.
+Further, Mr Cooper’s evidence as to P1 Exchanges illustrates that Telstra
+itself distinguishes
+between cabling work where it is undertaken in a P1
+Exchange as opposed to elsewhere on the network. However, ultimately, the
+reasons for describing some functions with respect to only parts
+of the network is irrelevant. The CJDs are based on an industrial
+agreement. It
+was open for the parties to do so for reasons unrelated to the complexity of the
+work and I consider that to be what
+the text of the CJDs reflects. Accordingly,
+I have had regard to descriptors in the CJDs relating to the parts of the
+which work is performed in considering their application.
+Can both of the CFW4 CJDs be considered together?
+Jayawardana submitted that the Court must identify the single CJD that best
+applies to his role to determine the applicable classification
+submitted that it is not permissible to identify some functions from each of the
+two CFW4 CJDs and conclude based on a
+combination of them that Mr Jayawardana is
+appropriately classified as a CFW4. On the other hand, Telstra submitted that
+is not required to distinguish between them, because if the Court is
+satisfied that the principal function and purpose of Mr Jayawardana’s
+employment is better characterised as falling across both of the CFW4 CJDs,
+rather than the CFW5 and CFW7 CJDs, it follows that CFW4
+is the correct
+classification.
+2022 Enterprise Agreement, at principle C1.2(b) regarding allocation of an
+employee to a Workstream, provides that each Band within
+a Workstream will have
+agreed ‘representative Core Job Descriptions’ and there ‘may
+be more than one Core Job Description
+for each Band. Further, the definition of
+CJDs states they are ‘Job descriptions’... [which] have been graded
+into Bands, and ‘align particular job duties with Bands’.
+I find based on these provisions that the CJDs are ‘representative’
+of the jobs which fall within a particular Band. They permit more than one CJD
+per Band. Accordingly, I consider the correct approach
+is to have regard to both
+CFW4 CJDs in determining Mr Jayawardana’s classification.
+‘Horizontal’ and ‘vertical’ reading of
+Mr Jayawardana submitted that the CJDs must be read both ‘horizontally and
+vertically.’ Telstra also accepted
+that a holistic assessment of each CJD
+is required, as various components interact with each other. I agree it is
+necessary to undertake
+both exercises. A ‘horizontal’ reading of the
+CJDs is consistent with the accepted principle from
+above. The definition of CJDs in the 2022 Agreement provides that it is the
+‘job descriptions’ which have been
+graded and placed into Bands.
+Whilst this includes aligning ‘particular job duties’ with Bands, I
+consider it necessary
+to consider these duties in the context of the CJD as a
+whole. A ‘vertical’ or holistic reading of each CFW4 CJD means
+despite both yielding the same classification level, the context in which a
+function appears within those CJDs remains relevant.
+DETAILED COMPARISON OF THE CJDs
+follows is first, a comparative ‘horizontal’ analysis, then
+secondly, analysis of the applicability of each of the
+Jayawardana’s major and substantial employment, having regard to both the
+horizontal analysis and a vertical or
+holistic consideration of each CJD.
+title of the CAN Infrastructure Build CFW4 CJD is materially different from the
+Installer/Repairer CJDs. Whilst the Installer/Repairer
+titles are generic and
+broad and reference a ‘repair’ function, the CAN Infrastructure
+Build title reflects a job which
+is specific to the CAN and relates to
+infrastructure building.
+Job Purpose – primary role
+statements of ‘Job purpose - primary role’ in the CJDs are
+self-evidently a significant feature of the CJDs, as a
+broad overarching
+statement of the role. As this feature is identical between the CFW4 and CFW5
+Installer/Repairer, it follows that
+there is substantial similarity between
+these two CJDs. There are qualitative differences between the CAN Infrastructure
+and the Installer/Repairer CJDs. The CAN Infrastructure Build CJD is
+limited to ‘the full range of construction, provisioning
+& Maintenance
+activities’ whereas the Installer/Repairer CJDs do not refer to
+‘construction’ or ‘provisioning’
+activities but instead
+refer to ‘end to end installation, repair and maintenance
+functions.’ Additionally, the CAN Infrastructure
+Build CJD limits the
+activities described to the CAN whereas the Installer/Repairer CJDs instead
+describe functions associated to
+‘telecommunications products and
+services.’ Further, the CFW7 CJD describes a role with additional
+complexity of functions,
+products and services.
+Job purpose – typical functions
+Generic statement
+generic statement of typical functions is also a significant aspect of the CJDs.
+It is a broad statement of the expected functions
+of the role. It takes on
+greater significance given the extent to which the examples of typical functions
+which follow relate to
+the copper network.
+aspect of the CJDs requires an assessment of the relative complexity of the
+diagnostic process undertaken by Mr Jayawardana and
+the breadth of the range of
+solutions from which he must select. A CFW4 is required to undertake
+‘prescribed diagnostics’
+and determine the course of action from a
+‘limited range of solutions’, a CFW5 is required to undertake
+prescribed diagnostics’ and determine the course of action
+from a ‘range of variable solutions’, and a CFW7 is
+required to
+undertake ‘very
+complex diagnostics’ and determine the course
+of action from a ‘wide range of variable
+solutions.’
+assessment is material to determining Mr Jayawardana’s classification and
+is considered in detail below.
+CJD states ‘typical functions could include, but not exclusive to’
+then lists typical functions. Most of the typical
+functions for each of the four
+CJDs can be categorised into four subject matters. Broadly described, these
+subject matters are:
+(a) Repair and maintenance of the network, or part of
+(b) Installation and repair of CPE products and
+cabling, and associated work;
+(c) Work on small and large Pair Gain Systems and
+Radio-based connections; and
+(d) Non-network interference and network interference
+work involving switches and transmission.
+Repair and maintenance of the network, or a part of it
+the four common subject matters, I find that this is the most relevant as it
+best describes a key part of Mr Jayawardana’s
+major and substantial
+employment, being Repair and Maintenance Work, in particular rectifying fibre
+faults. The other subject matters
+have less or no direct relevance to the work
+undertaken by Mr Jayawardana.
+relevant typical function for Installer/Repairer CFW4 is ‘Repair and
+Maintenance of the Customer Access Network including
+Cable TV.’ For
+Installer/Repairer CFW5 it is ‘Repair of complex and difficult CAN
+transmission and interexchange network
+faults (ESD)’. For
+Installer/Repairer CFW7 it is ‘Highly specialist complete Repair and
+Maintenance of Network and Service
+affecting Faults and Isolations associated
+with Switches and Transmission activities (eg. difficult and complex fault
+rectification,
+outage recovery, complex switch fault rectification, DRCS, RIM,
+S12, AXE and Customer Radio).’
+CAN Infrastructure Build CJD does not include a ‘repair and
+maintenance’ related typical function. However, it includes
+the typical
+function ‘Highly skilled cable jointing (eg. Complex Cable Jointing, Fibre
+Optic Jointing).’ The parties
+agreed this function is without
+equivalent.
+However, given my
+finding that optic fibre cabling work is encompassed by each of the
+and the majority of Mr
+Jayawardana’s cable jointing is undertaken in the course of his Repair and
+Maintenance Work, I consider
+this typical function must be viewed in the context
+of the repair and maintenance functions in the other CJDs.
+scope of, and difference between, the CFW4 and CFW5 Installer/Repairer repair
+and maintenance function is material in determining
+Mr Jayawardana’s
+classification and is considered in detail below.
+Installation and repair of CPE products and cabling, and
+associated work
+relevant typical function for ‘Installer/Repairer CFW4’ is
+‘Installation or Repair of Complex CPE Products and
+Cabling (eg. PABX,
+SBS, Data & Special Services, Mobiles, Media & Broadcast Services,
+associated MDF
+activities).’
+The relevant
+typical function for Installer/Repairer CFW5 is identical to this, except that
+‘MDF activities’ is replaced
+by ‘Exchange work’. The
+relevant Installer/Repairer CFW7 function is ‘Specialist complex repair of
+CPE (eg. PABX,
+Data, Media, & Broadcast services, associated Exchange
+elements). [sic] and/or CPE related networks.’ This group of functions
+remains relevant despite many of the specific examples of relevant equipment
+being copper-related, as CPE products and cabling continue
+to exist on the optic
+fibre network. Further, Mr Jayawardana’s major and substantial employment
+insofar as it includes Wideband
+Work involves some limited installation of
+customer equipment.
+CFW7 descriptor is clearly distinguishable from the CFW4/CFW5 descriptors, as it
+describes ‘specialist’ complex repair.
+I do not consider Mr
+Jayawardana’s work installing customer equipment can be characterised in
+this way. I find that the CFW7
+descriptor does not have application to Mr
+Jayawardana’s Repair and Maintenance work. Regarding the CFW4/CFW5
+descriptor, the
+parties both accepted that MDF activities are similar to the
+patch panel work which Mr Jayawardana undertakes on optical fibre. However
+whilst Mr Jayawardana performs patch panel work and exchange work as part of his
+Project Work, the evidence does not establish that
+either is undertaken in
+association with his Wideband Work installing customer equipment. Accordingly I
+find there is no basis to
+distinguish between the applicability of the CFW4 or
+CFW5 descriptor in respect of Mr Jayawardana’s work.
+Work on small and large Pair Gain Systems and Radio based
+connections.
+CAN Infrastructure Build CFW4 CJD includes the typical function ‘Large
+Pair Gain System Installation (eg RIM, DRCS, Customer
+Radio).’ Whilst, by
+way of the Table at Appendix 1, the parties did not identify any typical
+functions of the same nature from
+the other CJDs, each of them in fact include
+functions relating to Pair Gain Systems and Customer Radio as follows:
+(a) Installer/Repairer CFW4: ‘Installation &
+Repair of Fixed Radio Access/Small Pair Gain Systems;’
+(b) Installer/Repairer CFW5: ‘Repair and
+Maintenance of Large Pair Gain Systems (eg. RIM, DRCS & Customer
+along with a reference to ‘RIM’ and ‘RCM’
+in the typical function relating to network interference, considered
+(c) Installer/Repairer CFW7: ‘DRCS, RIM and
+Customer Radio’ are listed as examples of the ‘Highly specialist
+Repair and Maintenance of Network and Service affecting Faults and
+Isolations associated with Switches and Transmission activities.’
+on the agreed description of terms, I am satisfied that each of these functions
+are related. A Pair Gain System is effectively
+a ‘mini exchange’
+installed at (or near) customer premises that allows a single line to the
+exchange to be used to support
+multiple lines to customer premises. Pair Gain
+systems can be small or large depending on the number of lines.
+stands for ‘Remote Integrated Multiplexer’, a type
+of pair gain system. ‘RCM’ is a Pair Gain System. ‘DRCS’
+stands for ‘Digital Radio Concentrator System’, a radio-based
+connection from customer premises to exchange. ‘Customer
+another radio based customer connection system.
+Mr Jayawardana and Telstra accepted Pair Gain Systems are a feature of the
+copper network. (in the case of Telstra, with the
+exception of
+‘RIMs’). It was agreed that Mr Jayawardana does not work on Pair
+Gain equipment, however he may at times
+work on a fibre optic cable connected to
+a RIM. I infer from this that RIM Pair Gain Systems interact in some way with
+fibre network. However, this group of typical functions is concerned
+with installation, repair and maintenance of the Pair Gain Systems
+connections themselves, not associated cabling work. Both parties also accepted
+that radio-based connections are not a
+feature of the optic fibre network. Mr
+Jayawardana does not work on DRCS or Customer Radio Systems.
+submitted that typical functions of the CFW5 and CFW7 (but not CFW4) CJDs
+included: repair of large Pair Gain Systems, RIMs,
+RCM, DRCS, customer radio and
+DRCS. Accordingly, Telstra submitted that one of the differentiators between the
+CFW4 CJDs on the one
+hand and the CFW5 and CFW7 CJDs on the other is that the
+latter typically involve complex repair of complex equipment. The CFW7 typical
+function refers to ‘highly specialised’ repairs of this equipment,
+and I find that this indicates complex repairs. However,
+I find that the
+installation and repair of the same kinds of equipment (small and large Pair
+Gain Systems and Customer Radio) is
+also provided for in the CFW4 CJDs. Neither
+the CFW4 or CFW5 CJDs refer to the equipment or repair as complex. Accordingly,
+not conclude that the CFW5 role typically involves complex repair of
+complex equipment based on this group of functions.
+indicating in a general sense that the work of CFW7 technician is more
+specialised than the other classifications, I do not
+consider the range of
+typical functions relating to Small or Large Pair Gain Systems, or Customer
+Radio, assists in the allocation
+of a classification to Mr Jayawardana. Mr
+Jayawardana does not perform any of the work described in any of the typical
+because they are functions overwhelmingly concerned with the copper
+network. Even if I assume that there is equivalent equipment
+on the optic fibre
+network, Mr Jayawardana’s failure to perform work on equipment does not
+give rise to any presumption that
+he falls outside one or other of the relevant
+CJDs, because each of them includes this function. Accordingly I have not
+this group of functions further.
+Non-network interference and network interference work
+respective typical functions in this group
+(a) Installer/Repairer CFW4: ‘Non-network
+Interference work on Switches & Transmission (eg Alarm resets, board changes
+GOC direction, line conditioning and testing);’
+(b) Installer/Repairer CFW5: ‘Repair and
+Maintenance of potential Network interference and service affecting Faults and
+associated to Switches and Transmission Systems (eg. Special service
+jumpering, fault rectification and hazardous board replacement
+under direction
+from GOC, RIM, RCM Faults, etc).’
+(c) Installer/Repairer CFW7: ‘complex switch
+fault rectification,’ ‘S12’ and ‘AXE’ are listed
+as examples of the ‘Highly specialist complete Repair and Maintenance of
+Network and Service affecting Faults and Isolations
+associated with Switches and
+Transmission activities’ (S12 and AXE are systems that form part of the
+telephone network core).
+was agreed that ‘network interference’ refers to dealing with
+electrical interference or radio frequency interference,
+a common source of
+faults on the copper network but virtually non-existent on the fibre optic
+network. ‘Non-network Interference’
+means work that does not involve
+dealing with electrical interference or radio frequency interference. Switches
+and transmission
+are types of equipment attached to a line. ‘Board
+changes’ means replacing a circuit board in a piece of equipment.
+‘Jumpering’
+is a type of interfacing from copper lines to equipment.
+‘Hazardous board replacement’ means replacing circuit boards
+hazardous circumstances. Mr Jayawardana does not replace circuit boards or
+repair any equipment. Mr Jayawardana does perform line
+parties submitted that aspects of this group of functions are relevant to optic
+fibre. Telstra submitted that Mr Jayawardana
+performs ‘non-network
+interference’ work, the CFW4 descriptor is sufficiently generic to apply
+to both the optic fibre
+and copper networks, and that whilst some terms are
+related to copper technology, Mr Jayawardana undertakes ‘line conditioning
+and testing.’ Mr Jayawardana submitted that the CFW7 descriptor was most
+relevant because optical fibre work is highly specialist
+work needed to
+accomplish a complete repair or maintenance of the network, and that the
+description of the CFW5 repair of network
+interference in consultation with the
+GOC function is also comparable to his work with the GOC to coordinate the
+managed approach
+to an optical fibre outage.
+am not persuaded by the submissions of either party that any of the work
+performed by Mr Jayawardana is described by any of these
+typical functions. The
+SOAF states ‘the fibre optic network is not subject to electrical or radio
+frequency interference, so
+Mr Jayawardana’s work is non-interference
+work.’ This appears to be based on the flawed logic that because Mr
+Jayawardana
+does not perform ‘network interference’ work, he
+therefore performs ‘non-network interference’ work. I reject
+construction. Mr Considine, on whose evidence this agreed fact was based,
+confirmed that both descriptions related to the copper
+that, each party’s submission involved selecting discrete phrases out of
+context. Whilst Mr Jayawardana does perform
+line testing work, the evidence does
+not disclose what the associated function of line ‘conditioning’
+means, and the
+reference to line testing in the CFW4 typical function is clearly
+within the context of (copper-based) non-network interference work
+on switches
+and transmission. Beyond describing switches and transmission as types of
+equipment attached to a line, the evidence
+does not disclose what type of
+equipment, or whether the equipment is present in the optic fibre network, or if
+not whether there
+is equivalent equipment in the optic fibre network. Similarly,
+the CFW5 and CFW7 functions referred to by Mr Jayawardana’s
+submissions
+are all related to switches and transmissions, or network interference work on
+the copper network, which is not a feature
+of the optic fibre network. I find
+that Mr Jayawardana does not perform work described in this group of functions,
+because they are
+functions overwhelmingly concerned with the copper
+group of typical functions does however illustrate a progressive increase in
+complexity in the work performed. Based on the evidence
+as to network
+interference work on the copper network, I accept it was more complex than
+non-network interference work on the copper
+network, placing the CFW5 CJD in a
+tangibly different category of complexity than the CFW4 CJD. A further degree of
+difference is
+evident in the distinction between the CFW4 function of
+‘board changes’ under GOC direction and the CDW5 function of
+‘hazardous board replacement’ under direction from GOC. The CFW7 CJD
+describes more specialised work. Telstra submitted,
+and I accept, that the CFW7
+descriptor insofar as it relates to complex switch fault rectification, repair
+of S12 and AXE, means
+that a typical function of the CFW7 role is the
+performance of complex repairs of complex equipment. Accordingly, this group of
+functions demonstrates in a general way that the complexity of the work
+increases from CFW4 to CFW5 to CFW7 classifications. Beyond
+this, I do not
+consider this group of functions to be of assistance in determining Mr
+Jayawardana’s classification level.
+Examples without equivalent in other CJDs
+of the five typical functions for the CAN Infrastructure Build CFW4 CJD have no
+equivalent in any of the other CJDs. The first
+is ‘Complex CPAS (eg.
+Installation and Repair of APCAMS)’: CPAS stands for ‘Cable Pressure
+Alarm System’
+and APCAMS stands for ‘Air Pressure Cable Alarm
+Monitoring System’. These are the sensors and systems used to detect
+in pressurised cables. This work is unrelated to optic fibre cables and I find
+it is not of assistance in determining Mr Jayawardana’s
+classification.
+second is ‘Party Leader up to 9 Staff undertaking Pit, Pipe, Conduit Cable
+or Service Installation, or Party Leader of a
+small team undertaking Directional
+Boring (i.e.10,000 Lbs force), Large Mole Plough, Complex Hauling etc’
+Construction function
+). Directional boring means using a special
+steerable drill to bore a horizontal underground hole between two points, into
+which conduit
+can then be inserted. Mr Jayawardana does not perform that work.
+Mr Considine said, and I accept, that there are no directional boring
+Telstra, but there would have been back in the day. Ploughing is the process of
+using a plough to cut a trench in the ground
+from above and insert conduit into
+that trench. Mr Jayawardana does not perform that work. Mr Jayawardana performs
+hauling work,
+limited to cable of 120 metres length or less, beyond which
+external contractors are engaged by Telstra. I consider the Construction
+Function largely describes the physical construction of the infrastructure
+underpinning the copper network. However, I consider it
+relevant to determining
+Mr Jayawardana’s classification. Because hauling work is not otherwise
+referred to in the other CJDs,
+I find that the reference to complex hauling, in
+the context of the CAN, indicates hauling work is no higher than a CFW4
+third is ‘Pole Inspection.’ The parties agreed that pole inspection
+relates to the inspection of telephone poles,
+and Mr Jayawardana performs this
+work as part of his General Inspection work. I find that this work is indicative
+of a CFW4 classification.
+of the five typical functions for Installer/Repairer CFW4 has no equivalent in
+any of the other CJDs, being ‘Repair and
+Maintenance of Simplex Products
+& Services (eg. Single line services, OnRamp, basic Data, public Payphones
+& associated products
+i.e.: TOPS, COPS)’
+services means single line services. ‘OnRamp’ was a Telstra
+Integrated Services Digital Network
+that ran over the copper network.
+‘Basic Data’ refers to data services and equipment, such as a
+dial-up or ADSL services.
+Accordingly, these functions relate to the copper
+network. Telstra submitted that simplex products and services refers to a single
+line service which may or may not be fibre or copper as it can be assumed that
+single lines of fibre go to various homes and in these
+circumstances the
+descriptor applies to both copper and fibre and applies to Mr Jayawardana. I
+accept that Mr Jayawardana may work
+on single fibre services to homes. To the
+extent he does, this is indicative of a CFW4 classification. However, this is an
+reflection of Mr Jayawardana’s cabling work, which based on my
+findings above goes well beyond single fibre services. ‘TOPS’
+‘COPS’ refer to payphones. Mr Jayawardana does not work on the
+copper network, maintain or repair payphones. However,
+he does inspect and clean
+payphones and to this extent maintains them. I find that this work is indicative
+of a CFW4 classification.
+of the five typical functions for Installer/Repairer CFW5 has no equivalent in
+any of the other CJDs, being ‘Install and
+replace exchange cards.’
+This refers to active equipment in an exchange. Mr Jayawardana occasionally
+bolts an exchange card
+to a rack as part of Project Work. I find that this
+constitutes installation, and this work is indicative of a CFW5 classification.
+Accountabilities
+are six ‘Accountabilities’ for each CJD, and four of them are
+identical for each CJD. All of the accountabilities
+are identical for
+Installer/Repairer CFW4 and CFW5, again contributing to the substantial
+similarities between these classifications.
+accountabilities largely identify outcomes to be achieved by a person in each
+role, but also at times describe functions of the
+role. To the extent there are
+differences between them, I consider them material to determining Mr
+Jayawardana’s classification.
+first accountability for the CAN Infrastructure Build CJD is to ‘achieve
+faultless end to end construction, provisioning
+& Maintenance of the
+customer access network and associated infrastructure’ whereas the first
+accountability for each of
+the Installer/Repairer CJDs are to ‘achieve
+faultless end to end fault rectification and installations.’ There are
+differences
+in both the subject matter and the scope described, with the former
+confined to the CAN and related to construction, provisioning
+and maintenance,
+including of associated infrastructure, and the latter not confined to the CAN,
+and related to fault rectification
+and installations. The Installer/Repairer
+CJDs also refer to the ‘utilisation of instruments and tools from remote
+points within
+the network’ and the CAN Infrastructure Build CJD does not.
+The reference to utilisation of instruments and tools from the
+remote parts of
+the network in the Installer/Repairer CJDs indicates that this is a function of
+that group of CJDs but not the CAN
+Infrastructure Build CJD. Having found that
+Mr Jayawardana works across the network and utilises instruments and tools
+I find that the accountabilities to be indicative that the
+‘Installer/Repairer’ CJDs apply.
+accountabilities for the CFW7 CJD differ from CFW4/CFW5 in degree, referring to
+compliance with ‘standards’ not ‘prescribed
+standards,’
+‘expert’ rather than ‘proficient’ use of instruments and
+tools, ‘planned and complex
+routine’ activities rather than
+‘planned activities’ and ‘network & service
+infrastructure’ rather
+than ‘infrastructure.’ In each case the
+CFW7 accountabilities require a higher degree of autonomy and complexity than
+the other CJDs.
+Qualifications – Mandatory (no person to occupy job
+without this)
+CJDs mandatory qualifications are in fact not mandatory, but
+‘typical’. The CAN Infrastructure Build CJD identifies
+Machinery licence as typical, whereas the Installer/Repairer CJDs do not. This
+is consistent with the emphasis of this CJD
+on construction of the
+infrastructure for the copper network. The two CFW4 CJDs identify ‘Austel
+Cabling Licence’ as
+typical whereas Installer/Repairer CFW5 and CFW7
+identify ‘Austel BCL/CATS cabling licence.’ The evidence does
+not disclose the difference between them. I find the inclusion
+licences as typically required for CFW5 and CFW7 roles is consistent with
+cabling being a function of each of those roles.
+Qualifications/Experience level – desirable
+CJD lists three criteria under ‘Qualifications/Experience Level –
+Desirable’ which introduce into consideration
+the personal skill level and
+experience of the individual performing the role. The first criteria is the only
+one which is not common
+across the CJDs, and differs between the CFW5/CFW7 CJDs
+on the one hand and the CFW4 CJDs on the
+distinguishing features are that an employee at the
+top of each respective level will demonstrate the following experience and
+attributes:
+(a) ‘high level of procedural and systematic
+proficiency’ (CFW4) compared to a ‘very high level of procedural and
+systematic proficiency’ (CFW5/CFW7);
+(b) ‘well developed’ (CFW4) compared to
+‘very well developed’ (CFW5/CFW7) broad technical skills;
+(c) typically, but not being restricted to, having
+‘four years’ (CFW4) compared to ‘six years’ (CFW5/CFW7)
+relevant experience in at least one of the functional areas defined in the job
+(d) ‘logistical skills’ (CFW4) compared to
+‘well developed’ (CFW5/CFW7) logistical skills for determining
+(e) ‘personal organisation’ (CFW4) compared
+to ‘well developed personal organisation’ (CFW5/CFW7);
+(f) Sound knowledge of ‘basic data
+products’ (CFW4) compared to ‘data products’ (CFW5/CFW7); and
+(g) First level leadership skills on site (CFW4) with
+no equivalent in CFW5/CFW7.
+the criteria are stated to be desirable only, they are in fact the only tangible
+indication of the personal characteristics
+required of a person holding the
+respective roles. I therefore consider that this aspect of the CJDs should be
+given appropriate
+weight in determining Mr Jayawardana’s classification.
+This is considered further below.
+Australian Qualifications Framework (AQF) Relativities
+underneath the heading ‘Qualifications/Experience –
+desirable,’ each of the CJDs contains a subsection stating:
+Australian Qualifications Framework Relativities
+A person who is assessed as fully competent at this work level and across all
+functions performed in this position analysis, would
+be eligible to attain the
+following Australian Qualifications Framework Competencies and/or certificates.
+CJD then lists the competencies as summarised in the Table at Appendix 1.
+Following the specification of competencies, each CJD
+states ‘NOTE;
+Applicable, relevant competencies as identified on 1 October 1998, these can be
+varied from time to time as Industry
+standards are adjusted.’
+Jayawardana submitted that the AQF relativities are not relevant as they are
+‘reverse qualifications’ which recognise
+skills obtained by
+employees while working for Telstra, rather than requiring those skills of an
+employee. Telstra submitted that
+notwithstanding this, the competencies inform
+what an employee must be able to do in order to do the job competently, and who
+be hired into the position.
+AQF relativities differ between the two CFW4 roles. The only qualifications
+attainable by a CAN Infrastructure Build employee
+performing all the functions
+of that role are limited to cabling (Certificate ii) and the CAN (Certificate
+iii). In contrast, the
+qualifications attainable for an employee performing all
+the functions of the Installer/Repairer CFW4 role include cabling but at
+higher (certificate iii and iv) level, a lower number of CAN competencies, and
+include ‘telecommunications’ competencies
+(a general term, the
+subject or subjects of which is not discernible from the CJDs) and CPE
+competencies. Further, the AQF relativities
+differ between the CFW4 roles, on
+the one hand, and the CFW5/CFW7 roles on the other, for which they are
+identical. The qualifications
+attainable for an employee performing all of the
+functions of a CFW5/CFW7 role do not include cabling qualifications at all, but
+include higher level ‘telecommunications,’ ‘CAN’ and
+‘CPE’ qualifications.
+submitted that the AQF relativities indicate cabling work is an important part
+of the CFW4 roles but not the CFW5/CFW7 roles,
+and that complex CPE work is one
+of the distinguishing factors between the CFW5/CFW7 roles on the one hand and
+the CFW4 roles on
+the other. In support of this contention, Telstra relied on
+the 2001 Curriculum Document
+which identifies the competency units within each of the qualifications
+listed in the CJDs, at the date the CJDs were issued. Telstra
+submitted that
+because the CJDs refer to the qualifications, the qualifications in turn inform
+the content of the CJDs. The 2001
+Curriculum Document was tendered by consent,
+however Mr Jayawardana submitted that Court must look to the industrial
+agreement to
+determine the classification, not the 2001 Curriculum Document
+which sets out industry standards which may not be aligned. I have
+reservations
+in using the 2001 Curriculum Document to interpret the CJDs, given the lack of
+evidence that it was considered by the
+negotiating parties or accessible to
+employees voting on the enterprise agreements some 13 years later. However,
+given that it establishes
+objectively (by reference) the content of the
+qualifications referred to in the CJDs at that time, I have had regard to it.
+Ultimately,
+it has not altered the conclusions I would otherwise have drawn from
+the text of the CJDs themselves.
+submitted that the competency units within the qualifications for the CFW4 CJDs
+included several cabling and optical fibre
+related competencies which suggest
+that the following tasks can be done within a CFW4 role: installing conduits
+and cable; splicing
+cable; testing cable and identifying, locating and
+rectifying faults; performing cut-overs; installing trays and equipment;
+identifying
+requirements and preparing design drawings and specifications for
+cabling installation; and supervising cabling work. In contrast,
+the competency
+units falling within the qualifications for CFW5/CFW7 included a range of CPE
+related functions including complex
+and very complex CPE faults, suggesting that
+this focus on complex CPE work is a significant distinction from the CFW4 roles.
+find that the AQF relativities are relevant to an interpretation of the CJDs
+insofar as they provide a point in time snapshot of
+the equivalent
+qualifications for an employee performing every function within each CJD. Having
+regard to both the text of the CJDs
+and the 2001 Curriculum Document, I conclude
+that the AQF relativities indicate that cabling work is a greater focus of the
+CJDs than the CFW5/CFW7 CJDs, and that CPE work is a greater focus of the
+CFW5/CFW7 CJDs than the CFW4 CJDs. However, for the reasons
+set out below, I
+have given them less weight in determining Mr Jayawardana’s classification
+than other matters.
+there are also competencies which on their face may be relevant to Mr
+Jayawardana’s work amongst those provided for
+under the CFW5/CFW7 CJD.
+(a) 3 of 5 required competencies for Certificate iv in
+telecommunications (CAN). Competencies which on their face appear relevant
+the work of Mr Jayawardana include, for example: supervise cabling project;
+assign a transmission path; schedule resources; remotely
+locate and identify
+cable network faults; locate and diagnose cable faults.
+(b) 2 of 5 required competencies for Certificate iv in
+Telecommunications. Those include competencies from cabling, CAN, Network
+CPE streams. Competencies which on their face appear relevant to Mr Jayawardana
+include, for example: Undertake routine maintenance
+of the telecommunications
+network; Undertake remote repair of network faults; Locate and repair network
+faults on a first in basis;
+Remotely locate and identify cable network faults;
+Locate and diagnose cable faults; Supervise cabling project; Schedule and supply
+cable installation; Cutover CPE additions, moves and changes.
+analysis is limited to the title of the qualification or competency unit, as
+opposed to the substance. In some cases the title
+is clear as to the task it
+describes. For example, ‘splice optical [fibre] cable’ is clear, and
+is a competency associated
+with the qualifications listed in the CFW4 roles. In
+other cases, the content of or interrelationship between competencies is not
+able to be determined by the title. For example, the CFW4 qualifications include
+‘locate and identify cable system fault’
+and the CFW5/CFW7
+qualifications include ‘locate and repair network faults on a first in
+basis’, ‘remotely locate
+and identify cable network faults’
+and ‘locate and diagnose cable faults.’ Whilst Telstra submits that
+identifying,
+locating and rectifying faults falls within a CFW4 qualification, I
+do not consider the titles of the competencies are sufficient
+to ascertain which
+best aligns with Mr Jayawardana’s work.
+I give only limited weight to the AQF relativities and associated competencies
+given the express terms of the CJDs allow
+them to be varied from time to time as
+industry standards are adjusted. There is no requirement that any variation be
+by agreement
+or articulated in any
+Ms Tullberg stated that she
+obtained the 2001 Curriculum Document from the training.gov.au website and that
+it was the latest version
+available prior to the training package being
+superseded on 27 December 2002. Accordingly, they provide only a ‘point in
+snapshot of how the work of the CJDs translated to AQF
+qualifications, from October 1998 and December 2002.
+the AQF qualifications are those attainable by an employee who is ‘fully
+functional’ across ‘all functions’
+described in the CJD. Other
+aspects of the CJDs indicate that it is not a requirement that an employee be
+fully functional in all
+functions they describe. In particular, the
+‘Qualifications/Experience Level – Desirable’ section of the
+CJDs states
+that ‘an employee ‘at the top end of this level’
+(for the Installer/Repairer CJDs) would have relevant experience
+least one of the functional areas defined in the job role.’ Further, the
+typical functions of each CJD are indicative,
+not mandatory. Thus, the AQF
+qualifications do not directly reflect the qualifications or requirements of the
+roles as they are otherwise
+stated. Rather, they reflect the maximum potential
+scope of the role. A related difficulty arises because the AQF qualifications
+are identical for the CFW5 and CFW7 CJD. However, in light of other differences
+between these two CJDs, a ‘fully functional’
+employee across
+‘all functions’ of one role would be performing functions of a
+substantively different nature to the
+other. It is not possible for the
+specified AQF qualifications to be what the CJD describes them to be in respect
+of both classifications.
+Telstra submitted that because of the greater focus or emphasis on CPE work in
+the CFW5/CFW7 competencies, an employee must
+be performing significant CPE work
+for those classifications to apply. I disagree in respect of the CFW4 and CFW5
+Installer/Repairer
+CJDs, in the context of the typical functions of each CJD. It
+is apparent from the consideration of the typical functions of each
+of the CJDs
+that all three classification levels include work on CPE products. In the case
+of both the CFW4 Installer/Repairer CJD
+and the CFW5 CJD, the CPE-related
+function is one of five typical functions. Accordingly, I do not consider the
+fact that Mr Jayawardana
+performs only limited CPE work gives rise to a greater
+likelihood that he falls outside one or other of those classifications. In
+case of the CFW7 CJD, the CPE related function is one of only two typical
+functions identified, indicating it is a more significant
+focus of that role,
+and to that extent the AQF relativities support Telstra’s submission.
+CONSIDERATION OF THE APPLICABILITY OF EACH CJD
+submitted that there is no basis upon which the Court could conclude that Mr
+Jayawardana should be classified as a CFW7, which
+it said would be a radical
+reclassification. Telstra submitted that the question is really whether or not
+Mr Jayawardana is appropriately
+classified as CFW4 or should be classified as
+CFW5. Telstra submitted that the features of Mr Jayawardana’s employment
+overwhelmingly consistent with the CFW4 CJDs. Further, his employment has
+many inconsistent features with the CFW5 and CFW7 CJDs.
+Mr Jayawardana
+acknowledged that he performs some CFW4 work, namely optical fibre jointing work
+and pole inspection work. However,
+he is required in his role to do a lot more
+than that, meaning his role is appropriately classified as a CFW5 or CFW7
+CFW7 Installer/Repairer
+on the comparative analysis above, the CFW7 role involves additional complexity
+in the job purpose - primary role and the job
+purpose – generic typical
+Whilst the typical
+functions relating to ‘small and large Pair Gain Systems and radio-based
+connections’ and ‘non-network
+interference and network interference
+work involving switches and transmission’ do not directly relate to Mr
+Jayawardana’s
+work, in the context of the range of functions relating to
+this subject matter across the CJDs, the CFW7 function for each subject
+is illustrative of increased complexity. The repair and maintenance function
+described is ‘highly specialist’
+and ‘complete.’ In
+respect of ‘Installation and repair of CPE products and cabling, and
+associated work,’
+specialist complex work is described. Accountabilities
+for a CFW7 reflect a higher degree of expertise and complexity. Whilst there
+some elements of the CFW7 CJD which mirror those in the CFW5 classification
+(mandatory cabling qualifications, desirable qualifications
+and the AQF
+relativities) and others which were common across all CJDs, these do not
+derogate from the comparative complexity of
+functions and expertise described in
+the CFW7 CJD.
+holistic or vertical reading of this CJD also demonstrates that this role is
+concerned with particularly complex work across the
+full breadth of the network.
+The primary role indicates that the CJD is confined to complex functions and
+complex products and services.
+The typical functions relate to ‘very
+complex’ diagnostics and programming, and specialist complex repairs of
+Network faults. There are only two typical functions described and both
+relate to specialist, complex work. One of the two functions
+relates to CPE,
+indicating that CPE is a significant focus of the CFW7 role. The other relates
+to ‘highly specialised’
+complete repair and maintenance.
+submitted that the language of the CFW7 CJD as a whole indicates an employee
+operating at a tangibly higher level than the
+other CJDs. The focus is on work
+which is necessarily complex and specialised, a ‘troubleshooter’
+role called in where
+others do not have the technical ability. Telstra submitted
+it was applicable to an employee operating at the level of Mr De Blasio.
+Jayawardana accepted that the focus of the higher level CJD is away from
+manipulative skills and towards system management and
+supervision.
+conclude that Mr Jayawardana’s major and substantial employment is not as
+described by the CFW7 Installer/Repairer role, and
+accordingly his claim insofar
+as it is based on an entitlement to be classified at CFW7 is not made out.
+Whilst it is true that Mr
+Jayawardana sometimes takes the lead in repair and
+maintenance work performed in pairs, determines resource allocation for repair
+work, provides on the job training for other employees, performs something of a
+specialist role in respect of his country fault work
+and allocates work as part
+of his APOC work, I am not persuaded that these aspects of his role are
+sufficient to meet the criteria
+as to complexity and specialisation set out in
+the CFW7 CJD. That all other employees in the FMG perform the same work as Mr
+Jayawardana
+supports the view that this work does not involve the requisite
+degree of specialisation. The other evidence as to the work of CFW7
+supports this conclusion. Mr De Blasio undertakes a role less focused on
+fieldwork and with a much greater management,
+supervision and administration
+focus. The highly specialised testing role of the former CFW7 technicians in the
+MFT is qualitatively
+different to the work performed by Mr Jayawardana.
+CAN Infrastructure Build CFW4
+above comparative analysis of the CJDs demonstrates several material differences
+between the CAN Infrastructure Build CJD on the
+one hand and the
+Installer/Repairer CJDs on the other. These include: the title of the CJD
+referring to both the CAN and the Infrastructure
+Build function; the job purpose
+– primary role referring to construction and provisioning activities and
+not referring to installation
+and repair activities; the job purpose –
+primary role being confined to the CAN rather than the more general
+‘telecommunications
+products and services;’ the absence of a general
+‘repair and maintenance’ function, present in each other CJD;
+specification of ‘highly skilled cable jointing’ as a function,
+absent from each of the other CJDs; the limitation
+of the first accountability
+to the CAN and associated infrastructure; the absence of a reference in the
+accountabilities to the use
+of instruments and tools remotely on the network;
+the typical mandatory requirement of a Heavy Vehicle Licence and the limitations
+on the AQF relativities to cabling and the CAN.
+Jayawardana submitted that the CAN Infrastructure Build CJD is limited to work
+on the CAN. Telstra submitted that whilst this CJD
+references the CAN in the
+primary role, the typical functions (such as undertaking prescribed diagnostics
+and programing of services
+and networks in the field) are broader than the CAN.
+both a horizontal and vertical analysis of this CJD, I conclude that the role it
+describes is limited to the CAN. The plain words
+in the title of the CJD and the
+‘Job purpose - primary role’ indicates that the role requires its
+holder to ‘undertake
+the full range of construction, provisioning &
+Maintenance activities
+in the telecommunications Customer Access
+’ (emphasis added). I consider this statement determines the
+outer limits of the CJD and the functions contained within it.
+Accordingly, both
+the generic and specific typical functions described must be read as subject to
+this confining qualification. Consistent
+with this, the first accountability
+confines the activities described to the CAN. In addition, the subject matter of
+the relevant
+AQF competencies are limited to Cabling and the CAN. Further, the
+comparative analysis above indicates that the focus in this CJD
+on the CAN is
+unique amongst the CJDs. Mr Jayawardana’s work extends across the network,
+whereas this CJD applies only to work
+on the CAN.
+I consider that on a holistic reading of the CJD, the role it describes is
+primarily focused on construction and maintenance,
+including the construction of
+the physical infrastructure associated with the network of cables that comprise
+the CAN, including
+through boring and ploughing the ground. The title of the CJD
+describes the role as ‘Infrastructure Build.’ The main
+described in the job purpose – primary role are ‘construction,
+provisioning and maintenance.’ The Construction
+Function describes in
+detail the physical construction of network infrastructure in teams which
+install pits, pipes, conduits, cables
+or services, or undertake directional
+boring, with reference to large mole plough and complex hauling. A Heavy
+Machinery Operators
+Licence is a typical applicable mandatory licence for the
+role. The comparative analysis also illustrates that these features are
+to this CJD. Mr Jayawardana’s Wideband Work involves building new fibre
+links on the CAN, and his work also involves
+hauling and installing short
+lengths of cable. However, beyond this he is not engaged in construction of the
+physical infrastructure
+of the CAN.
+Jayawardana submitted that the function ‘highly skilled cable
+jointing’ in this CJD does not extend to work such as
+fault finding and
+testing, and is a reference only to the process of joining together two pieces
+of optical fibre. Telstra submitted
+that in light of the reference to ‘the
+full range of construction, provisioning & maintenance activities’ in
+job purpose, the function extends to associated work such as testing and
+fault finding. In light of the comparative analysis of the
+CJDs, I conclude that
+the term is confined in the way contended for by Mr Jayawardana. Comparatively,
+the other CJDs do not expressly
+refer to cabling work. Instead they describe a
+broader function within which cabling work, along with other associated work,
+be undertaken. I consider this supports Mr Jayawardana’s contention
+that the more specific reference to ‘highly skilled
+cable jointing’
+is limited to the physical process of jointing, rather than the broader range of
+work associated with the repair
+of a fibre optic cable fault. Further, the
+evidence establishes that fault finding and testing are undertaken by the use of
+and instruments. The Installer/Repairer CJDs refer to the use of tools and
+instruments remotely on the network however the CAN Infrastructure
+does not. In the context of these two aspects of the other CJDs, I conclude that
+the narrow reference to cable jointing
+in this CJD should not be given a broader
+there is no contextual basis in the CJD itself to conclude that the reference to
+jointing includes a reference to other work
+associated with Mr
+Jayawardana’s fault repair work. The reference to the ‘full range of
+construction, provisioning &
+maintenance activities’ must be read in
+the context of the other CJDs which contain specific repair functions, whereas
+CJD does not. The cable jointing function is in the context of a role which
+is primarily concerned with construction, not fault finding
+and rectification.
+Mr Jayawardana performs highly skilled cable jointing, he also performs, as part
+of his Repair and Maintenance Work, fault
+finding and testing (utilising
+instruments and tools including remotely on the network). He also determines the
+method of fault rectification,
+which may include identifying spare fibres from a
+fibre record database, and may include contributing to a redesign if records are
+inaccurate. He also determines the resource requirements to conduct the repair
+and undertakes associated administrative work. I consider
+Mr Jayawardana’s
+Repair and Maintenance Work alone goes beyond the process of ‘highly
+skilled cable jointing.’
+Jayawardana’s major and substantial employment includes work described by
+three of the five typical functions in this CJD,
+being highly skilled cable
+jointing, hauling cable and pole inspection. His Wideband Work involves building
+fibre links in the CAN.
+However, his work is not confined to the CAN. He does
+not construct physical infrastructure supporting the CAN. His work goes beyond
+cable jointing. On both a ‘horizontal’ and ‘vertical’
+reading I consider the role described by this CJD bears
+little resemblance to Mr
+Jayawardana’s major and substantial employment as I have identified it.
+Given this, whilst the functions
+of highly skilled cable jointing, hauling cable
+and pole inspection are indicative of a CFW4 classification, I otherwise do not
+that Mr Jayawardana is appropriately classified at CFW4 on the basis of
+CFW4 Installer/Repairer and CFW5 Installer/Repairer
+light of the above, the correct classification level of Mr Jayawardana’s
+major and substantial employment falls to be determined
+by having regard to
+those matters from the CAN IB CFW4 CJD which indicate a CFW4 classification,
+along with a comparison of the CWF4
+and CFW5 Installer/Repairer CJDs.
+holistic reading of both the Installer/Repairer CFW4 CJD and the
+Installer/Repairer CFW5 roles demonstrates that each is a broad-based
+focused on installation, repair and maintenance of telecommunication products
+and services. This is apparent from: the title
+of the roles; the ‘job
+purpose – primary role;’ and the list of specific typical functions,
+each of which encompass
+four subject matters common to each of the
+Installer/Repairer CJDs. The span of AQF relativity competencies across cabling,
+Telecommunications and CPE further illustrates the breadth of each role,
+and the inclusion of typical mandatory cabling qualifications
+indicates that
+cabling work is encompassed by both CJDs.
+regard also to the comparative analysis of the CJDs, it is also apparent that
+these two CJDs describe very similar roles. The
+common content includes an
+identical job purpose – primary role, which is the key statement as to the
+scope of the role. The
+six accountabilities are also identical. It is the
+application of the distinguishing factors between the two CJDs to Mr
+Jayawardana’s
+major and substantial employment which must ultimately
+determine his classification level.
+Differences in Job purpose – typical functions generic
+are critical differences between the CFW4 and CFW5 job purpose – typical
+functions generic statements, relating to whether
+firstly, the role requires
+‘prescribed diagnostics’ or ‘complex prescribed
+diagnostics,’ and secondly whether
+the role requires the course of action
+to be determined from a ‘limited range’ of solutions or a
+‘range of variable’
+solutions. Regarding both of these differences,
+I find Mr Jayawardana’s work is best described by the CFW5 generic
+rather than the CFW4 descriptor, which I consider does not adequately
+describe his work.
+submitted that Mr Jayawardana has conceded by way of the SOAF that the tools
+used to find, fix and test faults takes his work
+outside of the notion of
+complex prescribed diagnostics and determining a course of action from a range
+of variable solutions. I
+reject that submission. The SOAF goes no further than
+describing many of the functions Mr Jayawardana performs and the types of work
+within which he performs them. Further, the SOAF is supplemented by my other
+findings as to Mr Jayawardana’s major and substantial
+employment.
+Prescribed Diagnostics/Complex Diagnostics/Very Complex
+Diagnostics
+parties agreed that ‘prescribed diagnostics’ refers to standard
+diagnostics used for a particular task. In respect
+of the diagnostic task
+required to be performed in his Repair and Maintenance Work, Mr Jayawardana
+submitted that his fault-finding
+and diagnosis work involved complex or very
+complex diagnostics. Telstra submitted that Mr Jayawardana does not use complex
+diagnostics
+but rather a limited range of automated easy-to-use diagnostic
+tools. Telstra accepted that the diagnostic process is more complicated
+pressing a button, but submitted that as the skills are able to be taught over a
+five day course with two day certification,
+this reflects a lower level of
+complexity. Further, Telstra submitted that complex diagnostic tools for fibre
+optic cable do exist,
+but Mr Jayawardana does not work with such tools.
+consider the diagnostic task Mr Jayawardana performs constitutes
+‘prescribed diagnostics’ insofar as he utilises prescribed
+undertake a prescribed function. However to my mind, the manner in which he is
+required to undertake the diagnostic task
+includes complexity beyond merely
+‘prescribed diagnostics’. The task includes: the cross-referencing
+of information utilising
+different tools to determine the physical location of
+the fault; manual input; experience; and an element of judgment on Mr
+Jayawardana’s
+part in diagnosing the fibre event depicted by the
+of a diagnostic task is obviously a relative concept. In reaching this view, I
+have had regard to the evidence of the more
+complex diagnostic tools utilised by
+CFW7 employees.
+I consider the
+use of these diagnostic tools falls within the descriptor ‘very
+complex’. This sets a benchmark by which
+to determine the degrees of
+complexity in the lower two classifications.
+relied on the duration of training provided to submit that the diagnostic
+function must not be complex. Accepting the diagnostic
+skills may be taught in
+the timeframes referred to by Telstra, this is supplemented by informal on the
+job training, which Mr Jayawardana
+provides to other employees including CFW5
+employees. Whilst I accept this reflects a lower level of complexity than that
+which applies
+to the CFW7 CJD, it does not in my view equate to an absence of
+complexity in the context of the three classifications and ascending
+complexity.
+have had regard to the evidence as to the work of the CFW5 DFST technicians in
+considering this issue. There was no direct evidence
+or submissions as to any
+complex prescribed diagnostics they undertake. I envisage that their resolution
+of design and scope issues
+may involve complex prescribed diagnostics. However,
+this is undertaken through liaison with Service Delivery Leads, and the evidence
+did not establish what function the CFW5 employees perform or how it in
+substance differed to Mr Jayawardana’s contribution
+to resolving design
+issues in his country fault work and Project Work. Nor was there any evidence
+that the DFST technicians undertake
+complex programming of services and networks
+in the field. The parties agreed that ‘programming of services and
+refers to configuring equipment. Based on the evidence as to the
+duties of the DFTS technicians, they do not configure equipment.
+Rather, the
+SOAF states that DFST technicians activate equipment by making bookings through
+another team accountable for activating
+the service. Further, the Telstra
+witnesses acknowledged that the absence of a design plan for fault repair work
+contributes to its
+complexity.
+Range of solutions
+Jayawardana submitted that the Repair and Maintenance work requires him to
+consider a number of solutions which must be assessed
+based on a number of
+variable factors. These include: the need to conduct the repair within time
+limits; the extent of the effect
+of the outage on customers; the impact of the
+fault on the integrity of the network; whether it is on live or dead fibre;
+additional staff are required and their availability; whether a
+temporary or permanent repair is required and whether a repair can
+be delayed;
+the need for civil works; and the creation of work orders. Further, the capacity
+for very large disruptions arising from
+one cable fault is a variable which
+affects the course of action. He also has to liaise with others such as staff
+assisting and coordinating
+as to expected progress and time of completion.
+submitted that to the extent that Mr Jayawardana’s work requires him to
+make decisions, he has to select from only a
+limited range of solutions not a
+variable range of solutions. The task is to fix the cable. Whilst there are
+options, like splicing
+or patching, this is not a role captured by CFW5. Mr
+Jayawardana undertakes a methodical approach to problem-solving, but this does
+not require him to bring to bear a broad range of discretionary
+considerations.
+analysis focused on the mechanical options for fixing a fibre fault available to
+Mr Jayawardana. I conclude that the
+range of mechanical options are not properly
+described as a ‘limited range’. The range of options spans from the
+straightening of a kink or performing a splice of a single fibre through
+to replacing a section of damaged fibre or fibres within
+a cable, changing the
+services on damaged fibre or fibres to other spare fibre or replacing a whole
+cable. Determining which solution
+to apply may vary based on whether spare
+fibres can be identified using a fibre record database and a handheld fibre
+identifier.
+Determining whether to implement a temporary solution may vary
+depending on the extent of damage and the capacity to perform a cutover
+implement a permanent solution.
+as I have found, Mr Jayawardana’s role goes beyond simply fixing the cable
+in that he manages the fault rectification
+process for the full range of fibre
+faults across the network. This includes major faults, and country faults.
+Telstra submitted
+that there is no difference in the complexity of the work
+required between ordinary fault work and work to rectify major faults and
+country faults. However, I conclude that the context of a fault is relevant to
+the range of solutions to be considered. As I have
+found, Telstra itself
+distinguishes between faults based on their severity in its internal processes.
+Further, Mr Jayawardana is
+required to complete fault work urgently, where
+possible within the timeframes contained in the service level agreements, in
+of the customer disruption associated with a fault. Whilst the SOAF makes
+clear that the same typical process applies, the focus
+on the physical steps of
+the process required to rectify a cable fault does not account for variability
+arising from associated work
+which I have found Mr Jayawardana undertakes,
+including assessing staff and contractor requirements, identifying inaccurate
+records and assisting with the redesign of a fibre route.
+relevant question is whether there are a ‘limited range’ or a
+‘range of variable’ solutions. I conclude
+that the range of
+considerations and options available to Mr Jayawardana in determining and
+implementing the solutions for a fibre
+fault is not a ‘limited
+range’ of solutions, and I find that the range of solutions Mr Jayawardana
+is required to consider
+is variable based on the contextual matters and
+associated work described above.
+the three descriptors, I conclude that only the CFW7 CJD envisages a broad range
+of discretionary considerations, through the term
+variable solutions.’ I consider this description to go beyond what Mr
+Jayawardana is required to implement. This description
+is more fitting for the
+considerations undertaken by Mr De Blasio in the course of exercising the wide
+range of functions of his
+coordinator role.
+have also had regard to the work of the CFW5 DFST technicians in considering
+this question. The evidence and submissions did not
+directly address how their
+work involves determining a course of action from a range of variable solutions.
+I envisage that this
+may arise in the course of prioritising work across
+multiple orders, or stakeholder management, or in resolving design or scope
+However, there is nothing in the evidence to distinguish the work of
+these CFW5 technicians such that the matters I have identified
+in respect of Mr
+Jayawardana’s work amount by comparison to a limited range of solutions.
+Repair and Maintenance Functions
+relevant descriptors of the typical functions relating to repair and maintenance
+are, for CFW4, ‘Repair and Maintenance
+of the Customer Access Network
+...’ and for CFW5 ‘Repair of complex and difficult CAN transmission
+and interexchange
+network faults (
+).’ The parties’
+submissions were made on the basis that each was capable of applying to fibre
+optic cable faults, but
+Telstra submitted that the CFW4 descriptor applies
+whereas Mr Jayawardana submitted that the CFW5 descriptor applies.
+submitted that the Installer/Repairer CFW4 classification extends to repair and
+maintenance work on the IEN, notwithstanding
+that the typical function refers
+only to the CAN, on the basis of the broad description of the job purpose,
+because the typical functions
+do not exclusively describe the functions of the
+role, and because the other typical functions extend beyond the CAN, such as the
+reference to ‘diagnostic and programming of service and networks in the
+field’ and ‘board changes’ referring
+to exchange-based work.
+Mr Jayawardana submitted that because the CJD does not refer specifically to the
+IEN, it does not extend
+to work on the IEN, whereas the Installer/Repairer CFW5
+function extends to the IEN.
+contrast to the CAN Infrastructure Build CJD, there is no overriding restriction
+present in the CFW4 CJD job purpose – primary
+role which confines it to
+work on the CAN. It applies to ‘the full range of (relevant) functions
+associated to telecommunications
+products and services.’ Accordingly, I
+consider this CJD is not confined to the CAN and extends to work across the
+including the IEN. In addition, whilst it does not directly refer to the
+IEN in the typical functions, those functions are not limited
+to the CAN and in
+any event are not an exclusive statement of the work of the role. However,
+despite this, there is a clear restriction
+in the text of the typical function
+relating to repair and maintenance which confines it to the CAN. I consider that
+this restriction
+must be given some meaning in a context where: firstly, none of
+the other typical functions include the restriction; secondly, the
+work covered
+by the other CFW4 CJD is limited to the CAN; and thirdly, given the distinction
+made in the 2022 Agreement description
+of the CFW workstream. Having regard to
+these contextual factors, so far as repair and maintenance of the network is
+concerned, I
+conclude that the typical function of the CFW4 Installer/Repairer
+role describes work on the CAN.
+CFW5 CJD, in contrast, clearly applies to both the CAN and the IEN, as it
+specifically refers to both. However, it applies to
+repair of ‘complex and
+difficult CAN transmission and interexchange network faults (
+Telstra submitted that ‘ESD’ is generally reflective of complexity,
+and there was no evidence Mr Jayawardana
+was called in to
+‘troubleshoot’ difficult faults. Mr Jayawardana submitted that the
+evidence demonstrates he works on
+complex faults.
+are two ways of reading the CFW5 typical function. On a proper grammatical
+reading, the qualifier ‘complex and difficult’
+applies to faults on
+both the CAN and IEN. However, the CAN Infrastructure Build CFW4 is confined to
+work on the CAN, and the repair
+and maintenance typical function of
+Installer/Repairer CFW4 also describes work on the CAN. Accordingly, for the
+first time ascending
+up the classifications, repair of the IEN appears expressly
+as a typical function in the CFW5 CJD. Given this context, the alternative,
+grammatically incorrect, reading of the CFW5 typical function is that it applies
+to complex and difficult faults on the CAN (thus
+distinguishing it from the CFW4
+repair and maintenance functions), as well as faults on the IEN (not qualified
+by ‘complex
+and difficult’). I consider on balance that this is the
+better interpretation. Otherwise, none of the CJDs expressly contain
+non-complex
+repair work on the IEN as a typical function. I consider this interpretation
+best applies the purposive approach to interpretation
+referred to in the extract
+recognising the
+practical expression of intention by the industrial parties rather than careful
+drafting. If this interpretation
+is correct, I consider it clear that Mr
+Jayawardana’s fault repair work is best described by the CFW5 descriptor
+and not adequately
+described by the CFW4 descriptor, because his repair work
+extends beyond the CAN and includes the IEN.
+even if the alternative, grammatically correct reading of the CFW5 typical
+function is adopted, I conclude that Mr Jayawardana’s
+role requires him
+to repair complex and difficult CAN transmission and interexchange network
+faults, as described in the CFW5 CJD.
+I have found that major fault work and
+country fault work are part of Mr Jayawardana’s major and substantial
+employment. Mr
+Jayawardana is allocated country work because he is a more
+experienced splicer than country technicians, and additional difficulties
+with country work arise due to inaccurate records, assisting with redesign and
+working with older and difficult cables, which
+add complexity. Major faults are
+escalated within Telstra due to their severity, may involve disruption to large
+numbers of customers
+and are more urgent. As far as possible faults must be
+repaired within the applicable time frames. On the evidence before me, based
+the factors I have identified, I find that these are the most complex fibre
+optic cable faults, and Mr Jayawardana (and the MFT)
+are responsible for
+rectifying them.
+assessing the complexity of faults, I again have had regard to the relative
+ascending complexity in the CJDs. The CFW7 repair and
+maintenance function is
+clearly set apart from the equivalent functions in the other CJDs by its
+reference to ‘highly specialist’
+and ‘complete’ repair
+and maintenance of network and service affecting faults. Despite the absence of
+evidence of more
+complex fibre optic cable faults than those referred to above,
+I nonetheless conclude that the work undertaken by Mr Jayawardana
+and the MFT
+falls short of the description of ‘highly specialist.’
+Other typical functions
+conclude that two of three additional ‘typical functions’ specified
+in each of the CFW4 and CFW5 CJDs Installer/Repairer
+CJD (relating to the
+subject matters of small and large Pair Gain Systems/Customer Radio and
+non-network interference and network
+interference work involving switches and
+transmission) are not relevant to determining Mr Jayawardana’s
+classification as they
+primarily relate to the copper network. The evidence does
+not demonstrate how they translate to the fibre network and Mr Jayawardana
+not perform work of the nature described in either CJD.
+find that Mr Jayawardana’s work cleaning payphones is encompassed by the
+remaining typical function in the CFW4 Installer/Repairer
+role. I find that his
+work installing exchange cards is encompassed by the remaining typical function
+in the CFW5 Installer/Repairer
+Desirable experience and attributes
+conclude in respect of items (a) to (e) in paragraph
+above that Mr Jayawardana meets the
+more onerous requirements of the CFW5 descriptor. I take account of: his
+performance reviews
+from his managers; his capacity to take charge of a job when
+he is paired with another CFW5 employee; his informal on the job training
+supervision of less experienced technicians; and Mr De Blasio’s assessment
+of his work. The years of experience described
+in paragraph
+(c) relate to an employee at the top of
+the level. As at 30 January 2019, Mr Jayawardana had six years’ experience
+the FMG in the MFT and I am satisfied accordingly had the requisite
+experience working in the functional area of repair and maintenance
+network, including repair of faults on the CAN and IEN, prior to the period to
+which his claim relates. As to paragraph
+(f), the evidence does not establish
+what a ‘data product’ or ‘basic data product’ is, and I
+have accordingly
+not had regard to it.
+General complexity of the work
+submitted that the CJDs demonstrate a relative increase in complexity, and that
+the Court should have regard to this general
+notion of complexity
+notwithstanding that many specific aspects of the CJDs largely describe the
+copper network. Mr Jayawardana did
+not dispute this approach. I conclude that it
+is necessary to have regard to general notions of complexity in considering the
+applicable to Mr Jayawardana.
+submitted that the work of the CFW5 DFST technicians is more complex than Mr
+Jayawardana’s role, meaning Mr Jayawardana
+is appropriately classified at
+CFW4. Telstra submitted that the complexity of the DFST technician’s role
+arises from the number
+of responsibilities and complexities in effecting a fibre
+link, such as the range of work, the number of orders being managed at
+and design and scope issues. Mr Jayawardana submitted that the DFST technicians
+are doing the same or no more complex work
+than the Fibre Maintenance work he
+undertakes, noting the potentially wide customer impact of Mr
+Jayawardana’s fault repair
+work and the consequent skills he requires
+being at a higher level.
+have found that the Wideband Work and the Project Work of the MFT is no more
+complex than the Repair and Maintenance Work, however
+the addition of
+qualitatively different tasks associated with performing all three types of work
+adds complexity to Mr Jayawardana’s
+role. I have also found that the
+Wideband Work of the DFST is more complex than the Wideband Work of the MFT.
+assessing complexity in this general sense requires an assessment of Mr
+Jayawardana’s major and substantial employment
+as a whole, compared to the
+work of other employees within the CFW classification structure. I have already
+found that there are
+no distinguishing features, therefore no greater complexity
+between the work performed by the CFW5 employees in the FMG and Mr Jayawardana,
+and that the most complex work within that team is performed by CFW5 employees.
+other relevant comparison available on the evidence is with the CFW5 DFST
+technicians. The FST perform most of the Wideband Work.
+Wideband Work (in the
+context of the MFT undertaking it) is described as the building of a fibre link
+from point A to point B following
+a given path, in accordance with a design,
+involving the same cabling tasks as the repair and maintenance work (hauling,
+and splicing fibre). It was agreed that DFST technicians ‘complete
+the required physical work’ on each order. I understand
+this to mean that
+DFST technicians undertake the cabling work to construct the wideband links on
+the services for which they are
+responsible. Accepting that external contractors
+are used for hauling cable beyond 120 metres in length, and MFT technicians are
+used for 5 of 40 service types, I infer that DFST technicians perform the
+remaining cabling work. There was no evidence that the
+cabling work performed by
+DFST technicians is any more complex than the cabling work undertaken by Mr
+Jayawardana. The evidence as
+to the more complex work of DFST technicians
+focused on the tasks DFST technicians perform additional to cabling work.
+cabling work, I have found that additional complexities of a DFST technician
+role compared to Mr Jayawardana’s role include:
+being responsible for
+multiple orders at a time; being responsible for work across a greater range of
+service types; liaising directly
+with customers; liaising directly with service
+delivery leads and participating more significantly in the design process; and
+coordination
+of secure site inductions.
+I was not satisfied that compliance with design standards by DFST technicians
+involves more complexity than Mr Jayawardana’s
+work in building a Wideband
+link in compliance with a design. I am similarly not satisfied of this in
+respect of Mr Jayawardana’s
+compliance with designs in his Project Work.
+it is the case that DFST technicians are required to make IPMAN/SMNG bookings
+and use the Ideal system and Mr Jayawardana is
+not, there is no evidence that
+the booking systems used by the DFST to arrange activation of the equipment by
+another team are any
+more complex than the systems Mr Jayawardana uses to book
+the activation of customer equipment he installs. Also, whilst Mr Jayawardana
+does not himself activate equipment, the SOAF states that DFST technicians
+activate equipment by making bookings through another
+team accountable for
+activating the service, and I find accordingly that DFST technicians similarly
+do not activate equipment.
+is unclear what is meant by DFST technicians ‘optimising resources,’
+‘managing resources’ and ‘consolidating
+infrastructure’
+or by Mr Cooper’s evidence that DFST technicians ‘organise support
+between themselves.’ The
+evidence does not establish in what way this is
+qualitatively different to the work Mr Jayawardana does in ascertaining the
+requirements for a fault repair. Further, accepting DFST technicians
+are required to engage with each other and various other groups
+in performing
+their work, I am not satisfied there is any greater complexity in this
+engagement than Mr Jayawardana’s engagement
+with other technicians and
+groups in his fault repair work.
+have accepted that for DFST technicians, performing work across 40 service types
+adds to the complexity of the role. Mr Jayawardana
+performs, or has performed,
+work across the functional areas of Repair and Maintenance Work, Project Work,
+Wideband Work and APOC
+Work. I have found that working across functions beyond
+Repair and Maintenance Work involves the utilisation of qualitatively different
+skills by Mr Jayawardana, including installation and arranging of activation of
+CPE, following design plans, participating in required
+redesigns and voluminous
+data entry. In addition, his APOC work involves the qualitatively different
+the effect of Mr Cooper and Mr De Blasio’s evidence that the Wideband Work
+of the MFT was less complex than its Repair
+and Maintenance Work involved a
+concession that the absence of a design plan for fault repair work, and the time
+sensitivity required
+to complete fault repair work in light of the customer
+impact are factors which contribute to the complexity of the Repair and
+Maintenance
+Work undertaken by Mr Jayawardana. Based on this evidence, I find
+that the following matters, which are not features of the work
+technician, contribute to the complexity of Mr Jayawardana’s role:
+(a) Locating and diagnosing the nature of the fibre
+(b) Identifying and executing the plan to rectify the
+fault, in the absence of a design plan; and
+(c) The customer impact and thus time sensitivity
+required to complete the fault work.
+addition, I find that Mr Jayawardana’s APOC function, including the
+allocation of work to other technicians and the administrative
+work associated
+with doing so, as well as the requirement that Mr Jayawardana undertake country
+work which existing ‘generalist’
+technicians are not able to
+perform, contribute to the complexity of Mr Jayawardana’s role and are
+not features of the DFST
+technicians’ role.
+I find on Mr Considine’s evidence that there are three wideband
+coordinators who manage the DFST work, from which I
+infer that the CFW5 DFST
+technicians’ work is coordinated, as Mr De Blasio coordinates the work of
+the MFT technicians. Considering
+this and each of the above matters, I accept
+there are some aspects of the DFST technicians’ role that are more complex
+Mr Jayawardana’s role. However, there are also some aspects of Mr
+Jayawardana’s role that are more complex than the work
+technician. I conclude, based on the analysis above, that there is no
+significant material difference between the two.
+any event, whilst I accept general complexity is a relevant consideration, it
+cannot displace the need to give effect to the text
+of the CJDs, to the extent
+that text remains relevant to the work being performed by CFW technicians in
+light of the changed technology.
+Beyond considerations of general complexity,
+neither party undertook an analysis of how the work of the DFST technicians
+corresponds
+with the roles described in the CJDs. I have considered this
+question in respect of the diagnostic process and range of solutions
+involved in
+each respective role. I have not undertaken a detailed analysis beyond that,
+given both parties accepted that DFST technicians
+are appropriately classified
+as CFW5. However, in the absence of the parties having addressed this issue, I
+am not satisfied that
+a textual analysis of the CFW5 CJD would provide any
+better or worse basis for DFST technicians to be classified at that level than
+Mr Jayawardana.
+summary, Mr Jayawardana’s highly skilled optic fibre cable jointing on the
+CAN, hauling work on the CAN, pole inspection
+work, payphone cleaning work and
+his work on single line services to customer premises are indicative of a CFW4
+classification. The
+AQF relativities in the CJDs also indicate that a CFW4
+classification is applicable, however for the reasons identified above, I
+given this aspect of the CJDs less weight than others.
+However, the remaining considerations are indicative that a CFW5 classification
+applies. In particular, I have found that:
+(a) Mr Jayawardana undertakes complex prescribed
+diagnostics in his fault repair work, consistent with the ‘job purpose
+typical functions’ generic statement for the CFW5
+Installer/Repairer CJD;
+(b) Mr Jayawardana is required in his fault work to
+determine a course of action from a range of variable solutions, consistent with
+the ‘job purpose – typical functions’ generic statement for
+the CFW5 Installer/Repairer CJD;
+(c) Mr Jayawardana undertakes Repair and Maintenance
+Work across all parts of the network, including the IEN, whereas the CAN IB CFW4
+CJD is confined to work on the CAN, and the repair and maintenance function of
+the CFW4 Installer/Repairer CJD describes work on
+(d) Mr Jayawardana’s repair and maintenance work
+on the IEN meets the description in the CFW5 Installer/Repairer CJD in that
+Jayawardana performs this work on the IEN and he undertakes work on complex and
+difficult faults;
+(e) Mr Jayawardana installs exchange cards, consistent
+with the CFW5 Installer/Repairer CJD typical function;
+(f) Mr Jayawardana has over six years of relevant
+experience, and has the proficiency, technical skills, logistical skills and
+organisation described in the ‘qualifications/experience level
+– desirable’ criteria for the CFW5 Installer/Repairer
+(g) Regarding the general complexity of Mr
+Jayawardana’s role, he does not perform any less complex work than any
+CFW5 employee
+in the FMG, and the most complex work in that team is performed by
+CFW5 employees. Further, the general complexity of Mr Jayawardana’s
+as a whole is not materially different to the general complexity of the DFST
+technician role as a whole, which both parties
+accept is appropriately
+classified at level CFW5.
+these reasons, I conclude that on the balance of probabilities, Mr Jayawardana
+is properly classified as level CFW5 under the
+2022 Agreement. I find Mr
+Jayawardana’s major and substantial employment is not appropriately
+described by the CFW4 CJDs and
+is accordingly he is not appropriately classified
+at level CFW4.
+conclusion is based largely on Mr Jayawardana’s Repair and Maintenance
+Work, as is apparent from the summary above. However,
+it is also based in part
+on Mr Jayawardana’s APOC Work, with the additional functions that entails
+contributing to the complexity
+of his role. It is also based in part on Mr
+Jayawardana’s personal characteristics, including his years of experience
+of competency.
+conclusion is also based in part on the increased breadth of Mr
+Jayawardana’s role from mid-2021 onwards. In particular:
+(a) In Mr Jayawardana’s Project Work, the
+installation of Exchange Cards, and the functions of working to a design plan,
+contributing
+to redesign and populating workbooks contribute to the general
+complexity of his role.
+(b) In Mr Jayawardana’s Wideband Work, the
+additional function of installing customer equipment and arranging activation
+contributes
+to the general complexity of his role.
+omitting considerations relating to Mr Jayawardana’s Project Work and
+Wideband Work (and the corresponding counter-considerations
+in respect of his
+General Inspection Work as to the applicability of the CFW4 classification) I
+nonetheless reach the same conclusion,
+on balance, that prior to mid-2021, Mr
+Jayawardana was not appropriately classified at level CFW4 and should have been
+at level CFW5. That conclusion is based on the matters referred to
+above regarding Mr Jayawardana’s Repair and Maintenance
+Work, APOC Work
+and his personal characteristics. Accordingly, I conclude that Mr Jayawardana
+was entitled to be classified at CFW5
+for the full relevant period to which his
+claim relates.
+is evident from this decision that the exercise of determining Mr
+Jayawardana’s correct classification in the context of
+changed technology
+has been far from straightforward. It has required extensive analysis of both
+historic and current functions.
+It has required careful consideration of a range
+of opposing and sometimes contradictory submissions in order to determine,
+what the CJDs meant at the time they were written, and, secondly, to
+arrive at a technology-appropriate and internally consistent
+approach to
+interpreting the CJDs some 22 years later. It must be observed that complexity
+of this nature is hardly beneficial for
+either Telstra or the employees to which
+the CJDs apply. For completeness I note that the 2022 Agreement contains both a
+process for designing new CJDs and robust dispute resolution
+procedures. Each of these processes would potentially facilitate not
+resolution of classification disputes but the development of new, agreed
+approaches which could address this undesirable
+complexity to the benefit of
+both parties in future agreements.
+parties are directed to confer and seek to agree on:
+(a) A form of orders giving effect to this decision;
+(b) directions in respect of the determination of the
+Plaintiff’s claims for pecuniary penalties.
+4pm on 25 October 2024:
+(a) The Plaintiff is to file any agreed form of order
+and/or directions; or
+(b) In the absence of agreement, each party is to file
+and serve their proposed form of orders and/or directions.
+the absence of agreement between the parties, the matter will be listed for
+directions on 6 November 2024.
+Appendix 1 — comparison
+of the text of the relevant Core Job Descriptions
+CFW 4 Installer/Repairer
+CFW 5 Installer/Repairer
+CFW 7 Installer / Repairer
+CFW 4 CAN Infrastructure Build
+1. Primary Role ...
+Without immediate supervision or direction undertake the full range of end
+to end installation, repair and maintenance functions associated
+telecommunications products and services, to meet customers [sic] expectations
+and service commitments and maximise network profitability
+and revenue.
+[Same as CFW 4 Installer/Repairer]
+1. Primary Role ...
+Without immediate supervision or direction undertake
+end to end installation, repair and
+maintenance functions associated to t
+he range of complex
+telecommunications products and services, to meet customers [sic] expectations
+and service commitments and maximise network profitability
+and revenue.
+1. Primary Role...
+Without immediate supervision or direction undertake the full range of
+end to end installation, repair
+and maintenance
+associated to telecommunications
+products and services
+construction, provisioning &
+Maintenance activities in the
+telecommunications Customer
+Access Network
+, to meet customers [sic] expectations and service
+commitments and maximise network profitability
+and revenue.
+2. Typical Functions
+Typically an individual performing this role would be required to undertake
+prescribed diagnostics and programming of services and
+networks in the field and
+determine the course of action from a limited range of solutions.
+2. Typical Functions
+Typically an individual performing this role would be required to undertake
+prescribed diagnostics and programming of services and networks
+in the field and determine the course of action from a
+2. Typical Functions
+Typically an individual performing this role would be required to undertake
+very complex
+diagnostics and programming of
+services and networks in the field and determine the course of action from a
+[Same as CFW 4 Installer/Repairer]
+shows relevant material differences from the CFW 4 Installer/Repairer.
+Immaterial or minor differences in wording (such as
+re- ordering of the same
+wording within a sentence or paragraph) are not tracked.
+CFW 4 Installer/Repairer
+CFW 5 Installer/Repairer
+CFW 7 Installer / Repairer
+CFW 4 CAN Infrastructure Build
+Typical functions could include, but not exclusive to:
+[items in the list re-ordered to line-up equivalent items across the four
+Maintenance of the Customer Access Network including Cable TV.
+complex and difficult CAN transmission and inter- exchange network faults
+[No direct equivalent]
+[No direct equivalent]
+Maintenance of Simplex Products & Services (eg. single line services,
+OnRamp, basic Data, public Payphones & associated
+products i.e.: TOPS,
+[No direct equivalent]
+[No direct equivalent]
+[No direct equivalent]
+Installation or
+Repair of Complex CPE Products and Cabling (eg. PABX, SBS, Data & Special
+Services, Mobiles, Media & Broadcast
+Services, associated MDF
+activities).
+Installation and
+Repair of Complex CPE products and cabling (eg. PABX, SBS, Data & Special
+Services, Mobiles, Media & Broadcast
+services, associated
+Exchange work
+complex repair of CPE (eg. PABX, Data, Media, & Broadcast services,
+associated Exchange elements). [sic] and/or CPE
+related networks
+[No direct equivalent]
+Installation
+& Repair of Fixed
+Radio Access/Small Pair Gain Systems.
+Maintenance of Large Pair Gain Systems {eg. RIM, DRCS & Customer
+[No direct equivalent]
+[No direct equivalent]
+CFW 4 Installer/Repairer
+CFW 5 Installer/Repairer
+CFW 7 Installer / Repairer
+CFW 4 CAN Infrastructure Build
+Non-Network
+Interference work on Switches & Transmission (eg. Alarm resets, board
+changes under GOC direction, line conditioning
+and testing).
+Maintenance of potential Network interference and service affecting Faults and
+Isolations associated to Switches and Transmission
+Systems (eg. Special service
+jumpering, fault rectification and hazardous board replacement under direction
+from GOC, RIM , RCM Faults,
+specialist complete Repair and Maintenance of Network and Service affecting
+Faults and Isolations associated with Switches
+and Transmission activities. (eg.
+difficult and complex fault rectification, outage recovery, complex switch fault
+rectification,
+DRCS, RIM, S12, AXE and Customer Radio).
+[No direct equivalent]
+[No direct equivalent]
+Install and
+Replace Exchange Cards.
+[No direct equivalent]
+[No direct equivalent]
+[No direct equivalent]
+[No direct equivalent]
+[No direct equivalent]
+Highly skilled
+Cable Jointing (eg. Complex Cable Jointing, Fibre Optic Jointing).
+Complex CPAS
+(eg. Installation and Repair of APCAMS).
+Party Leader up
+to 9 Staff undertaking Pit, Pipe, Conduit, Cable or Service Installation, or
+Party Leader of a small team undertaking
+Directional Boring (ie > 10 ,000 Lbs
+force ), Large Mole Plough, Complex Hauling etc.
+Large Pair Gain
+Installation (eg . RIM, DRCS, Customer Radio).
+CFW 4 Installer/Repairer
+CFW 5 Installer/Repairer
+CFW 7 Installer / Repairer
+CFW 4 CAN Infrastructure Build
+ACCOUNTABILITIES (Primary business outputs set for job) ...
+faultless end to end fault rectification and installations to the full
+satisfaction of customers [sic] expectations;
+compliance to
+prescribed standards, practices and
+Through correct
+and proficient utilisation of instruments and tools from remote points within
+the network.
+[Same as CFW 4 Installer/Repairer]
+faultless end to end fault rectification and installations to the full
+satisfaction of customers [sic] expectations.
+Compliance to
+practices and procedures
+Through correct
+utilisation of instruments and
+tools from remote points within the network.
+faultless end to end
+fault rectification and
+installations
+construction,
+provisioning &
+Maintenance of
+the customer access network
+and associated
+infrastructure
+through compliance to prescribed standards, practices and
+procedures, and to the full satisfaction of customers [sic] expectations.
+correct and
+proficient utilisation
+instruments and tools from
+remote points
+planned activities associated to infrastructure maintenance and upgrades within
+given time lines.
+compliance to prescribed standards, practices and procedures
+Through correct
+and proficient utilisation of instruments and tools from remote points within
+the network.
+[Same as CFW 4 Installer/Repairer]
+complex routine
+activities associated to
+infrastructure, maintenance and upgrades, within given
+time lines.
+Compliance to
+practices and procedures
+Through correct
+utilisation of instruments and
+tools from remote points within
+the network.
+Undertake planned activities associated to infrastructure maintenance
+and upgrades within given time lines, through compliance to
+standards, practices and procedures within given time lines.
+correct and
+proficient utilisation
+instruments and tools from
+remote points
+CFW 4 Installer/Repairer
+CFW 5 Installer/Repairer
+CFW 7 Installer / Repairer
+CFW 4 CAN Infrastructure Build
+3. Ensure customer delight by constant interaction with the customer to
+confirm requirements, inform of progress and confirm the agreed
+requirements are
+met upon completion.
+[Same as CFW 4 Installer/Repairer]
+[Same as CFW 4 Installer/Repairer]
+[Same as CFW 4 Installer/Repairer]
+4. Contribute to personal and public image by compliance with all relevant
+policies, practices and regulations in an effective and
+responsible
+[Same as CFW 4 Installer/Repairer]
+[Same as CFW 4 Installer/Repairer]
+[Same as CFW 4 Installer/Repairer]
+5. Contribute to the company's financial well being by the timely and
+accurate capturing and recording of all relevant cost, time
+and revenue data,
+along with seeking opportunities to grow revenue
+and reduce costs.
+[Same as CFW 4 Installer/Repairer]
+[Same as CFW 4 Installer/Repairer]
+[Same as CFW 4 Installer/Repairer]
+6. Contribute to the effective resource and workforce deployment through
+compliance to Work Management Centre business rules and performance
+expectations.
+[Same as CFW 4 Installer/Repairer]
+[Same as CFW 4 Installer/Repairer]
+[Same as CFW 4 Installer/Repairer]
+CFW 4 Installer/Repairer
+CFW 5 Installer/Repairer
+CFW 7 Installer / Repairer
+CFW 4 CAN Infrastructure Build
+QUALIFICATIONS - MANDATORY
+(No person to occupy job without this)
+An employee will be required to possess/obtain and maintain the relevant
+and applicable licences to performing this function as deemed
+mandatory by
+regulatory and legal authorities and posses/obtain [sic] and maintain a drivers
+[sic] licence. Typical Applicable Licence
+could be AUSTEL BCL/CATS cabling
+licence Where a mandatory licence is required to perform a particular job
+function it will be specified
+on the individual job description statement (i.e.;
+[sic] Riggers Ticket, Articulated Truck Licence, Austel
+[Same as CFW 4 Installer/Repairer except that BCL/CATS is removed as a
+typical applicable licence]
+[Same as CFW 5 Installer/Repairer]
+[Same as CFW 4 Installer/Repairer except that BCL/CATS is removed as a
+typical applicable licence and Heavy Machinery Operators [sic]
+Licence is added
+CFW 4 Installer/Repairer
+CFW 5 Installer/Repairer
+CFW 7 Installer / Repairer
+CFW 4 CAN Infrastructure Build
+QUALIFICATIONS/EXPERIENCE LEVEL - DESIRABLE
+employee at the top end of this level will demonstrate a high level of
+procedural and systematic proficiency in performing those
+functions and would be
+required to apply well developed broad technical skills, would typically, but
+not restricted to, having a
+minimum of four years relevant experience in at
+least one of the relevant functional areas defined in the job role and posses
+the following attributes; [sic]
+determining job planning
+First level
+leadership skills to lead a small team on site
+organisation & high level of self motivation
+Able to Operate
+Screen Based Equipment
+Possess a sound
+knowledge of voice/basic data products.
+employee at the top end of this level will demonstrate a
+of procedural and systematic proficiency in performing those functions and would
+be required to apply
+well developed broad technical skills and
+would, typically, but not be restricted to, having a minimum of
+years relevant experience in at least one of the relevant
+functional areas defined in the job role and posses [sic] the following
+attributes; [sic]
+skills for determining job
+level leadership skills to
+lead a small team on
+personal organisation & high level of self motivation
+Able to Operate
+Screen Based Equipment
+Possess a sound
+data products.
+[Same as CFW 5 Installer/Repairer]
+An employee
+at the top end of
+entering into
+level would be required to apply well developed broad technical
+organisation
+skills and typically, but not restricted to, have a minimum
+of four years relevant experience in at least one of the relevant functional
+areas defined in the job role and posses [sic] the following attributes;
+determining job planning
+organisation & high level of self motivation
+Able to Operate
+Screen Based Equipment
+First level
+Leadership skill to Lead a small Team on site
+A high level of
+procedural and systematic proficiency in performing those functions.
+a sound knowledge
+of voice/basic data
+CFW 4 Installer/Repairer
+CFW 5 Installer/Repairer
+CFW 7 Installer / Repairer
+CFW 4 CAN Infrastructure Build
+2. An occupant performing at this level is a front line ambassador for
+Telstra and will require the individual to present the highest
+level of customer
+service behaviours possible, to take ownership and show initiative in the
+resolution of customer related issues
+the provision of service.
+[Same as CFW 4 Installer/Repairer]
+[Same as CFW 4 Installer/Repairer]
+[Same as CFW 4 Installer/Repairer]
+3. The Employee will be required to show a high level of initiative as a
+fundamental requirement in the delivery of service to customers
+and to operate
+dependently [sic].
+[Same as CFW 4 Installer/Repairer]
+[Same as CFW 4 Installer/Repairer]
+[Same as CFW 4 Installer/Repairer]
+A person who is assessed as fully competent at this work level and across
+all work functions performed in this position analysis,
+would be eligible to
+attain the following Australian Qualifications Framework Competencies and/or
+certificates.
+[items in the list re-ordered to line-up equivalent items across the four
+3 of the required 7 competencies for AQF2, Certificate ii (Cabling)
+[No direct equivalent]
+[No direct equivalent]
+7 of the required 7 competencies for AQF2, Certificate ii (Cabling)
+4 of the required 6 competencies for AQF3, Certificate iii (Cabling)
+1 of the required 5 competencies for AQF4, Certificate iv (Cabling)
+2 of the required 6 competencies for AQF3, Certificate iii (CAN)
+3 of the required 5 competencies for AQF4, Certificate iv (CAN)
+[Same as CFW 5 Installer/Repairer]
+6 of the required 6 competencies for AQF3, Certificate iii (CAN)
+CFW 4 Installer/Repairer
+CFW 5 Installer/Repairer
+CFW 7 Installer / Repairer
+CFW 4 CAN Infrastructure Build
+1 of the required 6 competencies for AQF3, Certificate iii
+(Telecommunications)
+2 of the required 5 competencies for AQF4, Certificate iv
+(Telecommunications)
+[Same as CFW 5 Installer/Repairer]
+[No direct equivalent]
+4 of the required 6 competencies for AQF3, Certificate iii (CPE)
+1 of the required 4 competencies for AQF5, Diploma In (CPE)
+4 of the required 5 competencies
+for AQF4, Certificate iv (CPE)
+[Same as CFW 5 Installer/Repairer]
+[No direct equivalent]
+Mr Jayawardana was employed by
+Telstra Corporation Ltd until 8 December 2022, with his employment transfer to
+Telstra constituting
+a transfer of business under the
+Fair Work Act 2009
+(Cth) and all liabilities of Telstra Corporation Ltd transferred to Telstra.
+Both entities are referred to as ‘Telstra’
+in this decision.
+of the Act provides
+that a person must not contravene a term of an enterprise agreement.
+Section 539
+of the Act provides that
+is a civil remedy provision.
+Section 545(3)
+applies in respect of an amount required to be paid by an employer under the Act
+or Fair Work Instrument, and the employer has contravened
+a civil remedy
+provision by failing to pay the amount.
+2022 Agreement, s 14,
+Dictionary.
+2022 Agreement, cl 7, Appendix
+B. B2.1 contains the minimum fixed remuneration rates which apply to Mr
+Jayawardana, as a Workstream
+Employee who is not a member of a defined benefits
+fund. It contains rates for Workstream Bands 1- 12.
+2022 Agreement, s 14,
+Dictionary.
+2022 Agreement, s 14,
+Dictionary.
+[2017] FWCFB 3005
+(2017) 268 IR 285
+[2017] FWCFB 3005.
+Ibid, [114].
+[2019] FCA 1762
+[22] (Appeal dismissed
+Thiess Pty Ltd v Sheehan
+[2019] FCAFC 198).
+[2023] FCAFC 66
+(2023) 324 IR 304
+[2023] FCAFC 66
+, [71]-[72], citing
+Sheehan v Thiess Pty Ltd,
+Australian Rail, Tram and Bus Industry Union v KDR Victoria Pty Ltd (t/as
+Yarra Trams)
+[2021] FCA 1377
+, Wheelahan J.
+[8]; citing
+Workpac v Skene
+[2018] FCAFC 131
+(2018) 264 FCR 536
+; 280 IR 191,
+(Tracey, Bromberg and Rangiah JJ).
+(2018) FCCA 45.
+Ibid, [12]-[14], cited in
+Michael Watson v Safe Places Community Services Limited
+[2020] FWCFB
+[2020] FWCFB 2993.
+Ibid, [33], citing
+Christian Carnes v MSS Security Pty Ltd
+[2019] FWC 7695
+The ‘Customer Access
+Network’ or CAN is the network that connects customer premises to Telstra
+exchanges, as distinct
+from the ‘Inter Exchange Network’
+) which connects exchanges to each other.
+The parties agreed that Net
+Maps is a database that produces a visual top-down view of Telstra’s
+physical assets including
+the fibre network, with fibre infrastructure overlayed
+A platform for recovery
+of damages from parties who damage Telstra cable.
+I have considered the
+complexity of the work of the DFST more generally below.
+Mr Jayawardana abandoned a
+submission that his classification should be assessed based on the highest level
+of work he performed.
+The 2022 Contract also
+contains a clause permitting changes to Mr Jayawardana’s role. I have not
+considered this to be relevant
+to an assessment of the classification of his
+current role, as changes made pursuant to that clause may also entail a change
+of classification.
+As described in
+Carnachan Family Trust Pty Ltd
+(2018) FCCA 45
+, [14]. This does not extend to
+work performed by Mr Jayawardana whilst on secondment, which I consider falls
+outside the scope of
+[1993] VicRp 76
+[1993] 2 VR 343
+(Brooking J).
+[2019] FCA 1762
+[2017] FWCFB 3005
+(2017) 268 IR 285
+[2017] FWCFB 3005
+[2018] FCAFC 131
+(2018) 264 FCR 536
+191, (Tracey, Bromberg and Rangiah JJ).
+[2021] FCA 1377
+[2020] FWCFB 2993
+[2017] FWCFB 3005
+(2017) 268 IR 285
+[2017] FWCFB 3005
+[2019] FCA 1762
+(Appeal dismissed
+Thiess Pty Ltd v Sheehan
+[2019] FCAFC 198).
+2022 Agreement, s 14,
+Dictionary.
+[2020] FWCFB 2993
+The programming of services
+and networks is referred to in each CJD but is not work undertaken by Mr
+Jayawardana.
+See Appendix 1.
+See paragraph
+It was agreed that
+‘PABX’ (Private Automatic Branch Exchange) is a mini exchange at
+customer premises for an internal
+telephone network. ‘Data & Special
+Services’ refers to a specialised service on the copper network. MDF (Main
+Distribution
+Frame) is copper infrastructure which connects equipment to cables,
+and may be located at an exchange or customer premises.
+See paragraph
+There is no equivalent function for the CAN Infrastructure Build CJD.
+The CAN Infrastructure
+Build CJD is substantively the same as Installer/Repairer CFW4, with some minor
+differences which are not
+See paragraph
+In contrast to the process
+for changing the CJDs (by agreement between Telstra and the Telstra Unions)
+provided for in the 2002
+Agreement at cl C1.2(e).
+See further paragraphs
+See paragraph
+Workpac v Skene
+[2018] FCAFC 131
+(2018) 264 FCR 536
+; 280 IR 191,
+(Tracey, Bromberg and
+Rangiah JJ).
+(2023) 324 IR 304
+Print (pretty)
+Print (eco-friendly)
+RTF format (2.09 MB)
+Signed PDF/A format
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

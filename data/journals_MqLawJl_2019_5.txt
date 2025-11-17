@@ -1,0 +1,3947 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/MqLawJl/2019/5.html
+Scraped: 2025-11-17 15:21:23
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Metzger, James --- "The Current Landscape of Blockchain-Based, Crowdsourced Arbitration" [2019] MqLawJl 5; (2019) 18 Macquarie Law Journal 81
+THE CURRENT LANDSCAPE OF BLOCKCHAIN-BASED, CROWDSOURCED
+ARBITRATION
+JAMES METZGER
+Online dispute resolution (‘ODR’) is in a state of rapid
+change and development. ODR platforms, such as British Columbia’s
+Resolution Tribunal, have been granted expanding mandates and the types of
+disputes that are being referred to these platforms
+has been increasing. To
+date, the existing platforms have been largely centralised; that is, either
+associated with the court system
+or organised by a centralised authority or
+administrator. More recently, however, many platforms have begun to emerge that
+to use blockchain technology to decentralise dispute resolution by
+crowdsourcing the adjudication of disputes to a worldwide pool
+juror-arbitrators.
+This article seeks to survey the current landscape of these
+blockchain-based, crowdsourced arbitration platforms, in order to explain
+each intends to operate, the similarities and differences amongst them and the
+conception of ‘justice’ that each
+one promotes. The goal of this
+overview is to achieve a better understanding of the promises of dispute
+resolution that each platform
+aims to produce. This kind of understanding is
+necessary to advance further discussion and consideration of the likely
+including the normative limitations, of using these
+technologically-based solutions for the resolution of disputes.
+I INTRODUCTION
+Online dispute resolution (‘ODR’) has been a significant and
+growing part of legal and dispute resolution systems for
+almost twenty
+Broadly considered, ODR
+describes an ever- widening ‘array of online procedures and technological
+tools that disputants and
+neutrals use to resolve
+Some of the
+earliest ODR platforms were developed by private companies in order to address
+small-scale consumer disputes in the e-commerce
+space. One of the best known of
+these platforms is the eBay Resolution Centre, which is generally cited as
+resolving at least 60
+million disputes per
+Other private forms of ODR
+can be found on platforms such as net-arb.com, SettleToday.com and from the
+e-commerce website Alibaba.
+More recently, ODR has begun to be integrated to work more directly with
+state and national court systems, with platforms such as
+the developing United
+Kingdom Online Solutions Court,
+the now defunct Rechtwijzer, which facilitated separation and divorce
+arrangements in the Netherlands.
+Probably the most developed of these court-integrated ODR platforms is British
+Columbia’s Civil Resolution Tribunal
+which has been
+in operation since 2016.
+has mandatory jurisdiction over small claims up to CAD $5,000, strata property
+and, as of 1 April 2019,
+motor vehicle accident injury disputes for damages claims up to CAD
+The intention of the
+British Columbia Parliament is for the CRT to increase the monetary threshold
+until it becomes the mandatory
+forum for all small claims disputes, the current
+Amongst the factors that these private ODR and court-integrated ODR platforms
+have in common is that both are centralised; in other
+words, established and
+operated by a singular, central authority. In the case of the eBay Resolution
+System or Alibaba’s e-commerce
+resolution platform, it is the company
+itself that provides the service and issues the decision, with the courts as a
+potential backup
+source of dispute resolution if there is a reason to escalate
+the dispute beyond the ODR
+court-integrated platforms, the centralised authority is the State, the laws of
+which establish the system of justice that
+the ODR platforms facilitate.
+More recently, private developers have begun to create ODR platforms that
+seek to use blockchain technology to decentralise the delivery
+resolution to disputing parties in any location through a worldwide network of
+self-selecting juror-arbitrators, all of
+whom interact through decentralised
+apps (‘dApps’) built on top of the blockchain. The ostensible goal
+of these emerging
+platforms is to provide a new kind of access to justice, which
+is necessary because, as the founders of one of these platforms put
+‘[e]xisting dispute resolution technologies are too slow, too expensive
+and too unreliable for an online real-time world.
+A fast, inexpensive,
+transparent and decentralised claim adjudication system will be a key
+institution for the Internet
+Each of these
+platforms, in some way, seek to remove dispute resolution from centralised
+authorities and organisations by creating
+a streamlined, technologically-based
+solution that, in the eyes of the creators, will dramatically reduce costs and
+delays whilst
+still providing disputing parties with a fair and considered
+The ability of these platforms to provide this kind of result leads to many
+normative questions relating to conceptions of justice
+and fairness and whether
+decentralised dispute resolution platforms are genuinely capable of providing
+These questions revolve
+around such issues as to the integrity of the platforms generally and, more
+specifically, the integrity of
+the juror recruitment and selection process; the
+sufficiency of game theory and crypto-economic principles to provide a system of
+fairness that can underpin the platforms’ design and operation; and
+whether the incentives and penalties that are designed
+to ensure honest juror
+participation are likely to be effective. Before these normative issues can be
+sorted out, however, it is
+both useful and necessary to obtain a more
+comprehensive picture of the basic landscape of these decentralised,
+blockchain-based
+platforms to understand better how many currently exist in
+various stages of implementation and development and how each intends
+justice for disputants once they are actually operating. This article aims to
+provide just this picture.
+Part II of the article will set out an overview of the blockchain and
+decentralised justice mechanisms in general. Part III will then
+describe the
+current state of the dApp development by identifying the platforms that
+currently exist, explaining what stage of development
+each seems to be at, and
+how each intends to deliver justice to the disputants through the platform
+design. It should be noted that
+it is reasonably easy to post a plan for
+starting work on a dApp, so the list may not be entirely complete as new
+platforms emerge
+with a great deal of speed. Part IV will offer some concluding
+remarks and will look ahead at some of the challenges and normative
+that will (or should) likely face the purported providers of this new form of
+II DECENTRALISED JUSTICE ON THE BLOCKCHAIN
+Central to these platforms being able to provide the kind of dispute
+resolution promised is the existence of blockchain technology,
+which in turns
+allows for the creation of smart contracts, and finally the ability for
+programmers to develop the dApps that work
+on top of and in conjunction with the
+blockchain. The aim of this Part of the article is to explain each of these
+concepts with an
+eye toward understanding how each is necessary for the
+operation of the platforms that will be discussed in the next Part.
+‘A blockchain is, in the simplest of terms, a time-stamped series of
+immutable record [
+] of data that is managed by cluster computers not
+owned by any single entity. Each of these blocks of data (i.e. block) are
+and bound to each other using cryptographic principles (i.e.
+These records,
+especially when a cryptocurrency like Bitcoin or Ethereum is involved, may
+consist of information such as credits
+and debits, or might record the ownership
+of property by providing a record of the
+One way that blockchains
+are often described is as a distributed ledger that contains all of these
+records in ways that are independently
+verifiable.
+One method for verifying the information contained on the blockchain is that
+– so far as the blockchains that will power the
+dispute resolution dApps
+discussed below are concerned – all of the information recorded is
+publicly available.
+As explained
+by Vitalik Buterin, the founder of the Ethereum blockchain:
+[A] public blockchain is a blockchain that anyone in the world can read,
+anyone in the world can send transactions to and expect to
+see them included if
+they are valid, and anyone in the world can participate in the
+– the process for determining what blocks get added to the
+chain and what the current state is. As a substitute for centralized
+quasi-centralized trust, public blockchains are secured by cryptoeconomics
+– the combination of economic incentives and
+cryptographic verification
+using mechanisms such as proof of work or proof of stake, following a general
+principle that the degree
+to which someone can have an influence in the
+consensus process is proportional to the quantity of economic resources that
+bring to bear
+Thus, all that is required to view the transactions that have taken place
+across the entirety of the blockchain in an internet
+connection.
+Although the digital records listed and stored on the blockchain are public,
+the identities of the parties that are engaging in those
+transactions remain
+private and, at least in theory, impossible to trace to an identifiable person.
+Instead, blockchain transactions
+are recorded using public keys –
+essentially random strings of numbers and letters – that correspond with a
+public account. The user will also have a private key – a
+separate string of numbers and letters – that allows account
+access their own cryptocurrency from their own digital
+The other method of verifying the recorded information, as well as ensuring
+that the information is safe and reliable, is related
+to the decentralised
+nature of the blockchain. Each block of information passes through a series of
+networked computers, called ‘nodes’,
+each of which is verifying the
+transaction that has been made on the blockchain.
+Blockchain technology removes fraudulent transactions. Compared with existing
+methods of verifying and validating transactions by
+third-party intermediaries,
+blockchains’ security measures make blockchain validation technologies
+more transparent and less
+prone to error and corruption. While
+blockchains’ use of digital signatures helps establish the identity and
+authenticity of
+the parties involved in the transaction, the completely
+decentralized network connectivity via the Internet allows the most protection
+against fraud. Network connectivity allows multiple copies of the blockchain to
+be available to all participants across the distributed
+decentralized, fully distributed nature of the blockchain makes it practically
+impossible to reverse, alter, or erase information
+contained in
+Put another way, the decentralised network uses a set of shared rules to
+verify each piece of information that is recorded in the
+‘Information already contained in a verified blockchain cannot be
+overwritten without reaching consensus with the entire
+network to propagate the
+altered information. So, while this is not to say that . . . invalid data cannot
+be posted, a strong effort
+is needed to do
+Because the blockchain has these independent, but interrelated, verification
+mechanisms – public view and decentralisation –
+the promise is that
+transactions carried out on the blockchain will be safe and reliable because
+they can be easily and definitively
+verified, with very little ability for bad
+actors to manipulate, falsify or change the records. Of course, the reality of
+and trust on the blockchain is still being determined, especially in
+light of high-profile cryptocurrency
+such as the hack of
+cryptocurrency exchanges Mt Gox,
+as well as the hacking
+of mobile phones that allowed for access to user’s cryptocurrency
+Blockchain technology has also facilitated the creation of ‘smart
+contracts’ that allow for peer-to-peer agreements to
+be arranged over the
+blockchain. In essence, a smart contract is a piece of code that is embedded in
+the blockchain infrastructure.
+The code allows for the translation of ‘legal prose into an executable
+The result is
+the creation of an algorithm that ‘carr[ies] out one or several
+pre-established operations, according to the
+’ principle. In other words, as soon as the necessary execution
+conditions are met, the operation is automatically carried
+Examples of smart
+contracts are Apple’s iTunes built in agreement that purchased songs can
+only be played on a limited number
+an automated banking
+transfer that is set to occur following a defined
+or the payout of a sports
+wager that occurs immediately following the outcome of the
+Each of these examples
+demonstrates how the programming of a smart contract can have ‘control
+over the physical and digital
+objects needed to effect
+execution.’
+This automatic execution is key to the operation of smart contracts as it
+allows for the smart contract to be decentralised. Rather
+than requiring human
+intervention to execute, the contract executes itself following the occurrence
+of some defined, possibly real-world,
+‘A smart contract
+does not rely on the state for enforcement, but is a way for contracting parties
+to ensure performance.’
+The contents of the smart contract, like all other information recorded on a
+public blockchain, is available to be viewed by anyone
+with an internet
+connection.
+However, even though
+the terms of the contract are publicly accessible, the identities of the
+contracting parties are still represented
+by the random string of numbers and
+letters that comprise the user’s public key. This means that parties could
+enter into a
+smart contract on the blockchain without ever knowing who is on the
+other side of that contract.
+Because the contract is self-executing, there is not necessarily a need to know
+the identity of the counterparty because performance
+and execution is guaranteed
+through the automation built into the code.
+What is still largely undetermined is how parties, particularly when those
+parties are unknown to one another, are to settle disputes
+that arise following
+the automatic execution of a smart contract. It is possible that parties can
+still rely on traditional and existing
+courts and ADR processes such as
+mediation and arbitration to address smart contract
+But, reliance on these
+institutions may not be so simple. In the first instance, there may be
+complications regarding whether and
+how a court has jurisdiction over the
+dispute or over one or all of the parties to the smart
+Even if a court had
+especially because the contract
+is not written in plain language, but rather in
+the language of executable computer
+The code may not be
+capable of straightforward interpretation, even by other computer
+programmers,
+and may not be
+flexible enough as a language to represent the parties’ intent in forming
+the contract or defining their relationship
+that is to be governed by
+A further issue with respect to contract terms is that courts will
+necessarily be addressing issues that have arisen after the self-execution
+the smart contract. In other words, rather than the likely usual circumstance
+where a party to a contract does not perform some
+obligation, whether taking
+action or making payment, and the court can address the issues of breach prior
+to the execution of the
+performative terms of the contract, a court addressing
+issues on smart contracts will be looking at the circumstances after the
+has already executed
+It is unclear how a
+court would be able to unwind, much less stop, smart contract execution since
+that step is built into the code
+and cannot, easily or altogether, be
+Further, however, it is
+unclear how a court is to deal with circumstances that were not obviously
+contemplated by the parties because
+the specific circumstance is not written
+into the code and the contract has already executed itself. An example of this
+is if a traveler entered into a smart contract with a travel insurer
+for a payment to be made in the event that the traveler’s
+flight arrived
+The smart contract would
+execute itself and make payment to the traveler even if the flight was late
+because the traveler was solely
+responsible for the flight delay.
+The use of voluntary ADR could be one method of working around these
+complications, but traditional ADR may not be an ideal solution
+for at least a
+couple of reasons. First, the problem of anonymity remains an issue. A party
+wishing to engage in mediation or arbitration
+offline would have to know with
+whom they have been dealing in order to arrange the
+proceedings.
+Compounding the
+problem is that even if the identity of the party is known, or can be
+discovered, all parties would have to agree
+to participate in the process in
+order for it to work.
+More fundamental to the use of the blockchain, however, is that any of these
+resolution mechanisms, whether the courts or traditional
+ADR, are centralised
+procedures that defeat the proffered benefits of transacting on an entirely
+decentralised system within a decentralised
+network. Those that are using the
+blockchain may want to ensure that they are never forced to interact with the
+centralised world
+once they have engaged with the decentralised blockchain.
+Thus, it may be preferable to have an online, on-blockchain protocol of
+resolution that can be written into the smart contract that would avoid the
+issues associated with identification, jurisdiction
+and centralisation of the
+dispute resolution process.
+III DISPUTE RESOLUTION ON THE BLOCKCHAIN
+The platforms discussed below are offered by their developers as the solution
+to the problems just described. Each platform promises
+to provide a method of
+resolving disputes that gives parties to a smart contract an option to include
+an automatically available
+dispute resolution mechanism that can be encoded
+directly into the contract. The smart contract itself would still ultimately be
+self-executing, but the dispute resolution mechanism would allow for the
+automation of the execution to be suspended pending the
+outcome of the dispute.
+How that outcome is determined is one of the factors that differentiate these
+platforms from one another.
+Understanding the similarities and differences
+amongst the platforms may help to determine if one or another contains elements
+might be more desirable to support, on either a practical or normative
+analysis. Understanding the platforms may also assist in identifying
+normative questions that should be further considered in terms of the procedural
+fairness that can be offered by decentralising
+dispute resolution in the way
+that these platforms propose.
+At the most basic end of the spectrum are platforms that merely facilitate
+the drafting and implementation of a smart contract, without
+also providing a
+dispute resolution protocol. One example of this is
+OpenLaw presents itself
+as primarily a resource for the legal industry as it is pitched toward lawyers
+who are engaged in advising
+clients on smart contracts. As explained on its
+website, ‘Using OpenLaw, lawyers can more efficiently engage in
+transactional
+work and digitally sign and store legal agreements in a highly
+secure manner, all while leveraging next generation blockchain-based
+contracts.’
+OpenLaw is an
+open source repository for smart contract templates, with more than 500
+currently available.
+also provides what it calls ‘Legal Markup’ language, which allows
+drafters to modify the existing templates with
+plug-in code to enable features
+such as ‘if → then logic, aliasing, multi-variable expressions,
+hidden variables, and
+. . . basic
+calculations.’
+This is hardly the only source for smart contract
+but does demonstrate
+a still reasonably early effort to disseminate smart contract drafting
+principles to the greater legal community.
+The issue of resolving disputes
+related to those contracts is, however, not addressed.
+Mattereum Protocol
+A further step toward blockchain-based dispute resolution has been made by
+the developers of the Mattereum Protocol (‘Mattereum’),
+describes itself as a way of ‘turning law into
+The foundation for
+the Mattereum is the use of what is known as a Ricardian contract, which was
+invented in 1995 by Mattereum’s
+Chief Scientist, Ian
+A Ricardian contract is a
+method of converting a plain-language document, including a natural language
+contract, into a digital,
+computer-readable format that can also be
+electronically signed by the parties and recorded on the
+blockchain.
+The advantage of the
+Ricardian contract is that even after it is digitised, it still retains its
+natural language format, so it can
+still be read by people without needing
+expertise in programming languages and computer
+This goes some way toward
+alleviating the issue referred to above of misunderstanding and complexity of
+interpretation that come
+from the rigidity and limitations of using code to
+express basic contract and relational terms.
+Mattereum’s focus is on using these Ricardian contracts as the basis
+for creating an infrastructure within which property ownership,
+tokenisation of
+property and eventually full transfer and sale of property can occur entirely on
+the blockchain. As explained in
+late 2018 in its Summary White Paper, Mattereum
+has taken the initial concept of using Ricardian contracts and has begun to
+it to an actual piece of owned property – a Stradivarius violin
+worth USD $9,000,000.
+the infrastructure that allows for asset management and governance and to bridge
+the gap between the blockchain and the
+real-world (in which the physical violin
+actually exists), Mattereum has instituted what it calls a ‘governing
+that will have ‘legal decision-making powers over the
+instrument, protecting and curating it on behalf of the token holders
+posterity, in accordance with a written
+constitution.’
+concept of the ‘governing committee’ seems (though it is unclear
+exactly how since the governing committee is never
+mentioned again in the
+Mattereum White Paper) to intersect with the related concept of the
+custodian’,
+which is to be
+created for each asset managed by the smart
+The automated
+custodian is the term given to the entity that is designated the ‘legal
+, maintaining the authoritative register of interests
+in the asset.’
+owner at least for the duration of the smart contract, the registrar is able to
+enter into sub-contracts, including licenses,
+or subdivide ownership of the
+asset through the use of shares or digital tokens, so long as such
+sub-agreements are in accordance
+with the governing
+constitution.
+To use the example of the violin, the constitution might provide that the
+violin cannot merely remain in a vault appreciating in value,
+but instead has to
+be played publicly.
+constitution might specify that the violin must be played in no fewer than six
+concerts per year in no fewer than three
+The registrar of the
+asset would then be obligated to ensure that no subsidiary agreements were made
+that would defeat this governance
+requirement.
+The governance
+structure could also establish a ‘curatorial board’ to make
+decisions such as which violinists should
+have priority to play the instrument,
+which concerts and countries are to be preferred and when and how the instrument
+serviced and
+maintained.
+The conditions that are placed on the violin can be administered through the
+use of digital ‘tokens’, the creation of
+which is available on
+blockchains such as Ethereum.
+Mattereum envisions the use of two separate kinds of tokens related to the
+assets – financial benefit (or security) tokens
+and right of use (or
+utility) tokens.
+The financial
+benefit tokens would essentially represent an investment interest in the asset
+and grant the holder a right to be paid
+a portion of the asset’s value
+upon sale or to receive a portion of the income generated through licensing. The
+right to use
+token could be granted to give a token holder the right to
+‘access, possess, play, remix, display, or otherwise interact with
+As with all public
+blockchain records, all contract and governance terms, the register of assets
+and the list of holders of tokens
+would be publicly available, though the
+identities of any individuals would not be.
+The Mattereum White Paper claims that the focus as it has been developing
+this infrastructure has been on dispute avoidance rather
+than on dispute
+resolution,
+which may explain
+why very little mention is made about the actual plan to resolve disputes.
+Interestingly, the Mattereum Working
+Paper does address initial ideas about
+resolving disputes that may arise regarding the assets, but these ideas are all
+terms of a vaguely defined arbitration
+The Mattereum Working
+Paper makes several references to the decentralised nature of the
+enterprise,
+yet the introduction
+of arbitration as the means to resolve disputes first refers to the necessity of
+a ‘body of law’
+as well as a reference
+Convention on the Recognition and Enforcement of Foreign Arbitral
+The main reference to
+arbitration then refers to the use of ‘arbitration
+associations’,
+described in terms that suggest that the authors are contemplating centralised,
+existing arbitration providers (though
+the ultimate meaning is unclear and never
+fully defined).
+This does not necessarily mean that there is a failure in not providing fully
+decentralised dispute resolution, and as the normative
+questions around
+decentralised dispute resolution continue to evolve, it may be that
+decentralised dispute resolution is not a good
+but it does point to a lack
+of clarity as to where Mattereum’s priorities lie. The Working Paper does
+provide a clue as to
+Mattereum’s priorities as an investment vehicle and
+property management business rather than as a developer interested in advancing
+blockchain-based dispute resolution. In the Business Model section, the
+Mattereum Working Paper states:
+We believe that the correct approach to this space is not to directly
+intermediate any of the value flows (this is, after all, meant
+decentralization exercise!) but rather for Mattereum to have a dual nature:
+setting up the infrastructure, and then acting
+as a (lead) investor in the
+companies that are coming into the space to build businesses in the ecosystem
+If Mattereum is intended to be more of an investment and property management
+platform, rather than a dispute resolution oriented one,
+it should not be that
+much of a surprise that its approach to resolving blockchain-based disputes is
+fairly rudimentary. Still, it
+is a step forward in attempting to use the
+technology to address disputes that arise on the blockchain.
+Rhubarb Fund
+Many of the remaining platforms to be discussed use some form of
+crowdsourcing of decision-making by putting disputes to a public
+vote. One of
+the simpler of these kinds of platforms is Rhubarb Fund (‘Rhubarb’)
+which presents itself as a kind of hybrid
+dispute resolution and investment
+vehicle. As described in its White Paper, ‘Rhubarb . . . is changing the
+way disputes are
+resolved by developing, funding, and promoting rapid
+distributed consensus mechanisms (RDCM’s) that make faster, cheaper, and
+more democratic forms of civil justice
+To provide this
+consensus-based dispute resolution, Rhubarb is going to be issuing its own
+proprietary digital token, the
+Holders of RHUCoin, or
+at least those that obtain RHUCoins through the Initial Coin Offering
+(‘ICO’), are described as
+investors in Rhubarb, who will
+‘share in future appreciation derived from expanding usage of, and demand
+for, new forms of
+distributed dispute resolution, legal settlement
+administration, and other evolutions in decentralised law that Rhubarb develops
+and/or invests in.’
+Rhubarb is positioning itself not just as a contract administrator or provider
+or as a dispute resolution platform, but rather states
+that it will serve
+‘both as an investor in legal tech and a developer and promoter of
+‘new law’ innovations using
+blockchain, cryptocurrency, and other
+distributed
+processes.’
+The RCDM method of dispute resolution being provided and facilitated by
+Rhubarb takes the form of a ‘poll verdict’ which
+is simply the
+result of a poll of all RHUCoin holders who submit votes as
+The mechanism for
+resolution of disputes through Rhubarb is relatively straightforward: the party
+raising the dispute posts it on
+Rhubarb’s dispute portal, along with
+proposed resolution options. The example provided by Rhubarb is that an insured
+dispute with her insurer over an auto insurance
+The insured posts the
+dispute and proposes three solutions on which jurors can vote: the insurance
+company pays the full amount of
+the claim; the insurance company pays half the
+amount of the claim; or the insurance company pays nothing. Jurors may also be
+an option to suggest further resolution options. The party registering the
+dispute can then decide the maximum number of jurors that
+can register votes and
+the distribution of the background and experience of those jurors. For example,
+if the insured was a New South
+Wales resident, she could designate that the
+matter be decided by a maximum of 1000 jurors, with 400 of them to be consumer
+250 insurance professionals and 350 NSW consumers. The parties can
+then agree as to the effect of the decision reached by the jury
+outcome can be treated as arbitrative and binding; mediative and non-binding; or
+as a form of expert opinion for the
+In order to register a vote, the jurors deposit one of their RHUCoins and
+submit their decision. It is unclear whether or how Rhubarb
+intends to prevent
+the parties from holding RHUCoins and deciding their own cases or whether and
+how jurors will be restricted from
+voting more than once. This lack of clarity
+speaks to the necessity of further inquiry into normative questions related to
+the integrity
+of the platforms and the integrity of juror voting.
+The end result of the voting is a set of consensus decisions – the
+overall consensus of all jurors and the consensus decision
+of each designated
+group of jurors, each of which may provide the parties with useful information,
+particularly where the overall
+non-binding.
+Jurors who do not
+vote with the overall consensus will forfeit their deposited RHUCoins, which
+will be redistributed pro-rata to
+the jurors in the consensus
+Incentives are also
+provided for jurors who suggest resolution options that become the consensus.
+Those jurors must deposit more
+than the standard 1 RHUCoin in order to suggest
+an option but will receive a five-times bonus return if their suggested option
+overall consensus.
+this way, the RDCM process is described by Rhubarb as
+‘self-funding.’
+As of this writing, Rhubarb has 22 cases open for
+each of which allow
+voters to earn RHUCoins, which are not yet generally available either through
+the ICO or direct purchase on a
+In addition, three
+cases are listed as closed and one as having been settled by the parties. The
+ICO is scheduled to take place sometime
+in the first half of
+Jury.Online
+Jury.Online, which has been in operation since September
+is another hybrid
+platform, combining the ability for consumers to invest in ICO projects with a
+dispute resolution mechanism for
+issues associated with those
+investments.
+Jury.Online
+contains fairly specific requirements for deal offerors who are posting deals,
+in the form of smart contracts, to the
+platform. Primarily, any deal offered
+through Jury.Online must include a set of ‘Milestones’ that are
+intended to give
+investors guidance as to whether the terms of the deal are
+being fulfilled and to serve as the basis for any disputes that may
+The smart contract must
+also include a method for dispute resolution, which may include identifiers for
+the pool of judges that will
+be used to resolve the
+The actual dispute resolution process is not entirely clearly described at
+present. The process is referred to both as arbitration
+(in text under the
+heading ‘Refund’)
+and as mediation (in the heading ‘Mediation Decision-Making
+Procedure’),
+there may be some confusion about the effect of process and terminology. The
+intent from the description seems to be that
+Jury.Online will be providing a
+binding resolution, but this is not clear either, pointing again to questions
+surrounding the integrity
+of the platform and the decision-making process that
+is being utilised. A party that wishes to initiate a dispute will have to do
+within the parameters, including time-frame, established by the terms of the
+smart contract (e.g. within three days of a
+Milestone).
+Initiating the
+dispute will then automatically trigger the process for appointing the judges
+who will decide the outcome. The judges
+will come from a ‘pool’,
+also recorded on the blockchain, that is a constantly-updating list of active
+judges, any of
+which may be selected to resolve the
+It appears that the
+current mediator/judge pool can be viewed on Jury.Online’s
+The pool of judges could come from this set of ‘mediators’ who
+are registered by Jury.Online, but the smart contract could
+also designate that
+the judges be selected from a third-party service
+The judges remain
+anonymous from the parties and anonymous from each other. Though the parties do
+not know the identities of the
+judges, the competence of the judges is revealed
+to the parties, though the Jury.Online White Paper does not specifically state
+this is to be
+communicated.
+The parties
+could also agree to appoint a known judge, rather than anonymous random
+though it is not
+clear if this choice would have to be designated in the smart contract or could
+be addressed when the dispute arises.
+Judges are incentivised to participate in
+the process, and to render reasoned decisions, because they are rated based on
+the judgments
+they make and receive compensation for rendering decisions.
+According to the Jury.Online White Paper, these incentives should cause
+to resolve disputes ‘fairly and correctly, rather than to randomly pass
+their verdicts,’
+nothing is provided to indicate how the developers of the platform are
+conceiving of gauging or measuring either fairness or
+correctness. These issues
+point to further normative concerns regarding the effectiveness of incentives
+being provided to decision
+Aragon Network
+Aragon Network (‘Aragon’) describes itself as ‘the
+world’s first digital
+purports to provide dispute resolution solutions for decentralised autonomous
+organisations (‘DAOs’), which can be
+defined as ‘a set of
+smart contracts
+that encode the bylaws of the entire
+organisation’ and that are ‘designed to run autonomously on a
+blockchain and ...
+solely controlled by code, without any need for human
+involvement.’
+side of DAO operation is, of course, that these organisation have real-world
+utility and facilitate transactions between
+people, possibly resulting in
+disputes. Aragon proposes to offer a means to resolve these disputes through its
+First, Aragon states that agreements entered into between a person and the
+DAO will be in some kind of human-readable, natural language
+form, as well as a
+computer-readable one.
+human-readable agreement appears as if it will differ in some respect from the
+Ricardian contract promoted by Mattereum, since
+Aragon is not adopting
+Mattereum’s protocol, which it describes as not suitable for
+‘blockchain-native’ entities
+that do not have a physical, real-world
+analogue, such as a piece of
+The parties to each
+side of the agreement will have to deposit collateral in the form of an Aragon
+Network Token (‘ANT’)
+that will remain deposited for the life of the
+contract in case a dispute
+The disputes related
+to these agreements will then be adjudicated in Aragon’s network courts,
+which operate as arbitral
+Following the
+initiation of the dispute, Aragon’s system will randomly select five
+jurors who have ‘activated’
+their reputation, which is earned by
+having previously been in the majority of deciding judges in prior
+Aragon’s courts operate on two related game-theory principles. The
+first, which is used by other platforms discussed below,
+is the Schelling
+A Schelling Point
+assumes that there will be a consensus result that independent actors would
+arrive at because it is a logical
+For example, a
+simple Schelling Point would be that if a person was to be meeting a stranger in
+Sydney and neither party had previously
+suggested a meeting time and place, both
+parties might independently suggest meeting at noon at Town Hall because that
+natural and common time and place. The assumption that jurors will
+arrive at a Schelling Point, and that that Schelling Point will
+necessarily be
+the ‘correct’ outcome for the dispute, is further established
+through the system of reputation debits
+and credits that are associated with the
+jurors’ decisions. Any juror that is part of the Schelling Point consensus
+reputation, whilst any juror who is outside of the consensus will be
+penalised with a deduction of reputation. The ability of the
+Schelling Point to
+provide for a normatively justified ‘correct’ result is another
+issue related to platforms such as
+Aragon that requires further
+consideration.
+Aragon adds another layer of game theory meant to deter or eliminate the
+possibility of juror bribery by requiring that all jurors
+agree to a code of
+conduct that defines their responsibilities as
+The sample code
+provided in the Aragon White Paper includes terms such as that a juror will flag
+their case for review if either
+party attempts to bribe the jury, and will vote
+for the non-bribing side, or that the juror will dismiss any case in which both
+seek to bribe the
+This mechanism is
+described as a ‘metagame with a Nash equilibrium that favours honest
+jurors over malicious agents and dishonest
+jurors attempting to influence court
+decisions.’
+to be staked by the parties to the dispute, which are distributed to the
+This again raises
+issues regarding the ability of incentives, particularly game theory-based
+incentives, to moderate juror behaviour.
+Appeals are available following the adjudication of a dispute, but judges
+will be limited to those with the highest reputation and
+the fees that the
+parties will have to stake will also
+hierarchical court structure also includes a supreme court, which
+‘enforces and encodes the community values
+of the Aragon
+The supreme
+court will have final appellate review over any disputes that escalate to that
+level and the supreme court jury will
+be composed of the top nine judges who
+received the most payouts based on their prior decisions within the
+Jur similarly promises to provide a solution for parties to create and enter
+into smart contracts that can include a built-in dispute
+resolution mechanism
+via Jur’s platform.
+also uses a system of game theory incentives, supported by its token also called
+‘Jur’ to encourage participation
+and honest, considered
+decision-making. In Jur’s system, the parties to a contract can designate
+the dispute resolution mechanism
+as either open or
+If open is selected,
+then any Jur token holder may serve as a juror. If a ‘Closed Hub’ is
+chosen, only a subset of vetted
+jurors who meet designated conditions may decide
+No fee is charged
+to either party in the dispute and the jurors are compensated solely by the
+redistribution of tokens from non-majority
+jurors to the majority
+The parties are
+required to propose a resolution option, which the jurors will consider when
+Jur’s redistribution of tokens to the majority is unique amongst the
+existing platforms. Rather than distributing tokens pro-rata
+to all jurors in
+the majority, Jur will only redistribute tokens to those jurors that were
+to comprise the majority, in other words the first votes cast
+on what ends up as the majority
+For example, if 15
+tokens were voted in a dispute of A v B, 10 for A and five for B, the five
+tokens that were voted for B would
+be forfeit as B lost the dispute. However,
+only 5.1 votes were needed to establish the majority for A. So, the five tokens
+by the B voters will be redistributed pro-rata only to those 5.1 voting
+jurors who voted for A first. The number of votes on each
+side will also always
+be visible to all jurors.
+According to the Jur White Paper, this system should incentivise jurors to
+vote for the minority at the time of vote-casting if they
+believe the minority
+has the right position and will ultimately prevail (rather than simply voting
+with the then-majority to ensure
+retention of tokens), since a juror will only
+be rewarded with more tokens if enough of the other jurors side with the
+minority to
+make that juror’s majority vote
+Jur’s system will also restrict voting for the majority when the majority
+votes exceed that of the minority vote by 200%, so
+as not to allow for an
+insurmountable advantage for the then-majority. These innovations may address
+some of the issues associated
+with platform design and operational integrity.
+The effectiveness of any incentives in this area, however, still requires
+consideration.
+OATH Protocol
+OATH Protocol (‘OATH’) seeks to provide a dispute resolution
+mechanism that can be incorporated into any smart
+rather than seeking
+to provide smart contract drafting as
+OATH assumes that any
+community user with blockchain experience has both common sense and sufficient
+knowledge to be able to evaluate
+evidence and make reasoned decisions to decide
+This seems to be
+another way of expressing reliance on consensus decision-making to support the
+claims of fairness in resolving these
+blockchain disputes.
+OATH makes specific reference to the selection of common law juries as a
+point of comparison for its eventual jury pool, since juries
+are an initially
+random collection of community members who come together to resolve disputes in
+court. OATH claims, without providing
+additional proof of the claim, that where
+a jury makes a decision ‘[a]ll community members share the consensus that
+the verdict
+OATH, therefore,
+describes its model as essentially transporting the jury system onto the
+blockchain. The blockchain technology,
+in turn, is described as being able to
+‘ensure the authentication of smart contract agreements and immutability
+of the evidence
+provided by the
+proof is offered to support the claim that evidence should be considered
+‘immutable’ merely because it is
+related to an agreement that is on
+the blockchain, since that evidence is likely to relate to real-world activities
+and real-world
+actions rather than existing entirely on the network.
+OATH’s most unique feature seems to be its commitment to a diverse set
+of jurors that will be selected from its pool by its
+algorithm. OATH states that
+whilst the identity of all jurors will remain anonymous, any juror that
+registers will have to provide
+information such as ‘age, gender,
+nationality, occupation and education
+algorithm will then select most of the jurors to decide a particular dispute
+based on those categories. Rather than
+redistributing tokens, OATH will assign
+each juror a credit level, with increased credit given to jurors who vote in a
+majority decision
+and credit being deducted from those who render ‘serial
+wrong judgments.’
+higher credit rating results in higher rewards and increased odds of being
+selected for future disputes. Jurors will also earn
+arbitration fees, to be paid
+out of tokens deposited by the disputing parties. This system seems to be an
+attempt to address some
+issues of the integrity of the juror recruitment
+process, though questions surrounding the effectiveness of incentive structures
+once those jurors are chosen to determine a matter still remain.
+The parties to a smart contract that designates OATH as the dispute
+resolution protocol will include a resolution plan in the smart
+contract code.
+This plan can consist of specifics such as the number of jurors, the percentage
+of votes needed to prevail, and the
+category requirements of the jurors to be
+Once a dispute is
+initiated, OATH sends out notifications to the prospective juror pool, with
+information including the arbitration
+fees and other ‘key details of the
+Jurors can then
+decide whether they wish to participate in the decision. It is possible that not
+enough jurors will elect to decide
+the case, in which case OATH will
+‘reject’ the parties’ resolution plan and require that they
+amend it to further
+incentivise juror participation, such as by increasing the
+award to jurors or decreasing the number
+This suggests that
+market forces may be dictating, at least to some degree, the dispute resolution
+processes available to the parties.
+OATH, however, states that the revision of
+the resolution plan ‘allows the parties to control and manage the cost of
+Jurors are incentivised to participate in the process actively by taking part
+in deliberation discussions about the evidence submitted
+by the parties. Jurors
+may earn bonus payouts and additional credit if they address ‘critical
+points’ and participate
+discussion.
+Just who is to
+identify a critical point and how it is to be assessed is not disclosed or
+otherwise explained. Appeals may be initiated
+for additional fees to the parties
+and the smart contracts are programmed to accept up to two
+Juris is the most structured of the current set of blockchain-based, dispute
+resolution options.
+also uses its own token, the ‘JRS’, to incentivise juror behaviour,
+but before jurors are even necessary, the mechanism
+for resolving disputes is
+based more on a staged ADR strategy than an immediate referral to resolution by
+Juris refers to this
+staged approach as the ‘Juris Protocol Mediation and Arbitration
+incorporates what it describes as a ‘novel reputation system based on
+prior certification, ongoing community activity,
+machine learning, and graph
+Juris’ materials include a mission statement with three goals:
+‘(1) To make smart contracts on any blockchain safe, robust,
+legally enforceable, and open source; (2) To make access to civil justice and
+legal help as widely and publicly available
+as The Internet; (3) To bring
+effective, peaceful, fair and balanced dispute resolution to the billions
+underserved and overcharged
+by established legal
+infrastructure.’
+accomplish this mission, Juris has devised its Protocol, which consists of three
+dispute resolution steps.
+The first is named ‘SELF Mediation’ which occurs on an embedded
+layer of Self-Enforced Library Functions
+SELF Mediation provides the parties with a ‘range of popular mediation
+tools and techniques intended to facilitate resolution
+conflicts.’
+These tools
+are available on Juris’ platform through its user dashboard. Use of the
+SELF Mediation tools does not require the
+deposit of any JRS, so there is
+effectively no additional cost to the parties.
+Should the parties not be able to resolve their dispute using these mediation
+tools, the dispute moves to the next stage: SNAP, or
+Simple Neutral Arbitrator
+Poll, judgment.
+Proceeding to
+a SNAP judgment will require that the parties stake JRS as a fee to be paid to
+the poll participant voters. The Juris
+platform will provide all
+‘Jurists’, or those people who are registered with Juris, the
+opportunity to view information
+regarding the dispute and to register their
+opinion. The parties will receive the result of the poll, as well as a
+‘brief opinion
+from the [voting]
+The parties may
+then use this polling information to return to the SELF Mediation layer and
+resolve the dispute without further cost.
+If the parties still fail to resolve their dispute, the final stage is a
+binding PANEL, or Peremptory Agreement for Neutral Expert
+Litigation,
+This determination,
+which Juris states will be enforceable according to United Nations treaty, will
+be made by a panel consisting
+only of Jurists with the highest reputation level,
+known as ‘High
+As explained
+in the Juris White Paper, ‘This panel will be selected by UN mandated
+rules, and convene virtually through the
+Juris Platform. They will have a
+pre-determined amount of time to hear additional arguments from the parties,
+request, collect, and
+review additional evidence, consider arguments,
+The panel can ask
+questions of either party and may seek to hold video-based
+A presiding High
+Jurist will render a decision on behalf of the panel, which will be binding on
+the parties.
+The initial pool of Jurists is to consist of ‘existing, certified,
+arbitrators and legal
+professionals.’
+Jurist pool grows, Jurists will be classified in one of three tiers. High
+Jurists are those with the highest reputation and
+can make PANEL judgments. Good
+Standing Jurists are experienced with the platform and have contributed to prior
+decisions, and therefore
+are able to fully participate in SNAP poll judgments.
+Finally, Novice Jurists are those that are new to sign up and are able to
+to discussions during the SNAP poll period and register a vote, but
+that vote will not be included in the vote tallies communicated
+There is also a structure for Jurists to increase their reputation (or have
+it decreased).
+Reputation can
+be enhanced by contributing to discussions during the SNAP polls. The usefulness
+of a participant’s contributions
+can be measured by soliciting ratings
+from other participants, similar to GitHub or Reddit. Juris also anticipates a
+system of peer
+review amongst the High Jurists that take part in PANEL
+judgments, which can produce a set of endorsements that can be fed back into
+Juris reputation platform. These endorsements can then be used as ‘the raw
+data for a directed weighted graph’, which
+in turn will produce a
+‘trust metric’ for each
+Here, again, some
+issues of juror integrity seem to be implicated by Juris’ reputation-based
+structure, but the broader issues
+require further analysis.
+The final platform to discuss is the most developed, and perhaps the most
+ambitious, of the dispute resolution providers to emerge
+Kleros is thus far
+the only dispute resolution platform to have a functioning dApp, which is
+currently in operation for an actual,
+ongoing use case. The current dApp follows
+from an earlier beta test of the platform that commenced in July
+Kleros uses its own token, the Pinakion (‘PNK’) as the game
+theory mechanism to incentivise jurors to act reputably. As
+with Aragon, OATH
+and other platforms, Kleros relies on the Schelling Point to prevent jurors from
+making random, arbitrary
+determinations.
+The Schelling
+Point is administered by requiring that jurors put some of their holdings of PNK
+into escrow whilst the dispute is
+being determined. As with the other platforms,
+jurors who are in the decision majority will have their escrowed tokens returned
+any jurors who are in the minority will forfeit their tokens for pro-rata
+redistribution to the majority jurors. The expectation
+is that jurors will make
+reasoned, informed decisions and will ‘vote the true answer, because they
+expect others to vote for
+the true answer. . . In this simple case, the
+Schelling Point is
+Kleros operates through a system of hierarchically arranged sub-courts, with
+the deeper levels of court requiring more expertise of
+the members who elect to
+serve as jurors in that
+More general
+levels of court likely require less knowledge and expertise. People who want to
+serve as jurors in any Kleros court
+must hold PNK. This is because staking PNK
+is the means by which jurors will be selected to be part of a jury panel. The
+will designate in their smart contract the sub-court in which a dispute
+will be decided and how many jurors are to comprise the initial
+jury panel for a
+first-level dispute. In a simple example, the parties might provide that the
+initial jury is to be a panel of three.
+The jurors will then be chosen based on
+how many jurors have staked how many tokens in the sub-court. For example, if
+Person A stakes
+500 tokens and Person B stakes 1000 tokens and Person C stakes
+2000 tokens, then the odds of B being selected as a juror are twice
+as great as
+A and the odds of C being chosen are four times as great as A (and twice as
+great as B). PNK could initially be obtained
+by receiving an
+‘airdrop’ of tokens, available only to those who registered an early
+interest in Kleros, or by participating
+in Kleros’ Interactive Initial
+Coin Offering. Currently, PNK may be purchased directly on token exchanges, such
+as Bitfinex,
+This system is currently in operation with the ongoing use case, which is a
+curated list of trusted tokens listed on the Bitfinex
+Anyone can submit a
+token for inclusion on the list, though it is likely that the token developers
+or backers will be the ones to
+Once submitted,
+anyone in the community may challenge the inclusion of a token on the list for
+failure to meet specified
+A challenge
+requires depositing Ethereum currency (‘ETH’) as an arbitration fee,
+which will have to be matched by the
+submitter for the matter to proceed (and
+not be forfeited by the
+submitter).
+Following a
+challenge, the Kleros dispute resolution protocol is activated and PNK holders
+who have staked tokens in the curated
+list sub-court and been chosen to serve as
+jurors can access the court dashboard to view evidence uploaded by the parties
+and register
+their determination on whether the inclusion criteria are or are
+not satisfied.
+Appeals can be
+brought following a decision, but an appeal will always require double the
+number of jurors plus one (i.e. an initial
+panel of three will have an appeal
+panel of seven) with a proportionate increase in the arbitration
+Theoretically, there
+could be an unlimited number of appeals (unless limited by contract terms), but
+appeals may become too expensive
+for the parties to continue. As of this
+writing, 45 tokens have been submitted with 36 tokens having been accepted onto
+IV CONCLUSION
+It should be apparent that the ongoing development of these blockchain-based
+dispute resolution platforms open up a host of normative
+questions that deserve
+consideration before we should feel comfortable that the parties in dispute can
+actually receive the kind
+of ‘justice the platforms promise. As raised
+above, a primary issue for consideration is whether the Schelling Point is a
+satisfactory
+mechanism on which to base the assumption that a group of
+unidentifiable, dispersed people who may have different legal and cultural
+understandings of a particular dispute will be able to coalesce around a
+‘correct outcome.’ Related to these fundamental
+issues of game
+theory and crypto-economics are issues about the likely effectiveness of
+particular incentive structures to protect
+against jurors making arbitrary
+determinations or trying to game the system solely to avoid penalties. There are
+further issues associated
+with the juror pool, since the prospective jurors are
+initially a self-selecting group who are comfortable using blockchain
+technology,
+potentially limiting the general availability of jurors, which in
+turn reflects on the integrity of the jury system and the integrity
+platform. Beyond the limitation of juror participation that is dictated by the
+familiarity with technology, juror participation
+may be further limited as there
+may also be an economic barrier to entry. For example, the Kleros curated token
+list court currently
+requires that prospective jurors stake 80,000 PNK, with a
+value as of this writing of over $600
+for the possibility of
+being selected as a juror.
+Even though the majority of that stake is likely to be returned to any juror
+(whether in the majority or minority of a decision),
+it is still a large
+investment in tokens that must precede participation.
+The landscape of blockchain-based dispute resolution is new and rapidly
+changing. Some of the platforms described in this article
+may not succeed, but
+others may point the way forward not only for disputes that arise on the
+blockchain, but perhaps for some that
+begin in the physical world. The
+descriptions provided and questions raised in this article are intended to give
+a sense of the current
+state of the landscape and to set the stage for further
+exploration and research into the new world of resolving disputes that these
+platforms are creating.
+FAMILY LAW, ACCESS TO JUSTICE, AND AUTOMATION
+FELICITY BELL*
+Family law has historically been an area that many people end up
+traversing with only limited legal assistance. With increasing interest
+artificial intelligence in legal services has come an expanding range of family
+law applications. Many of these applications have
+potential to assist clients,
+lawyers and courts. However, clients will continue to need, and seek out, human
+lawyers to assist them
+in family law matters. Especially in the case of
+vulnerable parties and children, technology may not be an appropriate substitute
+for human family lawyers.
+I INTRODUCTION
+Several years ago, artificial intelligence (AI) was foretold – often in
+gleeful headlines
+spell the demise of the legal profession. This initial dramatic prognosis has
+given way to a more nuanced and qualified
+understanding of how AI is impacting
+the provision of legal services and how it may affect legal
+professionalism.
+Scholarship examining the impact of automation on governmental and
+administrative decision-making, the rule of law, and legal values,
+developing.
+At the same time reports, media releases, and other industry and professional
+literature propound the many uses of AI in law, among
+The idea of applying
+AI to legal problems is not new, having been investigated since the
+Yet the rapid developments of recent years have propelled its applications
+further and, in so doing, generated new and immediate
+concerns as well as
+opportunities.
+In its loosest sense, artificial intelligence refers to software processes
+which can carry out tasks that, if performed by a person,
+would be considered
+evidence of intelligence.
+Distinction is made between ‘general’ AI and ‘narrow’
+AI. In precisely defined tasks, such as playing the
+ancient board game of
+narrow AI processes can
+outperform humans. However, the AI
+‘robolawyer’
+the broad range of skills which humans possess, is still some time
+As discussed in Part II,
+‘AI’ is a loose term to describe a collection of tools and
+functions. In this article it is
+used to denote a range of different automated
+systems and processes which have in common their capacity to mimic aspects of
+services, in this case with particular reference to family law.
+In relation to the justice system, Professor Tania Sourdin has categorised
+technological effects as coalescing around three impacts:
+supporting those
+involved in the system; replacing elements of the system that were previously
+conducted by humans; and disrupting
+or fundamentally transforming the
+She notes that, to date, most reforms have involved the first two categories
+(supporting and
+supplementing).
+differentiate, for example, between supporting a decision-maker to make their
+decision (such as by guiding them through a
+series of steps) as opposed to
+actually automating the decision
+However, the
+expansion of AI into administrative
+decision-making,
+growth in online dispute resolution options – including under the auspices
+of the court system – suggests that
+the third category is developing
+Meanwhile, some North American scholars have suggested that lawyers
+practising in family law will continue to enjoy greater job security
+compared to their colleagues in other areas of law, given the importance of
+human interaction for family law
+Yet the imperatives of financial strain and the difficulty of obtaining legal
+aid already raise access to justice concerns and compel
+many in the direction of
+less than full legal representation, whether they are partially represented,
+self-represented and/or accessing
+other kinds of legal information, advice and
+support systems.
+justice in family law matters has been identified as a serious problem in
+Australia (and indeed in other common law jurisdictions,
+such as Canada and
+England and Wales).
+key reason why developments in the categories described by Sourdin have already
+impacted and have the potential to further
+impact the way that family law legal
+services are delivered.
+Automated systems hold out many possibilities for improving information
+provision and supporting decision-makers; for replacing some
+elements of legal
+work; and even, as Sourdin notes, ‘where predictive analytics may reshape
+the adjudicative
+Many of its applications can be of use to family law clients and to family
+lawyers themselves. At the same time, it is important
+to be wary of seeing
+automated systems as too ready a solution in the face of constraints on the
+family law system and what Professor
+John Dewar termed ‘the normal chaos
+of family law’.
+Part III discusses some of the reasons that family lawyers may be seen as
+necessary in family law disputes but also constraints on
+access to justice and
+problems with the family law system. Part IV describes some examples of
+automation in family law, while Part
+V examines specific issues associated with
+increasing use of automated systems, and Part VI concludes.
+‘LEGALTECH’ AND OTHER UMBRELLA TERMS
+Artificial intelligence is an umbrella term which may encapsulate many
+different methods and lacks an agreed or consensus
+As someone joked on Twitter, ‘If it is written in Python, it’s
+probably machine learning. If it is written in PowerPoint,
+it’s probably
+AI might also be
+referred to generically as automated
+Despite the
+reference to ‘intelligence’, ‘[a]n AI system is not really
+“reasoning” or “thinking”
+but is following a set of
+pre-programmed or computational steps... or mathematically analysing a huge
+amount of data to infer a
+probability’.
+AI has developed considerably since its early iterations, though progress has
+not been linear but rather marked by a series of cycles
+development and generous funding punctuated by ‘AI
+The current surge in interest has been fuelled by the greatly increased
+processing power (at considerably less relative cost) of
+computers, including
+personal computers and devices, and the massively increased volumes of
+electronic information or data that are
+The history of AI and law, a discipline established decades ago, is
+illustrative. From this period onwards academics investigated
+systems’, using decision trees, to solve legal
+These types of system are representative of existing knowledge and are
+pre-programmed with logical rules and definitions. They may
+also employ
+mathematical formulae and weightings of different variables. Their outputs might
+be an assessment of a legal situation,
+or the automatic completion of a
+During the 1990s, there was interest in the AI and law community not only in
+expert systems based on explicit rules but in ‘case
+based reasoning
+systems’, which attempted to derive those rules from an existing body of
+The limitations of
+these approaches led to investigation of neural nets as a means of overcoming
+them. Neural nets are systems structured
+in a way that mimics the (projected)
+architecture of the human brain as a network of interconnected nodes.
+Exploration of the possibilities
+of neural nets has occurred, as explained in
+Part IV, in the development of systems for family law
+Professor Kevin Ashley has noted that ‘legal expert systems are still
+widespread in use’,
+some of their applications are discussed below. However, Ashley considers that
+they will not revolutionise the delivery of legal
+Rather, it is
+advances in cognitive computing, or machine learning, that are galvanising
+interest, and massive investment,
+Neural networks are
+one subset of methods which fall under the umbrella of ‘machine
+learning’. In particular, ‘deep’
+neural networks (with
+multiple ‘hidden’ layers), used for ‘deep learning’, are
+behind many publicised AI
+developments.
+Sometimes referred to as ‘data-driven systems’, machine learning
+programs ‘infer formal relations... from unstructured
+Rather than
+being pre-programmed with rules, the program itself identifies patterns and
+correlations in training data and creates
+a mathematical or statistical model
+which is then applied to new data. Supervised machine learning refers to
+providing the program
+with labelled training data – in other words,
+indicating the outputs which are sought. An image recognition program could be
+trained with photos already labelled as to what they depict (or more precisely,
+what a human has determined they
+for example, an
+apple or an orange. The goal then might be for the program to correctly classify
+a new image as one or the other,
+or as something else. Using all the data
+available – in this case, every pixel of every image – the program
+uses inductive
+reasoning to deduce the ‘rules’ which match the data
+to the correct labels. The program can then itself ‘learn’
+relationships between inputs and outputs. Importantly, it can continue to adjust
+its model as it is provided with new data. Unsupervised
+learning, on the other
+hand, is where the software is provided with data (such as many images of fruit)
+and left to identify patterns
+Supervised learning is
+more common in legal
+applications.
+It would be a mistake, however, to think that humans do not have control or
+input over how systems are created. Rather, as David Lehr
+and Professor Paul Ohm
+explain, at every step in what may be a complex process, human input is
+The question to be
+addressed, the data, the choice of algorithm or ‘the software code that
+explores the relationships between
+the input information and the
+and weighting
+mechanisms, are all crucially important factors. Essentially, the programs are
+doing statistical analysis, but with
+the potential for millions of data points
+to be input, and billions of relationships modelled – in other words on a
+complex scale.
+An application of machine learning which is important to legal applications
+is natural language processing (NLP), ‘a collective
+term referring to
+automatic computational processing of human
+languages’.
+includes both algorithms that take human-produced text as input, and algorithms
+that produce natural looking text as
+The natural
+language of humans is complex because it is contextual
+order is important and words have multiple meanings.
+Developments in machine learning and NLP have generated renewed interest in
+the legal applications of AI,
+and in ‘LegalTech’ (technology and software with legal applications)
+more generally. It can be difficult to discern technology
+that makes use of AI
+(even broadly defined) and that which does not. The latter might include more
+conventional software for billing
+or document storage, for example. As explained
+above, an expansive definition of AI is adopted here to refer to automated
+which, unlike more general ‘LegalTech’, are capable of
+substituting for lawyers or elements of legal work in relation
+Supervised machine learning is very useful in certain legal contexts –
+for example, where a huge number of documents must be
+reviewed in discovery.
+Provided that the documents are electronically readable (or can be converted to
+a readable format), the software
+can review and learn to classify them as either
+discoverable, or not.
+AI legal tools may use some form of simple expert system where an internet bot,
+or question and answer tree, guides the user
+through a series of steps.
+By blending expert systems with machine learning, it is also possible to
+design tools which also learn from the examples with which
+they are provided,
+increasing their sophistication. There are many such programs available,
+particularly in the United
+The Law Society of
+England and Wales predicts that as these types of system become ever more
+sophisticated and fluent in natural
+language processing, they will increasingly
+be manned ‘by robots with the ability to test queries against a vast
+past information in seconds – as IBM Watson demonstrates for
+the more they are used, the more such programs learn, and therefore they
+continue to improve as they address more
+Substantial claims have been made generally about the capacity of legal AI or
+automated systems (and indeed, technology in general)
+to improve access to
+This may occur through clients being able to do their legal work themselves;
+through clients doing some elements of their own legal
+(unbundling);
+lawyers using technology to themselves work more efficiently and pass costs
+savings on to their clients. The US Legal
+Services Corporation, in its
+‘vision’ for improving access to justice through the use of
+technology, described a strategy
+with five components, including the development
+of expert systems ‘to assist lawyers and other services
+providers’.
+III FAMILY LAWYERING
+Family law is often seen as necessitating skills which are not strictly
+technical or legal, and indeed might fall into the category
+skills’ which are attained through experience rather than formal training.
+The idea that family law is qualitatively
+different to other areas of practice
+has been largely embraced by family lawyers, possibly in part as a reaction to
+the traditional
+view of family law as a ‘low status’ branch of legal
+characterisation of family law as a separate, specialist area of law is also
+sometimes connected to the espousal of non-litigiousness
+by lawyers. Family law
+involves clients who are likely to be traversing one of the most difficult
+periods in their lives (and hence,
+not be in an optimal position to make
+important decisions) and, importantly, where the interests of vulnerable
+non-parties, namely
+children, often require consideration. One former judge has
+described family law as involving value judgments about deeply personal
+All these factors,
+which are explicated in greater detail below, indicate some of the complexities
+involved in automating family
+Nevertheless, non-lawyer or ‘self-help’ options are not at all
+new to family law. For example, with the introduction of
+divorce in many states of the United States in the 1970s, divorce
+‘kits’ and self-help books
+proliferated.
+In the 1990s,
+as well as printed materials, software (available for purchase on CD-ROM, for
+example) could be used to simplify the
+completion of
+Information about
+family law has been around on the internet for a long time, and has already
+produced a cultural change toward
+Generally, people
+are more likely to seek information on the internet, including in areas which
+would once have been considered to
+require professional
+One Canadian study suggested that
+this is a factor driving self-representation, more so than a general dislike or
+mistrust of
+The arguments that were made about these kinds of materials at the time are
+essentially the same as those raised about the considerably
+more sophisticated
+options now available. These concern whether they might violate prohibitions on
+unauthorised practice of law,
+by crossing over from being mere provision of
+legal information to constituting legal
+More generally, there is a debate as to whether providing people with such
+self-help options fulfils an important social good (enabling
+access to legal
+services for those who would otherwise not be able to access it affordably), or
+leaves people vulnerable to poor
+quality information or advice. This is
+discussed in Part V.
+In terms of quality, there is another relatively long-standing debate
+concerning the degree to which family lawyers are, and should
+be, specialists.
+American researchers Lynn Mather and Craig McEwen distinguished between family
+law ‘specialists and generalists’,
+identifying these groups as
+constituting separate ‘communities of
+Other studies have reported that family lawyers ‘have claimed for
+themselves special
+characteristics’
+setting them apart from other legal
+practitioners.
+Australian family lawyers
+largely seem to identify as a separate,
+distinct and unique group of legal practitioners. They have been described as
+knit and relatively
+homogenous’
+and sharing a ‘cohesive legal
+Legislation to merge the Family Court and Federal Circuit Court, introduced to
+the Senate in late 2018,
+criticised by lawyers concerned about the impact of a loss of family law
+specialisation within the
+The appointment to
+the family law courts of judges lacking in family law expertise has also been a
+source of complaint.
+Reporting on its recent inquiry into the family law system, the Australian Law
+Reform Commission (ALRC), while recommending significant
+structural reforms in
+order to close the ‘jurisdictional gap’ between State matters (such
+as child protection and family
+violence intervention orders) and Federal family
+law matters, emphasised the continuing importance of
+specialisation.
+This is significant because family law specialisation is associated with
+non-litigiousness, according priority to the wellbeing of
+clients and their
+children, and interpersonal skills including management of conflict. Studies
+indicate that rather than increasing
+discord, specialist family law solicitors
+tend to be resolution
+While solicitors adopt different styles as
+‘ideal’ family lawyer type has shifted in the last few decades to
+Mather and McEwen identified the norm of the ‘reasonable lawyer’
+acting in divorce matters who ‘should anticipate
+likely case outcomes,
+argue only for “realistic” positions (not whatever the client
+wants), show respect for other lawyers,
+and avoid unnecessary conflict in
+settling cases’.
+England and Wales, the ‘new breed’ of family lawyer was described as
+conciliatory rather than
+adversarial,
+possibly the
+result of legal and mediation practice
+converging.
+Dr Jill Howieson’s Australian study found that ‘the family lawyers
+tended towards a more conciliatory approach to family
+lawyering and used a blend
+of lawyering approaches in their work to achieve constructive
+Family lawyers have ethical duties not only to the administration of justice
+and to their clients, but also to ensure that children’s
+interests are
+considered.
+In Australia, there has also been a concerted effort over many years to divert
+people away from engaging in adversarial litigation
+in family law and toward
+agreed resolutions.
+in dispute over the parenting of children are intended to attend Family Dispute
+Resolution (FDR), a form of family mediation,
+prior to commencing court
+proceedings.
+At the time that this became mandatory, the federal Government set up
+‘Family Relationship Centres’ around the country
+to provide (among
+other services) FDR. There are not currently any similar mandatory processes for
+property disputes; however, the
+ALRC has recommended their
+introduction.
+One group of
+academics has commented that it is part of a family lawyer’s obligation to
+encourage clients to resolve disputes
+outside of court and ‘clients need
+to be reminded that “divorce is not a zero sum game;” they may both
+off with a fair, nuanced settlement that takes account of their
+circumstances than a regime imposed by a
+Professor Barbara Glesner Fines has argued that, despite massive changes to
+family structures – notably that fewer people marry,
+and more marriages
+end in divorce – ‘the core of family law practice has remained
+unchanged’.
+Specifically, Glesner Fines claims that what she characterises as the dual
+challenge and reward of family law – assisting those
+in personally
+difficult circumstances – remains at the heart of family law
+professionalism.
+The corollary to Glesner Fines’ argument is that human lawyers are
+essential to family law matters, which is explained by Canadian
+academic Noel
+Semple as follows:
+A client who is divorcing from a co-parent, or contesting the care of an
+older relative, is often best served by a settlement that
+creatively identifies
+options that work well for everyone involved, within the framework of the law.
+Cost-effectively securing such
+an outcome may require an advocate with a
+personal reputation within a local community of practice and a working knowledge
+outcomes are considered reasonable by other lawyers and judges within
+the local legal
+Here, Semple emphasises the human aspects of professionalism which cannot be
+replaced, even by sophisticated software, to suggest
+that family law is
+relatively more ‘sheltered’ from the incursion of technology into
+legal services. The benefits of
+automated options must, however, be considered
+by reference to the current family law system, which, as reflected in
+Law for the Future
+, is widely regarded as a broken
+Human family lawyers
+also come in for their share of criticism – whether for charging
+exorbitant fees, increasing discord among
+separated families, or generally
+lacking competence.
+Accordingly, despite claims about the importance of human family lawyers,
+certain aspects of family law make it susceptible to automation
+first being affordability and accessibility, and the second, larger-scale
+problems with the efficiency of the family
+law system.
+Firstly, unaffordability of legal services is a fundamental issue in family
+law. Litigants are individuals, rather than corporations,
+and separation
+typically generates enormous financial pressures as parties face disentangling
+financial affairs and financing the
+running of two households instead of
+Moreover, family problems generate significant emotional stress which can lead
+The Law and Justice Foundation’s survey of legal need in Australia found
+that ‘[r]elationship breakdown was one of several
+problem types that acted
+as a trigger and appeared to trigger debt, legal action and other family
+Australia, as in many other common law jurisdictions, government funding of
+legal aid continues to decline, and a large proportion
+of people do not qualify
+for legal aid yet are unable to afford the cost of engaging a
+‘missing middle’ of the legal services
+In many discussions
+of family law and technological advances, including the use of automated
+systems, it is this missing middle who
+are the expected or intended
+beneficiaries. Professor Ben Barton has argued that lawyers in the US initially
+ignored or underestimated
+automated options (typically low-cost online providers
+of legal services and forms) to their
+This was because,
+initially, these services were directed toward people who would otherwise have
+accessed no legal advice at all.
+With time, however, these services became
+attractive to the missing
+That is, as they have become more established, online providers have begun to
+compete with lawyers as their rates are greatly discounted
+when compared with
+Another benefit to automation might be to increase access to accurate family law
+information and services. Ease of access might include
+avoiding courts but could
+also extend to avoiding formal dispute resolution procedures, or face-to-face
+interactions with lawyers
+and/or the other party.
+The second issue relates to the first, and concerns problems of delay and
+inefficiencies in the court
+For years the Australian family law system has been plagued by claims about
+In 2017, the House of Representatives Standing Committee on Social Policy and
+Legal Affairs reported that
+delays from court filing to the commencement of a trial can be as high as 36
+months in both the Family Court and the Federal Circuit
+Court of Australia
+(Federal Circuit Court) ... [which] can increase the risk of harm to families...
+[I]n remote or regional areas,
+delays can be even
+Certainly, within family law, delays have severe impact, not just on parties
+but upon their children. For victims of domestic violence,
+for example, risk of
+homicidal violence from their former partner is at its highest post-separation,
+and children may be left in
+inappropriate or unsafe
+situations.
+Family Law for
+referred to ‘multi-year delays in reaching final
+hearing’ in the Family
+unsurprisingly, the ALRC’s espousal of non-court options for dispute
+resolution, such as arbitration, is clearly directed
+to alleviating the
+courts’ workload and providing parties with faster access to
+resolution.
+Issues of delay and court overwork are real and substantial, and require
+As discussed in Part
+V, however, automation does not necessarily present a complete or
+straightforward solution to these issues,
+which are long-standing, cultural and
+structural. While there are individual applications which may be very useful, it
+is important
+to scrutinise each in its particular context.
+IV EXAMPLES OF AUTOMATION IN FAMILY
+Information Provision and Automated Drafting
+The most long-standing application of automated systems to family law is for
+tailoring information and in some cases generating drafts
+of documents or forms.
+The US Legal Services Corporation recommended the use of document assembly
+applications to facilitate the
+drafting of legal documents, including ‘by
+litigants themselves’.
+Another group of US authors have explained the benefits of such tools in terms
+of access to justice:
+Instead of finding static court forms online to download, print, and complete
+by hand, litigants can now use interactive A2J Guided
+Interviews, created with
+A2J Author, which walks the user through the litigation process step-by-step. As
+litigants answer a series
+of questions, a form is assembled in the background
+using HotDocs document assembly
+software...
+The Networked Society Institute (NSI), in its review of automated legal
+advice tools, noted that they cover a spectrum of uses, including
+those designed
+for consumers to use themselves, exclusively for lawyer use, or something in
+between (such as preparing an initial
+draft of a document for a lawyer to
+The NSI noted that the tools available are becoming more sophisticated, can
+provide more precise information to clients, and in some
+cases, can generate
+documents based on responses
+In the United
+States and United Kingdom, family law document automation seems to presently
+encompass only simple and non-contentious
+items such as prenuptial agreements,
+uncontested divorces and name
+There is already a significant volume of family law information available
+online and for free. Aside from legislation and case law,
+organisations provide
+factsheets on different issues. Professor Jonathan Crowe et al noted a
+proliferation of legislation, case law,
+‘websites, factsheets, self-help
+guides and other material’, authored variously by government services,
+non-government
+organisations or
+individuals.
+For some years
+the Family Court itself has provided ‘do-it-yourself’ kits for
+different forms.
+also some interactive types of online tools for family law matters in Australia,
+for example to obtain a
+One recent suggestion has been to implement an online questionnaire to be
+completed at the time of filing an application, in which
+each party could
+explain the steps they have taken to resolve or narrow the
+Despite the volume of information, non-lawyers seeking family law information
+in the online environment reportedly find it difficult
+traverse its
+complexities, and hard to evaluate the credibility of different
+The potential
+benefit, then, of using automated tools is to more precisely direct non-lawyers
+to relevant information. Chatbots or
+more complex expert systems can walk a user
+through a series of steps to answer simple legal queries or be directed to
+curated information.
+example, an Australian family law client intake system is Settify, an online
+portal whereby potential clients can provide their
+instructions online prior to
+their first face-to-face meeting with a lawyer, by answering a series of
+This is intended
+to save clients’ and lawyers’ time by generating a set of
+comprehensive instructions prior to the first
+‘Predictive’ Analytics
+The technology discussed above can be seen as promoting easier and more
+affordable access to justice (via information and in assisting
+complete forms and documents in simple and uncontentious matters). The use of
+‘predictive’ analytics is geared
+more toward finding efficiencies by
+indicating a range of likely outcomes, thereby enabling people to better
+understand their legal
+position or options.
+Many have observed the importance of prediction to what lawyers
+Big data analytics or
+predictive analytics is a way of analysing a massive quantity of data to reveal
+meaningful patterns. ‘Big
+data’ refers to the vast quantities of
+electronic data existing in the world, which continue to grow at an incredible
+Large quantities of data, extremely powerful computers, and advances in machine
+learning all mean that extracting patterns from data
+is much easier, and the
+results more accurate.
+Through different types of analysis, it is also possible to make predictions
+from this data. Predictive analytics does not (and cannot)
+something is so – it just identifies the existence of a pattern.
+As explained in Part II, statistical and computational modelling of legal
+cases is not
+Initial models worked on information retrieval – locating or retrieving
+similar cases in order to analyse whether the case
+in question was sufficiently
+similar to those cases to match the outcome. Ashley has explained that by
+connecting ‘features’
+of cases with particular outcomes, a program
+can discern a pattern and use that to make predictions about the outcome of
+similar features.
+Features might include any number of things: those we might term
+‘external’ (and which are likely technically irrelevant
+merits of the case) such as who the judge was, who the lawyers were, whether the
+plaintiff/applicant was a natural person
+or a company, where the application was
+filed, and so on. They might also include those ‘internal’ or
+case-specific features
+more readily recognised as going to the merits, such as
+factual information about the events which have generated the claim.
+A differentiator of programs is the extent to which the program must be told
+by humans about which features to
+Early programs required
+the relevant features to be identified, which involved humans determining those
+features which seemed to
+be important, either based on analysis of key cases, or
+Describing the ‘Split-Up’ system, Professor John Zeleznikow has
+explained how relevant features were identified:
+In developing Split-Up, Australian Family Law experts were used to identify
+factors pertinent to a property distribution following
+divorce. A data set of
+past cases was then fed to machine-learning programs. Thus, Split-Up learned the
+way in which judges weighed
+factors in past cases... The way the factors combine
+was not elicited from experts as rules or complex formulas. Rather, values on
+the 94 variables were extracted from cases previously decided, so that a neural
+network could learn to mimic the way in which judges
+had combined
+The program would then determine the weight that should be given to different
+features and could use this information to reach conclusions
+future cases.
+More recently, the hope is that by using capabilities in reading text, a
+program will be able to analyse a mass or corpus of documents
+identify (and weigh) the relevant
+Instead of relying
+on a human to manually program the features needed, they are extracted
+automatically from the textual data (such
+as the text of judgments) using
+machine learning. A recent example is the study of Nikolaos Aletras et al, who
+analysed certain judgments
+of the European Court of Human Rights (ECHR).
+Reportedly, these researchers were able to infer the outcome of cases with 79
+their study has been
+criticised.
+Among its limitations was the use of judgments in substitute for the materials
+filed by the parties in each case. In other words,
+an analysis of the text of a
+judgment which had already been written, was used to ‘predict’ the
+outcome of the case.
+Pasquale and Cashwell argue, ‘[a] truly predictive system would use the
+filings of the parties, or data outside the filings,
+that was in existence
+before the judgement
+The method of
+Aletras et al disregards the ways that judges draft their judgment so as to
+support their final conclusions, including
+the ways that facts are
+interpreted,
+undermining the
+apparently impressive accuracy of the results.
+Within subject-specific domains, commercial providers now offer forms of
+legal predictive analytics.
+For example, Lex Machina,
+among the first of its kind to offer such a service, analyses patent decisions.
+From its repository of thousands of decisions, it
+extracts information such as
+whether a certain lawyer has a good track record with a particular type of case,
+or whether a certain
+judge is likely to be amenable to a certain type of motion.
+Proponents of this type of analytics argue that this is empowering to
+of legal services, who can judge a lawyer’s track record on objective
+The difficulties in applying data analytics to judgments are that judgments
+tend to have no set format in terms of structure; factual
+disputes are not
+accounted for; and there may be insufficient data available to make reliable
+predictions, especially in a small
+commentator has noted that
+under the strong influence of the current AI hype, people try to plug in data
+that is dirty and full of gaps, that spans years while
+changing in format and
+meaning, that’s not understood yet, that’s structured in ways that
+don’t make sense, and
+expect those [data] tools to magically handle
+Further, the effectiveness of some machine learning algorithms may mean that
+there is a tendency towards ‘over-fitting’
+– finding patterns
+in training data which are not present in the real
+There are likely to
+also be biases present in family law data related to gendered patterns of
+labour, and so
+If data is historic, it is questionable how social changes occurring since the
+1970s could be accounted for. On the other hand, if
+only more recent judgments
+are used, the smaller sample size may present problems. There have also been
+numerous legislative changes
+Family Law Act 1975
+(Cth) itself
+– a key issue would be the changes to the treatment of superannuation in
+the early 2000s,
+which would
+have significantly impacted property division. Finally, if the data comprised
+only of judgments and excluded settled
+or non-litigated cases, this would
+represent essentially a collection of ‘outlier’ data, as the
+majority of separations
+do not proceed to final hearing and judgment. While this
+is arguably how a system based on precedents (judgments) works, the benefit
+lawyer’s input is that person’s experience of settled as well as
+litigated cases.
+In their extensive critique of the study by Aletras et al, Pasquale and
+Cashwell commented that
+there is a danger that the model could be deployed by bureaucrats at the
+[Court] to prioritize certain petitions, given that the Court
+is deluged with
+thousands of petitions each year and can only decide a fraction of those cases.
+Without a clear understanding of
+how the model is predicting the success of a
+claim, [this] would be irresponsible
+In the family law setting, for example, suppose that gender is highly
+significant in determining property division – which is
+likely, given the
+differences in earnings of men and women over time. Should this be built into an
+algorithmic model which ‘predicts’
+what property division should be?
+Or should it be excluded? If it is to be excluded, will it be possible to do
+this, as there may
+be any number of other data points from which gender could be
+It is worth bearing Pasquale and Cashwell’s caution in mind, and the
+limitations discussed above, when considering the application
+of predictive
+analytics to family law decisions. The Federal Court has publicised its
+development of an AI system, using IBM software,
+with the goal of identifying
+factors which are correlated to judicial (or negotiated, if consent orders are
+included) distribution
+While this might be
+possible – and the Court has indicated that such a system would be used
+for the assistance of parties –
+it has potentially concerning implications
+for justice and fairness,
+some of which are discussed below in
+Online Dispute Resolution
+The methods described in the preceding two sections may be combined for use
+in online dispute resolution (ODR). ODR is a broad term
+encompassing both
+alternative dispute resolution (ADR) which is conducted online, and systems of
+Broadly speaking, it might include online portals (as recommended in the United
+States Legal Services Corporation (LSC) plan for
+access to justice). Via such
+portals, people can be triaged and directed to appropriate assistance. The LSC
+also envisaged self-represented
+parties being guided ‘through the entire
+legal process.’
+established Civil Resolution Tribunal in British Colombia provides such a portal
+for people looking to resolve some civil
+including family
+Generally, it has been suggested that ODR is especially suitable for family
+law disputes.
+The complete
+physical (and possibly temporal) separation of the parties in particular lends
+itself to family mediation or family
+dispute resolution (FDR), especially in
+cases involving allegations of violence. It is argued that another benefit is
+that the technology
+creates a record of
+interactions,
+(though given
+that what transpires in FDR is inadmissible, this may not be especially useful),
+and may reduce the effect of power
+imbalances in
+relationships.
+In 2011, Mark
+Thomson reported on a project piloted in Queensland to delivery FDR services
+Thomson noted that
+the resulting web-based platform included video communication, and also:
+• screen features including small windows (pods) which can be scaled,
+resized and repositioned and hold a variety of information;
+• visual sharing of information, including document sharing, online
+demonstration and whiteboard feature;
+• ability to record notes which can subsequently be emailed to [FDR
+Practitioner]; and
+• secure access to functionalities via [FDR Practitioner]
+authorisation.
+As this example shows, ODR may just involve traditional ADR processes which
+are conducted online or through electronic means. It is
+promoted as being
+cheaper, faster, more flexible, and offering more convenience than traditional
+Importantly though, humans may have a smaller role to play – it is
+possible for AI to ‘become the third party that performs
+the mediation or
+decision making’.
+well-known model for such services is eBay’s ODR system, created by
+which deals with
+millions of disputes each year and settles 90 per cent of them with no input
+Modria is also
+involved in systems that are and have been used for family disputes, such as
+Rechtwijzer (discussed below) and the
+Civil Resolution Tribunal.
+Zeleznikow has reported on several ‘intelligent negotiation support
+systems’ with application to family law, including
+Split-Up and
+Family_Winner.
+writings, he has suggested that a system such as Split-Up could be used to
+inform parties about the probable outcome of
+their case (dependent, of course,
+on how facts would be determined) and therefore support
+negotiations.
+Zeleznikow has
+maintained, however, that ODR systems should incorporate advice about likely
+outcome, support the parties to make
+‘trade-offs’, and also
+facilitate communication.
+Moreover, he commented that ODR ‘should not be fully
+systems Zeleznikow described are to support decision-making rather than to take
+over this function.
+ODR has not ‘taken off’ to the degree which might perhaps be
+expected considering the pervasive issues of cost and delay
+in traditional
+litigation.
+One reason for this may be an existing under-utilisation of mediation and
+arbitration options.
+in dispute over the care of children are notionally required to attend FDR prior
+to filing in court.
+the high number of exemptions granted – at least as reported in one
+– suggests that
+FDR attendance is still the exception rather than the norm. There is no
+requirement to attend any out of court
+dispute resolution process in property
+Family Law for the Future
+has recommended
+that this be changed.
+barriers to adoption may include the lack of a unifying representative
+organisation of family law
+a reluctance on
+the part of lawyers to encourage their clients to take up external mediation
+options, and seemingly a continuing
+preference for barristers as mediators. A
+final issue is that at present, FDR can only be performed by a Family Dispute
+Practitioner accredited by the federal Attorney-General’s
+Department.
+This means that
+while people are free to use an ODR process to attempt to resolve their family
+law parenting issues, they would not
+be able to obtain a
+certificate to
+later enable court filing. For people approaching FDR as simply a hurdle to be
+overcome prior to filing, there would
+be little incentive to use an ODR process.
+As Professor Patrick Parkinson and former judge Brian Knox SC have observed,
+channelling
+parties into alternative dispute resolution options will require,
+above all, ‘cultural
+regardless of
+whether that process is online or not. Semple has said that the primary task of
+‘good family law professionals’
+is not to litigate but to
+‘[keep] separating people out of family court by securing their legal
+rights through settlement negotiation
+and other forms of alternative dispute
+resolution’.
+This is premised, however, on lawyers’ continuing involvement in ADR
+Overseas there have been well-publicised attempts to increase the use of ODR
+in family law matters. An ODR platform for separating
+couples called Rechtwijzer
+(‘Signposts to Justice’) operated in the Netherlands from 2014 to
+2017. Although the platform
+had been available since 2007, its newer iteration
+resulted from a partnership between the Dutch Legal Aid Board, the Hague
+for the Internationalization of Law (HiiL), and Modria. Separating
+couples paid €100 for access to the program, which guided
+them through
+various aspects of their lives and preferences upon separation. Dutch Judge Dory
+Reiling explained that it included
+‘online forms, chat functionality,
+calculation tools, and the ability to get help from an
+identifying points of agreement, the program would offer a solution, which the
+former partners could accept or reject. An evaluation
+of Rechtwijzer found that
+users found their experience satisfactory but many nevertheless wanted a third
+party to review their
+This feature was
+later included, and reportedly nearly 60 per cent of those who used the platform
+proceeded through to finalising
+an agreement and registering
+Rechtwijzer was said to be used in around 700 Dutch divorces a
+though as Professor
+Richard Moorhead has pointed out, this approximates to only one per cent of all
+divorces in the
+Netherlands.
+Financial difficulties reportedly caused the cessation of the ODR
+sub-titled ‘Why online supported dispute resolution is hard to
+implement’, Maurits Barendrecht of HiiL speculated
+reasons Rechtwijzer had not succeeded but reached no definite
+conclusions.
+Barendrecht did
+note lessons from traditional voluntary mediation – that there are
+multiple and complex reasons for people
+to wish to avoid such
+Rechtwijzer has
+now been succeeded by a new platform, Uitelkaar.nl, which assists ex-partners to
+design their own separation
+agreements.
+Citing Rechtwijzer, various Australian organisations announced their
+intention to pursue a similar form of ODR. In 2016, Rechtwijzer
+representatives
+were in Australia promoting their efforts at increasing access to
+and in 2017 the
+Australian federal government provided ‘seed funding’ to National
+Legal Aid (NLA) to create an ODR
+It is unclear whether the proposed platform would be only for parenting matters
+or would encompass property disputes as
+Though NLA’s
+chairman claimed at the time that up to 20 per cent of family law disputes could
+be resolved online, no basis
+for this estimate was
+Given that Rechtwijzer
+captured only a very small percentage of Dutch divorces after its years of
+operation, the 20 per cent projection
+seems highly optimistic. It is also
+possible that a family law ODR system would capture people who would have
+attended some form
+of family mediation or dispute resolution regardless, rather
+than attracting people who would otherwise
+have attended and
+proceeded to file in court. Clearly, a shift from face-to-face family mediation
+or FDR to an online or partially
+automated process, while it may be
+cost-effective for government funded FDR services, does not carry the same
+benefits as diverting
+more people away from litigation.
+V ASSISTING AND
+‘RESPONSIBILISING’
+Family Law for the Future
+, the ALRC noted that those litigating
+family law disputes represent only a very small proportion of all people who go
+through separation.
+Most people (70 per cent) resolve parenting disputes without
+recourse to the family law
+Forty per cent of
+parents resolve their property disputes via discussion, and it is projected that
+this rate is higher for separating
+couples without
+Of matters which do
+enter the system, the ‘vast majority’
+This includes those
+which proceed as far as a trial, with over 40 per cent of these settling during
+trial or prior to judgment being
+Those matters which do enter the family law system, however, frequently
+involve families and individuals with multiple complex needs.
+In the Australian
+Institute of Family Studies’ (AIFS)
+Evaluation of the 2006 Family Law
+co-occurrence of complex problems, such as family violence,
+addictions and mental health problems, was noted to feature in family
+These findings were confirmed in AIFS’ 2014
+Such findings are not
+confined to Australia. For example, Professor Janet Johnston et al, when writing
+of the United States, have
+observed that ‘conflict-ridden divorcing
+families’ are likely to be beset by multiple serious
+The legal problems
+of individuals generally tend to cluster and are interconnected and
+interdependent.
+In the case
+of groups who are already socially marginalised, the prevalence of multiple
+interconnected problems is
+Academics in the United Kingdom have identified within family law a renewed
+focus on individual autonomy and a corresponding narrowing
+of the concept of
+vulnerability.
+It has been argued that the privileging of individual autonomy permits a
+corresponding reduction in State responsibilities for welfare
+including family law legal
+By shrinking the
+boundaries of vulnerability, and repositioning all those outside it as capable
+‘responsibilised’,
+legal aid has been significantly reduced. Constraining the category of people
+who may be identified as vulnerable is, however, to
+overlook the significant
+issues facing many of those who now fall outside the definition of vulnerability
+and are therefore rendered
+ineligible for legal aid.
+The construction of fewer individuals as vulnerable and in need of
+assistance, and of more as able to independently manage their own
+legal matters,
+is occurring against a backdrop of enormous growth in ‘informal’
+sources of legal support.
+Scholars note that, as in Australia, a ‘plethora of informal, self-help
+resources ... can be accessed
+people will struggle to use these resources effectively:
+The scalar shift here is political, intending the majority to take personal
+responsibility for managing their own disputes. But, many
+people living in
+circumstances that require specific and holistic advice or formal intervention
+will inevitably experience significant
+difficulty both in locating these sources
+of help and making use of any information or guidance they are able to
+In other words, despite comparative ease of access and low cost, there are
+many reasons why some people will not be able to access
+automated options; the
+most disadvantaged, who may also be most in need of legal help, may face too
+many complex and interconnected
+difficulties and have too few
+In her Canadian
+study of self-represented parties, Macfarlane noted that: ‘Many ...
+expressed the need for more than on-line
+resources, however good – a need
+for human contact and support as they navigate the justice system and prepare
+their case to
+the best of their
+For these reasons, despite problems of affordability, access, and efficiency
+in the family law system, automated options must be critically
+examined in their
+context. In the United States, facilitating access to justice has long been the
+counter-argument to concerns voiced
+legally-unqualified entities, and lawyers and their representative organisations
+are accused
+of protectionism when unauthorised practice issues are
+However, some
+academics have queried whether automation is really a panacea for access to
+Nick Robinson, for example, has pointed out that in the case of will-writing,
+affordable options not involving lawyers have been
+widely available for many
+years – firstly as paper forms, then as computer software, and now online
+– yet this has not
+changed the proportion of Americans dying
+In other words, though more people may use the non-lawyer option, there has been
+no overall increase in people making wills. This
+example illustrates the
+complexity of access to justice, or the reasons why people do not access justice
+options, which include not
+knowing there is a legal issue, personal stress or
+distress, inconvenience, fear or mistrust of the legal system, or lacking faith
+in the system’s effectiveness – it is more than just affordability,
+though this clearly plays a key
+In family law matters, it seems likely that cost is a significant
+especially to people wishing to consult a lawyer or litigate. The ALRC noted
+that litigation involves ‘prohibitive’ costs
+Those most likely to
+benefit from low-cost automated options, however, are not those most in need,
+but rather people whose affairs
+are uncomplicated, relationships are not
+characterised by coercion, control or fear, and who are able to afford the costs
+service. Robinson essentially makes this point when he observes that
+online document drafting providers such as LegalZoom are marketed
+squarely to
+the middle classes.
+Affordability and Access to Legal Options
+Some of the possibilities and limitations of automation for access to justice
+can be illustrated by a recent Australian example. ‘Ailira’,
+‘Artificially Intelligent Legal Information Research Assistant’, can
+provide tailored advice and help to victims
+of domestic violence, including
+drafting applications for civil protective
+Its website explains:
+‘Ailira can log incidents of domestic violence so as to create a
+time-stamped paper-trail. She can generate
+Intervention Orders, accompanying
+affidavits and background letters based on those
+This is a worthy
+goal and there is nothing to suggest that Ailira’s developers are not
+making a serious attempt to create a
+product which will be helpful to persons in
+need of protection (PINOPs). Ailira may not, however, be well-suited to PINOPs,
+for reasons
+detailed below.
+The first issue is whether Ailira is addressing a presently existing legal
+It is not clear that
+the drafting of the application is the major hurdle facing a PINOP when it comes
+to seeking protection. There
+is extensive literature on the barriers faced by
+complainants in reporting family violence, which are both psychological
+the experience of being subjected to coercion and
+rather than procedural. In addition, in Australia it is generally the police who
+play ‘a major role... in applying for protection
+orders’ and have
+specialised units focused on domestic
+In some jurisdictions police have compelling obligations to investigate family
+violence, and to apply for protective
+In New South Wales,
+where police must apply for protective orders if they suspect that a family
+violence offence has been, is being,
+or is likely to be committed against a
+PINOP, the vast majority of applications are made by
+In some instances a PINOP may make a private application. This generally
+happens if the police have refused to make an application,
+the person is
+mistrustful of police and hence prefers to proceed independently, or if two
+parties are making cross-applications.
+Ailira might, therefore, enable more
+people to effectively apply themselves, though there are differing views as to
+whether it is
+preferable for police, or PINOPs, to make the
+application.
+The second issue is whether Ailira is capable of drafting Intervention Orders
+effectively. Translating a narrative of a person’s
+experience of violence
+into a legally relevant account is a challenging task, as Dr Jane
+Wangmann’s research in NSW
+There is the challenge of knowing what is legally relevant, and what is not. A
+PINOP might unwittingly self-incriminate by disclosing
+incidences of his or her
+own criminal acts or other issues such as migration status
+statements such as these would be difficult for an automated system to identify.
+Professor Richard Moorhead has also noted the ethical
+complexity of constructing
+a legal narrative in a more mundane example
+He utilised DoNotPay,
+globally touted as the world’s first ‘legal
+By answering
+a series of questions, the app generated a letter for Moorhead challenging his
+(fictitious) parking fine. Moorhead noted
+that the resulting missive contained
+an untruth which had not formed part of his
+instructions.
+Among other
+things, this illustrates the ethical challenge of translating a person’s
+narrative into a legal complaint via an
+AI system. Wangmann has explained
+further that the focus of the complaints which she reviewed tended to be on a
+specific incident
+or incidents, thereby disregarding the ongoing pattern of
+behaviour constituting coercion and control (notwithstanding the intent
+legislation to capture such patterns). While Ailira might enable
+incidents to be described, it still appears to retain this structure. It is
+not clear whether Ailira will be able to advise users
+on brevity, or if it will
+encourage or discourage lengthy complaints.
+The third issue is whether the infrastructure of the justice system can
+follow through on the application process. This is not a fault
+of Ailira but
+rather reflects the reality that ultimately, seeking to increase the use of
+Intervention Orders will require increased
+resourcing of police and courts.
+Wangmann’s research in NSW and that of Rosemary Hunter conducted in
+Victoria found that the
+average time for civil protective order applications to
+be dealt with in court was around three
+If Ailira enabled
+considerably more PINOPs to apply for protective orders, there would need to be
+additional resourcing of courts
+to hear and determine such applications and of
+police to be capable of enforcing the orders once made.
+The concept of Ailira as a means of increasing access to justice for PINOPs
+has some salient points for family law. There is the question
+of unmet legal
+needs, and whether they will actually be addressed by a given program. At times,
+it also seems to be assumed that
+the use of technology, and automated systems in
+particular, will always be cost-saving. Yet, even aside from the cost of
+developing,
+building, training and testing a program, if the technology achieves
+its goal of increasing access, the opposite may be true.
+Finally, increasing affordable options should not be a substitute for
+adequate funding of courts, Legal Aid, or community legal services.
+example of family violence, Professor Paul Gowder has commented that:
+[T]he victim of domestic violence who needs help from the legal system to
+protect herself ... does not merely need an analysis of
+the relationship between
+the facts of her situation and the legal standards for a restraining order. She
+often needs the human and
+interpersonal assistance provided by lawyers –
+someone to listen to those facts and take her account of them seriously, who
+credible to police and to courts, and who has the social capital as well as the
+As well as ensuring that a complaint is not self-incriminating and does not
+contain untruths or other inappropriate material, a lawyer
+can assess if the
+PINOP has other legal issues associated with the abusive situation, such as
+family law, employment, migration or
+debt matters, which, in the absence of
+specific questions, an automated system would not be able to do. In the case of
+would be supposing the PINOP has a potential victim’s
+compensation claim that she is not advised about. This raises in turn
+spectre of professional negligence and liability, and who might bear that
+responsibility.
+Documenting
+some of the online sources that offer family law assistance to Australians,
+Tahlia Gordon has noted that non-lawyer providers
+have professional looking
+websites, and that information about the provider’s non-lawyer status is
+often difficult to locate,
+Justice and Fairness
+Civil justice regimes involve, inter alia, a trade-off between efficiency and
+Justice Perry of the Federal Court has commented that ‘the efficiencies
+which automated systems can achieve, and the increasing
+demand for such
+efficiencies, may overwhelm an appreciation of the value of achieving
+substantive justice for the
+individual’.
+application of automated systems in family law raises a number of fairness and
+justice concerns, both at a structural and an
+individual level.
+At the individual level, Zeleznikow’s example of the
+‘Family_Winner’ system for family dispute resolution is
+illustrative.
+[S]olicitors at Victoria Legal Aid and mediators at Relationships Australia
+were very impressed with the manner in which Family_Winner
+suggested trade-offs
+and compromises. However, they had one major concern: that by focusing upon
+interest-based negotiation, the
+system had ignored issues of
+Of course, this problem arises in any form of privatised dispute resolution
+and is especially pertinent in family law, as Professors
+John Eekelaar and Mavis
+Maclean discuss comprehensively in their book,
+well-illustrated in Australia by the strict approach initially taken by the
+court in determining whether a financial agreement
+would be binding on the
+A key issue is the
+potential vulnerability of one party, especially in the context where family
+violence is alleged.
+are many positives to privatised dispute resolution in family law – time
+and cost savings, control and ownership of the
+outcome, preservation of
+relationships – yet the combination of automation and privatisation raises
+additional concerns. In
+family law matters, perhaps more so than any other area
+of law, personal and social concerns are germane – the pursuit or
+non-pursuit
+of legal options may be driven by a multitude of factors which are
+not susceptible to quantification or cost-benefit analysis. For
+person may forgo their property entitlement in order to avoid a dispute, for
+many personal reasons – care for the
+other party, fear of the other party,
+concern for children, and so on. Moreover, family law decisions are highly
+discretionary. As
+Parkinson has noted, there are no principles of quantification
+which can guide the resolution of property
+Thus, applying a
+mathematical approach to family law matters should be pursued with caution, as
+it has the potential to result in
+unjust outcomes.
+It has been argued that ‘in divorce hearings, algorithms can
+automatically assess the individuals’ property, financial
+background, and
+calculate the amount of time spent together to create a fair
+agreement’.
+This assertion, however, rests on the assumption that what a particular subset
+of other separating couples (since no system will
+have access to the decisions
+of every separated couple) decided was fair is necessarily fair for the
+individuals in question. The
+assumption that the experience of a population
+provides the ‘fairest’ outcome for everyone cannot be made
+The problems with transposing fairness to an individual and the experience of
+a broader group is brought into stark relief by the
+use of algorithmic risk
+assessments, such as
+which is used in the United States criminal justice system. Lehr and Ohm have
+noted the many places in the machine learning process
+where decisions must be
+made – about the questions to be asked, the choice of algorithms, and so
+There is little consensus
+on how ‘fairness’ might be defined, let alone reproduced in a
+machine learning system.
+Further, the training data itself may be the product of biased human thinking or
+historic discrimination – such as the over-policing
+and over-incarceration
+of certain communities.
+In common with decisions about bail, parole, and sentencing, family law
+decisions are largely ‘predictive’. Rather than
+being a decision
+adjudicated on past events (as most judicial decisions are), knowledge of past
+events is used to determine what
+is in children’s best interests, or (to a
+lesser extent) what a person’s financial needs will be, going into the
+In family law, however, there is no data
+as to whether the
+decision – whether made by the parties themselves, or judicial
+determination – actually did represent
+the best or fairest outcome. The
+only possible measure of this (which is a poor one) is whether the parties
+returned to litigate
+When it comes to analysing past cases in order to try and predict future
+outcomes, there are normative concerns about a rigid or isolated
+interpretation.
+In other words, just because past decisions on a certain issue tend one way,
+this does not mean that they
+have tended that way, or that the
+immediate case in point should have that same outcome. AI lacks what is referred
+to as ‘common
+sense’ – generalised knowledge of social context
+and the human world.
+this includes an understanding of the idiosyncratic way that the common law has
+developed and continues to develop, but also
+more nebulous policy concerns and
+the importance of the rule of law. Pasquale and Cashwell question ‘the
+social utility of
+prediction models as applied to the judicial system’,
+fearing ‘that their deployment may endanger core rule-of-law
+While the common law is based on precedent, appellate courts frequently
+develop the law. Lyria Bennett Moses and Janet Chan have noted
+‘[r]elying on past data, including past settlements, when making
+settlement decisions creates a feedback loop so that
+an initial bias ... is
+perpetuated’.
+would be problematic in family law where social norms have changed, leading to
+legal change; where laws themselves have changed;
+or simply where past decisions
+available are not reflective of present circumstances. This has ramifications
+for the use of data
+analytics of decisions and consent orders, especially if
+AI-generated predictions were used to make determinations about Legal Aid
+funding or otherwise hinder a person accessing the court. In a worst-case
+scenario, people might settle based on the prediction of
+software even though a
+court would not have found the same
+or be denied Legal Aid
+when they should have received assistance. Thus, while it might be argued that
+the ready availability of data
+is empowering for individual consumers –
+they can more rationally assess their case’s chances of success, for
+– it might also have a chilling effect, further entrenching
+pronounced disparities of access.
+There are many potentially useful access-to-justice applications for
+automated systems. Access to better quality and more reliable
+information about
+the family law system would be beneficial, for instance. Access to justice need
+not mean access to lawyers or courts.
+In family law matters, it might simply be
+people understanding their legal options and being able to choose the resolution
+they prefer, without excessive wait times or cost, and in circumstances
+Research into human decision-making also suggests that technology can be
+highly useful as an organisational, corrective, and supplemental
+Ailira, for instance,
+may produce a useful first draft of a complaint which a lawyer, domestic
+violence support worker, or police
+officer could review. Yet interest in
+efficiencies and self-help options should not lead to financial efficacy being
+prioritised
+above all, nor should it result in a ‘two-tiered’
+where those who cannot afford ‘real’ lawyers are reduced to making
+do with automated options.
+VI CONCLUSION
+Some commentators have claimed, ambitiously, that ‘most’ disputes
+can be solved by artificial intelligence and that family
+lawyers are not immune
+from the impact of
+In contrast, Semple, as noted above, suggests that ‘personal plight
+lawyers’ will continue to be needed and sought out,
+even in the face of
+increasing automation of legal services, due to the importance for individuals
+of connecting with a human lawyer
+when confronting family law or other personal
+Family lawyers are frequently gatekeepers to the family law system and their
+influence on clients is
+substantial.
+Yet, family law
+also involves emotional work on the part of the lawyer as clients usually seek,
+and require, more than ‘pure’
+or mechanistic legal advice. The
+difficulties that clients may have – as Gowder’s
+quoted in the
+previous Part illustrates – tend to be vastly more substantial than
+needing to know the steps of a legal process,
+though clearly this is also
+important. Some argue that this limits opportunities for automation in family
+but the opposite is also
+claimed. One former family law judge suggests that the majority of matters
+brought to United States family
+courts are ‘non-legal’ disputes over
+where people are more in need of sensible advice about managing time and
+communicating (which apps may be able to provide) than legal
+It is these
+non-legal elements, however, which are important for
+‘problem-solving’ lawyers, as this necessarily involves
+which are relational and contextual. Carrie Menkel-Meadow has summarised the
+steps which lawyers need to consider when advising
+clients, which include the
+client’s goals, ‘underlying needs or interests’, and what is
+important to them and requires
+resolution. Menkel-Meadow suggests that lawyers
+must consider ‘the legal, social, economic, political, psychological,
+ethical and organizational issues, benefits, and risks implicated in the
+This holistic
+picture of a lawyer’s task demonstrates the importance of situating the
+client and the problem in order to discern
+the specific legal questions
+involved; and considering the ramifications of any action in a broad way. Yet,
+unbundling has been used
+in family law matters for some time, demonstrating that
+a disaggregation of tasks is
+In terms of AI’s impact on the profession of law, Remus and Levy
+predict that the least impact will be felt on ‘unstructured’
+of practice and those where personal interaction is
+In a good example
+for family law, they explain ‘legal prediction software programs address
+only courts and case law, but lawyers
+must routinely predict many other things,
+such as how an opponent will react to a settlement
+In family law,
+lawyers must also have regard to the best interests of the child.
+AI innovations in family law can thus far only supplement the work of
+lawyers. Yet there are undoubtedly potential benefits, such
+as reducing the cost
+to consumers and increasing access to justice, in some circumstances. Both
+family lawyers and litigants may
+benefit from such increased efficiencies.
+Professor Rebecca Aviel has discussed the importance of differentiated case
+in family law, which she describes as ‘a multistream system
+that endeavors to tailor the level of procedural intricacy to the
+conflict and complexity presented by their particular
+circumstances’.
+refers to the value of triaging or ‘sorting’ to accord appropriate
+priority to family law matters, using intake
+procedures, and also leveraging
+metrics to gain a more accurate picture of how case management is working. In
+other words, she describes
+processes at which AI is likely to excel. Lawyers may
+use AI technology themselves to increase the efficiency of what they do, clients
+may already have made use of technology themselves, or lawyers may wish to refer
+their clients to technological assistance. It will
+be important, though, that
+family lawyers have a clear understanding of the limitations and pitfalls of
+automated systems as well
+as their potential benefits and uses. This is
+particularly so in relation to the use of automation by courts and governments
+of efficiency. Especially in the case of vulnerable clients and
+children, self-help automated options may be useful tools, but will
+appropriate substitutes for professional family lawyers.
+Lecturer, University of New
+South Wales.
+See Orna Rabinovich-Einy and
+Ethan Katsh, ‘The New New Courts’
+(2017) 67(1)
+University Law Review
+Ayelet Sela, ‘The Effect
+of Online Technologies on Dispute Resolution System Design: Antecedents, Current
+Trends, and Future
+Directions’
+(2017) 21(3)
+Lewis & Clark Law
+See, eg, Colin Rule and Chittu
+Nagarajan, ‘Leveraging the Wisdom of Crowds: The eBay Community Court and
+the Future of Online
+Dispute Resolution’ (Winter 2010)
+ACResolution
+4, 5; See also Sela (n 2) 636.
+See Sela (n 2)
+See Dorcas Anderson,
+‘The Convergence of ADR and ODR Within the Courts: The Impact on Access to
+(2019) 38(1)
+Civil Justice Quarterly
+See generally Michael Legg,
+‘The Future of Dispute Resolution: Online ADR and Online Courts’
+(2016) 27(4)
+Australasian Dispute Resolution Journal
+government and court-supported Rechtwijzer platform has now been privatised and
+is being operated as Justice42. See
+‘Welcome to
+the Civil Resolution Tribunal’
+Civil Resolution Tribunal
+<https://civilresolutionbc.ca>.
+Shannon Salter, ‘Online
+Dispute Resolution and Justice System Integration: British Columbia’s
+Civil Resolution Tribunal’
+(2017) 34(1)
+Windsor Yearbook of Access to
+Civil Resolution
+Tribunal Act
+, SBC 2012, c 25, pt 10.
+See ‘Motor Vehicle
+Accidents and Injuries’
+Civil Resolution Tribunal
+<https://civilresolutionbc.ca/how-the-crt-works/getting-started/motor-vehicle-accidents-and-injuries>.
+Citing to then current
+maximum small claim of $25,000: Salter (n 8) 122; See BC Reg 120/2017, sch 1.
+Increasing the jurisdiction
+of the Small Claims Court to CAD $35,000.
+Centralised alternative
+dispute resolution (‘ADR’) is also a possibility for these disputes
+which might involve the
+use of a mediator or arbitrator operating within an
+acknowledged common framework.
+Federico Ast and
+Clément Lesaege, ‘Kleros: A Protocol for Decentralized
+Justice’ in
+Dispute Revolution: The Kleros Handbook of Decentralized
+For an introduction to some
+of these normative questions see James Metzger, ‘Decentralized Justice in
+the Era of Blockchain’
+(2018) 5(2)
+International Journal of Online
+Dispute Resolution
+See Ameer Rosic,
+‘What is Blockchain Technology: A Step-By-Step Guide for Beginners’
+(Website, 1 March 2019)
+<https://blockgeeks.com/guides/what-is-blockchain-technology/>; See also
+Max Raskin, ‘The Law
+and Legality of Smart Contracts’ (2017) 1(2)
+Georgetown Technology Law Review
+Raskin (n 15) 318.
+See Wulf Kaal and Craig
+Calcaterra, ‘Crypto Transaction Dispute Resolution’
+(2017) 73(1)
+Business Lawyer
+Vitalik Buterin, ‘On
+Public and Private Blockchains’,
+Ethereum Blog
+(Blog Post, 6 August
+<https://ethereum.github.io/blog/2015/08/07/on-public-and-private-blockchains/>.
+Also explaining
+that private blockchains are possible.
+Kaal and Calcaterra (n 17)
+See ibid 111 stating that
+blockchain users enjoy ‘absolute privacy’ within the blockchain
+Kaal and Calcaterra (n 17)
+115 (citations omitted).
+Raskin (n 15) 318 (citation
+See generally Mike Orcutt,
+‘Once Hailed as Unhackable, Blockchains Are Now Getting Hacked’,
+MIT Technology Review
+(News Article, 19 February 2019)
+<https://www.technologyreview.com/s/612974/once-hailed-as-unhackable-blockchains-are-now-getting-hacked/>.
+See Robert McMillan,
+‘The Inside Story of Mt. Gox: Bitcoin’s $460 Million
+(News Article, 3 March 2014)
+<https://www.wired.com/2014/03/bitcoin-exchange/>.
+Pete Rizzo, ‘Poloniex
+Loses 12.3% of its Bitcoins in Latest Bitcoin Exchange Hack’,
+(News Article, 5 March 2014)
+<https://www.coindesk.com/poloniex-loses-12-3-bitcoins-latest-bitcoin-exchange-hack>.
+Reuters, ‘Bitcoin
+Worth $72M Was Stolen in Bitfinex Hack in Hong Kong’,
+Article, 3 August 2016)
+http://fortune.com/2016/08/03/bitcoin-stolen-bitfinex-hack-hong-kong/
+Kate Rooney, ‘Hacker
+Lifts $1 Million in Cryptocurrency Using San Francisco Man’s Phone Number
+Prosecutors Say’,
+(News Article, 21 November 2018)
+<https://www.cnbc.com/2018/11/21/hacker-lifts-1-million-in-cryptocurrency-using-mans-phone-number.html>.
+See, eg, Primavera De
+Filippi and Aaron Wright,
+Blockchain and the Law: The Rule of Code
+(Harvard University Press, 2018) 74; Laila Metjahic, ‘Deconstructing the
+DAO: The Need for Legal Recognition and the Application
+of Securities Laws to
+Decentralized Organizations’
+(2018) 39(4)
+Cardozo Law Review
+1538–39; Olivier Hari and Ulysse Pasquier, ‘Blockchain and
+Distributed Ledger Technology (DLT): Academic Overview of
+the Technical and
+Legal Framework and Challenges for Lawyers’
+International
+Business Law Journal
+, 434; Raskin (n 15) 309–10; Kaal and
+Calcaterra (n 17) 116.
+Raskin (n 15) 309.
+Hari and Pasquier (n 28)
+434 (emphasis in original).
+Wulf and Calcaterra (n 17)
+Raskin (n 15) 310.
+Metjahic (n 28) 1539.
+Raskin (n 15)
+The information about
+real-world events can be imported into the contract code through the use of
+‘oracles’, or external,
+possibly centralised sources (eg,
+information from the New York Stock Exchange): See Metjahic (n 28) 1540.
+Raskin (n 15) 310.
+See Metjahic (n 28)
+See Filippi and Wright (n
+28) 74; Wulf and Calcaterra (n 17) 136.
+Calcaterra (n 17) 135–36 (citing sources on jurisdictional issues).
+See Filippi and Wright (n
+28) 84; Wulf & Calcaterra (n 17) 136.
+Calcaterra (n 17) 136.
+See Filippi and Wright (n
+28) 84–85; Hari and Pasquier (n 28) 444.
+See Raskin (n 15) 311.
+Hari and Pasquier (n 28)
+See Filippi and Wright (n
+<https://openlaw.io>.
+<https://openlaw.io/faq>.
+<https://app.openlaw.io/templates>.
+(Website) <https://www.contractvault.io>;
+(Website) <https://github.com/topics/smart-contract-template>; Arjuna Kok,
+‘Write a Simple Contract On Top of Eretheum’
+Post, 2 May 2018)
+<https://medium.com/coinmonks/write-a-simple-contract-on-top-of-ethereum-92b543594e84>.
+(Website) <https://mattereum.com>.
+See Vinay Gupta et al,
+‘Smart Contracts Real Property’ (Working Paper, Matereum) 2, 2
+<https://mattereum.com/upload/iblock/af8/mattereum_workingpaper.pdf>
+(‘Mattereum Working Paper’); Iftikhar Alam, ‘What Are
+Ricardian Contracts? A Complete Guide’
+101 Blockchains
+(Website, 28
+Oct 2018) <https://101blockchains.com/ricardian-contracts/>.
+Gupta et al (n 54) 9; Alam
+Gupta et al (n 54) 9.
+The Mattereum Team,
+‘Mattereum Protocol: Turning Code into Law’ (Summary White Paper,
+Mattereum) 1, 1
+<https://cms.mattereum.io/upload/iblock/784/mattereum-summary_white_paper.pdf>
+(‘Mattereum White Paper’).
+Ibid (emphasis in
+ibid 3, 11.
+See, eg, Daniel Frumkin,
+‘What Are Ethereum Tokens? ERC-20, ERC-223, ERC-721, and ERC-777 Tokens
+Invest in Blockchain
+(Blog Post, 30 July 2018)
+<https://www.investinblockchain.com/what-are-ethereum-tokens/>.
+Mattereum White Paper (n
+See Gupta et al (n 54)
+Ibid 8, 18, 45.
+See Metzger (n 14).
+Gupta et al (n 54) 18.
+‘Rhubarb Fund ICO:
+Pre-Sale White Paper’ (White Paper, RHUbarb Fund, 1 November 2018) 2, 2
+(‘Rhubarb White Paper’).
+Verdicts Work’
+<https://www.rhucoin.com/how-rhu-works.aspx>; See also
+White Paper (n 79) 8–9.
+Rhubarb White Paper (n 79)
+<https://www.rhucoin.com/active-polls/>.
+‘Professional Trading Now Open to Everyone’
+(Website) <
+https://www.bitfinex.com/
+(‘Bitfinex’).
+(Website) <https://www.rhucoin.com/our-story.aspx>.
+Jury.Online
+(Website) <https://jury.online>.
+See ‘Jury.Online
+White Paper’
+(White Paper, No 2.5, Jury.Online, 15 March 2019)
+<https://about.jury.online/images/Jury_Online_V2_5_Whitepaper.pdf>
+(‘Jury.Online
+White Paper’) 5.
+Jury.Online
+(Website) <https://about.jury.online/mediators>.
+Jury.Online White Paper
+(Website) <https://aragon.org/network>.
+Metjahic (n 28)
+See ‘Aragon
+Network’ (White Paper, Aragon Network, 29 August 2018)
+<https://github.com/aragon/whitepaper> (‘Aragon
+Ibid 2–3; See also
+Tatu Karki and Aragon, ‘Aragon Network Jurisdiction Part 1: Decenatralized
+Aragon Network
+(Website, 18 July 2017)
+<https://blog.aragon.org/aragon-network-jurisdiction-part-1-decentralized-court-c8ab2a675e82/>.
+See generally Aragon
+White Paper (n 108).
+See Thomas Schelling,
+The Strategy of Conflict
+(Harvard University Press, Cambridge, 1960).
+Aragon White Paper (n
+See Karki and Aragon (n
+< https://jur.io>.
+‘Decentralized Dispute Resolution Infrastructure’ (White Paper,
+V.0.3, Jur) 8, 15
+<https://jur.io/content/uploads/2018/07/JUR-WhitePaper-v0.3-eng.pdf>
+(‘Jur White Paper’).
+Ibid 21, 44.
+Oath Protocol
+(Website) <https://oaths.io/en/>.
+‘OATH Protocol: Blockchain Alternative Dispute Resolution Protocol’
+(White Paper, No 2.5.0, Oath Protocol) 2
+<https://oaths.io/files/OATH-Whitepaper-EN.pdf>.
+(Website) <https://jurisproject.io>.
+See Adam Kerpelman et
+al, ‘Justice Everywhere, From Nowhere’ (White Paper, No 2, Juris, 18
+September 2018) 3, 3
+<https://drive.google.com/file/d/1318klGEYL4g02VudL-C-BCnvpKujTnbF/view>
+(‘Juris White Paper’).
+(Website) <https://kleros.io>.
+For a description of the
+beta test, see Metzger (n 14) 72–3.
+See Clément
+Lesaege and Federico Ast, ‘Kleros’ (Short Paper, No 1.0.6, Kleros,
+November 2018) 1, 2 <https://kleros.io/assets/whitepaper.pdf>.
+Ibid (emphasis in
+See generally ibid
+See Bitfinex (n 91).
+<https://www.ethfinex.com>.
+(Website) <https://idex.market/eth/pnk>.
+Viewing the dApp
+requires use of a Web3 browser, such as Metamask, so links will not be provided
+since the page is not immediately
+publicly accessible. More information can be
+found at ‘The Blockchain Dispute Resolution Layer’
+(Website) <https://kleros.io>.
+See Stuart James,
+‘Kleros x Ethfinex TCR: A Deep Dive Explainer’
+7 March 2019)
+<https://blog.kleros.io/kleros-ethfinex-tcr-an-explainer/>.
+See Stuart James,
+‘The Ethfinex Listing Guide’
+(13 March 2019)
+<https://blog.kleros.io/the-ethfinex-listing-guide/>.
+Lesaege and Ast (n 163)
+James (n 171).
+Lesaege and Ast (n 163)
+See Bitfinex (n 91).
+James (n 171).
+* Research Fellow, UNSW Law School.
+See Gary E Marchant, ‘Artificial Intelligence and the
+Future of Legal Practice’ (2017) 14(1)
+SciTech Lawyer
+See, eg, Dana Remus and
+Frank Levy, ‘Can Robots Be Lawyers: Computers, Lawyers, and the Practice
+(2017) 30(3)
+Georgetown Journal of Legal Ethics
+Rostain, ‘Robots versus Lawyers: A User-Centered Approach’
+Georgetown Journal of Legal Ethics
+; Benjamin Alarie, Anthony
+Niblett and Albert H Yoon, ‘How Artificial Intelligence Will Affect the
+Practice of Law’ (2018)
+68 (Supplement
+University of Toronto Law
+; Sergio David Becerra, ‘The Rise of Artificial
+Intelligence in the Legal Field: Where We Are and Where We Are Going’
+Journal of Business, Entrepreneurship & Law
+Semmler and Zeeve Rose, ‘Artificial Intelligence: Application Today and
+Implications Tomorrow’
+(2017-18) 16
+Duke Law & Technology
+See especially Monika
+Zalnieriute, Lyria Bennett Moses and George Williams, ‘The Rule of Law and
+Automation of Government
+Decision‐Making’
+(2019) 82(3)
+TechIndeX: Stanford Law School
+<https://techindex.law.stanford.edu/>; Michael Mills, ‘Artificial
+Intelligence in Law: The State of Play 2016’
+(Discussion Paper, Thomson
+Reuters Legal Executive Institute, 23 February 2016).
+Whilst there is a
+recently found interest in this topic amongst the legal community, academic
+discussions and research in this discipline
+first occurred upon the birth of the
+internet two decades ago: see John Zeleznikow, ‘Can Artificial
+Intelligence and Online
+Dispute Resolution Enhance Efficiency and Effectiveness
+in Courts’ (2017) 8(2)
+International Journal for Court Administration
+30, 35 (‘Efficiency and Effectiveness in Courts’).
+Jerry Kaplan,
+Artificial Intelligence: What Everyone Needs to Know
+(Oxford University
+Press, 2016) 1.
+https://deepmind.com/research/alphago/>
+Jason Koebler,
+‘Rise of the Robolawyers: How Legal Representation Could Come to Resemble
+TurboTax’ (April 2017)
+The Atlantic
+<https://www.theatlantic.com/magazine/archive/2017/04/rise-of-the-robolawyers/517794/>.
+Though some predict that
+this will be achieved by 2050: Seth D Baum, Ben Goertzel and Ted G Goertzel,
+‘How Long Until Human-Level
+AI? Results from an Expert Assessment’
+(2011) 78(1)
+Technological Forecasting & Social Change
+Tania Sourdin,
+‘Justice and Technological Innovation’
+(2015) 25(2)
+Judicial Administration
+, 96 (‘Justice and Technological
+Innovation’).
+Zeleznikow,
+‘Efficiency and Effectiveness in Courts’ (n 5) 37.
+See, eg, Zalnieriute,
+Bennett Moses and Williams (n 3); Dominique Hogan-Doran, ‘Computer Says
+“No”: Automation,
+Algorithms and Artificial Intelligence in
+Government Decision-Making’
+(2017) 13(3)
+The Judicial Review
+Noel Semple,
+‘Personal Plight Legal Practice and Tomorrow’s Lawyers’
+Journal of the Legal Profession
+(‘Personal Plight Legal
+Practice’); Samuel V Schoonmaker IV, ‘Withstanding Disruptive
+Innovation: How Attorneys
+Will Adapt and Survive Impending Challenges from
+Automation and Nontraditional Legal Services Providers’
+(2017) 51(2-3)
+Family Law Quarterly
+John Dewar, Barry W
+Smith and Cate Banks, ‘Litigants in Person in the Family Court of
+Australia’ (Research Report No
+20, Family Court of Australia, 2000) 16,
+use the term ‘partially represented’ to denote litigants who may
+have lawyers
+come and go. The authors observe that although a person may appear
+in court without legal representation does not mean that the person
+accessed some form of legal advice or information beforehand. Differing
+definitions of ‘self-represented’ exacerbate
+problems for
+evidence-based decision-making: see Elizabeth Richardson and Tania Sourdin,
+‘Mind the Gap: Making Evidence-Based
+Decisions about Self-Represented
+(2013) 22(4)
+Journal of Judicial Administration
+See, eg, Michael Saini,
+Rachel Birnbaum and Nicholas Bala, ‘Access to Justice in Ontario’s
+Family Courts: The Parents’
+Perspective’
+(2016) 37(1)
+Review of Legal and Social Issues
+, 1-2 n 2; Asher Flynn and Jacqueline
+Hodgson (eds),
+Access to Justice and Legal Aid: Comparative Perspectives on
+Unmet Legal Need
+(Hart Publishing, 2019); John Eekelaar and Mavis Maclean,
+Family Justice: The Work of Family Judges in Uncertain Times
+Publishing, 2013) (‘Family Justice’).
+Note that Sourdin
+discusses some of the many issues around technology supplanting the judicial
+role but this is not the focus here:
+Tania Sourdin, ‘Judge v Robot:
+Artificial Intelligence and Judicial Decision-Making’
+[2018] UNSWLawJl 38
+(2018) 41(4)
+University of New South Wales Law Journal
+, 1117 (‘Judge v
+John Dewar, ‘The
+Normal Chaos of Family Law’
+(1998) 61(4)
+The Modern Law Review
+Ellen Broad,
+Humans: The AI Condition
+(Melbourne University Press, 2018) xix.
+@matvelloso (Mat
+Velloso) (Twitter, 22 November 2018, 5:25PM AEST)
+<https://twitter.com/matvelloso/status/1065778379612282885?lang=en>;
+Python is a programming language:
+Welcome to Python.org
+<https://www.python.org/>.
+Broad (n 19) xx.
+Michael Legg and
+Felicity Bell, ‘Artificial Intelligence and the Legal Profession: A
+Primer’ (Law Society of NSW and
+UNSW Law, 2019) 2, available at FLIP
+Stream (Web Page)
+<https://www.allenshub.unsw.edu.au/news/artificial-intelligence-and-legal-profession-primer>.
+Toby Walsh,
+It’s Alive! Artificial Intelligence from the Logic Piano to Killer
+(La Trobe University Press and Black Inc, 2017) 49–50.
+Kevin D Ashley
+Artificial Intelligence and Legal Analytics: New Tools for Law Practice in the
+Digital Age
+(Cambridge University Press, 2017) 8–9.
+See Michael Aikenhead,
+‘The Uses and Abuses of Neural Networks in Law’
+Clara Computer & High Technology Law Journal
+John Zeleznikow and
+Andrew Stranieri, ‘The Split-Up System: Integrating Neural Networks
+Reasoning in the Legal Domain’
+(Conference Paper, International Conference
+on Artificial Intelligence and Law, 21–24 May 1995) 185; John Zeleznikow,
+Split-Up Project: Induction, Context and Knowledge Discovery in
+(2004) 3(2)
+Law, Probability and Risk
+See, eg, Anthony Elliott
+and Julie Hare, ‘The Revolution Will Not Be Televised – The AI
+Challenge’,
+The Australian
+(Sydney, 18 April 2019) 27.
+Rostain (n 2) 561.
+For the difficulties
+that this may generate: see Broad (n 19).
+John Markoff, ‘How
+Many Computers to Identify a Cat? 16,000’,
+New York Times
+25 June 2012)
+<https://www.nytimes.com/2012/06/26/technology/in-a-big-network-of-computers-evidence-of-machine-learning.html>.
+David Lehr and Paul Ohm,
+‘Playing with the Data: What Legal Scholars Should Learn about Machine
+Learning’ (2017) 51(2)
+University of California, Davis Law Review
+Warren E Agin, ‘A
+Simple Guide to Machine Learning’ (2017) 14(1)
+SciTech Lawyer
+Jason Brownlee,
+‘What is Natural Language Processing?’, Machine Learning Mastery,
+(Web Page, 22 September 2017)
+<https://machinelearningmastery.com/natural-language-processing/>.
+Yoav Goldberg,
+Network Methods in Natural Language Processing
+(Morgan & Claypool
+Publishers, 2017) xvii.
+Michael Mills and Julian
+Uebergang, ‘Artificial Intelligence in Law: An Overview’
+Thomas Davey and Michael
+Legg, ‘Machine Learning Disrupts Discovery’
+[2017] (32)
+Society Journal
+Stanford University,
+CodeX Techindex, ‘Document Automation’,
+http://techindex.law.stanford.edu/companies?category=2
+Tara Chittenden,
+‘Capturing Technological Innovation in Legal Services’ (Research
+Report, The Law Society of England
+and Wales, 25 January 2017) 12.
+See, eg, Christopher
+Knaus, ‘NDIA denies Cate Blanchett-voiced 'Nadia' virtual assistant is in
+The Guardian
+(online, 22 September 2017)
+www.theguardian.com/australia-news/2017/sep/22/ndia-denies-cate-blanchett-voiced-nadia-virtual-assistant-is-in-doubt>.
+See generally Lois R
+Lupica, Tobias A Franklin and Sage M Friedman, ‘The Apps for Justice
+Project: Employing Design Thinking
+to Narrow the Access to Justice Gap’
+(2017) 44(5)
+Fordham Urban Law Journal
+; Jessica Frank, ‘A2J
+Author, Legal Aid Organizations, and Courts: Bridging the Civil Justice Gap
+Using Document Assembly’
+(2017) 39(2)
+Western New England Law
+; David Luban, ‘Optimism, Skepticism and Access to
+Justice’ (2016) 3(3)
+Texas A&M Law Review
+Sourdin, ‘Judge v
+) 1118; Michael Legg and
+John Corker, ‘Unbundling for Access to Justice and for Commercial
+Presentation to Future of Law and Innovation in the Profession
+(FLIP) Conference
+, Sydney, 14 September 2018.
+LSC: Legal Services
+Corporation,
+Report of the Summit on the Use of Technology to Expand Access
+(Report, December 2013) 2.
+Martha Minow,
+‘“Forming Underneath Everything That Grows”: Toward a History
+of Family Law’
+Wisconsin Law Review
+, 819; John H
+Wade, ‘The Professional Status of Family Law Practice in Australia’
+[1985] UNSWLawJl 10
+(1985) 8(1)
+University of New South Wales Law Journal
+Nahum Mushin,
+‘Ethics in Family Law – Beyond Legal Principles and into Value
+Judgments’ (2018) 30 (Special Issue)
+Singapore Academy of Law
+See, eg, Warren H Resh,
+‘More on Do-It-Yourself Divorce Kits and Services’ (1973) 37(2)
+Unauthorized Practice News
+Unauthorized Practice
+of Law Commission v Parsons Technology Inc
+, 1999 WL 47235 (ND Tex, 1999),
+[1999] USCA5 1055
+179 F 3d 956
+Cir, 1999); In Australia: see
+Attorney-General (WA) v Quill Wills Ltd
+(1990) 3 WAR 500
+, 503-4 (Ipp
+See, eg, Rosemary
+Hunter, Jeff Giddings and April Chrzanowski, ‘Legal Aid and
+Self-Representation in the Family Court of Australia
+Paper, Griffith University Socio-Legal Research Centre, May 2003).
+Jonathan Crowe et al, ‘Understanding the Legal Information Experience of
+Non-Lawyers: Lessons from the Family Law Context’
+(2018) 27(4)
+of Judicial Administration
+Julie Macfarlane,
+National Self-Represented Litigants Project: Identifying and Meeting the Needs
+of Self-Represented Litigants
+(Final Report, May 2013) 35.
+See generally Emma
+Beames, ‘Technology-Based Legal Document Generation Services and the
+Regulation of Legal Practice in Australia’
+(2017) 42(4)
+Alternative Law
+Lynn Mather and Craig A
+McEwen, ‘Client Grievances and Lawyer Conduct: The Challenges of Divorce
+Practice’ in Leslie
+C Levin and Lynn Mather (eds),
+Lawyers in Practice:
+Ethical Decision Making in Context
+(University of Chicago Press, 2012) 63,
+Cf Christine Piper,
+‘How Do You Define a Family Lawyer?’
+(1999) 19(1)
+Legal Studies
+Bren Neale and Carol
+Smart, ‘“Good” and “Bad” Lawyers? Struggling in
+the Shadow of the New Law’
+(1997) 19(4)
+Journal of Social Welfare and
+; Katherine Wright, ‘The Role of Solicitors in Divorce:
+A Note of Caution’
+(2007) 19(4)
+Child and Family Law Quarterly
+(‘A Note of Caution’).
+Rosemary Hunter et al,
+‘Legal Services in Family Law’
+(Research Report, Law
+Foundation of New South Wales, December 2000) xii, 340–3 (‘Legal
+Services’).
+Jill Howieson,
+‘The Professional Culture of Australian Family Lawyers: Pathways to
+Constructive Change’
+(2011) 25(1)
+International Journal of Law, Policy
+and the Family
+, 81 (‘Professional Culture’).
+Federal Circuit and
+Family Court of Australia Bill 2018
+Federal Circuit and Family Court of
+Australia (Consequential Amendments and Transitional Provisions) Bill 2018
+See, eg, Law Council of
+Australia, Submission No 2 to the Australian Law Reform Commission,
+the Family Law System
+(16 November 2018); Nicola Berkovic, ‘Lawyers
+fight for Family Court’,
+The Australian
+(Sydney, 29 November 2018)
+‘What Can be Done
+to Fix the Family Law System?’,
+ABC Radio AM
+(Thomas Oriti, 6
+October 2018)
+https://www.abc.net.au/radio/programs/am/what-can-be-done-to-fix-the-family-law-system/10346244>
+Australian Law Reform
+Commission,
+Family Law for the Future: An Inquiry into the Family Law System
+Final Report
+(Report No 135, March 2019) ch 4 (‘Family
+Law for the Future’).
+Neale and Smart (n 58);
+Piper (n 57); referring to a new ‘hybrid profession’: Wright,
+‘A Note of Caution’
+(n 58); Craig A McEwen, Lynn Mather and
+Richard J Maiman, ‘Lawyers, Mediators and the Management of Divorce’
+(1994) 28(1)
+Law and Society Review
+; Janet Walker, ‘Is There a
+Future for Lawyers in Divorce?’
+(1996) 10(1)
+International Journal of
+Law, Policy and the Family
+; John Eekelaar, Mavis Maclean and Sarah
+Family Lawyers: The Divorce Work of Solicitors
+(Hart Publishing,
+2000) ch 1; Hunter, ‘Legal Services’ (n 57); Rosemary Hunter,
+‘Adversarial Mythologies: Policy
+Assumptions and Research Evidence in
+Family Law’
+(2003) 30(1)
+Journal of Law and Society
+See Howieson,
+‘Professional Culture’ (n 60) 81.
+See, eg, Michael King,
+‘“Being Sensible”: Images and Practices of the New Family
+Lawyers’ (1999) 28(2)
+Journal of Social Policy
+Mather and McEwen (n 56)
+King (n 67); Neale and
+Smart (n 58); Katherine Wright, ‘The Divorce Process: A View from the
+Other Side of the Desk’
+(2006) 18(1)
+Child and Family Law Quarterly
+; Wright, ‘A Note of Caution’ (n 58).
+See generally Eekelaar
+and Maclean (n 16) 32–8; Howieson, ‘Professional Culture’ (n
+58) 93; Neale and Smart (n
+58) 383; Lisa Webley, ‘Gate-Keeper, Supervisor
+or Mentor? The Role of Professional Bodies in the Regulation and Professional
+Development of Solicitors and Family Mediators Undertaking Divorce Matters in
+England and Wales’
+(2010) 32(2)
+Journal of Social Welfare and Family
+; Wright, ‘A Note of Caution’ (n 58).
+‘Professional Culture’ (n 60) 80; see also Jill Howieson,
+‘Family Law Dispute Resolution: Procedural
+Justice and the Lawyer-Client
+Interaction’ (PhD Thesis, University of Western Australia, 2008).
+Nicholas Bala, Patricia
+Hebert and Rachel Birnbaum, ‘Ethical Duties of Lawyers for Parents
+Regarding Children of Clients:
+Being a Child-Focused Family Lawyer’
+Canadian Bar Review
+See, eg, Margaret
+Finding a Better Way: A Bold Departure from the Traditional Common
+Law Approach to the Conduct of Legal Proceedings
+(Family Court of Australia
+Report, April 2007).
+Family Law Act 1975
+’); Joe Harman, ‘Should
+Mediation be the First Step in all
+Family Law Act
+Proceedings?’
+Australasian Dispute Resolution Journal
+Australian Law Reform
+Commission, ‘Family Law for the Future’ (n 64) 261–2.
+Bala, Herbert and
+Birnbaum (n 72) 580, quoting Robert H Mnookin,
+Bargaining with the Devil:
+When to Negotiate and When to Fight
+(Simon & Schuster, 1
+ed, 2010) 217.
+Barbara Glesner Fines,
+‘Fifty Years of Family Law Practice - The Evolving Role of the Family Law
+(2012) 24(2)
+Journal of the American Academy of Matrimonial
+Semple, ‘Personal
+Plight Legal Practice’ (n
+See, eg, Australian Law
+Reform Commission, ‘Family Law for the Future’ (n 64) 123
+See, eg, Zoë
+Inside Family Law: Conversations from the Coalface
+(Longueville
+Media, 2018); Michaela Whitbourn, ‘Family Court Judge Blasts
+“Bitter, Aggressive” Litigation Culture
+in Sydney’,
+Morning Herald
+(online, 13 December 2017)
+<https://www.smh.com.au/national/nsw/family-court-judge-blasts-bitter-aggressive-litigation-culture-in-sydney-20171213-h03nv5.html>.
+Patrick Parkinson and
+Brian Knox, ‘Can There Ever Be Affordable Family Law?’
+(2018) 92(6)
+Australian Law Journal
+Christine Coumarelos et
+Legal Australia-Wide Survey: Legal Need in Australia
+(Law and Justice
+Foundation of New South Wales, August 2012) vol 7, xvi.
+Ibid 38; see also Andrew
+Higgins, ‘The Costs of Civil Justice and Who Pays’
+(2017) 37(3)
+Oxford Journal of Legal Studies
+Productivity Commission,
+Access to Justice Arrangements
+(Inquiry Report No 72, 2014) vol 2, 875;
+Margaret Castles, ‘Expanding Justice Access in Australia: The Provision of
+Scope Legal Services by the Private Profession’
+(2016) 41(2)
+Alternative Law Journal
+Benjamin Barton,
+‘The Lawyer’s Monopoly: What Goes and What Stays’
+(2014) 82(6)
+Fordham Law Review
+Samuel V Schoonmaker
+IV, ‘Withstanding Disruptive Innovation: How Attorneys Will Adapt and
+Survive Impending Challenges from
+Automation and Nontraditional Legal Services
+(2017) 51(2)
+Family Law Quarterly
+Gerard J Clark,
+‘Internet Wars: The Bar against the Websites’
+(2013) 13(2)
+Journal of High Technology Law
+See Zeleznikow,
+‘Efficiency and Effectiveness in Courts’ (n
+See, eg, Chief Justice
+Alastair Nicholson, ‘Legal Aid and a Fair Family Law System’
+(Speech, Legal Aid Forum Towards
+2010, 1999); Nicola Berkovic, Inquirer,
+‘Break-Up So Hard to Do’,
+November 2018) 17; Opinion, ‘Expedite Family Law Reforms’,
+(Sydney, 28 August 2018) 15.
+House of Representatives
+Standing Committee on Social Policy and Legal Affairs, Parliament of Australia,
+A Better Family Law System to Support and Protect Those Affected by Family
+(Report, 2017) 56 nn 32, 34; see also Pricewaterhouse Coopers,
+Submission to the Attorney-General’s Department,
+Review of Efficiency
+of the Operation of the Federal Courts: Final Report
+(April 2018)
+<https://www.ag.gov.au/LegalSystem/Courts/Documents/pwc-report.pdf>.
+Australian Law Reform
+Commission, ‘Family Law for the Future’ (n 64) 298 [10.10].
+Ibid 332 [10.135].
+See, eg, ibid 279
+Greg Howe, ‘The
+Family/Federal Circuit Court Restructure: What’s all the fuss
+(2018) 40(10)
+The Bulletin
+; Australian Law Reform
+Commission, ‘Family Law for the Future’ (n 62) 223 [5.160].
+LSC: Legal Services
+Corporation (n
+James E Cabral et al,
+‘Using Technology to Enhance Access to Justice’
+(2012) 26(1)
+Harvard Journal of Law and Technology
+Judith Bennett et al,
+‘Current State of Automated Legal Advice Tools’
+(Discussion
+Paper No 1, Networked Society Institute, University of Melbourne, April 2018)
+See, eg, ‘Products
+for Your Big Life Changes’
+https://www.legalzoom.com/personal/marriage-and-divorce/>
+‘Find the Right Amicable Service’
+<https://amicable.io/services> self-describes as ‘the UK’s
+only divorce service that works with couples
+to help you reach fairer
+agreements’.
+Crowe et al (n
+‘Do It Yourself
+Family Court of Australia
+(Web Page, 14 February 2019)
+http://www.familycourt.gov.au/wps/wcm/connect/fcoaweb/forms-and-fees/court-forms/diy-kits/
+Divorce Applications
+<www.onlinedivorceapplications.com.au
+Parkinson and Knox (n
+Crowe et al (n
+Ambrogi, ‘This Week in Legal Tech: Everyone’s Talking About
+Above the La
+w (Web Page, 17 April 2017)
+<https://abovethelaw.com/2017/04/this-week-in-legal-tech-everyones-talking-about-chatbots/?rf=1>.
+See Settify (Web Page)
+www.settify.com.au>
+Mark K Osbeck and
+Michael Gilliland, ‘Outcome Prediction in the Practice of Law’
+[2018] (50)
+Foresight: The International Journal of Applied Forecasting
+Mayer-Schönberger and Kenneth Cukier,
+Big Data: A Revolution That Will
+Transform How We Live, Work and Think
+(First Mariner Books, 2014) 8.
+See Ashley (n
+); Zeleznikow, ‘Efficiency and
+Effectiveness in Courts’ (n 5) 35.
+Ejan Mackaay and Pierre
+Robillard, ‘Predicting Judicial Decisions: The Nearest Neighbour Rule and
+Visual Representation of
+Case Patterns’ (1974) 3(3-4)
+Datenverarbeitung
+302, 306, cited by Kevin D Ashley and
+Stefanie Brüninghaus, ‘Automatically Classifying Case Texts and
+Predicting Outcomes’
+(2009) 17(2)
+Artificial Intelligence and Law
+125, 129; Ashley (n
+Zeleznikow,
+‘Efficiency and Effectiveness in Courts’ (n 5); see also Sourdin,
+‘Justice and Technological Innovation’
+Nikolaos Aletras et al,
+‘Predicting Judicial Decisions of the European Court of Human Rights: A
+Natural Language Processing
+Perspective’ [2016] (2)
+PeerJ Computer
+Frank Pasquale and Glyn
+Cashwell, ‘Prediction, Persuasion, and the Jurisprudence of
+Behaviourism’ (2018) 68 (Supplement
+University of Toronto Law
+Some examples include
+Fastcase, Ravel Law (including Judge Analytics), Lex Machina and CARA.
+Originally the Stanford
+IP Litigation Clearinghouse. It was subsequently acquired by LexisAdvance:
+‘LexisNexis Acquires Premier
+Legal Analytics Provider Lex Machina’,
+Lex Machina
+(Web Page, 23 November 2015)
+<https://lexmachina.com/media/press/lexisnexis-acquires-lex-machina/>.
+See, eg, Robert Ambrogi,
+‘Rating Lawyers by their Wins and Losses’,
+Above the Law
+Page, 13 February 2017)
+<https://abovethelaw.com/2017/02/this-week-in-legal-tech-rating-lawyers-by-their-wins-and-losses/>.
+Monica Rogati,
+‘The AI Hierarchy of Needs’,
+(Blog Post, 1 August
+2017) <https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007>,
+cited by Philip Segal, ‘Legal
+Jobs in the Age of Artificial Intelligence:
+Moving from Today’s Limited Universe of Data Towards the Great
+Beyond’ (2018)
+Savannah Law Review
+211, 219–20.
+See Sourdin,
+‘Judge v Robot’ (n
+Lyria Bennett Moses and
+Noam Peleg, ‘Why have a lawyer when you can have a robot?’
+(Presentation to National Family
+Law Conference Brisbane, 5 October 2018).
+Legislation Amendment (Superannuation) Act 2001
+Pasquale and Cashwell (n
+Bennett Moses and Peleg
+‘Federal Court
+Registrar Jessica Der Matossian on FLIP Inquiry Series: Behind the Buzzwords
+– AI’ Law Society
+FLIP Inquiry Series: Podcasts
+December 2018)
+<https://www.lawsociety.com.au/advocacy-and-resources/advocacy/flip/flip-inquiry-series-behind-buzz-words/podcasts>;
+see also ‘Mr Warwick Soden – Biography’,
+Future Justice
+http://www.futurejustice2018.com/1584
+See, eg, Emilia Bellucci
+and John Zeleznikow, ‘Developing Negotiation Decision Support Systems that
+Support Mediators: A Case
+Study of the Family_Winner System’ (2006) 13(2)
+Journal of Artificial Intelligence and Law
+Michael Legg, “The
+Future of Dispute Resolution: Online ADR and Online Courts”
+(2016) 27(4)
+Australasian Dispute Resolution Journal
+; Dory Reiling, ‘Beyond
+Court Digitalization with Online Dispute Resolution’ (2017) 8(2)
+International Journal for Court Administration
+Later, the launch of
+portals in Alaska and Hawaii was announced: LSC: Legal Services Corporation (n
+Civil Resolution
+Tribunal, ‘Civil Resolution Tribunal’ (2018)
+<https://civilresolutionbc.ca/>; and MyLawBC, Separation,
+Family Matters, <https://mylawbc.com/paths/family/>.
+Tania Sourdin and
+Chinthaka Liyanage, ‘The Promise and Reality of Online Dispute Resolution
+in Australia’ in Mohamed
+S Abdel Wahab, Ethan Katsh and Daniel Rainey
+Online Dispute Resolution: Theory and Practice – A Treatise on
+Technology and Dispute Resolution
+(Eleven International Publishing, 2012)
+Noam Ebner,
+‘E-Mediation’ in Mohamed S Abdel Wahab, Ethan Katsh and Daniel
+Rainey (eds),
+Online Dispute Resolution: Theory and Practice – A
+Treatise on Technology and Dispute Resolution
+(Elven International
+Publishing, 2012) 357, 377.
+Mark Thomson,
+‘Alternative Modes of Delivery for Family Dispute Resolution: The
+Telephone Dispute Resolution Service and the
+Online FDR Project’ (2011)
+Journal of Family Studies
+253; see also Relationships Australia,
+‘Development and Evaluation of Online Family Dispute Resolution
+Capabilities’
+(Final Report, 30 March 2011).
+Thomson (n 140) 256.
+John Zeleznikow,
+‘Methods for Incorporating Fairness into the Development of an Online
+Family Dispute Resolution Environment’
+(2011) 22(1)
+Australasian
+Journal of Dispute Resolution
+16, 16 (‘Methods for Incorporating
+Fairness’).
+), citing Scott Shackelford and Anjanette
+Raymond, ‘Building the Virtual Courthouse: Ethical Considerations for
+Design, Implementation,
+and Regulation in the World of ODR’
+Wisconsin Law Review
+, 628; Suzanne Van Arsdale, ‘User
+Protections in Online Dispute Resolution’
+(2015) 21(1)
+Negotiation Law Review
+Colin Rule,
+‘Making Peace on eBay: Resolving Disputes in the World’s Largest
+Marketplace’ (Fall 2008)
+AC Resolution
+Ben Barton,
+‘Modria and the Future of Dispute Resolution’,
+Bloomberg Law
+(Web Page, 1 October 2015)
+https://biglawbusiness.com/modria-and-the-future-of-dispute-resolution/>.
+Split-Up, Family_Winner,
+AssetDivider; Zeleznikow, ‘Methods for Incorporating Fairness’ (n
+Zeleznikow,
+‘Efficiency and Effectiveness in Courts’ (n 5) 39–41.
+Ibid; see also
+Australian Law Reform Commission,
+Review of the Family Law System
+(Discussion Paper 86, October 2018) (‘Review of the Family Law
+System’); Opinion (n 91); Berkovic (n 91).
+See Parkinson and Knox
+Australian Law Reform
+Commission, ‘Review of the Family Law System’ (n
+Joe Harman, ‘The
+Field of Dreams’
+(2018) 29(1)
+Australasian Dispute Resolution
+Parkinson and Knox (n
+Noel Semple, ‘A
+Third Revolution in Family Dispute Resolution: Accessible Legal
+Professionalism’ (2017) 34(1)
+Windsor Yearbook of Access to Justice
+130 (‘A Third Revolution’).
+Esmee A Bickel, Marian A
+J van Dijk and Ellen Giebels, ‘Online Legal Advice and Conflict Support: A
+Dutch Experience’
+(Report, University of Twente, March 2015) 31, cited by
+Sourdin, ‘Judge v Robot’ (n 17) 1122.
+Maurits Barendrecht,
+‘Rechtwijzer: Why Online Supported Dispute Resolution is Hard to
+Implement’,
+Law Technology and Access to Justice
+(Blog Post, 20
+<https://law-tech-a2j.org/odr/rechtwijzer-why-online-supported-dispute-resolution-is-hard-to-implement/>.
+Carol Matlack,
+‘Robots are Taking Divorce Lawyers’ Jobs, Too’,
+(Web Page, 30 June 2016)
+https://www.bloomberg.com/news/articles/2016-06-30/robots-are-taking-divorce-lawyers-jobs-too>
+Barendrecht (n 159)
+estimated ‘a market share of 2-3 per cent of the separation market’;
+see also Richard Moorhead,
+‘After the Rechtwijzer Energizer’,
+Lawyer Watch
+(Blog Post, 31 March 2017)
+<https://lawyerwatch.blog/2017/03/31/after-the-rechtwijzer-energizer/>.
+Roger Smith,
+‘Goodbye Rechtwijzer: hello Justice42’,
+Law Technology and Access
+(Blog Post, 31 March 2017)
+<https://law-tech-a2j.org/advice/goodbye-rechtwijzer-hello-justice42/
+Barendrecht (n
+Ibid; see further Part V
+Uitelkaar (Web Page)
+https://uitelkaar.nl/
+(‘An independent lawyer checks whether the agreements are legally correct
+and balanced for both parties’). As Barendrecht
+) notes, it is too early to know how this
+new platform is performing.
+‘Negotiating Your Divorce Online’,
+The Law Report
+National, 12 July 2016)
+http://www.abc.net.au/radionational/programs/lawreport/resolving-disputes-online/7585364
+Matthew Denholm,
+‘Quick E-Divorce to Save Couples Time and Money’,
+The Australian
+(Sydney, 8 August 2017), 5.
+The reporting of the
+story, which references ‘e-Divorce’ in its headline, is also quite
+misleading given that obtaining
+a divorce online has been possible in Australia
+since 2009: Federal Magistrates Court,
+Annual Report 2009/10
+since January 2018 paper copies of divorce orders are no longer posted, with the
+divorce order being electronic only: see
+http://www.federalcircuitcourt.gov.au/wps/wcm/connect/fccweb/how-doi/divorce/apply-for-a-divorce/apply-for-divorce
+Australian Law Reform
+Commission, ‘Family Law for the Future’ (n
+) 79, citing Lixia Qu et al,
+‘Post-Separation Parenting, Property and Relationship Dynamics after Five
+Years’ (Report,
+Attorney-General’s Department, Commonwealth, 2014)
+Australian Law Reform
+Commission, ‘Family Law for the Future’ (n
+Ibid 80 [3.3].
+Rae Kaspiew et al,
+Evaluation of the 2006 Family Law Reforms
+(Report, Australian Institute
+of Family Studies, December 2009) 29–30; In the United States, it has been
+observed that ‘intransigent
+conflict-ridden divorcing families’ are
+likely to be beset by multiple serious problems: Janet Johnston et al,
+‘Allegations
+and Substantiations of Abuse in Custody-Disputing
+(2005) 43(2)
+Family Court Review
+Rae Kaspiew et al,
+Evaluation of the 2012 Family Violence Amendments: Synthesis Report
+(Report, Australian Institute of Family Studies, October 2015) 16; see also
+Family Law Council,
+Families with Complex Needs and the Intersection of the
+Family Law and Child Protection Systems: Terms 1 & 2
+(Interim Report,
+June 2015).
+Johnston et al (n
+Rosemary Hunter,
+‘Doing Violence to Family Law’
+(2011) 33(4)
+Journal of Social
+Welfare and Family Law
+, 354; Pascoe Pleasence et al,
+Action: Civil Law and Social Justice
+(Legal Services Commissioner,
+Jess Mant and Julie
+Wallbank, ‘The Mysterious Case of Disappearing Family Law and the
+Shrinking Vulnerable Subject: The Shifting
+Sands of Family Law’s
+(2017) 26(5)
+Social and Legal Studies
+639–42 (‘The Mysterious Case’).
+Ibid; Alison Diduck,
+‘Autonomy and Family Justice’
+(2016) 28(2)
+Child & Family Law
+; Alison Diduck, ‘Autonomy and Vulnerability in Family
+Law: The Missing Link’ in Julie Wallbank and Jonathan Herring (eds)
+Vulnerabilities, Care and Family Law
+(Routledge, 2013) 95.
+Mant and Wallbank,
+‘The Mysterious Case’ (n
+Coumarelos (n
+) xv; Geoff Mulherin, ‘Law and
+Disadvantage’ in Michael Legg (ed)
+Resolving Civil Disputes
+(LexisNexis, 2016) 225, 249 [16.79].
+Macfarlane (n
+Cody Blades,
+‘Crying Over Spilt Milk: Why the Legal Community is Ethically Obligated to
+Ensure LegalZoom’s Survival
+in the Legal Services Marketplace’
+(2015) 38(1)
+Hamline Law Review
+; Lauren Moxley, ‘Zooming Past
+the Monopoly: A Consumer Rights Approach to Reforming the Lawyer's Monopoly and
+Improving Access
+to Justice’
+(2015) 9(2)
+Harvard Law and Policy
+; Ben Barton, ‘Lessons from the Rise of LegalZoom’,
+Bloomberg Law
+(Web Page, 18 June 2015)
+<https://biglawbusiness.com/lessons-from-the-rise-of-legalzoom>.
+Catherine J Lanctot,
+‘Regulating Legal Advice in Cyberspace’
+(2002) 16(3)
+Journal of Legal Commentary
+; Nick Robinson, ‘When Lawyers
+Don’t Get All the Profits: Non-Lawyer Ownership, Access, and
+Professionalism’
+(2016) 29(1)
+Georgetown Journal of Legal Ethics
+Francesca Bartlett, ‘An Uncomfortable Place for Technology
+in the Australian Community Legal Sector’ (Presentation to
+International
+Legal Ethics Conference VIII, University of Melbourne Law School, Melbourne, 7
+December 2018).
+Robinson (n
+Rebecca L Sandefur,
+‘What We Know and Need to Know About the Legal Needs of the Public’
+(2016) 67(2)
+South Carolina Law Review
+, 445, 449-50; see also
+Schoonmaker (n
+Semple, ‘A Third
+Revolution’ (n
+Australian Law Reform
+Commission, ‘Family Law for the Future’ (n
+) 196 [6.5], 248 [8.8].
+Robinson (n
+Domestic Violence Assistant Beta Testing Now Open’,
+Cartland Law
+<https://www.cartlandlaw.com/ailira-domestic-violence-assistant-beta-testing-now-open/>.
+The program was initially
+funded by the D3 Digital Challenge “Keeping
+Women Safe” program in South Australia: see ‘Ailira wins Government
+Grant to Help Victims of Domestic Violence’,
+Cartland Law
+<www.cartlandlaw.com/ailira-wins-government-grant-to-help-victims-of-domestic-violence/
+The concept of
+‘legal need’ is to capture problems which individuals may not
+themselves identify as legal issues: see
+generally Hazel Genn,
+Justice: What People Do and Think About Getting to Law
+(Hart Publishing,
+See, eg, Special
+Taskforce on Domestic and Family Violence in Queensland,
+Not Now, Not Ever:
+Putting an End to Domestic and Family Violence in Queensland
+(Report, 28
+February 2015) 301.
+See, eg, Australian Law
+Reform Commission,
+Family Violence and Commonwealth Laws – Improving
+Legal Frameworks: Final Report
+(Report No 117, November 2011)
+54 [1.18]-[1.26] (‘
+Family Violence: Improving Legal
+’); Australian Law Reform Commission,
+Family Violence:
+Improving Legal Frameworks – Consultation Paper
+(Consultation Paper No
+9, June 2010) 214 [4.224].
+Australian Law Reform
+Commission,
+Family Violence: Improving Legal Frameworks
+) 958–59 [20.16].
+Ibid 244–45
+[5.72]-[5.77].
+Crimes (Domestic and
+Personal Violence) Act 2007
+; Jane Wangmann, ‘Incidents v
+Context: How Does the NSW Protection Order System Understand Intimate Partner
+[2012] SydLawRw 32
+(2012) 34(4)
+Sydney Law Review
+This was recommended by
+the Victorian Law Reform Commission,
+Review of Family Violence Laws
+(Report, February 2006) [5.80]-[5.93]; on the other hand, the NSW Law Reform
+Commission had previously stressed the importance of
+police making complaints on
+behalf of PINOPs: New South Wales Law Reform Commission,
+Apprehended Violence
+(Report No 103, October 2003) [3.8]; see also Heather Douglas,
+‘Do We Need a Specific Domestic Violence Offence?’
+[2015] MelbULawRw 26
+(2015) 39(2)
+Melbourne University Law Review
+The debate about mandatory arrest
+policies in the domestic violence context also illustrates this complexity: see,
+eg, Rachel Camp,
+‘Pursuing Accountability for Perpetrators of Intimate
+Partner Violence: The Peril and Utility of Shame’
+(2018) 98(6)
+University Law Review
+, 1703–4, n 132.
+research was focused on cross-applications: she reviewed 156 such applications,
+as well as conducting court observation:
+Wangmann (n
+Richard Moorhead,
+‘DoNotLie – A quick post on ChatBot ethics’,
+LawyerWatch
+(Blog Post, 1 February 2018)
+<https://lawyerwatch.blog/2018/02/01/donotlie-a-quick-post-on-chatbot-ethics/>.
+Wangmann (n
+) 712–13, citing
+Crimes (Domestic
+and Personal Violence) Act 2007
+; Rosemary Hunter,
+Violence Law Reform and Women’s Experience in Court: The Implementation of
+Feminist Reforms in Civil Proceedings
+(Cambria Press, 2008) 81-82.
+Paul Gowder,
+‘Transformative Legal Technology and the Rule of Law’ (2018) 68
+(Supplement
+University of Toronto Law Journal
+See generally Beames (n
+Tahlia Gordon,
+‘The Unregulated Cowboys that May be “Engaging in legal
+practice”’ (Presentation
+FLIP Regulatory Subcommittee,
+Law Society of NSW, 9 April 2019), referring to Online Divorce Applications
+<https://www.audivorce.com.au/>.
+Eekelaar and Maclean,
+Family Justice
+(n 16) ch 9.
+Melissa Perry,
+‘iDecide: Administrative Decision-Making in the Digital World’
+(2017) 91(1)
+Australian Law Journal
+Zeleznikow,
+‘Methods for Incorporating Fairness’ (n
+Eekelaar and Maclean,
+Family Justice
+(n 16); see also Penelope E Bryan, ‘Reclaiming
+Professionalism: The Lawyer’s Role in Divorce Mediation’
+Family Law Quarterly
+Black v Black
+[2008] FamCAFC 7
+(2008) 216 FLR 422
+, 430 [45], which adopted a strict approach to compliance with
+the legislation before a financial agreement would be binding; Patrick
+Parkinson, ‘Setting Aside Financial Agreements’
+(2001) 15(1)
+Australian Journal of Family Law
+Estimates as to
+prevalence vary, but see, eg, Lawrie Moloney et al,
+Allegations of Family
+Violence and Child Abuse in Family Law Children’s Proceedings: A
+Pre-Reform Exploratory Study
+(Research Report No 15, Australian Institute of
+Family Studies, May 2007) which suggested that over half of family law cases
+allegations of violence and/or child abuse.
+Patrick Parkinson,
+‘Why are Decisions on Family Property So Inconsistent?’
+(2016) 90(7)
+Australian Law Journal
+Daniel Ben-Ari et al,
+‘“Danger, Will Robinson?” Artificial Intelligence in the
+Practice of Law: An Analysis and
+Proof of Concept Experiment’
+(2017) 23(2)
+Richmond Journal of Law & Technology
+The Correctional
+Offender Management Profiling for Alternative Sanctions: see Julia Angwin et al,
+‘Machine Bias’,
+(Web Page, 23 May 2016)
+https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing>.
+Lehr and Ohm (n
+For a discussion of
+differing approaches to fairness: see Sam Corbett-Davies et al, ‘A
+computer program used for bail and
+sentencing decisions was labeled biased
+against blacks. It’s actually not that clear’,
+The Washington
+17 October 2016)
+<https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/?noredirect=on&utm_term=.a245872bbe95>;
+Gillian K Hadfield,
+Rules for a Flat World
+(Oxford University Press, 2017) 25.
+Pasquale and Cashwell (n
+Lyria Bennett Moses and
+Janet Chan, ‘Using Big Data for Legal and Law Enforcement Decisions:
+Testing the New Tools’
+[2014] UNSWLawJl 25
+(2014) 37(2)
+University of New South Wales Law
+Frank Pasquale and Glynn
+Cashwell, ‘Four Futures of Legal Automation’ [2015] (63)
+Review Discourse
+See National Research
+Complex Operational Decision Making in Networked Systems of Humans
+and Machines: A Multidisciplinary Approach
+(National Academies Press,
+Remus and Levy (n 2)
+Ben-Ari et al (n
+Semple, ‘Personal
+Plight Legal Practice’ (n 14).
+Patrick Parkinson,
+Atlanta Webster and Judy Cashmore, ‘Lawyers’ Interviews with Clients
+[2010] UNSWLawJl 41
+(2010) 33(3)
+University of New South Wales Law
+Semple, ‘Personal
+Plight Legal Practice’ (n 14); Schoonmaker (n
+Lydia Dishman,
+‘This App Helps Divorced Parents Stop Fighting Over Custody and Save
+Fast Company
+(Web Page, 17 January 2019)
+<https://www.fastcompany.com/90290963/this-app-helps-divorced-parents-stop-fighting-over-custody-and-save-money>.
+Adieu is one example of
+a startup using artificial intelligence to help humans resolve conflict,
+starting with separation and divorce:
+<https://www.adieu.ai/>.
+Carrie Menkel-Meadow,
+‘When Winning isn’t Everything: The Lawyer as Problem Solver’
+(2000) 28(4)
+Hofstra Law Review
+Semple, ‘A Third
+Revolution’ (n
+Remus and Levy (n 2).
+Rebecca Aviel,
+‘Family Law and the New Access to Justice’
+(2018) 86(5)
+Print (pretty)
+Print (eco-friendly)
+RTF format (811 KB)
+PDF format (914 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

@@ -1,0 +1,3071 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/MqLawJl/2019/4.html
+Scraped: 2025-11-17 15:21:16
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Cashman, Peter; Ginivan, Eliza --- "Digital Justice: Online Resolution of Minor Civil Disputes and the Use of Digital Technology in Complex Litigation and Class Actions" [2019] MqLawJl 4; (2019) 18 Macquarie Law Journal 39
+PETER CASHMAN*, ELIZA GINNIVAN**
+I INTRODUCTION
+II DIGITAL JUSTICE THROUGH ONLINE DISPUTE RESOLUTION OF HIGH-VOLUME LOW VALUE INDIVIDUAL CLAIMS
+B ODR in Australia
+C International Examples of ODR
+D Evaluating ODR
+E Using Foundational Principles to Assess ODR
+1 Access to Justice
+(a) Remote and Asynchronous Dispute Resolution
+(b) Alternative Dispute Resolution
+(c) Pre-action Protocols
+(d) The Digital Divide
+2 Open Justice
+3 Procedural Fairness
+(a) Legal Representation
+(b) The User Experience of Procedural Justice
+(c) Levelling the Playing Field through System Design
+(d) User Data to Improve Fairness
+E Conclusions concerning ODR in High-Volume, Low-Value Individual Disputes
+II THE USE OF DIGITAL TECHNOLOGY IN LARGE, COMPLEX LITIGATION IN THE HIGHER COURTS
+A The Commencement of Litigation: The Development and Management of Client Data Bases by Lawyers
+B The Conduct of Litigation: Reviewing Voluminous Documentation Produced on Discovery
+C The Filing and Exchange of Court Documents and Evidence by Parties
+D The Judicial Management of Documentation and Evidence
+E The Conduct of Trials
+F Concluding Litigation
+G The Administration of Settlement Distribution Schemes
+H Some Historical Lessons from the Dalkon Shield Litigation
+I Some Lessons from the Vioxx Case and Recent Class Action and Mass Tort Litigation in the United States
+III CONCLUSIONS
+DIGITAL JUSTICE: ONLINE RESOLUTION OF MINOR CIVIL
+DISPUTES AND THE USE OF DIGITAL TECHNOLOGY IN COMPLEX LITIGATION AND CLASS
+This article focuses on two ends of the civil justice spectrum. At one end
+are high-volume, low-value disputes confined to specific
+facts and legal issues
+unique to the disputing parties. Many of these disputes do not presently enter
+the traditional civil justice
+system. At the other end are complex legal
+proceedings which encompass the claims of multiple litigants with similar causes
+against one or more ‘common’ defendants, such as class
+actions or mass tort proceedings. At both ends of the spectrum,
+tension between the desire for individualised justice and the need to facilitate
+the resolution of claims in a manner
+which is efficient, economical, transparent
+and procedurally fair. We examine how digital technology is being deployed to
+disputes at both ends of this spectrum. In the first part of the paper,
+we focus on the use of technology to resolve high-volume,
+low-value disputes
+which share a common objective: the resolution of high-volume claims at
+low-transaction cost. In particular, we
+examine the increasing adoption of
+processes and procedures from the world of commerce to resolve disputes in the
+public justice
+system. In the second part of the article we examine how new
+technologies can facilitate the conduct and resolution of large scale,
+class action litigation in the higher courts through client intake, claim
+management, discovery processes, trial procedures
+and the implementation of
+settlements. We conclude that online dispute resolution methods have the
+potential to achieve, and in many
+instances do in fact achieve, the economical
+and expeditious resolution of claims in a manner which is transparent and
+procedurally
+I INTRODUCTION
+This article focuses on the use of digital technology to enhance justice
+outcomes at both ends of the civil justice spectrum. At one
+end are large
+numbers of relatively low-value disputes in which the issues are confined to the
+specific facts and legal issues unique
+to the parties in dispute. Many of these
+disputes do not presently enter the traditional civil justice system as the
+transactional
+costs to resolve them are disproportionate to the amount in
+dispute. At the other end are large, complex legal proceedings which
+the claims of substantial numbers of persons with causes of action against one
+or more ‘common’ defendants,
+and which share common issues that may
+facilitate resolution through class actions or mass tort proceedings. We examine
+of recent developments in which digital technology is being deployed to
+resolve disputes at both ends of this spectrum. Although
+these digital
+technology innovations differ in the methodologies they use, they have a common
+objective – the resolution of
+high-volume claims at low transaction cost.
+Both ends of this civil claims justice spectrum share the goals of facilitating
+to justice in a manner which is transparent, procedurally fair,
+economical and expeditious.
+In the first part of the article, we focus on the use of digital technology
+to resolve high-volume, low-value disputes. In particular,
+we examine the
+increasing uptake of online dispute resolution (‘ODR’) platforms in
+public justice systems for the resolution
+of such disputes. These ODR platforms
+have adopted processes and procedures that were developed in the commercial
+realm to deal with
+high-volume disputes by consumers of products and services.
+One leading example is eBay, which resolves over 60 million disputes
+using ODR methodology. In this article, we explore the opportunities and
+challenges ODR presents for the resolution of high-volume,
+low-value disputes
+through the prism of fundamental principles of the civil justice system.
+In the second part of the article, we focus on the use of digital
+techniques and new and emerging technologies in the management and
+resolution of
+large scale complex litigation, including class actions, in the higher courts.
+We examine a number of ways in which
+new technology, at lower cost and with less
+delay, may better facilitate the conduct and resolution of large scale complex
+litigation,
+including through client intake, claim management, discovery
+processes, trial procedures and the implementation of settlements.
+At each end of this spectrum, as in many other areas of civil dispute
+resolution, there is a tension between the desire for individualised
+justice and
+the need to facilitate the resolution of large numbers of claims efficiently and
+economically. This tension exists from
+the inception of discrete individual
+claims through to the resolution of mass litigation. How this tension is
+resolved has important
+implications for the parties in dispute and the
+administration of justice.
+Reform of the civil justice system is a continuous and iterative process to
+improve the system and ensure it meets community expectations.
+In a rapidly
+changing society that is increasingly reliant on digital technology in all areas
+of life, the justice system often lags
+behind. However, changes in technology
+and civil procedure can play an important role in facilitating access to
+justice, bringing
+costs and delay across the civil litigation spectrum. ODR is increasingly
+implemented as a major reform in civil justice systems in Australia and
+internationally. At present, various Australian governments,
+including in New
+South Wales, are considering how to incorporate ODR into the civil justice
+system. As we seek to demonstrate, ODR
+methods have the potential to achieve,
+and in many instances do in fact achieve, the economical and expeditious
+resolution of claims
+in a manner which is transparent and procedurally fair.
+JUSTICE THROUGH ONLINE DISPUTE RESOLUTION OF HIGH-VOLUME LOW VALUE INDIVIDUAL
+Origins of ODR
+ODR involves the use of information and communications technology to help
+parties resolve disputes.
+court and tribunal system, ODR is a digital platform that allows people to
+progress through dispute resolution for low-value
+disputes, from the
+commencement of a claim to final determination, entirely online. This process
+may involve different methodologies,
+including the use of information delivered
+through ‘guided pathways’, blind bidding, hybrid alternative dispute
+(including facilitated negotiation and early neutral evaluation,
+either with human input or artificial intelligence algorithms),
+communication (such as remote or video participation in hearings and
+asynchronous messaging), and uploading and responding
+to evidence online.
+ODR can empower parties to resolve disputes early, freeing up court and
+judicial resources to deal with complex and serious matters.
+It can streamline
+court processes and expand methods of access, reducing the need for extensive
+physical court infrastructure. In
+this part of the article, we examine ODR
+initiatives in Australia and other countries. We then consider ODR alongside
+principles of the civil justice system: access to justice, procedural
+fairness and open justice. These principles were selected as
+a starting point
+because an ideal ODR platform will incorporate these principles while
+facilitating the just, quick and cheap resolution
+of disputes. We examine
+opportunities and considerations for the implementation of ODR in Australian
+civil justice systems and lessons
+learned from ODR implementation around the
+world to date.
+ODR was initially developed in the commercial sphere as a means of dealing
+with high-volume, low-value, consumer disputes arising
+from online transactions
+on e-commerce websites such as Amazon, eBay and PayPal. In these disputes,
+parties are often geographically
+distant and jurisdictionally distinct. The
+complexity and expense of going to court is disproportionate to the amount in
+ODR allowed buyers and sellers to resolve straightforward disputes
+expeditiously and at low cost, usually by agreement. Offering
+an in-built
+dispute resolution mechanism also served the commercial interests of these
+companies as parties often continued or increased
+their consumer activity after
+resolving a dispute online, regardless of the
+The potential of ODR to resolve disputes efficiently and effectively
+eventually attracted the attention of governments, courts and
+tribunals around
+the world. In the last six years, ODR has been incorporated into domestic
+justice systems and processes in several
+ways, including as an external process
+that feeds into a formal determination, as the default platform for a new
+tribunal, and integrated
+into a pre-existing court (otherwise known as
+‘court-annexed’ or ‘court-integrated’ ODR). ODR is also
+to resolve disputes between jurisdictionally distinct parties under
+multilateral agreements. Court-integrated ODR has been used to
+greatest effect
+in high-volume, low-value disputes, where parties are usually unrepresented and
+their preference is for rapid resolution
+of the claim.
+ODR has the potential to transform the efficiency and effectiveness of the
+justice system for low-value disputes. ODR can make dispute
+resolution more
+accessible for people in the community with unmet legal needs. Proponents claim
+that ODR improves efficiency and
+upholds high standards of justice, while
+simultaneously ‘bridging the justice gap’ by reducing barriers of
+cost, delay
+and complexity that can limit access to
+ODR has been presented as
+a solution for courts and tribunals experiencing budget cuts, resource
+constraints and poor performance
+oversight on the progression and determination
+of disputes.
+While ODR contributes to ongoing efforts to use technology to improve the
+civil justice system, it also represents a fundamentally
+different approach to
+Rather than digitising litigation procedure and practices (which we explore in
+the second part of this article), successful ODR models
+re-engineer how dispute
+resolution processes can be designed to benefit
+This includes inverting
+dispute resolution design and redirecting investment to the early stages of
+dispute resolution, rather than
+to court or judicial
+This process of redesign distinguishes ODR from previous justice innovations
+that use technology to streamline or enhance existing
+processes. Further, by
+uncoupling court process from both physical premises and paper-based processes,
+and rethinking the procedures
+required to deliver a just system, proponents
+contend that ODR has the potential to overcome the intrinsic tension between
+‘efficiency’
+and ‘justice’ in the civil justice
+in Australia
+Court and tribunal ODR is in its infancy in
+While ODR is utilised within some state-funded alternative dispute resolution
+schemes, the Australian Dispute Resolution Advisory
+Council notes that ODR has
+not enjoyed the support and development that should be expected in a country
+with a geographically remote
+population that is an early adopter of
+technology.
+In 2018, the NSW Government indicated its support for integrating aspects of
+ODR into existing court process and infrastructure, providing
+a faster, cheaper
+way for parties to access the civil justice
+This commitment seeks to
+further the guiding principle of the
+Civil Procedure Act 2005
+Civil and Administrative Tribunal Act 2013
+ensure that civil disputes are dealt with in a way that is just, quick and
+In NSW, ODR will build on
+existing digital initiatives to streamline court processes such as the Online
+Court, e-Registry, eSubpoenas
+and Audio Visual Link technology.
+Two other notable civil justice system ODR projects are the Victorian Civil
+and Administrative Tribunal (VCAT) small claims project
+and the Legal Services
+Commission of South Australia family law platform. The VCAT project involves
+piloting an ODR platform in a
+number of small claims with a view to expanding
+the platform in the area of small claims and possibly minor criminal and larger
+Australian-based
+firm Modron has been engaged to develop the platform, which will incorporate
+video chat and text chat. The Legal
+Services Commission of South Australia has
+received seed funding from the Commonwealth Government for a national ODR
+platform to
+assist separating couples to resolve family law
+This platform will
+such as agreements that have assisted
+other couples and previous judgments, to
+illustrate how judges have treated similar
+International
+Examples of ODR
+ODR projects have been introduced in a number of countries. We refer below to
+some recent developments in Canada, the United Kingdom,
+the Netherlands, the
+United States and the European Union.
+Established in British Columbia in
+the Civil Resolution
+Tribunal (‘CRT’) is Canada’s first online tribunal and the
+first in the world to be integrated
+into a public justice
+It is currently the mandatory forum for small claims disputes under $5,000 and
+strata property claims of any amount. In April 2019,
+the CRT will begin
+determining some motor vehicle accident and injury claims up to
+The CRT’s mandate is to provide ‘accessible, speedy, economical,
+informal and flexible’ dispute resolution
+It does this through a
+participatory and collaborative approach to dispute resolution which assists
+parties to reach a consensual
+agreement, with adjudication as a last resort. The
+CRT has four stages:
+1. Solution Explorer: a free online tool which uses ‘guided
+pathways’ to help a person navigate options to resolve their
+2. CRT Intake and Negotiation: The initiating party enters the details of the
+claim. Notice is served on the other side and parties
+have the opportunity to
+negotiate directly.
+3. Facilitation: An expert facilitator helps parties reach a consensual
+agreement using mediation, conciliation or early neutral evaluation.
+If an agreement is reached, this can
+be turned into a binding order.
+If the parties cannot resolve the dispute, the facilitator helps parties prepare
+for adjudication.
+4. Adjudication: A tribunal member considers the parties’ evidence and
+arguments (usually in written form) and then issues a
+determination.
+Hearings usually
+occur ‘on the papers’, but telephone or video conferencing hearings
+can be held if credibility or complex
+The CRT’s performance is rigorously evaluated through detailed
+qualitative and quantitative analysis.
+The CRT publishes selected statistics in a monthly
+Such data reveals that the
+majority of claims (70 percent) are resolved at the facilitation stage and very
+few claims require adjudication.
+Most participants (69 percent) agreed that the
+process was easy to understand
+and 82 percent agreed they were
+treated fairly throughout the
+United Kingdom
+Another international example of the aspirational use of ODR is the United
+Kingdom’s (‘UK’) £1 billion
+Transforming Our Justice
+reform program, a wide-ranging courts modernisation program that aims
+to reduce the justice staffing pool by 5,000 and save £265
+million a year
+through lower administration and judicial costs, fewer physical hearings and
+courthouses.
+Through this program, the entire process for civil money claims will be
+automated and digitised by
+The ‘Money Claim Online’ pilot, launched in March 2018, is the
+initial release of this
+Money Claim Online
+is a starting point for the development of the ‘digital by design and
+by default online
+a single online system for criminal, civil, family and tribunal
+Money Claim Online
+allows people with money claims up to £10,000 to issue a claim, file a
+defence and attend mediation.
+also allows without-prejudice offers to be made and accepted, and constructs
+agreements based on these terms.
+The website will be expanded to include facilities for negotiation and
+settlement, questioning parties and adjudicating between them,
+The pilot has
+collected data on user experience and dispute resolution pathways, which
+revealed that 80 percent of users said the
+service was very good and easy to
+The number of matters in
+which defences were filed rose from 22 percent to 40 percent and the default
+rate dropped from 53 percent
+Fifteen percent of
+cases were referred to mediation but only 27 percent of those went to the
+mediation appointment.
+related development, the proportion of incorrectly completed divorce forms
+dropped from 40 percent to under 1 percent among
+users of the Digital Divorce
+ODR processes are also utilised for appeals against parking and traffic fines
+in the UK’s Traffic Penalty Tribunal. Parties
+can upload evidence,
+including video and voice files, to an online platform for instant
+Continuous online hearings through asynchronous messaging between the parties
+and the adjudicator can take place over several
+Decisions made on this
+information alone (e-decisions) are the norm, but telephone and face to face
+hearings are available in certain
+circumstances.
+Decisions are
+uploaded for viewing by the parties and then sent by post if the decision has
+not been viewed within two days, though
+this is rarely
+Around 80 percent of
+Traffic Penalty Tribunal cases are resolved through
+e-decisions.
+Seventy-five
+percent of appeals are closed within 21
+Telephone enquiries have
+been reduced by 30 percent and there has been a significant saving in the costs
+incurred by local authorities
+in dealing with
+The Netherlands
+Rechtwijzer
+(‘Signpost to Justice’) was an online platform
+for resolving relationship disputes, such as divorce and separation,
+landlord-tenant
+disputes and employment
+Due to the ongoing
+nature of the relationships in many of these disputes, the platform focused on
+facilitating consensual and sustainable
+enabled an online dialogue between the parties and also offered mediation,
+adjudication and neutral review of all
+agreements.
+However, funding for
+the website was discontinued as it was deemed financially unsustainable after
+United States
+In the United States, Matterhorn is a cloud-based ODR platform currently in
+use in 40 courts across eight states. It can be bought
+off-the-shelf and adapted
+to court systems that deal with high-volume claims, including small civil claims
+and claims about non-compliance
+with child support
+It features real time or asynchronous communication, sends reminders to parties
+and is optimised for
+mobile phone use. A third party (facilitator, mediator or arbitrator) can assist
+with the resolution of claims.
+Matterhorn user data has demonstrated its platform increases access to
+justice and user satisfaction while decreasing the burden on
+court resources.
+Thirty-nine percent of users reported that they would not have been able to
+attend court in person to resolve their
+Ninety percent found
+the website easy to use and 92 percent understood the status of their case
+throughout the online process.
+Cases closed in 14 days rather than the 50 days recorded for traditional court
+processes, and court staff completed their work in
+20 percent of the
+Like Matterhorn, Modria is a customisable ODR platform for US and
+international courts. Modria provides parties with a diagnosis of
+their issue
+and the likely process for resolution, which helps them to decide whether to
+proceed with their case.
+do proceed, the platform collects intake information and opens a web chat
+between the parties to facilitate a
+resolution.
+Either party can
+request that the dispute be escalated to a mediator or
+arbitrator.
+The dispute
+resolution process can be tailored to different types of disputes, from simple
+debt cases to complicated child custody
+This ODR platform has
+resolved more than one million disputes around the world and claims to resolve
+cases in half the time taken
+by traditional
+European Union
+The European Union’s ODR platform facilitates the resolution of
+consumer complaints arising from online transactions in European
+The ODR platform
+provides a single point of entry for disputes between consumers and traders, and
+channels consumer disputes to one
+of over 300 certified external ADR
+The platform allows
+parties to choose their own language and includes automatic translation. The
+platform mandates deadlines to ensure
+a prompt resolution, such as 30 days for
+negotiation and 90 days for ADR.
+More than 24,000 disputes were submitted in the first year of operation and 44
+percent were resolved bilaterally outside the platform
+in the initial
+negotiation stage.
+In April 2018, the European Union launched the
+New Deal for Consumers
+policy. One objective of the policy is to give consumers better tools to
+enforce their rights and to obtain compensation. As part
+of this strategy, the
+European Commission stressed the importance of strengthening
+As such, it seems likely
+that the European Union will adopt more ODR processes in the coming years.
+Evaluating ODR
+These examples demonstrate the enormous potential of ODR to reform the civil
+justice system by increasing access, resolving disputes
+earlier and reducing
+costs. The integration of ODR into the public justice system can both improve
+efficiency and reframe the way
+the civil justice system operates in relation to
+high-volume, low-value disputes.
+For governments, courts and tribunals, ODR’s most attractive feature is
+its potential to reduce the cost of the administration
+of justice. ODR can
+achieve this by: allowing courts to process large numbers of claims with little
+human input; potentially increasing
+the number of claims filed that require
+little cost to manage, thereby increasing fee revenue; reducing the human
+resources and physical
+infrastructure required to administer justice; freeing up
+judicial and registry resources to focus on areas of high demand or significant
+delay or backlog such as crime or complex civil litigation; and reducing the
+time needed to assist self-represented litigants navigate
+a complex justice
+system and comply with procedural requirements.
+The cost-efficient administration of justice is an appropriate goal of civil
+justice system reform. Yet in designing and implementing
+system innovations, it
+is necessary to look beyond ostensibly ‘objective’ improvements in
+efficiency, timeliness and
+effectiveness in order to assess more qualitative
+elements of the justice system that have no tangible economic value or easily
+metric. These elements include considerations such as access to justice,
+transparency, procedural due process, fairness and the level
+of satisfaction of
+participants in the process.
+When considering reforms that will reshape how justice is done, it is
+pertinent to use the principles underlying the civil justice
+system as the
+guiding lights by which to chart a path of reform. This is particularly
+important when adopting technology developed
+in the profit-oriented commercial
+sphere for use within the public justice system, which is necessarily guided by
+other considerations
+in addition to the bottom line.
+Due to the nature of the exercise of judicial power, court-integrated ODR
+requires a different set of norms, values and outcomes to
+private or commercial
+ODR. While some commercial ODR initiatives incorporate aspirational values that
+align with civil justice goals,
+such as transparency, due process and fairness,
+commercial ODR is mostly an unregulated field operating within only the
+constraints
+of contract.
+Commercial ODR may have opaque rules, questionable consumer protection and a
+lack of independent or appellate
+In contrast, courts are
+subject to institutional norms and legal requirements, and must accommodate
+evidentiary and procedural
+These issues can be
+disregarded in commercial ODR design but are essential to any public justice ODR
+A central question is whether ODR is an improvement on the traditional civil
+justice system. Insofar as ODR facilitates the resolution
+of disputes that would
+never have entered into or been resolved through the civil justice system, it
+represents an obvious improvement.
+From the perspective of those in dispute, ODR
+will either facilitate the resolution of disputes that otherwise would not have
+resolved or provide a less expensive, more expeditious and no less
+satisfactory resolution than would otherwise have been achieved
+through the
+traditional civil justice system.
+Yet it is important that the purported benefits of ODR are not simply taken
+on face value. International experience indicates that
+proponents will be
+expected to demonstrate, using evidence, that ODR achieves the objectives it
+sets out to accomplish. Claims that
+ODR will improve dispute resolution has
+attracted scrutiny in the UK, where the legal profession and not-for-profit
+sector have expressed
+concerns that the proposed Online Court may reduce access
+to justice, reduce the fairness of the outcomes, diminish the integrity
+justice system or privilege efficiency over due process. The UK Committee of
+Public Accounts has required the HM Courts and
+Tribunals Service to publicly
+report how its digital justice reforms will improve access to
+In Australia, the
+desire to evaluate ODR with reference to evidence was reflected in the Law
+Council of Australia’s
+Justice Project
+recommended investment in research which could inform the uptake of ODR in
+Australia, particularly in relation to the
+impact of ODR on disadvantaged users,
+having regard to their technological and legal capability and the necessary
+safeguards to support
+disadvantaged
+ODR’s data collection capabilities present an excellent opportunity to
+collect robust and meaningful data to assess whether
+ODR achieves the goals of
+providing transparent, procedurally fair, economical and expeditious justice for
+high-volume, low-value
+Leading international ODR platforms are utilising justice system principles as a
+framework to collect data to evaluate system design
+and performance. The
+CRT’s highly detailed evaluation framework measures many metrics including
+the time taken from filing
+a claim to resolution, the cost to an individual to
+obtain that resolution, the proportion of decisions overturned on appeal and
+fairness of the process.
+A solid evidence base built around justice principles can inform the design
+of an appropriate platform and allows stakeholders to
+assess whether, firstly,
+ODR is an improvement on traditional justice processes and, secondly, whether
+the platform strikes the right
+balance between the sometimes competing civil
+justice values of fairness and efficiency.
+Foundational Principles to Assess ODR
+In this section of the article, we examine the opportunities and challenges
+presented by ODR through the lens of three foundational
+principles of the civil
+justice system: access to justice, procedural fairness and open justice. These
+well-accepted legal principles
+have been adopted as evaluative criteria in
+leading international ODR projects, including the UK’s emerging Online
+the CRT in Canada.
+each of these principles, we will examine opportunities, considerations and
+examples in practice from international ODR projects.
+Access to courts and tribunals is an essential element of the rule of law and
+is a human right enshrined in international
+Judicial resolution in a
+public setting enhances the legitimacy of the legal system by building public
+respect, trust and confidence
+Binding decisions
+communicate and reinforce norms of social and economic behaviour
+while creating precedent and developing the
+Access to a court to
+resolve a dispute provides the benefits of a (largely) publicly funded, open
+process that provides a determinative
+outcome and methods for enforcement.
+Unlike other dispute resolution options, a court is expected to exercise this
+decision-making
+power while being consistent, transparent and impartial.
+Although courts and tribunals are the enduring symbol of justice, it is
+estimated that only three to four percent of civil disputes
+end up in courts or
+tribunals, with the vast majority resolved through other
+Despite this, the
+accessibility of these forums is crucial. The remainder of the civil justice
+system, including informal and non-legal
+dispute resolution, operates in the
+shadow of the mandatory and coercive powers of the courts.
+Access to justice is a key goal of the civil justice
+Yet for each dimension
+of access to justice, there are multiple barriers preventing entry. Attending a
+court or tribunal is a significant
+personal undertaking. In addition to the
+obstacles of cost, procedural complexity and delay, the psychological and
+emotional toll
+of entering into an adversarial dispute resolution process
+dissuades many people from taking their legal matter to a court or tribunal.
+Failing to provide meaningful access to justice means that disputes may go
+unresolved at great social or financial
+People may resort to
+private or non-binding agreements, capitulate to the stronger party’s
+demands, or simply put up with a
+problem if it requires too much effort or
+expense to resolve. If people cannot readily defend their rights, enforce their
+or seek justice, the rule of law is weakened and unfair or illegal
+activity can flourish.
+ODR is one means to remove or diminish the profound barriers caused by the
+cost, time and delay involved in going to
+There are two main
+structural changes associated with ODR that increase access to justice.
+(a) Remote and Asynchronous Dispute
+The first is a decoupling of the justice process from physical locations. An
+ODR platform can connect an individual to other parties,
+facilitators and
+adjudicators who may be geographically
+With remote participation being the default, parties can participate from
+wherever they are – a reversal of the traditional
+justice system’s
+requirement that all parties be at the same place to progress or resolve a
+matter. This makes justice more
+accessible by reducing the need for parties,
+especially for people in rural, regional or outer metropolitan areas, to travel
+significant
+distances and incur transport fees to attend a courthouse or wait
+weeks or months for an infrequent circuit court visit.
+The second change is the move from a synchronous (at the same time) to an
+asynchronous (at different times) process. ODR allows people
+to progress a
+dispute whenever it is convenient. In traditional court processes, all parties
+(as well as the judge, the court and
+registry staff) are required to be present
+at the same time and place, usually in person. This can cause delays due to
+conflicts and the unavailability of court resources. Court processes
+usually occur during business hours, meaning that if parties
+self-represented, they must take time off work or arrange childcare to attend a
+hearing. Allowing people to progress disputes
+at a time that is convenient to
+them improves the flexibility of the civil justice system, increases the
+court’s capacity to
+handle cases and reduces the barriers to justice
+created by court processes which require parties to be gathered at the same
+As ODR reduces the cost and time consequences of going to court to resolve or
+respond to a dispute, more people who have been marginalised
+or excluded by the
+court’s traditional operating system may begin to utilise the courts. This
+can include people with an ‘unmet
+need’ (a justiciable legal claim)
+who were prevented from accessing the courts due to geographical or financial
+constraints,
+including disadvantaged people, caregivers or people with a
+disability;
+and people who have
+‘lumped it’ because the time, cost and complexity of using a
+traditional court process were not worth
+it for the amount in
+(b) Alternative Dispute
+A key principle of access to justice is that disputes should be resolved as
+early as possible, in a manner proportionate to the amount
+or issues in dispute.
+Alternative dispute resolution (‘ADR’) is a common method of
+obtaining early and appropriate resolution.
+ADR is also a core component of
+commercial ODR platforms and a feature of successful ODR platforms used in the
+context of public
+ADR in ODR increases access to justice by allowing people to resolve disputes
+at the earliest opportunity, at minimal cost and by
+consent (where appropriate).
+Intelligent system design can offer bespoke dispute resolution options which
+suit the needs of the parties
+– for instance, conciliation if resolution
+is likely, or early neutral evaluation if one party requires an objective
+of the merits of their case.
+Most ODR models incorporate at least two standard ADR tools: negotiation and
+facilitation (which can include conciliation or mediation).
+In Canada’s
+CRT, ADR is the default method for resolving disputes, reversing the traditional
+model of presuming adjudication
+is the end point and ensuring that only the most
+intractable disputes, or those where agreement is not appropriate, result in a
+determination.
+takes the concept of ADR offering a ‘multi-door courthouse’ to its
+ultimate form: a system designed to tailor both
+technology and dispute
+resolution processes to the parties’ specific
+(c) Pre-action
+ODR’s emphasis on resolving disputes early reflects the objectives of
+pre-action protocols. Pre-action protocols are procedural
+mechanisms to
+facilitate the resolution of disputes before they result in full court
+proceedings.
+They involve
+threshold requirements that parties must, or are expected to, comply with before
+starting a court case.
+Evidence from the UK, where pre-action protocols have been in place for over
+20 years, has shown that these procedures focus attention
+on the key issues at
+an early stage, encourage greater openness between the parties and facilitate
+the resolution of many cases that
+would have otherwise proceeded to
+litigation.
+In Australia,
+threshold requirements are already a feature of some court processes and there
+are some ‘pre-action’ requirements
+for some types of cases in some
+Australian jurisdictions. For instance, in the NSW Supreme Court Possession
+List, parties are expected
+to have narrowed the issues in dispute and discussed
+the possibility of settling the dispute by ADR before the initial
+However, attempts to introduce more wide-ranging pre-action protocols in
+Victoria and New South Wales have been
+unsuccessful.
+Embedding a checklist of requirements that a party should consider or must
+comply with before commencing a claim through an ODR platform
+can help narrow
+the issues in dispute and encourage ADR. This can encourage the parties to
+resolve the dispute in a timely and proportionate
+(d) The Digital
+ODR relies on parties having both digital access (access to a working
+internet connection) and digital ability (the ability to use
+the internet to
+navigate an online platform). However, sizeable segments of the Australian
+population are digitally excluded due
+to a lack of digital access and
+Practical barriers to digital access include black spots and intermittent
+broadband, especially in rural and regional Australia;
+accessibility of
+websites; the affordability of internet connection; and the limited opening
+hours and resources of free internet
+providers such as libraries.
+This ‘digital divide’ can present a barrier for people accessing
+an internet-based platform like ODR. There is a strong
+relationship between
+digital ability and socio-economic status. Australians with low levels of
+income, education and employment are
+significantly less digitally
+They are also more
+likely to experience legal problems and less likely to resolve their legal
+problems than other people in the
+A platform that does
+not address the connection between disadvantage, low digital skills and
+exclusion from the legal system risks
+entrenching this marginalisation.
+The accessibility of ODR is at the forefront of the discussion around digital
+inclusion initiatives in the UK. Two landmark reports
+have explored how to
+reduce digital exclusion for civil justice system
+Under the UK’s reform program, the Good Things Foundation has been funded
+to provide face-to-face support and assistance in
+navigating online forms for
+users of digital justice pilots through community-based Online Centres in
+libraries, churches and GP
+Open Justice
+Transparency is a core part of the justice system and open justice is a
+hallmark of the exercise of judicial
+The principle requires
+court proceedings to be open and subject to public and professional scrutiny.
+Courts will not act contrary
+to this principle save in exceptional
+circumstances.
+Open justice
+has been described as ‘one of the most pervasive axioms of the
+administration of justice in common law systems’
+and ‘a fundamental
+tenet of Australian
+democracy’.
+Open justice has several practical manifestations. Proceedings are conducted
+in an open court, which the public and press can access,
+and judgments are
+accessible. Information and evidence presented in court are communicated to
+those present, and fair and accurate
+reporting of judicial proceedings conducted
+in open court is permitted.
+Open justice ensures judicial accountability and protects against the risk of
+a court abusing its decision-making
+Open justice also
+maintains confidence in the integrity and independence of the courts, educates
+the public about judicial application
+of the law and reduces the likelihood of
+people bringing vexatious claims or giving false
+As in other jurisdictions, in NSW there is a presumption that substantive
+civil hearings occur in public.
+However, open justice can be restricted, particularly where it is
+necessary to secure the proper administration of justice or when
+it is otherwise
+in the public interest.
+Suppression orders, hearing evidence ‘in camera’ or hearing certain
+interlocutory matters in the absence of the public
+are some ways open justice is
+altered in NSW. Moreover, open justice only requires scrutiny of the judicial
+process and, therefore,
+does not apply to every process and procedure of courts
+and tribunals.
+There is no
+freestanding right for the public to access court documents filed in proceedings
+and held as part of the court
+Material that is not
+admitted into evidence or read in open court is generally not available, even
+after the conclusion of the
+proceedings.
+Transcripts of
+proceedings are not readily available and are not generally free.
+Open justice presents a challenge for ODR given that digital processes can
+both expand and constrain open justice. Removing processes
+and decisions from a
+publicly viewable forum could make the justice system more opaque, resulting in
+a loss of scrutiny of judicial
+decision-making. Judges, reform officials and
+peak legal professional organisations have expressed concern about the loss of
+transparency
+in the Online Court in the
+Some NGOs have asserted
+that ODR by its nature threatens open justice, especially when criminal
+proceedings are involved.
+Journalists have emphasised the importance of public and media access to court
+proceedings to ensure visibility and scrutiny of the
+On the other hand, digital technology can radically enhance open justice by
+making processes and proceedings more observable and transparent.
+increase public participation and engagement by allowing people who cannot
+access the court in person to view
+proceedings.
+This can include
+through streaming or broadcasting hearings, making messaging transcripts
+available and creating a publicly searchable
+Members of the
+judiciary in the UK have recognised that ‘our digital courts must be open
+courts’ and are optimistic that
+embedding open justice in digital
+platforms presents a technical challenge rather than an insuperable
+In the development and implementation of ODR, the meaning and importance of
+‘open justice’ may also face scrutiny from
+the parties themselves.
+Many parties would prefer to resolve their disputes privately. In the process of
+resolving a dispute, there
+is often disclosure of private and confidential
+information, including medical data and financial records. The user-centric
+of ODR platform design, which involves understanding the end users’
+needs and expectations, may lead to new iterations of open
+justice for online
+Open justice has traditionally intersected with other rights, including in
+respect of reputation, the right to privacy and the right
+On a digital platform,
+the tension between these rights is amplified, with new challenges arising in
+information privacy, the prevention
+of cyber-hacking, and data storage and
+security. Concerns about information security is reportedly one of the main
+barriers to the
+adoption of ODR especially, as ODR platforms which are entirely
+online are vulnerable to data breaches in a way that current case
+systems are not.
+The permanence of information and evidence exchanged via ODR is another
+contentious issue. Digital platforms generally record all
+information exchanged
+in a dispute. This means that sensitive information could continue to be
+available and potentially misused
+in the future. Parties may be dissuaded from
+using a service if they cannot be certain that their information will remain
+confidential.
+ODR platforms
+that promote open justice will be required to carefully balance various rights
+and take privacy and data collection
+and storage issues into account.
+For all its novel applications, ODR also represents the next phase in the
+evolution of open justice in response to technology changes
+from both within and
+outside the court. The concept of an ‘open court’ has been adapted
+to contemporary civil justice
+procedures, such as the increased reliance on
+written submissions, affidavits and statements to provide evidence-in-chief
+than in-person oral evidence (which was traditionally a key aspect of
+‘open court’ by virtue of it being communicated
+An observer of court
+hearings will frequently witness documents and witness statements simply being
+tendered and admitted into evidence
+without any open disclosure of their
+The courts themselves are spearheading the expansion of open justice by
+leveraging technology. For example, in NSW, the Supreme Court
+easy-to-read summaries of significant cases and maintains a Twitter account to
+alert the public of upcoming decisions.
+To engage a broader audience beyond
+those who can attend court in person, some higher courts in Australia and
+internationally facilitate
+recordings of proceedings which can be viewed in real
+time or after the event. The Supreme Court of the United States began audio
+recording hearings in 1955. Proceedings before the High Court of Australia, the
+Supreme Court of the United States and the Supreme
+Court of the United Kingdom,
+among others, can now be viewed online. It is both necessary and appropriate
+that the concept of open
+justice reflect its technological and legal context,
+and the expectations of the community it serves.
+Justice system bodies that have adopted ODR technology have implemented
+different approaches to transparency. In Canada, the CRT’s
+Information
+and Access Policy
+provides a framework for openness in respect of the
+CRT’s decision-making process, which balances transparent decision-making
+with protecting the privacy of parties and witnesses. In the UK, methods under
+discussion to ensure open justice in the eventual
+Open Court include live
+streaming of virtual court proceedings (both online and via ‘viewing
+booths’ installed in court
+and providing
+booths within court buildings to allow the public to access approved parts of
+certain court files.
+The degree of open justice required in ODR is a vexed question. A leading
+judicial proponent of the UK’s Online Court, Lord
+Justice Briggs, is
+confident that ‘modern IT can facilitate better public access to civil
+proceedings than exists at
+Other senior
+members of the judiciary believe that the ‘delivery of justice should be
+as open to scrutiny as Parliamentary
+Others argue
+this level of openness would be unnecessary and undesirable in most civil
+proceedings.
+How this tension
+will be resolved in the development of ODR systems in Australia remains to be
+Procedural fairness is the fairness of the
+through which a
+substantive decision is
+Procedural fairness is an aspect of the general principle that parties are
+entitled to a fair hearing. This is enshrined in multiple
+places in Australian
+law, including the Australian
+Constitution
+, procedural rules and the
+court’s inherent power to prevent abuse of its
+The requirements of procedural fairness change depending on the circumstances
+of the individual case or the type of
+Procedural fairness
+generally requires that parties are given a reasonable opportunity to lead
+evidence, make submissions, present
+a case and cross-examine
+The overarching
+consideration is ‘fairness’, which is evaluated in the context of
+the case itself and having regard to
+the interest of justice generally,
+including the need to facilitate the timely and economical resolution of
+The content of procedural fairness has evolved over time. Traditional civil
+proceedings often involved full party control of pre-trial
+stages through to a
+full hearing with both parties legally represented. More recently, proactive
+judicial managerial control can
+lead to, amongst other things, restricting the
+number of witnesses; not requiring oral submissions; restricting the length of
+submissions; limiting the ambit of discovery of documents; and refusing
+applications for adjournment.
+The transition from party control of civil proceedings to more proactive
+judicial case management has given rise to contentious issues
+These concerns also
+arise within ODR, in which case management is entrenched into the process
+through platform design.
+Yet overall, ODR presents an opportunity to strengthen procedural fairness by
+allowing creative thinking about how to make the process
+fairer. Dimensions of
+procedural fairness in ODR include the role of legal representation, digital
+innovations to improve the justice
+experience, creating a level playing field
+through platform design and user testing to inform fairness settings.
+(a) Legal Representation
+Legal representation is a key way that parties have traditionally obtained
+procedural fairness in legal matters. However, either by
+preference or design,
+the individuals in dispute, rather than their lawyers, are the primary
+participants in ODR
+The intention is
+that legal representation is not a prerequisite to successfully resolving a
+claim, so a party will not be substantially
+disadvantaged if they do not have a
+lawyer. This reverses the standard court model of adversarial dispute resolution
+where ‘equality
+of arms’ means both parties are legally
+represented.
+The presumption of no legal representation in ODR platforms reflects the
+reality of low-value claims. In most traditional court matters,
+the costs of
+legal representation far outweigh the value in dispute so most people are
+unrepresented, often to their detriment. In
+the NSW Local Court,
+self-represented litigants make up 25 percent of plaintiffs and 42 percent of
+defendants in defended
+This is a large
+proportion of parties navigating a complex legal system without support.
+Even if both parties do not need, or choose not to use, legal representation
+in the ODR context, a power imbalance may still exist
+between the parties. This
+may arise from disparity between their resources, education and experience,
+cultural factors or the comparative
+ability of the parties to reduce the issues
+in dispute into a justiciable claim or defence.
+Courts already recognise that they must be diligent to ensure
+self-represented litigants are afforded procedural
+In a similar vein,
+successful ODR platforms must go further than simply digitising pre-existing
+procedural rules, which would replicate
+the current barriers self-represented
+litigants face. International ODR platforms have done this through translating
+legal rules
+and forms designed for legal professionals into plain language and
+avoiding the term ‘self-represented litigant’ (a phrase
+denotes an exception rather than the
+(b) The User Experience of
+Procedural Justice
+The concept of ‘procedural
+as distinct from
+‘procedural
+’ has gained greater prominence in
+discourse about ODR because it adopts a technology-driven focus on human-centred
+the user experience. ‘Procedural justice’ arises from an
+individual’s perception of the fairness of a process,
+which can be shaped
+by their experience of control/voice, neutrality, respect, and trust in the
+decision-maker.
+procedural fairness, procedural justice is not an objective legal principle, but
+an individual’s subjective belief about
+how they were treated in a given
+When a party loses a case in a court setting, they will often be more
+satisfied by the outcome if they feel that the proceedings were
+procedurally
+fair. Similarly, delay has a corrosive impact on party and public perceptions of
+the justice system. One interesting
+yet unsurprising finding from research on
+consumer perceptions of ODR in a commercial context is that expedition enhances
+satisfaction
+with the process, even when the outcome is unfavourable to the
+The digital flexibility of ODR allows experimentation to strengthen
+procedural justice. Big data collection and analysis and targeted
+qualitative
+research can offer ideas for platform and process design. In this regard,
+findings from the emerging field of research
+into procedural fairness in ODR are
+instructive.
+For instance, self-represented litigants report a preference for
+communicating with judges using ‘lean’ text-based messages
+receiving responses through ‘rich’ media such as video
+This increases
+their sense of being ‘heard’ and reduces feelings of hopelessness,
+stress and frustration.
+another study, parties preferred receiving interpersonal cues from a
+remotely-based decision maker (for example, a picture of
+the decision maker or
+biographical details) because knowing who was determining the dispute enhanced
+participants’ belief that
+their contribution was
+In the first study, self-represented litigants reported a more meaningful
+experience through asynchronous messaging because it gave
+them more time to
+compose responses than at an in-person
+Separately,
+litigants who found an online platform easy to use were more likely to view the
+process as fair and feel positive about
+Determining what ‘standard’ of procedural fairness should be
+upheld by ODR forums is a vexed question. Some research findings
+indicate users
+have the same expectations of procedural justice in ODR as they have with the
+traditional courts.
+people interact with and expect differing standards of service
+Expectations for
+transparency, voice and respect are likely to be different. Given the scope for
+digital technology to improve fairness
+at relatively little cost, ODR should aim
+to deliver high standards of procedural fairness.
+(c) Levelling the Playing
+Field through System Design
+A goal of procedural justice is to treat parties fairly by providing an equal
+opportunity to present their case. Yet parties themselves
+are rarely equal. Most
+cases are characterised by parties with dramatically different resources.
+‘One-shotters’ (who
+use court once or infrequently) often confront
+‘repeat players’, who utilise the court system regularly and
+have the upper hand in litigation because they have superior knowledge
+of the legal process, ready access to specialist expertise,
+and can influence
+Parties with deep
+pockets can also draw out proceedings in order to force the other party to
+settle or capitulate.
+Offsetting this power imbalance can be difficult in a forum historically
+designed for, and often by or under the influence of, repeat
+ODR can level the playing field through design features that minimise power
+imbalances between the
+This can involve
+identifying power imbalances in the current system and mitigating unfair
+advantages through ODR platform and process
+design. International solutions
+include both innovative uses of technology and procedural reform, including
+adopting fixed procedural
+options to mitigate any unfair advantage of repeat
+enforcing time
+limits to prevent orchestrated strategic
+‘gateway checks’ (similar to pre-action protocols); and
+incorporating expert knowledge or artificial intelligence
+to guide users towards
+resolution without expert assistance from a
+(d) User Data to Improve
+Collecting and utilising data on user experience can guide the development of
+a fair and efficient ODR platform. Data can be used
+to design reforms, improve
+court performance, reduce system demand, and develop iterative changes to the
+platform design itself.
+can include both qualitative and quantitative data, which can be collected
+through online forms, IP addresses (for ascertaining
+geographical location and
+use patterns), or online user surveys (to measure user satisfaction). ODR
+developers have utilised human-centred
+design, which focuses on end-user
+experience, to guide data collection and in turn shape the
+‘fairness’ of the ODR platform
+and process. In the Canadian CRT,
+this began with extensive user testing in the early design stages and continues
+through qualitative
+user surveys and website
+The feedback helps
+to determine whether the process is providing procedural justice and has
+informed changes to improve the fairness
+This would represent a significant advance given the limited user feedback
+currently sought by Australian courts. Current civil justice
+data collection is
+limited, with only a few metrics used and with limited qualitative studies about
+the user experience.
+quality and completeness is compromised by aging case management systems, a lack
+of uniform or adequate definitions and the costs
+and errors of manual data
+However, by
+prioritising data collection and iterative improvements based on the analysis of
+results, ODR can shape a platform which
+ensures that each unique user
+experiences a high standard of procedural fairness. Collecting more and better
+data will reveal how
+ODR design can improve the dispute resolution process and
+may shed light on what may prevent disputes from occurring.
+Conclusions concerning
+ODR in High-Volume, Low-Value Individual Disputes
+ODR platforms have the potential to resolve large numbers of small-scale
+disputes more expeditiously, at lower cost to the parties
+and the public, and
+with greater user satisfaction compared to traditional civil litigation
+processes and procedures. However, in
+the design and implementation of such
+platforms, important objectives in terms of access to justice, open justice and
+fairness need to be accommodated. We have sought to outline how this
+might be achieved with reference to ODR innovations in other
+countries and some
+findings from empirical research. The alignment of an ODR platform to these
+goals needs to be established using
+evidence, and not merely asserted.
+II THE USE OF DIGITAL
+TECHNOLOGY IN LARGE, COMPLEX LITIGATION IN THE HIGHER COURTS
+Class actions and the resolution of mass disputes give rise to a number of
+challenging problems for litigants, lawyers, judges and
+the legal system. All
+too often class action litigation is protracted and costly. Although class
+actions were designed to facilitate
+access to justice, this encompasses more
+than mere access to the courts by the commencement of a class action proceeding.
+The ongoing
+delay in many class actions erodes the confidence of class members
+in the justice system and the substantial transaction costs erode
+amounts that they receive if the case is successfully resolved.
+However, as with the resolution of high-volume, low-value
+, digital technology and online dispute resolution mechanisms can
+facilitate the more economical and more expeditious resolution of
+in a manner which is both procedurally fair and transparent.
+In this section we examine, with reference to several recent and current
+class actions in Australia and North America, the use of
+digital technology in
+the development and maintenance of client data bases by lawyers; the review of
+voluminous documentation produced
+on discovery; the filing and exchange of court
+documents and evidence by parties; the judicial management of documentation and
+the conduct of trials; and the administration of settlement
+distribution schemes.
+The Commencement of
+Litigation: The Development and Management of Client Data Bases by
+Prior to and after the commencement of litigation, lawyers often desire to
+sign up substantial numbers of those with claims as clients,
+even though this is
+not necessary to commence a class action. In cases funded by a commercial
+litigation funder prior to the relatively
+recent endorsement of common fund
+it was often
+considered necessary to enter into contractual litigation funding agreements
+with large numbers of claimants and to
+obtain documentary information and
+instructions from them concerning the nature and quantum of their individual
+claims. In commercial
+parlance, this is known as ‘book
+Even after the advent of common fund orders it may be necessary in some cases
+to take instructions from all prospective class
+Such documentary
+information obtained from claimants may encompass:
+1. fee and retainer agreements and costs disclosure documents provided by the
+law firm(s) conducting the litigation;
+2. litigation funding agreements provided by the litigation funder;
+3. instructions concerning the nature of the circumstances giving rise to
+each individual claim;
+4. instructions and documents concerning the nature, extent and quantum of
+the individual damages suffered by each claimant; and
+5. records or information in the possession of third parties needed as
+evidence to prove causation (for example, in the case of personal
+arising out of defective products) or the nature and extent of personal injuries
+or economic loss.
+Current methods for obtaining such instructions and information
+1. Collection through websites established by law firms and in some instances
+2. The distribution, execution and return of agreements by electronic
+3. The use of standard form questionnaires which may be completed
+electronically;
+4. The distribution of newsletters and other information, including FAQs, to
+claimants by electronic means.
+When proceedings are to be commenced, many courts, including the Federal
+Court of Australia, have introduced procedures for the electronic
+pleadings, court documents and evidence (as discussed below). In some class
+actions it may be necessary to establish databases
+of group members who have
+exercised their right to opt out of the proceeding. Relatively conventional and
+readily available digital
+processes and programs have been adopted to gather and
+process these types of information. There are numerous off-the-shelf computer
+programs available for these
+The Conduct of
+Litigation: Reviewing Voluminous Documentation Produced on Discovery
+It is not unusual in large complex litigation generally, and in class actions
+in particular, for a large volume of documentation to
+be reviewed and produced
+by way of discovery. With increases in the use of computers and advances in
+digital technology there has
+been an exponential increase in the volume of
+electronic information that may be relevant to
+litigation.
+Vickery has noted:
+We are now dealing with very large numbers. A major commercial bank in the
+world today produces some 2 terabytes of Electronically
+Stored Information (ESI)
+every minute, and some as much as 2.5 TB per minute. To put this in perspective:
+A terabyte (TB) is a multiple
+of the unit ‘byte’ for digital
+information. One terabyte is one trillion bytes or 1,000 gigabytes. It is
+estimated that
+over 85 million pages of Word documents would fill one terabyte.
+It would contain electronic information equivalent to an 8 foot
+stack of CD's or
+pile of 80,000 telephone
+Historically, the process of document review has been time consuming and
+expensive. The substantial cost incurred in the traditionally
+time consuming and
+inefficient methods used for the manual review of such documents has led to
+various procedural changes which have
+substantially attenuated the ambit of or
+the right to discovery in some types of cases. Various law reform proposals have
+directed at narrowing the criteria for the discoverability of relevant
+or potentially relevant
+In many cases, lawyers for the litigants will seek to reach an agreement on
+protocols for the electronic exchange of documentary information,
+judicial supervision and approval. Before the digital revolution, each
+potentially relevant document was reviewed manually.
+With the advent of computer
+technology, various key words became customarily used for the electronic
+scanning of documents in order
+to sort the wheat from the chaff. Key words could
+be used individually or in combination to conduct electronic searches. This
+the use of Boolean operators, connecting search words using terms such
+as ‘and’, ‘or, ‘’not’
+‘near’, or mathematical symbols to define and refine searches by
+combing or limiting search
+This methodology is
+also used in internet search engine technology.
+The limitations of Boolean search technology are well known and have been the
+subject of detailed empirical research. From such research
+it is clear that
+Boolean searches often miss a substantial number of relevant documents. In fact,
+traditional key word Boolean search
+methods may miss the majority of relevant
+documents. In one study, 67 percent of relevant documents were only found when
+other than Boolean search were
+Traditional methods of document review are also very expensive. A study by
+the Rand Institute for Civil Justice (‘Rand Institute’)
+traditional linear discovery accounts for 73 percent of e-Discovery costs in the
+United States.
+Rand Institute
+research found that parties in civil litigation could possibly lower the high
+costs of large scale electronic discovery
+by using predictive coding (discussed
+below) to reduce the number of documents requiring human review, although the
+cost effectiveness
+of such coding is yet to be
+determined.
+Thus, as Justice
+Vickery has observed: ‘If the age of technology has produced the problem
+– it can also assist in providing
+In the United States, the Text Retrieval Conference (‘TREC’)
+periodically reviews empirical research on the effectiveness
+of text retrieval
+It is administered
+by the US National Institute of Standards and Technology (‘NIST’),
+an agency of the US Department
+of Commerce. As Judge Grimm of the US District
+Court for the District of Maryland has noted, it is a research collaboration
+at studying the e-discovery review process to evaluate the
+effectiveness of a wide array of
+technologies’.
+There is room for optimism that as search and information retrieval
+methodologies are studied and tested, this will result in identifying
+are most effective and least expensive to employ for a variety of
+[electronically stored information] discovery
+As another United States District Court Judge has observed:
+Whether search terms or ‘keywords’ will yield the information
+sought is a complicated question involving the interplay,
+at least, of the
+sciences of computer technology, statistics and linguistics ... Given this
+complexity, for lawyers and judges to
+dare opine that a certain search term or
+terms would be more likely to produce information than the terms that were used
+to go where angels fear to
+More sophisticated electronic search methods have been developed recently and
+deployed in large complex litigation, including class
+actions, where a large
+body of electronically stored information (‘ESI’) may be in issue.
+This involves the use of Technology
+Assisted Review (‘TAR’), whereby
+a person with expertise in the subject matter of interest reviews a subset of
+the documents
+with a view to identifying those of relevance and developing a set
+of coding or search terms which can then be applied to the whole
+documents. This is often an iterative process which, when combined with
+sophisticated ‘intelligent’ software,
+can produce much more reliable
+identification of relevant documents. The process involves predictive coding and
+continuous active
+learning (‘CAL’), including the use of algorithms
+derived from statistical modelling to identify documents that are conceptually
+similar to a sample of documents that were subjectively reviewed by a person or
+persons with knowledge and expertise in the subject
+matter of interest. Other
+TAR methods are based on systematic rules that emulate the expert decision
+making process.
+Vickery has noted, TAR is often used as part of a suite of
+technologies.
+An independent person may be engaged to assist in the review
+Also, as part of the
+iterative process, validation methods based on a sample of documents are usually
+used in order to obtain some
+measure of how effective the TAR process is. This
+will often involve measuring the percentage of responsive documents that TAR
+identifies,
+the percentage of non-responsive documents identified and the degree
+of volatility of the process, based on the percentage of documents
+changed from one designation category to another between rounds of the
+The process does not
+work on non-text documents, such as old hard copies, photographs, diagrams or
+drawings, and is of limited application
+spreadsheets.
+In 2012, a US Federal District Court endorsed the use of TAR to review ESI in
+appropriate cases.
+Supreme Court of Victoria was the first court in Australia to order the use of
+TAR techniques to assist in the process of discovery
+litigation.
+In the first
+Victorian case in which TAR was ordered, 4 million documents had been produced
+on discovery. After the elimination of
+duplicates, this was reduced to 1.4
+million. According to Justice Vickery, a junior solicitor taking one minute to
+review and catalogue
+each document manually would have taken 583 working weeks,
+or 10 years, to compete the task. Hence, TAR was ordered to expedite and
+simplify the process.
+resulted in a reduction to 300,000 documents, 210,000 of which were likely to be
+irrelevant, thus reducing the pool to 100,000
+As the Supreme Court of Victoria noted, TAR has been endorsed by a number of
+courts in other countries, including the High Court of
+England and
+the High Court of
+and the Federal
+District Court in the United
+TAR has also been
+used in a number of other international
+More recent judicial
+scrutiny of this process has focused on issues concerning the objections of
+parties; proportionality; mechanisms
+for cooperation and transparency; the
+initial selection of test documents or ‘seed sets’; recall and
+precision; and validation
+TAR has been
+deployed in a number of Federal Court of Australia class action
+proceedings,
+and is currently
+being used in the VW ‘diesel gate’ litigation presently pending in
+the Federal Court of
+litigation, five class actions and a proceeding seeking penalties instituted by
+the ACCC are all progressing concurrently
+before Foster
+The problem of voluminous
+discovery documentation has loomed large. At the time of writing, the
+respondents in the VW litigation
+had identified over 100 million documents to be
+reviewed for relevance, most of which are in German. TAR has also been used in
+proceedings
+in the Supreme Court of
+Queensland.
+In terms of cost,
+Justice Vickery has estimated that TAR would cost only one fifth or less
+compared with a manual
+In one Australian
+matter, TAR was used to review 778GB of data, equivalent to 6.6 million
+documents. This was reportedly reduced
+in 31 hours to 157,000 by deploying only
+one lawyer, a service provider and an independent
+consultant.
+The Filing and Exchange
+of Court Documents and Evidence by Parties
+The electronic filing and exchange of court documents, pleadings and evidence
+has become the norm in many Australian courts. This
+has saved time and cut costs
+for both litigants and the courts. The Federal Court of Australia was one of the
+first courts in the
+world to adopt an electronic filing system. This development
+does not require further elaboration here.
+The Judicial Management
+of Documentation and Evidence
+In many cases, voluminous documentation in the higher courts is stored in
+electronic and readily searchable form. Various commercial
+service providers are
+available in Australia to facilitate this.
+The Conduct of
+In many instances, ‘electronic trials’ have been conducted
+whereby the court and the parties may access and use in the
+hearing, and in oral
+and written submissions, extensive computer based information rather than hard
+copies. For example, this occurred
+in the VW litigation, specifically at the
+hearing concerning whether the cars in issue were fitted with illegal
+Whilst the use of such computer based technologies has made forensic
+information access and management considerably more convenient
+traditional paper based modus operandi, this has not been without significant
+financial cost. Commercial service providers
+are usually appointed, and approved
+by the court, to obtain, process, store and facilitate access to, and the
+retrieval of, digital
+information. Often additional technology personnel will
+also be deployed by the parties. The commercial cost of these services is
+considerable.
+However, in many class actions and in other forms of ‘mega’
+litigation, Justice Sackville’s observation applies:
+‘It would have
+been virtually impossible to conduct the trial without the use of modern
+technology’.
+number of cases, it has been estimated that there had been a substantial
+reduction in trial time through the use of modern
+technology.
+Although electronic trials have become relatively commonplace, there has been
+relatively little use of technology to facilitate participation
+in hearings by
+remote advocates and witnesses. This usually only occurs in limited
+circumstances, usually when dealing with interlocutory
+or procedural matters and
+often only with either the consent of the parties or judicial
+There is often
+judicial resistance given the perceived benefits of having witnesses give
+evidence in person in
+The tension between the desire for individualised justice and the need to
+deal with large numbers of claims continues to manifest
+itself at the conclusion
+of class action and mass tort proceedings. Where an ‘opt out’ class
+action is converted to a
+closed class, often to facilitate settlement, there is
+a need to process large numbers of claims from persons who seek to ‘opt
+Where a settlement agreement is reached between the parties and approved by
+the court, there is often a need to devise and implement
+claims processing
+procedures to determine eligibility for payment and to quantify the amounts to
+be paid to large numbers of class
+If the case is not settled and proceeds to trial, the judgment will usually
+only deal with the individual claim(s) of the lead plaintiff(s)
+and some or all
+of the issues common to the claims of the class members. If the lead plaintiff
+is successful, there will need to
+be judicial or administrative procedures
+implemented to deal with the ‘individual’ issues arising in each of
+of the remaining class members. These judicial or administrative
+procedures may need to deal with issues of causation and reliance
+that may arise
+in product liability or shareholder class actions. Such procedures will also
+need to encompass methods of quantifying
+the economic value of large numbers of
+individual claims.
+For example, in the current VW litigation in the Federal Court of Australia,
+the trial of the five class actions on behalf of consumers
+who purchased the
+vehicles in question will involve primarily the determination of the individual
+claims of the five lead applicants,
+together with a number of common questions
+applicable to the claims of the remaining class members. If the applicants are
+successful,
+a further 90,000 claims by class members will need to be
+To date in Australia, in each of the abovementioned stages (namely, the
+commencement, conduct and conclusion of class action and mass
+tort litigation),
+considerably greater use of new and emerging technologies might have been
+employed to reduce transaction costs
+and to expedite the resolution of disputes
+and the implementation of settlements.
+In the following part of the article, we provide some examples of how
+settlement administration and implementation might be improved
+in the future,
+drawing on a number of current or completed cases.
+The Administration of
+Settlement Distribution Schemes
+In recent years, there has been ongoing controversy over the cost and delay
+associated with the implementation of class action settlements
+in Australia.
+This issue attracted considerable controversy in connection with the settlement
+of the Victorian bushfire litigation,
+which experienced substantial delays and
+large transaction costs. The problem was exacerbated by a decision not to make
+interim payments
+pending the evaluation of all claims. The delays and costs were
+due in large measure to the individualised assessment of each group
+member’s claim by humans (including lawyers, loss adjusters and medical
+personnel). In part, this arose out of the volume and
+complexity of the claims,
+which encompassed claims arising from personal injuries, property damage and
+business losses. For example,
+the settlement of the Kinglake bushfire case
+involved around 1,800 personal injury claims and over 9,000 property damage and
+loss claims.
+Until recently, a practice had developed whereby the solicitors conducting
+the class action proceedings sought to appoint themselves
+as the administrators
+of any settlement, a process which, at least until recently, had received
+judicial approval. In many cases,
+the evaluation and resolution of claims during
+the settlement process have been carried out by the same solicitors who acted
+the class members in the litigation. Thus, lawyers acting as advocates for
+their clients one day become appointed as adjudicators
+of their clients’
+claim the next. This is often said to be justified by their familiarity with the
+issues in question, the
+adoption of independent review procedures and ongoing
+judicial scrutiny.
+In some instances, this has been imposed as a term or condition of the
+proposed settlement. This has attracted some judicial
+There have also been
+recent recommendations for reform, including from the Australian Law Reform
+Commission, which has recommended
+that there should be a tender process so that
+any interested party may tender for such work, with a decision to be made by the
+based on questions of costs and
+efficiency.
+In the United States it has been customary for independent persons be
+appointed as trustees under judicial supervision to implement
+many class action,
+mass tort and bankruptcy
+settlements.
+In some recent
+Australian class action settlements independent persons have been appointed to
+process claims and make payments, by
+agreement of the parties and with the
+approval of the court.
+present purposes we do not express a view as to
+should administer
+settlements. However, we contend that there is room for improvement in
+such settlements are implemented.
+In particular, it is clear that settlements can be designed and implemented
+in a manner which makes greater use of new digital technologies
+expedite and reduce the cost of claims resolution. However, the use of digital
+technology in litigation has to be tailored
+to the substantive, doctrinal and
+evidentiary requirements for proof of both liability and damages. In the absence
+of agreement between
+the parties during the conduct of litigation, or an agreed
+and court-approved methodology (in the case of class actions) for resolving
+claims where there is a settlement, the parties and the court are constrained by
+the relevant substantive law and procedural rules
+applicable to the
+Even in the event of
+a settlement, strict legal and evidentiary rules may be required to be applied
+in the resolution of each individual
+claim. However, many if not most,
+settlements provide for some degree of relaxation of strict legal and
+evidentiary requirements
+in respect of both proof of eligibility for payment and
+the quantification of the amount(s) to be paid. Settlement distribution schemes
+usually seek to ‘achieve a broadly fair division of the proceeds, treating
+like group members alike, as cost-effectively as
+As Gilsenan and Legg note, ‘settlement distributions need to balance
+fairness and precision with
+efficiency’.
+analyse a number of settlement distribution schemes adopted in a range of
+Australian class actions, encompassing shareholder
+and mass tort and
+product liability
+proceedings.
+perceptive analysis, they also refer to matrix or grid settlements which are
+common in the United States but have only rarely
+been used in mass tort class
+actions in Australia.
+In the United States, claims resolution facilities have been developed not
+only in connection with the settlement of class actions,
+aggregated mass tort
+and bankruptcy
+proceedings, but also for the resolution of claims which are not aggregated. As
+Dodge notes, many of the most innovative
+recent claims structures, including the
+BP Gulf Coast Claims Fund and the fund established in the aftermath of the Costa
+disaster, use a new ‘bottom-up’ model of
+‘disaggregative’ mass claim resolution instead of the familiar
+Importantly, many claims resolution mechanisms have been implemented to
+resolve individual disputes in a manner which precludes their
+aggregation, such
+as mandatory individual arbitration clauses in consumer and employment
+contracts. Since these clauses are unilaterally
+drafted by corporations with a
+view to precluding class action litigation, questions have arisen as to their
+fairness and enforceability.
+To date, at least in the United States, they have
+received considerable judicial support, including from the Supreme Court of the
+United States.
+As one author has suggested, the rise of ‘private disaggregation’
+has the potential to create a dramatic shift in the
+legal landscape given that
+this new approach to dispute resolution is driving many of the most innovative
+claims resolution mechanisms
+which are emerging. Such mechanisms often
+streamline procedures and the resolution of substantive issues or shift the cost
+defendants, thus facilitating the pursuit of claims that may otherwise
+not be pursued, at least outside of the context of class actions,
+because the
+transaction costs exceed the potential
+This may also
+resolve claims that might not otherwise be certified as suitable for a class
+action and avoid the systemic costs and
+delays inherent in aggregate
+litigation.
+Whether or not claims resolution mechanisms arise out of aggregated or
+disaggregated claims, individualised assessment of claims can
+be combined with a
+matrix or grid and standardised payments in designing claims resolution
+facilities. A good example of a ‘hybrid’
+claims resolution mechanism
+that combined simplified and expedited claims resolution options with more
+traditional requirements to
+establish proof of eligibility for payment and
+quantify damages is the Claims Resolution Facility established by the Dalkon
+Claimants Trust in the aftermath of the Dalkon Shield litigation in the
+United States.
+Some Historical Lessons
+from the Dalkon Shield Litigation
+After approval of a Plan of Reorganisation by the United States Bankruptcy
+Court, the Dalkon Shield Claimants Trust was established
+to resolve over 300,000
+claims by women worldwide for personal injuries and economic loss arising out of
+their use of the Dalkon
+Claimants were given a
+of four options. Under Option 1,
+claimants could elect to receive an expedited payment of a fixed minimal amount
+simply by claiming
+that they had used the Dalkon Shield and had been injured by
+it. No proof was required of use of the device or of any injury suffered.
+Although the payment amount was modest, over 100,000 claimants chose this
+Under Option 2, much higher fixed or lump sum amounts were payable according
+to the type of injury suffered. To be eligible for payment
+under this option,
+claimants had to submit documentary proof that they had used the Dalkon Shield
+IUD and medical records or other
+evidence to prove that they had suffered the
+particular injuries for which compensation was claimed. Importantly, it was not
+to establish or prove any causal connection between the use of the IUD
+and the injuries suffered. Although reasonably substantial,
+the payments were
+standardised for each injury and were lower in amount than what the ‘tort
+value’ of the claim would
+be if the matter had been determined by a court.
+A very substantial number of the claimants elected this option.
+Under Option 3, a claimant could seek payment of the full amount of the
+‘tort value’ of the claim, which would be assessed
+by independent
+trustees. Claimants retained the right to have the amount determined by a court
+(or, alternatively, though binding
+arbitration) if the amount offered by the
+trustees was rejected. However, in order to obtain compensation under this
+option, claimants
+had to establish not only use of the IUD and proof of injury,
+but also a causal connection between use of the IUD and the injury
+in question
+on the basis of medical evidence.
+Under Option 4, they could elect to defer resolution of their claim (for
+example, if it was not yet known whether they were permanently
+infertile or if
+medical or other evidence was in the process of being obtained).
+One obvious advantage of this claims resolution methodology is that it
+provided claimants with options that could be chosen depending
+on the level of
+proof that they were able to provide. Whilst standardised or ‘cookie
+cutter’ amounts were payable under
+Options 1 and 2, claimants could elect
+to proceed under Option 3, which facilitated payment of the full
+individualised
+amount according to the nature and severity of the
+injuries suffered and the economic losses incurred. For present purposes, it is
+important to note that the scheme encompassed two options (Options 1 and 2) that
+were conducive to the use of electronic technology
+to process claims
+expeditiously and at minimal transaction cost to the parties, the Claimants
+Trust or the court. Most claims were
+resolved under these two options.
+It is perhaps also important to note that the large amount of the fund
+established to provide for payments was non-reversionary. In
+other words, the
+defendant did not get any of the surplus funds if all claims were resolved and
+paid without exhausting the fund,
+which turned out to be the case. Any surplus
+was also paid to claimants, pro-rated on the amount of their first payment in
+any amount for exemplary or punitive damages (which were not payable,
+This methodology of combining various options, which varied according to the
+level of proof required, and which can facilitate the
+resolution of most claims
+expeditiously and at minimal cost, can be adapted to other types of claims
+resolution. Importantly, it
+offers claimants options which
+Some Lessons from the
+Vioxx Case and Recent Class Action and Mass Tort Litigation in the United
+The problem of establishing causation and quantifying damages for large
+numbers of claimants looms large in many if not most class
+action and mass tort
+litigation. In the
+product liability litigation in the United
+States and Canada, innovative and interesting use was made of technology in
+with the processing of large numbers of personal injury claims
+following a US$4.85 billion settlement of claims in the United States
+An electronic damages calculator was established on a website which enabled
+individual claimants to input relevant data
+with a view to calculating their
+individual damages entitlement under the terms of the
+settlement.
+A computer based questionnaire was used to enable the Claims Administrator to
+determine qualifying claimants’ ‘Basis Points’
+(Step 1). Such
+basis points were based upon: (a) age at the time of injury from Vioxx use; (b)
+duration of Vioxx use and (c) the
+level and seriousness of the injury.
+Thereafter, at Step 2, there were adjustments depending on the timeframe and
+frequency of Vioxx
+use, leading to the calculation of a sub-total of
+‘award’ points. Step 3 involved reductions based on risk factors,
+Step 4 involved additional reductions for other significant risk
+Finally, the total number of award points was calculated. The Qualifying
+Claimant’s Total Award Point Estimate was only an estimate.
+Award Points the Qualifying Claimant ultimately received was based solely upon a
+review of his or her medical records by
+an independent Claims Administrator. To
+the extent there were discrepancies between the information entered
+electronically and the
+Qualifying Claimant’s medical records, the
+Qualifying Claimant’s medical records took precedence.
+Although the value of each Award Point could not be known until all claims
+participating in the Settlement Program were evaluated,
+an electronic calculator
+enabled the claimant to quantify the total dollar value of the claim based on a
+range of potential settlement
+values for the Qualifying Claimant’s claim.
+The website settlement calculator was accessible online.
+The deadline for registration of claims expired on 15 January 2008.
+Over 58,000 claims were registered. As of 29 February 2008, more
+44,000 of 47,000 eligible claimants had enrolled in the Program. This
+constituted over 93 percent of all eligible claimants.
+This enrolment
+percentage exceeded the 85% threshold established in the settlement agreement.
+The defendant retained a right to walk
+away from the Agreement unless 85 percent
+of eligible claimants alleging a heart attack, stroke, death, or more than 12
+months Vioxx
+usage, enrolled in the Program. Eligible claimants were those who
+had filed a lawsuit as of 9 November 2007, alleging that they had
+heart attack or stroke as a result of ingesting Vioxx.
+In order for an eligible claimant to qualify for an initial payment if their
+claim was determined to be compensable, that Claimant
+had to enrol his or her
+claim on or before 29 February 2008. Eligible claimants who enrolled as of 29
+February 2008 had a 31-day
+grace period to submit to the Claims Administrator
+additional documentation, including properly executed releases and medical
+authorisation
+forms. All eligible claimants had to enrol before 1 May 2008, in
+order to participate in the Settlement Program.
+Each enrolled claimant was required to submit a Claims Package before 1
+July 2008. A claims package needed to include: (1) medical
+records as outlined
+in Exhibit 1.3.1 of the Settlement Agreement; (2) Plaintiff or Claimant Profile
+Form (and amendments); and (3)
+a claims form (to be completed online using a
+secure server).
+As has been noted elsewhere, although the use of grids and formulas has been
+widespread in mass tort and class action settlements
+in the United States to
+address the tensions between collective and individual evaluation of claims,
+there are often practical information
+problems, including where exposed
+individuals may not have fully manifested problems or where there are inherently
+subjective claims
+for psychological
+There has been
+critical scrutiny of settlement mechanisms in a number of the United States mass
+tort cases.
+Some courts have attempted to circumvent the conundrum of a choice between
+individualised and mass tort resolution of claims by adopting
+statistical
+sampling techniques or the judicial determination of bellwether
+In the Vioxx
+litigation, the values adopted in the settlement matrix were derived from a
+series of bellwether cases conducted over
+In some instances,
+judges have proposed non-binding bellwether cases for informational
+Undoubtedly, economic losses by shareholders are more easily calculable than
+personal injury claims in mass tort litigation. However,
+even in shareholder
+class action settlements, settlement distribution schemes usually need to
+utilise complex statistical methods
+for determining the ‘inflated’
+price paid by those claiming loss. The challenge is to disentangle, using
+multivariate
+statistical techniques such as regression analysis, the loss said
+to be due to culpable conduct from other market factors having
+an impact on
+share price.
+settlement of the shareholder litigation against
+the Settlement Notice
+set out a Plan of Allocation which incorporated various tables, accessible
+online, to enable calculations of
+Similarly, financial losses by consumers or businesses arising out of
+commercial computerised transactions are often readily calculable
+by electronic
+means. For example, sophisticated computer-based claims processing methods have
+been developed by a commercial service
+provider in connection with the recent
+US$6 billion-plus settlement in the class action arising out of claims that
+merchants paid
+excessive fees to accept Visa and Mastercard credit cards in
+violation of antitrust laws in the United
+This was designed to
+allow merchants to provide information to expedite claims processing. Twenty-one
+million settlement notices
+were sent out. The Class Administrator proposes to
+provide class members with the ability to access the claims website, with a
+code to permit them to view the manner in which their claim value is
+calculated. Class members may accept or disagree with data on
+the claim form or
+the website. The claim form and website will also explain how to challenge the
+data. The fairness hearing is scheduled
+for 7 November 2019, but, at the time of
+writing, the settlement is on appeal. Curiously, persons wishing to opt out can
+so by letter sent in the post and not by email or online.
+In a recent pharmaceutical mass tort settlement in the United States, a
+commercial service provider developed an electronic ‘Claims
+Facilitator’ that calculated monetary amounts for individual claimants
+based on an award matrix that took account of the age
+of the claimants and the
+severity of their injuries.
+Through a secure website, Special Masters appointed by the court had
+unrestricted access to claimant data, whereas plaintiff law
+firms were limited
+to viewing data on their clients and to limited data fields. An interactive
+online claims submission platform
+was implemented for use by claimants and their
+lawyers. This facilitated the electronic submission of medical records and other
+These relatively sophisticated, reasonably expeditious and (comparatively)
+inexpensive claims resolution methodologies stand in marked
+contrast to some of
+the labour intensive, expensive and protracted mechanisms used in resolving many
+Australian class actions to
+date. However, claims resolution methodologies need
+to be tailored to the nature of the disputes in question. In many cases, the
+preferable option is to incorporate various options that may be chosen by the
+class members themselves rather than those designing
+or implementing
+settlements. This would enable the claimants to choose between
+‘standardised’ and ‘individualised’
+methods. Some recent
+class action settlements in Australia have incorporated this methodology.
+The only advantage (at least from the perspective of the legal profession) of
+traditional claims processing procedures primarily reliant
+on human resources is
+that they generate substantial legal fees. Where such fees are deducted from
+settlement amounts otherwise payable
+to claimants, this gives rise to obvious
+concern. To some extent, this revenue generator has been an impediment to the
+of more cost effective digital solutions.
+However, commercial service providers who have been involved in the adoption
+of innovative digital technologies and processes in United
+States’ class
+action and mass tort litigation have recently become involved in the Australian
+market. Thus, there have been
+some Australian cases in which advanced computer
+based technology has been used in the administration of settlements.
+III CONCLUSIONS
+At each end of the civil justice spectrum, traditional methods for the
+resolution of civil disputes through the courts are not readily
+facilitating the resolution of such matters in a quick, just and inexpensive
+As with ODR platforms used for the resolution of minor civil disputes
+referred to in the first part of this article, the resolution
+of mass claims
+through claims resolution facilities established at the conclusion of class
+action or mass tort litigation should
+also seek to facilitate access to justice
+in an economical, expeditious, transparent and fair manner.
+Recently deployed ODR methodologies for dealing with minor civil disputes may
+be adapted for resolving mass claims in class actions.
+Similarly, claims
+resolution methods adopted in recent mass tort and class action litigation can
+be adapted for resolving high-volume
+but small value individual claims outside
+the class action context.
+There is no one-size-fits-all ODR model. Each is required to be tailored and
+modified to the specific and idiosyncratic features of
+the disputes in question
+and the characteristics of the parties to such disputes. This requires not only
+technological innovation
+and creative thinking from the outset, including in the
+design of ODR platforms and procedures, but also user feedback and evaluation
+methodologies that will facilitate ongoing iterative adjustment in the light of
+practical experience and insight. However, digital
+technology is not a panacea
+at either end of the civil claims spectrum. There may be increased commercial
+costs associated with a
+number of digital innovations. There is an ongoing need
+for creative thinking and both qualitative and quantitative empirical research.
+Transaction costs, timeliness, and consumer satisfaction are important variables
+that need to be evaluated as an integral part of
+civil justice
+Although guiding
+principles have been adopted in legislation and procedural rules in various
+the just, expeditious and inexpensive
+resolution of civil litigation, cost and delay continue to loom large in most if
+not all class
+action proceedings. It is not unusual for cases to take more than
+5 years to resolve even prior to settlement administration and
+for legal costs
+to be in the tens of millions of dollars.
+In the design and implementation of claims settlement procedures, rigidly
+adhering to the requirements of due process and the application
+substantive law in the resolution of multiple individual claims will exacerbate
+the problems of delay and cost. On the other
+hand, a preoccupation with
+efficiency and expedited claims processing may give rise to inequality and rough
+One method of circumventing these extremes is to avoid a binary choice
+between individualised and mass claims resolution methodologies,
+incorporate various options in the claims resolution process that vary the level
+of proof with the quantum and speed of payment
+so as to give the claimants a
+choice as to which to elect.
+Whichever approach is to be adopted, the tension between the desire for
+individual justice and the need to resolve disputes quickly,
+efficiently and
+economically needs to be creatively resolved. In doing so, procedural due
+process considerations need to be accommodated
+if technological innovation is
+going to be able to bring about digital justice.
+Barrister and Professor of Law,
+University of Sydney.
+Senior Policy Officer,
+Justice Strategy and Policy Branch, Department of Justice NSW.
+‘Expanding Access to
+Justice through Online Dispute Resolution’,
+The Digital Edge
+(American Bar Association, 13 February 2018)
+<https://legaltalknetwork.com/podcasts/digital-edge/2018/02/expanding-access-to-justice-through-online-dispute-resolution/>.
+Colin Rule, ‘Quantifying
+the Economic Benefits of Effective Redress: Large E-commerce Data Sets and the
+Cost-Benefit Case
+for Investing in Dispute Resolution’ (2012) 34(4)
+University of Arkansas at Little Rock Law Review
+See, eg, Orna Rabinovich-Einy
+and Ethan Katsh, ‘The New New Courts’ (2017) 67(1)
+University Law Review
+165, 188 (‘The New New Courts’); Ethan
+Katsh and Orna Rabinovich-Einy, ‘Access to Digital Justice’ in Ethan
+Katsh and Orna Rabinovich-Einy (eds),
+Digital Justice: Technology and the
+Internet of Disputes
+(Oxford University Press, 2017) 39, 51
+Digital Justice
+Online Dispute Resolution
+Advisory Group, Civil Justice Council,
+Online Dispute Resolution for Low
+Value Civil Claims
+(Report, February 2015) 4 [1.3]–[1.4]
+<https://www.judiciary.uk/wp-content/uploads/2015/02/Online-Dispute-Resolution-Final-Web-Version1.pdf>.
+[1.3]–[1.7]; Rabinovich-Einy and Katsh, ‘The New New Courts’
+Lord Justice Michael Briggs,
+Civil Courts Structure Review
+(Final Report, July 2016) 115 [12.6]
+<https://www.judiciary.uk/wp-content/uploads/2016/07/civil-courts-structure-review-final-report-jul-16-final-1.pdf>
+Civil Courts Structure Review
+Orna Rabinovich-Einy and Ethan
+Katsh, ‘A New Relationship Between Public and Private Dispute Resolution:
+Lessons from Online
+Dispute Resolution’ (2017) 32(4)
+Ohio State Journal
+on Dispute Resolution
+Law Council of Australia,
+The Justice Project Final Report –
+Dispute Resolution
+(August 2018) 10.
+Australian Dispute
+Resolution Advisory Council, ‘Online Dispute Resolution and ADR’
+(Research Paper, 16 September 2016)
+<https://docs.wixstatic.com/ugd/34f2d0_cb997768a4574613b8e1d2f972769040.pdf>.
+NSW Government, ‘Budget
+Estimates 2018-19’(Budget Paper No 3, 30 June 2018) 6-3
+<https://www.budget.nsw.gov.au/sites/default/files/budget-2018-06/6._Justice_Cluster-BP3-Budget_201819.pdf>.
+Civil Procedure Act 2005
+Civil and Administrative Tribunal Act 2013
+Victorian Civil and
+Administrative Tribunal (VCAT), ‘VCAT Online Dispute Resolution Pilot
+Online’ (YouTube, 13 September
+2018) 00:03:46–00:04:03
+<https://www.youtube.com/watch?time_continue=45&v=1cuKRgj-0ng>.
+Legal Services Commission
+of South Australia, Submission No 65 to Law Council of Australia,
+The Justice
+quoted in Law Council of Australia (n 8) 10.
+Civil Resolution
+Tribunal Act
+SBC 2012, c 25 (‘
+Civil Resolution Tribunal
+Civil Resolution Tribunal Rules
+, CRC, c 2017
+Civil Resolution Tribunal Rules
+‘Online Dispute
+Resolution & Public Interest Design, with Shannon Salter’,
+(Lawyerist.com, 31 January 2018)
+<https://legaltalknetwork.com/podcasts/lawyerist-podcast/2018/01/157-online-dispute-resolution-public-interest-design/>
+(‘Online Dispute Resolution & Public Interest Design, with Shannon
+‘Welcome to the Civil
+Resolution Tribunal’,
+Civil Resolution Tribunal
+(Web page, 2019)
+<https://civilresolutionbc.ca/>.
+Civil Resolution
+Tribunal Act
+SBC 2012, c 25, s 2(2)(a).
+Shannon Salter, 'Online
+Dispute Resolution and Justice System Integration: British Columbia's Civil
+Resolution Tribunal' (2017)
+Windsor Yearbook of Access To Justice
+112, 120 (‘British Columbia's Civil Resolution Tribunal’).
+Ibid 121. The
+Resolution Tribunal Act
+Civil Resolution Tribunal Rules
+this process.
+Salter, ‘British
+Columbia's Civil Resolution Tribunal’ (n 19) 121.
+'Online Dispute Resolution
+& Public Interest Design, with Shannon Salter' (n 16).
+‘CRT Statistics
+Snapshot: September 2018’,
+Civil Resolution Tribunal
+<https://civilresolutionbc.ca/crt-statistics-snapshot-september-2018/>.
+‘Participant
+Satisfaction Survey – April to September 2018’,
+Civil Resolution
+(Blog, 9 October 2018)
+<https://civilresolutionbc.ca/participant-satisfaction-survey-april-september-2018/>.
+Committee of Public
+Transforming Courts and Tribunals
+(House of Commons Paper No
+56, Session 2017–19) 4.
+Lord Chancellor, Lord Chief
+Justice and Senior President of Tribunals, ‘Transforming Our Justice
+System’ (Policy Paper,
+Ministry of Justice and HM Courts and Tribunals
+Service, September 2016) 11
+<https://www.gov.uk/government/publications/transforming-our-justice-system-joint-statement>.
+The pilot will end in
+November 2019; Sir Terence Etherton, ‘Civil Justice After Jackson’
+(Conkerton Memorial Lecture
+2018, Liverpool Law Society, 15 March 2018) 16 [33]
+<https://www.judiciary.uk/announcements/speech-by-sir-terence-etherton-mr-civil-justice-after-jackson/>.
+Sir Terence Etherton,
+‘The Civil Court of the Future’ (Lord Slynn Memorial Lecture, 14
+<https://www.judiciary.gov.uk/wp-content/uploads/2017/06/slynn-lecture-mr-civil-court-of-the-future-20170615.pdf>
+Lord Chancellor, Lord Chief
+Justice and Senior President of Tribunals, ‘Transforming Our Justice
+System’ (n 29) 6.
+The County Court Online
+Pilot 2018, Civil Practice Direction 51S
+<https://www.justice.gov.uk/courts/procedure-rules/civil/rules/practice-direction-51s-the-county-court-online-pilot>.
+Lord Chancellor, Lord Chief
+Justice and Senior President of Tribunals, ‘Transforming Our Justice
+System’ (n 29) 12.
+Clare Galloway, Service
+Manager, Civil Money Claims Team, HM Courts & Tribunals Service cited in
+Nick Hilborne, ‘Judiciary
+Threatens to Pull Out of Online Court Pilot over
+Lack of Communication From Officials’,
+Legal Futures
+(Web Page, 7
+March 2018)
+<https://www.legalfutures.co.uk/latest-news/judiciary-threatens-pull-online-court-pilot-lack-communication-officials>;
+Sir Etherton, ‘Civil Justice After Jackson’ (n 30) 17 [33].
+Clare Galloway cited in
+Nick Hilborne
+HM Courts and Tribunals
+Service, ‘Reform Update’ (Reform Update, May 2018) 4
+<https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/717789/HMCTS_Reform_Update_19May2018.pdf>.
+Robert Thomas and Joe
+Tomlinson, ‘The Digitalisation of Tribunals: What We Know and What We Need
+to Know’ (Research
+Paper, Public Law Project, 5 April 2018) 23
+<https://publiclawproject.org.uk/wp-content/uploads/2018/04/The-Digitalisation-of-Tribunals-for-website.pdf>.
+‘How Your Appeal will
+be Decided’,
+Traffic Penalty Tribunal
+<https://www.trafficpenaltytribunal.gov.uk/how-your-appeal-will-be-decided/>.
+JUSTICE Working Party,
+What is a Court?
+(Report, May 2016) 17
+<https://2bquk8cdew6192tsu41lay8t-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/JUSTICE-What-is-a-Court-Report-2016.pdf>.
+JUSTICE Working Party (n
+Rechtwijzer 2.0:
+Technology that puts justice in your hands
+http://www.hiil.org/project/rechtwijzer
+Joint Technology Committee,
+'Case Studies in ODR for Courts: A View from the Front Lines' (Resource
+Bulletin, 29 November 2017)
+<https://www.ncsc.org/~/media/files/pdf/about%20us/committees/jtc/jtc%20resource%20bulletins/2017-12-18%20odr%20case%20studies%20final.ashx>.
+Matterhorn’,
+<https://getmatterhorn.com/tour/what-is-matterhorn>.
+‘Ticket and Minor
+Infraction Resolution Results: Multiple Courts’,
+<https://getmatterhorn.com/get-results/traffic-court/ticket-minor-infraction-resolution-results/>.
+Tyler Technologies
+<https://www.tylertech.com/solutions-products/modria/ODR>.
+European Union, European
+Commission,
+Report from the Commission to the European Parliament and the
+Council On the Functioning of the European Online Dispute Resolution
+Established under Regulation (EU) No 524/2013 on Online Dispute Resolution for
+Consumer Disputes
+, COM(2017) 744 Final, 13 December 2017, 2
+<https://ec.europa.eu/info/sites/info/files/first_report_on_the_functioning_of_the_odr_platform.pdf>.
+For an assessment of the
+effectiveness of the EU Consumer platforms and a comparison with those developed
+in Brazil, see Maria José
+Schmidt-Kessen, Rafaela Nogueira and Marta
+Cantero, ‘Success or Failure? - Effectiveness of Consumer ODR Platforms in
+and in the EU’ (Research Paper No 19-17, Copenhagen Business
+http://ssrn.com/abstact=3374964
+Noam Ebner and John
+Zeleznikow, 'No Sheriff in Town: Governance for Online Dispute Resolution'
+(2016) 32(4)
+Negotiation Journal
+297, 307; Kanake Chinthaka Liyanage,
+'The Regulation of Online Dispute Resolution: Effectiveness of Online Consumer
+Protection Guidelines'
+[2012] DeakinLawRw 11
+(2012) 17(2)
+Deakin Law Review
+, 264 Robert J
+Condlin, 'Online Dispute Resolution: Stinky, Repugnant, or Drab' (2017) 18(3)
+Cardozo Journal of Conflict Resolution
+717, 733. Recent attempts to
+introduce a voluntary code of conduct include the International Council for
+Online Dispute Resolution’s
+Standards; ‘ICODR Standards’,
+International Council for Online Dispute Resolution
+<https://icodr.org/standards/>.
+See generally Suzanne Van
+Arsdale, 'User Protections in Online Dispute Resolution'
+(2015) 21(Fall)
+Harvard Negotiation Law Review
+Michael Legg, 'The Future
+of Dispute Resolution: Online ADR and Online Courts'
+(2016) 27(4)
+Australasian Dispute Resolution Journal
+, 227 (‘The Future of
+Dispute Resolution’).
+Salter, ‘British
+Columbia's Civil Resolution Tribunal’(n 19) 117.
+Committee of Public
+Accounts (n 28) 6.
+Law Council of Australia,
+The Justice Project
+(Final Report, August 2018)
+<https://www.lawcouncil.asn.au/files/web-pdf/Justice%20Project/Final%20Report/Justice%20Project%20_%20Final%20Report%20in%20full.pdf>.
+Law Council of Australia,
+The Justice Project Final Report – Part 1: People with Disability
+(August 2018) 8
+<https://www.lawcouncil.asn.au/files/web-pdf/Justice%20Project/Final%20Report/People%20with%20Disability%20%28Part%201%29.pdf>.
+The Productivity Commission
+has recognised that ‘[d]ata and evaluation have important and
+mutually-reinforcing roles in analysing
+and improving the civil justice
+system’; Productivity Commission,
+Access to Justice Arrangements
+(Inquiry Report No 72, 3 September 2014) 880.
+See generally 'Online
+Dispute Resolution & Public Interest Design, with Shannon Salter' (n
+‘Ensuring access to
+justice’ is one of three principles that have informed HM Courts and
+Tribunals Service’s court
+estates reform program and the Civil Resolution
+Tribunal; see Ministry of Justice and HM Courts and Tribunals Service,
+on the provision of court and tribunal estate in England and
+Wales’ (Consultation Paper, 16 July 2015) 7
+<https://consult.justice.gov.uk/digital-communications/proposal-on-the-provision-of-court-and-tribunal-es/user_uploads/reform-estates-national-consultation_official-sensitive_final_050815.pdf>;
+Sandy, CRT Resolution Support Clerk, 'How the CRT Is Improving Access to
+Civil Resolution Tribunal
+<https://civilresolutionbc.ca/crt-improving-access-justice/>. See below
+for a discussion of the CRT’s evaluation
+of access to justice and
+procedural fairness.
+Access to Justice
+Taskforce, Attorney General's Department,
+A Strategic Framework for Access to
+Justice in the Federal Civil Justice System
+(Report, September 2009) 2
+<https://www.ag.gov.au/LegalSystem/Documents/A%20Strategic%20Framework%20for%20Access%20to%20Justice%20in%20the%20Federal%20Civil%20Justice%20System.pdf>
+Strategic Framework
+Universal Declaration of Human
+GA Res 217A (III), UN GAOR, UN Doc A/810 (10 December 1948) art 8,
+International Covenant on Civil and Political Rights
+, opened for
+signature 16 December
+1966, 999 UNTS 171
+(entered into force 23 March 1976) art
+Professor Dame Hazel Genn,
+'Online Courts and the Future of Justice ' (Birkenhead Lecture, Gray’s
+Inn, 16 October 2017) 6
+<https://www.ucl.ac.uk/laws/sites/laws/files/birkenhead_lecture_2017_professor_dame_hazel_genn_final_version.pdf>.
+Christine Coumarelos et al,
+'How Are Legal Problems Finalised in Australia?' (
+Updating Justice
+Law and Justice Foundation of NSW, February 2013) 3
+http://www.lawfoundation.net.au/ljf/site/templates/UpdatingJustice/$file/UJ_19_Finalisation_Aus_FINAL.pdf
+Access to Justice
+A Strategic Framework
+Nigel J Balmer and Pascoe
+Pleasence, 'From the Frying Pan to the Fire: The Impact of Small
+Businesses’ Legal Problems' (
+Updating Justice
+No 52, Law and
+Justice Foundation of NSW, June 2017)
+http://www.lawfoundation.net.au/ljf/site/templates/UpdatingJustice/$file/UJ_52_Frying_pan_business.pdf
+Victorian Small Business Commissioner, 'The Costs of Participating in
+Business-to-Business Disputes at the Victorian Civil and
+Administration Tribunal
+(VCAT)' (Information sheet, 2014) 2
+<https://www.vsbc.vic.gov.au/wp-content/uploads/2014/08/vsbc-business-dispute-costs.pdf>.
+Access to Justice
+A Strategic Framework
+Rabinovich-Einy and Katsh,
+‘The New New Courts’ (n 3) 169.
+Shannon Salter and Darin
+Thompson, 'Public-Centred Civil Justice Redesign: A Case Study of the British
+Columbia Civil Resolution
+Tribunal' (2016-17) 3
+McGill Journal of Dispute
+113, 135 (‘Public-Centred Civil Justice
+Redesign’).
+Rabinovich-Einy and Katsh,
+‘The New New Courts’ (n 3) 203.
+See, eg, Joint Technology
+Committee (n 50) 7.
+In his Interim Report, Lord
+Justice Briggs discussed the concept of ‘The Line’, below which the
+aggregate costs of legal
+representation in litigation are disproportionate to
+the amount in contention. Most people consulted stated that the value of the
+dispute would need to be between £50,000 and £100,000 to go over The
+Line. Lord Justice Briggs concluded this represented
+a real barrier to access to
+justice; Lord Justice Briggs,
+Civil Courts Structure Review
+Darin Thompson, 'Creating
+New Pathways to Justice Using Simple Artificial Intelligence and Online Dispute
+Resolution' (2015) 1(2)
+International Journal of Online Dispute
+4, 10 (‘Creating New Pathways’).
+Ayelet Sela, 'Streamlining
+Justice: How Online Courts Can Resolve the Challenges of Pro Se Litigation'
+(2016) 26(Winter)
+Cornell Journal of Law & Public Policy
+(‘Streamlining Justice’).
+Peter Cashman, 'Civil
+Procedure, Politics and the Process of Reform' in Michael Legg and Miiko Kumar
+Ten Years of the
+Civil Procedure Act 2005
+(Lawbook Co, 2015)
+Tamara Goriely, Richard
+Moorhead and Pamela Abrams, 'More Civil Justice? The Impact of the Woolf Reforms
+on Pre-action Behaviour'
+(Research Study 43, The Law Society and Civil Justice
+Council, 2002) xiii <https://orca.cf.ac.uk/44483/1/557.pdf>.
+Supreme Court of New South
+Practice Note No. SC CL 6:
+Supreme Court Common Law Division -
+Possession List
+, 10 August 2012, cl 15
+http://www.lawlink.nsw.gov.au/practice_notes/nswsc_pc.nsf/a15f50afb1aa22a9ca2570ed000a2b08/ae3b414fa0c27a5bca2579c6007cac2e?OpenDocument
+Cashman (n 89) 227.
+See generally JUSTICE
+Working Party,
+Preventing Digital Exclusion from Online Justice
+April 2018) 4
+<https://2bquk8cdew6192tsu41lay8t-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/Preventing-Digital-Exclusion-from-Online-Justice.pdf>;
+Julian Thomas et al,
+Measuring Australia’s Digital Divide: The
+Australian Digital Inclusion Index 2017
+(Report, 2017)
+<https://digitalinclusionindex.org.au/wp-content/uploads/2016/08/Australian-Digital-Inclusion-Index-2017.pdf>.
+Thomas et al (n 93) 5.
+Hugh M. McDonald and
+Zhigang Wei, ‘Resolving Legal Problems: The Role of Disadvantage’
+Updating Justice
+No 19, Law and Justice Foundation of NSW, June 2018) 1
+http://www.lawfoundation.net.au/ljf/site/templates/UpdatingJustice/$file/UJ_56_Resolution_disadvantage.pdf
+JUSTICE Working Party (n
+93); Catrina Denvir et al, ‘Assisted Digital Support for Civil Justice
+System Users: Demand, Design
+and Implementation’ (Final Research Report,
+Civil Justice Council, April 2018)
+<https://www.judiciary.uk/wp-content/uploads/2018/06/cjc-report-on-assisted-digital-support.pdf>.
+Good Things Foundation and
+HM Courts and Tribunal Service, ‘HM Courts and Tribunals Service
+Face-To-Face Assisted Digital
+Service: A Handbook for Online Centres’
+(Handbook, 20 March 2018)
+<https://www.onlinecentresnetwork.org/sites/default/files/online_centre_handbook_v.1.pdf>.
+Murray Gleeson,
+‘The Judicial Method: Essentials and Inessentials’ (2010) 9(4)
+The Judicial Review
+Commissioner of the
+Australian Federal Police v Zhao
+[2015] HCA 5
+(2015) 255 CLR 46
+, 60 [44] (French CJ,
+Hayne, Kiefel, Bell and Keane JJ).
+Justice James Spigelman,
+‘The Principle of Open Justice: A Comparative Perspective’
+[2006] UNSWLawJl 19
+University of New South Wales Law Journal
+, 150; Chief Justice
+Marilyn Warren, ‘Open Justice in the Technological Age’
+[2014] MonashULawRw 5
+(2014) 40(1)
+Monash University Law Review
+Jason Bosland and
+Jonathan Gill, ‘The Principle of Open Justice and the Judicial Duty to
+Give Public Reasons’
+[2014] MelbULawRw 20
+(2014) 38(2)
+Melbourne University Law Review
+Justice Spigelman (n
+Sharon Rodrick,
+‘Open Justice, the Media and Avenues of Access to Documents on the Court
+[2006] UNSWLawJl 40
+(2006) 29(3)
+University of New South Wales Law Journal
+Local Court
+Hogan v Hinch
+[2011] HCA 4
+(2011) 243 CLR 506
+, 531 [21] (French CJ);
+John Fairfax & Sons Limited v
+Police Tribunal of NSW
+(1986) 5 NSWLR 465
+, 476–7 (McHugh JA, Glass JA
+agreeing at 467).
+Rodrick (n 103) 95.
+John Fairfax
+Publications Pty Ltd v Ryde Local Court
+[2005] NSWCA 101
+(2005) 62 NSWLR 512
+(Spigelman CJ, Mason and Beazley JJ agreeing at 503).
+Rodrick (n 103) 129.
+See, eg, Sir Etherton,
+‘Civil Justice After Jackson’ (n 30) 19 [39].
+Paul Magrath,
+‘Court Reform and Open Justice: Responses to the Public Accounts
+Committee’s Transforming Courts and Tribunals
+Transparency Project
+(Blog, 12 June 2018)
+http://www.transparencyproject.org.uk/court-reform-and-open-justice-responses-to-the-public-accounts-committees-transforming-courts-and-tribunals-inquiry/
+See, eg, Committee of
+Public Accounts (n 28) 13 [22].
+JUSTICE Working Party (n
+See, generally, Legg,
+‘The Future of Dispute Resolution’ (n 67) 234.
+Sir Ernest Ryder,
+'Securing Open Justice' (Speech, Max Planck Institute Luxembourg for Procedural
+Law & Saarland University,
+1 February 2018) 2, 5 [8]
+https://www.judiciary.gov.uk/wp-content/uploads/2018/02/ryder-spt-open-justice-luxembourg-feb-2018.pdf
+Lord Justice Briggs,
+Civil Courts Structure Review
+(n 6) 50 [6.69].
+Justice Spigelman (n
+‘Expanding Access
+to Justice through Online Dispute Resolution’ (n 1); Condlin (n 65)
+Thomas and Tomlinson
+Rodrick (n 103)
+Sir Etherton, ‘The
+Civil Court of the Future’ (n 31) 18 [56]; Sir Etherton, ‘Civil
+Justice After Jackson’
+(n 30) 19 [39]. Note that the Prison and Courts HC
+Bill (2016-17) 170, cl 34
+included provision for public participation in
+proceedings conducted by video or audio. This bill did not proceed due to the
+Lord Justice Briggs,
+Civil Courts Structure Review
+(n 6) 25 [4.11]; Sir Etherton, ‘The
+Civil Court of the Future’ (n 31) 18 [56].
+Lord Justice Briggs,
+Civil Courts Structure Review
+(n 6) 53 [6.85].
+Sir Etherton, ‘The
+Civil Court of the Future’ (n 31) 18 [56].
+Judge Nigel Bird,
+‘Open Justice in an Online Post Reform World: A Constant and Most Watchful
+Respect’ (2017) 36(1)
+Civil Justice Quarterly
+Hollander-Blumoff and Tom R Tyler, ‘Procedural Justice and the Rule of
+Law: Fostering Legitimacy in Alternative Dispute
+Resolution’ [2011]
+Journal of Dispute Resolution
+Procedure Act 2005
+Russell v Duke of
+[1949] 1 All ER 109
+, 118 (Tucker LJ) quoted in
+R v Commonwealth
+Conciliation and Arbitration Commission; Ex parte Angliss Group
+Civil Procedure Act
+Note that parties do not have the right to cross-examine
+witnesses in the Small Claims Division.
+National Companies
+& Securities Commission v News Corporation Ltd
+[1984] HCA 29
+(1984) 156 CLR 296
+(Gibbs CJ, Brennan J agreeing at 326).
+Michael Legg,
+‘Reconciling the Goals of Minimising Cost and Delay with the Principle of
+a Fair Trial in the Australian Civil
+Justice System’
+(2014) 33(2)
+Justice Quarterly
+, 169 (‘Reconciling the Goals’). See
+section 62(3)
+Civil Procedure Act 2005
+(NSW) as to directions that
+a court can make that may restrict the ‘fairness’ of a trial.
+Sonya Joy Willis, ‘The Case for Case Management: Justice, Efficiency
+and Procedural Fairness in Australian Civil Procedure’
+(PhD Thesis,
+The University of Sydney, 2018).
+Lord Justice Briggs,
+Civil Courts Structure Review
+(n 6) 41 [6.22]–[6.26];
+Resolution Tribunal Act
+Suzie Forell and
+Catriona Mirrlees-Black, ‘Data Insights in Civil Justice: NSW Local
+Court’ (Report, Law and Justice
+Foundation of NSW, November 2016) 8
+http://www.lawfoundation.net.au/ljf/site/templates/reports/$file/Local_Court_Report_2016.pdf
+See Supreme Court of
+NSW, ‘Representing yourself in civil proceedings in the Supreme Court of
+New South Wales’ (Fact
+Sheet, March 2015)
+http://www.supremecourt.justice.nsw.gov.au/Documents/Services%20and%20Support/Self%20Represented%20Litigant%20Fact%20Sheet%20Version%2013.docx
+Hodder Rook & Associates Pty Ltd v Genworth Financial Mortgage
+Insurance Pty Ltd
+[2011] NSWCA 279
+, [38]–[42] (Young JA) for a
+discussion regarding the court’s duty in relation to self represented
+Salter, ‘British
+Columbia's Civil Resolution Tribunal’ (n 19) 124–5; Sela,
+‘Streamlining Justice’
+(n 88) 337–9; Thompson, ‘Creating
+New Pathways’ (n 87) 8-9.
+Hollander-Blumoff and
+Tyler (n 124) 3.
+‘Streamlining Justice’ (n 88) 377.
+‘Streamlining Justice’ (n 88) 377, 381–2.
+Youyang Hou et al,
+‘Factors in Fairness and Emotion in Online Case Resolution Systems’
+(Conference Paper, CHI Conference
+on Human Factors in Computing Systems,
+6–11 May 2017) 2511, 2519
+<https://repository.law.umich.edu/cgi/viewcontent.cgi?article=2995&context=articles>.
+‘Streamlining Justice’ (n 88) 359–361.
+Youyang Hou et al (n
+Catrina Denvir et al (n
+Marc Galanter,
+‘Why the “Haves” Come Out Ahead: Speculations on the Limits of
+Legal Change’
+(1974) 9(1)
+Law and Society Review
+Legg, ‘Reconciling
+the Goals’ (n 129) 172.
+See, eg, Joint
+Technology Committee (n 50) 6.
+See, eg, Ayelet Sela,
+‘The Effect of Online Technologies on Dispute Resolution System Design:
+Antecedents, Current Trends,
+and Future Directions’ (2017) 21(3)
+& Clark Law Review
+See, eg, Joint
+Technology Committee (n 50) 8.
+‘Creating New Pathways’ (n 87)
+Joe Tomlinson,
+‘Measuring to Know and Measuring to Manage: An ODR Access to Justice
+Law, Technology and Access to Justice
+(Blog, 1 August
+<https://law-tech-a2j.org/odr/measuring-to-know-and-measuring-to-manage-the-proposal-for-an-access-to-justice-audit-of-odr-procedures/>.
+Salter, ‘British
+Columbia's Civil Resolution Tribunal’ (n 19) 124; Salter and Thompson,
+'Public-Centred Civil Justice
+Redesign’ (n 83) 124–5.
+Salter and Thompson,
+'Public-Centred Civil Justice Redesign’ (n 83) 122.
+The Productivity
+Commission collects basic civil justice data; Productivity Commission,
+on Government Services
+(24 January 2019) ch 7
+<https://www.pc.gov.au/research/ongoing/report-on-government-services/2019/justice/courts>.
+For an analysis of civil
+justice data quality and completeness for the purposes of answering policy
+questions in NSW, see Law and
+Justice Foundation of NSW,
+Data Insights in
+Civil Justice
+(Report series, 2016–8)
+http://www.lawfoundation.net.au/ljf/app/5141D05E8AC0EF1D85258078004EC072.html
+Common fund orders have
+been endorsed by the Full Federal Court in
+Money Max Int Pty Ltd v QBE
+Insurance Group Ltd
+[2016] FCAFC 148
+(2016) 245 FCR 191
+, 192 and further upheld by the recent
+decisions of the Full Federal Court in
+Lenthall v Westpac Life Insurance
+Services Ltd
+[2018] FCA 1422
+(2018) 363 ALR 698
+, 715 [63] and the NSW Court of Appeal in
+Brewster v BMW Australia Ltd
+[2019] NSWCA 35
+, [117] following a joint
+sitting of both courts.
+In the class action
+arising out of the Montara oil spill, claims for losses by Indonesian seaweed
+farmers were not commenced within
+the applicable limitation period. Thus, the
+proceeding was commenced after individual instructions were obtained from 15,000
+members with each seeking an extension of time for the purpose of pursuing
+their claim. The lead applicant succeeded in obtaining
+an extension of time in
+respect of his claim;
+Sanda v PTTEP Australasia (Ashmore Cartier) Pty Ltd (No
+[2017] FCA 1272.
+Some of the pitfalls of
+using standard questionnaires (or online systems) rather than client interviews
+are illustrated by the case
+Robert v Cashman
+[2000] NSWSC 770
+[53]–[64] (Whealy J).
+See, eg, the
+off-the-shelf programs reviewed at ‘Legal Software’,
+(Web Page, 15 June 2019)
+<https://www.softwareadvice.com/au/legal/>.
+See, eg, Justice Peter
+Vickery, ‘Managing the Paper: Taming the Leviathan’
+(2012) 22(2)
+Journal of Judicial Administration
+Justice Peter Vickery,
+‘New Horizons for the Bar in the Age of Technology’ (Conference
+Paper, Australian Bar Association
+Conference, 7 July 2017) 17.
+<https://austbar.asn.au//uploads/pdfs/abaconf2017/Vickery,%20the%20Hon.%20Justice%20Peter_New%20Horizons%20for%20the%20Bar%20in%20the%20Age%20of%20Technology.pdf>
+(‘New Horizons for the Bar’).
+See, eg, Victorian Law
+Reform Commission,
+Civil Justice Review
+(Report No 14, 28 May 2008) ch 6;
+Australian Law Reform Commission,
+Managing Discovery of Documents in Federal
+(Report No 115, 25 May 2011) chs 4–6.
+George Boole was an
+English mathematician who developed an algebraic method described in his book
+The Mathematical Analysis of Logic
+(1847) and further elaborated in
+Investigation of the Laws of Thought
+Douglas W Oard,
+, College of Information Studies and
+Institute for Advanced Computer Studies, University of Maryland, College Park,
+Maryland MD United
+States, March 10, 2010. Oard and his co-authors have
+conducted significant research and published numerous papers on the design and
+evaluation of electronic methods for the review of documentary evidence in civil
+litigation; ’Doug Oard’s Research Page’
+(Web Page, 2 Jan 2015)
+<https://ece.umd.edu/~oard/research.html#image>.
+Nicholas M Pace and
+Laura Zakaras, ‘
+The Cost of
+Producing Electronic Documents in Civil Lawsuits: Can They Be Sharply Reduced
+Without Sacrificing Quality?
+’ (Research Brief, Rand Institute for
+Civil Justice, April 2012) 1
+<https://www.rand.org/pubs/research_briefs/RB9650.html>.
+Nicholas M Pace and
+Laura Zakaras,
+Where the Money Goes: Understanding Litigant Expenditures for
+Producing Electronic Discovery
+(Rand Corporation, 2012) 66
+<https://www.rand.org/content/dam/rand/pubs/monographs/2012/RAND_MG1208.pdf>.
+Justice Vickery,
+‘New Horizons for the Bar’ (n 160) 17.
+See generally
+‘Text REtrieval Conference (TREC)’,
+(Web Page, 30 May
+http://trec.nist.gov
+. The TREC workshops encompass research in
+information retrieval in a wide range of areas and disciples, not confined to
+A number of scholarly articles on electronic search methodologies are
+published in the journal
+Artificial Intelligence and Law
+(Springer). See
+also Ellen M Voorhees and Donna K Harman (eds),
+TREC Experiment and
+Evaluation in Information Retrieval
+(The MIT Press, 2005).
+Victor Stanley, Inc.
+v. Creative Pipe, Inc.
+250 FRD 251, 262 (D Md, 2008).
+US v O’Keefe
+537 F Supp 2d 14
+, 24 (DDC, 2008).
+Erick Gunawan and Tom
+Pritchards, Technology and the Law Committee, ‘Technology Assisted
+Review’ (Research paper, Law
+Institute of Victoria, 24 November 2017) 1
+<https://www.liv.asn.au/getattachment/Professional-Practice/Areas-of-Law/Technology-and-the-Law/Resources/20171124_LP_TechnologyAndTheLaw_TAR_V04.pdf.aspx>.
+These include
+de-duplication technology; near duplication technology; email threading
+technology; and automated privilege detection;
+Justice Vickery, ‘New
+Horizons for the Bar’ (n 160) 19.
+For example, in
+McConnell Dowell Constructors (Aust) Pty Ltd v Santam Ltd (No 1)
+, Vickery J of the Victorian Supreme Court appointed a special referee
+to assist with questions arising from discovery and inspection
+of voluminous
+documents, in particular the use of electronic discovery processes such as TAR
+or predictive coding review.
+See generally John
+Tredennick et al,
+TAR for Smart People: How Technology Assisted Review Works
+and Why it Matters for Legal Professionals
+(Catalyst, 3
+2018); Gordon V Cormack and Maura R Grossman, ‘Evaluation of
+Machine-Learning Protocols for Technology-Assisted Review
+in Electronic
+Discovery’ (Conference Paper, ACM SIGIR Conference on Research and
+Development in Information Retrieval, 6–11
+http://plg2.cs.uwaterloo.ca/~gvcormac/calstudy/study/sigir2014-cormackgrossman.pdf
+Thomas Davey and Michael Legg, ‘Predictive Coding: Machine Learning
+Disrupts Discovery’ (2017) 32
+LSJ: Law Society of NSW Journal
+Gemma Thomas,
+‘Five Tips for Successful Use of Technology Assisted Review (TAR)’,
+Pinsent Masons
+(Web Page, 15 February 2018)
+<https://www.out-law.com/en/articles/2018/february/five-tips-for-successful-use-of-technology-assisted-review-tar/>.
+Da Silva Moore v
+Publicis Groupe
+287 FRD 182
+, 183 (SDNY 2012).
+McConnell Dowell
+Constructors (Aust) Pty Ltd v Santam Ltd (No 1)
+(2016) 51 VR 421
+McConnell Dowell Constructors (Aust) Pty Ltd v Santam Ltd (No 2)
+; Supreme Court of Victoria,
+Practice Note SC Gen 5: Technology in
+Civil Litigation,
+2 July 2018.
+‘Technology
+Assisted Review Plays Key Role in Litigation’,
+Supreme Court of
+(News Update, 14 December 2016)
+<https://www.supremecourt.vic.gov.au/news/technology-assisted-review-plays-key-role-in-litigation>.
+Justice Vickery,
+‘New Horizons for the Bar’ (n 160)
+Pyrrho Investments
+Ltd v MWB Property Ltd
+[2016] EWHC 256 (Ch).
+David Brown v BCA Trading
+[2016] EWHC 1464 (Ch)
+, 17.6 million potentially discoverable documents
+were initially reduced to 3.1 million using de-duplication technology.
+Irish Bank Resolution
+Corporation Ltd Quinn
+[2015] IEHC 175.
+In that case, the High Court of
+Ireland noted that technology assisted review using predictive coding is at
+least as accurate as
+and probably more accurate than manual or linear methods in
+identifying relevant documents and would facilitate a more economical
+expeditious discovery process;
+Irish Bank Resolution Corporation Ltd Quinn
+[2015] IEHC 175
+, [66]–[67].
+Rio Tinto Plc v Vale
+306 FRD 125 (SDNY
+Justice Vickery,
+‘New Horizons for the Bar’ (n 160)
+James A Sherer, David
+Choi and Csilla Boga-Lofaro, ‘Court Guideposts for the Path to Technology
+Assisted Review Adoption’
+(2018) 35(2)
+Computer and Internet Lawyer
+Int Pty Ltd v QBE Insurance Group Ltd
+[2016] FCAFC 148
+(2016) 245 FCR 191
+Superannuation Fund Pty Ltd v Bank of Queensland Ltd (No 2)
+[2017] FCA 1231
+(6 October 2017).
+Cantor v Audi
+Australia Pty Ltd (No 3)
+[2017] FCA 1079.
+QNI Metals Pty Ltd
+[2018] QSC 107
+(2018) 358 ALR 88
+Parbery v QNI Metals Pty Ltd
+[2018] QSC 180
+Parbery v QNI Metals Pty Ltd
+[2018] QSC 276.
+Justice Vickery,
+‘New Horizons for the Bar’ (n 160)
+‘eDiscovery in SA
+- Basic guide to Technology Assisted Review for SA’,
+Terry Harrison
+(Web Page, 10 July 2018)
+http://www.terryharrison.co/blog/2018/7/10/ediscovery-in-sa-basic-guide-to-technology-assisted-review-for-sa
+Cantor v Audi
+Australia Pty Ltd (No 3)
+[2017] FCA 1079.
+Seven Network Ltd v
+[2007] FCA 1062
+See Anna Olijnyk,
+‘Justice and Efficiency in Mega-Litigation’ (PhD thesis, University
+of Adelaide, 2014) 196
+<https://digital.library.adelaide.edu.au/dspace/bitstream/2440/91442/3/02whole.pdf>.
+This text is now also available as a book; Anna Olijnyk,
+Justice and
+Efficiency in Mega-Litigation
+(Hart Publishing, 2019).
+Robert Size,
+‘Taking Advantage of Advances in Technology to Enhance the Rule of
+(2017) 91(7)
+Australian Law Journal
+Master (UK) v Forty Two International (No 3)
+[2009] FCA 1306
+(2009) 181 FCR 152
+(Buchanan J) cited in Size (n 194) 586;
+Blackrock Asset Management Services
+Australia Ltd v Waked (No 2)
+[2011] FCA 479
+[46] (Perram J) cited in Size (n
+Liverpool City
+Council v McGraw-Hill Financial, Inc (now known as S and P Global Inc)
+[2018] FCA 1289
+, [77], Lee J raised the prospect of tenders being sought for the
+purpose of administration of the settlement but permitted the solicitors
+appointed as administrators of the scheme, subject to external scrutiny of their
+Australian Law Reform
+Commission,
+Integrity, Fairness and Efficiency–An Inquiry into Class
+Action Proceedings and Third-Party Litigation Funders
+(Report 132, 24
+January 2019) 9
+<https://www.alrc.gov.au/publications/integrity-fairness-and-efficiency%E2%80%94-inquiry-class-action-proceedings-and-third-party>.
+There is a considerable
+body of literature dealing with claims resolution facilities established in
+connection with class actions,
+mass tort litigation and Chapter 11 bankruptcy
+proceedings in the United States; see, eg, Deborah R Hensler, ‘Assessing
+Resolution Facilities: What We Need to Know’ (1990) 53(4)
+and Contemporary Problems
+175; Deborah R Hensler, ‘Alternative Courts?
+Litigation-Induced Claims Resolution Facilities’
+Stanford Law
+; Francis E McGovern, ‘The What and Why of Claims
+Resolution Facilities’
+(2005) 57(5)
+Stanford Law Review
+Frances E McGovern, ‘Second-Generation Dispute System Design Issues in
+Managing Settlements’
+(2008) 24(1)
+Ohio State Journal on Dispute
+; Frances E McGovern, ‘Distribution of Funds in Class
+Actions - Claims Administration’
+(2009) 35(1)
+Corporation Law
+Two examples of recently established claims
+resolution facilities include the facility established in 2015 pursuant to the
+Chapter 11 Plan of Reorganisation of New England Pharmacy, Inc, the Tort
+Trust Agreement in respect of claims arising out of contaminated
+injections, and
+the claims resolution facility adopted as part of the plan of re-organisation of
+Garlock Sealing Technologies LLC
+et al in 2018 in connection with asbestos
+claims. Claims resolution facilities have also been set up in connection with
+international
+disputes; see, eg, Frances E McGovern, ‘Dispute Systems
+Design: The United Nations Compensation Commission’
+Harvard Negotiation Law Review
+In the consumer class
+action in the Federal Court on behalf of purchasers of Nurofen, the settlement
+agreement provided for the
+appointment of an accounting firm as settlement
+administrator. The settlement was approved by Nicholas J in 2017;
+Reckitt Benckiser (Australia) Pty Ltd
+[2017] FCA 341.
+In class actions, any
+settlement is required to obtain court approval and the court is required to be
+satisfied that the proposed
+settlement is fair and in the interests of the group
+members. In the Federal Court context, see
+Federal Court of Australia Act
+; Federal Court of Australia,
+Practice Note GPN-CA: Class
+Actions Practice Note
+, 25 October 2016, [14.1]–[14.6]. The court will
+also supervise the implementation of any settlement distribution scheme.
+Camilleri v The Trust
+Company (Nominees) Ltd
+[2015] FCA 1468
+, [5] (Moshinsky J) citing
+v SPI Electricity Pty Ltd
+[2012] VSC 204
+, [37]–[39]
+, Emerton J approved a
+settlement notwithstanding the possibility that the claims assessment principles
+may be more generous in respect
+of some group members compared with others: at
+[38]. See also
+Stanford v DePuy International Ltd (No 6)
+[2016] FCA 1452
+[118] (Wigney J).
+Rebecca Gilsenan and
+Michael Legg, ‘Australian Class Action Settlement Distribution Scheme
+Design’ (Research Report
+No 1, IMF Bentham Class Action Research
+Initiative, 1 June 2017) 4
+http://www.cari.unsw.edu.au/sites/cari.unsw.edu.au/files/class-action-settlement-distribution-design-CARI-paper.pdf/
+Dorajay Pty
+Ltd v Aristocrat Leisure Ltd
+[2009] FCA 19
+, [20] (Stone J);
+Anderson Investments Pty Ltd v Oz Minerals Ltd
+[2011] FCA 801
+, [22] (Emmett
+Inabu Pty Ltd v Leighton Holdings Ltd (No 2)
+[2014] FCA 911
+(Jacobson J). In a more recent case, Murphy J approved of the loss assessment
+methodology proposed for the settlement distribution
+Investments Pty Limited v Cao (No 2)
+[2018] FCA 527
+, [100], [106].
+Milling Co Pty Ltd v F Hoffman-La Roche Ltd (No 2)
+[2006] FCA 1388
+(2006) 236 ALR 322
+in Gilsenan and Legg (n 202) 11 nn 43;
+Jarra Creek Central Packing Shed Pty
+Ltd v Amcor Ltd
+[2011] ATPR 42-361
+cited in Gilsenan and Legg (n 202) 11 nn
+Wright Rubber Pty Ltd v Bayer AG (No 3)
+[2011] FCA 1172
+Gilsenan and Legg (n 202) 11 nn 43;
+De Brett Seafood Pty Ltd v Qantas Airways
+cited in Gilsenan and Legg (n 202) 11 nn 43. As Gilsenan and Legg
+note, the four class actions that settled had settlement distribution
+that were structured along similar lines: at 12.
+According to Gilsenan
+and Legg, the types of settlement schemes adopted in product liability and mass
+tort cases are varied: at
+17–22. Some cases adopt global sum settlements
+with individualised distribution such as the Kilmore-East Kinglake bushfire
+class action in
+Matthews v AusNet Electricity Services Pty Ltd
+Others have adopted process settlements involving a two stage procedure for
+determining individual entitlement and assessment of
+quantum, such as in the LCS
+® Duofix ™ Femoral Components class action in respect of components of
+knee replacement implants,
+which was heard in
+Casey v DePuy International Ltd
+[2012] FCA 1370
+, and other Victorian bushfire cases, such as
+Thomas v Powercor Australia Ltd
+[2011] VSC 614
+Perry v Powercor
+Australia Ltd
+[2012] VSC 113
+Place v Powercor Australia Ltd
+[2013] VSC 6.
+Gilsenan and Legg (n
+202) 22–3. They refer to the United States silicone gel breast implant
+litigation and the national football
+league players’ concussion injury
+litigation: at 23. As they note, a matrix was used in
+Amom v New South
+[2016] NSWSC 1900
+a case involving the false imprisonment of young
+people. The matrix allocated compensation based on various factors such as false
+imprisonment, strip search, degree of humiliation, degree of discomfort and age.
+They also note that reference was made to a US grid
+style payment scheme in
+Stanford v DePuy International Ltd (No 6)
+[2016] FCA 1452
+, [105], [108]:
+at 22, nn 92.
+Multi District
+Litigation (MDL) procedures provide for the transfer and consolidation of large
+numbers of cases filed in different
+federal courts to one judge for all
+pre-trial proceedings where the cases give rise to common issues (e.g. product
+liability claims
+involving the same product).
+Jaime Dodge,
+‘Disaggregative Mechanisms: Mass Claims Resolution without Class
+Actions’ (2014) 63(6)
+Emory Law Journal
+1253, 1253.
+Mobility LLC v Concepcion
+(2011). The Court held that federal
+arbitration legislation preempted a Californian state law that invalidated most
+class action
+waivers in consumer contracts on the grounds of unconscionability;
+see also the recent decision in
+Epic Systems Corporation v Lewis
+__ (2018) where the Court (by a 5:4 majority) upheld a binding arbitration
+clause in an employment contract thus preventing
+collective class action
+litigation. For an examination of the status and enforceability of mandatory
+foreign arbitration clauses
+under Australian law, see Richard Garnett,
+‘Arbitration of Cross-Border Consumer Transactions in Australia: A Way
+[2017] SydLawRw 23
+(2017) 39(4)
+Sydney Law Review
+Dodge (n 208) 1258.
+The policies and
+procedures of the Dalkon Shield Claimants Trust are examined in detail by the
+chair of the trust: Georgene M Vairo,
+‘The Dalkon Shield Claimants Trust:
+Paradigm Lost (or Found)?’ (1992) 61(3)
+Fordham Law Review
+also Kenneth R Feinberg, ‘The Dalkon Shield Claimants Trust’
+Law and Contemporary Problems
+The calculator was
+previously located at ‘Official Vioxx Settlement Calculator’,
+Official Vioxx Settlement
+<www.officialvioxxsettlement.com/calculator> but the domain website has
+since been listed for sale by the owner.
+American Law Institute,
+Principles of the Law of Aggregate Litigation
+(2010) 54 citing Paul H
+Edelman, Richard A. Nagareda and Charles Silver, ‘The Allocation Problem
+in Multiple Claimant Representations’
+Supreme Court Economic
+For example, for a
+critique of the settlement in the diet drug product liability litigation, see
+Alexandra D Lahav, ‘The Law
+and Large Numbers: Preserving Adjudication in
+Complex Litigation’
+(2007) 59(2)
+Florida Law Review
+Law and Large Numbers’). See also Deborah R Hensler, ‘Revisiting the
+Monster: New Myths and Realities of
+Class Action and Other Large Scale
+Litigation’
+(2001) 11(2)
+Duke Journal of Comparative and International
+A number of examples are
+cited in Lahav, ‘The Law and Large Numbers’ (n 214)
+Alexandra D Lahav,
+‘The Case for “Trial by Formula”’ (2012) 90(3)
+571, 592 (‘The Case for “Trial by
+Formula”’); see generally Howard M Erichson and Benjamin C Zipursky,
+Versus Closure’ (2011) 96(2)
+Cornell Law Review
+Lahav, ‘The Case
+for “Trial by Formula”’ (n 216) 609.
+These methods are
+discussed in Gilsenan and Legg (n 202) 7–9.
+In re Merck & Co
+Inc Vioxx Securities Litigation
+MDL 1658 (SRC, 2003).
+‘In re Merck &
+Co., Inc. Vioxx Securities Litigation’,
+Merck Vioxx Securities
+(Web Page, 10 January 2019)
+<https://www.merckvioxxsecuritieslitigation.com/>.
+In Re Payment Card
+Interchange Fee and Merchant Discount Antitrust Litigation
+MDL 1720 (DEDNY,
+<https://www.epiqglobal.com/en-au/results>.
+As Justice Vickery has
+observed, there are some fundamental design parameters for courts adopting
+technology and designing workable
+systems which he describes at the
+’ principles:
+implicity in operation;
+ser consultation;
+eliability;
+lexibility;
+fficiency and
+obust security and back-up systems; Justice
+Vickery, ‘New Horizons for the Bar’ (n 160) 2–3.
+The competing demands
+between compensation on the merits or rough justice are discussed by Michael
+Legg, ‘Class Action Settlement
+Distribution in Australia: Compensation on
+the Merits or Rough Justice?’
+[2016] MqLawJl 6
+Macquarie Law Journal
+Print (pretty)
+Print (eco-friendly)
+RTF format (518 KB)
+PDF format (948 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

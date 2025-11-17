@@ -1,0 +1,995 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/UNSWLawJlStuS/2025/27.html
+Scraped: 2025-11-17 15:46:24
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Rogers, Uma --- "Generative Artificial Intelligence and Indigenous Intellectual and Cultural Property: Impacts and Implications for Visual Art" [2025] UNSWLawJlStuS 27; (2025) UNSWLJ Student Series No 25-27
+GENERATIVE ARTIFICIAL INTELLIGENCE AND INDIGENOUS INTELLECTUAL AND CULTURAL PROPERTY: IMPACTS AND IMPLICATIONS FOR VISUAL ART
+I INTRODUCTION
+II OUTLINING GENERATIVE ARTIFICIAL INTELLIGENCE
+III IMPLICATIONS OF GENERATIVE ARTIFICIAL INTELLIGENCE
+A Implications on Artists Generally
+B Implications for Indigenous Artists
+1 Violation of Permission Protocols
+2 Use of Artwork for Inappropriate Purposes
+3 Appropriation of Style
+IV PROTECTION UNDER AUSTRALIAN INTELLECTUAL PROPERTY LAW
+A Tensions between ICIP and IP
+B Copyright
+1 Are Artworks Copyright?
+2 Does GenAI’s Use of Artwork Constitute Infringement?
+B Moral Rights
+1 Right of Attribution
+2 Right of Integrity
+3 Reasonable Use Defence
+C Prospect of Legislative Change
+V CONCLUSION
+GENERATIVE ARTIFICIAL INTELLIGENCE AND INDIGENOUS
+INTELLECTUAL AND CULTURAL PROPERTY: IMPACTS AND IMPLICATIONS FOR VISUAL
+I INTRODUCTION
+The development and dissemination of generative artificial intelligence
+(‘GenAI’) has disrupted long-standing assumptions
+what, can produce creative artwork. As artists grapple with the challenges posed
+by AI-generated artworks, it is crucial
+to determine whether the use of artwork
+in artificial intelligence (‘AI’) training infringes intellectual
+property (‘IP’)
+rights. While there has been broad commentary on the
+applicability of IP in the regulation and training of AI modules, there has
+a lack of scholarly attention to the implications of generative AI art for
+Indigenous intellectual and cultural property (‘ICIP’)
+context of art. This omission is notable considering the significance of
+Indigenous art in Australian visual culture; the
+importance of artworks for
+Indigenous culture and law; and the historic shortcomings of Anglo-Australian IP
+in protecting ICIP. As
+an early effort to address this gap, this article seeks
+to examine the relationship between GenAI, ICIP and IP through the lens of
+visual arts.
+Following this introduction, this article is structured as follows: Part II
+provides an overview of GenAI related terminology and
+establishes this
+article’s scope. Part III considers the implications of GenAI, both
+generally and relating to Indigenous communities
+specifically. It argues that
+the advent of GenAI has significant adverse implications for the upholding of
+Indigenous customary law.
+Moreover, it considers that GenAI is likely to
+exacerbate economic and cultural harms which disproportionately impact
+artists. Part IV evaluates the potential of IP in protecting ICIP
+from these associated harms. It demonstrates that a discussion
+of GenAI can
+illuminate fundamental conceptual incompatibilities between ICIP and IP.
+However, it ultimately acknowledges the potential
+usefulness of copyright and
+moral rights as pathways to protect Indigenous artists and art.
+II OUTLINING GENERATIVE ARTIFICIAL
+INTELLIGENCE
+Artificial Intelligence is a type of technology that enables machines to
+perform cognitive tasks, usually associated with human
+intelligence.
+GenAI is a subset of
+AI and refers to the ability of computer systems to create new content,
+including text, audio, and images. While
+there are numerous approaches to
+modelling GenAI,
+commonly require vast amounts of external data, or ‘inputs’ upon
+which GenAI is trained.
+Training is
+fundamental to GenAI and denotes the process through which algorithms are taught
+to ascertain information from existing
+data, and subsequently, to apply this
+knowledge into the generation of new material or ‘outputs’. This is
+facilitated
+by data scraping and data mining practices. Data scraping is the
+process of importing raw data from websites. It is often done on
+a mass scale
+and can compile billions of sources. Data mining is the process of analysing
+such raw data to generate statistical patterns
+and relationships. Overall, the
+efficacy of GenAI in generating outputs is directly informed by the quality and
+quantity of data
+available for training.
+GenAI modules can be distinguished as ‘creative’ and
+‘non-creative’ depending on the nature of their
+Creative modules produce
+outputs which are stylistically alike, or capable of substituting, the kinds of
+material used in training.
+For example, the NextRembrandt project is an AI
+module trained on the works of Dutch painter Rembrandt Harmenszoon van
+It produces
+‘Rembrandt’ style paintings which might be mistaken as authentic.
+Non-creative modules produce other outputs
+that respond to training data but are
+not capable of substituting or competing with them. A program that is trained to
+identify trends
+and patterns in Rembrandt paintings over time, for example,
+could be classified as non-creative. While both classes have significance
+intellectual property rights, the scope of this article is limited to creative
+GenAI and the implications of artificially generated
+III IMPLICATIONS OF GENERATIVE ARTIFICIAL
+INTELLIGENCE
+A Implications on Artists Generally
+Empirical research has identified three main concerns around the emergence of
+GenAI in art production.
+the use of artist’s work in GenAI training without compensation or
+For many artists, the
+unauthorised use of their content by GenAI companies is akin to theft, as one
+online commentator wrote: ‘AI
+is stealing our art to “learn”
+when we don’t consent to it at
+Second, is the
+increased competition from GenAI art in similar markets. Outputs are typically
+cheaper and faster to produce than
+humanmade artworks. Since employers are
+incentivised to use GenAI rather than hire human professionals, GenAI can
+diminish artists’
+prospects of
+employment.
+artists’ lack of agency over how their art style might be used. Mimicry of
+style can be viewed as disrespectful
+and unethical in professional practice. Use
+of an artist’s style in GenAI can lead to inappropriate outputs that
+conflict with
+an artist’s intended philosophical
+B Implications for Indigenous Artists
+To determine the implications of GenAI on Indigenous artists, it is crucial
+to highlight the unique ways that GenAI might interact
+with protocols of ICIP.
+According to leading ICIP expert Terri Janke, ICIP refers to:
+Indigenous peoples’ rights to their heritage. Heritage consists of the
+intangible and tangible aspects of the whole body of
+cultural practices,
+resources and knowledge systems developed, nurtured and refined by Indigenous
+people and passed on by them as
+part of expressing their cultural identity. The
+heritage of an Indigenous people is a living one and includes items that may be
+in the future, based on that
+A key aspect of ICIP is the norms associated with Indigenous visual art and
+practice. For many Indigenous artists, artmaking is a
+significant cultural
+practice that derives from ‘Indigenous peoples’ deep and continuing
+connections to land, seas, and
+all things on
+The continual
+practice of artmaking on country across thousands of years has resulted in
+distinctive artistic styles, associated
+with particular regions. For example,
+dot painting broadly originates from the Central and Western desert,
+cross-hatching and x-ray
+paintings from Arnhem land, and Wandjina Spirit motifs
+from the Kimberley Coast.
+visual techniques expressed in these traditional Indigenous art styles are not
+solely aesthetic devices, but are vital means
+of expressing, cultivating, and
+sharing cultural knowledge.
+Accordingly, the production of traditional Indigenous artworks is regulated by
+complex knowledge sharing protocols under Indigenous
+customary law, or the
+‘social and cultural norms and customs by which Indigenous communities
+The emergence of GenAI represents a significant challenge for upholding
+Indigenous customary law. Images of Indigenous artwork and
+cultural designs have
+been widely disseminated and are likely to appear in most datasets used to train
+GenAI. Accordingly, GenAI
+can generate outputs that imitate the aesthetics of
+Indigenous art. A practical example of this occurring is demonstrated by an
+by Terri Janke and Company: When the phrases ‘Aboriginal
+art’ and ‘Wiradjuri’ were used as prompts into the
+program Stable Diffuser, the program produced outputs which resembled the
+textures and motifs of existing material found
+In what follows, I will
+discuss three potential ways that outputs such as those generated by this
+experiment might breach customary
+law through: (1) violation of permission
+protocols; (2) use of artworks for inappropriate purposes; and (3) appropriation
+1 Violation of Permission Protocols
+Customary laws typically involve complex networks of authority and consent
+processes that regulate who is privy to certain stories
+In the context of
+visual arts, individuals must be granted permission before they can recreate
+certain patterns, styles, and designs
+with associated
+narratives.
+The importance of
+permission protocols is evidenced by the copyright case
+Bulun Bulun v R &
+T Textiles Pty Ltd
+In this case,
+a painting which contained sacred knowledge made by Ganalbingu artist Johnny
+Bulun Bulun was reproduced on clothing
+fabric. The unauthorised recreation had
+significant cultural impact, as explained by Bulun Bulun: ‘Unauthorised
+reproduction
+of [Magpie Geese and Waterlilies] At the Waterhole threatens the
+whole system and ways that underpin the stability and continuance
+programmers input data which contains Indigenous cultural imagery without
+consulting the relevant right-holders, they
+circumvent the permission protocols
+which regulate the dissemination of cultural knowledge. In doing so, they risk
+disturbing the
+complex systems that protect Indigenous heritage.
+In addition to the communal harms outlined by
+Bulun Bulun
+unauthorised copying also impacts artists’ personal obligations. When
+artists are given permission to use sacred imagery and
+patterns, they become
+responsible for the proper maintenance of this
+Bulun Bulun
+this responsibility was recognised as a fiduciary duty which obliged Bulun Bulun
+‘not to exploit the artistic work in a way
+that is contrary to the law and
+custom of the Ganalbingu
+and upon learning
+of an instance of infringement to ‘take reasonable and appropriate action
+to restrain and remedy the
+infringement’.
+of reasonable steps can include, as in
+Bulun Bulun
+, taking action in an
+Australian court.
+As such, the
+applicability of existing IP regimes for protecting ICIP can be relevant to an
+artist’s ability to uphold their
+obligations under customary
+The failure to protect traditional designs by artists can lead to personal
+repercussions from community members. Inappropriate uses
+of artworks by third
+parties can be deemed as a failure of artists to protect sacred knowledge. This
+is so even when third party
+action is done without the knowledge or consent of
+artists. A key illustration of this dynamic is
+Milpurrurru v Indofurn Pty Ltd
+Milpurrurru
+In this case, designs of several Indigenous artists were reproduced, either
+wholly or in part, in commercially sold carpets. Despite
+the original artists
+having neither authorised nor been notified of the textile reproductions, they
+were still liable to face punishments,
+including ostracisation from community
+and revocation of their rights to reproduce images. GenAI’s capacity to
+mimic traditional
+patterns can undermine Indigenous artists’ ability to
+protect their designs and prevent unauthorised reproduction. It thus
+significant implications for artists’ personal wellbeing and connection to
+2 Use of Artwork for Inappropriate Purposes
+Customary law may permit those outside Indigenous communities to reproduce or
+display artworks in particular contexts, whilst forbidding
+it in others. In
+Milpurrurru,
+the recreation of artworks by the Australian National
+Gallery (with consent) in educational publications was seen as valid, while
+unauthorised use of designs in carpets was deemed as unacceptable. Here, the
+likelihood that traditional designs would be stepped
+and trodden on was an
+important point of distinction.
+In another case,
+Yumbulul v Reserve Bank of Australia
+the display
+of an artwork in a public institution such as a museum was seen as acceptable,
+but the reproduction of the work on currency
+by the Reserve Bank was
+That the use of artwork on
+currency could be interpreted as a mark of respect from mainstream Australian
+culture was here irrelevant.
+cases demonstrate the importance of designs being treated respectfully and used
+towards appropriate purposes, in accordance with
+customary law.
+The primary function of GenAI is to respond to user prompts, as they have
+been written, and to generate an output corresponding to
+their request. Many
+GenAI systems include guardrails and automated filters that monitor for
+‘offensive’ or ‘inappropriate’
+However, these
+protocols are limited in
+and are typically
+designed with colonial rather than Indigenous customary norms in
+There have already been
+instances of GenAI being utilised for denigrating purposes. In 2023, an
+unofficial campaign against the plebiscite
+to introduce an Indigenous voice to
+Parliament produced and disseminated advertisements featuring an AI-generated
+male character
+with a seemingly Indigenous appearance.
+The content was harshly condemned by
+the official opposition
+Another example from
+the plebiscite campaign is the distribution of anonymous flyers containing a
+digitally augmented version of
+Gadigal artist Danny Eastwood’s
+The flyers took the
+original painting, a depiction of Uluru using dot-painting techniques, and
+digitally integrated the word ‘no’
+using in the same dot-painting
+style. While the alteration to Eastwood’s work was done using Photoshop
+rather than GenAI, the
+result resembles the types of content that GenAI can
+produce. The availability of GenAI makes digital manipulations more accessible
+and efficient, thus increasing the likelihood that denigrating alterations will
+3 Appropriation of Style
+A major concern related to the rise of GenAI is an increase in style
+appropriation. Style appropriation is ‘a kind of cultural
+appropriation’
+‘takes place when a person makes use of stylistic innovations distinctive
+of a cultural group that is not her
+In Indigenous
+culture, style appropriation is particularly harmful as it ignores
+artmaking’s vital role as a conveyor of
+information.
+Visual elements in
+Indigenous artworks are informed by artist’s local knowledge and are
+carefully applied to ensure that they
+express an intended meaning. The
+importance of precision in artmaking was recognised in
+Milpurrurru
+‘Accuracy in the portrayal of the story is of great importance.
+Inaccuracy, or error in the faithful reproduction of an artwork,
+can cause deep
+offence to those familiar with the
+When GenAI uses
+Indigenous art to train its algorithms, it decontextualises visual elements from
+its associated stories and generalises
+its aesthetics. In doing so, it treats
+Indigenous patterns as abstract aesthetics that can be mimicked and emulated at
+will, ignoring
+their functional purpose.
+The implications of style appropriation by GenAI are particularly significant
+in context of inauthentic products in the Australian
+Indigenous arts industry.
+The Indigenous arts industry is a major economic market, earning at least $250
+million in 2019–2020.
+this number, $30 million was generated from Indigenous art centres and $80
+million from merchandise and consumer products predominantly
+The commercialisation
+of Indigenous art practice has provided positive outcomes for Indigenous
+communities, providing considerable
+economic opportunities for artists, and
+facilitating Indigenous peoples to share aspects of their culture on their own
+However, this positive
+aspect has been largely undermined by the widespread dissemination of
+inauthentic Indigenous art. A 2022 Productivity
+Report into Aboriginal and
+Torres Strait Islander Visual Arts and Crafts, found that up to 75% of
+Indigenous-style consumer products
+in the market are non-Indigenous
+million generated by Indigenous style souvenirs, more than half came from such
+inauthentic products.
+introduction of GenAI into this lucrative Indigenous arts market would make the
+production of non-Indigenous authored products
+cheaper, and thus likely
+exacerbate the problem of inauthentic products.
+Notably, many recurring themes of the report – appropriation of
+Indigenous designs by non-Indigenous people without compensation
+or consent;
+loss of income from competition of fake or inauthentic products; lack of agency
+over how Indigenous styles are used –
+correspond with the general concerns
+around creative GenAI raised in empirical research. While the advent of GenAI
+has ushered concerns
+around arts exploitation into mainstream legal discourse,
+these issues have long been familiar to, and commented on by, Indigenous
+communities outside the digital realm. As non-Indigenous artists seek to
+vocalise their concerns over arts exploitation, insights
+can be gained from
+engagement with Indigenous voices and the existing body of research and reform
+proposals associated with inauthentic
+Indigenous art.
+IV PROTECTION UNDER AUSTRALIAN INTELLECTUAL PROPERTY
+It is highly likely that the use of Indigenous art in GenAI constitutes a
+breach of Indigenous customary law, however, this infringement
+is not currently
+actionable under Australian law. Indigenous artists seeking to protect ICIP
+through legal action will have to consider
+pathways that already exist under
+Australian IP regimes. The following sections will consider the conceptual
+difficulties that may
+arise when relying on IP for ICIP protection, before
+evaluating the effectiveness of potential options under the
+A Tensions between ICIP and IP
+ICIP and IP contain vastly different conceptual foundations. Anglo-Australian
+approaches to IP are rooted in ‘possessive
+individualism’,
+notion that an individual is the ‘proprietor of his own person or
+capacities, owing nothing to society for
+typically assume that intellectual assets can be attributed to an
+individual’s particular creative act, at a given
+and seek to incentivise
+such acts of creative production without stifling long-term innovation. As such,
+they tend to equip right-holders
+with an exclusive entitlement to use and
+exploit their assets, but for a limited duration of time. While intended to
+promote the
+growth of human knowledge, the individualistic and temporally
+limited nature of IP conflicts with Indigenous understandings of knowledge
+‘part of a continuing relationship between people and their
+heritage’. IP regimes are thus often considered inadequate
+comprehensively protecting ICIP and can risk marginalising Indigenous interests
+‘in such ways that alienate Indigenous groups
+from their own
+knowledge’.
+The dissonances between IP and ICIP can be further elucidated through a
+consideration of GenAI and its conceptualisation of data.
+GenAI has a
+complicated relationship to data. On one hand, data is indisputably essential to
+the existence and development of GenAI:
+‘Industry experts agree, data is a
+fuel in the AI industry, and its importance in developing successful AI modules
+overstated.’
+the other hand, GenAI’s reliance on pre-existing material impacts its
+claim to originality: ‘while the output of generative
+AI is new, it is
+also an imitation of humanmade works based on the millions of samples it is
+trained upon’.
+foundations in collectiveness and continuity, ICIP offers a strong, albeit
+rather ironic, conceptual framework for acknowledging
+the communal contributions
+provided by training data. In contrast, IP’s orientation towards
+individuality struggles to accommodate
+competing claims on a particular work.
+One strategy employed by GenAI commentators to overcome this struggle is to
+appeal to naturalistic
+For Petro Domingo, the use of data in training can be likened to
+nature turns seeds into crops, programs are ‘grow[n]’ rather than
+written. Inherent to Domingo’s metaphor
+is a construction of data as an
+earthly resource where, per Eric Drott, ‘training data is positioned as
+the soil that nourishes
+programs and that encourages their
+In analogising
+data as a facilitator, rather than fruit of, creative labour, naturalistic
+metaphors validate the exploitation of
+existing data, and minimise its authorial
+contribution to outputs. Similar associations appear in the term ‘data
+For Celia F Matias, the affinity between data and unrealised
+natural resources insinuates that ‘to some extent, data are free
+Her interpretation
+resonates with the view within Big Tech that ‘the value of data lies not
+in the data itself but in the extraction
+of value from
+The use of naturalistic language may be effective in aligning GenAI with IP,
+however, its relationship to ICIP appears more sinister.
+Where Domingo’s
+metaphor situates humans as farmers, Indigenous informed perspectives
+contextualise colonial farming in the
+context of environmental degradation:
+‘humans are being farmed by generative AI writing tools; this metaphor is
+particularly
+apt given how white man’s farming methods have homogenised,
+denatured and exhausted ecosystems, soils and waterways in Australia
+Moreover, the
+language of extraction corresponds with Peter Drahos description of Australian
+IP legislation as an ‘extractive
+that is, a system
+which ‘allow[s] one group (the extractor group) to obtain control of
+assets belonging to a second
+compensation or consent. Overall, an interrogation of the linguistics of GenAI
+is helpful in exposing IP’s shortcomings
+– both in its ability to
+uphold ICIP and to conceptualise GenAI more broadly. Despite these limitations,
+Australian IP law
+does offer some viable pathways which can be applied to
+protect Indigenous art. The following will consider two such avenues –
+B Copyright
+reproduced in particular ways, without permission from
+the owner. In Australia,
+‘reproduce the work in
+a material form’, ‘publish the
+work’ and ‘communicate the work to the
+These rights are
+automatic and do not require registration to be enforceable. Where a work, or a
+‘substantial part’
+of a work, is used in contravention of the
+, infringement
+occurs. Copyright infringers can be held liable to a series of civil remedies
+including damages, account of profits
+and injunctions. If use of artworks by
+GenAI constitutes copyright infringement, artists may have legitimate and
+effective pathways
+to protect ICIP.
+Evaluating the efficacy of copyright as a means of protecting Indigenous
+artworks in the context of GenAI involves two questions:
+first, whether artworks
+are covered by copyright protection, and second, whether the use of artworks in
+GenAI systems constitutes
+a breach of copyright. These will be considered in
+1 Are Artworks Copyright?
+There are certain requirements and limitations that determine whether a work
+is protected by copyright in Australia. Of particular
+relevance to Indigenous
+artworks are the requirements of ‘originality’ and
+‘materiality’.
+Regarding the first, copyright protects ‘original’ works produced
+through ‘independent intellectual
+Since a mere copy
+of an existing artwork will not meet the originality requirement, Indigenous art
+which replicates existing material
+very closely may not be protected.
+Nevertheless, works do not have to be entirely novel. Indigenous artworks that
+recreate existing
+traditional imagery whilst expressing an independent artistic
+sensibility will satisfy
+originality.
+Regarding the
+second, copyright protects the material expressions of ideas, not an idea
+itself, and works must have a material form.
+While a particular artwork may be
+covered by copyright, the ideas and styles which underpin it are
+Fake Indigenous art which
+uses generalised aesthetics associated with Indigenous culture is unlikely to
+infringe copyright unless
+it directly copies a particular copyright artwork. In
+addition to these requirements, copyright is limited by time and only lasts
+the duration of the creator’s life plus 70
+Works made outside this
+temporal scope are not covered by copyright and can be copied without infringing
+the act. Since Indigenous
+artworks remain culturally significant throughout
+time, this limitation is arguably the most detrimental to ICIP. Despite these
+constrains,
+cases such as
+Milpurrurru
+demonstrate that copyright can be
+successfully applied to Indigenous artworks. Copyright law is thus a potentially
+useful pathway
+for protecting Indigenous artist rights.
+2 Does GenAI’s Use of Artwork Constitute
+Infringement?
+It is generally acknowledged that GenAI developers use copyrighted material
+when training modules. OpenAI, for example, has confirmed
+that its training
+processes utilise datasets that include copyrighted material, albeit those that
+are freely available.
+it remains uncertain whether the utilisation of these materials in GenAI
+training involves ‘reproduction’ as
+understood by the
+Rita Matulionyte identifies two stages where GenAI training is likely to
+involve reproduction.
+compilation of materials into data sets involves a lasting duplication of works.
+The LAION 5b data set used to train the
+Stable Diffusion algorithm, for example,
+is a collection of almost six billion images scraped from the
+The compilation of
+fair dealing exception, such as for
+research and study. However, since these
+coverage under
+fair dealing is
+Second, GenAI
+typically requires multiple temporary copies of data to be made to facilitate
+its training. Temporary copies are permitted
+in some circumstances, such as
+where it forms ‘a part of the technical process of making or receiving a
+communication’
+‘if the reproduction is incidentally made as a necessary part of a
+technical process of using a copy of the
+Nevertheless, per
+Matulionyte, these exceptions were not designed to cover copies incurred during
+AI training and are unlikely to
+apply. Moreover, temporary exceptions only apply
+if the initial copy is legitimate. If the compilation of datasets constitutes
+infringement, temporary copying of its content will not be covered by
+exceptions.
+Matulionyte identifies a further two stages where infringement might occur
+post-training, through user
+engagement.
+First, in the input
+stage. As users write prompts, they can independently submit copyrighted works,
+including images, for GenAI to
+use in its response. For example, a user might
+input an image and ask GenAI to describe what it looks like. Second, in the
+While GenAI
+programs are typically designed to produce ‘original’ outputs which
+are distinct from its training data,
+it is possible that outputs will generate
+content that substantively resembles copyrighted material. This might occur if a
+user prompts
+GenAI to recreate works of a particular artist or requests that a
+specific artwork be substantively remade with minor stylistic changes.
+reproduce, copyright law has limited utility
+for preventing infringements by
+users and user prompts. Nevertheless, where reproductions do occur,
+right-holders may be able to
+seek relief on a case-by-case basis, using existing
+by Matulionyte, it will likely constitute copyright infringement. As such,
+artists may have effective pathways to pursue legal action
+under copyright law.
+B Moral Rights
+An alternative source of protection under the
+recognition of moral rights. Moral rights are personal rights which entitle
+creators to be properly attributed to their work,
+and to object to their
+work’s derogatory treatment. They were introduced in Australia in 2000 and
+were intended as a ‘recognition
+of the importance to Australian culture of
+literary, artistic, musical and dramatic works and of those who create
+Moral rights
+contain similar limitations as copyright – namely, the same
+‘originality’ and ‘materiality’
+requirements,
+and temporal
+confines apply.
+However, unlike
+date of the right’s expiry.
+contains three moral rights. First, the right to
+attribution, that is ‘the right to be identified, in a clear and
+prominent manner, as the author of a work if an attributable act is
+done with respect to the
+Attributable acts
+include reproduction of a work in a material
+Second, the right not to
+be falsely attributed,
+the right to prevent others from being credited for their work. Third, the right
+of integrity, that is, the right ‘not
+to have the work subjected to
+derogatory treatment’.
+addition to these rights, the
+also includes broad
+exceptions to moral rights infringements. Significantly, the reasonable use
+defence precludes infringements from
+being found in cases that were
+‘reasonable’, based on a series of
+As moral rights are a relatively recent addition to Australian IP
+legislation, there is limited caselaw on their application in general,
+in relation to GenAI. Nevertheless, Matulionyte argues that the use of
+artists’ work in GenAI training is likely
+to establish prima facie cases
+of infringement of the right to attribution and right to integrity.
+The following will consider her
+analysis in the context of Indigenous art.
+1 Right of Attribution
+Per Matulionyte, establishing a prima facie infringement of the right of
+attribution is relatively
+straightforward.
+This is because
+AI developers do not typically disclose the contents of datasets used, and
+creators of training data are not usually
+identified in any accessible way.
+Since the creation of datasets includes the reproduction of works, and
+reproduction is an ‘attributable
+act’, the failure to disclose
+authors will likely constitute infringement.
+2 Right of Integrity
+The relationship between GenAI and the right of integrity is more complex.
+For infringement to be established, the use of works in
+GenAI systems must
+amount to derogatory treatment. Derogatory treatment can be established through
+a number of ways, including ‘the
+doing of anything else in relation to the
+work that is prejudicial to the author’s reputation or
+This description
+is broad in scope and is intended to ‘address those instances where a work
+is used in an inappropriate context
+and prejudices the author’s honour or
+reputation,’
+unauthorised use of Indigenous art in GenAI training constitutes a breach of
+customary law, it is likely that inappropriate
+context could be established.
+However, whether this constitutes prejudice to an artist’s reputation or
+honour will depend on
+judicial interpretation.
+Boomerang Investments Pty Ltd v
+Perram J provided
+that the phrase ‘honour or reputation’
+section 195AJ
+‘involves two distinct concepts and it is
+not a composite expression’. His honour further provided that reputation
+honour should be determined objectively and subjectively,
+respectively.
+Perram J did not
+consider ‘reputation’ in detail, however, a common definition of
+‘reputation’ defines the
+term as ‘the condition, quality, or
+fact of being highly regarded or esteemed; credit, fame, distinction;
+respectability, good
+Considering that
+Indigenous artists may be subjected to significant adverse treatment and
+condemnation if their artwork is misappropriated,
+there is a strong intuitive
+argument that misuse of artworks by GenAI could establish objective prejudice to
+reputation. Where this
+is insufficient, subjective prejudice to honour, or a
+‘personally held set of high-minded
+principles’
+as described
+by Perram J, is also available. The unauthorised use of Indigenous art for
+inappropriate purposes is often antithetical
+to an artist’s cultural
+obligations and personal relationships with heritage, and thus would likely
+impact subjective feelings
+of honour. Overall, considering the significant
+extent of harm that GenAI’s use of art poses to Indigenous artists, it is
+that a breach to the right to integrity could be established.
+3 Reasonable Use Defence
+Prime facie infringements of the right to attribution and right to integrity
+will be set aside if they were found to be
+reasonable.
+Reasonableness is
+determined based on a variety of factors including the nature and purpose of the
+work, the manner and context in
+which a work is used, and any relevant industry
+practise, or voluntary codes of practices, in the industry in which the work was
+Matulionyte argues that
+infringements of the right to attribution in GenAI training would likely be
+deemed reasonable. This is because
+when systems use billions of works scraped
+from the internet, attribution to all authors is not
+As such, the right to
+attribution will have limited utility for Indigenous artists. By contrast, the
+relationship between infringement
+to the right of integrity and reasonableness
+has more scope for discussion. On one hand, it is standard industry practice to
+works without seeking the consent of artists. On the other hand, considering
+the significant degree of harm that is associated with
+the misappropriation of
+Indigenous art, Indigenous artists might still find protection through moral
+C Prospect of Legislative Change
+Overall, and despite the conceptual differences between IP and ICIP,
+Australian copyright and moral rights offer promising pathways
+for Indigenous
+artists seeking to protect their art from misappropriation. However, it should
+be noted that Australia contrasts with
+other jurisdictions, which have more
+applicable copyright exceptions. The United Kingdom, European Union and Japan,
+have all introduced
+legislation that excuses text and data mining
+specifically.
+While the United
+States does not have a TDM exception, their fair use doctrine is broad and will
+likely be invoked by AI developers
+in copyright
+Considering the
+increasing domination of GenAI in society, and the overriding intention of IP
+law to encourage innovation, the introduction
+of change and reform to Australian
+law is inevitable. As the law responds to changes in AI, care should be taken to
+preserve, improve,
+and create new legal pathways for protecting ICIP.
+V CONCLUSION
+This article has considered the complex relationships between law,
+technology, and art that lie at the centre of creative GenAI. Initially
+by the lack of scholarly attention on Indigenous style GenAI and its
+implications for artists, it has sought to provide
+broader insight into the ways
+in which IP and ICIP conceive of, and respond to, creative work. Although
+Indigenous peoples are likely
+to be uniquely impacted by GenAI, their central
+concerns with consent, respect, and proper attribution are universally relevant.
+As Australian lawmakers grapple with the challenges of GenAI on IP, guidance for
+reform can be found in the established principles
+and procedures of ICIP.
+See English Oxford Living
+Dictionary (online at 16 July 2025) ‘artificial intelligence’.
+Some prominent types of GenAI
+modelling relevant to visual content are Generative Adversarial Networks
+(‘GANS’), Recurrent
+Neural Networks (‘RNNs’), and
+Diffusion Models.
+Celeste Shen, ‘Fair Use,
+Licensing, and Authors’ Rights in the Age of Generative AI’
+Northwestern Journal of Technology and Intellectual
+The differentiation between
+‘creative’ and ‘non-creative’ is drawn from Rita
+Matulionyte, ‘Generative
+AI and Copyright: Exception, Compensation or
+Intellectual Property Forum
+(‘Generative AI and Copyright’). A similar distinction between
+‘expressive’ and ‘non-expressive’
+works is raised in
+Shira Perlmutter, ‘Art and Authorship: From Warhol to the Creativity
+(2023) 34(1)
+Australian Intellectual Property
+, 15. Both sources inform the description in this article.
+See Dutch Digital Design,
+‘The Next Rembrandt: Bringing the Old Master Back to Life’,
+(Web Page, 24 January 2018)
+<https://medium.com/@DutchDigital/the-next-rembrandt-bringing-the-old-master-back-to-life-35dfb1653597>.
+See Reishiro Kawakami and
+Sukrit Venkatagiri, ‘The Impact of Generative AI on Artists’
+(Conference Paper, Conference
+on Creativity and Cognition, 23 June 2024), 79.
+Insights can also be drawn from Isabella Alexander, Pat Grant, Genevieve
+and Evana Wright, ‘Sketching Moral Rights’
+(2024) 23(1)
+Australian Intellectual Property Journal
+See eg, Sohani
+Goonetillake, ‘Why the AI-generated “Studio-Ghibli” Trend is
+So Controversial’
+(online, 3 April 2025)
+<https://www.abc.net.au/news/2025-04-03/the-controversial-chatgpt-studio-ghibli-trend-explained/105125570>.
+Terri Janke,
+‘Managing Indigenous Knowledge and Indigenous Cultural and Intellectual
+(2005) 36(2)
+Australian Academic and Research
+, 96 (‘Managing Indigenous Knowledge and Indigenous
+Cultural and Intellectual Property’).
+Terri Janke,
+Tracks: Respecting Indigenous Knowledge and Culture
+Publishing, 2021) 23 (‘
+True Tracks
+See ‘Aboriginal Art
+Still in Style After 60,000 Years’,
+Artlandish Aboriginal Art
+<https://www.aboriginal-art-australia.com/aboriginal-art-library/aboriginal-art-styles/?srsltid=AfmBOoqcNIn-MJzdIfeVqMI8N52OIti9rSS3cIVvZwJlsKgbUtecSvpYtran>.
+Marie Hadley and Clara
+Klemski, ‘Art Law and Policy in Australia and the Appropriation of
+Aboriginal and Torres Strait Islander
+Art Styles’
+(2022) 25(1)
+Media and Arts Law Review
+Janke, ‘Managing
+Indigenous Knowledge and Indigenous Cultural and Intellectual Property’ (n
+Emma Fitch et al,
+‘The New Frontier: Artificial Intelligence, Copyright and Indigenous
+Terri Janke and Company
+(Blog Post, 30 November 2023)
+<https://www.terrijanke.com.au/post/the-new-frontier-artificial-intelligence-copyright-and-indigenous-culture>.
+Hadley and Klemski (n 14)
+Bulun Bulun v R & T
+Textiles Pty Ltd
+[1998] FCA 1082
+(1998) 86 FCR 244
+Bulun Bulun
+Hadley and Klemski (n 14)
+Bulun Bulun
+Of course, pursuing legal
+action in an Australian court will not necessarily be relevant for customary
+law. The significance of
+court proceedings on customary obligations will depend
+on the customary laws which are impacted, and the methods for regulating
+[1994] FCA 975
+(1994) 54 FCR 240
+Milpurrurru
+[1991] FCA 332
+(1991) 21 IPR 481.
+See eg OpenAI safety
+practices ‘Open AI Safety Update’
+(Web Page, 21 May
+2024) < https://openai.com/index/openai-safety-update/>.
+Efficacy is impacted by
+algorithmic limitations or ‘jailbreaking’ (when limitations are
+removed) see Fiona Fui-Hoon
+Nah et al, ‘Generative AI and ChatGPT:
+Applications, Challenges, and AI-Human Collaboration’ (2023) 25
+Journal of Information Technology Case and Application
+However, there is growing
+awareness of the risks of AI for ICIP in discussions around AI guardrails. See
+eg Australian Government
+Department of Industry, Science and Resources,
+‘Safe and Responsible AI in Australia: Proposals Paper for Introducing
+Guardrails for AI in High-Risk Settings’ (Proposals Paper, 5
+September 2024)
+<https://storage.googleapis.com/converlens-au-industry/industry/p/prj2f6f02ebfe6a8190c7bdc/page/proposals_paper_for_introducing_mandatory_guardrails_for_ai_in_high_risk_settings.pdf>.
+See Josh Butler,
+‘Unofficial Indigenous Voice No Campaigner Defends use of AI-generated Ads
+on Facebook’
+The Guardian
+(online article, 7 August 2023)
+<https://www.theguardian.com/australia-news/2023/aug/07/indigenous-voice-to-parliament-no-campaign-ai-facebook-ads>.
+See Pat McGrath, Michael
+Workman and Kevin Nguyen, ‘Aboriginal Artist’s Painting Being Used
+to Spread False Claims about
+Voice to Parliament Referendum’
+(online, 20 July 2023)
+<https://www.abc.net.au/news/2023-07-20/voice-to-parliament-misinformation-flyers/102621334>.
+Julian Dodd, ‘Style
+Appropriation, Intimacy, and Expressiveness’ (2021) 761(3)
+Journal of Aesthetics
+Hadley and Klemski (n 14)
+Milpurrurru
+Australian Government
+Productivity Commission, ‘Aboriginal and Torres Strait Islander Visual
+Arts and Crafts’ (Study
+Report, 13 December 2022) 2.
+Ibid. See also Colin Golvan
+‘Aboriginal Art and the Protection of Indigenous Cultural Rights’
+[1992] AboriginalLawB 26
+(1992) 1(56)
+Aboriginal Law Bulletin
+Australian Government
+Productivity Commission (n 40).
+Eric Drott,
+‘Copyright, Compensation, and Commons in the Music AI Industry’
+(2021) 14(2)
+Creative Industries Journal
+C B Macpherson,
+Political Theory of Possessive Individualism (Hobbes to Locke)
+University Press, 1962) 3.
+See Michael
+Intellectual Property
+(Oxford University Press, 2007)
+True Tracks
+(n 12) 261.
+Rita Matulionyte,
+‘Can AI Infringe Moral Rights of Authors and Should We Do Anything about
+It? An Australian Perspective’
+(2023) 15(1)
+Law, Innovation and
+129 (‘Can AI Infringe Moral Rights of
+Shen (n 3) 161.
+Pedro Domingos, ‘A
+Few Useful Things to Know about Machine Learning’ (2012) 55
+Association
+for Computing Machinery
+Drott (n 46) 199.
+Célia F Matias,
+‘Generative AI, Copyright and Emancipation: The Case of Digital Art’
+(2024) 6(3)
+Law, Technology and Humans
+Saliltorn Thongmeensuk,
+‘Rethinking Copyright Exceptions in the Era of Generative AI: Balancing
+Innovation and Intellectual
+Property Protection’
+Journal of World Intellectual Property
+Lucinda McKnight and Cara
+Shipp, ‘“Just a Tool”? Troubling Language and Power in
+Generative AI Writing’
+(2024) 23(1)
+English Teaching: Practice and
+Intellectual Property, Indigenous People and Their
+(Cambridge University Press, 2014) 1.
+s 31(1)(b).
+Mary Wyburn,
+‘Protecting the Works of Indigenous Artists under Copyright Law and at Its
+(2012) 86(12)
+Australian Law Journal
+IceTV Pty Ltd v Nine
+Network Australia Pty Ltd
+[2009] HCA 14
+(2009) 239 CLR 458.
+Milpurrurru
+Wyburn (n 61) 832.
+Section 33.
+‘Comment Regarding
+Request for Comments on Intellectual Property Protection for Artificial
+Intelligence Innovation Docket
+No. PTO–C–2019–0038’
+(Request for Comments, 2019) cited in Thongmeensuk (n 55) 281.
+Matulionyte,
+‘Generative AI and Copyright’ (n 4).
+Christoph Schuhmann et al,
+LAION-5B: An Open Large-Scale Dataset for Training Next Generation Image-Text
+Models (Conference Paper,
+Conference on Neural Information Processing Systems,
+28 November 2022) <https://doi.org/10.48550/arXiv.2210.08402>.
+Ibid s 43 B.
+Matulionyte,
+‘Generative AI and Copyright’ (n 4).
+Commonwealth, Parliamentary
+Debates, House of Representatives, 8 December 1999, 13026 (Daryl Williams,
+Attorney-General) cited in
+Alexander et al (n 6) 5.
+Ibid s 195AM.
+Ibid s 193.
+Ibid s 194.
+Ibid s 195AC.
+Ibid s 195AI.
+Ibid ss 195AR,
+Matulionyte, ‘Can AI
+Infringe Moral Rights of Authors’ (n 50).
+(Moral Rights) Bill 1999
+Revised Explanatory Memorandum [44]–[46]
+Cited in Ibid 133.
+[2020] FCA 535
+(2020) 383 ALR 202
+Boomerang Investments
+Ibid [400].
+Oxford English Dictionary
+(online at 16 July 2025) ‘reputation’.
+Investments
+(n 87) 286 [400].
+ss 195AR, 195AS.
+Matulionyte, ‘Can AI
+Infringe Moral Rights of Authors’ (n 50) 137.
+See Matias (n 54) 126.
+Print (pretty)
+Print (eco-friendly)
+RTF format (268 KB)
+PDF format (322 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

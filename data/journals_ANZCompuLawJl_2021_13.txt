@@ -1,0 +1,451 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/ANZCompuLawJl/2021/13.html
+Scraped: 2025-11-17 14:13:45
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Paterson, Jeannie; Bush, Gabby; Miller, Tim --- "Transparency to contest differential pricing" [2021] ANZCompuLawJl 13; (2021) 93 Computers & Law 49
+Transparency to contest differential pricing
+Introduction
+The harms of differential pricing
+Transparency to contest
+differential pricing
+Jeannie Paterson, Gabby Bush, and Tim Miller
+November 2020
+Introduction
+Technical developments in data collection, storage and analytics have
+provided firms with new opportunities for reaching
+Firms may now target
+adverts to individual consumers based on predicted preferences derived from
+their digital profile.
+predictive analytics that enable targeted advertising also open the possibility
+of differential or discriminatory pricing deployed
+against individual consumers.
+Firms are able to use algorithms to individualise price offerings to consumers,
+and to vary pricing
+strategies in a short period of time in response to
+information about consumers’ responses to the advertising sent to
+There are a number of
+potential harms to consumers in differential pricing, including the impairing
+consumer choice, and also discrimination
+and inequitable or unfair treatment.
+Although many consumers are yielding personal data that fuels these processes,
+it is not clear
+that they understand the consequences of such uses. Further, the
+incidence of differential pricing is difficult to discover. Such
+conduct runs
+counter to the common emphasis in formulations of standards for ethics in the
+use of artificial intelligence, which
+emphasise transparency and opportunities
+to contest adverse decisions.
+This article considers the harms to consumers occasioned by differential
+pricing and legal strategies for promoting greater transparency,
+provides a pathway to contestability. It does this by particular reference to
+the recent revelation of differential pricing
+strategies used by dating app
+Data driven differential pricing
+Differential pricing allows firms to vary the price of goods or services for
+different individuals or groups of
+Differential pricing is
+made possible by the large amounts of information gathered when consumers sign
+up for a service, such as
+name, gender, location, interests, as well as data
+derived from consumers’ browsing, purchase and download
+Firms use this data to
+distinguish consumers between according to their predicted price
+sensitivity.
+Firms can then offer
+products to consumers at prices that accord with these predictions and also
+steer consumers to more highly priced
+Differential pricing can be difficult to
+precisely because each
+consumer will be given a different price, and will not see what others are
+An example in Australia
+has nonetheless come from the consumer advocacy group
+In August 2020, Choice
+published a study finding that Tinder was charging different prices to different
+users for its premium service
+Users over the age of 30
+were charged double those under 30, and prices also varied greatly even within
+age brackets. Furthermore,
+prices differed as between consumers in regional
+areas as compared to urban areas, people who were queer or with non-binary
+identities. The pricing difference for the premium
+services suggests Tinder’s algorithm sets the pricing tailored to
+each individual
+user based upon predictions about how much they are willing to
+pay. It is likely that this differential pricing is a central part
+a business model. Tinder offers no explanation for the prices quoted to users
+and hence consumers are unlikely to be aware of
+the differences. Indeed, it may
+be that remaining taboos surrounding online dating disincentivise consumers from
+disclosing their
+payment habits. This makes it easier for Tinder to offer
+algorithmically generated prices without explanation.
+A recent survey by Choice found that generally consumers do not think
+differential pricing is fair, but this depends somewhat on the
+basis of the
+difference:
+• ‘14% say it's fair to charge higher earners more than lower
+income earners’
+• ‘13% say it's fair to charge people living in wealthier areas
+more than those in less wealthy areas’;
+• the majority of consumers ‘believe these practices are unfair
+(74% and 77%, respectively)’; and
+• ‘about a quarter of Australians (26%) would be happy to pay a
+different price based on the use of personal information
+if the pricing benefits
+The harms of differential pricing
+We suggest that there are a number of possible harms arising from
+differential pricing. Such conduct may decrease overall consumer
+welfare through
+consumers paying too much for a
+Of course consumers can
+always choose not to buy a product or can hunt around for alternatives. The
+problem is that consumers may
+not realise that a range of possible prices are
+being made available for any particular product and this may distort their
+to what is a good price for that product.
+There are some ethical objections to differential pricing as well, arising
+from the unequal, and potentially unfair, treatment of
+consumers. As the Choice
+survey suggests, some people may not object to well-off consumers being charged
+more for certain goods and
+services, as may be the philosophy informing
+Tinder’s charging older consumer more than younger ones. This approach to
+differential
+pricing may then benefit consumers who are not as financially
+capable of paying, therefore prioritising the interests of groups such
+students, retirees and those from lower socio-economic demographics. However,
+the selection of who can pay may more be inaccurate
+because attributes such as
+age and location are, at best, crude approximations of wealth.
+Differential pricing also work against the interests of already disadvantaged
+consumers. For example, firms might use profiling to
+charge higher prices to
+low-income consumers either to discourage them as customers or as a form of
+insurance against credit and
+performance risks perceived to attach to specific
+groups of customers.
+addition, differential pricing might to discriminate against certain consumers
+on the basis of protected attributes such as age,
+gender or race, which is bias
+that can also be perpetuated by the
+algorithms.
+The data the
+algorithm uses to learn is based on consumer preference. If
+people prefer faces of those with the same colour skin
+them, the matching algorithms will learn to segregate users based
+on colour. Discrimination law prohibits discrimination based on
+attributes such as sex, race, disability, age, sexuality, gender identity,
+parental and carer responsibilities, and political
+or religious
+Choice quotes an
+anti-discrimination specialist who says that Tinder’s
+differential pricing that burdens older users would
+unlawful age discrimination.
+As a society we may not think it is fair for firms to treat consumers who are
+less well-off differently from those who are better
+off. Even where differential
+pricing is justified there is the problem of consumers being placed in the wrong
+pricing category for
+their own circumstances. However, because the differential
+pricing practice are so opaque, it will be difficult for consumers and
+regulators to contest cases involving unlawful discrimination or error, and for
+policymakers to assess the extent of the associated
+harm. Thus, the first step
+in allowing differential pricing strategies to be contestable is to seek greater
+transparency.
+Responses to consumer protection in differential pricing
+Firms might consider that it is in their interests to be transparent to
+consumers about their use of differential
+This could be seen as a
+way of building trust with consumers and supporting a good reputation for fair
+dealing in the market. But
+we think these issues are too important to be left to
+the discretion of individual firms. We suggest more emphasis should be placed
+legal mechanisms for promoting greater transparency in differential pricing,
+including through prohibitions on misleading conduct,
+direct disclosure requirements.
+Prohibitions on misleading conduct
+One key response to the use of differential pricing is in the prohibition on
+misleading conduct in s 18 of the
+Australian Consumer
+For example,
+advertising a best price guarantee for a product may be misleading if different
+consumers are, for no good reason, presented
+with different prices but not the
+best price. Earlier this year, the Federal Court found travel
+site Trivago
+engaged in misleading conduct when
+its algorithm recommended hotel rooms based on who
+paid the most for ad clicks, not on the
+price available.
+The prohibition on misleading conduct does not only apply to positive
+misrepresentations. Omissions and silence can also mislead.
+This will be the
+case if other conduct has created a misleading impression or, in the context,
+consumers have a reasonable expectation
+of disclosure of key
+information.
+Thus, a website
+that implicitly creates an expectation of equal prices for all consumers may be
+misleading if it fails to disclose
+the reality of differential pricing. Tinder's
+inform the range of prices available to customers. It is not clear whether
+its website creates an expectation of equal pricing but
+the fact the Tinder Plus
+service does not distinguish between different categories of users might suggest
+this to be the case. Research
+has shown that the three primary concerns of users
+of online dating apps are ‘personal security, misrepresentation and
+recognition’,
+however these concerns directly relate to how their
+potential date and themselves are presented and recognised, not how the platform
+represents the service.
+concerns are internalised, allowing for misrepresentation on the platform to go
+Data rights and consent
+A second method for improving the transparency of differential pricing is
+through strong requirements for consumers to have provided
+informed consent to
+such uses of their personal data. The ‘price’ for consumers
+obtaining access to digital services
+is commonly foregoing control of their
+data. In many contexts in Australia, consumers are not required in law expressly
+to these practices. Under the
+(Cth) entities
+do not need to seek consent to collect personal information where it is
+‘reasonably necessary for one or more
+of the entity’s functions or
+activities’.
+suggests that data collection about a consumer web browsing activities might be
+reasonably necessary for a digital platform
+to perform its advertising
+Similarly, firms
+providing a service may be entitled to use that information to tailor both the
+service and the price.
+Firms collecting and repurposing data must have a privacy policy disclosing
+how personal information is collected, held and
+However, the ACCC’s
+review of privacy statements on targeted advertising provided by digital
+platforms found them unclear and
+We know from other
+circumstances that consumers struggle to read the disclosure statements
+associated with financial
+are confused by
+contract boilerplate
+hope to read the terms of online retailers to know their rights to
+They are unlikely to do
+better with privacy policies.
+Digital Platforms Inquiry Report
+made recommendations for the
+reform of the
+(Cth) to provide more robust mechanisms
+for ensuring consumer consent to data collection and processing
+These reforms would
+provide consumers with the opportunity to refuse to consent to the use of their
+data for differential pricing
+and other forms of targeted marketing. But this
+right is hollow is consumers do not really understand the extent of the
+in question.
+raises the role of warnings.
+A third strategy for increasing transparency around differential pricing is
+through a requirement for firms to provide a warning notice
+when they use
+differential pricing.
+efficacy of mandatory disclosure as a central strategy of consumer protection
+has been challenged in a number
+In particular, disquiet
+with disclosure as a policy strategy has arisen insights from behavioural
+economics, which identify the limits
+on the capacity of consumers to act
+rationally, even when provided with sufficient
+information.
+Nonetheless, we
+know that concise, targeted information is generally a more effective way of
+communicating with individuals than
+generalised high volume
+information.
+Some consumers may
+be happy to accept differential pricing. Nonetheless, a mandatory stark warning
+when differential pricing is being
+used may be sufficient to prompt consumers
+actively to compare prices from different sources, or to seek out other
+consumers to compare
+prices, as well as reflecting on the value of enhancing
+We may have differing views on online dating apps and the ethics of charging
+different prices to various categories of people. However,
+consumers should be
+able to make choices about whether they proceed with a transaction based on
+differential pricing and to contest
+algorithmically informed decisions that are
+based on inaccurate or discriminatory categorisations. For these rights to be
+there needs to be transparency around the pricing practices.
+Substantive fairness protections may also be needed. However, measures
+to promote transparency are a first step in informing and protecting online
+Centre for AI and Digital
+See generally Australian
+Competition and Consumer Commission,
+Digital Platforms Inquiry
+Report, June
+2019) Ch 7.
+See Ryan Calo, ‘Digital
+Market Manipulation’
+(2014) 82(4)
+George Washington Law Review
+1003-4; Stuart A Thompson, ‘These Ads Think They Know You’,
+New York Times
+(30 April 2019)
+https://www.nytimes.com/interactive/2019/04/30/opinion/privacy-targeted-advertising.html?mtrref=www.google.com&gwh=BC5DDB91D5483424EFDB04440D2D8F14&gwt=pay
+Frederik Zuiderveen Borgesius
+and Joost Poort, ‘Online Price Discrimination and EU Data Privacy
+(2017) 40(3)
+Journal of Consumer Policy
+, 351; Maurice E
+Stucke and Ariel Ezrachi, ‘How Digital Assistants Can Harm Our Economy,
+(2017) 32(3)
+Berkeley Technology Law
+A Jobin, M Ienca, & E
+Vayena, ‘The global landscape of AI ethics guidelines’ (2019) 1(9)
+Nature Machine Intelligence
+Additionally, note that Tinder
+has recently been criticised for its lack of response to sexual assault:
+https://www.abc.net.au/news/2020-10-12/tinder-dating-app-helps-sexual-predators-hide-four-corners/12722732?nw=0.
+Silvia Merler, ‘Big Data
+and First-Degree Price Discrimination’,
+(Blog Post, 20
+February 2017)
+http://bruegel.org/2017/02/big-data-and-first-degree-price-discrimination
+Digital Platforms Inquiry (n 1)
+Borgesius and Poort (n 3)
+Digital Platforms Inquiry (n
+See also examples in
+Borgesius and Poort, (n 3) 350; See also Dana Mattioli, ‘On Orbitz, Mac
+Users Steered to Pricier Hotels’,
+The Wall Street Journal
+August 2012) <
+https://www.wsj.com/articles/SB10001424052702304458604577488822667325882
+Erin Turner, ‘Op-ed: Tinder's
+secret pricing shows how companies use our data against us’ Choice (11
+August 2020) <
+https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/tinder-plus-op-ed?gclid=Cj0KCQiAnb79BRDgARIsAOVbhRrgCaFQE3sAH3HIJ6hs2E4JAMkeKn0yjmB0XT-vj5yQPb9DEY9_MfAaAh9SEALw_wcB
+Saimi Jeong, ‘Tinder
+charges older people more’ Choice (11 August 2020)
+<https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/tinder-plus-costs-more-if-youre-older>.
+Saimi Jeong, ‘How
+Australians feel about different prices for the same goods’ Choice (5
+November 2020)
+<https://www.choice.com.au/money/budget/consumer-pulse/articles/differential-pricing-how-australians-feel-about-it
+Also Phuong Nguyen and Lauren Solomon,
+Consumer Data and the Digital Economy:
+Emerging Issues in Data Collection, Use and Sharing
+(Report, 2018) 34;
+Justus Haucap, Werner Reinartz, and Nico Wiegand, ‘When Customers Are
+— and Aren’t — OK
+with Personalized Prices’
+Business Review
+(31 May 2018)
+<https://hbr.org/2018/05/when-customers-are-and-arent-ok-with-personalized-prices>.
+See Borgesius and Poort, (n
+3) 53; Gerhard Wagner and Horst Eidenmuller, ‘Down by Algorithms?
+Siphoning Rents, Exploiting Biases,
+and Shaping Preferences: Regulating the Dark
+Side of Personalised Transactions’
+(2019) 86(2)
+University of Chicago
+Kevin Smith,
+‘Organizations Petition State to Ban Job, Education Criteria When Setting
+Auto Insurance Rates’,
+Los Angeles Daily News
+(22 February 2019)
+<https://www.dailynews.com/2019/02/22/organizations-petition-state-to-ban-job-education-criteria-when-setting-auto-insurance-rates/>.
+See eg Julia Angwin, Ariana
+Tobin and Madeleine Varner, ‘Facebook (Still) Letting Housing Advertisers
+Exclude Users by Race’,
+(21 November 2017)
+<https://www.propublica.org/article/facebook-advertising-discrimination-housing-race-sex-national-origin>.
+Discrimination Act 2004
+Disability Discrimination Act 1992
+Sex Discrimination Act 1984
+Racial Discrimination
+Jeong, (n12).
+But cf Tami Kim, Kate Barasz
+and Leslie K John, ‘Why Am I Seeing This Ad? The Effect of Ad Transparency
+on Ad Effectiveness’
+(2019) 45(5)
+Journal of Consumer Research
+Competition and Consumer
+(Cth) sch 2
+Trivago N.V. v
+Australian Competition and Consumer Commission
+[2020] FCAFC 185.
+Demagogue Pty Ltd v
+[1992] FCA 557
+(1992) 39 FCR 31
+Jennifer Gibbs, Nicole
+Ellison and Lai Chih-hui, ‘First Comes Love, Then Comes Google: An
+Investigation of Uncertainty Reduction
+Strategies and Self-Disclosure in Online
+Dating’ (2011) 38(1)
+Communication Research
+(Cth) sch 1 (
+Australian Privacy Principles
+Digital Platforms Inquiry (n
+Australian Privacy
+Principles (n 24)
+Digital Platforms Inquiry (n
+Australian Treasury,
+Financial System Inquiry
+(Final Report 2014) 193.
+Margaret Jane Radin,
+Boilerplate: The Fine Print, Vanishing Rights, and the Rule of Law
+(Princeton University Press, 2013).
+David Berreby, ‘Click
+to Agree With What? No One Reads Terms of Service, Studies Confirm’,
+The Guardian
+(4 March 2017)
+<https://www.theguardian.com/technology/2017/mar/03/terms-of-service-online-contracts-fine-print>.
+Digital Platforms Inquiry (n
+1) 34–5. These suggested reforms would bring Australian privacy law closer
+to the regime for data
+protection in the General Data Protection Regulation:
+Regulation (EU) 2016/679 of 27 April 2016 on the Protection of Natural Persons
+with Regard to the Processing of Personal Data and on the Free Movement of Such
+Data and repealing Directive 95/46/EC (General Data
+Protection Regulation)
+[2016] OJ L 119/1.
+Dennis D. Hirsch,
+‘From Individual Control to Social Protection: New Paradigms for Privacy
+Law in the Age of Predictive Analytics’
+Wagner and Eidenmuller (n
+14), 590; House of Lords (Select Committee on European Union),
+Platforms and the Digital Single Marke
+t, 2016, [291]
+<https://publications.parliament.uk/pa/ld201516/ldselect/ldeucom/129/129.pdf>.
+Geraint Howells, ‘The
+Potential and Limits of Consumer Empowerment by Information’
+(2005) 32(3)
+Journal of Law and Society
+See, eg, Russell Korobkin,
+‘Bounded Rationality, Standard Form Contracts, and
+Unconscionability’
+(2003) 70(4)
+University of Chicago Law Review
+See Anthony Duggan and Iain
+Ramsay, ‘Front-End Strategies for Improving Consumer Access to
+Justice’ in Michael Trebilcock,
+Anthony Duggan and Lorne Sossin (eds)
+Middle Income Access to Justice
+(University of Toronto Press, 2014)
+Print (pretty)
+Print (eco-friendly)
+RTF format (119 KB)
+PDF format (1.16 MB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

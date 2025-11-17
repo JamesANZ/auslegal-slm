@@ -1,0 +1,2085 @@
+Allied Pumps Pty Ltd v UON Pty Ltd [2025] APO 33 (7 October 2025)
+AUSTRALIAN PATENT OFFICE
+Allied Pumps
+Pty Ltd v UON Pty Ltd
+[2025] APO 33
+Patent Application: 2022271455
+Title: Control of submersible pumps powered via renewable energy
+Patent Applicant: UON Pty Ltd
+Opponent: Allied Pumps Pty Ltd
+Delegate: Neil Miller
+Decision Date: 7 October 2025
+Hearing Date: 12 February 2025, via Videoconference
+Catchwords:
+– Section 59 – opposition to grant of
+a patent – grounds of Novelty, Inventive Step – submersible pumps
+hybrid power system – renewable energy – selective
+engagement – variable speed device – setpoint control
+predetermined levels available power – claims are novel and inventive
+– opposition unsuccessful – costs
+Representation: Counsel for the applicant: Mr
+Andrew Fox SC
+Patent attorney for the applicant: Mr Barry Newman, Armour IP
+Patent attorney for the opponent: Mr Alistair Mann, Mann IP
+IP AUSTRALIA
+AUSTRALIAN PATENT OFFICE
+Patent Application: 2022271455
+Title: Control of submersible pumps powered via renewable energy
+Patent Applicant: UON Pty Ltd
+Date of Decision: 7 October 2025
+The opposition is unsuccessful. I consider the invention
+so far as claimed to be novel and to involve an inventive step.
+to appeal, I direct that the application proceeds to grant.
+I award costs according to Schedule 8 against Allied Pumps Pty Ltd.
+REASONS FOR DECISION
+patent application 2022271455 (“
+the application
+”) in the name
+of UON Pty Ltd (“
+the applicant
+”) was filed on 17 November
+2022. The application claims priority from Australian provisional application
+no 2021903705 with
+a priority date of 17 November 2021. The application was
+advertised as accepted on 16 March 2023.
+Pumps Pty Ltd (“
+the opponent
+”) filed a notice of opposition
+on 15 June 2023. A Statement of Grounds and Particulars (“the
+”) was subsequently filed on 15 September 2023. Evidence in
+”) was filed by the opponent on 15 December
+2023. The EIS consisted of a statutory declaration by Emlyn Williams dated 14
+2023 with supporting exhibits EW-A to EW-K (“
+applicant filed their Evidence in Answer (“
+”) on 18 March
+2024. The EIA consisted of:
+A declaration by
+Pavalan Jeeva dated 18 March 2024 accompanied by exhibits PJ-1 to PJ-13
+A declaration by
+James (Jim) Waterreus dated 15 March 2024 accompanied by exhibit JW-1
+in Reply (“
+”) was filed by the opponent on 17 May 2024.
+This evidence consisted of a further declaration by Emlyn Williams dated 17 May
+2024 with supporting exhibit EW-A. The filing of the EIR drew the formal
+evidentiary stages of the proceedings to a close.
+opponent filed a written summary of submissions (“
+written submissions
+”) on 29 January 2025. The applicant filed their
+written summary of submissions (“
+applicant’s written
+submissions
+”) on 5 February 2025.
+The invention as described
+paragraph [0001] of the specification, it is stated that the invention relates
+to submersible pumps used in dewatering applications
+within the mining industry.
+More specifically the invention relates to the powering of such pumps where some
+of the power provided
+to the pump is drawn from renewable energy sources. It is
+also acknowledged at paragraph [0001] that the invention may find application
+other industries such as the use of ground water in
+agriculture.
+information relating to the invention is then provided at paragraphs
+[0002]-[0011]. At paragraph [0002] the general process
+of dewatering in mining
+operations is outlined, notably a bore is drilled, a submersible pump inserted
+and water removed from the
+bore to lower the surrounding water table to allow
+mining operations to be conducted. Details of a type of submersible pump
+in such applications is then provided at paragraph [0003], these being
+centrifugal pumps driven by an AC induction motor or a synchronous
+motors used in such application may vary in power between 7.5kW and 500kW and
+may be operated at frequencies between
+30Hz and 60Hz.
+specification then discusses common arrangements for powering such pumps where
+mains power is unavailable. Such arrangements
+typically include the use of
+petrol or diesel-powered generators (i.e. generators that utilise a combustion
+engine to drive an alternator)
+to produce the necessary AC supply. At
+paragraphs [0005]-[0009] the specification discusses use of power systems which
+incorporate
+photovoltaic (PV) cells into their operations and the problems
+associated with such system as follows:
+Such systems are
+capable of operating under either full generator power or full PV power, but not
+both simultaneously;
+frequently incapable of providing an uninterruptable power supply;
+between full generator power or full PV power is often associated with a
+temporary suspension in pumping operations;
+insufficient, power generation by PV due to unfavourable atmospheric conditions.
+specification then states at paragraph [0009] that it is common during
+dewatering operations for such submersible pumps to maintain
+a desired setpoint.
+This has traditionally been achieved by the use of a Variable Speed Drive
+). The VSD receives a constant voltage, constant frequency
+alternating current (either from a fixed-speed generator or from an inverter
+connected to a PV system), and outputs an alternating current at a voltage and
+frequency required for the submersible pump to maintain
+its setpoint.
+Australian patent number 2021106106 is then referenced as an example of such
+pumping arrangements. The specification
+at paragraph [0010] references
+Australian patent number 2021107164, which describes the use of a controllable
+variable speed generator
+to power a submersible pump that negates the need for a
+summary of the invention is then provided at paragraphs [0012]-[0025]; the
+summary is primarily composed of a number of consistory
+statements which
+generally correspond with the language utilised in the claims. There then
+follows a brief description of the drawings.
+The specification then proceeds to
+discuss the preferred embodiments of the invention.
+1 (reproduced below) is a schematic diagram of a system for providing power to a
+submersible pump according to an embodiment
+of the present invention. As shown
+pump 12 is located in a water bore and is controlled to maintain a setpoint.
+The setpoint being
+taken from the set of bore level, water flow rate, or output
+water pressure. Power is supplied to the pump either by a variable
+generator 14 of the type described in Australian Patent application no.
+2021107164, or via a VSD 16. The power to the pump
+can be selectively switched
+between the variable speed generator and the VSD by a pair of interlocked
+switches 18 and 20. The interlocking
+arrangement is such that when one switch
+is open the other is closed, effectively toggling the power supplied from one
+power source
+to the other. As can be seen in Figure 1 switch 18 is open and
+switch 20 is closed, thus the pump is being powered by the VSD 16.
+system also includes a renewable energy system which includes a collector 22.
+The collector per the embodiment of Figure 1 is
+a photovoltaic (PV) array 22;
+energy collected from the array is passed to a DC/DC converter 24. The
+converter is coupled via a
+DC bus 30 to a battery management system (BMS) 26,
+batteries 28 and the VSD 16. Finally, the system includes a programable logic
+controller (PLC) 32 that receives information regarding the output of the PV
+array and the storage level of the BMS 26. The PLC
+32 also receives information
+from a number of sensors regarding bore level, water flow rate, and output water
+pressure; i.e. information
+relating to the setpoint to be maintained by the
+system. Based on the information received, the PLC is configured to provide
+signals to either the VSD or variable speed generator depending on the
+operating mode of the system.
+discussed in the application the system operates in one of three modes; these
+are summarised as follows:
+operating state
+In this mode of operation the energy provided by the PV
+array equals or exceeds that demanded by the VSD 16 to drive the pump(s).
+PLC in this mode sends a signal to the VSD indicating the frequency and voltage
+that is required to maintain the desired setpoint
+for pump; the VSD then draws
+power from the DC bus and converts it to the required AC level to maintain the
+desired setpoint. Any
+surplus electrical power produced by the array is
+utilised to charge the batteries via the battery management system
+Battery drawdown
+operating state
+This mode of operation occurs when the
+power produced by the PV array is not sufficient to drive the pump at the
+setpoint. In this
+mode of operation, the PLC enables power produced by the PV
+array to be supplemented by power from the battery to enable the VSD
+to maintain
+the required AC output. As the amount of power provided by the PV array
+diminishes, an increasingly greater amount of
+power is drawn down from the
+battery up until the point where the power required by the VSD to drive the
+pump(s) is fully supplied
+by the batteries.
+Generator-only
+operating state
+In this third operating state the variable speed
+generator is operational, with output frequency and voltage produced by the
+being controlled by the PLC to meet the requirements to maintain the
+operation of the pump at the desired setpoint.
+paragraphs [0048]-[0052] the specification discusses how the PLC switches
+between the various operating states by operating switches
+18 and 20 based on
+various measured operating parameters. In short, the PLC maintains the system
+in the PV mode or draw down mode
+when the PV array produces sufficient power,
+and the batteries are above a preset charge threshold e.g. 15% charge. When the
+from the PV array is insufficient, and the batteries are below a preset
+charge threshold, e.g. 10% charge, then the PLC switches
+to generator mode by
+opening switch 20 and closing switch 18.
+the system depicted in Figure 1 it is appreciated that, in the PV-only state and
+the battery drawn down state, switch 20 is closed
+and switch 18 open such that
+the variable speed generator is disconnected from the pump and other components
+within the system.
+That is, in the embodiment depicted in Figure 1, the DC side
+of the system (composed of the PV array, DC/DC converter, batteries
+and the BMS)
+is isolated from the AC side (composed of the selected AC source e.g. mains
+supply or variable speed generator) of the
+system as the switching between the
+AC supplies i.e. AC from the VSD or AC from the variable speed generator occurs
+downstream of
+the output of both the VSD and variable speed generator.
+specification at paragraphs [0053]-[0054] then discuses a second embodiment of
+the system with reference to Figure 2 (reproduced
+below). The system discussed
+in relation to Figure 2 is essentially the same as that discussed above with
+respect to Figure 1 with
+several differences. Firstly, the variable speed
+generator of the second embodiment is coupled to the AC input of the VSD via
+18. The DC supply system (PV array and battery system) is coupled to the
+DC input of the VSD via switch 20. Thus, in the case of
+figure 2 the point of
+isolation between the DC and AC power sources is the VSD itself and selection of
+the relevant power source
+used to generate the supply to the pump occurs
+upstream of the VSD.
+detailed description then concludes with a discussion of Figures 3 and 4.
+Figure 3 (reproduced below) is said to depict a traditional
+arrangement for
+coupling the DC power system to the submersible pump. The arrangement of Figure
+3 includes a first stage of inverters
+50 and 56 to convert DC from the PV array
+or battery to an AC supply which is then fed to the VSD 16. The VSD 16 then
+produces the
+output AC signal via a series of inverters with the resultant AC
+then supplied to the motor 12.
+contrast Figure 4 (reproduced below) depicts the arrangement according to the
+present invention. As can be seen the present invention
+avoids the need for the
+first stage of inverters and supplies a regulated DC voltage via a DC/DC
+converter 24 directly to the VSD
+The opposed claims
+specification as accepted includes a total of 20 claims with claim 1 being the
+only independent claim as follows:
+1. A power and control
+system arranged for powering a submersible pump or pumps, the system
+a first source of electricity;
+a renewable energy collector;
+a variable speed drive (VSD) arranged to receive direct current from the
+renewable energy collector and/or the battery, the VSD arranged
+alternating current;
+at least one sensor arranged to provide information regarding pump
+operation and/or surrounding conditions including information about
+at least one
+measured parameter of pump operation and/or surrounding conditions; and
+a system controller, the system controller being arranged to receive
+information from the sensor, the system controller being arranged
+information regarding a desired setpoint for the parameter measured by the
+the system controller being arranged to direct electrical power to the
+submersible pump(s),
+the system controller arranged to determine available electrical power
+from the renewable energy collector and from the battery,
+the system controller arranged to selectively engage or disengage the
+first source of electricity in response to predetermined levels
+of available
+wherein the system controller controls the voltage and frequency output by
+the VSD based on a comparison between the received information
+from the sensor
+and the desired setpoint so as to maintain the parameter at the desired
+2-10 define additional features relating to the form of the first electricity
+source, the form of the renewable energy collector,
+the various other components
+in the system and the interconnection, system operating states, etc.
+my initial review of claim 1, I did not perceive any idiosyncrasies or
+inconsistency that would give rise to any significant issue
+in understanding the
+general ambit of the claim. However, the opponent noted several terms and
+expressions in the claims that require
+some scrutiny given the differing
+opinions of the experts. I will address these issues later in this decision.
+Onus and standard of proof
+present application was filed after 15 April 2013. As such, the present
+application is governed by the
+Patents Act 1990
+) as amended by the
+Intellectual Property Laws
+Amendment (Raising the Bar) Act
+Raising the Bar
+”). Amendments to Sections 7, 40 and 60 of the Act apply to
+the present case as a consequence of Schedule 1, items 55(1)(d)
+and 55(4)(a),
+and Schedule 6, item 133(7)(d) of the
+Raising the Bar Act
+standard of proof that applies in the present case is the balance of
+probabilities. Under subsection 60(3A), if I am satisfied,
+on the balance of
+probabilities, that a ground of opposition to the grant of a patent exists, I
+may refuse the present application.
+Nevertheless, it remains the case that, in
+proceedings such as these before the Commissioner, the onus rests with the
+opponent to
+establish its case in reaching a conclusion on any
+The nature of the opposition
+the SGP the opponent listed the following grounds of
+opposition:
+s18(1)(b)(i)
+– the invention as claimed lacks novelty; and
+s18(1)(b)(ii)
+– the invention as claimed does not comprise an inventive
+written and oral submissions, the opponent sought to narrow their case in
+respect of the ground of inventive step. Notably the
+opponent did not seek to
+press the issue that the claims lack an inventive step in light of the Common
+General Knowledge (CGK) taken
+alone or in combination with “Investment
+analysis of solar energy in a hybrid diesel irrigation pumping system in New
+Wales, Australia”, Powell et al, Journal of Cleaner Production (D4)
+or “Economic analysis of PV/diesel hybrid system
+with flywheel energy
+storage”, Ramli et al, Renewable Energy (D5) (opponent’s submissions
+at [6]). The opponent did,
+however, point out that the Commissioner was still
+entitled to take these grounds into account in determining the present
+opposition.
+Person skilled in the art
+specification is to be construed through the eyes of the person skilled in the
+art, being a notionally non-inventive skilled worker
+aware of the CGK in the
+relevant field. In
+KD Kanopy Australasia Pty Ltd v Insta Image Pty Ltd
+[2007] FCA 481
+Kiefel J identified (at [16]) the person skilled in
+a person acquainted with the surrounding circumstances of the
+state of the art and manufacture at the relevant time...They are likely
+a ‘practical interest in the subject matter of the invention’...and
+may often work in the art with which the
+invention is connected
+Root Quality Pty Ltd v Root Control Technologies Pty Ltd
+[2000] FCA 980
+9 IPR 225, Finkelstein J stated at [70]:
+He is the person to whom the patent is addressed and who must
+construe it. He is the person whose knowledge will determine whether
+a patent is
+novel. He is the person who will judge whether a patent is
+AstraZeneca AB v Apotex Pty Ltd
+[2015] HCA 30
+(at [23]), the High Court
+additionally noted that:
+The notional person is not an avatar for expert witnesses whose
+testimony is accepted by the court. It is a pale shadow of a real
+a tool of analysis which guides the court in determining, by reference to expert
+and other evidence, whether an invention
+as claimed does not involve an
+inventive step.
+the face of the specification, there is little doubt that the notional PSA
+includes a person with experience in the control of
+submersible pumps such as
+those used in dewatering applications. It also seems clear that the PSA would
+require knowledge relating
+to the powering of such pumps utilising a combination
+of a renewable source (e.g. a solar and batteries system) and a non-renewable
+source (e.g. generators).
+both written and oral submissions, the opponent advanced that the relevant
+skilled person is one who has an interest in making
+or using systems for
+powering and controlling electrically powered submersible pumps using multiple
+power sources, including at least
+one renewable source. The applicant accepted
+this characterisation of the skilled person for the purposes of the opposition.
+the skilled person as postulated by the opponent and applicant
+substantially aligns with my understanding of the notional PSA as
+parties did not seem to dispute the fact that the experts in this particular
+case were reasonable facsimiles for the notional
+PSA. However, in both written
+and oral submissions the opponent did note that Mr Waterreus is an employee of
+the applicant and is
+a named inventor on the application and, as such, he could
+not be said to be an independent expert. During oral submissions the
+also called the impartiality of Mr Jeeva into question, noting that his CV
+indicated that he had carried out dewatering
+studies for the applicant.
+applicant’s response to this was that Mr Waterreus was not being put
+forward as an independent expert but as someone who
+is skilled in the relevant
+technical field. In relation to the suggestion that Mr Jeeva lacks impartiality
+due a previous dealing
+with the applicant, the applicant submitted that this was
+incorrect and appeared to have been said for no other reason than to suggest
+that there might be a problem with Mr Jeeva’s evidence. The applicant
+also countered the attack on impartiality by pointing
+to a number of concerns
+they had regarding the manner in which Mr Williams was instructed. It was
+seemingly intimated by the applicant
+that the opponent’s expert may have
+been led to several of his conclusions given the manner of his
+instruction.
+any event it is clear that there was general agreement between the parties that
+all the expert witnesses are suitably qualified
+to provide evidence concerning
+the state of the art as at the relevant date. In my view any issues arising
+from a question of impartiality
+or the manner in which a particular witness was
+instructed can be readily addressed by appropriate weighing of the evidence.
+Construction
+the rules of construction for an Australian patent specification are well
+summarized in
+Decor Corp v Dart Industries
+[1988] FCA 399
+the correct application of these rules to the construction of claims was
+discussed by Bennett J in
+H Lundbeck A/S v Alphapharm Pty Ltd
+the words in a claim should be read through the eyes of the skilled
+addressee in the context in which they appear...While the claims
+monopoly claimed in the words of the patentee's choosing, the specification
+should be read as a whole ... It is not permissible
+to read into a claim an
+additional integer or limitation to vary or qualify the claim by reference to
+the body of the specification...terms
+in the claim which are unclear may be
+defined or clarified by reference to the body of the
+specification
+would also note what was said in
+Eli Lilly and Company Limited v Apotex Pty
+[2013] FCA 214
+It is well settled that the Court should, from the outset, approach
+the task of patent construction with a generous measure of common
+Court must place itself in the position of a person skilled in the relevant art,
+being the subject matter of the patent.
+From this perspective, the patent is to
+be read as a whole, in the context of the specification and in light of the
+prevailing common
+general knowledge and state of the relevant art at the
+priority date
+a plain reading of the claim, it is apparent that it is directed to a power and
+control system for a submersible pump or pumps
+whereby the electrical power
+supplied to the pump is actively switched between a first energy source i.e.
+mains power or backup generator
+and a renewable energy collector and battery
+renewable energy system
+”) connected to the pump via a VSD.
+The VSD receives the DC supply from the renewable energy system and outputs an
+to the pump. The VSD in this instance is regulated by the controller
+such that the AC outputted is sufficient to maintain the operation
+of the pump
+at a desired setpoint. The system is configured to switch between the energy
+sources when the available power from the
+renewable energy system meets certain
+predetermined levels. As such I do not see any inherent difficultly in
+interpreting claim
+1, however, and as I have previous noted, there were several
+phrases within the claim that the opponent sought to scrutinise. More
+specifically, the opponent drew attention to the following phrases within claim
+1 which in their view required further clarification:
+electrical power”
+available electrical power”
+“predetermined
+levels of available power”
+direct electrical
+written submissions, the opponent advanced that claim 1 does not provide any
+antecedent for the term “electrical power”.
+The opponent also
+argued that the claim was satisfied when electrical power originates from the
+VSD or the first source of electricity;
+however, the claim was not limited to
+these specific sources. This point was further reenforced during oral
+submissions where the
+opponent noted that the claim wording is very general, and
+it does not specify where the power comes from. Following on from this
+the opponent then noted that, ultimately, nothing in these proceeding turns on
+the phrase “direct electrical power”.
+Given the change in the
+opponent’s position it does not seem necessary for me to analyse the
+phrase in any significant detail.
+It is worth noting, however, that I did not
+take issue with the phrase. The issue perceived by the opponent seems only to
+when the phrase is read in isolation. Reading the phrase in context it
+is clear that the controller is configured to direct power
+from one of the
+available power sources to the pump to ensure its continued operation at the
+desired setpoint. This operation being
+elucidated by the remaining features
+recited in the claim.
+determine available electrical
+oral submissions, the opponent sought to focus on an apparent disagreement in
+the expert evidence concerning the interpretation
+of this phrase. More
+specifically, the opponent noted that the applicant’s position is that the
+phrase calls for the controller
+to measure levels of power, whereas in the
+opponent’s view the phrase simply calls for a controller to determine if
+any available power. However, after pressing this point the opponent
+noted that, ultimately, it did not really matter whether the
+quantifies power levels or not given the features recited in the remaining claim
+integers. This sentiment is seemingly
+echoed in the opponent’s written
+submissions at [60] where they state that nothing turns on this point of
+construction.
+will admit I find this line of argument on the phrase “determining
+available electrical power” perplexing, particularly
+opponent’s view that it is of little consequence within the context of
+these proceedings. On the whole this line
+of argument seems to have been
+offered up to highlight apparent conflicts in the expert evidence rather than
+addressing any significant
+issues of construction. In any event, the relevant
+authorities have made it clear the task of construction is not one that falls
+the experts; it is a matter for the courts or, in this instance, the relevant
+decision maker.
+a plain reading of the claim, I did not take issue with the phrase
+“determine available electrical power”. The meaning
+of the phrase
+is readily apparent from the plain meaning of each of the terms. For example,
+the term “determining” as
+defined by the Macquarie Dictionary
+Online, 2025, Macquarie Dictionary Publishers, an imprint of Pan Macmillan
+Australia Pty Ltd,
+https://www.macquariedictionary.com.au/
+Macquarie Dictionary online”
+) simply means “to
+conclude or ascertain, as after reasoning or observation”, while the term
+“available” per
+the Macquarie Dictionary online means
+“suitable or ready for use”. Thus, reading phrase as a whole, it
+simply refers
+to ascertaining the electrical power ready for use. As to what
+does the ascertaining and the source of the power this made apparent
+claim: nemely the controller determines the electrical power available from the
+renewable energy collector and the battery
+– that is, the electrical power
+that can be drawn from the renewable energy system to power the pump.
+predetermined levels of available power
+arguments presented by the opponent simply sought to highlight the problems they
+had perceived on their initial reading of the
+phrase and how these were
+subsequently resolved to arrive at a workable construction. From what I
+understand, the argument that
+was put to me at the hearing was that, on its
+face, the phrase appears to lack clarity. More specifically, the opponent noted
+the claim did not adequately define the predetermined levels.
+Additionally, the identified phrase does not specify where the available
+is coming from. These initial issues were, however, seemingly resolved by the
+opponent utilising the general principles of
+construction.
+agree with the opponent that there is no strict antecedent basis for the phrase
+“available power”. However, on consideration
+the phrase simply
+appears to be a reference to the available electrical power from the renewable
+energy system recited in the previous
+claim integers. Moreover, when the phrase
+is read in context, the features recited directly before the phrase qualify that
+the controller
+is to engage or disengage the first source responsive to the
+available power. When the first source is disengaged it provides no
+the system. It therefore logically follows that the “available
+power” used to instigate switching must be the
+electrical power available
+from the renewable energy system.
+the term “predetermined levels”, I appreciate the opponent’s
+point that no level or levels is specified
+within the claim. However, as was
+noted in the opponent’s written submission at paragraph [62.2], the word
+“predetermined”
+is an adjective that means “established or
+decided in advance”. During oral submissions the applicant also advocated
+for the adoption this meaning as it accords with the plain and ordinary meaning
+of the term and there is nothing in the claim or
+the specification as a whole to
+indicate that some other meaning should be applied. I agree. The phrase should
+be read plainly
+in accordance with the general principles of construction. As
+such, the term “predetermined” should be read as meaning
+“established or decided in advance”. It is also important to note
+here the use of the plural “levels” and
+not the singular
+“level” implies that more than one level is used in the
+determination of when to engage or disengage
+the first source. Consequently,
+when I consider the phrase as a whole it denotes the setting in advance of two
+or more levels (i.e.
+thresholds values) that the available power is compared
+against to enable the controller to determine when to disengage or engage
+first power source.
+above interpretation that two or more predetermined levels are utilised is in
+line with the discussion in the specification at
+paragraphs [0043]-[0052]. Here
+it is noted that the system engages the AC source when the solar and battery
+available power is below
+a primary threshold. The AC source is then disengaged
+when the available power from the solar array and battery is at or above a
+secondary threshold.
+moving on from construction, it is worth noting that the opponent in both
+written and oral submissions advanced that the term
+” used in claim 2, which defines that the submersible pump or
+pumps of claim 1 are “used for dewatering purposes”,
+interpreted more broadly to encompass removing groundwater or surface water
+using a pump for any purpose, not just lowering
+the water table. This was
+because the invention was not limited to dewatering applications
+with the specification contemplating usage of the invention in other industries
+such as ground water irrigation for agriculture.
+applicant’s rebuttal to this was that the term “dewatering”
+involves the concept of draining water or otherwise
+lowering the water table,
+this being in line with the plain ordinary meaning. This interpretation was
+also consistent with the interpretation
+of the term by Downes J in
+Pumps Pty Ltd v LAA Industries Pty Ltd
+[2023] FCA 1457.
+Consequently, the
+term should be read plainly and not extended to include irrigation in general.
+consideration of claim 2, I am of the view that the opponent’s position
+that the term should be read broadly is untenable.
+Claim 1 as it stands, is not
+limited to the use of the control system to a particular application. Claim 1
+as accepted encompasses
+the types of applications identified by opponent. By
+contrast, claim 2 seeks to narrow the application of the power and control
+system to dewatering. Thus, a broad reading of “dewatering” in
+claim 2 is at odds with the intent of the claim, which
+is to clearly narrow the
+field of use of the system of claim 1. Given this I am inclined to agree with
+the applicant’s position
+that the term should not be read broadly and
+should be read plainly as meaning the use of the system to lower the water
+is well established that the general test for lack of novelty is the reverse
+infringement test. The classic formulation of this
+test is that given by Aickin
+Meyers Taylor Pty Ltd v Vicarr Industries Ltd
+[1977] HCA 19
+137 CLR 228
+at page 235:
+The basic test for anticipation or want of novelty is the same as
+that for infringement and generally one can ask oneself whether
+the alleged
+anticipation would, if the patent were valid, constitute an
+infringement
+follows that if a citation discloses all the integers of the claim, the claim
+will lack novelty. If the citation does not disclose
+all the integers of the
+claim, the claim will still lack novelty provided the citation discloses all the
+essential integers of the
+Nicaro Holdings v Martin Engineering
+[1990] FCA 40
+Catnic Components Ltd v Hill and Smith
+(1982) RPC 183.
+is noted that
+General Tire & Rubber Company v The Firestone Tyre and
+Rubber Company Limited
+[1972] RPC 457
+at 486 stated that:
+If ... the prior publication contains a direction which is capable
+of being carried out in a manner which would infringe the patentee’s
+claim, but would be at least as likely to be carried out in a way which would
+not do so, the patentee’s claim will not have
+been anticipated, although
+it may fail on the ground of obviousness
+and that, in order to meet the test for anticipation, the prior art:
+must contain clear and unmistakeable directions to do what the
+patentee claims to have invented...A signpost, however clear, upon
+the road to
+the patentee’s invention will not suffice. The prior inventor must be
+clearly shown to have planted his flag at
+the precise destination before the
+opponent advances that the invention as defined in claims 1-3, 6-8, 13 and 15
+lacks novelty in view of the disclosure of WO 2021/094814
+”). In oral submissions, the opponent’s case for
+lack of novelty centred on the disclosure associated with Figure 4 of
+the opponent’s view the embodiment shown in figure 4 of D1 discloses all
+the relevant hardware components of claim
+1. The remainder of the
+opponent’s argument focused on the discussion of the speed mode and
+solar/generator modes of operation
+of D1. These modes, in the opponent’s
+view, anticipate the functions of monitoring available power and the switching
+available power sources when threshold criteria are met.
+proceeding further with my consideration of D1 it is worth nothing that there
+was some conjecture in both the written and oral
+submissions concerning the size
+of the pump utilised in D1. The applicant submitted that present application
+concerns larger-power
+or larger-scale pumping operations; i.e. dewatering
+operations. They submitted that D1 does not disclose a pump which acts as a
+submersible pump in the claimed sense or a pump of a similar size (per the
+applicant’s submission at [56] and [58] and Waterreus
+at [20]). I also
+note that Mr Waterreus in his evidence discusses that the VSD of D1 is incapable
+of operating at the power required,
+so D1 cannot be said to anticipate the
+a review of the specification of the application, the only mention of the sizing
+of the pump occurs in the discussion of the background
+art at paragraph [0003]
+where it is stated that motor sizes between 7.5kW and 500kW are typically
+utilised in dewatering applications.
+Aside for this brief mention the
+specification does not contain any further discussion relating to the sizing of
+the pump motor.
+Nor does the specification discuss the sizing of the VSD. When
+I consider the claims as a whole they do not explicitly impose any
+limitation on
+the size of the pump utilised or the VSD utilised. Moreover, I have previously
+noted claim 1 itself is not limited
+to dewatering operations
+Thus, the applicant’s point concerning the sizing of the pump and the VSD
+are not material to the consideration of D1 as
+it relates to claim 1.
+Consideration of novelty
+Consideration of D1
+will firstly consider the arrangement disclosed in Figure 4 of D1 given it is
+central to the opponent’s case before giving
+further consideration of the
+operating modes identified by the opponent. Figure 4 of D1 (reproduced below)
+depicts a preferred embodiment
+of the control system of D1. As shown, the
+system includes an electronic control unit (ECU) 24 that controls a variable
+device (VFD) 25 which supplies AC power to drive a submersible pump
+system also includes number of energy sources namely a solar array 30, a battery
+pack 39 and a generator set 33. The solar array
+is arranged to feed DC power
+directly to the VFD via cables 31, 32. The generator set is arranged to provide
+AC power directly to
+the VFD through cables 34, 35. The generator set is also
+connected by cables 37, 38 to a charger 36 which is utilised to deliver
+through cables 40,41 to the battery pack 36; i.e. the generator set is utilised
+to charge the battery pack. As per the
+arrangement of Figure 4, the battery
+pack can supply DC power to the VFD. Alternatively, the battery pack can be
+utilised to provide
+AC to the VFD via the charger 36 and an inverter 42.
+noted, the ECU adjusts the operation of the VFD to ensure that the output AC is
+of sufficient level to drive the pump. In operation
+the ECU continuously
+monitors the voltage and current from the solar source and other system inputs
+such as temperature, pressure,
+and water level, etc via one or more sensors.
+This information is then utilised by the ECU to perform the necessary
+adjustments
+of the output of the VFD. The adjustments made by the ECU primarily
+depend on the operating mode of the system, which may be solar-only,
+speed, eco,
+or solar/generator.
+speed mode is first discussed on page 3 of D1, where it is stated that this mode
+ensures that 100% of the available solar DC power
+is utilised at all times. The
+operation of the speed mode is clarified on pages 9-10 of D1. More
+specifically, D1 discloses that
+in this mode of operation, the required pump
+speed is defined by an external pressure measurement, with the pump speed being
+adapted to maintain a constant pressure. In this mode the ECU
+algorithm is primarily utilised to give priority to solar DC power,
+only taking
+additional power from the battery or AC source when there is a shortfall in
+solar, i.e. solar power alone is insufficient
+to drive the pump at the required
+speed to maintain the desired pressure. D1 also states that in this arrangement
+it is possible
+to lower the pump speed provided constant pressure is maintained.
+solar generator mode is discussed on pages 11-12 of D1. Under this mode the
+generator set supplements the solar DC power when
+it is not sufficient to run
+the pump at the requested speed. To ensure the efficient use of the generator,
+the ECU manages its load
+by selectively engaging an additional load so that the
+generator set operates within its specified operating tolerances around its
+nominal power level. When the power required by the pump is below the specified
+tolerance of the generator set, the ECU engages
+the additional load, with the
+generator set’s surplus power being passed to the additional load while
+still suppling power
+to the pump.
+the example discussed in D1 the additional load is the battery pack, which is
+charged with the surplus power from the generator
+set. Once the batteries are
+fully charged, the ECU stops the generator set and the power from the battery
+pack provides the missing
+power to the pump. The power provided by the battery
+may be either DC or AC. DC power is provided by coupling the battery to the
+supply from the solar array, and AC power is achieved by coupling the battery to
+the AC side of the VSD via an inverter.
+a reading of D1 the first question that springs to mind is whether the VFD of D1
+anticipates to the VSD as claimed. Here I note
+that the experts for both
+parties seem content that the VFD of D1 equates to the VSD as claimed. More
+specifically Mr Williams,
+at paragraph [23] of Williams 1, states that a VSD
+that outputs AC power on a variable voltage, variable frequency basis to control
+an AC motor’s speed is often referred to as a VFD. This position is not
+repudiated by the applicant’s experts. In fact,
+Mr Waterreus, at
+paragraph [20] of his declaration, opines that D1 utilises a small VSD which is
+incapable of operating in the ranges
+required by the instant application. What
+seems to manifest from the evidence is that the terms “VSD” and
+are utilised somewhat interchangeably in the art owing to the
+fact that a VFD is a specific type of VSD as noted by Mr Williams.
+this I am satisfied that the VFD of D1 reads onto the VSD as claimed.
+the written and oral submissions from both parties there was some consternation
+as to whether the ECU of D1 controls both the voltage
+and frequency output by
+the VSD. The opponent advances that when the output frequency of a VFD such as
+that disclosed in D1 is varied
+the voltage it applies to the motor is also
+varied. In support of this the opponent drew attention to Williams 1 at
+paragraph [22],
+where Mr Williams states that the speed of an AC motor is
+controlled by varying the frequency and voltage of the AC power supplying
+motor. In general terms, decreasing or increasing the frequency applied to the
+motor increases or decreases the speed of the
+motor. Such an increase or
+decrease in frequency invariably necessitates a change in the voltage to
+maintain the voltage to frequency
+ratio of the motor at the constant value.
+Thus, the speed of any AC motor, including those used in electrically-powered
+submersible
+), is controlled by varying the
+frequency and voltage of the AC power applied to motor.
+the opponent’s position is that, in operation, the VFD of D1 inherently
+varies both the output voltage and frequency
+to maintain the required ratio for
+the motor, as evidenced by the statements of Mr Williams (at [22] of Williams
+1). The opponent
+maintains that Mr Williams’ position is further
+supported by the article entitled “
+The ABCs (and 1-2-3s) of variable
+frequency drives,
+”) annexed to Williams 1 as exhibit EW-C, more
+specifically the disclosure of the mode of operation at definition [36] of
+both written and oral argument, the applicant advanced that the VFD of D1
+operates at a constant voltage. In support of this position
+the applicant drew
+my attention to page 6 lines 10-18 of D1 where D1 discloses that the VFD
+converts the DC from the solar array
+to AC voltage i.e. a constant voltage.
+Thus, on the applicant’s reading of D1 a constant voltage is supplied by
+the VSD, and
+there is no instruction to vary the voltage. During oral
+submissions the applicant noted that it may well be said that a VSD in
+can vary the output voltage, however, there is no disclosure in D1 that the
+output voltage of the VSD is in fact varied.
+Consequently, D1 fails to provide
+clear and unmistakable directions to vary both the voltage and frequency applied
+to the motor
+from the VSD. Despite the applicant’s position, I note that
+neither of the applicant’s experts seem to repudiate the
+statements of Mr
+Williams regarding the operation of the VSD of D1 as discussed above.
+consideration of D1, I agree with the applicant that there is no literal
+disclosure in D1 that the output voltage from the VFD
+is varied. However, I am
+cognisant that less than a literal disclosure can act as an anticipation
+provided there is sufficient directions
+in the prior art for a skilled addressee
+to identify the claimed invention and to put it into practice (per
+Holdings v Martin Engineering
+[1990] FCA 40
+at page 563). When I consider the
+disclosure of D1 at page 6 line 10-18, I do not agree that passage cited by the
+applicant stands
+for the general proposition that the output voltage of the VFD
+is held constant.
+is nothing in the passage to suggest that the applied voltage is held constant.
+Equally, there nothing in the identified passage
+that suggests that the applied
+voltage is fact varied. All that D1 states at page 6 line 10-18 is that the VFD
+is able to adapt
+the input DC to provide an AC output according to the motor
+expected voltage. Examples of expected AC voltages are then provided,
+being two 3 phase voltages typically utilised in Europe: 3x 230V or 3 x 400V .
+The referenced passage of D1 then states that
+the VFD can address different
+voltages according to the requirements of different electric motors. Thus, all
+I take from the cited
+passage is that the VFD is capable of supplying the motor
+with the specified nominal operating voltage.
+noted above, the opponent submits that the system of D1, when operating in one
+of the speed and solar/generator modes, performs
+the same operations as recited
+in claim 1. As discussed above the solar/generator mode is concerned with the
+management of the load
+applied to the generator set to ensure that it operated
+efficiently. Thus, this particular mode of operation is not directly concerned
+with the regulation of the AC signal output from the VFD. Rather, the
+solar/generator mode is more concerned with ensuring that
+the input voltage to
+the VFD is of a sufficient level to enable the VFD to produce the necessary AC
+output to drive the pump.
+speed mode the voltage supplied to the VFD is managed by the APC algorithm which
+prioritises the solar power, and takes any short
+fall in required power from the
+AC provided by the generator set to maintain the input voltage supplied to the
+VFD. Additionally,
+the speed of the pump is defined by an external factor. In
+the example discussed in D1 the external factor is a pressure measurement.
+noted in D1 it is possible in the speed mode to operate the pump at a lower
+speed provided the required pressure is maintained.
+While not presented by
+either party, it is a well-established fact that, for any AC induction motor
+is a function of the frequency
+number of motor poles
+given by following motor equation:
+in order to reduce the motor speed it is necessary to lower the frequency of the
+AC applied to the motor. Both parties agree
+that a reducing in the frequency
+applied to the pump results in a change in the . What is disputed is whether
+such a lowering of
+frequency also necessitates a change in the voltage of AC
+supplied to the motor. As already noted, in speed mode the system of D1
+to maintain a set pressure. In hydraulic systems the pressure is directly
+proportional to the torque (i.e. output torque of
+the pump). It is also a
+well-established fact that for an AC motor the output torque T is given by
+where k is a constant, I is the rotor current, φ
+angle between rotor emf and rotor current and φ the motor flux.
+can be seen from the above equation the output torque of an AC motor is
+proportional to the motor flux
+. The motor flux is defined by the
+following function where
+is the input voltage and F the applied
+and K is a constant:
+It is the above equation that underpins the operation of the mode discussed
+in the Amick reference.
+the motor speed is reduced by lowering the frequency of the supplied AC and the
+voltage is held constant, for example, as the applicant
+submits, at
+(i.e. nominal operating voltage of the motor), then the motor flux
+increases resulting in a change in output torque. As noted above
+the pressure
+is directly proportional to the output torque. Consequently, a change in torque
+leads to a change in the pressure.
+Accordingly, if, as advanced by the
+applicant, voltage is held constant then the system of D1 would not maintain the
+set pressure
+at the reduced frequency and speed.
+order for the system of D1 to maintain a constant pressure the output torque
+must be held constant. To achieve a constant torque
+the motor flux must remain
+constant and, as can be seen from the basic AC motor equations, the only way in
+which the motor flux can
+be maintained as a constant is for the value of to
+remain constant. Therefore, if frequency is reduced the voltage must also
+reduced. Thus, given the basic characteristic of AC motors, it would be
+apparent to the skilled addressee that, if the VFD of
+D1 reduces the frequency
+to reduce the speed of the pump, that must also reduce the applied voltage to
+ensure constant flux, torque
+and thus pressure.
+Additionally,
+it would also be apparent to the skilled addressee that holding voltage constant
+while varying the frequency of the
+AC applied to the motor is detrimental to its
+operation. As the frequency is decreased, the flux increases, which leads to
+saturation of the motor and potential burn out. Conversely, holding
+frequency constant and lowering the voltage applied would also
+render the motor
+not fit for purpose, as this would minimise flux and reduce the torque to a
+point where it was insufficient to drive
+the load. It is therefore necessary to
+maintain a balance between the voltage and frequency applied to the motor to
+ensure that
+the flux is at a level that ensures that motor operates within it
+specified tolerances.
+Considering
+the above and weighing the evidence before me, I am inclined to agree with the
+opponent that operating in speed mode the
+VFD would vary the applied voltage to
+the pump motor proportionally to the frequency. This would be readily
+understood by the skilled
+addressee given the inherent characteristics of AC
+motors and the requirement of D1 to maintain a constant pressure while operating
+the pump at reduced speed.
+the above, in my view D1 discloses the following elements of claim 1: a first
+source of electricity (AC source being a generator
+set 33 or other AC source
+e.g. mains supply), a renewable energy collector (solar array 30), and a battery
+(battery pack 39). D1
+further discloses the use of at least one sensor arranged
+to provide information about a measured parameter of pump operation and/or
+surrounding conditions and a controller that controls a variable frequency
+device to adapt the speed of the pump to meet an externally
+measured parameter
+e.g. pressure. D1 also discloses a VSD in the form of a VFD, the VFD is
+configured to receive DC directly from
+the solar supply and output an AC supply
+to drive the pump. In D1 the voltage and frequency output by the VSD is
+controlled by the
+ECU to maintain a constant pressure (i.e. maintain a setpoint)
+based on the received information from the sensor.
+both written and oral submissions there was some disagreement between the
+parties as to whether D1 disclosures the features of
+determining the available
+electrical power from the renewable energy collector and battery and selectively
+engaging or disengaging
+the first source of electricity in response to
+predetermined levels of available power.
+opponent submits that such functionality is provided in D1. In this regard the
+opponent noted the findings of Mr Williams regarding
+D1 as articulated at
+Williams 1 paragraphs [138]-[140] and Williams 2 at [39] which support this
+view. The opponent also noted that
+the applicant’s experts opine
+(Waterreus at paras [23]-[24] and Jeeva at [28]) that the system of D1 does not
+measure available
+power, but did not refer to any specific information in D1 to
+support their conclusion. The opponent notes that Mr Jeeva simply
+states that
+he thoroughly reviewed D1 and confirms that it does not measure available power.
+The opponent notes that the refence
+made by Mr Waterreus to page 15 line 18 of
+D1 relates to startup sequence in the Eco mode and does not support the view
+that D1 fails
+to monitor available power from the renewable energy collector and
+the evidence of Mr Waterreus and Mr Jeeva, the applicant’s position is
+clear. They submit that D1 fails to disclose determining
+available electrical
+power from the renewable energy collector and battery. The applicant also
+submits that D1 fails to disclose
+the engagement and disengagement of the first
+power source in response to the predetermined level of available power. In both
+and oral submissions, the applicant noted that the opponent proceeds on
+the assumption that the predetermined level is taken to be
+the level necessary
+to power the ESP at the required speed. The applicant maintains that this does
+not meet the definition of “predetermined
+level”, as the required
+speed may change even if the setpoint does not change. The applicant concludes
+that it is impossible
+for this level to be “predetermined”.
+I look to Williams 1 at [138]-[140] the point that is made by Mr Williams is
+simply that D1 determines if there is sufficient
+solar power and, if not, it
+engages the generator set to provide the missing power, or supplements the solar
+power with power from
+the battery pack. This operation, in Mr Williams’
+view, necessitates that the system of D1 determines available electric power
+from the renewable energy source and the battery. The manner in which the
+determination is made is further elucidated by Mr Williams
+at paragraph [39] of
+Willimas 2 where he notes, with reference to D1 at page 8 lines 16-26, that the
+ECU compares two DC voltages:
+the voltage from the solar array, and a rectified
+DC level produced by converting the AC from the generator set to a DC
+opponent’s position is that Mr Williams’ evidence supports the view
+that the ECU of D1 compares the available power
+from the solar and battery to a
+predetermined power level to determine when to engage or disengage the generator
+set. It is this
+functionality that the opponent seeks to equate to the step of
+determining the available power electrical power from the renewable
+collector and battery and selectively engaging or disengaging the first source
+of electricity in response to predetermined
+levels of available
+I understand it, the opponent’s position is that the monitoring of the
+input DC voltage by D1 equates to determining the
+total available power from the
+solar and the batteries. On consideration of D1 page 8 lines 16-26, it does
+discloses comparing the
+DC voltage, being voltage from the solar array, to the
+AC rectified voltage. As such D1 discloses measuring/determining the available
+electrical power provided by the solar array. This understanding is further
+supported by discussion of the solar mode and discussion
+concerning the I-V
+curve of the solar array depicted in Figure 2 of D1. The identified passage
+however does not directly discuss
+measuring the available power from the
+battery. In this regard D1 states at page 18 lines 17-19, that battery pack 39
+can provide
+DC directly to the VFD 25 through cables 41 and 47. As such, D1 can
+be said to disclose that the batteries can be interconnected
+in series with the
+solar array. In this configuration the power applied to the VFD is from both
+the solar array and the batteries.
+Therefore, it could be argued that the DC
+input measured by D1 in this configuration is the total available electrical
+the renewable energy collector and battery and this measurement is
+then used by the ECU to engage or disengage the generator set.
+counter argument to the above is that the DC voltage applied to the VFD in the
+“solar plus battery” configuration
+is not a measure of the available
+power from the solar array and the battery. This is the position advanced by
+the applicant. More
+specifically, as put by the applicant’s counsel
+during oral submissions, the system of D1 looks to maximise the use of available
+solar power, and the power that is utilised is the total solar power plus a
+component of the power available (missing power) from
+the battery.
+Consequently, D1 does not measure the available power from both the solar array
+and the battery.
+note that D1 does clearly state that only missing power is provided by the
+batteries. So, there appears to be some validity to
+the view that the DC
+voltage measured at the input of the VFD in D1 is not a measure of the available
+power ready for use from the
+solar and the batteries. Rather it is a measure of
+the total solar power and a fraction or portion of the power available from the
+battery. Additionally, the apparent lack of disclosure in D1 relating to
+determining available battery power lends further support
+to the view that D1
+does not determine available power ready for use from the solar array and the
+further review of D1 it is noted that the use of the battery to either
+supplement the solar power, or as a standalone power source
+to run the pump,
+occurs when the battery is fully charged, with the generator set then being
+engaged when the battery level is too
+low. Thus, it is intimated in D1 that the
+power level of the battery is monitored or determined in some way. However,
+outside the
+mention of the battery being fully charged or too low, D1 does not
+discuss in any detail as to how it determines the charge level
+on the battery or
+for that matter what constitutes too low a level. When I look to circuits
+depicted in figure 4 of D1 a reasonable
+assumption to make is that the system of
+D1 indirectly determines if the battery is too low based on the voltage at the
+DC terminal
+of the VFD. If it falls below the predetermined level when the
+batteries are supplementing the DC from the solar array, then the
+batteries are
+at an insufficient level to provide the shortfall in power (i.e. battery to
+low). It is noted that D1 does not contain
+any explicit disclosure as to how
+such a determination is made, however it is clear that D1 that it determines the
+power of the solar
+array and the battery to make sure these are sufficient to
+allow the VSD to power the pump if not the AC generator is engaged to
+supply. Thus, it is considered that the monitoring of the DC input from the
+solar and the battery per D1 is per inherent
+in the disclosure of D1 that a
+determination of available electrical power is made.
+remains the question of whether D1 engages and disengages the first source of
+power (i.e. the generator set) based on predetermined
+levels of available power.
+In the case of D1 the ECU compares the DC voltage applied at the input of the
+VFD against a DC value that
+represents the nominal AC voltage supplied by the
+first source (D1 page 8 lines 16-26). Thus, in D1 the ECU checks to see if the
+input DC from the solar and battery is at or above the AC supply voltage if not
+then it engages the AC supply. As I have noted above
+“predetermined
+levels of available power” denotes the setting in advance of two or more
+levels (i.e. thresholds values)
+that the available power is compared against to
+enable the controller to determine when to disengage or engage the first power
+This being exemplified in the specification at paragraphs [0043]-[0052]
+where the AC source is engaged when the power available form
+the solar and
+battery is below a primary threshold and disengaged when the level of power from
+the solar and batteries is at or above
+a secondary threshold. D1 by contrast
+operates on the basis of a predetermined condition namely the input DC is at or
+above a set
+level, it does not seemingly require the assessment are
+predetermined levels as per the present application.
+light of the above, D1 in my view does not provide the necessary level of detail
+to anticipate the claim feature of the system
+controller arranged to selectively
+engage or disengage the first source of electricity in response to predetermined
+levels of available
+power. I am satisfied that claim 1 to be novel over the
+disclosure of D1. It also follows that all other claims, by virtue of their
+dependency on claim 1, are novel over D1.
+Inventive Step
+statutory basis for inventive step for this opposition is set out at s7(2) and
+s7(3) of the
+as it stood after commencement of the
+Raising the Bar
+, and is reproduced below:
+(2) For the purposes of this Act, an invention is to be taken to involve
+an inventive step when compared with the prior art base unless
+the invention
+would have been obvious to a person skilled in the relevant art in the light of
+the common general knowledge as it
+existed (whether in or out of the patent
+area) before the priority date of the relevant claim, whether that knowledge is
+separately or together with the information mentioned in subsection
+(3) The information for the purposes of subsection (2) is:
+(a) any single piece of prior art information; or
+(b) a combination of any 2 or more pieces of prior art information that
+the skilled person mentioned in subsection (2) could, before
+the priority date
+of the relevant claim, be reasonably expected to have combined.
+question of obviousness has been extensively considered by the courts. Aickin J
+Wellcome Foundation Ltd. v VR Laboratories (Aust) Pty. Ltd.
+[1981] HCA 12
+[1981] HCA 12
+(1981) 148 CLR 262
+Wellcome Foundation
+The test is whether the hypothetical addressee faced with the same
+problem would have taken as a matter of routine whatever steps
+might have led
+from the prior art to the invention, whether they be the steps of the inventor
+Aktiebolaget Hassle v Alphapharm Pty Ltd
+[2002] HCA 59
+212 CLR 411
+Aktiebolaget Hassle
+, the High Court
+accepted the approach taken in
+Olin Mathieson Chemical Corporation v Biorex
+Laboratories Ltd
+[1970] RPC 157
+at [187] where Graham J posed the
+reformulated Cripps question:
+Would the notional research group at the relevant date, in all the
+circumstances, ... directly be led as a matter of course to try
+[the claimed
+combination] in the expectation that it might well produce a [useful or better
+?” (emphasis in the original)
+the relevant authorities have also made it clear that the question of
+obviousness is a question of fact that is to be determined
+by evidence.
+the present case, the opponent argues that the invention as defined in claims
+1-20 lacks an inventive step in light of any one
+of the following documents
+considered together with the CGK in the art as at the priority date:
+AU 2021201656
+AU 2021106106
+Optimization and
+Energy Management of Hybrid Photovoltaic-Diesel-Battery System to Pump and
+Desalinate Water at Isolated Regions”,
+Rezk et al (D6) and
+Powered Pumping Irrigation solutions”, NSW Farmers (D7)
+opponent also advances that the invention per claims 1-20 also lacks an
+inventive step in light of the CGK in the art considered
+together with the
+information in any combination of two or more of documents D1, D2, D3, D6 and
+Assessment of inventive step
+common approach to determining inventive step is the problem-solution approach
+Wellcome Foundation
+. Once the problem has been formulated and the
+CGK and the prior art base has been determined, the question of whether the
+solution is obvious must be addressed.
+am however mindful that the use of the problem solution approach needs to be
+somewhat tempered. It is well established in patent
+law that an invention need
+not solve or address a particular problem. In such cases one must be cautious
+in the use of the problem
+solution approach. Moreover, the Full Bench of the
+Federal Court in
+AstraZeneca AB v Apotex Pty Ltd
+[2014] FCAFC 99
+AstraZeneca
+”) at [202]-[203], effectively stated
+that when formulating the problem, it is not permissible to incorporate
+information that
+is not available to the person skilled in the art as either CGK
+or information available under section 7(3).
+The problem
+being addressed
+written submissions, the opponent does not expressly identify a problem or
+problems addressed by the application. However, during
+oral submissions, the
+opponent noted that the application seemingly addresses four problems these
+being as follows:
+Typical systems
+operate under either full generator power or full PV power, but not both
+simultaneously;
+Typical systems
+are frequently incapable of providing an uninterruptable power supply;
+situations where
+constant pump operation is required the use of renewable energy sources has been
+considered problematic; and
+traditional PV
+powered systems can only operate when there is sufficient solar radiation to
+power the pump.
+opponent then drew attention to the paragraph [0011] where it is stated that the
+present invention seeks provide a system which
+can incorporate a variable speed
+generator alongside a renewable energy source.
+fact that the opponent in their written submissions had not sought to articulate
+a problem or problems addressed was a fact that
+was not lost on the applicant.
+As was observed by counsel for the applicant during oral submissions, the
+opponent seemingly utilises
+the problem solution approach but there has been no
+proper articulation of the problem that is said to be addressed by the opposed
+application prior to oral submissions. However, counsel for applicant argued
+that the referenced problems are simply a mention of
+common problems that arise
+in such hybrid systems. Counsel for the applicant then submitted that there is
+no statement within the
+specification of particular a problem that was there to
+be solved by the application and that there was no known problem to be solved
+this particular invention.
+is also worth noting here that during oral submissions the opponent acknowledged
+that the problem solution approach was but one
+approach to the assessment of
+inventive step that had been articulated by the courts. In the present case the
+opponent was not advocating
+use of the problem solution approach as the
+probative test for inventive step. The opponent noted that the reference to
+in this case is made in relation to the combination of references.
+tend to agree with the applicant that the problems as identified by the opponent
+are simply issues that arise through the use of
+pumping system which incorporate
+renewable energy sources i.e. hybrid power systems for pumping. Each of the
+identified issues speak
+to one particular problem, namely that of reliability
+i.e. how to ensure the hybrid system provides sufficient power to drive the
+to maintain desired operation (e.g. maintain setpoint operation). In any event,
+further consideration of the nature of the
+problems being addressed is of little
+benefit in these proceedings, given the opponent does not advocate for use of
+the problem solution
+approach in this instance and the applicant’s
+position that no specific problem is addressed by the instant application.
+The Common General Knowledge (CGK)
+opponent at [69] of their submissions sets out what they considered to be the
+agreed CGK as follows:
+The internal
+electromechanical configuration of ESPs (i.e., mechanical pump driven by AC
+motor) and the use of ESPs for artificially
+lifting water from wells;
+Controlling an
+ESP’s operating speed by varying the frequency and voltage of AC power
+supplied to the ESP’s motor;
+VSDs and their
+use for controlling the speed of electric motors and associated driven loads,
+including ESPs. This includes VSDs outputting
+variable voltage, variable
+frequency (VVVF) power to control an AC motor’s speed, also known in the
+field as variable frequency
+drives (VFDs), inverters, adjustable speed drives,
+adjustable frequency drives or VVVF controllers;
+The arrangement
+and functioning of the rectifier, DC bus and inverter stages of a VSD and more
+specifically that:
+rectifier receives AC that is supplied to the VSD and converts the AC into
+bus (also known as the “DC link”) carries the DC output by the
+rectifier to the VSD’s inverter;
+inverter transforms the DC received from the DC bus back into an AC signal at
+the desired output voltage and frequency;
+Configuring a
+VSD to perform setpoint control in response to sensor inputs, including using
+internal VSD controllers and external
+controllers connected to a VSD;
+Controlling an
+ESP using a VSD to maintain a setpoint relating to the ESP, or to the
+ESP’s operating environment, such as a
+flow rate of fluid pumped by the
+Powering a VSD
+using mains power or AC output by an engine-generator (genset), and powering and
+controlling an ESP using a VSD connected
+to such power sources; and
+Powering an ESP
+by a VSD that receives power from multiple sources – including renewable
+sources (e.g., solar power) and battery
+power sources – and engaging and
+disengaging the power sources such that continuous, uninterruptible power is
+supplied by the
+VSD to the ESP
+opponent also submits that supplying DC directly to a VSD was CGK before the
+priority date, and that the information relating
+to the VSDs or VFDs per the
+document also formed part of the CGK (opponent’s submissions
+at [73]-[78]). In addition to this, the opponent also advanced
+that electrical
+components such as voltage regulators (DC/DC converters) for converting a
+variable input DC voltage into a desired
+output DC voltage, DC busses for
+carrying DC between electrical components and uninterruptible power supplies
+(UPS) formed part of
+the CGK (opponent’s submissions at [79] and [81]).
+Similarly, the opponent submitted that components such as engines, alternators,
+generators, photovoltaic arrays/cells, wind turbines, sensors, system
+controllers, electric buses, battery storage etc were also
+well known in the
+art. Finally, the opponent submits that the use of closed-loop control methods,
+the use of the MPPT algorithm,
+and methods for charging and monitoring batteries
+were also well known in the art (opponent’s submissions at
+[80]-[83]).
+applicant agrees with the assessment of the CGK per paragraph [69] of the
+opponent’s submissions but does not accept that
+the method of powering and
+controlling an ESP using a variable speed generator (VSG) was part of the CGK
+existing before the priority
+date (applicant’s submissions at [82]). In
+this regard I note that the feature of the VSG is introduced in claim 4, whereas
+claim 1 as it currently stands is not limited to the use of a
+applicant also accepts (for the purposes of this opposition) that the use of VSD
+devices with DC inputs having relatively low
+voltage ratings, as used in small
+scale pumping machinery, was CGK. However, the applicant submits that the use
+of VSD devices with
+DC inputs having voltage ratings sufficiently high for
+dewatering purposes was not CGK, and that the evidence does not establish
+to be the case (per Waterreus 1 at [15]). The applicant also noted that Mr
+Williams opines that, at the priority date, coupling
+high voltage DC to VSDs had
+been utilised in high-powered uninterruptible power supply systems for large
+data centres, industrial
+facilities and critical loads, but submitted that this
+assertion was unsupported, as no proper basis and no example of such a system
+was given in his evidence. The applicant also noted that the evidence of Mr
+Williams concerns a completely different field to that
+of the claimed invention.
+They submitted that this lent further weight to their position that the
+connection of high voltage DC directly
+to the DC input of a VSD was not CGK in
+relevant authorities concerning CGK are clear; namely a piece of knowledge only
+becomes CGK when it is generally known and assimilated
+by the bulk of those who
+are engaged in the particular art (
+British Acoustic Films Ld v Nettlefold
+Productions
+(1936) 53 RPC 221
+at page 250,
+Ranbaxy Laboratories Limited v
+AstraZeneca AB
+(2013) FCA 368
+Alphapharm Pty Ltd v H Lundbeck
+(2008) FCA 559
+Aktiebolaget Hassle
+at [31], [55] and
+[57]. It is appreciated that Mr Williams’s evidence does not establish
+that that the connection of high
+voltage DC to the input of a VSD was known in
+the art. Mr Williams’s opinion also seemingly lends support to the views
+Mr Waterreus that directly coupling high voltage DC to the input of the VSD
+was not well known in the art. In any case, the evidence
+presented in this
+instance does not establish to the necessary level whether or not the provision
+of high voltage DC to the DC input
+of a VSD was CGK in the art. However, this
+is somewhat tempered by the fact the claims are not expressly limited to the
+of high voltage DC to the VSD
+Consideration of inventive step
+opponent contends that as claims 1-3, 6-8, 13 and 15 lack novelty in view of D1,
+they also lack an inventive step. The remaining
+claims, namely claims 4,5,
+9-12, 14 and 16-20, are said to lack an inventive step in view of D1 when
+considered together with the
+CGK. The opponent also advances that claims 1-20
+also lack an inventive step in light of each of D2, D3, D6 and D7 when
+together with the CGK in the art.
+applicant in response asserts that the PSA would not consider D1, D2, D3, D6 and
+D7 as being relevant and, as a consequence, a
+skilled worker at the priority
+date would not be (reasonably) expected to consider any of the documents in
+question to be of assistance
+in developing a system of the kind claimed in the
+opposed application. The applicant also took issue with the manner in which the
+opponent sought to assess the question of inventive step. More specifically,
+the applicant noted that the opponent appeared to adopt
+a differentiation
+analysis whereby they seek to identify points of difference between the claimed
+invention and the citation and
+then ask whether such points of differentiation
+would be obvious to the PSA. In the applicant’s opinion, this approach is
+more akin to an innovative step assessment made under s7(4). Consequently, the
+opponent’s approach was said to be an incorrect
+starting point for the
+obviousness analysis, is liable to mislead and encourages a flawed analysis of
+the requisite statutory question.
+respect to the question of relevance brought up by the applicant, as I have
+previously noted the specification and claims are
+not strictly limited to
+dewatering as advanced by the applicant. The specification contemplates other
+uses for the system outside
+of dewatering, e.g. use of ground water in
+agriculture. Likewise, claim 1 as currently presented is not restricted to
+; it is directed to a power control system suitable for
+controlling a submersible pump that utilises a hybrid power system. D1-D3,
+and D7 generally relate to control systems and methods for the control of AC
+motors and/or pumps across various applications including
+irrigation,
+desalination, etc. Thus, the references relied upon by the opponent are in the
+same general technical field as the
+application and, as such, clearly fall
+within the prior art base for the purposes of s7(3) of the Act.
+relation to the applicant’s points as to the opponent’s approach to
+the assessment inventive step, is not uncommon
+to see an analysis of where or
+how a citation differs from the claimed invention. Such an approach is not
+necessarily at odds with
+the general premise that the appropriate starting point
+in the assessment of obviousness is the prior art per
+AstraZeneca
+[192]-[230]. Often, where a differentiation analysis is employed, the
+assessment of inventive step proceeds solely on the point
+difference rather than
+the actual disclosure or teaching of the reference in question. That is, the
+question posited in such instances
+is whether the identified difference is
+obvious. When framed in this narrow sense, this approach is erroneous and sails
+dangerously
+close to ex post facto analysis. The proper question to be
+determined is, given the disclosure of prior art and the CGK, is what
+Consideration of D1 and the CGK
+noted above the opponent’s position is that D1 anticipates claims 1-3,
+6-8, 13 and 15 and, so, it follows that they also
+lack an inventive step. The
+remaining claims in the opponent’s view lack an inventive step in view of
+D1 and the CGK.
+I have found that D1 does not anticipate claim 1 it cannot be said that claims
+1-3, 6-8, 13 and 15 as a matter of course lack
+an inventive step. It is,
+therefore, necessary for me to consider whether the invention as defined in
+claim 1 lacks an inventive
+step in light of the disclosure of D1 when combined
+with the CGK.
+note that Mr Williams is of the view (see [137] of Williams 1) that the speed
+mode of D1 provides the functionality of the features
+of claims that “the
+system controller arranged to determine available electrical power from the
+renewable energy collector
+and from the battery, the system controller arranged
+to selectively engage or disengage the first source of electricity in response
+to predetermined levels of available power”. At [37]-[43] of Williams 2,
+Mr Williams summarises the various modes of operation
+of D1 and at [44] he
+concludes that D1 constantly monitors and quantifies the levels of available
+power from the solar array and
+battery DC power sources and, based on these
+levels, then determines how the power is used to drive the submersible pump on a
+basis. Mr Williams does not offer anything further to substantiate
+this conclusion. As I have noted in my assessment of novelty,
+I do not draw the
+same conclusion as Mr Williams concerning D1.
+I consider the evidence of Mr Williams, Mr Waterreus or Mr Jeeva there is
+nothing to suggest that the use of a system controller
+arranged to determine
+available electrical power from the renewable energy collector and from the
+battery, or the system controller
+arranged to selectively engage or disengage
+the first source of electricity in response to predetermined levels of available
+was well known in the art as at the priority date. I acknowledge that Mr
+Williams makes statements at [96(e)] of Williams 1 about
+the potential use of a
+PLC to enable an ESP to be driven using power obtained from any one of an AC or
+DC power source based on power
+available from these sources. In Mr
+Williams’ views, such operation equates to the aforementioned features.
+However, the
+statements made at [96(e)] are made in relation to hypothetical
+modifications Mr Williams would likely make to the system which the
+presented him with as outlined at para [32] of Williams 1. As such the opinion
+expressed at [96(e)] of Williams 1 are concerned
+with the hypothetical design
+task postulated by the opponent and are not indicative of what constituted the
+CGK in the art as the
+priority date.
+comes out of the evidence submitted in this case is that it was generally known
+to measure the power produced by renewable energy
+collectors, i.e. solar arrays.
+It was also known to supplement renewables with secondary sources of power such
+as batteries or AC
+sources. However, when I consider the CGK as outlined above,
+there is nothing to suggest that the features of determining available
+electrical power from the renewable energy collector and from the battery, and
+then subsequently having a system controller selectively
+engage or disengage the
+first source of electricity in response to predetermined levels of available
+power, was well known in the
+relevant art as at the priority
+the above discussion, and based on the evidence before me, I am satisfied that
+the invention so far as claimed involves an inventive
+step over the disclosure
+Consideration of D2 and D3 in view of the CGK
+discloses a system for powering and controlling electric submersible pumps. The
+operation of the system of D2 is best understood
+with reference to Figure 2
+(reproduced below). As shown in Figure 2 the system includes a submersible pump
+connected to a first
+source of power being a generator 14 and an auxiliary power
+system 24. The auxiliary power system includes a direct current (DC)
+30 such as a solar generator or wind turbine and battery system 34. As shown
+both the battery and the DC generator are
+connected to the inverter 32 which
+converts the DC electricity produced by the renewable DC generator/battery to
+AC. The AC produced
+from the inverter is then supplied to a VSD 28 which
+supplies AC to the submersible pump. To control the speed of the submersible
+pump the VSD varies the frequency and voltage of the AC supplied to the
+submersible pump based on instruction from the system controller.
+controller can also vary the sped of the submissible pump when powered by the
+generator 14 by exercising throttle control.
+the system of D2 the controller implements an optimization algorithm that
+controls the extent or ratio at which the AC from
+the auxiliary power system and
+the generator is supplied to the pump. The algorithm may balance the first and
+second alternating
+currents such that the necessary power is supplied to the
+pump in the most efficient way possible that minimises fuel consumption
+engine. Thus, under D2 the AC supplied to the pump is a combination of AC from
+the auxiliary power system and generator,
+with the split between these two power
+sources being such that the most efficient operation of the generator is
+is directed to a system for providing a continuous electrical supply to a
+submersible pump or pumps including a combination of
+generator and photovoltaic
+power sources. As shown in Figure 1 (reproduced below) the system of D3
+includes PV arrays 16 arranged
+to provide solar energy to inverters 18 that
+produce three phase AC power. The system also includes a generator 20 which also
+three phase AC power. The system further includes a battery energy
+storage system (BESS) 22 incorporating a battery 24, an inverter
+and a system
+controller. The BESS 22 is sized to be able to supply three phase AC. The power
+from the solar array, BESS and generator
+are all coupled to a variable speed
+drive (VSD) 14 via a common AC bus. The VSD is arranged to supply AC power to
+the pump 12 at
+the required voltage and frequency.
+The system of D3 also includes a system controller (not shown) which receives
+information on the output of the PV arrays, the storage
+level of the batteries,
+the power from the generator and the power demand by the VSD. The system
+controller is arranged to control
+operation of the generator based on the
+information regarding the PV arrays and the BESS. More specifically the
+controller engages
+or disengages the generator based on the levels of power
+provided by the PV arrays and the BESS.
+the opponent’s view each of D2 and D3 take all the features of claim 1
+except that DC is not directly input into the VSD.
+The opponent also notes that
+in both D2 and D3 the VSD is powered by AC with the DC from the renewable
+collector and batteries being
+passed to an inverter which then provides AC to
+the VSD (opponent’s written submissions at [160] and [172] respectively).
+I agree that each of D2 and D3 do not disclose a VSD arranged to receive direct
+current from the renewable energy collector and/or
+battery as claimed. The
+opponent’s case for lack of inventive step is that the provision of DC
+directly to the VSD would be
+obvious to one of skill in the art given D2 and D3
+and the CGK in the art.
+specifically the opponent advances that it was known at the priority date that
+VSDs were able to receive both DC and AC. Equipped
+with this knowledge, the PSA
+would have been directly led as a matter of course to directly connect the DC
+power sources of the system
+D2 or D3 to the VSD. The opponent argued that this
+step, per the comments of Mr Williams at [109] of Williams 1, would have
+no more than a simple wiring change. The opponent then noted that the
+evidence of Mr Williams in this regard is uncontested and,
+as such, his finding
+that the invention of claim 1 is obvious in light of the disclosures of each of
+D2 and D3 should be preferred.
+response, counsel for the applicant again raised the issue regarding the manner
+in which Mr Williams was instructed by the opponent
+in respect to the assessment
+of inventive step. In this respect, counsel for the applicant argued that Mr
+Williams was given very
+broad instruction and the manner in which the
+hypothetical design task was put to Mr Williams effectively led him to the
+invention. The applicant then questioned the probative value of the
+evidence of Mr Williams provided in respect of the hypothetical
+design task he
+was set given the comments of Yates J in
+Novartis AG v Pharmacor Pty
+[2024] FCA 1307.
+At paragraph
+, Yates J warned that
+placing an expert in a position to address such hypothetical design tasks
+invites the import of hindsight.
+addition to the above, the applicant also advanced that it was not a simple case
+of modifying the references of D2 and D3 to remove
+the inverter as suggested by
+the opponent. The applicant argued that in order to produce the claimed
+invention from either D2 or
+D3 you would need to modify the VSD to make it
+suitable for receiving high voltage direct current. The PSA in the
+applicant’s
+view would also have to introduce means of determining
+available power from the battery and a means for selectively engaging or
+disengaging
+the generator assembly modifications into D2. Additional
+modification would also be required to be made to D3 such as removal of
+AC bus, initiation of setpoint control through the inclusion of sensors, etc.
+Given the level of modification required,
+the applicant argued it cannot be said
+that the claimed invention is obvious in light of D2 and D3.
+the applicant’s commentary on the probative value of Mr William’s
+evidence with respect to the hypothetical
+design task which he was set, when I
+consider statements of Mr Williams it is clear he was presented with a specific
+design task.
+Here I am drawn to the statements of Mr Williams at
+[34](a)-[34](d) of Williams 1. It is clear from these statements that the
+in presenting the hypothetical design task, focused in on the issues
+with the use of inverters. Given the manner in which the task
+was sign-posted,
+it is not surprising that Mr Williams was led to the conclusion that it would be
+obvious to simply connect the DC
+from the renewables to the VSD. As a
+consequence of the way in which Mr Williams was instructed, the spectre of
+hindsight looms
+over the opinion expressed by Mr Williams as it pertains to
+obviousness.
+the relevant authorities have made clear, the starting point in the assessment
+of obviousness is the prior art reference. Thus,
+the question to be considered,
+given the disclosure of the identified reference and the state of the CGK, is
+the invention so far
+as claimed obvious? Framed in this light, the question I
+am faced with in this instance is, given the disclosure of either D2 or
+the CGK, would it be obvious to the PSA to directly couple the DC from the
+renewable energy system into the VSD in the manner
+as claimed? When I consider
+each of the systems of D2 and D3 it is clear that each teach the use of an
+inverter to convert the DC
+from the renewable energy system to AC which is then
+provided to the VSD. There is nothing in either reference to suggest directly
+coupling the DC provided from the renewable energy system into the VSD. There
+is nothing in either reference that would lead the
+PSA to directly couple the DC
+produced from the renewable into the VSD. By requiring the DC from the
+renewable energy system to
+be converted into AC before being supplied to the VSD
+each of D2 and D3 teach away from actively coupling DC directly into the VSD.
+I have noted the opponent advances that, when armed with the CGK, the provision
+of DC directly to the VSD would be obvious, requiring
+only a simply wiring
+change. In the evidence submitted there is nothing to suggest that the direct
+connection of DC to the VSD was
+CGK in the art. Mr Williams at [109] of
+Williams 1 opines that the connection of DC directly to the VSD would be a
+simple and routine
+modification as DC input terminals were commonly provided on
+commercially available VSDs for this purpose for many years before the
+date. I note that in making this statement Mr Williams references the
+discussion at paragraph [37] of Williams 1. When
+I look to paragraph [37] of
+Williams 1, I note that Mr Williams states the following:
+Whilst the majority of AC VSDs known before the Priority Date had a
+DC bus, the DC bus used in commercially available VSDs was not
+always connected
+to DC input terminals on the VSD for use by customers. Some VSDs had AC input
+and output terminals only. DC input
+terminals tended to be featured on smaller
+VSDs with relatively low voltage ratings
+These statements seemingly run contra to the opinion express at [109] of
+Williams 1. They highlight that the commercially available
+VSDs at the time
+either did not permit the direct connection of DC, or, where DC terminals were
+provided, there was no guarantee
+that they were connected to the DC bus to
+enable the VSD to be run directly off DC. The limited commercial availability
+having direct DC inputs points to the fact that prevailing practice was
+to supply VSDs with AC.
+Mr Williams considers that such a reconfiguration would require no more than a
+simple wiring change, this does not seem to take
+into consideration that the
+VSDs at the time as per Mr Williams’ evidence did not readily provide for
+the direct connection
+of DC to the VSD. Moreover, the approach taken in D2 and
+D3 in supplying the VSD with AC is in line with prevailing practice. Again,
+there is nothing in either D2 or D3 that would suggest to the PSA to deviate
+from the conventional and accepted approach. Additionally,
+given that the
+majority of commercially available VSDs did not readily support such
+functionality, there is nothing in the CGK that
+would point the PSA toward
+reconfiguring the systems of D2 and D3 to provide DC directly to the VSD. For
+these reasons, I am satisfied
+that it would not be obvious to the PSA to simply
+reconfigure either of the systems of D2 and D3 in the manner suggested by the
+Consideration of D6 and D7
+is a paper entitled optimisation and energy management of hybrid
+PV-diesel-battery system (PV/DG/B system) to pump and desalinate
+isolated regions. The paper evaluates the feasibility of such a system from a
+techno-economic and energy management standpoint.
+The paper evaluates a
+proposed stand-alone PV/DG/B system that supplies a real load in Al-Minya city,
+Egypt. A simulation tool
+(HOMER software) is utilised to determine the optimal
+size and best energy management strategy for a PV/DG/B system. The majority
+the paper is given over to the discussion of the various techno economic
+parameters utilised in the modelling and the determination
+of the best energy
+management strategy. In this regard the paper discusses two main types of
+energy management strategies: load
+following and cycle charging.
+provides little in the way of detail as to the implementation of the control
+system. A broad schematic overview of the end-to-end
+system is shown in Figure
+7 (shown below). As can be seen the system includes a renewable energy system
+including PV arrays and
+batteries that are coupled to a converter and controller
+unit via DC bus. The generator is also coupled to a converter and controller
+unit by an AC bus, with the AC bus also being utilised to supply bower to the
+load being AC pumps desalinators etc.
+discusses the use of solar power in irrigation. D7 notes that components of
+such systems include a solar array, an inverter to
+convert generated DC
+electricity into AC electricity (and enable integration with other electricity
+supply), power controllers, and
+electric pumps to lift the water from source and
+move it to delivery points. A number of topologies for such systems are then
+however these provide little detail on the construction of such systems,
+as shown below. The system shown in figure (a) is a standalone
+DC system where
+the solar array is connected to DC motors and pumps. In the hybrid arrangement
+shown in figure (b) the DC from the
+renewable system solar array and batteries
+is passed to an inverter to produce an AC signal, which is then utilised to
+pump. The hybrid system also includes a generator for supplementing
+the supply of renewables.
+can be seen D7 does depict an arrangement where a control system is utilised. As
+shown the control system is coupled between the
+AC supply and the pump. Outside
+the position of the control system D7 fails to provide any details as to the
+makeup or operation
+of the control system.
+opponent submits that D6 and D7 do not expressly disclose the use of sensors or
+the setpoint control method performed by the system
+controller as claimed.
+However, in the opponent’s view, these features would again be obvious to
+one of skill in the art given
+the state of the CGK.
+opponent’s argument on obviousness with respect to D6 is that the
+implementation of setpoint control would require no more
+than a simple
+modification that the PSA could perform through routine steps that were well
+understood from the CGK. This position
+is based on the view that, in the system
+of D6, the controller is a VSD which governs the ESP’s speed based on the
+load demand (PL) placed on it to perform the pumping process
+(opponent’s submissions at [177]). Similar arguments are advanced
+respect of D7.
+response to the opponent’s submissions, the applicant noted that neither
+D6 or D7 provides sufficient detail concerning the
+configuration of the power
+and control system; without such detail it cannot be said that the claimed
+invention would have been obvious
+to one of skill in the art. Moreover, the
+applicant argued that neither D6 nor D7 disclose or suggest the selective
+engagement and
+disengagement of the generator based on predetermined levels of
+available power as claimed. The applicant submits that this deficiency
+cured by the CGK in the art.
+first issue I have with the opponent’s line of reasoning is that they do
+not adequately address why the inclusion of setpoint
+control into either the
+system of D6 or D7 would be obvious. Mr Williams’s evidence does not
+directly address this question.
+While it is appreciated that the use of
+setpoint control formed part of the CGK as at the priority, this fact alone does
+the claimed invention obvious in view of the disclosures of D6 or D7.
+The question to be assessed is, starting with the disclosure
+of the relevant
+refence and given the CGK, is the claimed invention obvious? The question is
+not whether the PSA could re-design,
+or otherwise modify, the systems of the
+prior art to produce the claimed invention. Rather, the question is would the
+directly to the claimed invention given the disclosure of the prior
+art refence and the state of the CGK as at the priority date?
+and D7 are silent as to the regime utilised to control the pump. D6 is
+concerned with determining the optimal size and best energy
+management strategy
+of a hybrid power system including PVs, a diesel generator and batteries. The
+two energy management strategies
+that are modelled in D6 are load following and
+cycle charging. As per section VI of D6, these two strategies are used to
+the generator operation. In the load following strategy the generator
+output is matched to the real-time demand, using the generator
+only to serve the
+load directly and not to charge batteries. In cycle charging the generator is
+run at maximum capacity to meet
+current demand and use any excess power to
+charge batteries. Neither strategy is concerned with setpoint control
+. D7 makes no mention of any control regime. It only broadly discusses a
+number of possible topologies for the powering of an irrigation
+system utilising
+solar arrays as standalone systems, or in a hybrid system where the solar is
+supplemented by a suitable AC source.
+Consequently, there is nothing in either
+reference that teaches towards, or would otherwise suggest to the PSA, the
+implementation
+of setpoint control in either of the systems of D6 or D7.
+Additionally, there is nothing in the evidence in this case that suggests
+that the PSA, starting from either D6 or D7, would, as a matter of course, be
+led to the implementation of setpoint control
+as advanced by the opponent.
+second issue I have with the opponent’s reasoning is that it proceeds on
+the basis that both D6 and D7 disclose the use
+of a VSD that varies the voltage
+and frequency of the output AC. When I consider D6 and D7 there is no depiction
+or mention of such
+a VSD. Regarding D6, I note Mr Williams’ evidence is
+that he considers that the controller/converter depicted in Figure 7
+variable speed drive (VSD) arranged to receive direct current from the renewable
+energy collector and/or the battery, and
+to output alternating current (Williams
+1 at [323]). However, when I review Figure 7 of D6 and the corresponding
+discussion, no
+mention is made of the configuration of the controller/converter.
+All that D6 says about the construction of the system depicted
+in Figure 7 is
+that the proposed renewable energy system consists of solar PV cells, a diesel
+generator, a converter, and batteries.
+D6 makes no mention of a VSD, nor does
+it make any mention of varying the voltage or frequency output of the converter.
+can be taken from the disclosure of figure 7 is that the converter
+takes in a DC input and outputs the necessary AC to meet the power
+requirements
+of the downstream equipment, such as a desalinator, pump etc.
+respect to D7, Mr Williams states at [378] of Williams 1 that he considers that
+the inverter shown in Figure b of D7 is a VSD.
+In support of this contention Mr
+Williams refers back to his earlier statements at [23] of Williams 1 where he
+opines that VSDs
+are often referred to as inverters. This statement, in my
+view, seems to run contrary to the standard meaning applied to
+which is simply a device that converts DC to AC. The
+statement also seems at odds with the general construction of VSDs as outlined
+by Mr Williams at [24] of Williams 1, where he states that VSDs include 3
+stages: a rectifier, a DC bus and then an inverter, i.e.
+a VSD is significantly
+more than a singular inverter. When I consider the disclosure of D7 there is
+nothing to indicate that the
+inverter is anything more than a standard DC to AC
+inverter. The reference made to the inverter in Figure b clearly states that
+the inverter is a DC to AC converter.
+in my view, despite the opponent’s submissions, D6 and D7 lack a
+disclosure of a VSD as currently claimed. Consequently,
+even if I were to find
+that integration of setpoint control in the systems of D6 and D7 would have been
+obvious and I do not think
+that this has been established by the evidence, the
+systems of D6 and D7 would still be lacking a number of salient claim features
+namely the use of the VSD along with determining predetermined levels of
+available power to selective engage or disengage the first
+source of power (i.e.
+generator set). Given the limited technical detail in D6 and D7 and the fact
+they do not disclose a number
+of pertinent claim features it is apparent that
+they fail provide sufficient teaching that would render the claimed invention as
+being obvious.
+light of the above I am satisfied that the invention as defined in claim 1
+involves an inventive step over each D6 and D7.
+Consideration of inventive step in light of the combination
+any one of D1-D7
+opponent contends that the invention as claimed lacks an inventive step in light
+of the combination of any one of D1, D2, D3,
+D6 and D7. More specifically, the
+opponent advances that it would be obvious to the PSA to make the necessary
+substitution or additions
+to the references in question from the remaining
+documents in the cohort e.g. D1 combined with any one of D2, D3, D6 and/or D7
+to produce the claimed invention.
+applicant’s position regarding the opponent’s case under s7(3) is
+that they have done little more than to cherry pick
+the missing features
+identified in their differentiation analysis from one or more of the references
+in order to try and arrive at
+the various claims that are attacked. In the
+applicant’s view, the general assertion made by the opponent as to the
+combination
+of the documents and CGK concerned does not reflect the requirements
+of the test of obviousness. The applicant stated that the opponent’s
+submissions are, in essence, an invitation to the Commissioner to engage in an
+approach that was admonished by Yates J in
+Rakman International Pty Ltd v
+Boss Fire & Safety Pty Ltd
+[2022] FCA 464
+. The applicant
+argued that the unquestioned acceptance of such broad general submission without
+regard to a proper evidentiary footing
+renders the notion of the onus of proof
+being borne by the opponent meaningless.
+opponent’s rationale for their proposed combination of references is
+principally set out at paragraph [139] of their written
+submissions. The
+essence of the opponent’s submissions are as follows:
+The documents in
+question are all from the same technical field and address the same problem
+Each of the
+identified references uses exactly the same control devices as used by the
+system claimed by the application. Given this,
+the PSA would not have been
+required to use any inventive capacity to combine the documents.
+The technical
+field of the claimed invention was mature at the priority date, so the PSA would
+have been prompted to research the
+field and to combine documents discovered as
+a result of such research.
+I consider the points put forward in paragraph [139] of the opponent’s
+written submissions, they appear to be little more
+than a recitation of the
+general considerations coming out of the authorities concerning the combination
+of documents for the purposes
+of s7(3). Nothing put forward in paragraph [139]
+engages with the question of whether the PSA would have been reasonably expected
+to combine the references in the manner proposed. Moreover, there was nothing
+put forward in oral submissions that addressed this
+question; it was simply
+advanced that the PSA would look to the remaining documents in the cohort to
+rectify the deficiencies in
+each of D1, D2, D3, D6 and D7 to arrive at the
+claimed invention.
+Mr Williams’s evidence concerning the combination of references does not
+engage with the question of reasonable expectation
+or reasonable basis to
+combine. For instance, at paragraph [442] of Williams 1, Mr Williams simply
+states that he considers the
+VSD configuration required by claim 1 to be
+disclosed in each of D1, D6 and D7. Consequently, he would have been “led
+matter of course by the information disclosed in any one of the foregoing
+publications to configure the system in D2 as required
+by claim 1”.
+Similar statements are made with respect to D3 at paragraph [459] of Williams 1.
+The statement again seems to
+be phrased in terms of the hypothetical design
+problem with which Mr Williams was presented.
+Consequently,
+I am inclined to agree with the applicant that the opponent has failed to
+discharge their onus to prove their case for
+lack of inventive step under
+s7(3)(b). This view is only reinforced when I consider the disclosures of D1,
+D2, D3, D6 and D7 which
+fail to present any motivation or reasonable basis to
+combine their teachings.
+explain further, as I have noted above, D2 and D3 require the DC from the
+renewable energy system to be converted into AC before
+being supplied to the
+VSD. Consequently, both D2 and D3 teach away from connecting DC directly to the
+VSD, consistent with standard
+industry practice at the priority date, since
+commercially available VSDs as at the priority date were not typically
+configured to
+accept DC directly. D1, by contrast, teaches directly connecting
+DC to the VSD. Given the teaching of D1 is in direct conflict
+of that D2 and
+D3, there is no reasonable or rational basis for the PSA to proceed to combine
+the references as suggested. In fact,
+modifying the systems of D2 or D3 to
+accept DC as taught in D1 would seem to be counter intuitive, given the
+limitations of commercially
+available VSDs of the time.
+respect to D6 and D7, as previously discussed neither of these references
+discloses the use of a VSD as claimed. Furthermore,
+each of these references
+contains little in the way of technical discourse concerning the implementation
+of the depicted hybrid system.
+All that is provided in D6 is that the AC and DC
+sources are coupled into the controller/converter in a non-descript manner and
+that the controller/converter then supplies the downstream components such as
+pumps, desalinators, etc with the required AC. As
+previously noted, D6 is more
+concerned with determining the best energy management strategy, this being
+either load following or
+cycle charging. D7 simply has depictions of a
+standalone DC system and two hybrid systems. There is nothing in D7 that speaks
+the control of such systems or to the actual physical components used other
+than the use of generic labels such as “inverter”,
+motor”, “DC motor”, “generator”, etc. The fact
+that neither reference specifically discusses
+the use of VSDs and the lack of
+any specific technical detail as to the implementation of the systems makes it a
+difficult prospect
+for the PSA to meaningfully combine the disclosures of D6 and
+D7 with any one of D1, D2 or D3.
+light of the forgoing, the opponent’s case that the invention lacks an
+inventive step in light of the combination of any
+one of D1, D2, D3, D6 and D7
+opponent has not established that the documents relied upon contain sufficient
+disclosure to render claim 1 as lacking novelty.
+Nor has the opponent
+established, based on the evidence submitted in these proceeding, that the
+invention as defined in claim 1
+lacks an inventive step. Since claim 1 is the
+only independent claim, it follows that the dependent claims are also novel and
+Consequently, the opposition fails on all
+parties sought their costs. In this case, I see no sufficient reason to depart
+from the normal approach that costs should follow
+the event. The opposition is
+unsuccessful. Accordingly, I award costs in accordance with Schedule 8 against
+the opponent, Allied
+Pumps Pty Ltd.
+Neil Miller
+Delegate of the Commissioner of Patents
+RTF format (111 MB)
+Signed PDF/A format

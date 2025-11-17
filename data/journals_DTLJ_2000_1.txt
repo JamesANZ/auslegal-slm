@@ -1,0 +1,529 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/DTLJ/2000/1.html
+Scraped: 2025-11-17 14:54:28
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+White, Steve --- "Comment: Discovery of Electronic Documents" [2000] DigTechLawJl 1; (2000) 2(1) Digital Technology Law Journal 1
+Comment: Discovery of Electronic
+Steve White
+White SW Computer Law
+Introduction
+Discovery involving electronic documents, such as email or software
+source code, poses many issues that do not arise as commonly
+with traditional
+paper documents.
+These issues include:
+Working out which documents are discoverable or not:
+task is much more non-trivial than it was in the past, having regard to the
+quantity of data that businesses today produce.
+Numerous Copies:
+The ease of duplication and the propensity
+to have multiple copies of data (in various versions for backup and other
+leads to multiple intermediate versions of the same document being in
+existence years after the final document was created. The
+strict obligation to
+discover copies of all documents becomes particularly important in this regard.
+Unforeseen Copies:
+Many copies of a document may be created
+by machines in the ordinary course of processing such documents. These documents
+information stored in each different document can be very significant and
+can have real impact on the proceedings. However, without
+significant technical
+expertise and understanding of the computer systems involved, these documents
+are often lost or not discovered.
+Are the known documents recoverable?
+In many cases, backup
+storage techniques may have utilised superseded hardware and software and the
+examination of the media can
+be very difficult when the original equipment is
+not compatible with modern equipment. For example, tape backups have over the
+years utilised different recording formats and smaller and smaller tape spooling
+devices and these simply are not usable unless
+you have a tape reader that is
+designed to read and house that particular sized tape cartridge or reel.
+Who has control of the documents?
+When off site records are
+involved, it should be asked in whose possession and control the data is in and
+whether such documentation
+should be subpoenaed rather than discovered; for
+example, web site logs stored by an Internet Service Provider.
+Additional Costs:
+The abovementioned factors all mean that
+discovery is a complex and expensive exercise, the costs of which could exceed
+in dispute. Particular consideration needs to be given to the costs
+involved in ascertaining which documents are discoverable or
+not, searching for
+such documents and retrieving data included in the document.
+This comment will examine these issues in more detail in the light of
+recent case decisions.
+Preliminary Discovery of
+Electronic Documents
+To understand the importance of electronic documents it is useful first
+to look at its applications in a preliminary discovery scenario.
+In matters involving information technology disputes or copying of
+electronically stored materials, preliminary discovery of electronic
+can play an important role in collecting evidence and identifying potential
+defendants and causes of action. Often such
+cases involve incidents in which
+software or other electronic data is more crucial to the determination of a
+matter than may be
+the case in a normal commercial transaction which has been
+documented electronically.
+In the matter of
+A2B Telecommunications Pty Ltd v Hinkley &
+the plaintiff sought
+an order pursuant to Rule 32.05 that the defendants make discovery of specific
+documents. The plaintiff alleged
+that the first defendant, Adam Hinkley
+("Hinkley") had been an employee of the plaintiff from October 1995 until
+September 1997
+and, during the course of his employment, had developed source
+code for certain computer software applications. The plaintiff further
+that, prior to resigning from the employ of the plaintiff (without notice) and
+moving to Canada, Hinkley deleted or encrypted
+all copies of the source code on
+the computer systems of the plaintiff.
+In related proceedings,
+Hotline Communications Ltd & Ors v Adam
+Hinkley & Ors
+Communications ("Hotline") obtained in 1998, by way of an Anton Piller order,
+copies of source code for various software
+applications and related materials
+from Hinkley and other parties. Hotline claimed, amongst other things, that
+Hinkley had deleted
+certain source code from computers at Hotline
+Communications' premises in Canada and had left in similar circumstances to
+of his departure from A2B.
+A2B sought preliminary discovery of the materials obtained by Hotline by
+way of the Anton Pillar order to determine whether the source
+code developed for
+Hotline by Hinkley was the same, or substantially the same, as the product
+developed by Hinkley during the course
+of his employment by A2B.
+It was found by Warren J that, notwithstanding A2B's suspicions, A2B
+could not know of any similarity between the respective source
+code until it had
+the benefit of inspection of the documents it sought to be discovered. Following
+inspection, litigation was subsequently
+commenced by A2B against Hotline,
+Hinkley and other parties based upon the similarities found between the source
+code, the other
+electronic information which was discovered and the analysis
+that this made possible.
+An application for preliminary discovery need not be for specific
+documents; it may also be used in order to identify a respondent.
+London Economics (Aust) Pty Ltd v Frontier Economics Pty Ltd
+example of a matter in which the applicant sought discovery by certain parties
+then employed by the respondent, who had been
+formerly employed by the
+applicant, of materials including, amongst other things, computer programs, data
+files, computer tapes
+and CD-Rom disks containing relevant information. The
+applicant satisfied the Court that, in compliance with Federal Court Rules
+15A rules 3 and 6, it had made reasonable inquiries to elicit the relevant
+information and its inquiries had been unsuccessful.
+In following Gobbo J in
+G Breschi & Son Pty Ltd v AFT Ltd
+, Finkelstein J found
+that whilst it was not a legitimate use of Order 15A, rule 3 for parties to be
+examined about their own involvement,
+the rule can be used in a case where there
+are many prospective defendants, none of whom have been sufficiently identified
+as potential
+defendants, to ascertain who might be the proper defendant.
+Electronic documents may be particularly useful in such discovery because
+they often contain a record of who has accessed, modified
+or printed the
+document and the time and date of such use. However, applicants must bear in
+mind that the cost of such electronic
+discovery may be high and, as in
+, the applicant may be required to pay the costs associated with
+Post issue discovery was first introduced in nineteenth century English
+equity procedures and aims to provide the parties access
+to all of the relevant
+documentary evidence in each party's possession so as to prevent being
+"ambushed" at trial. The process
+involves an exchange of lists of documents
+which are usually verified by an affidavit, following which each party may
+inspect the
+non-privileged documents set out in the opposing party's list.
+Discovery is an invasion of the privacy and confidentiality of litigants,
+but is incorporated into legal procedure because the public
+interest in ensuring
+justice is done between parties is considered great enough to outweigh the
+interest in maintaining confidentiality.
+However, discovery is not directed
+towards assisting a party on a "fishing expedition". Only documents which relate
+to the matter
+in issue are discoverable, with it being sufficient justification
+that the document would, or would lead to a train of inquiry which
+would, either
+advance one party's case or damage that of his adversary
+The Federal Court rules Order 15, rule 15 requires that the Court be
+satisfied that an order for discovery is, at the time when the
+order is made,
+necessary in the interests of a fair trial
+It is common practice
+for parties to categorise and limit the documents which they will seek and
+provide access to. The choice
+of such categories should be related to the
+pleadings in the matter to assist in minimising the scope of discovery to a
+A party is not compelled to discover a document which would tend to
+subject him to a penalty and discovery will not be ordered in
+proceedings which
+are analogous to proceedings to enforce a penalty
+A party may also
+refuse to produce any document that may tend to bring him into the peril and
+possibility of being convicted as
+, which may be useful
+in cases where electronic documents provide evidence of criminal activity such
+as copyright infringement.
+However, seeking to avoid discovery on such a basis
+may prejudice a party's credibility.
+Where a party has been ordered to give discovery, they are under an
+ongoing obligation to discover any document not previously discovered
+would be necessary to comply with the order
+Thus, in cases
+where further backup tapes are located or data is successfully recovered that
+was previously unreadable, a supplementary
+affidavit of documents must be
+prepared and supplied to the other party.
+After a directions hearing pursuant to Order 10, a party may, unless the
+Court otherwise orders, require any other party to provide
+Although there is no express limit on discovery, the Federal Court may limit
+discovery under Order 15 rule 3 where appropriate.
+In cases involving vast
+quantities of electronic documents, the parties may be able to request that the
+scope of inquiry in relation
+to the electronic records be limited to avoid the
+sometimes great expense of recovering data, where there is little chance of
+information being supplied.
+Criticisms of
+Common criticisms of discovery include:
+The objectives of discovery are not achieved due to discovery
+being used as a delaying tactic, a fishing expedition or as a process
+the other side's litigation costs; and
+Even when useful, discovery is too costly.
+If the costs of complying with orders for discovery are excessive this
+should be brought to the attention of the Court. In cases
+involving vast
+quantities of electronic data, accurate estimates of the cost of providing
+information in a useable form should
+be determined and, where appropriate, used
+to limit the required scope of investigation. If discovery orders are made by
+there may be no consideration by the Court of the reasonableness of
+discovery, or analysis of the possible costs and benefits of
+the process.
+Discovery ought not to be used by litigants as a weapon with the purpose
+to delay, harass or drive the other party by exhausting
+their litigation funds
+or by otherwise forcing an early settlement. Demanding or producing an
+overwhelming amount of irrelevant
+documents or withholding documents can impose
+a high cost, as can excessive legal argument about access to documents.
+Options for controlling discovery through more intervention by the Court
+include: a) keeping the level of discovery proportionate
+to the type of case; b)
+encouraging parties to confer and concur on the scope of discovery; and c)
+greater use of 'informal discovery'
+involving the exchange of relevant documents
+without the need for verification.
+Some of the principles relevant to an application for discovery were
+summarised by Finn J in
+Pasini v Vanstone
+as follows:
+A party does not have an unqualified right to discovery under the
+Federal Court Rules.
+General discovery will not be ordered as a matter of course,
+discovery commonly being ordered only in relation to particular issues
+defined categories of documents.
+The rules of court do not place on judges the responsibility of
+determining for the parties which of their respective documents are
+required to
+be discovered. Judges have not traditionally assumed such a role.
+Where a proceeding is one for judicial review, discovery in that
+proceeding is not to be treated otherwise than according to the
+principles applicable in civil proceedings. Nonetheless, the nature of judicial
+review proceedings is commonly such either
+that the occasion for making an order
+will not arise or that discovery will only be ordered in relation to a
+particular issue or
+Whether or when discovery will be ordered depends on the nature of
+the case and the stage of the proceedings at which the discovery
+With the rules of Court having prescribed the method by which
+parties can obtain discovery or further discovery, and having regard
+constraints imposed on discovery, it is impermissible to attempt to achieve
+discovery through resort to the subpoena process.
+These principles do not outline the circumstances in which a Court will
+regard an order for discovery as necessary in the interests
+of a fair trial,
+however, important considerations must be the nature of the case and the stage
+of the proceedings at which discovery
+In relation to discovery orders in doubtful cases, Brennan J (as he then
+W.A. Pines Pty Ltd v Bannerman
+stated: "sufficient
+is shown to ground a suspicion that the party applying for discovery has a good
+case proof of which is likely
+to be aided by discovery". This was contrasted
+with the case where "the proceeding is essentially speculative in nature".
+In matters involving vast quantities of electronic records, the hurdle to
+surmount in relation to showing that a party is "likely
+to be aided by
+discovery" should perhaps be set somewhat higher, in order to avoid the
+situation where one party is forced to sift
+through huge amounts of
+documentation for items which they contend will be of little assistance to the
+other parties to the litigation.
+Before extensive data recovery is required, the
+parties should be given the opportunity to depose as to what the electronic
+are likely to consist of and why these materials are likely to be of
+little assistance to the other parties.
+Problems associated with
+Discovery of Emails and Other Electronic Documents
+The Federal Court Rules define the word "document" to include any
+material, data or information stored by mechanical or electronic
+This definition says nothing about whether such electronically stored documents
+must be in a readable format or not. As a result,
+any data stored by the
+organisation must be considered when providing discovery.
+Despite conventional backup strategies that usually result in periodic
+overwriting of backup media, there is the possibility that
+copies of documents
+may exist dating back several years due to lapses in applying the backup
+strategy or retention of copies which
+would normally have been discarded. For
+example, when a backup tape is determined likely to be unreliable it may be
+not re-used rather than being discarded. This could mean that years
+of data will need to be reviewed to determine whether it contains
+discoverable documents or not.
+Usual back up procedures will need to be reviewed during litigation. The
+obligation to not destroy relevant evidence during litigation
+needs to be taken
+into account so that electronic documents that only exist in electronic form on
+backup tapes are not destroyed
+by subsequent overwriting.
+In the matter of
+BT (Australasia) Pty Ltd v State of New South Wales
+& Anor (No 9)
+a large amount of
+discoverable material existed as e-mails, backup tapes and other electronic
+documents. BT (Australasia) Pty Ltd
+("BT") filed a motion which claimed that
+Telstra Corporation Ltd ("Telstra") had failed to comply with its discovery
+obligations
+in respect of electronic communications such as e-mails and other
+electronic documents, and had failed to take appropriate steps
+to prevent the
+destruction of discoverable documents, including documents in electronic form.
+In this matter, Telstra was found to have backup tapes dating back
+several years despite standard procedures being in place that
+would normally
+prevent such long term storage by overwriting data tapes. In his judgment,
+Sackville J was unsympathetic to the
+concern that reviewing and retrieving
+stored data is difficult and time consuming. His honour stated that "...I do not
+technical sophistication is a prerequisite to a litigant or its
+advisors making inquiries to ascertain whether discoverable electronic
+communications or documents have been recorded and retained in a retrievable
+A similar stance was taken by Mansfield J in
+NT Power Generation Pty
+Ltd v Power & Water Authority
+, where the
+respondents sought an order limiting the discovery of e-mail communications to
+those which existed in hard copy form.
+His Honour was not persuaded that, in the
+interest of justice, the respondents ought to be excused from giving discovery
+communications retained only electronically, notwithstanding the time,
+expense and effort involved in doing so.
+Given that the Court is quite comfortable with ordering the wide scale
+review of e-mail correspondence, this may have implications
+for employers'
+obligations in relation to employees' privacy.
+There have been several incidents, particularly in the US, involving
+employer access to employee e-mail files. Employees more and
+more commonly send
+"personal" messages by e-mail rather than communicating by telephone or face to
+face, which means there are
+written records of statements that once would never
+have been recorded and there is a common, unfounded assumption that anything
+sent by e-mail is private.
+Although there is undoubtedly an expectation that an employee's e-mail
+will be confidential, most computer systems are structured
+in a way that will
+allow access to any stored data. Could an employer use indiscreet e-mails
+located during the provision of discovery
+to, for example, dismiss an employee
+if the messages would not have otherwise been read?
+Employers should consider consultation with employees in relation to
+e-mail usage and monitoring and the implementation of well-publicised
+understood policies. Employees should be briefed so as to inform them of the
+backup and storage of data. In most computer systems,
+"deleting" an e-mail does
+not totally remove the document, but merely makes it more difficult to retrieve.
+Employees should be
+warned not to expect privacy within the email system, that
+even "deleted" e-mail may be retrieved and that the company may read
+messages. Companies with international operations may need to consider their
+alert the Court to the fact
+that orders for discovery may lead to breaches of such obligations.
+The rules governing the use of email, particularly to external parties,
+should be carefully considered, as it is common for e-mail
+correspondence to be
+less carefully worded than other forms of correspondence, particularly when it
+is not proof read before being
+sent. Employers should also consider the use of
+messages to reflect the often preliminary thoughts or ideas of an employee that
+may not have been reviewed by the employer, yet
+e-mail may be construed by the
+Court to reflect the employer's view.
+Once a policy has been developed in relation to the use and storage of
+email and other electronic documents, it is important for
+management to liaise
+with the information system managers in relation to backup procedures. It is
+commonly considered that backup
+information should be saved for long periods
+with the view that "longer is better". Particularly if an organisation is in a
+prone industry, there should be established procedures to delete
+electronically stored documents from the backup media.
+Of course, such procedures need to be implemented on the assumption that
+the organisation has adequate records of documentation that
+would be of
+assistance to it in the course of litigation, stored elsewhere. The removal of
+backed up materials should be done in
+a systematic way to reduce the likelihood
+of a heavy burden in relation to discovery being forced upon the organisation,
+than from the view of destroying all possibly incriminating evidence.
+Should there be a requirement for the term of retention being at least as
+long as any applicable statute of limitations or regulatory
+review period? At
+the moment, there are no such restrictions in Australia specifically directed
+toward electronic documents, but
+this may be an area of change in the future as
+more and more documents are stored only in electronic form.
+However, having a backup and purging policy in place is only effective if
+the policy is implemented correctly. For example, in the
+case of discarded
+backup tapes, are they simply thrown in the rubbish or is an effort made to
+physically destroy the media so that
+any stored data is irretrievable?
+Similarly, storage media that has been overwritten may be able to be manipulated
+in order to
+recover the earlier recorded material if the time and effort is
+Internal housekeeping will reduce the burden of discovery, but it does
+not mean that copies of electronic documents will not be stored
+by, for example,
+the recipient of email messages, on disks and backup tapes of intermediate
+external IT systems used to transmit
+the email message, third party internet
+service providers or merely on employees' laptops. Should a party's obligations
+in relation
+to discovery be interpreted so widely as to encompass all these
+possible data repositories? It would seem unlikely that such an
+order would be
+made unless there was a very high probability that further relevant material
+would be retrieved that is otherwise
+not available.
+It is very dangerous to assume that, merely due to thoroughly implemented
+internal periodic deletion of electronic records, further
+copies of certain
+documents do not exist externally to the organisation's IT system. While
+inquiries regarding third parties' backup
+procedures may have been made, if
+there is no control over the implementation of those procedures or subsequent
+changes to the
+procedures the possibility of copies of documents being in
+existence must not be discounted. As an example, a programmer may keep
+backups indefinitely due to previous experiences involving data loss. When
+information has been recorded, even inadvertently
+or without the knowledge of
+the parties, it may be admissible as evidence, unless the Court considers such
+intermediate or third
+party storage as analogous to the interception of
+telephone conversations.
+The possibility also exists that a party may claim that lawyer-client
+privilege for electronic documents has been waived as a result
+of intentionally
+giving a copy to a third-party for reasons other than providing legal advice,
+such as for the purposes of communication.
+Even if e-mails themselves are not recorded by third parties, automatic
+recording of information for billing purposes (documenting
+the message
+transmission time, time and date of transmission, author address, and recipient
+address) may be relevant if one party
+is aided by the confirmation of
+communication between parties regardless of the content of such communication.
+For instance, where
+one party may be claiming that a message had been sent on a
+particular day, and the other party denies receiving it on that day,
+log could be introduced as proof of the fact that the message was sent. This may
+be particularly useful if the parties
+are in dispute in relation to the timing
+of offer and acceptance in contractual negotiations. An e-mail log could also be
+to show that discovery provided does not include all e-mail messages
+exchanged between the parties.
+The application of the rules governing discovery need to be thoroughly
+considered in this new business environment. Consideration
+needs to be given to:
+Greater emphasis on particular discovery;
+Greater emphasis on who is responsible for the costs of discovery
+at first instance;
+Greater emphasis on complete indemnity costs being awarded in
+circumstances where discovery is ordered and is later found to be completely
+unnecessary;
+The party seeking discovery's strategy - What documents does it
+need? Who has those documents? What costs are involved? Is the request
+practical? Does it need discovery experts?
+The party resisting discovery's strategy - Is the request
+relevant? Is the request necessary? Who is responsible for the cost?
+The person from whom discovery is being sought - prediscovery
+strategy - what records should be kept and for how long?
+Whether procedural rules should be amended to take account of the
+large amounts of commercial data that is only stored in electronic
+Whether the Court should be assisted by any third party such as a
+special referee in relation to such discovery applications; and
+Whether or not discovery is being misused.
+This paper is a guide only and should not be used
+as a substitute for legal advice, readers should make their own enquiries and
+seek appropriate legal advice.
+[1999] VSC 76.
+Proceeding No. 7673 of
+Federal Court Rules Order 15A
+[1999] FCA 932.
+[1988] VicRp 14
+[1988] VR 109.
+[1959] HCA 23
+(1959) 103 CLR 341.
+Percy v General
+Motors-Holden's Pty Ltd
+[1975] 1 NSWLR 289.
+Commissioner of Taxation; Ex parte Briggs
+(1987) 13 FCR 389.
+Commonwealth
+(1983) 153 CLR 281.
+Federal Court Rules
+Order 15 rule 7A.
+Order 15 rule 1.
+Lord Keith of Kinkel
+Harman v Secretary of State for the Home Department
+[1983] 1 AC 280
+380 as cited with approval by Spender J in
+Mackay Sugar Co-Operative
+Association Ltd v CSR Ltd
+(1996) 137 ALR 183
+[1999] FCA 1271.
+[1980] FCA 79
+(1980) 41 FLR 175.
+Order 1, rule 4.
+[1999] FCA 1669.
+Print (pretty)
+Print (eco-friendly)
+No downloadable files available
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

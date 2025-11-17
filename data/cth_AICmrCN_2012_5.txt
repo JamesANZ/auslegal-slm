@@ -1,0 +1,131 @@
+Medvet Science Pty Ltd: Own motion investigation report [2012] AICmrCN 5 (1 July 2012)
+Timothy Pilgrim, Privacy Commissioner
+Relevant provisions of the Privacy Act
+2 Use and disclosure
+4 Information quality and security
+Acronyms and abbreviations
+Medvet Science Pty Ltd (Medvet), trading as Medvet Laboratories, has been found in breach of the
+) (Privacy Act) following an investigation by the Australian Privacy Commissioner, Timothy Pilgrim (the Commissioner).
+On 20 July 2011, the Commissioner opened an own motion investigation in response to media reports that customer information held by
+Medvet had been compromised.
+The media reports claimed that names, home and work addresses of Medvet customers who had ordered paternity, drug and alcohol test
+kits had been made available on the internet.
+The Commissioner's investigation focused on whether Medvet's handling of the personal information it held was consistent with the
+National Privacy Principles (NPPs) contained in Schedule 3 of the
+. These principles include requirements about when personal information may be disclosed (
+2) and what security measures must be in place to protect the personal information (
+The Commissioner found that the accessibility of address information on the internet constituted unlawful disclosure of personal information
+in contravention of
+2. The Commissioner also concluded that Medvet did not have reasonable steps in place to protect personal information, in contravention
+Medvet was notified by a journalist from
+The Australian
+newspaper that certain client information from orders placed via Medvet's online Webstore could be accessed via a Google search.
+Medvet advised that upon receiving this information it:
+immediately notified CP Moore (the company that hosts Medvet's Webstore)
+closed the Webstore
+initiated actions to identify the extent of the security breach and to remedy the situation.
+The Webstore application offered by CP Moore used software developed by Iciniti Corporation, which is located in Canada.
+Medvet initially advised that up to 692 online orders had been made accessible and captured via a Google cache. The orders were primarily
+for parentage or illicit drug testing services or products. However, a subsequent report on the incident by Deloitte Touche Tohmatsu
+Limited (Deloitte) which was commissioned by SA Health stated that 848 online orders were stored in Medvet's online web store. The
+testing undertaken by Deloitte showed that 29 of these orders had been accessed over a two month period.
+Medvet said the information available via the Google cache was limited to the ‘ship to address' from each order, details of the
+service/product requested and the price paid for that service/product. In that regard, no customer names, client bank account details
+or details of any test results were available online.
+Medvet advised that as soon as it became aware of the incident it identified the cause of the breach and took steps to remedy the
+situation by:
+engaging two
+specialist organisations to assist with removing the cached records from Google
+escalating the issue to Google; Medvet indicated that by the early afternoon of Monday 18 July 2011 all cached records had been removed
+from Google
+advertising in major newspapers to make people aware of the incident and requested any person who believed they had been affected
+to contact Medvet directly
+placing notices on the Medvet website and responding to all enquiries.
+A forensic investigation into the incident by Deloitte was commissioned by SA Health. Deloitte was also commissioned to undertake
+an assessment of all of Medvet's internet-facing security systems to identify potential additional security vulnerabilities.
+The Deloitte forensic investigation concluded:
+the incident in relation to the Webstore occurred because the online ordering software provided to Medvet by lciniti Corporation and
+CP Moore did not include appropriate security
+the development and quality management practices associated with the Webstore application were deficient. Multiple security flaws
+were identified and there was an apparent lack of security testing associated with the product
+no names of clients or test results were released and no client could be reasonably identified
+there was a need for Medvet to further develop security policies and standardisation of information security testing and compliance
+activities to formally define information security roles
+Medvet management responded quickly and appropriately, referring all concerns back to the software provider
+the security practices within Medvet's internet-facing systems needed updating.
+Medvet has adopted the recommendations from the Deloitte forensic report and employed a consultant to develop strategies to implement
+these improved security processes.
+Medvet also advised that, despite the extensive advertising by Medvet and media exposure of this incident, Medvet received no customer
+enquiries from individuals who may have been affected by the incident.
+Relevant provisions of the Privacy Act
+Medvet regularly handles personal information, including sensitive information and is required to comply with the 10
+s contained in Schedule 3 of the
+, which regulate the way organisations handle personal information.
+‘Personal information' is information that identifies an individual or could reasonably identify an individual. The
+defines ‘personal information' as:
+... information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded
+in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information
+or opinion.
+The Commissioner's investigation focused on whether the incident was an ‘unauthorised disclosure' of personal information and therefore
+whether the handling of personal information was consistent with:
+2 (use and disclosure)—in particular
+2.1, which provides that an organisation must only use or disclose personal information for the primary purpose for which it was
+collected, unless one of a number of exceptions apply
+4 (data security)—in particular
+4.1, which requires organisations to take ‘reasonable steps' to protect the personal information they hold from misuse and loss
+and from unauthorised access, modification or disclosure.
+2 Use and disclosure
+In general terms an organisation
+personal information when it releases information to others outside the organisation.
+In the report conducted by Deloitte, it is stated that information had been captured by Google cache and that information included
+billing and shipping address details in addition to service order details. The report outlined the following exposures:
+April 2011—there was insufficient data to form any conclusions regarding the extent of exposure, if any
+May 2011—one customer order was viewed two times on Google cache
+July 2011—28 customer orders were viewed 174 times by a maximum of 149 individuals.
+In summary, 848 orders including address information were stored in Medvet's online web store and that these were accessible via Google
+regard to the nature of Medvet's business, including that its customers were individuals as well as commercial entities, that the
+accessibility of address information on the internet constitutes unlawful disclosure of personal information.
+The Commissioner was satisfied that the disclosure of personal information of customers was not permitted by any exceptions in
+2. For that reason, the Commissioner was of the view that Medvet was in breach of
+4 Information quality and security
+The Commissioner looks at an organisation's security safeguards when assessing whether it has taken reasonable steps to comply with
+4.1. Such safeguards could include:
+physical security measures that, for example, only allow authorised users to enter the premises
+secure storage and destruction facilities
+computer and network security measures
+communication security that, for example, protects emails from unauthorised intrusion and interception
+security protocols that include policies and procedures that regulate how staff and others with access to personal information will
+access and handle that information.
+Whether measures taken to secure personal information are considered to have been ‘reasonable steps' will depend on the organisation's
+particular circumstances. For example, the size of the organisation, how the organisation handles the personal information it holds,
+and the type of information that it holds will be relevant factors.
+In deciding what security safeguards are reasonable to comply with their obligations under
+4.1, organisations should consider a range of measures including:
+taking steps to identify security risks to personal information held by the organisation
+developing policies and procedures that reduce identified risks
+having appropriate IT security settings governing system access, and monitoring and measuring performance against relevant Australian
+and International standards. It was clear from the Deloitte's forensics report that multiple security flaws existed in the software
+provided by lciniti and hosted by CP Moore. Medvet was therefore putting individuals' personal information, including sensitive health
+information, at risk of being compromised by using software with these security flaws.
+It is the Commissioner's view that Medvet did not have reasonable steps in place to protect the personal information it held at the
+time of the incident and therefore did not meet its obligations under
+The Commissioner notes, however, that Medvet acted swiftly to identify the security risks as soon as it became aware of the incident.
+Further, since the incident, Medvet has taken steps to improve its security systems and develop policies and procedures that reduce
+identified risks.
+The Commissioner concluded that the accessibility of address information of Medvet's customers on the internet constituted a disclosure
+of personal information. This disclosure was not permitted by the exceptions under
+2. This disclosure was, therefore, a breach of
+The Commissioner considers that, at the time of the incident, Medvet did not have an adequate level of security in place to protect
+the personal information, including sensitive health information, it held. For that reason, Medvet did not meet its obligations under
+Businesses need to make sure that appropriate privacy and security measures are considered when they are purchasing or contracting
+out the build of IT systems. Ideally, these measures should be built in at the beginning of the design process. Business owners are
+responsible for taking reasonable steps to ensure that their systems are secure.
+Acronyms and abbreviations
+Commissioner — Privacy Commissioner
+Cth — Commonwealth
+Deloitte — Deloitte Touche Tohmatsu Limited
+Medvet — Medvet Science Proprietary Limited
+s — National Privacy Principles (contained in Schedule 3 of the
+SA Health — South Australian Health
+Guidelines to the National Privacy Principles
+No downloadable files available

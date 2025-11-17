@@ -1,0 +1,2056 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/nsw/NSWSC/2021/715.html
+Scraped: 2025-11-17 11:49:15
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Dwyer v Volkswagen Group Australia Pty Ltd t/as Volkswagen Australia [2021] NSWSC 715 (18 June 2021)
+Supreme Court
+New South Wales
+Dwyer v Volkswagen Group Australia Pty Ltd t/as Volkswagen Australia
+Medium Neutral Citation:
+[2021] NSWSC 715
+Hearing Date(s):
+18-20, 24-25, 31 May and 1 June 2021
+Decision Date:
+18 June 2021
+Equity - Commercial List
+Stevenson J
+The plaintiff’s case fails
+Catchwords:
+CIVIL PROCEDURE – Representative proceedings – Sale of goods
+– claim that Volkswagen vehicles were not of acceptable
+quality for the
+purposes of s 54 of the Australian Consumer Law by reason of being fitted with
+driver side Takata airbags –
+where airbags contained a propellant
+(“PSAN”) that had propensity to degrade when exposed to moisture and
+temperature
+fluctuations – whether plaintiff established any functionally
+significant propensity of the PSAN to degrade in the airbag in
+his vehicle such
+as to cause it to explode or malfunction – whether the airbag in the
+defendant’s vehicle did not malfunction
+– where defendant replaced
+the airbag in the plaintiff’s vehicle without cost – whether the
+plaintiff established
+any loss by reason of any want of acceptable quality in
+his vehicle
+Legislation Cited:
+Civil Procedure Act 2005
+Competition and Consumer Act 2010
+Sch 2 – Australian Consumer Law
+Consumer Goods (Motor Vehicles With
+Affected Takata Airbag Inflators and Specified Spare Parts) Recall Notice 2018
+Trade Practices Act 1974
+Cases Cited:
+Australian Competition and Consumer Commission v Jayco Corp Pty Ltd
+Australian Competition and Consumer Commission v Top Snack Foods Pty
+[1999] FCA 752
+Courtney v Medtel Pty Ltd
+(2003) 126 FCR 219
+Farley v Skinner
+[2001] UKHL 49
+[2002] 2 AC 732
+Gill v Ethicon Sarl (No 5)
+Graham Barclay Oysters Pty Ltd v Ryan (2000) 102 FCR 307;
+HTW Valuers (Central Qld) Pty Ltd v Astonland Pty Ltd
+(2004) 217 CLR
+[2004] HCA 54
+Kizbeau Pty Ltd v WG & B Pty Ltd
+(1995) 184 CLR 281
+[1995] HCA 4
+Medtel Pty Ltd v Courtney
+(2003) 130 FCR 182
+[2003] FCAFC
+New South Wales Lotteries Corporation Pty Ltd v Kuzmanovski
+[2011] FCAFC 106
+Potts v Miller
+[1940] HCA 43
+(1940) 64 CLR 282
+Prestige Auto
+Traders Australia Pty Ltd v Bonnefin
+[2017] NSWSC 149
+Steiner v Magic Carpet
+Tours Pty Ltd
+(1984) ASC 55-366
+(1984) ATPR 40-490
+Wyzenbeek v Australasian
+Marine Imports Pty Ltd (In Liq)
+(2019) 272 FCR 373
+[2019] FCAFC 167
+Elcom Credit Union Ltd
+(1990) 94 ALR 445
+Texts Cited:
+Concise Oxford English Dictionary, online ed, accessed 15 June
+Explanatory Memorandum,
+Competition and Consumer Act 2010
+(Cth), Sch 2
+– Australian Consumer Law
+P Herzfeld and T Prince, Interpretation, (2nd
+ed, 2020, Thomson Reuters)
+Principal judgment
+Philip Dwyer as representative plaintiff (Plaintiff)
+Volkswagen Group
+Australia Pty Ltd trading as Volkswagen Australia (Defendant)
+Representation:
+C R C Newlinds SC with D Barnett (Plaintiff)
+S J Free SC
+with I Ahmed and C Winnett (Defendant)
+Solicitors:
+Quinn Emanuel
+Urquhart & Sullivan (Plaintiff)
+Clayton Utz (Defendant)
+File Number(s):
+SC 2018/322648
+TABLE OF CONTENTS
+Introduction
+The provisions in the ACL
+The plaintiff’s pleaded case
+Takata airbags in Volkswagen vehicles
+The real-world experience in Volkswagen
+The recall notices
+VW AG’s Empirical Testing Program
+Physical examinations and CT scans
+Closed Vessel Analysis
+Mis-deployment short of rupture
+Conclusion as to the Empirical Analysis Program
+What is the “consequence” of the use of
+PSAN as an inflator?
+PSAN’s propensity to degrade
+Propensity or risk of explosion
+Propensity or risk of aggressive malfunction
+Was the plaintiff’s vehicle not of acceptable
+Section 271(2) of the ACL
+Section 272(1) of the ACL
+How the plaintiff put his claim for damages
+The plaintiff has suffered no damage
+Reduction in value
+Discrete Choice Experiments
+Professor Baddeley
+Not a real-world premise
+Only measured willingness to pay
+False factual premise
+Methodological problems
+A “no transaction case”?
+The “left in hand” approach
+“Do my best”
+Loss of use – out of pocket expenses
+Distress – disappointment and anxiety
+Introduction
+plaintiff, Professor Phillip Dwyer, brings these proceedings under
+Civil Procedure Act 2005
+(NSW) as representative of some 83,000 persons
+(the “Group Members”) who between 2007 and 2018 purchased Volkswagen
+in which a Takata driver side airbag was installed.
+plaintiff purchased his vehicle, a Volkswagen Passat, in 2013 for some $40,000.
+of the Australian Consumer
+(the “ACL”) the
+defendant, Volkswagen Group Australia Pty Ltd (“VW”), is taken to
+have guaranteed to the
+plaintiff and those Group Members who purchased their
+Volkswagens prior to 1 January
+, that their vehicles were of
+“acceptable quality”; that is, relevantly, free from defects and
+plaintiff contends that his vehicle was not of acceptable quality because, by
+reason of the installation of the Takata airbag,
+the vehicle was not free from
+defects and was not safe.
+is because, the plaintiff contends:
+(a) the airbag contained a
+propellant known as Phase Stabilised Ammonium Nitrate (“PSAN”) that
+had a propensity to degrade
+over time when exposed to moisture and temperature
+fluctuations; and
+(b) if the PSAN degraded sufficiently, the PSAN could burn so aggressively
+that the inflator housing could rupture in a life-threatening
+put more widely in his pleadings, the plaintiff’s case advanced in final
+submissions was in essence that it was this
+risk of mis-deployment that meant
+that the vehicle was of unacceptable quality and that the defect in the vehicle
+for the purposes
+of the ACL was the use of a propellant in the airbag
+that was vulnerable to temperature fluctuations or presence of moisture.
+plaintiff accepts that the risk of mis-deployment of these airbags is
+unquantifiable in that it cannot be predicted when and in
+what circumstances the
+PSAN in the airbags might degrade to a functionally significant degree.
+it is the plaintiff’s case that this is what makes the vehicles of
+unacceptable quality for the purpose of
+of the ACL.
+plaintiff has had no problem with the airbag in his vehicle. The vehicle has not
+been involved in an incident that would have
+caused the airbag to deploy. There
+is thus no evidence that, in fact, the airbag in his car would not have deployed
+as intended.
+replaced the Takata airbag in the plaintiff’s car in 2019 at no cost to
+the plaintiff. This occurred during the vehicle’
+,000 km service. It is
+common ground that the new airbag is sound and will deploy as intended. The
+plaintiff incurred no out of pocket
+expenses while the airbag in his car was
+being replaced.
+of the Group Members is in the same position as the plaintiff in that there was
+no mis-deployment of the Takata airbag in their
+vehicles, and that VW have now
+replaced the airbags at no cost with a non-Takata airbag.
+is agreed that I should decide this case, at least at the outset, by reference
+to the plaintiff’s position and leave the
+position of the Group Members
+for later consideration, if appropriate.
+have been greatly assisted by the submissions of Mr Newlinds SC, who appeared
+with Mr Barnett for the plaintiff, and Mr Free SC,
+who appeared with Mr Ahmed
+and Ms Winnett for VW. Much of what follows, especially as to uncontroversial
+background matters, is drawn
+with gratitude from those submissions. The case was
+conducted with great skill by both sides and with great economy, bearing mind
+its complexities. The case occupied only 9 of the 15 days allocated for hearing.
+That is a tribute to those conducting the case.
+Much of the time saved was a
+result of Mr Newlinds and Mr Barnett electing not to press aspects of the
+plaintiff’s case that
+would otherwise have lengthened the hearing. The
+quality of the parties’ closing written submissions was particularly
+plaintiff has not established any link between the propensity of PSAN to degrade
+and any relevant, functionally significant, propensity
+of the PSAN to degrade in
+the particular airbag installed in his vehicle so as to cause it to explode or
+malfunction. He has therefore
+not established that the vehicle was not of
+acceptable quality when he purchased it.
+any event, the plaintiff has not established that he has suffered any damage by
+reason of the installation of a Takata airbag in
+his vehicle, not least because
+VW has, without charge, replaced the Takata airbag with an airbag that is
+undoubtedly sound.
+The provisions in the ACL
+of the ACL provides that if a person supplies, in trade or commerce, goods to
+a consumer and the supply is not by auction, then there
+is a guarantee that the
+goods are of “acceptable quality”.
+the guarantee is not complied with, an affected person may recover damages from
+the manufacturer of the goods under s 271(1) of
+the ACL subject to the exception
+in, relevantly, s 271(2)(a), to which I will return.
+reason of s 272 of the ACL, such an affected person is entitled to recover:
+(a) any reduction in the value of the goods below, relevantly, the
+price paid for the goods resulting from the failure to comply with
+guarantee; and
+(b) any reasonably foreseeable loss or damage suffered by the affected person
+because of the failure to comply with the guarantee.
+are of “acceptable quality” if they are, relevantly:
+(a) free from defects; and
+as a reasonable consumer fully acquainted with the state and condition of the
+goods (including any hidden defects of the goods), would
+having regard to,
+relevantly:
+(c) the nature of the goods; and
+(d) any other relevant circumstances relating to the supply of the
+concept of “acceptable” quality is similar to that of
+“merchantable” quantity contained in s 74D of the
+Trade Practices
+(Cth), the test relevant to Group Members who purchased Volkswagens
+with Takata airbags prior to 1 January 2011. It is common ground
+distinction as there may be between goods being of “acceptable” as
+opposed to “merchantable”
+is not a determinative
+distinction for the purpose of these proceedings.
+question as to whether goods are of acceptable quality is an objective one, to
+be determined on the basis of relevant information
+known at the time of the
+test posed by
+is not absolute, nor is it a standard of perfection. Rather,
+it is a test of what a reasonable consumer would regard as acceptable
+regard to, relevantly here, any relevant circumstances relating to supply of the
+relevant expectation is that of a reasonable consumer in the position of the
+actual consumer.
+The question is to
+be answered on the basis of what was objectively reasonable to expect at the
+time of supply.
+answer will always depend on the circumstances.
+plaintiff’s pleaded case
+his Amended Statement of Claim, the plaintiff pleads that:
+“Takata Airbags:
+a. use ammonium nitrate in the
+propellant with the consequence that the inflators within the Takata Airbags:
+i. have a propensity to
+explode and/or a risk of exploding, thereby propelling metal shrapnel towards
+the occupants of the Defective
+ii. have a propensity to malfunction and/or a risk of
+malfunctioning on deployment of the Takata Airbag, by deploying too rapidly
+and/or with excessive
+plaintiff alleges that as his vehicle was fitted with a Takata Airbag it was not
+safe to drive and if driven would “expose
+the driver and any passengers to
+unnecessary danger and
+that, by reason of these
+“...a reasonable consumer fully acquainted with the state and condition of
+the Defective Vehicles would not regard the Defective
+Vehicles as:
+a. acceptably fit for all the purposes
+for which goods of that kind are commonly supplied;
+b. free from defects;
+plaintiff contends he is entitled to recover damages, being the difference
+between the price he paid for his Volkswagen Passat
+and the “true
+value” of the
+airbags in Volkswagen vehicles
+Takata airbags in question were fitted to the front driver side of the vehicles,
+within the steering wheel boss.
+are comprised of several different components. Those components include the
+inflator which, in this case, was a particular
+driver airbag inflator known as a “Smokeless Driver Inflator”
+purpose of an airbag inflator is to cause gas to be generated rapidly when there
+is a collision.
+the event of a collision, an ignitor within the airbag produces hot gasses.
+These gasses ignite propellant tablets that cause the
+propellant, here the PSAN,
+to ignite and produce gas for inflating the airbag cushion.
+steps need to occur within milliseconds of the initiation of the process by the
+airbag control unit.
+plaintiff’s vehicle, and each of the vehicles of the Group Members, was
+manufactured by VW’s German parent Volkswagen
+Aktiengesellschaft
+AG did not manufacture the airbags. Airbag systems are complex and require
+specialist expertise to design, develop, manufacture
+and test. Indeed, VW AG
+does not hold the German legal approvals necessary to produce airbag systems.
+AG gave Takata specifications in respect of the airbags in a “Book of
+Requirements”. The Book of Requirements contained
+specification drawings,
+under cover of a “nomination letter”, setting out certain
+requirements that Takata was required
+to meet when designing the airbag system.
+specifications that VW AG gave Takata included performance specifications for
+the inflators, including that, at room temperature,
+inflation should occur
+within the range of 24 to 33 milliseconds.
+and critically, VW AG did not specify what propellant should be used in the
+airbags. Takata chose to use PSAN as the propellant.
+AG became aware from publicly available sources that from in or around 2007
+Takata was conducting internal investigations in relation
+to airbags supplied to
+manufacturers other than VW AG.
+2013 and 2014, Takata told VW AG on a number of occasions that these
+investigations did not relate to airbags installed in Volkswagen
+it was known, at around this time, that certain types of Takata airbag
+inflators, not of the kind used in Volkswagen vehicles,
+had manufacturing
+25 January 2016, the US National Highway Traffic Safety Administration (the
+“US Regulator”) published a “Takata
+Defect Information
+Report” which was said to “address concerns with non-desiccated SDI
+airbag inflators installed in
+frontal driver airbag modules in the United
+Andreas Schade, a Technical Expert employed within VW AG’s Technical
+Development Department, gave evidence in cross-examination
+that, prior to this
+point, VW AG “didn’t know that there is a rupture risk in our cars,
+we didn’t see anything,
+we didn’t hear anything up to that stage
+[of] rupture or mis-deployment”.
+Schade said that, based on discussions he had with the US Regulator, it became
+clear to him that the US Regulator required certain
+Volkswagen vehicles in the
+United States to be recalled.
+9 February 2016, Volkswagen Group of America provided a formal response to the
+US Regulator in which it stated that:
+(a) Volkswagen was not aware
+of any incidents, accidents or injuries worldwide relating to ruptured inflators
+or of any ruptured inflators
+from Takata’s production plant in Freiberg,
+(b) the ruptures that had been reported to have occurred were in vehicles
+other than Volkswagens; and
+(c) the root causes of those ruptures had not been determined.
+led to VW AG deciding, in 2016, to conduct its own analysis (“the
+Empirical Analysis Program”) for the purpose of
+investigating whether PSAN
+gas generators used in Volkswagen vehicles constituted a safety risk. I return
+to the Empirical Analysis
+Program below.
+The real-world
+experience in Volkswagen vehicles
+AG installed frontal Takata airbag inflators using PSAN in some 20 million
+Volkswagen vehicles worldwide. The plaintiff has not
+adduced evidence that any
+Takata airbag in any of these vehicles has mis-deployed.
+Schade estimated that some 440,000 of those 20 million Volkswagen vehicles have
+been involved in a collision that resulted in deployment
+of the vehicle’s
+Schade said that:
+“This estimate was calculated by applying the rate of incidents that
+involved a collision that resulted in the deployment of
+a vehicle’s airbag
+(obtained from publicly available government sources, such as the accident rates
+published by [the US Regulator])
+to the number of vehicles manufactured each
+year, the period for which the vehicle may be expected to remain in the national
+(published by [the US Regulator]) over the period of manufacture from 2005
+to 2015 of the affected vehicles containing Takata frontal
+airbags equipped with
+PSAN propellant (obtained from VWAG’s production
+Schade said:
+“I am not aware, nor to my knowledge is any of my colleagues at VWAG
+aware, of any confirmed field incident globally that has
+resulted in the
+mis-deployment of a PSAN based driver side airbag in any Volkswagen vehicle,
+whether or not such a rupture caused
+harm to a vehicle
+Schade’s analysis made clear that some of the 440,000 vehicles were
+relatively new. It is common ground that PSAN will only
+degrade after many
+years’ exposure to temperature fluctuations and moisture. For that reason,
+a lack of airbag mis-deployment
+in new vehicles is not presently significant.
+However, 50,000 of the 440,000 Volkswagen vehicles involved in accidents were
+years old or older, and thus of an age where any problem with the airbags
+would likely materialise.
+there is no evidence of any mis-deployment of a Takata airbag in any Volkswagen.
+fact is, of course, not determinative of the issues in these proceedings. But it
+raises a serious question as to whether there
+is any link between PSAN’s
+propensity to degrade when considered as a matter of generality, and the
+likelihood of any functionally
+significant propensity of PSAN degradation in the
+airbags fitted to Volkswagen vehicles, including that purchased by the
+The recall notices
+February 2018, the Assistant Minister to the Treasurer issued the
+Goods (Motor Vehicles With Affected Takata Airbag Inflators and Specified Spare
+Parts) Recall Notice 2018
+(Cth) (the “Recall Notice”), which
+came into effect in March 2018.
+Recall Notice applied to a wide class of motor vehicles and required the recall
+of “Affected Takata Airbag Inflators”
+including driver side airbags
+that used PSAN as a propellant.
+Recall Notice stated that it had been issued after a detailed investigation by
+the Australian Competition and Consumer Commission
+(ACCC) into possible risks
+involved in using vehicles containing Takata airbags.
+Recall Notice differentiated between “Alpha” airbags which were
+manufactured between 2000 and 2002 and were affected
+by known manufacturing
+problems, and other inflators. Alpha inflators were stated in the Recall Notice
+to pose an “extreme
+safety risk”. The Recall Notice required
+suppliers to initiate recall action of Alpha inflators immediately. No
+vehicle was fitted with an Alpha inflator.
+Recall Notice stated:
+“Degradation of the propellant can reach an unsafe point between six and
+twenty-five years post manufacture of the vehicle
+depending on the climate that
+the vehicle is exposed to over time. In the most severe hot and humid climatic
+conditions, the defect
+can manifest as early as between six and nine years
+post-manufacture.”
+2 of the Recall Notice contained a “Communication and Engagement
+Plan” and set out “examples of best practice
+communications to
+Consumers to adequately convey the serious safety risk posed by Affected Takata
+Airbag Inflators and the need for
+replacement”.
+March 2018, when the Recall Notice came into effect, the plaintiff’s
+vehicle was less than five years’ old.
+vehicles up to six years from manufacture, the suggested communication to
+consumers was:
+“Your vehicle’s airbag is faulty and it could
+kill or seriously
+you and other people in your vehicle from when it reaches six years
+after its year of manufacture.
+There is no immediate known risk with the
+airbag, but there will
+be in the future
+...it is important that
+you...arrange to have the airbag replaced before it reaches 6 years old”.
+(Emphasis in original.)
+the regulatory regime underpinned by the Recall Notice did not contemplate an
+immediate safety risk for cars less than six years
+relation to cars older than six years, the suggested communication was different
+“Your vehicle’s airbag is faulty and it could
+kill or seriously
+you and other people in your vehicle. You should
+immediately...arrange for the airbag to be replaced”. (Emphasis in
+required by the Recall Notice, VW initiated a recall program under which
+Volkswagen vehicles were recalled and the airbag inflators
+in them progressively
+airbag in the plaintiff’s vehicle was replaced on 2 May 2019 in the course
+of its 60,000 km service.
+has now replaced the airbag inflators in each of the affected Volkswagen
+vehicles, or applied to the ACCC for an allowable exemption
+(for example where
+the vehicle has been stolen, scrapped or where the owner has not been able to be
+VW AG’s Empirical Testing Program
+February 2016, VW AG commenced its Empirical Analysis Program of the Takata
+airbag inflators.
+program involved the collection of approximately 20,000 SDI airbag inflators
+from the field. The airbags were retrieved from vehicles
+manufactured from 2005
+onwards and from various geographical areas around the world with a range of
+climactic conditions.
+geographical and age spread of the inflators used in the Empirical Analysis
+Program was important because PSAN degradation observed
+in other brands of
+vehicles and in other airbags (such as passenger side frontal airbags) was
+thought to be more likely to occur
+in hot and humid conditions and in aging
+plaintiff’s liability expert, Mr Robert
+agreed that the Empirical
+Analysis Program had involved ample testing across different climate zones and
+of inflators of different
+Renz gave this evidence in cross-examination:
+“Q. Now, the Volkswagen empirical analysis program that is described in Mr
+Schade’s affidavit, you’ve agreed with
+is a suitable
+program to understand the ballistic performance of these Takata airbags in
+Volkswagen vehicles.
+Q. And you've agreed that the scientific methodology that was applied by
+Volkswagen was sound and consistent with accepted scientific
+A. Correct.
+Q. And it's produced meaningful conclusions about the performance of the parts
+and substances which were tested.
+A. I believe it did create meaningful conclusions, though I would say that my
+conclusions and [VW’s]
+conclusions aren't necessarily in agreement.
+Q. But they are both operating off the same data, aren't they?
+A. Yes, they are.”
+AG concluded from the Empirical Analysis Program that SDI inflators installed in
+Volkswagen vehicles “did not show any functionally
+relevant anomalies and
+no material manufacturing faults...that would lead to rupture”.
+AG considered that the result of the Empirical Analysis Program was that the
+airbag inflators fitted to Volkswagen vehicles exhibited
+performance in
+accordance with the specifications for them, and did not exhibit any deviation
+from those specifications that would
+indicate that they were at systemic risk of
+rupture or mis-deployment.
+Empirical Analysis Program revealed that airbag inflators for Volkswagens were
+different from the inflators in other vehicles
+in ways that might meaningfully
+affect their performance. I return to this below.
+a result of this testing program, VW AG’s Product Safety Committee
+determined that there was no systemic risk associated
+with airbag inflators
+installed in Volkswagen vehicles that would warrant their recall. Indeed, I
+was informed that no European
+regulator has required a recall of Volkswagens
+fitted with Takata airbags.
+the Empirical Analysis Program, VW AG sought to test the very airbags that are
+said by the plaintiff to be at risk of failure.
+This is the only empirical
+evidence before me concerning how these airbags are or were likely to perform.
+is not, of course, for VW to show that the airbags are safe. It is for the
+plaintiff to show that they are unsafe. The results
+of the Empirical Analysis
+Program suggest that the airbags are safe.
+do not accept the submission made on behalf of the plaintiff that “the
+tests that Volkswagen carried out where undertaken
+to support, not truly to
+test” whether the airbag inflators were unsafe. There is nothing in the
+evidence to suggest that the
+Empirical Analysis Program was not a genuine
+attempt by VW AG to ascertain whether there was any problem with Takata airbags
+in Volkswagens.
+Physical examinations and CT scans
+AG subjected the retrieved airbags to physical examinations and CT scans.
+showed differences between airbag inflators fitted to Volkswagen vehicles and
+those fitted to other vehicles.
+differences included:
+(a) the number of outflow openings;
+(b) the size of the propellant tablets;
+(c) the use of a ceramic, rather than a wired, propellant cushion;
+(d) the use of a thicker base plate;
+(e) a design to deploy with larger output pressure;
+(f) absence of what Mr Schade described as “anomalies” in the
+base of the generators that in other brands indicated excessive
+moisture over
+(g) use of 60 gm filter compared to a 70 gm filter in SDI inflators installed
+in other vehicles.
+Schade gave unchallenged evidence that the results of the CT scans showed that
+the SDI inflators installed in Volkswagen branded
+vehicles did not show any
+functionally relevant anomalies and no material manufacturing faults that would
+lead to rupture.
+provides support for the submission made on behalf of VW before me that airbag
+inflators for Volkswagen vehicles are different
+from the inflators in other
+vehicles in ways that meaningfully affect their
+performance.
+Closed Vessel Analysis
+AG subjected PSAN, drawn from the airbag inflators recovered from the field, to
+pressure in a reinforced closed vessel in order
+to determine whether its
+“Integrated Burn Rate”, measured in megapascals per millimetre per
+second (MPa*mm/s), exceeded
+the “normal” or “expected”
+rate of between 1,700 and 1,850 MPa*mm/s.
+derived the “normal” or “expected” Integrated Burn Rates
+from new PSAN, that is PSAN that had not previously
+been deployed in an airbag
+inflator. There was no challenge before me about these normal or expected
+Integrated Burn rates, notwithstanding
+that they were derived from information
+from Takata. Indeed, the plaintiff’s purported challenge to the results of
+Vessel Analysis assumed their correctness.
+Schade explained that:
+“Closed vessel tests are performed to determine the pressure generated by
+the burning of the propellant and subsequently calculate
+the burn rate of the
+propellant and the pressure generated by the burning of the propellant (which
+produces the gas which inflates
+the airbag cushion). This is done by igniting a
+sample...of propellant extracted from the Field Inflators within a specially
+and reinforced closed vessel which ensures that the volume during the
+ignition remains constant”.
+Schade gave this evidence in cross-examination:
+“Q. And because you had read in the literature about these alleged
+incidents that were happening around the world with airbags
+rupturing and the
+like that there was a suggestion that the PSAN was degrading over time, you
+wanted to check if the PSAN that Takata
+had used in the airbags might have been
+degraded. Correct?
+A. WITNESS: In our vehicles, in our set ups, yes.
+Q. That was the point in part of the experiment you were carrying out.
+A. WITNESS: Exactly.”
+Renz agreed that the closed vessel analysis was a good test for correlating the
+burn performance of the propellant, PSAN. Mr Renz
+added that it was not
+possible to draw a direct correlation between this and the performance of the
+PSAN inside an inflator. However,
+the plaintiff points to no other testing than
+that carried out during the Empirical Analysis Program.
+results of the Closed Vessel Tests were recorded in Mr Schade’s attached
+Figure 21. (
+21 (149698, PDF)
+Figure 21 shows, in the Closed Vessel Tests the PSAN was subjected to pressures
+up to 90 MPa. This was much higher than would normally
+be experienced in the
+field as the airbags are designed so that when pressure reaches 40 to 50 MPa
+ventholes open and the airbag
+normal or expected Integrated Burn Rate for PSAN of between 1,700 to 1,850
+MPa*mm/s are depicted by the vertical green bars within
+the blackened shading in
+21 shows that some PSAN exhibited an Integrated Burn Rate at times exceeding
+these normal or expected rates.
+Professor Klapötke gave this evidence in cross-examination:
+“Q. Professor, you agree that the experiments conducted by Volkswagen do
+show a progressive deterioration in the PSAN, that
+exceeds the normal or
+expected parameters set by Volkswagen by about 8%, don't you?
+A. Yes, I do agree. For the older inflators, not for the new ones.
+Q. Of course. And it's a progressive phenomenon, and therefore the older the
+inflator, the more marked the result will be?
+A. In general, yes, but it depends on environmental conditions and other
+Q. You accept that an 8% deviation from normal or expected is statistically
+significant?
+A. 8% is statistically relevant, though it's not
+dangerous.”
+highest Integrated Burn Rate recorded in the experiment was 2,051 MPa*mm/s.
+his Figure 23 (
+23 (123435, PDF)
+Mr Schade plotted the Integrated Burn Rates detected in the Closed Vessel
+Analysis against the age of the vehicles from which the
+airbags had been
+retrieved in relation to three climates zones: Zone 1 being warm; Zone 2 being
+temperate; and Zone 3 being cold.
+horizontal green lines on Figure 23 represent the normal or expected Integrated
+Burn Rates of 1,700 to 1,850 MPa*mm/s.
+red line at 3,000 MPa*mm/s represents what Takata had determined to be the
+“critical rupture point” beyond which rupture
+might occur. As can be
+seen from Figure 23, the Integrated Burn Rates revealed by the Closed Vessel
+Analysis from PSAN retrieved
+from vehicles in all three climate zones was well
+below that critical rupture point.
+admitted the evidence of Takata’s critical rupture point as evidence only
+that this was the rate adopted by Takata as being
+critical and not as evidence
+that this was in fact so.
+the plaintiff pointed out, neither Professor Klapötke nor Mr Schade have
+sought to prove or check that 3,000 MPa*mm/s was
+a critical rate beyond which
+rupture was likely, nor short of which rupture was unlikely.
+as I have said, the plaintiff’s criticism of the conclusions VW AG drew
+from the Closed Vessel Analysis were based
+on the extent that the tests showed a
+deviation from Takata’s normal or expected Integrated Burn Rate and thus
+assumed the
+correctness of those rates. In the context of testing the likely
+veracity of conclusions VW AG drew from the Closed Vessel Analysis,
+and in order
+to compare like with like, that criticism can only be measured against
+Takata’s other metric, its critical rupture
+the implications of the Integrated Burn Rates being shown to be above
+Takata’s normal or expected range must be considered
+in the context of
+Takata’s critical rupture point.
+I have said, while the Closed Vessel Analysis did show that the PSAN from some
+retrieved airbags exceeded Takata’s normal
+or expected range, none came
+anywhere near Takata’s critical rupture point.
+the evidence before me established that airbags are designed with a 150% safety
+factor as far as concerns the Integrated
+Burn Rate. If that factor is applied to
+the highest Integrated Burn Rate detected in the Closed Vessel Analysis, 2,150
+the result is still well below the Takata critical rupture point.
+AG also subjected some of the inflators retrieved from the field to “Tank
+Tests” in which the inflator, as a unit,
+was placed in a tank and internal
+and external measurements taken.
+attention was paid to these tests in final submissions, save that it was
+emphasised on behalf of the plaintiff that during
+one of these tests, one
+inflator ruptured.
+was the only rupture that occurred in the entire Empirical Analysis Program in
+which some 20,000 airbags were tested.
+that regard Mr Renz gave this evidence:
+“Q. Given the comprehensive data you've seen from the Volkswagen testing
+of inflators from around the world, including inflators
+of equivalent age, you
+would actually conclude that the incident with the [one airbag that ruptured] is
+anomalous, wouldn't you?
+A. I'm not sure that I would characterise that as anomalous. The parts reaching
+that rupture point, there's a spectrum even at a
+specific age and a specific
+environment, so I would - again, not knowing the specifics here - I've seen this
+happen where - in other
+expert reports, where they had a number of deployments
+with a number of them performing without rupturing and having one or two
+out of a large number of samples.
+Q. But in this particular setting, you've got the benefit of a large body of
+data, including a large number of airbags from 2007
+that have been tested and
+have shown burn rates nowhere near the rupture level. Do you accept that?
+A. I do accept that.
+Q. Viewed in that light, this single incident you would view as an anomaly as
+compared with the rest of the data.
+Mis-deployment short of rupture
+behalf of the plaintiff it was suggested that the Empirical Analysis Program as
+a whole was directed to ascertaining whether airbags
+might rupture and not as to
+whether there might be some kind of mis-deployment short of rupture.
+do not think this is a fair criticism. This is revealed by the evidence that Mr
+Schade gave in cross-examination:
+“Q. Your report, almost exclusively, and the experiments you conducted
+were aimed to determine whether there was a rupture
+risk. Correct?
+A. WITNESS: Yes.
+Q. They were not aimed or directed to determining whether there was a
+misdeployment risk below the level of rupture, were they?
+A. WITNESS: But that's what you see if you do a tank test, or you do a closed
+vessel test. You - you don't get only on and off. You
+get on and off --
+Q. Are you even trying --
+A. WITNESS: I’m sorry.
+Q. -- to answer my question?
+A. WITNESS: I understand that your question is if we looked at misdeployments
+below a rupture, so to speak, and my answer to this
+is that a tank test and
+closed vessel test but not a deployment test, a simple deployment test. A tank
+test and a closed vessel test
+will show if you have a - a directed or an
+inflator that might lead to a misdeployment as you just depicted
+Conclusion as to the Empirical Analysis Program
+am not persuaded that the results of the Empirical Analysis Program could lead
+to a conclusion that the tested airbags were unsafe.
+the contrary, the results of the Empirical testing program suggest, as VW AG
+concluded, that the airbag inflators installed in
+Volkswagens were safe and that
+increased Integrated Burn Rates revealed by the tests were unlikely to translate
+to aggressive or
+unsafe deployment of the airbags.
+any event, had I been persuaded that there was some defect or flaw in the manner
+in which VW AG conducted the Empirical Analysis
+Program such as would warrant
+its results being set to one side, it would not follow that a conclusion
+opposite to that drawn by
+VW AG should be adopted. It would mean no more than
+that the results of the Empirical Analysis Program cast no light on the
+I have mentioned, it was not for VW to show that the airbags were safe, but for
+the plaintiff to show that they were not.
+What is the
+“consequence” of the use of PSAN as an inflator?
+plaintiff’s closing submissions made repeated reference to PSAN having a
+“propensity” to degrade.
+I have said, as articulated in closing submissions, the plaintiff’s case
+is that the defect in the vehicles for the purpose
+of the ACL was the
+use in the airbag inflators of a propellant, PSAN, that was vulnerable to
+degradation when subjected to temperature
+fluctuations or the presence of
+that is not the plaintiff’s pleaded case.
+plaintiff’s pleaded case is that the use of PSAN in the airbag inflators
+had the consequence that the inflators within the
+airbags would themselves have
+the propensity to explode or malfunction by deploying too rapidly or with
+excessive force.
+make out this case, the plaintiff must do more than show that PSAN had a
+propensity to degrade.
+plaintiff must show a link, that the pleadings recognise, that the airbags
+themselves, and in particular those installed in Volkswagens,
+had a propensity
+to explode or aggressively deploy.
+PSAN’s propensity to
+is hydroscopic, that is, it absorbs moisture from the air.
+Renz and Professor Klapötke agreed that generally speaking:
+(a) the root cause of the degradation of PSAN in the Takata airbag
+inflators was thermal fluctuation with moisture being present;
+(b) the rate of such degradation increases as the moisture level increases;
+(c) the degradation of the PSAN will lead to an increase in surface area of
+the PSAN which leads to faster burning of the propellant
+tablets. This then
+causes increased pressure inside the inflator, which in turn causes the airbag
+inflation to occur faster and at
+a higher peak pressure than would otherwise be
+Renz opined that such degradation was progressive, irreversible and inevitable.
+Klapötke expressed a more nuanced view:
+“Q. Professor, you agree that the experiments conducted by Volkswagen do
+show a progressive deterioration in the PSAN, that
+exceeds the normal or
+expected parameters set by Volkswagen by about 8%, don't you?
+A. Yes, I do agree. For the older inflators, not for the new ones.
+Q. Of course. And it's a progressive phenomenon, and therefore the older the
+inflator, the more marked the result will be?
+A. In general, yes, but it depends on environmental conditions and other
+Q. Of course. And you accept the scientific theory that that degradation will be
+an inevitable thing that happens to PSAN if it is
+exposed to temperature
+fluctuations and some form of humidity or moisture?
+A. Yes, I do. If humidity and moisture, you mean ingress by external humidity
+and moisture, not by the amount of moisture that was
+in the propellant from the
+time of manufacture on.
+Q. Yes, so some external moisture that comes into the system either at the time
+of manufacture or after?
+A. I would say, at the time of manufacture, if everything goes according to the
+standards, would be no problem. It has to be additional
+Q. But if everything at the factory doesn't go to standards, well, the moisture
+might get in there, but otherwise, it's going to
+have got in by some process
+after the car is manufactured?
+Q. And that could be a myriad of things. It could be leaking seals, it could be
+valves not working, it could be adhesive tape not
+sticking properly. But,
+whatever, if moisture gets in, and you combine it with temperature fluctuations,
+the science is that this
+process will commence, and it will then inevitably
+A. Yes, that's correct.”
+this establishes is that PSAN
+exposed to moisture
+and temperature fluctuation.
+this occurs, the consequences described by Mr Renz and Professor Klapötke
+there is a further complication. The rate at which the PSAN within an airbag
+inflator will degrade varies significantly according
+to a variety of factors
+which differ from manufacturer to manufacturer. It is not possible to make
+generalisations between airbags
+fitted to different manufacturers’
+vehicles or even between different models of vehicles made by the same
+manufacturer.
+Renz agreed that the factors which will affect the rate of PSAN degradation
+(a) the dashboard components and interior upholstery of
+the vehicles;
+(b) the physical integrity of the propellant;
+(c) the integrity of the seals on the inflator;
+(d) the type of aluminium used as a sealant in the inflator;
+(e) the number of physical openings within each inflator and their
+circumference;
+(f) the amount of moisture present at the time of manufacture;
+(g) the size and shape of the propellant that is used;
+(h) the arrangement of the tablets of propellant within the inflator; and
+(i) the position of the airbag within the vehicle.
+I have set out above, the physical examinations and CT scans conducted as a part
+of the Empirical Analysis Program showed that
+the airbag inflators installed in
+Volkswagen vehicles differed from the airbag inflators in other vehicles in many
+of these respects.
+Renz and Professor Klapötke agreed that the differences between inflator
+design and vehicles, as well as other variables,
+impacted upon the level of
+moisture ingress into an inflator, being the critical factor associated with
+degradation of PSAN.
+Mr Renz gave this evidence in cross-examination:
+“Q. Putting those various factors together, you've agreed with Professor
+Klapötke in the joint report that the level of
+moisture ingress into an
+inflator is dependent on several factors, including environmental, design, and
+vehicle details. That's correct?
+A. That is correct.
+Q. So you accept now, then, Mr Renz, that it's not scientifically valid to
+assess PSAN degradation independently of the particular
+particular vehicle model into which it's installed?
+A. I would accept that.”
+Mr Renz agreed that the enquiry as to the safety of the airbag inflators in
+question must be vehicle and airbag inflator type
+was put on behalf of the plaintiff in final submissions that:
+“No time frame can be given for when the risk of mis-deployment and/or
+rupture arises for any given car and the risk for any
+given car at any given
+point in time cannot be quantified, other than to say that the risk increases
+over time.”
+may be correct at a very high level of generality. But it overstates matters
+for present purposes, where the question is whether
+there was a risk of rupture
+and mis-deployment of the airbags in Volkswagen vehicles.
+that regard, Professor Klapötke gave this evidence in cross-examination:
+“Q. You also agree with Mr Renz, I think, that because there are so many
+variables as to what could impact on this process,
+that the timing and speed
+over which it will occur is unknowable?
+A. It is unknowable on the basis of theoretic model of prediction. If you do
+testing, fierce testing on many, many examples returned
+from the field, you can
+create a model to be able in a position to predict the time when it becomes
+critical or dangerous.”
+I have set out above, by engaging in the Empirical Analysis Program, VW AG has
+engaged in “fierce testing” of “many
+examples returned from
+the field” so as to be “in a position to predict the time when the
+airbags become critically dangerous”.
+testing suggests, very strongly in my opinion, that there is no reason to
+predict that the airbag inflators actually installed
+in Volkswagen will become
+critical or dangerous.
+Propensity or risk of explosion
+I have said, the normal or expected operating pressure in the Takata airbag
+inflators was between 1,700 and 1,850 MPa*mm/s. Mr
+Renz agreed that the
+inflator housing for an airbag is designed to have a rupture pressure which is
+“very significantly higher
+than the designed internal operating
+pressure” and that there is a margin between the normal burn rate for the
+propellant in
+the inflator and the “critical burn rate at which rupture
+could occur”. Mr Renz agreed that “the industry standard”
+this safety margin was “around 150% of normal operating
+the industry standard safety margin of at least 150% to the highest of the
+normal or expected operating pressure of 1,850
+MPa*mm/s yields a rupture
+pressure of 2,775 MPa*mm/s. As was pointed out on behalf of VW, this figure is
+broadly consistent with
+Takata’s calculation of the peak pressure at which
+inflator housing might rupture, being 3,000
+I have set out, the Empirical Analysis Program conducted by VW AG showed that
+airbag inflators in Volkswagen vehicles did not reach
+anything like this level
+of pressure.
+was submitted for VW:
+“The unchallenged evidence was that the [Empirical Analysis Program]
+showed that in closed vessel testing, there were no critical
+identified in the burn rate of inflators in Volkswagen vehicles. Moreover, out
+of the thousands of inflators of various
+ages and from various climates around
+the world that were tested, the analysis showed the
+that was observed was 2051 MPa*mm/s. This is nowhere near the level of increased
+pressure that could involve a risk of
+rupture, whether that is the figure of
+approximately 2775 MPa*mm/s suggested by Mr Renz’s industry standard or
+the rupture
+pressure of 3000 MPa*mm/s calculated by Takata”. (Emphasis in
+plaintiff’s case is that there is a risk of an explosion occurring because
+PSAN by its nature may or will degrade in the
+presence of moisture and
+temperature fluctuation, and that the bare fact that PSAN has this propensity is
+sufficient to create the
+VW submitted, a critical integer is missing here. That critical integer is of
+there being any connection between possible degradation
+in the PSAN and airbag
+performance in Volkswagens.
+plaintiff has not established that, on the balance of probabilities, the alleged
+propensity or risk has been present in any Volkswagen
+vehicle. Nor that, on the
+balance of probabilities, the alleged propensity or risk would have materialised
+in any Volkswagen material
+at any identifiable point in time.
+VW submitted, the most that the plaintiff can say, relying on the evidence of Mr
+Renz, is that there is a
+theoretical possibility
+that at some
+identified point
+in the future,
+a vehicle were to be left in
+the right environment for long enough, the alleged propensity or risk
+materialise.
+plaintiff has not sought to demonstrate that this risk could eventuate within
+any meaningful timeframe.
+think that VW is correct to submit that the risk that the plaintiff asserts
+remains no more than a speculative possibility.
+Propensity or
+risk of aggressive malfunction
+plaintiff’s second alleged propensity or risk relates to a malfunction of
+an airbag by reason of aggressive deployment short
+of rupture.
+is no evidence before me that this has actually occurred in any airbag in any
+car, let alone in a Volkswagen.
+Renz accepted that whether some deviation from the designed burn rates in an
+airbag inflatable material would affect the ability
+of the airbag to inflate
+within a specified time would depend upon the extent of the deviation. Mr Renz
+agreed that he had not carried
+out any analysis to ascertain what the burn rate
+of the propellant in airbags fitted to Volkswagen vehicles would need to be in
+to meet Volkswagen’s specification. He also agreed that he did not
+know what deviation would be required from either the internal
+pressure or internal burn rates of the propellant, before the airbag failed to
+meet those specifications.
+Renz opined that there was a “continuum of risk” in relation to the
+performance of an airbag inflator and that the
+higher the burn rate within an
+airbag inflator the more quickly the airbag would inflate. Mr Renz agreed that
+he could not say
+where, along that “continuum”, a particular burn
+rate equated to a particular kind of deployment. Nor could Mr Renz
+extent to which an increased burn rate increased the risk of mis-deployment or
+risk to an occupant of a vehicle, let alone
+in a Volkswagen vehicle.
+these circumstances, I think VW was correct to submit:
+“The effect of this evidence is that there is nothing that could support a
+finding that there was any real propensity or risk
+that the airbag inflators
+installed in Volkswagen vehicles would malfunction in a manner that involved
+deploying too rapidly or with
+excessive force, let alone in a manner that would
+cause harm to a vehicle occupant or otherwise impede their efficacy. The
+boldly suggests in his closing submissions...that the Court can simply
+infer without evidence that if an airbag deploys ‘too
+quickly and
+therefore is deflating when it is meant to be creating a cushion, there is a
+greater risk of some injury to the driver
+than if the airbag deployed at its
+deigned and intended speed’. These are highly technical propositions
+depending on things
+which occur over the course of a handful of milliseconds.
+The expert witness called for the plaintiff was unable to assist in proving
+these interacting factors would in fact play out in different circumstances. The
+Court has no sound basis to draw the inferences
+invited by the plaintiff”.
+substance, the plaintiff’s case is that there is a theoretical possibility
+that at some unidentified time in the future there
+may be a risk of
+mis-deployment in an airbag inflator fitted to a Volkswagen vehicle.
+am not satisfied that there is any evidence that any such possibility was real
+or would develop in a way that was meaningful to
+a consumer.
+the plaintiff’s vehicle not of acceptable quality?
+question under
+of the ACL is whether a reasonable consumer, fully
+acquainted with the state and condition of the plaintiff’s vehicle,
+any hidden defects, would have regarded the vehicle as being
+acceptable.
+plaintiff’s case is that the state and condition of the goods for this
+purpose must be assessed in light of the facts that:
+“a. The PSAN propellent used in the affected airbags has
+a propensity to degrade over time given the presence of moisture
+and changes in
+temperature;
+b. Volkswagen’s own testing shows that propensity is
+manifesting in the field. That indicates, that by whatever means, sufficient
+moisture is entering the system in the real word to cause measurable degradation
+of the PSAN;
+c. As PSAN degrades, the risk of the airbag mis-deploying (ie
+deploying too quickly) or rupturing increases. This process is inevitable
+progressive;
+d. If the airbag deploys too quickly, the risk is that it will
+not protect the occupant in an accident either at all or to the
+extent designed,
+leading to an increased risk of injury. If the airbag ruptures, the risk is that
+metal fragments are sprayed inside
+the cabin and cause injury or death;
+e. That process of degradation, culminating in the risk of
+mis-deployment and rupture, is inevitable in the sense that given temperature
+fluctuations and moisture,
+those outcomes will happen at some stage
+f. No time frame can be given for when the risk of
+mis-deployment and/or rupture arises for any given car and the risk for any
+given car at any given point in time cannot be quantified, other than to say
+that the risk increases over time.” (Emphasis
+for the reasons I have set out, a reasonable consumer in this hypothetical
+circumstance would also be acquainted with the fact
+that there was no reason to
+think that, probably, “those outcomes will happen at some
+in any Volkswagen
+and thus in the plaintiff’s vehicle.
+reflects the link or integer that is missing from the plaintiff’s case,
+namely between the propensity of PSAN to degrade
+and any relevant, functionally
+significant propensity of PSAN to degrade in Volkswagens.
+the reasonable consumer in the hypothetical circumstance posed by
+also be acquainted with the fact that motor vehicles are complicated pieces of
+machinery that may develop problems, even problems
+going to the safety of the
+vehicle, that may require rectification by the manufacturer during the
+vehicle’s lifetime.
+these circumstances, I am not persuaded that the plaintiff’s vehicle was
+not of acceptable quality and thus not persuaded
+that VW has failed to comply
+with the guarantee in
+of the ACL.
+Section 271(2) of the
+that this conclusion is not correct, and that the plaintiff’s vehicle was
+not of acceptable quality, and that VW thereby
+did not comply with the guarantee
+of the ACL, the question that arises under s 271(2) of the ACL is
+whether VW did not so comply “only because of” the
+act, default or
+omission of Takata.
+271(2) provides, relevantly:
+“(2) Subsection (1) does not apply if the guarantee under
+not complied with only because of:
+(a) an act, default or omission of, or any
+representation made by, any person other than the manufacturer or an employee or
+of the manufacturer; or
+(b) a cause independent of human control that occurred after the goods left the
+control of the manufacturer...”.
+this hypothetical circumstance, the reason that VW did not comply with the
+guarantee is because the airbag in the plaintiff’s vehicle used PSAN as
+the propellant and because PSAN has a propensity to
+AG did not design the airbag and did not specify what propellant should be used,
+let alone specify that PSAN should be used. Only
+Takata was responsible for the
+design and manufacture of the airbag and for the decision to use PSAN as the
+propellant.
+for Takata’s decision to use PSAN as the propellant, there would have been
+no breach by VW of the
+guarantee of the kind contended for by the
+plaintiff. There is no other circumstance that, in this hypothetical scenario,
+to VW being in breach of the guarantee.
+is true that VW AG installed the airbag, but there is no suggestion here that
+the manner of airbag installations was causative
+of the plaintiff’s
+vehicle not being of acceptable quality.
+is also true that VW “supplied” the vehicle to the plaintiff for the
+the guarantee under
+only arises when there has been such a supply. The
+exemption in s 271(2) can only arise if there has been such a supply. Otherwise,
+there could be no guarantee “not complied with”. The exemption in s
+271(2) presupposes that the manufacturer in question
+has “supplied”
+the goods and then posits a circumstance where the breach of the guarantee
+thereby arising occurs “only
+because” of the conduct of
+fact that, on this hypothesis, the plaintiff’s vehicle was not
+“acceptable” from the time of its manufacture
+takes matters no
+further. Subsection 271(2)(b) deals expressly, and alternatively, with causes
+“after the goods left the control
+of the manufacturer”. This makes
+clear that the legislature did not intend that the exception in s 271(2) be so
+plaintiff also submitted that VW’s non-compliance with
+hypothetical circumstance was not “only” because of Takata’s
+acts, defaults or omissions but also because
+of VW’s own selection of
+Takata as its subcontractor and VW’s “selection and policing of
+specifications and quality
+standards” even if it “exercised
+reasonable care and skill”.
+effect, the submission was that the mere fact that VW chose Takata as its airbag
+supplier was itself a reason for its failure to
+comply with the
+But that reading of s 271(2)(a) would leave it having no work to do. That
+subsection is clearly directed to acts, faults
+and omissions of parties other
+than the manufacturer itself. If the mere engagement by the manufacturer of
+such a third party was
+sufficient to exclude the subsection’s operation, I
+find it hard to see what operation the subsection could have.
+plaintiff also drew attention to the Explanatory Memorandum leading to the
+introduction of s 271(2)(a) into the ACL. The Explanatory
+“A manufacturer is not required to pay damages to a consumer if an act,
+default or omission or representation made by some
+other person, not being an
+employee or agent of the manufacturer, resulted in caused goods to be of less
+than acceptable quality.
+This ensures that manufacturers are not held liable for
+issues with goods that are beyond their control.”
+do not see that this takes matters any further. In this case, the circumstances
+that, on this hypothesis, led to VW being in breach
+guarantee were
+beyond its, and VW AG’s control.
+these reasons, even if the plaintiff could establish his vehicle was not of
+acceptable quality for the purpose of
+of the ACL when he purchased it, the
+guarantee that would have arisen under
+does not apply by reason of s
+I have determined that the plaintiff has failed to establish that his vehicle
+was not of acceptable quality when he purchased it,
+it is not necessary to
+consider the question of whether or not the plaintiff has suffered damage.
+in deference to the detailed submissions advanced by the parties, I will
+consider that question upon the assumption, contrary
+to my conclusions, that the
+plaintiff has established that his vehicle was not of acceptable
+Section 272(1) of the ACL
+plaintiff’s damages are to be assessed in accordance with s 272(1) of the
+ACL which is in the following terms:
+272 Damages that may be recovered by action against
+manufacturers of goods
+(1) In an action for damages under this
+Division, an affected person in relation to goods is entitled to recover damages
+(a) any reduction in the
+value of the goods, resulting from the failure to comply with the guarantee to
+which the action relates,
+below whichever of the following prices is
+(i) the price paid or payable by the consumer for the
+(ii) the average retail price of the goods at the time of
+supply; and
+(b) any loss or damage
+suffered by the affected person because of the failure to comply with the
+guarantee to which the action relates
+if it was reasonably foreseeable that the
+affected person would suffer such loss or damage as a result of such a
+(2) Without limiting subsection (1)(b),
+the cost of inspecting and returning the goods to the manufacturer is taken to
+be a reasonably
+foreseeable loss suffered by the affected person as a result of
+the failure to comply with the guarantee.
+(3) Subsection (1)(b) does not apply to loss or damage suffered
+through a reduction in the value of the goods.”
+behalf of the plaintiff it was submitted that the plaintiff’s claim for
+damages is not confined by s 272(1)(a) to “any
+reduction in the value of
+the goods” as set out in that subsection.
+was said to be so because of the use in the chapeau to s 272(1) of the word
+“for” rather than words such as “measured
+solely by” or
+“assessed only as”.
+as a matter of language, “for” is used here to specify and confine
+what damages are recoverable for breach of the
+“for” is used here in the sense of “having as a reason or
+“representing”.
+attention was drawn to the Explanatory Memorandum relevant to s 272(1)(a) which
+“The damages that are recoverable from a manufacturer of goods
+the reduction in value of goods below the lower of the price paid
+or the average retail price of the goods at the time of the supply.
+approach ensures that manufacturers are not required to provide excessive
+compensation to consumers if suppliers charge high
+prices for goods”.
+(Emphasis added.)
+passage does state that damages recoverable “include” the reduction
+in value of the goods but the word “include”
+is here used merely to
+describe the content of s 272(1)(a), not to suggest that some other species of
+damage is also available.
+my opinion, the plaintiff’s damages can only be assessed by reference to
+the test in s 272. The question is what damage the
+plaintiff has suffered by
+reason of the value of his vehicle being reduced below its purchase price as a
+result of it being of unacceptable
+How the plaintiff
+put his claim for damages
+developed in final submissions, the plaintiff put his claim for damages in three
+he contended that there had been a reduction in value of his vehicle, at the
+time of purchase, of $15,000 from the purchase
+price. This reduction was
+calculated by reference to two “Discrete Choice Experiments”
+conducted by an econometrician,
+Professor Michelle Baddeley. The result of those
+Discrete Choice Experiments was said to reveal that the “true value”
+of the plaintiff’s vehicle when he purchased it was $25,000: $40,000 less
+and alternatively, the plaintiff contended that his loss should be calculated on
+a “left in hand” basis by comparing
+what he paid for the vehicle and
+what he has now “left in hand”.
+and assuming that damages could not be calculated on either of the first two
+bases, the plaintiff contended that as he “undoubtedly
+suffered a loss on
+the day he bought” the vehicle and had “undoubtedly paid too much
+given the then unknown defect”
+in the vehicle that I should “do the
+best I can” to arrive at a damages figure.
+The plaintiff
+has suffered no damage
+the reasons that follow, I am not able to accept any of the bases on which the
+plaintiff put his damages claim.
+is a fundamental problem with the plaintiff’s case that can be resolved
+without resort to the numerous authorities to
+which I was taken.
+plaintiff is only entitled to damages for the loss that he has actually
+suffered. This is an obvious proposition for which there
+must involve consideration of the events that have happened since the plaintiff
+purchased his vehicle and thus at how “risks
+evolved into
+certainties”.
+plaintiff’s case concerning “reduction in the value” directs
+attention only to events at the time that the plaintiff
+purchased the vehicle.
+the question for the purpose of s 272 of the ACL is what damage the plaintiff
+has now suffered “for”, that is, as
+a result of or by reason of, any
+reduction in the value of the vehicle below the purchase price “resulting
+failure by VW to comply with the
+question is, what effect has any such failure had on the plaintiff’s
+financial position?
+answer is obvious. It has had no effect on the plaintiff’s financial
+plaintiff has had the full use of his vehicle since he acquired it.
+has never been any issue with the performance of the vehicle associated with the
+alleged defect, being the use of PSAN as the
+propellant in the airbag
+plaintiff was not involved in an accident which resulted in the deployment of
+the airbag in his vehicle. But had he been involved
+in such an accident, whether
+before or after his original airbag was replaced, I see no basis to conclude
+that the airbag would have
+operated in anything other than in the way it was
+designed to operate.
+revelation to the plaintiff that the airbag in his car would need to be replaced
+did not affect the performance or utility of
+the vehicle, nor the way that the
+plaintiff continued to use it.
+airbag inflator has now been replaced with a new airbag inflator as part of the
+regular servicing of the car, and at no cost to
+the plaintiff.
+plaintiff continues to own a car that is as valuable as any ordinary
+eight-year-old Volkswagen Passat would be.
+closing submissions, this was accepted on behalf of the plaintiff when it was
+“It is accepted that common sense would suggest that once the defective
+airbags are replaced with safe airbags, the plaintiff’s
+car has the same
+value as a now eight-year old second hand car as it would have had had the
+plaintiff bought the same vehicle but
+with non-defective airbags at the
+plaintiff’s argument is that, nonetheless, he “overpaid for his new
+vehicle”. But that argument ignores what
+has happened since then.
+plaintiff, now, has precisely what he thought he was acquiring.
+is not to the point only to enquire what the “true value” of the
+plaintiff’s vehicle was at the date of purchase
+and thus whether that
+“true value” was less than the purchase price. What matters is the
+plaintiff’s position
+now that the airbag has been replaced. The effect of
+such replacement is that such defect, as may hitherto have affected the
+value, has been removed.
+my opinion, this is a sufficient basis on which to dismiss the plaintiff’s
+Nonetheless,
+I will consider how the plaintiff did put his claim.
+plaintiff’s case was that s 272(1)(a), in effect, provides for a
+“approach” and entitles the plaintiff to recover the difference
+between what he paid for his vehicle and its “true
+s 272 makes no reference to “true value”. Rather, it speaks of a
+reduction in value resulting from, relevantly, a
+failure to comply with the
+airbag in the plaintiff’s car has now been replaced by VW at no charge and
+the plaintiff has accepted that as a matter of
+“common sense” his
+car is now of the same value as if it had never been fitted with a Takata
+plaintiff nonetheless contends that he “overpaid for his new
+vehicle” because its value was reduced below its purchase
+price by reason
+of the potential for the airbags to mis-deploy. That proposition depends upon
+the results of the Discrete Choice
+Experiments.
+Discrete Choice
+Experiments
+Baddeley conducted two Discrete Choice Experiments which the parties referred to
+as “DCE-1” and “DCE-2”.
+DCE-1 was conducted in May 2020
+and DCE-2 in April 2021.
+main differences between DCE-1 and DCE-2 were that DCE-1 was directed to airbags
+in seven makes of vehicles
+whereas DCE-2 was directed only to Volkswagen vehicles, and that DCE-2 included
+information concerning risk that was absent from
+each DCE, Professor Baddeley engaged a professional survey company to conduct an
+online survey for which respondents were rewarded,
+premised on the assumption
+that the respondent was buying a new vehicle and had then been offered two
+options for the purchase.
+The first option was a car with a “defective
+driver’s side airbag”. The second option was a car with
+“non-defective
+DCE asked the respondents to review a detailed and lengthy “opening
+statement”.
+respondents were then asked to answer ten “choice questions”. Each
+of these set out five types of information for
+two different options. The five
+participant.
+illustrate the point, an example of “Task 1 of 10” for DCE-1 was:
+The car is fitted with one or more defective airbag(s)
+The car will be recalled for replacement of the defective airbag(s)
+Recall status
+No recall necessary
+Your airbag is replaced with an airbag, but the replacement airbag may be
+Malfunction
+No malfunction
+If the airbag inflates too aggressively in the event of a crash, it may not
+protect the driver and passengers from injury in an accident
+and/or may itself
+injure the driver and passengers
+I would purchase:
+respondent was given different combinations of replacement, recall, malfunction
+and price scenarios, randomly selected.
+Respondents
+were then asked to complete a further set of concluding questions. In the case
+of DCE-1, this included 30 questions on
+the respondents’ appreciation of
+Baddeley estimated that it would take respondents 10 minutes to complete the
+opening submissions, the plaintiff argued that Professor Baddeley’s
+Discrete Choice Experiments were an “appropriate
+quantification” of his alleged loss and that her model “applie[d]
+accepted economic methodology and produce[d]
+plausible results”.
+following Professor Baddeley’s evidence, the plaintiff accepted in closing
+submissions that there were “undoubted
+limitations and problems”
+with the Discrete Choice Experiments. Nonetheless, it was submitted for the
+plaintiff that I could
+use the results of the exercise to form an estimate of
+the “true value” of the plaintiff’s vehicle at the time
+purchased it.
+do not agree. In my opinion, for the reasons that follow, no weight can be
+given to the experiments. They certainly do not show
+that, as the plaintiff
+contends, his vehicle was worth $15,000 less than he paid for it.
+Professor Baddeley
+Baddeley is a highly qualified and, academically, deeply experienced economist
+and econometrician.
+she did not present well as a witness.
+closing submissions, the plaintiff accepted that Professor Baddeley
+“presented as a somewhat naïve and inexperienced
+court expert”.
+is true, but I would go further. Professor Baddeley, consciously or
+unconsciously, has become too closely aligned with the interests
+plaintiff and the Group Members that she represents and has allowed herself to
+become something of an advocate for them.
+answer and critique Professor Baddeley’s work, VW called Dr Christopher
+Pleatsikas. Dr Pleatsikas is also an economist and
+a specialist in statistical
+and econometric analysis, including analysis of survey data.
+is true, as the plaintiff submitted, that Dr Pleatsikas expressed his criticisms
+of Professor Baddeley’s work in robust and
+perhaps unnecessarily combative
+Dr Pleatsikas identified a number of fundamental flaws in Professor
+Baddeley’s work and impressed me as a well informed
+and reliable expert.
+am not prepared to accept Professor Baddeley’s opinions to the extent that
+they were contested by Dr Pleatsikas.
+example of a fundamental error that Professor Baddeley made was in relation to
+her “Structural Break Analysis”.
+this analysis, Professor Baddeley sought to analysis vehicle auction data in an
+attempt to identify and quantify any diminution
+in the resale price of vehicles
+that correlated with the announcement of the recalls in respect of the affected
+vehicle. Prior to
+closing submissions the plaintiff abandoned reliance on
+Professor Baddeley’s Structural Break Analysis and in closing submissions
+accepted that it suffered from “fundamental flaws” and was “of
+no utility to the Court”. One obvious problem
+with the Structural Break
+Analysis is that it was untethered to the plaintiff’s pleaded case, which
+relied only on diminution
+in the value of the plaintiff’s vehicle at the
+time he acquired it, and not at the time of any resale. But the Structural
+Break Analysis remains relevant insofar as it sheds light on the reliability of
+Professor Baddeley’s opinions.
+the purpose of her Structural Break Analysis, Professor Baddeley erroneously
+assigned recall dates for Volkswagen vehicles approximately
+four years prior to
+the time that they were recalled. Professor Baddeley assumed that the recall
+dates were in 2014, when they were
+in fact in 2018. When this was pointed out by
+Dr Pleatsikas in his reply report, Professor Baddeley’s response was not
+the implications this had for her methodology but to attempt to
+justify that methodology through the supposed effect of what the
+referred to as
+“Dieselgate”
+price of Volkswagen vehicles from May 2014. Professor Baddeley relied on an
+academic article to justify this position but
+in cross-examination accepted that
+the article did not mention Volkswagen specifically. More troublingly, Professor
+Baddeley accepted
+that another article she cited was inconsistent with the
+opinion she expressed in her report, and that she was aware of that at the
+that she cited it.
+in July 2019, Professor Baddeley presented a draft document for discussion with
+the plaintiff’s solicitors entitled
+“Discrete Choice
+Methodology”. That document contained a note from Professor Baddeley to
+the plaintiff’s solicitors:
+“We will need some guidance from the legal team on how narrow or broad
+this range ought to be, based on their expectations
+around how much the average
+consumer needs to be compensated”.
+Baddeley was speaking of the “range” of discounts that survey
+respondents should be offered in the event that
+they elected for a car with
+defective airbags. In closing submissions, the plaintiff pointed out there was
+no criticism made of the
+discounts ultimately adopted by Professor Baddeley.
+But that is not the point. As VW submitted, Professor Baddeley’s note
+represented a request from her for information so as to design an experiment
+that best fitted the answers the plaintiff’s solicitors
+hoped to derive. I
+can envisage no good explanation for an exchange of this kind between a
+supposedly independent expert and the
+solicitors for the plaintiff. None was
+given. Indeed, as Professor Baddeley said, when this was pointed out to her:
+“I agree that that was not an appropriate thing for me to say”.
+Baddeley was also provided with a “Literature Review” prepared by
+the plaintiff’s solicitors. Professor
+Baddeley said she used the
+Literature Review as a resource in preparing her reply report. The Literature
+Review contained material
+inappropriate to be provided to an independent expert,
+including purported views as to the effect of various articles on the prospects
+of the case as a whole and whether they assisted or detracted from the
+real-world premise
+any event, a fundamental difficulty with the Discrete Choice Experiments is that
+they were based upon a highly unrealistic premise,
+namely, that a rational
+person would buy, at a discount, a car known to have a defective airbag. I
+think VW was correct to submit
+that the scenario the participants were thus
+asked to assume was so artificial, and so implausible and removed from reality,
+any views thereby expressed about Volkswagen vehicles could not be treated
+as an insight into value.
+were three further problems with the Discrete Choice Experiments.
+Only measured willingness to pay
+first is that, as Professor Baddeley accepted, the Discrete Choice Experiments
+were not directed to ascertaining the market value
+of the vehicles in question.
+Rather they were directed to ascertaining a purchaser’s willingness to pay
+for the vehicle; or
+the “value to the consumer” of the vehicle.
+Thus, the Discrete Choice Experiments were directed only to the demand side
+transaction that, in the real world, would have a supply side as well.
+is no doubt true that in the real world there would not be a market for vehicles
+known to have a defective airbag, not least because
+no rational and responsible
+vehicle manufacturer would offer such vehicles for sale.
+it does not follow that, assuming it can be ascertained, a purchaser’s
+willingness to pay for a vehicle can be a proxy for
+the vehicle’s market
+test posited by s 272 of the ACL is expressed in terms of “price
+payable” or “average retail price” and
+thus in terms of value
+in a market of buyers and sellers.
+Discrete Choice Experiments were not directed towards this question and say
+nothing about market value.
+False factual premise
+second difficulty with the Discrete Choice Experiments is that they contained an
+Opening Statement which asked participants to assume
+a false level of risk.
+Opening Statement clearly conveyed that the risk of airbag malfunction existed
+from the date of manufacture. It is common ground
+that such risk as existed
+concerning PSAN degradation did not arise at the date of manufacture, but only
+after many years and exposure
+to temperature fluctuations and moisture.
+Discrete Choice Experiment also posed as one of the three “recall
+scenarios”, the replacement of existing airbags
+with another airbag which
+might also be unsafe. There is no suggestion that VW did this.
+Methodological problems
+the surveys were confusing.
+“Opening Statement” was dense. Professor Baddeley agreed that she
+was “concerned that it might be confusing”.
+DCE-1 did not include quantifiable information about the probability that the
+airbag’s safety risk might eventuate.
+a real question arose as to what level of consideration participants gave to the
+survey. Participants had an incentive, through
+a points or rewards system, to
+complete the survey as quickly as possible. Metadata from the survey showed that
+five out of six participants
+read the complex Opening Statement at a rate that
+exceeded that average adult reading speed. The metadata also showed that half
+respondents to DCE-1 answered the questions at a median speed of 10 seconds
+or less and that a high proportion of respondents gave
+inconsistent answers.
+Discrete Choice Experiments were deeply flawed. In my opinion, they were of no
+value to the task at hand. They cast no light
+on what the “true
+value” was for the plaintiff’s vehicle at the time he purchased it,
+assuming that to be a relevant
+A “no transaction
+closing submissions, the plaintiff characterised his case as a “no
+transaction case” and submitted that relief should
+be granted on the basis
+of “being restored to the position that would have existed if there had
+not been any
+transaction”.
+the plaintiff’s damages must be assessed in accordance with s 272 of the
+ACL which provides for recovery of damages “for...any
+reduction in value
+of the goods, resulting from the failure to comply with the guarantee” in,
+relevantly,
+question posited by s 272 assumes goods have been acquired and then seeks to ask
+what damage has been suffered by reason of any
+difference between the price paid
+and the value of the goods. The section is not directed to what might have
+happened had the goods
+not be acquired.
+any event, the plaintiff’s evidence does not establish a “no
+transaction case”. His case is that if he had not
+purchased the Volkswagen
+Passat, he would have chosen to purchase another vehicle.
+“left in hand” approach
+to the plaintiff’s “no transaction case” submission was the
+proposition that appropriate compensation in
+a “no transaction case”
+might be to award a sum that:
+“...together with the value of what the innocent party still holds (or is
+‘left in hand’), will ‘do what
+is practically just between the
+parties’ so as to, in effect, restore him, her or it to the position that
+he, she or it would
+now obtain had the transaction not
+plaintiff contended that what he had “left in the hand” was a second
+hand Volkswagen Passat worth between $12,200
+the plaintiff submitted the he should be awarded the difference between what he
+paid for the car (some $40,000) and the value
+of what he has “left in
+hand”, namely a vehicle worth
+= $15,000. To state the
+argument is to reveal why it cannot be accepted. It would involve the plaintiff
+being placed in a position
+where he had an eight year old car with over 60,000
+kms on the odometer, that had been driven without incident throughout that
+and had recently had its airbags replaced at no charge, and yet receive
+compensation that would put him in the same financial position
+as he was when
+his vehicle was a brand new car.
+are further difficulties with this argument. It was first raised in closing
+submissions, was not pleaded, was not opened on
+and was not the subject of any
+submitted that had the matter been raised timeously, it would have been the
+subject of evidence in the proceedings.
+any event, for the same reasons as I have mentioned when referring to the
+plaintiff’s “no transaction case”,
+the framework of s 272 of
+the ACL is not apt to accommodate damages calculated this way.
+“Do my best”
+a fallback position, it was submitted for the plaintiff that, in effect, I
+should “do my best” to arrive at a figure
+which would provide
+adequate compensation to the plaintiff.
+it was put on behalf of the plaintiff:
+“The task for the Court is to determine an appropriate measure which
+compensates the plaintiff for his loss. That is a difficult
+task, and any single
+approach will necessarily have its problems. However, the Court cannot let that
+inherent difficulty stand in
+the way of assessing an appropriate
+in the “potential approaches” to such a task, the plaintiff
+submitted that I could:
+(a) award a proportion of the difference
+between the price paid by the plaintiff for his vehicle and its “true
+with the proportion being equal to the number of years that the
+vehicle as “defective” over the total number of years
+from purchase
+to judgment; or
+(b) award the plaintiff interest at an appropriate rate on the difference
+between the price paid and the “true value”
+over the period during
+which the vehicle was “defective”.
+difficulty with each of these approaches is that they do not take account of the
+fact that such “defect” as may have
+been in the plaintiff’s
+vehicle has been remedied.
+the approaches assume that, somehow, the plaintiff is now in a position where in
+the events that have happened, he has suffered
+some financial loss. For the
+reasons I have explained, in my opinion, he has not.
+Loss of use
+– out of pocket expenses
+is common ground that the plaintiff has suffered no relevant out of pocket
+airbag in his vehicle was replaced during the vehicle’
+,000 km service.
+The plaintiff’s wife drove the plaintiff to and from the relevant service
+Distress – disappointment and anxiety
+has been held that, in cases alleging misleading or deceptive conduct, damages
+may be awarded for distress, disappointment, inconvenience,
+vexation or
+attention was not brought to any authority in which damages for such matters has
+been awarded under section 272 of the ACL.
+s 272(1)(b) makes provision for damages for loss or damage suffered by an
+affected person because of “the failure to
+comply with [relevantly, a
+guarantee]...if it was reasonably foreseeable”.
+in final written submissions, VW put that matters such as distress and
+disappointment would be too remote from a breach of
+guarantee to be
+recoverable, in closing oral submissions, its senior counsel accepted that such
+damages might be recoverable, if
+reasonably foreseeable.
+behalf of the plaintiff, it was accepted in final submissions that any damages
+awarded to him under this head would be “undoubtedly
+towards the lower end
+of the spectrum”.
+May 2018, the plaintiff became aware, because of reports in the media, that his
+vehicle might be affected by the Recall Notice.
+The airbag in the
+plaintiff’s vehicle was replaced a year later, in May 2019.
+plaintiff described his reaction to knowing that his vehicle was the subject of
+the Recall Notice in three affidavits, in which
+an evolving picture emerged.
+his first affidavit made on 26 July 2019, the plaintiff did not depose to any
+anxiety or distress of the kind that he now alleges.
+that affidavit he said that:
+(a) since the recall of his vehicle he
+holds little weight on his previously resolute trust in the Volkswagen brand;
+(b) he was “frustrated” by VW’s handling of the recall,
+particularly in respect of the lack of information regarding
+the recall process;
+(c) “[I]t is my personal belief that [his vehicle’s] potential
+resale value, as well as its potential trade-in value,
+has been tarnished by the
+safety recall”.
+an affidavit served on 18 December 2020, the plaintiff said, for the first time,
+that he was “angry” when he heard
+of the Recall Notice. He said:
+“This was not the first recall my VW had been subject to by the defendant,
+Volkswagen. My car was also recalled as part of
+the diesel emissions
+this affidavit the plaintiff expressed frustration that “no-one from
+Volkswagen has bothered to contact me specifically about
+the recall” and
+that “[a]t no time did Volkswagen take any proactive steps to engage with
+me about the recall”.
+plaintiff said he found “Volkswagen’s conduct and attitude towards
+the recall to be incredibly concerning”.
+“To me, the point of a car is to get you from point A to point B, as
+safely as possible. Volkswagen denied this to me and my
+wife. Every time either
+of us drove the car after the recall, I was apprehensive and had the airbag
+fault in the back of my mind.
+Volkswagen has now replaced the airbag in my VW. According to them it is
+‘safe’ to drive, but I don’t have any
+confidence in what VW
+say, because they are a company that has, in my view,
+artfully deceived its
+customers for a long period of time both in relation to the diesel emissions and
+in relation to the airbags
+”. (Emphasis added.)
+cross-examination, the plaintiff was asked why he believed VW had
+“artfully deceived its customers”. The plaintiff
+“My understanding was that they knew, in advance, that the airbags were
+faulty and yet continued to install them in their cars”.
+the plaintiff professing this belief, it forms no part of the case put on his
+behalf in these proceedings. There is no suggestion
+in this case that VW AG
+installed airbags in Volkswagen vehicles that they knew to be unsafe. No such
+suggestion was made in submissions
+to me on the plaintiff’s behalf. The
+whole point of the Empirical Analysis Program was to ascertain if there was any
+risk involved. For the reasons I have set out, I am satisfied that based
+on the results of the Empirical Analysis Program, VW AG
+was entitled to conclude
+that there was no safety risk involved.
+plaintiff continued:
+“I will certainly not be buying a VW again. The time and energy I have
+wasted dealing with Volkswagen’s mistakes and
+the stress it has put on me
+and my wife, well it’s not something I would subject myself to
+cross-examination, the plaintiff agreed that the “time and energy”
+that he had “wasted” was because of
+his involvement in these
+proceedings.
+plaintiff made a third affidavit on 14 May 2021, a short time before the trial.
+this affidavit, the plaintiff said that having read the Recall Notice and looked
+at VW’s website he understood from these
+sources that “if the faulty
+Takata airbag in my VW deployed in an accident, shards of metal could shoot out
+of the airbag and
+kill me or other passengers in the car”.
+cross-examination, the plaintiff accepted that neither Volkswagen’s
+website nor the Recall Notice suggested that there was
+any immediate danger with
+the plaintiff’s vehicle as it was less than six years old. The plaintiff
+went on to say that although
+he was “apprehensive and had the airbag fault
+in the back of my mind”, each time he drove his car:
+“The VW was my only means of transport. So to some extent, I often had to
+push my concerns about it to the back of my mind.
+As such, this may not have
+necessarily played on my mind every time I drove the car, but I often felt
+apprehensive and I was always
+worried when my wife was driving the car without
+plaintiff again expressed “upset” by the lack of communication from
+VW and said:
+“I felt that Volkswagen had not been honest with me and probably other
+customers about the danger of the airbags in some vehicles,
+and only took steps
+when compelled to by law. As I have stated above, VW never contacted me at all
+it from the media and then my own research to
+see if my car was impacted”.
+plaintiff also stated that:
+“I also used the VW for domestic travel. For example, my wife and I
+particularly enjoy trips to Scotts Head, which is about
+four hours by car from
+Newcastle”.
+cross-examination, the plaintiff accepted that he had continued to drive his
+vehicle in the normal way from the time he learnt
+of the Recall Notice to the
+time the airbag in the car was replaced. He said that he did not feel the need
+to adjust his driving
+habits at all and continued to drive with his wife on
+multiple trips to Scotts Head, and that his wife also drove the vehicle during
+this period even though she had a car of her own she could have used.
+the plaintiff stated that he preferred using the vehicle as compared to his
+wife’s car, describing her car as “somewhat
+older and less
+comfortable and possibly
+than the Passat”.
+is thus clear that the plaintiff’s alleged frustrations were not merely
+because of some apprehension about the safety of
+his vehicle, but also because
+of his vehicle’s earlier recall in relation to the diesel emissions issue,
+which has no relationship
+to this case, and because of his frustrations as to
+what he saw as lack of communication from VW.
+I did not find the plaintiff to be a reliable informant.
+was due to the evolving nature of his descriptions of his reaction to the state
+of his vehicle.
+also found particularly concerning the different accounts the plaintiff gave of
+what he was told by VW when the airbag in his vehicle
+was replaced in May 2019.
+his first affidavit, the plaintiff said:
+“When I collected my vehicle, I asked the Dealership about what brand of
+airbag had been used to replace the defective airbag.
+I was told by a member of
+the Dealership’s customer service team that a non-Takata brand of airbag
+had been used, however I
+did not receive a separate service invoice for the
+replacement”.
+his third affidavit, served just before the hearing commenced, he added:
+“Given the lack of transparency by Volkswagen about the recall and the
+replacement, my recollection is that I still left the
+Dealership believing there
+was a real possibility that another Takata airbag had been used in my VW. I was
+left in the dark about
+in cross-examination, the plaintiff gave this evidence:
+“Q. you say in your first affidavit that you asked at the dealership about
+whether - and I take it this was at the end of the
+day - whether the replacement
+airbag was a Takata airbag or a non-Takata airbag. Is that right?
+A. That’s my - that’s my - my recollection was, I asked what the -
+what kind of airbag had been used as the replacement.
+Q. And is the reason you asked that because you knew from reading about the
+issue that some manufacturers were, in fact, using Takata
+airbags as replacement
+A. That’s right.
+Q. But you were told by the staff at the dealership that that wasn’t the
+case with your car, that the airbag which had been
+put in was a non-Takata
+A. It’s not my recollection. I believe that the person I was talking to
+didn’t really know what kind of airbag
+had been used to replace
+, and I - my impression was that it was a Takata airbag, because I believe
+my response was, “What good is that? I’ll only
+have to come back in
+18 months’ time.”
+Q. Can I ask you to look at your first affidavit, please, Mr Dwyer.
+Q. If you could turn, please, to paragraph 25 of your first affidavit.
+Q. Do you see there that you've said: "I asked the dealership about what brand
+of airbag had been used to replace the defective airbag.
+I was told by a member
+of the dealership's customer service team that a non-Takata brand of airbag had
+been used"?
+A. That's right.
+Q. That's the true position, isn't it?
+A. I - I think I've modified that statement in a - in the - in the subsequent
+Q. What's the true position, Professor Dwyer, about what conversation occurred
+on the day in May 2019 when you had the car serviced?
+A. My recollection is that the person I was talking to
+didn't really know
+what kind of airbag had been used to replace the Takata airbag
+vaguely recall then commenting, "what was the point of that? It'll only have to
+be replaced again in 18 months' time."
+Q. Professor, can you look at your third affidavit, please?
+Q. Turn to the end, to the last paragraph, paragraph 20?
+Q. Have you got paragraph 20, where you refer back to what you said in paragraph
+25 of your first affidavit?
+Q. You say: "where I refer to being told that a non-Takata brand of airbag had
+been used in my VW, but I was provided with no" -
+I assume that should be "not"
+- "I was not provided with any other information and or documentation saying as
+much, except for a
+sticker being placed in my VW." So it remains the case,
+doesn't it, Professor, that you do remember being told by the staff at the
+dealership that, when you asked that question, they said a non-Takata brand of
+airbag had been used?
+A. My - my recollection is somewhat different, and that's all I can say at this
+Q. You accept that you wrote--
+A. I - I accept that I've written that in the affidavit, yes.
+Q. So you accept that the most likely position is you were, in fact, told
+A. It's quite possible.
+Q. So you didn't have cause to say to anyone, "what's the point of that? I'm
+just going to have to come and get it replaced again"?
+A. I remember it somewhat differently.
+Q. Professor, the true position is, you asked the question because of the
+information you knew about what some manufacturers were
+doing, and you were
+given a satisfactory answer that the type of airbag that had been installed
+wasn't a Takata one?
+A. I'm not quite sure how I'm supposed to answer that question. I - I just have
+a slightly different recollection of the short conversation
+transpired.” (Emphasis added.)
+found this evidence to be highly unsatisfactory. Having first deposed that VW
+told him that the airbag in his vehicle had been replaced
+with a non-Takata
+airbag, the plaintiff in his third affidavit then expressed an apprehension
+that, despite being told that a non-Takata
+airbag had been used, there was a
+“real possibility” that this was false and that “another
+Takata airbag had been
+used”. In cross-examination the plaintiff then
+resorted to saying that “the person I was talking to didn’t really
+know what kind of airbag had been used to replace” the Takata airbag.
+impression I gained was that, here, the plaintiff was saying whatever he thought
+would assist his case.
+Courtney v Medtel Pty
+Sackville J
+In my view, not every consumer who has experienced anxiety or worry as a
+consequence of acquiring goods that are not fit for their
+purpose or not of
+merchantable quality should receive compensation on that account. In the absence
+of special or unusual circumstances,
+I think something more substantial than the
+worry and anxiety experienced by the applicant in the present case is required
+compensation should be awarded under this head. Some restraint is
+appropriate in cases where compensation is sought for worry and
+anxiety as such
+to avoid “the creation of a society bend on litigation”:
+[2001] UKHL 49
+[2002] 2 AC 732
+, at 751, per Lord Steyn. Accordingly, no
+compensation should be awarded to the applicant in respect of anxiety, worry and
+my opinion, this is a case where “restraint is appropriate”. I am
+not satisfied that the account the plaintiff gave
+in his affidavits truly
+represents any apprehension that he experienced by reason of the alleged defect
+in his vehicle.
+the extent that the plaintiff had been “angry” or
+“frustrated” by the events following the Recall Notice,
+this appears
+to be by reason of his belief that VW has behaved dishonourably, his frustration
+as what he sees as being poor communication
+or service from VW and his
+involvement in these proceedings.
+these circumstances, and had I otherwise been satisfied that the
+plaintiff’s case was made out, I would not have awarded
+the plaintiff any
+damages under this head.
+is common ground that no limitation issue arises in relation to the
+plaintiff’s claim.
+issues may arise in relation to claims of other Group Members as the time for
+commencing action for lack of merchantable
+or acceptable quality is three years
+from the day when the plaintiff became or ought reasonably to have become aware
+plaintiff’s claim fails.
+will hear submissions as to costs and as to the future conduct of the
+proceedings.
+Competition and Consumer Act
+(Cth), Sch 2 – Australian Consumer
+Group Members who
+purchased their vehicles prior to 1 January 2011 were instead entitled to the
+warranty under s 74D of the
+Trade Practices Act 1974
+(Cwth): see [20]
+Section 54(2)(c)
+See Gill v Ethicon Sarl
+[2019] FCA 1905
+at [3529] in which Katzmann J opined that the words were
+“not materially
+different”.
+Prestige Auto
+Traders Australia Pty Ltd v Bonnefin
+[2017] NSWSC 149
+Australian Competition and
+Consumer Commission v Jayco Corp Pty Ltd
+[2020] FCA 1672
+Graham Barclay Oysters Pty
+Ltd v Ryan (2000) 102 FCR 307;
+[2000] FCA 1099
+(Lindgren J, Lee J
+agreeing; Kiefel J at [611]); Courtney v Medtel Pty Ltd
+(2003) 126 FCR 219
+[2003] FCA 36
+Medtel Pty Ltd v
+(2003) 130 FCR 182
+[2003] FCAFC 151
+(Branson J, Jacobson J
+Where the airbags
+installed in Volkswagens were
+manufactured.
+A chemist with
+Mechanical Engineering Technology expertise and many years’ experience
+working on automatic airbag ignitors,
+inflators and micro gas
+generators.
+liability expert, a Professor of Chemistry at Ludwig Maximilian University in
+The transcript
+records Mr Renz referring to “Takata’s conclusions” but this
+was clearly an accidental
+See [79] to [83]
+See [97] to [101]
+See the passage I
+have emphasised at [155e].
+Concise Oxford English Dictionary, online ed, accessed 15 June 2021; and
+accepting the well-known caveats about using dictionary
+definitions to construe
+statutes and contracts: P Herzfeld and T Prince, Interpretation, (2nd ed, 2020,
+Thomson Reuters) at [20.40].
+For example, see Kizbeau Pty Ltd v WG & B Pty Ltd
+[1995] HCA 4
+(1995) 184 CLR 281
+[1995] HCA 4
+(Brennan, Deane, Dawson, Gaudron and McHugh
+HTW Valuers (Central
+Qld) Pty Ltd v Astonland Pty Ltd
+[2004] HCA 54
+(2004) 217 CLR 640
+[2004] HCA 54
+(Gleeson CJ, McHugh, Gummow, Kirby and Heydon
+[1940] HCA 43
+(1940) 64 CLR
+Toyota, Honda, Nissan,
+BMW, Mazda and Subaru, in addition to
+An issue, unrelated to
+that in this case, that arose in relation to diesel
+VW referred to
+numerous examples in fn 157 of its closing
+submissions.
+For example,
+Wyzenbeek v Australasian Marine Imports Pty Ltd (In Liq)
+(2019) 272 FCR 373
+[2019] FCAFC 167
+, [107] (Rares, Burley and Anastassiou
+Wyzenbeek v
+Australasian Marine Imports at
+Being sale prices for
+Volkswagen Passats with the same build date as the plaintiff’s vehicle
+between 2015 and 2018.
+Adopting, as a “conservative course”, the highest of those
+For example, Steiner
+v Magic Carpet Tours Pty Ltd
+(1984) ASC 55-366
+(1984) ATPR 40-490
+(Wilcox J); Zoneff v Elcom Credit Union Ltd
+(1990) 94 ALR 445 (Hill
+Australian Competition and Consumer Commission v Top Snack Foods Pty Ltd
+(Tamberlin J); and New South Wales Lotteries Corporation
+Pty Ltd v Kuzmanovski
+(2011) 195 FCR 234
+[2011] FCAFC 106
+A matter which,
+as I have said, is not the subject of these
+proceedings.
+(2003) 126 FCR
+[2013] FCA 36.
+Section 74J of the
+Trade Practices Act
+and s 273 of the ACL.
+Print (pretty)
+Print (eco-friendly)
+RTF format (538 KB)
+Signed PDF/A format
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

@@ -1,0 +1,1553 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/LawTechHum/2025/20.html
+Scraped: 2025-11-17 15:13:10
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Esko, Terhi --- "Disconnections in Legal Tech Design: An Infrastructural Problem?" [2025] LawTechHum 20; (2025) 7(2) Law, Technology and Humans 126
+Disconnections in Legal Tech Design:
+An Infrastructural Problem?
+University of Helsinki, Finland
+Digitalisation; court system; biographical approach;
+legal infrastructures.
+1. Introduction
+Designing technologies for the public judiciary
+can be difficult. While changing work practices in legal settings, technology
+the regulatory environment, judicial structures, decision-making and
+legal language.
+At the same time,
+law is often described as rigid and conservative – unlike fast-paced,
+innovative technology. Research literature
+on information system development
+within the judiciary is rife with examples of unsuccessful projects, suggesting
+a conflict of cultures
+between law and
+technology.
+However, there is still
+a shortage of research on the digitalisation of public judicial
+so more empirical,
+context-specific accounts on information systems developed for legal settings
+are needed. As the technological
+cannot be separated from the social, cultural
+and organizational,
+it is paramount
+to scrutinise digitalisation and law in context. For this purpose, science and
+technology studies (STS) provide an
+interdisciplinary and empirically oriented
+research approach.
+In what follows, I present a case study of a large-scale digitalisation
+project (AIPA Data Bank, 2007–2024) in the Finnish court
+system. The AIPA
+project is understood as providing historical context for building legal digital
+infrastructure in the public
+The project’s aim
+was to rethink the work processes in general courts and to involve users in the
+design process to ensure
+legal expertise in the design. The AIPA system was also
+seen as the cornerstone of the future digital courtroom and justice system,
+connections to other authorities’ IT systems – mainly those of the
+police and other pre-trial investigation authorities.
+It can be understood as an
+attempt to build interconnected IT systems that operate together through the
+concept of the ‘data
+pipe’ covering the whole life-cycle of a legal
+document. I adopt a biographical approach and ask how design turned into
+use in the AIPA project. Given the nature of legal work (autonomy of
+the judges, discretion in decision-making) and the complex structures
+judiciary, the development of information systems often
+I argue that this is because
+IT systems are understood as tools, even though they are part of the legal
+infrastructure.
+Theoretically, the article draws on science and technology studies (STS) and
+infrastructure studies, and is inspired by the method
+of biographical
+In its attempt to account
+for multiple temporalities of technology and balancing representations of users
+and designers of technology,
+the approach emphasises ‘technology in the
+making’, the co-constitution of the phenomenon and context as well as
+the same object during a longer period instead of ‘snapshot
+I diverge from
+approaches that see technology merely as a tool for streamlining digital public
+administration and instead understand
+it as forming, affecting and co-evolving
+with the digital legal infrastructure. To this end, I employ methods developed
+for following
+large-scale design projects over
+Thus, technology is seen as
+an indeterminate and unstable artefact whose significance is negotiated,
+interpreted and sometimes
+Reflecting against the
+literature of infrastructures and
+breakdowns,
+I suggest that the
+disconnection
+offers a way forward in terms of analysing legal
+tech design as part of legal
+infrastructure.
+This adds to
+STS-oriented debates on infrastructure, which have usually considered law as a
+background factor.
+The findings suggest that, even when aimed at broader interoperable
+information systems, IT design easily collapses into tool development
+various reasons, missing the opportunity to ‘think
+infrastructurally’ about the materialities and infrastructures
+Based on the findings, I
+argue that disconnections in the design phase will later manifest as unintended
+consequences in the use
+of the designed technology. As court IT systems are
+supposed to be interoperable with other public actors’ systems, they form
+legal infrastructure. Treating IT projects only as tool development blurs their
+role in the infrastructures of law. The article is
+structured as follows. I
+begin by discussing technological development and design in judicial systems. I
+then present the concept
+of disconnections, reflecting it against the literature
+from infrastructure studies and IT systems design literature. After describing
+the research design, methodology and findings, the conclusion discusses a way
+forward for legal tech and digitalisation of judicial
+2. Technology Development in Judicial Systems
+In its efforts to digitalise judicial procedures, technology is often
+understood as a tool to enhance the judicial system’s
+activities. When
+considered only as a tool, technology is deprived of its constitutive role in
+human interactions.
+have suggested that ‘ICT constructs a new set of technologically mediated
+interdependences that regulate the way in
+which organizational procedures and
+processes are executed’.
+Prior experience has shown that successful development of information systems
+requires both technological maturity and a legal foundation.
+However, it appears
+that the law tends to yield ground as technologies
+This adaptation can be
+seen as a dynamic interplay where law and technology influence each other as
+legal frameworks are likely to
+evolve over time.
+Legal scholars have often focused on legal sources and technology regulation
+from a doctrinal perspective, and empirical studies have
+remained in the fringes
+of legal scholarship.
+scholars interested in law and technology have started to pay attention to the
+broader interconnections between law, technology
+and societal change. Especially
+in the context of automated decision-making and artificial intelligence (AI)
+regulation, legal scholars
+have called for more interdisciplinary and empirical
+Recently, the critical
+program of law and technology has focused on the co-constitutive relations
+between the legal and the socio-technical,
+as well as on methodologies that
+combine studies of regulation and data
+infrastructures.
+Following this
+critique, rather than perceiving a legal ‘gap’ to be filled with
+‘new digital rights’, we
+should be more interested in how law is
+already embedded within existing
+infrastructures
+. Similarly, the
+theoretical and methodological needs within STS have revealed a ‘blind
+spot’: ‘the failure to give
+consideration to such issues of how
+research results may be as much affected by the study framing as by theoretical
+point of departure’.
+Moreover, design issues have increasingly been reconceptualised by incorporating
+interdisciplinary perspectives into legal
+scholarship.
+Nevertheless, as a
+context for technology use, the courts have largely remained under-studied
+empirically.
+From an organisational perspective, information technology is not a
+stand-alone tool but rather an environment that requires predetermined
+standardised processes. This has pushed courts and judiciaries to re-examine the
+governance of their justice
+At the European level,
+the design of e-justice services is seen as a question of interoperability and
+system adaptability, but so
+far the design, development and implementation of IT
+projects have suffered from fragmentation. Instead of embedding technologies
+into the structure and organisation in which they were supposed to operate,
+technology development projects have remained isolated
+This suggests that, in
+the legal context, IT is seen as a tool. I propose looking at the
+co-constitutive relationship between law
+and technology.
+While many judiciaries have benefited from the ‘traditional’
+digital technologies such as case-management systems and
+the digital exchange of
+data, the era of AI promises
+At the same time,
+technology challenges the institutional settings, making
+‘value-sensitive’ design of legal algorithmic
+and automated systems
+a key issue. Scholars have moved towards searching for living interactions
+between law and technology.
+environments also discipline and force users (prosecutors, lawyers, clerks and
+judges) to adapt and perform tasks according to
+digital processes calling for
+new skills. Prior research on IT development in the judiciary points to
+mismatches in technology development
+projects, as well as errors that go
+unnoticed even in simple
+inscriptions.
+According to Reiling and
+law and technology
+interact through procedural standardisation (uniformity), workflow
+re-engineering and user involvement. Implementing
+technology is risky and
+depends on the type of court, the type of matter and the willingness of those
+involved; it is often affected
+by over-ambitious
+suggests three models
+for handling the information processes in court IT solutions. First, relatively
+simple, and short processes
+can be replaced by digital processes in their
+entirety. The second alternative is reforming existing processes, such as large
+cases. These need more redesigning and probably require changes in the
+legal basis. The third, and most successful, model is to design
+a new process
+altogether. The case I present here falls into this category.
+All the models mentioned tend to be difficult to execute and require an
+understanding of how the legal procedures and processes
+Liberation from routines
+comes with a price as it is not clear how well one can design the systems in
+advance to accommodate both
+the concerns of the law and those of technology.
+This means that the weaknesses of any organisation become visible when
+IT environments, a particularly pervasive difficulty in court
+settings that exhibit a high level of
+complexity.
+To mitigate the risks associated with development, user engagement has become
+paramount. The concept of a user is central to the case
+as the project aimed to
+involve end-users in the design
+Research suggests that
+technological design and users’ contributions to technology have often
+gone unnoticed,
+and there has
+been a tendency to bypass the nuanced practices affecting the design and
+deployment of technology.
+Scholars have argued that it makes more sense to talk about user contributions
+and series of configurational moments and movements
+when shaping
+technology.
+The question is not
+only who decides, translates and designs technological systems, but also
+concerns when technology is used and
+reiterated over time. Therefore, ‘the
+user is not a transcendental being who dictates how artefacts are used, but a
+construction, in the sense of embodying the longstanding lessons of
+experience that may often transcend the life span of
+individuals’.
+In law, professionals often retain their power through materialities,
+procedural practices and autonomy. Yet, scholars are concerned
+a phenomenon in which formal rules are transformed into code, digital interfaces
+and back-end operations that automate
+and guide human
+New IT systems cement
+and endorse practices, which then have outcomes affecting legal personnel as
+well as those who are subject
+to the law. This challenges the role of one of the
+most significant elements: the human actor. Legal decision-making traditionally
+relies on the human decision-maker, and keeping the ‘human in the
+loop’ is envisioned as a safeguard. In the judicial
+system, this has meant
+broad discretionary power for the judge to make
+The digitalisation of
+judicial work, in turn, calls for broad legal concepts to become articulated and
+standardised – which,
+as Contini and
+argue, is the weak link
+of technological development because human discretionary power and independence
+are now curtailed and partly
+moved into the hands of software developers.
+3. IT Design as a Legal Infrastructural Problem
+One way to conceptualise court digitalisation projects is to consider them as
+creating infrastructure in a similar way to courthouse
+buildings or cables. Such
+framing could also explain why such systems seem to be perceived as neutral and
+inconsequential in both
+the literature and empirical
+IT systems in court
+organisations are typically viewed merely as tools, especially in the design
+phase. However, these systems mediate
+legal knowledge and practice shaping
+judicial relations and
+imaginaries.
+Infrastructures
+draw together both social and technical elements, and as a process, designing
+large-scale IT system networks fits
+into this category.
+To enhance understanding of information system design and its constitutive
+role in creating digital legal infrastructure, I apply
+the concept of
+disconnection
+as an analytical lens to the case. This approach is
+informed by ongoing scholarly debate about unintentional consequences and
+infrastructure
+in infrastructure studies, as well as
+perspectives on sociotechnical systems provided by STS
+Some conceptual
+clarification is needed: a disconnection is something that makes certain design
+choices invisible, and they later
+materialise as unintended consequences (and
+possibly breakdowns). Breakdowns, in turn, make infrastructure visible and can
+material components breaking down, resources diminishing and so
+The key difference is that
+unintended consequences and breakdowns are an integral part of technology
+whereas disconnections are
+part of the design process. When designing an IT system as a tool, it hides the
+infrastructural aspects
+of technology use in the judiciary.
+Infrastructure studies have discussed the maintenance and repair of
+infrastructures, focusing on their spatiality, temporality, (in)visibility
+materiality.
+literature on design gaps exists on assumptions and user expectations but not so
+much in the context of law.
+Information or digital infrastructures, which consist of interconnected systems,
+are thought of as open-ended, heterogeneous and
+stretching across space and
+time; they differ from information systems, which have distinct functionalities
+and boundaries.
+information systems contribute to the creation of infrastructure, although they
+are not equally open and generative. They
+are often part of a wider network, and
+their interfaces enable interaction between organizations. In addition, it can
+be argued that
+they form a part of the legal infrastructure,
+often missing in infrastructure studies and legal studies. Legal scholarship
+often focuses on data infrastructures as objects
+of regulation, whereas in
+STS-related infrastructure studies, law is considered a background
+infrastructurally, as Kingsbury notes, means understanding infrastructure as a
+set of relations, processes and
+imaginations.
+Digital infrastructure research considers digital infrastructures as a
+specific type of IT artefact,
+but so far research has not focused much on IT’s role within legal
+infrastructures. By extending the historical timeline of
+observations, the
+infrastructural aspects of IT development can be detected. For instance, earlier
+documents the
+developments of the Finnish case-management system in the 1990s; in our case
+study, this is among those AIPA is set
+to replace. Studying the AIPA system is
+justified as it supersedes earlier systems once considered successful.
+Consequently, it is
+intertwined with the historical trajectory of court IT
+infrastructure. Recently, law itself has been considered a form of
+infrastructure
+with the legal comprised of interconnected legal norms,
+practices, and
+institutions
+perspective highlights law’s materiality and distributional aspects.
+Therefore, the question is more about how legal norms
+and practices move through
+physical/digital infrastructures, forming a co-constitutive
+relationship.
+Previous research on technological development in the judiciary suggests
+various types of shortcomings. For example, there appears
+domain-specific legal knowledge that is difficult to ‘extract’
+because it can be tacit from expert’s perspective.
+Unsuccessful IT
+projects also fail for strategic reasons: organisations lack the ability to
+position themselves and plan IT in alignment
+with their overall purpose and
+In the public judiciary,
+the organisational perspective is sometimes overshadowed by the strong focus on
+the legal autonomy and discretion
+of the judges, as well as efficiency
+expectations, driven by managerial goals. Additionally, the literature has
+focused on intended
+unintended consequences
+of technology use,
+highlighting the need for a situated and processual approach, given the
+difficulty in predicting technology adoption
+organisations.
+Regarding design,
+unintended consequences can be something of which designers are unaware or that
+they choose to ignore – that
+is, they are consequences of organised rather
+than independent action.
+The initial mismatch between law and technology design, as suggested by
+is that IT system
+design should look to the future whereas the law usually works by judging past
+events. Second, in large judiciary
+IT projects, the context involves several
+actors, leading to complexity at the political, organisational and collaborative
+Many IT projects have introduced software developers as the true
+determinants of procedural law as they encode and implement the
+information
+systems, although legal experts would have been involved in
+This form of translation
+of legal expertise into code, no matter how accurate the translation is, shifts
+discretionary power away
+from legal professionals. In addition, the question
+remains: Do we consider legal experts to be disposable once we have extracted,
+standardised and automated their
+Research suggests
+that this, to some extent, is the
+Why look at disconnections in design in the legal context? I propose that
+disconnections in design are related to interactions, which
+are connected to
+living legal practices.
+Practices are manifestations of infrastructures, as technical systems enable
+certain actions while hindering
+This perspective
+enhances understanding of courts as organisations – which, despite
+operating under similar premises, are rather
+dissimilar in terms of interaction.
+Courts form a hierarchical and interconnected system. In the case at hand, the
+existing and future
+legal infrastructure is connected to organizational aspects
+of each district court, adding to the complexity. However, court IT systems
+their design offer an opportunity to view these design processes as efforts to
+create a digital legal infrastructure. The biographical
+approach, in turn,
+allows us to study these processes empirically and in context.
+4. Research Design
+In spring 2023, the research group collected documentary data and held two
+preliminary meetings with the key informant from the AIPA
+project office. The
+group also had access to the documentary material related to the decisions
+behind the project, as well as the
+design and implementation phases of AIPA.
+These included the Enterprise Architecture description, the purchase documents
+and feedback
+material gathered on the usability, user experience and
+effectiveness of the system. In the latter part of 2023, thematic interviews
+= 13) were conducted with individuals engaged in various phases of the project,
+including members of the advisory board, technology
+consultancy and project
+office management, as well as end-users of the AIPA system. Five interviewees
+were decision-makers, while
+the remaining eight end-users (judges, secretaries)
+represented six different district courts. Some of the end-users had held a
+role as contact persons or office trainers for the AIPA system, giving
+them longer experience with the system and enabling them to
+reflect extensively
+on its development.
+My analysis was inspired by the biographical approach, drawing from biography
+of artefacts and practices
+It pays attention to the
+historical trajectory of the case and data collection from various sources
+contributing to understanding
+the AIPA project’s long-term evolution
+dynamics. In this way, it offers an alternative to more quantitative and
+pseudo-objective
+approaches. The biographical approach has its roots in research
+projects among STS scholars in Edinburgh and Helsinki in the mid-
+The approach draws from a
+pluralist theoretical foundation being compatible with various theories in STS,
+such as social shaping
+of technology, symbolic interactionism, situational
+analysis, the social construction of technology and some aspects of
+actor-network
+theory (ANT).
+My analysis followed the framework suggested by Hyysalo et
+focusing on a multi-site
+case study of six independent district courts. Although AIPA is designed for
+general court use, it integrates
+with various actors, both within and outside
+the court system. The study draws on diverse data from multiple sources –
+example, the project office and the Legal Register Centre, which is
+responsible for archiving project documentation. The biographical
+allowed me to follow the key locales, people and interstices to gain a more
+detailed picture of the development and use
+of AIPA. The analysis includes
+tracing the choices, technology and actors involved in the AIPA project. In the
+analysis, recursively
+moving between the datasets and sampling strategies was
+My first analytical step was constructing the general timeline of the AIPA
+project to understand the project’s configurational
+movements, phases and
+context. The fact that AIPA’s development took over ten years means that
+many technologies reached the
+end of their lifespan during that time. This is
+why the biographical approach is helpful: it goes beyond focusing solely on
+and provides conceptual clarity on the complex ways in which the
+aims, expectations and uses of technology change. Figure 1 illustrates
+tiers, which loosely follow the levels of infrastructure suggested by
+First, the political
+decision-making and structural changes in the judicial system create the
+societal context in which AIPA was
+embedded. Second, the project office made
+decisions on the technical development of the system, which required
+collaboration beyond
+the court system boundaries, involving interaction between
+the technology developers, end-users and decision-makers. Third, the
+implementation
+of AIPA took place through several phases and pilots, which meant
+cyclical interactions between the project office and the users
+courts. Once the timeline was ready, it was presented to the key informant, who
+then commented on its accuracy.
+Figure 1. AIPA timeline, 2007–2024
+In the case of AIPA, the legacy systems are quite well documented and
+researched.
+The most notable
+systems that AIPA is set to replace are Tuomas, Sakari and RITU. By the time the
+AIPA project started, several of
+these legacy systems were working independently
+and becoming technologically outdated, prompting the need to design new systems.
+In addition, AIPA was envisioned to operate with the information systems
+developed simultaneously by the Police (VITJA system) and
+the Prison and
+Probation Services of Finland (Roti system). However, the VITJA project was
+terminated before it had been implemented.
+The second part of the analysis was based on the
+document data and interviews, which were analysed with the help of qualitative
+focusing on
+the project’s goals, conflicts expressed by the informants and
+unintentional outcomes of the
+In analysing the
+interviews, I coded expressions that highlighted gaps in knowledge and
+shortcomings in the technological choices.
+I then identified the following
+disconnections: (1) those concerning technological knowledge and legal
+knowledge; (2) those concerning
+the technological shortcomings between the
+legacy systems and the new system; and (3) those involving unintended
+consequences, which
+materialised in work practices when AIPA was piloted and
+implemented.
+I used the document data (procurement documents, indicators monitoring the
+project’s progress, usability surveys, evaluation
+report, etc.) as
+representations of the formal progress of AIPA. In the following sections, I
+present the context and case of the
+AIPA project before discussing the
+disconnections in more detail.
+5. Context: The AIPA Project
+The AIPA project (2012–2024) is the most recent effort to digitalise
+the Finnish general courts, which operate in a network
+with several other
+actors, such as the police and probation services. Initially, the project was
+established to create an information
+system entity and to improve and harmonise
+case and document-management processes nationwide, enabling cross-administrative
+cooperation with the systems of other actors in the
+The reform aimed to
+upgrade the outdated technology, which was mostly developed for the purposes of
+each court level without much
+consideration for electronic data transfer between
+At the same time, the
+processing times of cases were considered too long, system errors caused
+problems in enforcement of judicial
+decisions, and efficiency was sought, guided
+by the ideal of a paperless court.
+Currently, the AIPA system provides a joint
+system for processing of summary fines, secret coercive measures, petitions
+(e.g. divorce,
+child custody) and large-scale litigation. It includes a data
+bank, a digital archive system and a data pool for reporting statistics
+to the general courts and prosecutor’s office. The information system aims
+to support judges in their work improving
+the quality and transmission of legal
+information. Additionally, by minimising (mostly secretarial) routine work, the
+duration of
+court proceedings should be reduced. All the changes were envisioned
+to bring more flexibility to work
+Both the Ministry of Justice and the AIPA project office stressed that
+engaging the users in the design would help to avoid earlier
+experiences in IT development.
+AIPA was envisioned to play a significant role in the structural reorganisation
+of the Finnish courts system, where creating administratively
+larger units would
+allow for more efficient workload and resource
+aim shows an effort to create a techno-legal infrastructure based on the use of
+technological solutions.
+6. Disconnections Concerning Knowledge
+The first disconnection was about knowledge gaps between the tech developers
+and legal experts. The project office played a significant
+role in prioritising
+the project’s goals and making crucial decisions about design. For
+example, the information system’s
+usability was a primary focus, aligning
+with the objectives of the Ministry of Justice to involve end-users in the
+design process.
+This decision reflects prior experiences of unsuccessful and
+overly technology-driven IT projects. Early on, a decision was made
+that people
+working in the judicial system would be the product owners, as this would ensure
+the domain-specific knowledge needed
+to build an IT system. Therefore, many
+participants had a legal background rather than technological expertise.
+Consequently, the
+project office brought together actors with diverse roles in
+the judicial system to incorporate the voice of end-users in the design
+system’s architecture.
+Initially, several working groups planned the functionalities and enterprise
+architecture for the AIPA system. These working groups
+communications, human resource issues and stakeholder collaboration. To support
+the change-management efforts, an agency
+manager network of 250 people was
+established to strengthen the implementation of the AIPA system. It consisted of
+two people from
+each court level trained to become AIPA contact persons and
+‘AIPA trainers’ in district courts and courts of appeal.
+usability expert worked as a leader of the user interface working group to
+ensure the viewpoints of the end-users were
+considered.
+From the start, the project office was described as having a good atmosphere
+and enthusiasm. However, the interviewees mentioned a
+knowledge gap between the
+legal experts and technology developers:
+In a way, these two worlds, our knowledge of what the law is, and the
+consultants’ knowledge of how things can be done technically,
+did not meet
+much at that point. (H6 Judge)
+In addition, the project was described as unrealistic in its initial
+goal-setting. The target state descriptions included trivial
+and self-evident
+things alongside more ‘sci-fi’ views about what digitalisation is
+and what can be automated, without
+a concrete understanding of what would be
+needed to achieve those visions. A member of the advisory board pointed out that
+of thinking ‘legally’ diverged significantly from a
+developer mindset:
+I somehow got the feeling that there was quite a lot of crosstalk, or
+side-talk. The suppliers and the architects were talking about
+this AIPA and
+meant something by it. And then again, this “courtroom crowd” was
+talking about AIPA, and meant something
+completely different. Those words or
+phrases did not match. (H5 Advisory board).
+The same informant described how the seemingly straightforward legal process
+unexpectedly has special circumstances and details, affecting
+the working
+groups’ meetings:
+I have the impression that when there was a workshop aiming to describe the
+legal process, the lawyers came in and talked for three
+hours about the
+deviation of a deviation. And then they went away, and the actual process was
+not described. It kind of happened
+that the workshops did not produce it [the
+envisioned outcome]. Or it would have taken an awful lot of workshops to go
+through the
+deviations. This is probably also the lawyer’s mindset.
+This quote crystallises how legal knowledge is amalgamated with knowledge on
+legal processes and exceptions within them. It also highlights
+standardisation of legal processes is challenging. Other informants mentioned
+that sometimes knowledge was so obvious to
+the legal experts that they failed to
+mention it, and technical experts did not know how to ask about it.
+The situation was further complicated by the fact that the IT providers
+lacked knowledge, experience or understanding of the legal
+context. However, as
+one informant stated, the AIPA project had been planned for six years before the
+procurement, and the subscriber
+knew what they wanted. Moreover, as there are
+not many IT companies specialised in law in Finland, the tech provider lacked
+understanding
+that the system subscriber thought was important. Sharing tacit
+knowledge would have taken more time than the project start allowed,
+understanding how law ‘works’ would have made the tech developers
+more aware of the context in which the technology
+was to be used. From the
+project’s perspective, increasing the number of workshops would also have
+meant more money spent.
+Despite the initial shortcomings, the first versions of
+the AIPA system were implemented with good results.
+When characterizing their involvement with the project, the informants
+described it as learning a new language or culture. For example,
+product owners
+had not fully realised their responsibility for making technological decisions:
+What was surprising was that my role was not, as I had perhaps imagined or
+hoped, that I would be able to maintain my role as a judge.
+It was a surprise to
+me, and I think to everyone else who came into the role of product owners, how
+far we had to go ourselves to
+think about what exactly those [IT] functions are
+in practice, not just the desired outcome. (H6 Judge)
+The quote implies that the legal experts had envisioned their role to be
+simpler and that the technological domain was perceived as
+difficult. Thus, gaps
+in knowledge and dialogue on both technology suppliers’ and legal
+experts’ side hindered the planning
+and design phase.
+7. Disconnections Concerning Technology: The Weight of the Legacy Systems
+The second disconnection happened when the informants compared the new AIPA
+system with the old ones. This type of comparison is understandable
+because the
+legacy systems were in use while the AIPA system was developed. Although it was
+clear that the new system would replace
+the old ones and require new practices
+within organisations, informants still referred to the current systems when
+describing their
+expectations of the new system:
+I personally had thought that AIPA should at least be able to do what our
+Tuomas-Sakari-Notes system and RITU can do. This is based
+on the fact that there
+must have been requirement specifications for those systems as well, and they
+have been relatively easy to
+use as a basis. I have fundamentally thought that
+the level our system currently provides is sufficient [for AIPA as well]. (H8
+The expectation that old specifications would be used when designing the new
+system remained in the minds of the users, although the
+starting point of the
+AIPA project was to design a completely new IT system. The disconnection was
+both practical and material: whatever
+was imagined – a new IT system
+– was connected to the practical side of work in the district courts. The
+weight of the
+legacy systems was not the same for everyone, though. Depending on
+the organisation, some systems that were in use in district courts
+were not in
+use elsewhere. There was, for example, some speculation that the prosecutors
+might object to using AIPA because they
+did not have the RITU system in use, so
+they had not experienced the problems related to its use. The difference between
+systems and AIPA was also explained by the differences in the logic of
+the old systems. Now all work was supposed to move
+contrast to the old systems, which were perceived to operate
+the context of judges’ work – for instance, in courtroom
+Comparing the new system with the old ones is a concrete example of how the
+existing systems are integral to the material working
+environment, making the
+legal practice visible. The disconnection was crucial because, in the AIPA
+documentation and goals, it was
+envisioned to be part of the district court work
+practice reform, not solely a new IT system design. Thus, the disconnection
+illustrates
+how, to some informants, AIPA brought new problems compared with the
+existing systems:
+So, all those specific functions, for example, that currently go directly
+through RITU, will need to be sent to the prosecutor using
+some workaround. They
+don't go directly from AIPA. One example is that if a respondent or any party in
+a case expresses dissatisfaction,
+we used to record this dissatisfaction in
+RITU, and it was approved there. At the same time, there was an option to send a
+notification
+to the prosecutor that a dissatisfaction notice had been received.
+Now, that option is not available. So, we need to come up with
+a clever way to
+ensure that this information also reaches the prosecutor. (H9 secretary)
+Working around the technological solutions takes time, which was already
+perceived as a scarce resource. The disconnections caused
+frustration and led to
+unintended consequences, which I will describe next.
+8. Materialised Disconnections
+The third disconnection happened because, over time, the project office was
+perceived as losing touch with practical work in the courts.
+Delays are common
+in large-scale projects,
+from the viewpoint of end-users the disconnection meant unintended consequences
+as they felt technical engineering knowledge
+had begun to override practical
+legal needs:
+It was good at the beginning when they started the AIPA project, that they
+took these product owners out of the field. The original
+idea was to get
+practical insight [to the project], but now the problem is perhaps that when
+AIPA project has been running for ten
+years, these people who originally
+transitioned from the field to the project no longer understand what the
+practical need is. That
+substantive expertise inevitably declines when you are
+only there on the technical side. (H2 Judge)
+As mentioned above, end-users equated the project office with ‘the
+technical side’, highlighting a disconnect between
+the practice of law and
+technical development. From an infrastructural perspective, legal practices
+essential for the public judiciary’s
+function have become detached from
+the design. This perceived disconnection was particularly problematic due to
+delays in implementing
+the final parts of AIPA, the criminal cases. Criminal
+cases can be complex and the current version of Criminal Case AIPA was perceived
+as insufficient and disconnected from the daily work of judges:
+The incompleteness of the criminal case AIPA is somewhat shocking to me. When
+I think about the document element and the solutions
+that have been implemented.
+How our document management is handled, it is inadequate and weak. It seems to
+me that the system should
+have been developed more in line with the law
+user’s needs and their session work, rather than focusing on the system
+requirements,
+data protection, data security and system development. That has
+undoubtedly been the biggest challenge of the AIPA journey for me
+Even though judges have been involved in defining and creating it, the system is
+such a vast entity that perhaps the end
+user's genuine, real way of working is
+not sufficiently visible. (H10 Judge)
+Legal experts, who were supposed to bring the ‘field’s
+knowledge’ to the design process, had become disconnected
+practice as they had been working for the project organisation. The discomfort
+related to the implementation of the last
+part of AIPA presents a
+configurational moment in the making, as the pilots were only starting at the
+time of the interviews. Despite
+the users’ critical tones towards the
+Criminal Case AIPA, they thought that other case types, such as summary fines,
+measures and petitionary matters, worked well. These processes may be
+easier to standardise than large criminal cases for several
+reasons, such as the
+low number of documents (forms, evidence) needed and the reduced level of
+discretion involved.
+There was a particularly critical disconnection between the AIPA system
+development and the work practices of judges: the system did
+not work well in
+courtroom sessions, which were understood as the core of the judges’ legal
+expertise. Next, to exemplify the
+materialisation of these disconnections as
+unintended consequences, I will zoom in on the session work of the judges.
+8.1 Courtroom Interaction: A Critical Environment for Using Technology
+In a court session, situations can change swiftly, and there is no time to
+pause, for example, if the prosecutor changes the charge
+or when a party speaks
+very quickly, as explained by the informants. Many judges described that, in
+such cases, it is easier to use
+pen and paper to take notes. The disconnection
+between the project office and the district courts was perceived as a
+disconnection
+of practice and current knowledge of the ‘field’, but
+in the interactions during courtroom sessions as
+technological dysfunction hindering the practice of judging.
+The following quote highlights how opening large documents and cases in AIPA
+can delay the session:
+I tested it in one larger case. It took 15 minutes to open the documents in
+AIPA. That kind of delay cannot happen when the session
+starts. So, we save
+everything on the desktop. In practice, we don’t use AIPA in session
+because of its slowness. If you start
+to open a document which you need, that
+element is difficult to use. (H2 Judge)
+This quote is at odds with the narratives of fast-paced technology. It
+reveals the swift, but hidden, workings of law as practice:
+while law may be
+considered slow and technology
+we might not have looked
+deeply enough into the practices. Many informants found AIPA still too
+unreliable and slow to use in a fast-paced
+courtroom session. This can be
+interpreted as a moment in which living legal
+collides with the
+(immature) technological solution. The quote also describes why AIPA users
+resort to alternative work practices
+when they want the court session to proceed
+swiftly. In fact, many described how they organised the documents with the help
+network drive to create a working copy of the case. The slowness of
+document management in AIPA was perceived as a real challenge:
+Yes, in practice, quite a big challenge or disappointment is how to work with
+the system of judging. It is a lot of sitting in that
+courtroom, and the
+document element functionalities for that work are poor. The documents open very
+slowly, and you can't make notes
+in them, even with a PDF editor in the
+courtroom, which would be very important for the judge to be able to get the
+evidence out
+and then save his own notes. So, in a way, it is perhaps the kind
+of thing where I would have hoped that it would work better in
+the judging
+process. (H10 Judge)
+Both quotes highlight the particularity of courtroom work and the practice of
+being present for the people in the courtroom. Information
+systems should not
+interfere with interactions between people in the courtroom. If that happens, it
+creates a crucial breakdown between
+humans produced by technology. When
+technology does not work well, people tend to create ‘shortcuts’ or
+alternative ways
+of circumventing technology. Using or not using AIPA in the
+courtroom manifests a disconnection referred to earlier: the initial
+AIPA system was for it to form a part of the digital courtroom. However, as
+explained by the informants, the work in a
+courtroom session is detached from
+the AIPA and only after the session is it used ‘outside’ of the
+9. After AIPA
+In 2024, the National Audit Office of Finland evaluated the three IT
+development projects: AIPA, VITJA and Roti. The evaluation was
+primarily as all the projects had significantly exceeded their budgets and
+schedules, and the VITJA project had been terminated
+before the IT system could
+be implemented. I reflect on some of the evaluation report’s outcomes
+against the case study. First,
+the evaluation highlights several similar issues
+concerning the AIPA project that I have identified in this case study, such as
+unrealistic and unclear expectations at the project’s outset and the
+shortcomings (or disconnections) in user involvement as
+the project experienced
+delays. However, the evaluation report suggests that the problem was a lack of
+IT expertise within the project.
+This is to an extent contradictory to the
+interviews, which depicted a situation where the IT providers lacked sufficient
+understanding
+of the legal context.
+Second, the evaluation report lists critical points for IT
+For example, the
+report states that the end-users must be involved in the project through
+techniques of change management and by
+correctly timed user training, which it
+admits are problematic issues in the three evaluated projects. The report also
+advises against
+giving overly optimistic views of the system to the end-users.
+In the AIPA case study, the informants had expected the new system
+to perform at
+least as well as the old ones. Comparing the legacy systems to the new one was a
+practical issue in a situation where
+the new system was not working and remained
+unfinished.
+Third, the report stated that the three IT projects had exclusionary effects
+when it came to other IT projects, meaning that the evaluated
+projects had
+blocked other IT initiatives. Overall, the outlook of the evaluation report is
+realistic in acknowledging that the interoperability
+of the three systems was
+not achieved, meaning that information will not move freely between the systems
+any time soon.
+10. Conclusion
+I have examined a digitalisation project from the perspective of
+disconnections. Inspired by the biographical approach and the vocabulary
+provided by infrastructure studies in STS, I argue that disconnections exemplify
+and manifest the problems encountered in legal tech
+design and are connected to
+what ultimately will construe the legal (digital)
+infrastructure.
+existing literature and the analysis, I have identified several types of
+disconnections as well as their interconnectedness.
+From the perspective of the
+biographical approach, these types of disconnections may provide insight into
+the configurational moments
+and movements identified by prior literature, which
+has emphasised the coming together of diverse user
+communities.
+As demonstrated
+through several disconnections, the realities of district courts and legal
+practices became invisible, including
+judges’ and legal secretaries’
+everyday work. These disconnections, however, contribute to current and upcoming
+practices affecting the way law is enacted. Whereas breakdowns make
+technological infrastructure
+disconnections do the
+same in the design contexts, first by hiding the traces of design and then by
+manifesting them as unintended
+consequences and breakdowns in the actual legal
+work. These will mostly be addressed as governance issues within public
+administration.
+The disconnections in this study relate to project organisation and knowledge
+acquisition, the technological comparisons between the
+existing and the new IT
+systems and the manifestation of these disconnections in practical legal
+settings, particularly courtroom
+sessions. While the AIPA system was envisioned
+as an infrastructure, in practice the project was perceived as tool development,
+the new system being compared with previous and existing systems and
+practices in courtrooms. However, in the legal context, IT is
+only one element
+intertwined with legal practices, influenced by various factors and situations.
+The case provides perspectives on
+the relationship between law and technology,
+such as how to realign the two existing infrastructures: the legal
+infrastructure and
+the technological infrastructure. In this realignment, the
+relationship between legal knowledge and technical knowledge in IT design
+complex and co-constitutive,
+while legal knowledge is often situated and tacit. A gap between tech
+suppliers’ and legal professionals’ understanding
+other’s domains influences the design of the system. However, in the case
+of AIPA, the knowledge and use of the existing
+IT systems made it difficult to
+imagine a completely new system. I suggest that because, in practice, the
+projects are reduced to
+tool development instead of creating techno-legal
+infrastructure, legal knowledge and user experience fade into the background
+the initial design phase.
+Regarding users, the study raises several questions. The case demonstrated
+that, over time, professionals in the field perceived the
+project office as too
+technology oriented. This highlights the challenge of accurately identifying the
+‘end-user’ while
+respecting the diversity and independence of work
+practices, without separating expertise from actual field practices during
+processes. One possibility is to promote knowledge exchange earlier in
+the procurement phase and facilitate bridging the domains
+of law and information
+technology. Another issue concerns the ideals of expertise; as the case shows,
+the disconnection from the
+users still occurred when legal experts working for
+the project office lost touch with legal practice.
+For further studies, I suggest examining legal professionals and the domain
+of law from the perspective of expertise needed to carry
+out massive projects
+engaging the ‘end-users’. This perspective opens the difficult, yet
+previously unaddressed issue
+of who the IT systems are created for. I fear that
+by focusing solely on technical design from the perspective of tech developers
+and civil servants’ collaboration, the citizens are excluded, even though
+they are, in a broad sense, the end-users of these
+systems. Given that these
+systems, as stated in AIPA goals, are supposed to improve the public judiciary
+and its services, the exclusion
+of the citizen perspective is troubling.
+Neglecting the public aspect of legal work is magnified when one adopts an
+infrastructural
+To summarise, I argue that because IT systems are understood primarily
+through their instrumental value as tools, legal scholarship
+has failed to
+acknowledge them as significant components of legal infrastructure. For the
+infrastructure debate that is now emerging
+within legal
+scholarship,
+the insights from
+science and technology studies (STS) are valuable. The fact that the AIPA system
+operates within a network of other
+public authorities, and was supposed to be
+compatible with the IT system of the police, suggests that an infrastructural
+is relevant in the context of law use and the general court system.
+Additionally, as scholars have already pointed
+we should be interested in
+the methodologies and theorisations regarding research of legal contexts as
+sites for work organization
+and technology design, which have a profound impact
+on law and citizens. While the present case study may not qualify as a
+biographical study, it is a step towards it. In the future, more
+ethnographically oriented biographical studies are needed to experiment
+concept of disconnection in diverse contexts.
+The research received funding from the Research Council of Finland, funding
+number 341434.
+Bibliography
+Allsop, James. “Technology and the Future
+of the Courts.”
+University of Queensland Law Journal
+(2019): 1–14.
+https://classic.austlii.edu.au/au/journals/UQLawJl/2019/1.html
+Arvidsson, Matilda and Gregor Noll. “Decision Making in Asylum Law and
+Machine Learning.”
+Nordic Journal of International Law
+(2023): 56–92.
+https://doi.org/10.1163/15718107-bja10057
+Barry, Andrew. “The Material Politics of Infrastructure.” In
+TechnoScienceSociety: Technological Reconfigurations of Science and
+, edited by Savine Maasen, Sascha Dickel and Christoph Schneider.
+Dordrecht: Springer, 2020.
+Bennani-Taylor, Sophie. “Infrastructuring AI: The Stabilization of
+Artificial Intelligence in and Beyond National AI
+Strategies.”
+First Monday
+29, no 2 (2024).
+https://doi.org/10.5210/fm.v29i2.13568
+Bowker, Gerry and Susan Leigh Star.
+Sorting Things Out:
+Classification and Its Consequences
+. Cambridge, MA: MIT Press, 1999.
+Bowker, Gerry, Karen Baker, Florence Millerand and David Ribes. “Toward
+Information Infrastructure Studies: Ways of Knowing
+in a Networked
+Environment.” In
+International Handbook of Internet Research,
+edited by Jeremy Hunsinger, Lisbeth Klastrup and Matthew Allen,
+97–117. Dordrecht: Springer.
+Byrne, William Hamilton, Thomas Gammeltoft-Hansen and Nora Stappert.
+“Legal Infrastructures: Towards a Conceptual Framework.”
+Law Journal
+25 (2024): 1229–1246.
+https://doi.org/10.1017/glj.2024.78
+Byrne, William Hamilton, Thomas Gammeltoft-Hansen and Nora Stappert.
+“Editors’ Introduction to Special Issue on Legal
+Infrastructures.”
+German Law Journal
+25 (2024): 1221–1228.
+https://doi.org/10.1017/glj.2024.75
+Contini, Francesco. “Artificial Intelligence and the Transformation of
+Humans, Law and Technology Interactions in Judicial Proceedings.”
+Technology and Humans
+2, no 1, 2020.
+https://doi.org/10.5204/lthj.v2i1.1478
+Contini, Francesco and Antonio Cordella. “Law and Technology in Civil
+Judicial Procedures.” In
+The Oxford Handbook of Law, Regulation and
+, edited by Roger Brownsword, Eloise Scotford and Karen Yeung,
+246–268. Oxford: Oxford University Press, 2017.
+Contini, Francesco and Giovan Lanzara. “Introduction: The Challenge of
+Interoperability and Complexity in European Civil Proceedings.”
+Circulation of Agency in E-justice. Interoperability and Infrastructures for
+European Transborder Judicial Proceedings
+, edited by Francesco Contini and
+Giovan Lanzara, xiii–xxi. Dordrecht: Springer, 2014.
+Contini, Francesco and Giovan Lanzara. “The Elusive Mediation Between
+Law and Technology: Undetectable Errors in ICT-based Judicial
+Proceedings.” In
+Tools of Meaning: Representation, Objects, and Agency
+in the Technologies of Law and Religion
+, edited by Patricia Branco,
+Nadirsyah Hosen, Massimo Leone and Richard Mohr, 39–66. Ariccia: Aracne
+editrice, 2017.
+Contini, Francesco and Dory Reiling. “Double Normalization: When
+Procedural Law is Made Digital.”
+Oñati Socio-legal Series
+no 3 (2022): 654–688.
+https://opo.iisj.net/index.php/osls/article/download/1362/1617/8968
+Di Natale, Lisa Julia and Antonio Cordella. “Digitising the Judicial
+Sector: A Case Study of the Dutch KEI Programme.”
+International
+Conference on Electronic Participation,
+139–153. Cham: Springer,
+Edwards, Paul N., Stephen J. Jackson, Gerry C. Bowker and Cory P. Knobel.
+“Understanding Infrastructure: Dynamics, Tensions,
+and Design.” In
+Report of a Workshop on History & Theory of Infrastructure: Lessons for
+New Scientific Cyberinfrastructures
+Edwards, Paul N. “Infrastructure and Modernity: Force, Time, and Social
+Organization in the History of Sociotechnical Systems.”
+and Technology
+, edited by Thomas J. Misa, Philip Brey and Andrew Feenberg,
+185–225. Cambridge, MA: MIT Press, 2003.
+Eriksen, Thomas Hylland. “Afterword: Some Unintentional Consequences of
+Infrastructure.” In
+Infrastructural Being: Rethinking Dwelling in
+a Naturecultural World
+, edited by Jarno Valkonen, Veera Kinnunen, Heikki
+Huilaja and Teemu Loikkanen, 199–208. Cham: Springer, 2022.
+Fabri, Marco. “E-justice in Finland and in Italy: Enabling Versus
+Constraining Models.” In
+ICT and Innovation in the Public Sector:
+European Studies in the Making of E-Government,
+edited by Francesco
+Contini and Giovan Lanzara. Basingstoke: Palgrave Macmillan, 2009.
+Fenwick, Mark and Erik P.M. Vermeulen. “The Lawyer of the Future as
+‘Transaction Engineer’: Digital Technologies
+and the Disruption of
+the Legal Profession.” In
+Legal Tech, Smart Contracts and Blockchain:
+Perspectives in Law, Business and Innovation
+, edited by Marcelo Corrales,
+Mark Fenwick and Helena Haapio, 253–272. Singapore: Springer, 2019.
+Fisher, Angelina and Thomas Streinz. “Confronting Data
+Inequality.”
+Columbia Journal of Transnational Law
+60, no 3 (2022):
+https://www.jtl.columbia.edu/volume-60/confronting-data-inequality-xyrkf
+Glaser, Vern, Neil Pollock and Luciana D’Adderio. “The Biography
+of an Algorithm: Performing Algorithmic Technologies
+in Organizations.”
+Organization Theory
+2 (2021): 1–27.
+https://doi.org/10.1177/26317877211004609
+Grint, Keith and Steve Woolgar.
+The Machine at Work: Technology, Work and
+Organization
+. Chichester: John Wiley & Sons, 1997.
+Harwood, Tracy G. and Tony Garry. “An Overview of Content
+The Marketing Review
+3, no 4 (2003): 479–498.
+https://doi.org/10.1362/146934703771910080
+Heikkonen, Sofia. “Transparency Materialised: How Registers Can
+Regulate Access to Documents?”
+European Law Open
+1 (2024): 111–131.
+https://doi.org/10.1017/elo.2024.7
+Henfrídsson, Ola and Bendik Bygstad. “The Generative Mechanisms
+of Digital Infrastructure Evolution.”
+MIS Quarterly
+(2013): 907–931.
+https://www.jstor.org/stable/43826006
+Hyysalo, Sampsa and Jouni K. Juntunen. ”Series of Configurational
+Movements: User Activities in Technology Generalization”.
+Technological
+Forecasting & Social Change
+200, 123158 (2024).
+https://doi.org/10.1016/j.techfore.2023.123158
+Hyysalo, Sampsa, Neil Pollock and Robin Williams. (2019). “Method
+Matters in the Social Study of Technology: Investigating the
+Biographies of
+Artifacts and Practices.”
+Science & Technology Studies
+(2019): 2–25.
+https://doi.org/10.23987/sts.65532
+Ikuesan, Adeola. “Digitalising Justice: Goals, Metrics and
+Unintentional Outcomes in Case AIPA: An Empirical Analysis of Finland’s
+Digitalisation Project in the Judiciary.” MA thesis, Aalto
+University, 2024.
+Jackson, Steven J. “Rethinking Repair.” In
+Media Technologies.
+Essays on Communication, Materiality and Society
+edited by Tarleton
+Gillespie, Pablo J. Boczkowski and Kirsten A. Foot, 221–239. Cambridge,
+MA: MIT Press, 2014.
+Jackson, Steven J., Paul N. Edwards, Gerry C. Bowker and Cory P. Knobel.
+“Understanding Infrastructure: History, Heuristics
+and Cyberinfrastructure
+First Monday
+, 12, no 6 (2007).
+http://firstmonday.org/issues/issue12_6/jackson/index.html
+Jalas, Mikko, Jenny Rinkinen and Antti Silvast. “The Rhythms of
+Infrastructure.”
+Anthropology Today
+32, no 4 (2016): 17–20.
+https://doi.org/10.1111/1467-8322.12267
+Jarrahi, Mohammad Hossein, Steve Sawyer and Ingrid Erickson. “Digital
+Assemblages, Information Infrastructures, and Mobile Knowledge
+Journal of Information Technology
+no 3 (2022): 230–249.
+https://doi.org/10.1177/02683962211050943
+Kallinikos, Jannis. “The Regulative Regime of Technology.” In
+ICT and Innovation in the Public Sector. European Studies in the Making of
+E-Government
+, edited by Francesco Contini and Giovan Lanzara, 66–87.
+Basingstoke: Palgrave Macmillan, 2009.
+Kingsbury, Benedict. “Infrastructure and InfraReg: On Rousing the
+International Law ‘Wizards of Is’.”
+Cambridge International
+Law Journal
+no 2 (2019): 171–186.
+https://doi.org/10.4337/cilj.2019.02.01
+Koch, Stefan and Edward Bernroider. “Aligning ICT and Legal Frameworks
+in Austria’s e-bureaucracy: From Mainframe to the
+Internet.” In
+ICT and Innovation in the Public Sector. European Studies in the Making of
+E-Government
+, edited by Franesco Contini and Giovan Lanzara, 147–173.
+London: Palgrave Macmillan, 2009.
+Koivisto, Ida, Riikka Koulu and Stefan Larsson. “User Accounts: How
+Technological Concepts Permeate Public Law Through the EU’s
+Maastricht Journal of European and Comparative Law
+31, no 3 (2024):
+https://doi.org/10.1177/1023263X241248469
+Koivisto, Ida and Riikka Koulu. “Miten hyvä hallinto
+digitalisoidaan? Haaste oikeustieteelliselle tutkimukselle.”
+6 (2020): 798–821.
+https://www.edilex.fi/lakimies/21645.pdf
+Kontiainen, Laura, Riikka Koulu and Beata Mäihäniemi.
+”Oikeuden digitalisaatio ja juristityön arkipäivä.”
+2 (2021): 173–199.
+https://journal.fi/lakimies/article/view/90972
+Koulu, Riikka. “Crafting Digital Transparency: Implementing Legal
+Values into Algorithmic Design.”
+Critical Analysis of Law
+https://doi.org/10.33137/cal.v8i1.36281
+Koulu, Riikka. “In Search of Living Law: How Should We Design for
+(Digital) Legal Interaction?”
+Digital Society
+(2024): 31.
+https://doi.org/10.1007/s44206-024-00117-y
+Koulu, Riikka. “Proceduralizing Control and Discretion: Human Oversight
+in Artificial Intelligence Policy.”
+Maastricht Journal of European and
+Comparative Law 27
+, no 6 (2020): 720–735.
+https://doi.org/10.1177/1023263X20978649
+Koulu, Riikka, Beata Mäihäniemi, Vesa Kyyrönen, Jenni
+Hakkarainen and Kalle Markkanen. ”Algoritmi
+päätöksentekijänä?
+hyödyntämisen mahdollisuudet ja haasteet kansallisessa
+sääntely-ympäristössä.”
+Valtioneuvoston
+selvitys- ja tutkimustoiminnan julkaisusarja
+http://urn.fi/URN:ISBN:978-952-287-764-2
+Koulu, Riikka and Jenni Hakkarainen.
+Law and Digitalisation: Rethinking
+Legal Services
+. Helsinki: Print Veiters, 2018
+Lanzara, Giovan. “The Circulation of Agency in Judicial Proceedings:
+Designing for Interoperability and Complexity.” In
+The Circulation of
+Agency in E-Justice
+, edited by Francesco Contini and Giovan Lanzara,
+3–32. Cham: Springer, 2014.
+Monteiro, Eric, Panos Constantinides, Susan Scott, Maha Shaikh and Andrew
+Burton-Jones. “Qualitative Research Methods in Information
+Systems: A Call
+for Phenomenon-Focused Problematization.”
+MIS Quarterly: Management
+Information Systems
+46, no 4 (2022): iii–xix.
+McAfee, Andrew. “Mastering the Three Worlds of Information
+Technology.”
+Harvard Business Review
+84, no 11 (2006): 141.
+https://hbr.org/2006/11/mastering-the-three-worlds-of-information-technology
+OM. “Käräjäoikeusverkoston kehittäminen.”
+Mietintöjä ja lausuntoja
+OM. “Oikeudenhoidon uudistamisohjelma vuosille 2013–2025.”
+Mietintöjä ja lausuntoja
+OM. “Yleisten tuomioistuinten asianhallinnan kehittäminen”.
+Mietintöjä ja lausuntoja
+OM. “Tuomioistuinlaitoksen kehittämiskomitean
+Oskamp, Anja, Arno Lodder and Martin Apistola. (2004).
+IT Support of the
+Judiciary: Australia, Singapore, Venezuela, Norway, The Netherlands and
+Cambridge: TMC Asser Press/Cambridge University Press.
+Orlikowski, Wanda J., JoAnne Yates, Kazuo Okamura and Masayo Fujimoto.
+“Shaping Electronic Communication: The Metastructuring
+of Technology in
+the Context of Use.”
+Organization Science
+6, no 4 (1995):
+https://www.jstor.org/stable/2634996
+Pinch, Trevor J. and Wiebe E. Bijker. “The Social Construction of Facts
+and Artefacts: Or How the Sociology of Science and the
+Sociology of Technology
+Might Benefit Each Other.”
+Social Studies of Science
+3 (1984): 399–441.
+https://doi.org/10.1177/030631284014003004
+Pollock, Neil and Robin Williams. “E-infrastructures: How Do We Know
+and Understand Them? Strategic Ethnography and the Biography
+Artefacts.”
+Computer Supported Cooperative Work
+https://doi.org/10.2139/ssrn.1616593
+Rabardel, Pierre. “People and Technology: A Cognitive Approach to
+Contemporary Instruments”
+Université Paris
+https://hal.science/docs/01/02/07/05/PDF/people_and_technology.pdf
+Reiling, Dory.
+Technology for Justice: How Information Technology Can
+Support Judicial Reform.
+Leiden: Leiden University Press, 2009.
+Reiling, Dory. “Digital Justice: Nice to Have but Hard to
+Achieve.” In
+Technology, Innovation and Access to Justice. Dialogues on
+the Future of Law
+, edited by Siddharth Peter de Souza and Maximilian Spohr,
+131–143. Edinburgh: Edinburgh University Press, 2021.
+Reiling, Dory and Francesco Contini. “E-Justice Platforms: Challenges
+for Judicial Governance.”
+International Journal for Court
+Administration
+13, no 1 (2022).
+https://doi.org/10.36745/ijca.445
+Ribes, David, Andrew Hoffman, Steven Slota and Gerry Bowker. “The Logic
+of Domains.”
+Social Studies of Science
+49, no 3 (2019):
+https://doi.org/10.1177/0306312719849709
+Rosner, Daniela and Morgan Ames. “Designing for Repair? Infrastructures
+and Materialities of Breakdown.” In
+Proceedings of the 17th ACM
+conference on Computer supported cooperative work & social
+(2014), 319–331.
+Sankari, Suvi, Riikka Koulu and Jenni Hakkarainen. “Digitaalinen oikeus
+tutkimuksen kohteena.”
+https://journal.fi/lakimies/article/view/156633
+Silvast, Antti and Virtanen, Mikko. “On Theory–Methods Packages
+in Science and Technology Studies.”
+Science, Technology, & Human
+48, no 1 (2023): 167–189.
+https://doi.org/10.1177/01622439211040241
+Star, Susan Leigh and Karen Ruhleder. 1996. “Steps Toward an Ecology of
+Infrastructure: Design and Access for Large Information
+Information Systems Research
+7, no 1(1996): 111–134.
+https://doi.org/10.1287/isre.7.1.111
+Star, Susan Leigh. “The Ethnography of Infrastructure.”
+American Behavioral Scientist
+no 3(1999): 377–391.
+https://doi.org/10.1177/00027649921955326
+Steinhardt, Stephanie B. “Breaking Down While Building Up: Design and
+Decline in Emerging infrastructures.”
+Proceedings of the 2016 CHI
+Conference on Human Factors in Computing Systems
+(2016): 2198–2208.
+https://doi.org/10.1145/2858036.2858420
+Sullivan, Gavin. “Law, Technology, and Data-Driven Security:
+Infra-legalities as Method Assemblage.
+Journal of Law and Society
+https://doi.org/10.1111/jols.12352
+Tilson, David, Kalle Lyytinen and Carsten Sørensen. ”Digital
+Infrastructures: The Missing IS Research Agenda.”
+Information Systems
+21, no 4 (2010): 748–759.
+https://doi.org/10.1287/isre.1100.0318
+Van Den Meerssche, Dimintri. “International Law and Technology as a
+Critical Project: A Collective Reading.”
+The European Journal of
+International Law
+35, no 4 (2024): 963–970.
+https://doi.org/10.1093/ejil/chae069
+Von Hippel, Eric.
+The Sources of Innovation
+. New York: Oxford
+University Press, 1988.
+VTV. “Vanhat Tietojärjestelmät. Tarkastuskertomus.”
+Valtiontalouden tarkastusviraston tarkastuskertomukset
+Walsh, Hannah, Andy Dong and Irem Tumer. “Towards a Theory for
+Unintended Consequences in Engineering Design.” In
+Proceedings of the
+Design Society: International Conference on Engineering Design
+341–3420. Cambridge: Cambridge University Press, 2019.
+Wiegel, Valeri. “Beyond the Single-Site Study: The Biographical
+Analysis of Technology”.
+EASST Review
+no 4 (2015):
+https://www.easst.net/wp-content/uploads/2017/10/review_2016_12.pdf
+Kontiainen, “Oikeuden
+digitalisaatio”; Fenwick, “Lawyer of the Future”; Koivisto,
+“User Accounts.”
+Reiling, “E-Justice
+Platforms”; Di Natale, “Digitising the Judicial Sector”;
+Contini, “Introduction.”
+Di Natale, “Digitising
+the Judicial Sector.”
+Bennani-Taylor,
+“Infrastructuring AI.”
+See Bowker, “Toward
+Information Infrastructure Studies.”
+Reiling, “Technology for
+Hyysalo, “Method Matters.”
+Wiegel, “Beyond the
+Single-site Study.”
+Hyysalo, “Method
+Grint, “The Machine at
+Barry, “The Material
+Byrne, “Legal
+Infrastructures.”
+“Infrastructure and InfraReg.”
+Rabardel, “People and
+Technology.”
+Contini, “Law and
+Technology,” 3.
+Koch, “Aligning
+“Digitaalinen oikeus tutkimuksen kohteena.”
+See Koulu, “Law and
+Digitalisation”; Koivisto, “Miten hyvä hallinto
+digitalisoidaan?”
+Van Den Meerssche,
+“International Law and Technology”; Sullivan, “Law, Technology
+and Data-Driven Security.”
+Van Den Meerssche,
+“International Law and Technology.”
+Hyysalo, “Method
+Matters,” 4.
+Koulu, “In Search of
+Living Law.”
+McAfee, “Mastering the
+Three Worlds”; Reiling, “E-Justice Platforms”; Reiling,
+“Digital Justice.”
+Lanzara, “The
+Circulation of Agency”; Oskamp, “IT Support of the
+Judiciary.”
+Contini, “Artificial
+Intelligence.”
+Koulu, “In Search of
+Living Law”; Koulu, “Crafting Digital Transparency.”
+Contini, “The Elusive
+Mediation”; Reiling, “Digital Justice.”
+Reiling, “E-Justice
+Platforms.”
+Allsop, “Technology
+and the Future.”
+Reiling, “Digital
+Reiling, “Digital
+Reiling, “Digital
+Justice”; Di Natale, “Digitising the Judicial Sector.”
+See Lanzara and Patriotta,
+“Technology and the courtroom”.
+Hyysalo, “Series of
+Configurational Movements.”
+Glaser, “The Biography
+of an Algorithm”; Pollock, “E-infrastructures.”
+Hyysalo, “Method
+Matters”; Glaser, “The Biography of an Algorithm”; Hyysalo,
+“Series of Configurational
+Movements.”
+Kallinikos,”
+Regulative Regime of Technology,” 69.
+Contini,” Double
+Normalization.”
+Proceduralizing Control and Discretion.”
+Contini, “Double
+Normalization.”
+“Transparency Materialized.”
+“Infrastructure and InfraReg.”
+Pinch, “Social
+Construction of Facts”; Edwards, “Infrastructure and
+Modernity”; Eriksen, “Afterword:
+Some Unintentional
+Consequences.”
+Star, “Steps Toward an
+Ecology”; Steinhardt, “Breaking Down.”
+Rosner, “Designing for
+Jackson, “Rethinking
+Repair”; Bowker, “Sorting Things Out”; Barry, “Material
+Politics of Infrastructure”;
+Edwards, “Understanding
+Infrastructure”; Star, “The Ethnography of
+Infrastructure.”
+Understanding Infrastructure.”
+Jarrahi, “Digital
+Assemblages, Information Infrastructures.”
+Byrne, “Legal
+Infrastructures.” On data infrastructures and law, see Fisher,
+“Confronting Data Inequality.”
+“Infrastructure and InfraReg.”
+Tilson, “Digital
+Infrastructures.”
+Henfrídsson,
+“Generative Mechanisms”; Fabri, “E-justice in
+Byrne, “Legal
+Infrastructures,” 10.
+Byrne, “Legal
+Infrastructures.”
+Reiling, “Technology
+for Justice.”
+Monteiro, “Qualitative
+Research Methods”; Orlikowski, “Shaping Electronic
+Communication.”
+Walsh, “Towards a
+Reiling, “Technology
+for Justice.”
+Contini,” Double
+Normalization.”
+Ribes,” The Logic of
+Contini,” Double
+Normalization.”
+Koulu, “In Search of
+Living Law.”
+Jalas, “The Rhythms of
+Infrastructure.”
+Monteiro, “Qualitative
+Research Methods”; Glaser, “The Biography of an Algorithm”;
+Hyysalo, “Method
+Matters”; see also Von Hippel, “The Sources
+of Innovation.”
+Hyysalo” Method
+Matters”; Silvast and Virtanen, “On Theory-Methods
+Silvast and Virtanen,
+“On Theory-Methods Packages.”
+Hyysalo, “Method
+“Infrastructure and Modernity.”
+Fabri, “E-Justice in
+Harwood, “An
+see also Ikuesan,
+“Digitalising Justice.”
+Asettamispäätös 15/31/2010.
+OM, “Yleisten
+tuomioistuinten asianhallinnan kehittäminen.”
+OM, “Oikeudenhoidon
+uudistamisohjelma,” 18.
+“RITU Usability
+Käräjäoikeusverkoston kehittäminen,” 29.
+Reiling, “Technology
+for Justice.”
+Arvidsson and Noll,
+“Decision Making in Asylum.”
+Koulu, “In Search of
+Living Law.”
+VTV, “Vanhat
+Tietojärjestelmät,” 6.
+see Byrne, “Legal
+Infrastructures.”
+Hyysalo,” Method
+Matters”; Glaser, “The Biography of an Algorithm.”
+Star, “The Ethnography
+of Infrastructure.”
+Lanzara, “Technology
+and the Courtroom”; Kingsbury, “Infrastructure and
+See Byrne, “Legal
+Infrastructures”; Byrne, “Editors’ Introduction.”
+See Pollock,
+“E-infrastructures.”
+Print (pretty)
+Print (eco-friendly)
+RTF format (584 KB)
+PDF format (850 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

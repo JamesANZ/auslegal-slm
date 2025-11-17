@@ -1,0 +1,953 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/UNSWLawJlStuS/2025/22.html
+Scraped: 2025-11-17 15:46:28
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Hayman, Claudia --- "Privacy in Public: The Problem of Data Scraping" [2025] UNSWLawJlStuS 22; (2025) UNSWLJ Student Series No 25-22
+CLAUDIA HAYMAN
+I INTRODUCTION
+The openness of the internet and increased sophistication of technology to
+harvest its contents have led some commentators to declare
+‘the death of
+Whilst hyperbolic,
+this highlights the conflict between the internet as a uniquely exposing space
+and our expectations of privacy
+The data scraping of public
+personal information problematises the right to privacy in article 17 of the
+International Covenant on Civil and Political Rights
+’) in two main
+First, for data subjects to
+retain privacy interests in their public personal information, the right to
+public realm at least in certain circumstances. I
+argue that the right to privacy, conceived as an expression of dignity, protects
+individuals’ treatment and self-authorship online, including how their
+public personal information is collected and used. Second,
+the traditional
+self-management approach to data privacy regulation – which relies on the
+actions of individual data subjects
+– is insufficient to address the scale
+and complexity of data scraping.
+argue that to meet states’ obligations under article 17 of the
+, data privacy legislation must include structural privacy
+protections alongside individual data control rights. This article proceeds
+five Parts. Following this introduction, I compare the United States
+(‘US’) and European conceptions of privacy and
+justify the
+application of the right to privacy in public. I consider how this translates to
+the novel context of the internet and
+argue that the right to privacy entitles
+internet users to a reasonable expectation of obscurity and trust online. In
+Part III, I
+canvass the unique privacy risks of data scraping. Third, I assess
+the effectiveness of the European Union’s
+General Data Protection
+) and California’s
+Consumer Privacy Protection Act
+protecting the right to privacy against these
+I then consider the European
+Artificial Intelligence Act
+as a model for reform to the
+which effectively
+integrates structural privacy protections with individual privacy
+Part V concludes.
+II CONCEPTUALISING THE RIGHT TO PRIVACY
+Universal Declaration of Human Rights
+and subsequently in article 17 of the
+and other international and
+regional instruments.
+The right to
+is not an absolute right: interference
+with privacy is permissible unless it is ‘unlawful’ or
+‘arbitrary’.
+competing conceptions of privacy in US and European law have influenced the
+right’s evolution.
+the American Law Institute’s
+Statement of Essential Human Rights
+article 12 of the
+was drafted in ‘language obviously borrowed
+from the US constitution’: the protection of ‘privacy, family, home
+or correspondence’ echoes the Fourth Amendment protection of
+‘persons, houses, papers, and effects’.
+On the US view, the right to privacy
+protects a tangible ‘inner space’ (physical bodies, homes, papers)
+from the intrusive
+state. It is a negative liberty: ‘a right to be left
+In other words,
+US courts have
+consistently held that upon entering the public space, one loses any reasonable
+expectation of privacy.
+In contrast, the European view conceives of privacy as an expression of
+It is not only
+concerned with an individual’s seclusion from the society, but also their
+treatment and self-authorship in
+protects an intangible ‘inner space’ – personhood –
+against indignities and unwanted exposure
+in the social
+It operates as a
+personality right, protecting a person’s interest to both ‘present
+the self to the world and protect
+the self from the
+The European Court
+of Human Rights (‘ECtHR’) has interpreted the right to privacy as
+‘interpersonal’
+including ‘the right to lead a “private social life”’,
+that is, ‘the possibility of establishing
+and developing relationships
+with others and the outside
+International
+human rights law has increasingly aligned with this
+The Office of the High
+Commissioner on Human Rights (‘OHCHR’) recently described the right
+to privacy as ‘an expression
+of human dignity ... linked to the protection
+of human autonomy and personal
+Similarly, the
+Human Rights Committee (‘HRC’) defines privacy as ‘the sphere
+of a person’s life in which
+he or she can freely express his or her
+identity, be it by entering into relationships with others or
+Unlike US jurisprudence, ‘publicness’ does not eliminate privacy:
+the ECtHR has found the right ‘does not exclude
+activities taking place in
+a public context’ and a person can retain privacy interests in a
+‘zone of interaction with
+Whether the right to
+complaint jurisprudence or the
+General Comment No 16
+However, the HRC has
+considered that certain expressions of a person’s identity in public are
+caught by the right to privacy:
+for example, a person’s name in public
+In a similar vein, the
+OHCHR has recommended the ban of real-time biometric technologies which track
+individuals in public spaces
+on privacy grounds, as they impede ‘the
+ability of people to go about their lives
+unobserved’.
+therefore a compelling conclusion that activities in public may be subject to
+A The Internet and the Public/Private Divide
+The United Nations General Assembly recognised the imperative of migrating
+Resolution 68/167
+Daniel Joyce argues
+that the ‘methodological weakness’ of the resolutions is the
+unaltered translation of the public/private
+divide in the physical world to the
+online world.
+The resolutions
+approach the internet as public geographical space, highlighting its ‘open
+However, as a
+novel context for privacy, the internet must be approached on its own
+Architectural academics argue the internet is a new kind of
+‘limitless’ space which ‘negates geometry’, being
+‘everywhere and
+Joyce contends
+that the internet should be approached not like real estate, but rather like the
+sea, with its unpredictability, innovation
+and susceptibility to exploitation,
+and its ‘perceived need for
+sui generis
+international
+regulation’.
+Therefore, if a privacy as dignity approach is adopted, rather than attaching
+the right to privacy to the
+of personal information on the
+internet, the right should attach to the
+personal information itself
+an extension of the right-holder’s personhood. This allows the data
+subject to be the arbiter for delimiting the acceptable
+boundaries of their
+metaphorical inner space.
+this vein, the ECtHR has held the mere storing of publicly-available data
+relating to the private life of an individual constitutes
+an interference with
+is a significant consideration
+in determining whether the interference violates
+Two issues factor
+into this reasonable expectation of privacy. First, the protection of obscurity,
+that individuals retain privacy
+interests in activities or information which may
+be in the public domain but ‘are unlikely to be found, seen or
+remembered’.
+Second, the
+maintenance of trust, that public personal information will only be collected
+and used for purposes to which the data
+subject had
+Construing the right
+to privacy in this way protects data subjects’ dignity as they engage in
+the internet’s unique forms
+of self-authorship and interaction, even in
+the so-called public domain.
+III THE THREAT OF DATA SCRAPING TO PRIVACY
+If, as I argue, individuals have a privacy interest in their public personal
+information, then it will be protected from data scraping
+by article 17 of the
+where the interference with privacy is unlawful or arbitrary. Data
+scraping involves the automated extraction of publicly available
+information
+from online sources
+estimated to be involved in one quarter of all internet
+The data-intensive
+nature of AI and other technologies has led commentators to declare data as the
+‘new oil’ in the digital
+era and data scraping as an ‘arms
+Given its pervasive
+nature, it is crucial to understand how privacy is affected by data scraping. I
+outline five issues below.
+(a) Aggregation and inference:
+The aggregation of public personal data
+collected by scraping ‘can reveal new facts about a person that she did
+not expect would
+be known about her when the original, isolated data was
+collected.’
+This can occur
+by inference. An example is a psychology study which scraped public Twitter
+posts to identify users with poor mental
+health from
+Aggregated datasets
+can also be used to identify individuals from otherwise anonymous
+Artificial intelligence
+exacerbates the problem of inference and can create a ‘data double’
+or ‘data twin’
+individuals.
+Bad actors may
+‘jail break’ AI models to access this comprehensive portrait of an
+individual’s personal
+information.
+(b) Secondary use:
+Scraped personal data can be used for purposes that
+were not intended, or even foreseen, by the data
+For example, Clearview
+AI recently scraped public Facebook photos of individuals’ faces to
+develop and sell facial recognition
+technology to law enforcement
+With AI, downstream
+applications of data can be difficult to
+(c) Traceability, interdependence, and leakage:
+The data economy is an
+interdependent, multi-actor
+phenomenon.
+The Privacy Assembly
+describes the free circulation of personal data on the internet as a ‘set
+of revolving doors from public
+to private (and vice versa) ... with little
+regard for the purposes for which they were originally
+collected’.
+Personal data
+can be difficult to trace, both for collectors and for data subjects who may not
+be aware of what personal information
+(d) Distortion: Public personal information can also be inaccurate or
+fabricated.
+(e) Permanency: Data scrapers scrape the internet at a particular point in
+time. Scrapers can thus possess deleted or public-made-private
+information.
+The permanence of data imprints in
+AI models further complicates the ability to delete or withdraw public data
+– the model
+would need to be retrained without the impugned
+Considering the above, a legislative model that focuses
+control of individual data subjects over their personal information would be
+insufficient to protect the right to privacy.
+Individuals do not have the
+resources or knowledge to mitigate these risks. Legislation needs to focus also
+on controlling
+– that is, effective privacy legislation
+should include ‘an architecture that structures power’ and
+how information is disseminated, collected and
+networked’.
+The Special
+Rapporteur on the Right to Privacy (‘Special Rapporteur’) and the
+United Nations Development Program (‘UNDP’)
+in their respective
+reports on AI have emphasised the imperative of combining individual control and
+structural approaches in privacy
+legislation.
+General Comment No 16
+, the HRC states as a result of the
+‘unlawful’ and ‘arbitrary’ qualifications in article 17
+, ‘it is precisely in State legislation above all that
+provision must be made for the protection of the right set forth that
+further requires the gathering and holding of personal
+data digitally to be regulated by law and effective measures to be taken by
+states to ensure ‘information concerning a person’s private life
+does not reach the hands of persons who are not authorised
+by law to receive,
+process and use it’.
+Therefore, states have an obligation to develop law that adequately protects
+against the privacy risks of data scraping public personal
+information. I now
+compare the effectiveness of two privacy laws, the European Union’s
+and California’s
+, in meeting
+this obligation.
+IV LEGISLATING THE RIGHT TO PRIVACY TO ADDRESS DATA
+Since its enactment in 2016, the
+has widely been considered the
+global ‘gold standard’ for the protection of data
+Many privacy laws have
+since drawn inspiration from the
+, including California’s
+absence of a federal privacy regime, the
+is considered the strictest
+and most significant privacy law in the
+apply to businesses processing personal information, including
+third-party scrapers.
+there are significant deficiencies in the CCPA’s application to publicly
+available data, its consent model and structural
+I argue the
+falls short of protecting article 17 in the context of
+data scraping public personal information. In contrast, I contend that the
+meets the EU states’ obligations under article 17; however,
+obligations under its structural privacy protections should be
+further specified
+to assist compliance and regulation. I consider four features: application,
+consent, data subject rights and structural
+A Application of the GDPR and CCPA
+The shadow of the US ‘no privacy in public’ approach looms over
+excludes ‘publicly available
+information’ from its
+This is expansively
+defined and includes information made available by (1) the data subject to the
+general public, (2) by widely
+distributed media, (3) by the government and (4)
+by third parties to whom the data subject has disclosed information, if the
+was not restricted to a specific audience.
+This blanket approach to
+publicly-available data, without considering the data subject’s consent or
+reasonable expectations
+of privacy, obscurity and trust, fails to recognise the
+real privacy interests in public personal information. As much of the personal
+data captured by scrapers would come within this broad exception, it precludes
+from meeting the standard of article 17 of the
+B Consent Model
+diverge in their approach to data subject
+consent to the collection and use of their personal information, outlined in
+Table 1 below.
+Table 1: Characteristics of consent
+4.11 (opt in)
+1798.155(d) (opt out)
+Explicit/implicit
+4.11 (explicit)
+1798.155(d) (implicit)
+1798.140(h)
+1798.140(h)
+7.3 and 4.11
+1798.140(h)
+Unequivocal
+Unambiguous
+1798.140(h)
+1798.135(b)(2)(A)
+adopts an opt-out model which, following notice of data
+collection and use, implies the data subject’s consent unless they
+explicitly object.
+creates a baseline without protection and requires data subjects to protect
+themselves.
+Further, data
+scrapers are exempt from providing
+Consequentially, the
+data subject may not be aware of the collection of their data and unable to
+exercise their right to opt-out.
+This weak conception of consent is a
+fundamental flaw in the
+. The Special Rapporteur underlined the
+importance of consent as a condition of legality, transparency, and individual
+autonomy in
+Therefore again, the
+falls short of article 17 of the
+adopts an opt-in model which requires the explicit, informed
+consent of the data subject for collection and processing. It deals
+problem of secondary use by requiring consent for every use of the
+In this way, the
+respects the data subject’s intent to share personal
+information online in a limited context of trust and
+Whilst this is
+preferable to the opt-out approach, it may not sufficiently protect data
+subjects where they (1) suffer consent fatigue
+from having to navigate numerous
+and often complex privacy policies and (2) feel compelled to agree to
+undesirable terms whether
+they require the service and lack bargaining
+Supplementing the opt-in
+model with structural privacy protections that improve the conditions to which
+data subjects consent is
+C Data Subject Rights
+include a series of data subject rights
+which increase individual control over data, and the accountability and
+transparency of data
+controllers, outlined in Table
+Table 2: Data subject rights
+Right of information
+13 (personal data collected from the data subject)
+12(1) (5) and (7) and 14 (personal data not obtained from data
+1798.100, 1798.115
+Right of access
+1798.100, 1798.115
+Right to rectification
+Right to deletion
+Right to be forgotten
+Right to restriction of processing
+Right to data portability
+Right to object
+However, there are three areas in which the
+provides stronger
+(a) Right to be forgotten: While both the
+the right to delete personal information where the information is inaccurate,
+incomplete or was
+processed, the
+’s right to
+be forgotten allows the erasure of
+processed data in certain
+circumstances.
+In the leading
+authority on this right,
+Google v Spain,
+the Court of Justice of the
+European Union explained that the right protects data subjects from the broad
+and often permanent exposure
+The Court held the
+applicant could require Google to remove personal information from search
+results, where information was ‘inadequate,
+irrelevant or no longer
+relevant, or excessive’.
+Uta Kohl argues this right ‘perfectly captures [the
+orientation’.
+It protects
+amend it to reflect their fluid
+personhood.
+Further, it reduces
+the risks of data aggregation and inference from scraping. The right has been
+widely exercised: from 2015 to
+2021, Google and Microsoft Bing received over 1
+million ‘right to be forgotten’
+(b) Right to information: Unlike the
+’s blanket exception
+for data scrapers, the
+requires notice where businesses indirectly
+collect personal information, including by data scraping, unless notice
+impossible or would involve a disproportionate
+This exception
+has been interpreted narrowly by European data protection
+The Polish agency,
+UODO, rejected a data scraper’s argument that providing notice to six
+million people via telephone and/or
+postal mail of public database scraping
+involved disproportionate effort. The scraper was fined €220,000 for
+breach of the
+information.
+This strict
+approach prioritises the protection of data subjects from unwanted exposure.
+(c) Right to restrict processing: This right allows the data subject to
+temporarily restrict the processing of their information,
+It reflects the
+enhanced flexibility and precision of data subject control in the
+Although data control rights protect personal autonomy, they alone are
+insufficient. Woodrow Hartzog warns that ‘control simply
+scale’ and places an unreasonable burden on users to exercise their
+Structured privacy
+protections provide the essential complement.
+D Structural Privacy Protections
+To adapt Joyce’s concept of the internet as like the
+structural privacy
+protections prevent indiscriminate ‘trawling’ of data which
+unnecessarily infringes on people’s
+path. Instead, these protections limit lawful scraping to targeted and
+conservative ‘fishing’
+of data, minimising the impact on the data
+eco-system. They are the necessary answer to the problem posed by Salomé
+subject to individualist remedies .... are structurally incapable
+representing the interests and effects of data production’s
+population-level aims’.
+contains a broader range of structural privacy protections than
+, outlined in Table 3.
+Table 3: Structural privacy
+Data minimisation
+5.1(c) and 25.2
+1798.100(a)(1) and (c)
+Data protection impact assessments
+(a) Data minimisation: The Special Rapporteur says minimisation requires that
+data ‘must, at all times, be limited to what is
+required for the
+achievement of the established
+, the collection and use of data must be ‘reasonably necessary
+and proportionate to achieve’ the established
+data must be adequate, relevant, and limited by
+Under both laws, the
+data cannot be held by the controller longer than is reasonably necessary for
+the established purpose.
+Jennifer King and Caroline Meinhardt argue the strength of the
+’s approach to data minimisation is that it alleviates the
+burden on data subjects to privacy self-manage, instead requiring
+the controller
+to devote their significantly larger resources to ‘conservative and
+thoughtful personal data
+collection’.
+However, they
+criticise that without any agreement or legislative stipulation on what
+constitutes too much data, it is difficult
+for regulators to enforce the
+protection outside of egregious
+violations.
+To combat the data
+‘arms race’, the
+must further specify
+this protection to adequately protect the right to privacy.
+(b) Data protection impact assessments: The
+requires data
+protection impact assessments ‘whenever processing is likely to result in
+a high risk to the rights and freedoms
+individuals’.
+include public surveillance or use of sensitive data at
+Such assessments
+critically assist to identify and prevent privacy risks before collection
+commences. However, King and Meinhardt
+have criticised the lack of regulatory
+action when they are done poorly or not acted on, likening it to businesses
+oversight and resourcing of privacy regulators would increase the impact of this
+protection.
+(c) Privacy by design and default:
+The approach of the
+be described as ‘public by default, private by
+In contrast, the
+includes requirements for privacy by design and default. It provides
+that controllers must implement ‘appropriate technical
+and organisational
+measures’ in the design and operation of their collection
+technology.
+Building privacy
+into the design of technology means the protection of privacy is not dependent
+on actions undertaken by data
+The UNDP champions
+generate trust and secure
+Melany Amarikwa
+argues embedding privacy by design is particularly important for AI models,
+where issues can quickly become invisible
+or ingrained in the model’s
+functionality.
+However, the
+provision is non-specific; the only measure identified is
+‘pseudonymisation’. As with data minimisation, the
+benefit from clarifying this protection to assist compliance and regulation.
+E Concluding Assessment of the GDPR and CCPA
+To borrow Daniel Solove and Hartzog’s assessment, while the GDPR has a
+footing in a structural approach to privacy, the CCPA
+only has a toe in it.
+largely presents a
+strong example of legislation that protects the right to privacy as dignity in
+the context of data scraping. In
+contrast, the
+structural privacy protections prevent
+it from meeting the obligations in
+article 17 of the
+. However, as Solove and Hartzog argue, the
+’s structural elements lack the ‘same muscle and
+rigour’ as its individual control
+I now consider the
+as a model of detailed structural privacy protections.
+F Integrating Structural Protections and Individual
+Although not strictly privacy legislation, the European Union’s
+, enacted on 12 July 2024, demonstrates how detailed structural
+protections can effectively operate alongside individual
+The Act places the
+onus on providers of AI systems to protect data subjects through two main
+mechanisms: express prohibitions on
+certain practices in article 5 (entered into
+force on 2 February 2025) and requirements on high-risk AI systems in articles 8
+15 (set to enter into force on 2 August 2026). The prohibited AI practises
+are set out in Table 4 and the requirements on high-risk
+AI systems in Table
+Table 4: Prohibited AI practises
+Subliminal, manipulative, or deceptive techniques
+Techniques exploiting vulnerable groups which materially distorts behaviour
+and risks significant harm
+Social scoring in certain use cases
+Criminality prediction based on profiling
+Web or CCTV scraping for facial recognition databases
+Inferences of emotions at schools or workplaces
+Biometric categorisation to infer race, political opinion, trade union
+membership, religious or political beliefs, sex life or sexual
+orientation
+Real-time remote biometric identification in public spaces for law
+enforcement purposes
+Table 5: Requirements on high-risk AI systems
+A risk management system throughout the entire lifecycle of the AI
+Data collection, governance and management practises must meet specified
+quality criteria (which are stringent for personal
+Technical documentation throughout the system’s lifecycle
+Record-keeping logs through the system’s lifecycle
+Transparency of design and instructions for use of the system
+Human oversight of the system to prevent risks to health, safety and
+fundamental rights;
+Development of the system to achieve an appropriate level of accuracy,
+robustness and cybersecurity
+protections, the content and operation
+of these structural prohibitions and requirements are precisely detailed in
+their respective
+provisions. The list of prohibitions is also subject to annual
+review by the European Commission, allowing adaptation to evolving
+technologies
+To supplement
+t’s individual control protections provide for a
+regulatory complaints process when the Act is breached (article 85) and a right
+to explanation of individual decision-making (article 86). Notably, standing to
+make a complaint is much wider than in the
+may submit a complaint. This accounts for the expansive and often
+untraceable data use in AI systems, as discussed in Part III. The
+upshot of this
+legislative approach is that most of the work to protect privacy must be done by
+data controller (the AI provider),
+with provision for individual access to
+remedies where necessary. The obligations on the data controller are specific
+and tailored,
+facilitating better compliance and regulation. The
+goes further in reflecting the new realities of privacy in the wake of AI, and
+the unequal balance of power and resources between
+the data subject and
+controller. The practical outcomes of this legislation are yet to be seen.
+However, its detailed structural
+protections offer a promising model to inspire
+reform to the
+which more effectively meets the
+V CONCLUSION
+In this article, I have demonstrated that construing the right to privacy as
+a protection of the ‘inner space’ of personhood,
+rather than any
+physical ‘inner space’, leads to a conclusion that data subjects
+maintain privacy interests in their
+public personal information. Protecting
+scraping. The comparison
+, and the new
+approach of the
+demonstrate that states must adopt legislation
+which integrate individual control with structural protection to effectively
+the right to privacy in article 17 of the
+Jacob Morgan, ‘Privacy
+Is Completely and Utterly Dead, and We Killed It’
+19 August 2014)
+<https://www.forbes.com/sites/jacobmorgan/2014/08/19/privacy-is-completely-and-utterly-dead-and-we-killed-it/>;
+Alex Preston, ‘The Death of Privacy’
+The Guardian
+August 2014)
+<https://www.theguardian.com/world/2014/aug/03/internet-death-privacy-google-facebook-alex-preston>.
+Megan Richardson, Julian
+Thomas and Marc Trabsky, ‘The Internet Imaginary and the Problem of
+(2012) 17(3)
+Media and Arts Law Review
+International Covenant on
+Civil and Political Rights,
+opened for signature 16 December
+(entered into force 23 March 1976) art 17.
+Woodrow Hartzog, ‘The
+Inadequate, Invaluable Fair Information Practices’
+(2017) 76(4)
+Maryland Law Review
+Regulation (EU) 2016/679 of
+the European Parliament and of the Council of 27 April 2016 on the Protection of
+Natural Persons with
+Regard to the Processing of Personal Data and on the Free
+Movement of Such Data, and Repealing Directive 95/46/EC
+[2016] OJ L 119/1
+Consumer Privacy Act
+, Cal Civ Code
+§§ 1798.100–1798.199.100 (2018) (‘
+California Consumer
+Regulation (EU) 2024/1689
+of the European Parliament and of the Council of 13 June 2024 Laying down
+Harmonised Rules on Artificial
+Intelligence and Amending Regulations (EC) No
+300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and
+2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828
+(Artificial Intelligence Act)
+[2024] OJ L 2024/1689 (‘
+Universal Declaration of
+Human Rights
+, GA Res 217A (III), UN GAOR, UN Doc A/810 (10 December 1948)
+art 12. See,
+Convention on the Rights of the Child
+, opened for signature
+20 November
+1989, 1577 UNTS 3
+(entered into force 2 September 1990) art 16;
+International Convention on the Protection of the Rights of All Migrant
+Workers and Members of Their Families
+, opened for signature 18 December
+1990, 2220 UNTS 3
+(entered into force 1 July 2003) art 14;
+Convention of the
+Rights of Persons with Disabilities
+, opened for signature 13 December
+2515 UNTS 3
+(entered into force 3 May 2008) art 22;
+African Charter on the
+Rights and Welfare of the Child
+, opened for signature 11 July 1990, OAU Doc
+CAB/LEG/24.9/49 (entered into force 29 November 1999) art 10;
+Convention for
+the Protection of Human Rights and Fundamental Freedoms
+, opened for
+signature 4 November
+1950, 213 UNTS 221
+(entered into force 3 September 1953)
+Human Rights Committee,
+General Comment No 16: Article 17 (Right to Privacy), The Right to Respect of
+of Honour and
+sess, UN Doc CCPR/GEC/6624 (8 April 1988) paras
+Uta Kohl, ‘The Right to
+be Forgotten in Data Protection Law and Two Western Cultures of Privacy’
+(2023) 72(3)
+British Institute of International and Comparative Law
+Oliver Diggelman and Maria
+Cleis, ‘How the Right to Privacy Became a Human Right’
+(2014) 14 (3)
+Human Rights Law Review
+, 445, 449.
+United Nations Development
+Drafting Data Protection Legislation: A Study of Regional
+(Report, 2023) 5.
+Bart van der Sloot,
+‘Privacy as Personality Rights: Why the ECtHR’s Focus on Ulterior
+Interests Might Prove Indispensable
+in the Age of “Big Data”’
+(2015) 31(80)
+Utrecht Journal of International and European Law
+hiQ Labs Inc v
+Linkedin Corp,
+938 F 3d 985
+Cir, 2019);
+Katz v United
+[1967] USSC 262
+Boyd v United States,
+[1886] USSC 48
+Goodwin v the United
+(European Court of Human Rights, Grand Chamber, Application No
+28957/95, 11 July 2002) [90]; Office of the High Commissioner for
+Human Rights,
+The Right to Privacy in the Digital Age,
+UN Doc A/HRC/48/31 (13 September
+Kohl (n 9) 744.
+Van der Sloot (n 12)
+Von Hannover v
+(European Court of Human Rights, Grand Chamber, Application No
+24 June 2004).
+Ribalda v Spain
+(European Court of Human Rights, Grand Chamber, Application Nos 1874/13 and
+8567/13, 17 October 2019) [88].
+Joseph Cannataci,
+Artificial Intelligence and Privacy, and Children’s Privacy: Report of
+the Special Rapporteur on the Right to Privacy
+, UN Doc A/HRC/46/37 (25
+January 2021) para 75; Ana Nougréres,
+Report of the Special Rapporteur
+on the Right to Privacy to the Human Rights Council: The Right to Privacy,
+UN Doc A/HRC/40/63 (16 October 2019) 3–4.
+Office of the High
+Commissioner for Human Rights (n 14) 3.
+Human Rights Committee,
+Views: Communication No 453/1991, 52
+session, UN Doc
+CCPR/C/52/D/453/1991 (9 December 1994) para 10.2 (‘
+Coeriel and Aurik v
+The Netherlands
+Glukhin v Russia
+(European Court of Human Rights, Third Section, Application No 11519/20, 4
+July 2023) [64];
+Ribalda v Spain
+(n 19) [88].
+CCPR/GEC/6624 (n 8).
+Coeriel and Aurik v The
+Netherlands
+(n 25) para 10.2.
+Office of the High
+Commissioner for Human Rights (n 14) [27].
+The Right to Privacy in
+the Digital Age,
+GA Res 68/167, UN Doc A/RES/68/167 (21 January 2014,
+adopted 18 December 2013) para 2 (‘
+Resolution 68/167
+The Right to Privacy in the Digital age,
+GA Res 69/166, UN Doc
+A/RES/69/166 (10 February 2015, adopted 18 December 2014) para 2.
+Daniel Joyce,
+‘Privacy in the Digital Era: Human Rights Online?’
+[2015] MelbJlIntLaw 9
+(2015) 16(1)
+Melbourne Journal of International Law
+Resolution 68/167
+UN Doc A/RES/68/167
+William Mitchell,
+of Bits: Space, Place and the Infobahn
+(The MIT Press, 1995) 8; Richardson,
+Thomas and Trabsky (n 2) 261.
+Joyce (n 28) 275.
+Kohl (n 9) 765.
+Glukhin v Russia
+23) [65]–[66].
+Woodrow Hartzog, ‘The
+Public Information Fallacy’ (2019) 99(1)
+Boston Law Review
+515; Geoffrey Xiao, ‘Bad Bots: Regulating the Scraping of Public
+Information’
+(2021) 34(2)
+Harvard Journal of Law and Technology
+Xiao (n 34) 709.
+Melany Amarikwa,
+‘Internet Openness at Risk: Generative AI’s Impact on Data
+(2024) 30(3)
+Richmond Journal of Law and Technology
+Adrian Agius,
+‘Considering Legal Perspectives and an Australian Approach to Scraping
+Data from the Modern Web’
+(2016) 91(1)
+Computers and Law Journal
+Lydia Montalbano,
+‘The World’s Most Valuable Resource Is No Longer Oil but
+The Economist
+, (online, 16 May 2017)
+<https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data>;
+Michael Goodyear, ‘Circumscribing the Spider: Trademark Law and the Edge
+of Data Scraping’
+(2021) 70(1)
+University of Kansas Law Review
+Daniel Solove, ‘A
+Taxonomy of Privacy’
+University of Pennsylvania
+Emily Reynolds,
+‘Psychologists are Mining Social Media Posts for Mental Health Research:
+But Many Users Have Concerns’
+The British Psychology Society
+Page, 29 June 2020)
+<https://www.bps.org.uk/research-digest/psychologists-are-mining-social-media-posts-mental-health-research-many-users-have>.
+Faisal Hijjawi, ‘The
+End of Consent: Data and the Corporate-Consumer Relationship’, (LLM
+Thesis, Columbia University,
+Tom Krantz and Alexandra
+Jonker, ‘AI Jailbreak: Rooting out an Evolving Threat’
+(Web Page) <https://www.ibm.com/think/insights/ai-jailbreak>.
+Xiao (n 34) 707.
+‘TechScape: Clearview AI Was Fined 7.5m for Brazenly Harvesting Your Data:
+Does It Care?’
+The Guardian
+(online, 25 May 2022)
+<https://www.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine>.
+Amy Winograd,
+‘Loose-Lipped Large Language Models Spill Your Secrets: The Privacy
+Implications of Large Language Models’
+(2022) 36(2)
+Harvard Journal of
+Law and Technology
+Bernadette Kamleitner and
+Vince Mitchell, ‘Your Data Is My Data: A Framework for Addressing
+Interdependent Privacy Infringements’
+(2019) 38(4)
+Journal of Public
+Policy and Marketing
+Global Privacy Assembly,
+PSWG3: Privacy and Data Protection as Fundamental Rights: A Narrative
+(Report, 2022) 30.
+Kamleitner and Mitchell (n
+Winograd (n 46) 631.
+Daniel Solove and Woodrow
+Hartzog, ‘Kafka in the Age of AI and the Futility of Privacy as
+(2024) 104(4)
+Boston University Law Review
+Office of the High
+Commissioner on Human Rights (n 14) 11; Ana Nougréres,
+Report of the
+Special Rapporteur on the Right to Privacy to United Nations General Assembly:
+Promotion and Protection of Human Rights
+, UN Doc A/77/196 (20 July 2022)
+CCPR/GEC/6624 (n 8) para 2.
+Ibid para 10.
+Vivek Krishnamurthy,
+‘A Tale of Two Privacy Laws: The
+and the International Right
+to Privacy’ (2020) 114(1)
+American Journal of International Law
+OneTrust Data Guidance,
+Comparing Privacy Laws: GDPR v CCPA
+(Report, January 2022) 5.
+Ibid; Xiao (n 34) 716.
+Winograd (n 46) 637.
+Consumer Privacy Act
+(n 5) § 1798.140(2).
+California Consumer
+(n 5) § 1798.140(2).
+The only exception is the
+collection of children’s data for sale, which requires explicit consent.
+California Consumer Privacy Act
+(n 5) § 1798.155(d).
+Winograd (n 46) 632.
+California Consumer
+(n 5) § 999.305(d); Xiao (n 34) 716.
+Nougréres (n 54)
+Xiao (n 34) 711.
+Margot Kaminski, ‘The
+Case for Data Privacy Rights (or Please a Little Optimism)’ (2022) 97(1)
+Notre Dame Law Review Reflection
+385, 388–9; United Nations
+Development Program (n 11) 42.
+United Nations Development
+Program (n 11) 80.
+Google Spain SL and
+Google Inc v Agencia Española de Protección de Datos (AEPD) and
+Mario Costeja González
+(Court of Justice of the European Union,
+C-131/12, ECLI:EU:C:2014:317, 13 May 2014).
+Kohl (n 9) 750.
+‘How Many People in
+Europe Use Their “Right to be Forgotten” Online?’
+(Web Page, 29 February 2023)
+<https://surfshark.com/blog/right-to-be-forgotten-requests>.
+(n 5) art 14
+Xiao (n 34) 718.
+Kristof Van Quathem and
+Anna Sophia Oberschelp de Meneses, ‘Polish Supervisory Authority Issues
+Fine for Data Scraping Without Informing Individuals’
+(Web Page, 4 April 2019)
+<https://www.insideprivacy.com/data-privacy/polish-supervisory-authority-issues-gdpr-fine-for-data-scraping-without-informing-individuals/>.
+United Nations Development
+Program (n 11) 94.
+Hartzog (n 4) 956,
+Joyce (n 28) 275.
+Salomé Viljoen
+‘A Relational Theory of Data Governance’
+(2021) 131(2)
+Nougréres (n 54)
+California Privacy
+Protection Act
+(n 5) § 1798.100(c).
+California Privacy
+Protection Act
+(n 5) § 1798.100(A)(1); ibid art 5.1(e).
+Jennifer King and Caroline
+Meinhardt, ‘Rethinking Privacy in the AI Era’
+Stanford University
+Institute for Human-Centred Artificial Intelligence
+(Report, 2024) 23.
+King and Meinhardt (n 89)
+Lilian Edwards and Lachlan
+Urquhart, ‘Privacy in Public Spaces: What Expectations of Privacy Do We
+Have in Social Media Intelligence’
+(2015) 24(3)
+International Journal
+of Law and Information Technology
+United Nations Development
+Program (n 11) 54.
+Amarikwa (n 36) 581.
+Solove and Hartzog (n 53)
+Ibid art 10.
+Salvator Anania and
+Nathalie Moreno, ‘First Steps to Compliance: Meeting Early Obligations
+(Web Page, 01 April 2025)
+<https://kennedyslaw.com/en/thought-leadership/article/2025/first-steps-to-compliance-meeting-early-obligations-under-the-eu-ai-act/>.
+Print (pretty)
+Print (eco-friendly)
+RTF format (205 KB)
+PDF format (373 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

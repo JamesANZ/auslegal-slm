@@ -1,0 +1,1763 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/MqLawJl/2019/7.html
+Scraped: 2025-11-17 15:21:26
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Toohey, Lisa; Moore, Monique; Dart, Katelane; Toohey, Dan --- "Meeting the Access to Civil Justice Challenge: Digital Inclusion, Algorithmic Justice, and Human-Centred Design" [2019] MqLawJl 7; (2019) 18 Macquarie Law Journal 133
+MEETING THE ACCESS TO CIVIL JUSTICE CHALLENGE: DIGITAL INCLUSION, ALGORITHMIC JUSTICE, AND HUMAN-CENTRED DESIGN
+Access to justice is crucial for a well-ordered society and a functioning economic system. This article focuses on what technology
+offers as a ‘fourth wave’ in access to justice, namely a unique range of mechanisms to help meet the extensive legal
+need in Australia. The article sets out a number of case studies to illustrate the scope of technological change in civil justice,
+ranging from specialist delivery of legal information to automation platforms. Evident amongst the possibilities offered by technology
+are also concerns and challenges for ensuring that access to justice is appropriately realised. This paper explores two of the most
+significant challenges — digital inclusion and algorithmic justice. Two very different potential solutions are then discussed
+— Black Box Tinkering and human-centred design, referred to contextually as Legal Design.
+I INTRODUCTION
+II CIVIL JUSTICE NEED IN AUSTRALIA
+III RESPONDING TO CIVIL JUSTICE NEEDS — FOUR WAVES OF ACCESS TO JUSTICE
+IV RIDING THE FOURTH WAVE — TECHNOLOGICAL CHANGE IN CIVIL JUSTICE
+V CORE CONSIDERATIONS FOR BETTER ACCESS TO JUSTICE
+C Solution 1: Black Box Tinkering
+VI CONCLUSION
+MEETING THE ACCESS TO CIVIL JUSTICE CHALLENGE: DIGITAL
+INCLUSION, ALGORITHMIC JUSTICE, AND HUMAN-CENTRED DESIGN
+LISA TOOHEY,* MONIQUE MOORE,** KATELANE
+DART,*** DAN TOOHEY****
+Access to justice is crucial for a well-ordered
+society and a functioning economic system. This article focuses on what
+offers as a ‘fourth wave’ in access to justice, namely a
+unique range of mechanisms to help meet the extensive legal
+need in Australia.
+The article sets out a number of case studies to illustrate the scope of
+technological change in civil justice,
+ranging from specialist delivery of legal
+information to automation platforms. Evident amongst the possibilities offered
+by technology
+are also concerns and challenges for ensuring that access to
+justice is appropriately realised. This paper explores two of the most
+significant challenges — digital inclusion and algorithmic justice. Two
+very different potential solutions are then discussed
+— Black Box
+Tinkering and human-centred design, referred to contextually as Legal
+I INTRODUCTION
+Access to justice is a foundational pillar of our society; a promise that all
+who need the assistance of the law should be able to
+access our courts and other
+institutions of justice. As Genn observes, the existence of justice institutions
+is a public good, crucial
+for a well-ordered society and for a functioning
+Cappelleti and Garth set out two requirements for access to justice —
+first, that the system must be accessible, with access
+not contingent on
+financial means or expertise. Secondly, that any system delivering access to
+justice must ensure that results ‘are
+individually and socially
+Further, they note that the concept of access to justice has changed
+substantially over time, with the mechanisms by which we can
+‘make rights
+effective’ developing along with successive reforms to the civil justice
+system. By virtually any measure,
+the Australian civil justice system has
+struggled to provide accessibility, with cost and complexity being the two
+primary obstacles
+to achieving access to justice in the civil sphere.
+There is great promise in the potential for technology to help make rights
+effective for the millions of individuals with civil justice
+problems. Susskind
+argues that technology will greatly accelerate changes in legal practice,
+resulting in a commoditised, segmented
+and unbundled approach to the delivery of
+While some lawyers lament the impact this will have on their traditional
+monopoly, others, especially younger professionals, embrace
+the disruptive
+possibilities that technology offers to make legal knowledge, processes and
+institutions available for all who need
+them — and that
+redesigned civil justice processes should be more than an abstract topic for
+discussion; the collective knowledge and tools to make
+it happen are available
+today. Our current access to justice crisis serves as a call to reimagine and
+redesign public justice processes
+for civil disputes, centred on the needs of
+the public.
+However, focusing on access cannot come at the cost of individual and
+systemic justice. There is an increasing body of literature
+that identifies the
+risks and challenges of safely, ethically, and effectively using ‘big
+data’, particularly in the
+but also in the civil law.
+In this article we approach these questions as relative novices in the field of
+technology, but with a
+concern for the systemic possibilities and concerns of
+technology in ensuring access to civil justice.
+Part 2 of this article sets out the context of civil justice need in
+Australia, before focusing in Part 3 on how successive ‘waves’
+access to justice have offered innovation to address issues of access,
+efficiency and cost. Technology offers what might be termed
+wave’ in access to justice. Lawyers have been quick to identify that it
+offers enormous potential for civil
+cases, which are often (although not always)
+relatively high volume, low value disputes. In Part 4, we draw together current
+perspectives
+on this fourth wave as a method for delivering access to justice,
+highlighting examples of technological innovation with the potential
+improve the user experience of civil justice.
+In Part 5 we identify two emerging challenges to technological solutions that
+are very important to consider when it comes to effective
+solutions to the
+access to justice. The first relates to digital inclusivity, and the challenge
+of addressing the digital divide
+amongst users. The second is Algorithmic Bias
+and the need for algorithmic justice — a concept that recognises the
+concerns about the design of artificial intelligence
+(‘AI’) and other algorithm-based justice innovations and recognising
+the potential for unintended negative impacts on human rights. We then explore
+two very different potential solutions to ameliorate
+these concerns. First,
+Black Box Tinkering — a method that offers opportunity for greater
+transparency in developing algorithms.
+This solution is focused on examining
+solutions that have already been created. Secondly, human-centred design, or
+more contextually
+specific, Legal Design thinking — a concept that
+focusses on embedding user-driven insights into how technological solutions
+created from the outset. Here, we advocate for the use of Legal Design thinking
+methodologies to ensure technological solutions
+are designed from the outset to
+meet the needs of end users of legal technology, and not just the needs as they
+are perceived by
+system experts such as lawyers and policymakers.
+II CIVIL JUSTICE NEED IN AUSTRALIA
+As Sandefur has noted, the idea of a ‘civil justice problem’ is
+not how a typical member of society is likely to conceptualise
+the problem that
+they are having with their former or current spouse, their bank, their phone
+company, their employer, or the local
+council. Sandefur observes, ‘people
+often describe these situations using terms that suggest that they may not see
+actionable, in the sense of being something one would try to do
+something about or change’.
+The landmark Australian study of legal need, undertaken by the Law and Justice
+Foundation of New South Wales (‘the Legal Need
+Study’), nonetheless
+clearly depicts the ubiquity of civil disputes and their negative impact on the
+lives of ordinary
+Generalising from their large dataset, it should be expected that approximately
+42 per cent of Australian adults have experienced
+a civil justice problem in the
+last twelve months — with large numbers of people experiencing substantial
+problems resulting
+from housing disputes, family disputes, disputes with
+government, or consumer disputes.
+Another critical finding from the Legal Need Study was the impact of social
+disadvantage on legal need. For example, the data showed
+that people living with
+a disability were 2.2 times as likely to experience legal problems when compared
+with the general population.
+Unemployment correlated with a 1.6 times increase, and single parents were twice
+as likely to experience legal
+These factors also
+increased the severity of legal problems that were encountered:
+... [t]hat is, when compared to their counterparts, people aged 15–64
+years, people with a disability, single parents, people
+with post-school
+qualifications, people who had been unemployed, people who had lived in
+disadvantaged housing and people whose main
+language was English had
+significantly higher odds both of experiencing legal problems overall and of
+experiencing substantial legal
+At the same time, those most likely to experience legal problems are also
+unlikely to have the means to pay for legal advice. The
+2014 Productivity
+Commission Inquiry Report on
+Access to Justice Arrangements
+cost of legal services prevented effective access for the vast majority of
+Australians.
+Chief Justice Wayne
+Martin, in his address to the Community Legal Centres Association of Western
+Australia, explained:
+The hard reality is that the cost of legal representation is beyond the reach of
+many, probably most ordinary Australians... In practice
+access [to the legal
+system] is limited to substantial business enterprises, the very wealthy, and
+those who are provided with some
+assistance.
+This quote indirectly recognises a second group that is often overlooked in
+the context of access to justice, which is small and medium
+sized enterprises
+(‘SMEs’). A 2018 study by the Australian Small Business and Family
+Enterprise Ombudsman adopted a different
+methodology to that of the Legal
+Study, asking SMEs about their experience with ‘business
+disagreements’.
+that while the surveyed SMEs were willing to consult lawyers, they seldom
+proceeded to more formal dispute resolution
+options due to the costs — not
+just financial, but also time costs and the impact on their health and
+Where SMEs did pursue
+formal dispute resolution, the reported average cost was $130,000 per
+an amount that would
+cause financial strain to many small businesses.
+Other studies on legal need have focused on information provision. For
+example, a study funded by the
+Australasian Institute of Judicial
+Administration focusing upon information provision in family law disputes found
+that people involved
+in parenting disputes ‘struggled to negotiate the
+complex legal information environment, including identifying and reconciling
+different sources of
+information’.
+Participants in that study also reported that even if they obtained formal legal
+advice, they did not rely on it, did not feel it
+was accessible, and overall
+formal advice was ranked fairly evenly in the participants’ minds with
+non-personalised but more
+accessible advice found
+participants greatly favoured personalised interactions over online sources, but
+again ranked formal sources such as advice
+lines similarly with the utility of
+speaking to friends and
+colleagues.
+III RESPONDING TO CIVIL JUSTICE NEEDS — FOUR WAVES
+OF ACCESS TO JUSTICE
+In early 2019 the New South Wales Government established an
+Justice Innovation Fund
+, seeking innovative solutions from not only legal
+professionals but ‘community groups, creative and digital agencies, and
+entrepreneurs’, to access to justice
+Similarly, the
+Victorian Legal Services Grants Program, which traditionally supported a range
+of programs designed to advance access
+to justice, focused its 2019 round on
+innovation and technology, funding technological solutions to access to justice
+problems impacting
+communities.
+However, even
+before the advent of technological solutions, governments have long sought
+mechanisms to overcome cost and other access
+In his magnum opus on access to justice, Cappelletti describes the evolution
+of these mechanisms as being like waves in the access
+The first wave,
+emerging in the 1960s, was the creation of legal aid schemes to allow litigants
+of limited financial means to access
+legal services. As Justice Ronald Sackville
+explains; in Australia it was not until mid-1970s that the Whitlam Government
+established
+the Australian Legal Aid Office, and established legal aid as a
+government concern, albeit one that was subsequently taken over by
+governments.
+The limitations of
+legal aid, however, are well documented — including an inevitable lack of
+adequate resources to provide access
+for all. At the time of the 2013
+Productivity Commission Report, only 8 per cent of households met the income and
+asset test for
+legal aid, ‘leaving the majority of low and middle-income
+earners with limited capacity for managing large and unexpected legal
+Cappelletti’s second wave reflects the paradox of many legal rights
+— that they are relatively low value, so as to make
+individual enforcement
+unlikely due to an inefficient use of resources. But at a societal level these
+disputes are significant and
+impact large numbers of people. This is known as
+the problem of ‘diffuse interests’:
+The basic problem they present — the reason for their diffuseness —
+is that either no one has a right to remedy the infringement
+of a collective
+interest or the stake of any one individual in remedying the infringement is too
+small to induce him or her to seek
+enforcement
+Consumer disputes represent a classic example of diffuse interests. As the
+Legal Need Study identified, they are routine transactions
+for most people, and
+are the most likely category of legal issue that people are likely to encounter,
+with over 20 per cent of the
+surveyed participants indicating that they had
+experienced a consumer issue in the last
+Further, the study notes,
+consumer disputes tend to more disproportionately impact those already
+experiencing socioeconomic disadvantage:
+‘[A]ge, disability status and
+education were the strongest significant predictors of experiencing consumer
+problems, and main
+language, employment status, family status, main income and
+gender were also
+significant’.
+The primary response of the justice system to the diffusion problem is to
+establish procedural rules to assist with procedural barriers
+to representing
+diffuse interests, such as modifying the civil procedure rules of standing, and
+facilitating the pursuit of rights
+that belong to a group rather than an
+individual. In Australia, these have included mechanisms for class actions,
+the use of ombudsmen,
+as well as allowing public interest matters to be pursued
+under the fiat of the Attorney-General as ‘guardian of the public
+interest’ in a process known as a relator
+The advantages but also
+the many shortcomings of both of these instruments are now well documented
+— in the case of a relator
+action, they are seldom used, and the giving of
+a fiat is a non-reviewable exercise of the Attorney-General’s discretion.
+Relator actions are idiosyncratic ... proceedings are conducted by counsel
+for the relator upon the undertaking that the relator will
+indemnify the
+Attorney-General against any cost order and that it will observe any limitation
+upon the submissions to be made. In
+law, the relator proceeding is treated as an
+action conducted and controlled by the Attorney-General rather than the
+Class actions in Australia have been the subject of an Australian Law Reform
+Commission inquiry in 2018.
+Final Report was critical of many aspects of class actions as they have evolved,
+including the involvement of litigation funders
+changing the dynamic of a class
+action and impacting the essential features of class action
+litigation.
+Ombudsmen should be considered the triumph of the ‘second wave’
+and the unsung heroes of the Australian civil justice
+system. The first
+ombudsman office was established in Western Australia in 1971, and by the end of
+the millennium had spread to 9
+different ombudsmen around the country, at both
+state and federal level.
+years on there are well over 20 ombudsmen, both publicly-funded and
+industry-funded, all with different remits and
+While the operation of
+each role is subject to its own policies and procedures, typically ombudsmen
+have investigative and reporting
+powers, and a civil dispute resolution mandate
+that will allow them to assist consumers with grievances against government
+departments
+or businesses under their jurisdiction. Resolution suggestions made
+by an ombudsman will typically be non-binding on the consumer
+but depending on
+the scheme may be binding rather than advisory for the business. Ombudsman
+schemes are a relatively low-cost method
+of offering access to justice for a
+high volume of consumer disputes — for example, the Telecommunications
+Ombudsman was established
+in 1993 as an independent organisation funded though
+compulsory contributions from telecommunications
+businesses.
+In 2017-2018, the
+Telecommunications Ombudsman processed over 160,000 complaints, primarily from
+residential customers, with a median
+complaint value of $429, and commenced over
+17,000 conciliations. Over two thirds of resolutions involved a financial
+some kind for the
+The ‘Third Wave’, at the time of Cappelletti and Garth’s
+writing, was emerging as new ways to ‘relate and
+adapt the civil process
+to the type of dispute’ and the recognition that ‘traditional
+contentious litigation in court
+... might not be the best possible way to
+provide effective vindication of
+In other words
+this third wave represented a shift of emphasis, acknowledging that courts
+should not necessarily be the dominant
+institutions for the resolution of civil
+disputes. Cappelletti and Garth emphasise the need for civil justice processes
+to be proportionate
+to what is required in an individual dispute; a concept that
+is now recognised in the litigation context in most Australian civil
+rules as the ‘overriding purpose’.
+This third wave has therefore seen not only an expansion of tribunals
+directed towards simplifying processes to reduce costs and the
+need for legal
+representation but, importantly, legislated support for mediation or
+conciliation as a precondition to adjudication
+of the issues. The
+Trader and Tenancy Tribunal Act
+(NSW) had an object of enabling
+proceedings to be determined in an ‘informal, expeditious and inexpensive
+Its successor,
+the New South Wales Civil and Administrative Tribunal, sought to ‘resolve
+the real issues in proceedings justly,
+Case management
+within the courts was also subject to the same imperative.
+Civil Procedure Act 2005
+(NSW) included provisions granting the courts
+broad discretionary powers to ‘facilitate the just, quick and cheap
+of the real issues in the
+proceedings’.
+The Act also
+directs courts to consider the proportional relationship between the
+‘importance and complexity of the subject-matter
+in dispute’ with
+the costs of the proceedings.
+The Uniform Civil Procedure Rules also contain extensive powers for courts to
+refer parties to external dispute resolution providers
+where it is considered
+appropriate. By doing so, the courts help to facilitate access to justice by
+diverting away cases not needing
+judicial attention and freeing court time for
+those cases where litigation is of real individual or systemic value.
+Since the time of Cappelletti and Garth’s original analysis, much has
+changed. This is due in large part to post-1970, third
+wave attempts to improve
+access to civil justice through the establishment of alternative dispute
+mechanisms that effectively sparked
+a movement towards use of technology. While
+Susskind focusses on the prospects for legal careers and the future nature of
+legal practice,
+his observations are equally relevant to the future of access to
+justice. We argue that the same factors identified by Susskind
+as precipitating
+an ‘evolve or perish’ imperative also represent a fourth wave of
+access to justice. Specifically, Susskind
+identifies that disruptive legal
+technologies can replace ‘mundane legal work’, that legal services
+will become unbundled
+and commoditised, and that ‘new ways of sourcing
+will emerge and these will often be combined in the conduct of individual
+of legal work’ known as
+‘multi-sourcing’.
+also points to legal consumers sharing and recycling legal work, and only
+sourcing bespoke advice when it is absolutely
+The flipside for
+access to justice is this — a diverse ecology of technologically-driven,
+primarily online service providers,
+both public and private, delivering legal
+services that no longer rely on costly individual human intervention. Some
+current manifestations
+of this fourth wave are set out in Part IV below.
+IV RIDING THE FOURTH WAVE — TECHNOLOGICAL CHANGE
+IN CIVIL JUSTICE
+In this section we set out a number of case studies to illustrate the scope
+of the fourth wave of access to justice. The field of
+legal technology has
+changed rapidly — for example, in a cutting edge symposium published in
+Harvard Journal of Law and Technology
+in 2012, technological advances
+of that time included court and legal aid websites (mostly text albeit with data
+management systems
+and standard classification technology behind
+mobile and search engine
+optimisation to make material more accessible, and an increasing focus on
+multimedia content. Other innovations
+at that time included remote assistance
+via live online chat or forums, and the emergence of interactive, question-based
+of court documents through technology such as A2J Author and
+self-validating smart forms.
+In a very short space of time, there has been a veritable explosion of new
+companies, initiatives and technologies, making a comprehensive
+impossible. Instead, our emphasis is on a survey of innovations that have the
+potential to greatly impact access to justice
+in civil disputes.
+Technological Advancements in Conventional Service
+This category of fourth wave initiative focusses on existing public service
+providers such as courts offering new ways of delivering
+conventional services.
+For example, in many jurisdictions e-Courts have become commonplace, as have
+electronic filing and online
+call-overs. Sourdin categorises this as
+‘supportive justice
+technology’.
+Other types
+of technology include audio-visual links, which help minimise attendance costs
+for some types of proceedings, and as
+a result in New South Wales over 70 per
+cent of court appearances now take place by video
+Electronic discovery and
+electronic data rooms have become commonplace in complex
+litigation.
+Technologies to Better Distribute Conventional Legal
+Information
+Perhaps the greatest promise of technology is its potential to democratise
+law by narrowing the gap between experts and non-experts
+and facilitating
+self-help. There is nothing new about the idea of websites and self-help centres
+providing user-friendly, free or
+low cost online tools like court forms, videos
+and legal information. In America, state-wide websites like LawHelp by Pro Bono
+were developed to specifically to address access to justice concerns in the
+wake of shrinking legal aid
+In Australia, a free
+domestic violence website, Ask LOIS, was launched by the Women’s Legal
+Service NSW in 2012.
+provides free legal online resources and information for issues relating to
+family law, divorce, and domestic and family
+violence. Some of the free
+educational tools include free online monthly workshops, a resource library,
+case studies and a domestic
+violence service
+Legal advice can also be provided in ‘kit’ form, where technology
+is largely used to disseminate free advice to a large
+audience — as
+opposed to the advice being delivered in a technological form per se. For
+example, a recent collaboration between
+The Law School at the University of
+Newcastle (UON), University of Technology Sydney (UTS) and the NSW State
+Government developed
+and launched an online first-in-class support kit to aid
+lawyers in identifying and combating elder
+This kit was distributed
+in soft copy (.pdf format) as well as paper copy.
+There is also a tendency to convert legal information into a standalone app.
+While there is a great deal of variation in the content
+of different apps, they
+all can be accessed directly from a user’s mobile phone or other device,
+avoiding the need to use a
+For example, Penda is a free app developed by the Women’s Legal Service
+Queensland (WLSQ) in collaboration with the Financial Rights Legal Centre with
+Funding from Financial Literacy Australia, to support
+victims of domestic family
+violence by providing free ‘financial, person safety and legal
+information’ along with nationwide
+Penda was launched
+with much fanfare at the Parliament House in 2017, with hopes that it will help
+break the cycle of domestic and
+Unbundled Generators of Legal
+Documentation
+The unbundled service model, which is a focus of Susskind’s
+disaggregates the steps in
+the lawyer-client relationship, allowing the possibility of clients completing
+part of the required work
+themselves, and greatly reducing the cost of pursuing
+their civil matter.
+wide variation on how unbundled services are delivered and enabled through
+technology. For example, it can allow potential
+litigants to seek general
+strategic advice, from a paid or pro bono service, but undertake drafting work
+themselves. Legal document
+generators such as LawHelp and A2J accelerate the
+production of legal documents and reduce the need for a lawyer to develop a full
+understanding of the client’s legal issues. The client can create their
+own legal document simply by filling in an online form.
+In Australia, the
+Consumer Action Law Centre assists potential litigants by using a guided form to
+generate a letter of complaint
+to the litigant’s financial services
+provider. The guided form also generates a letter of demand for a refund to
+target ‘sham’
+insurance companies that offer ineffective extended
+warranties.
+Technology often provides a tangible financial benefit for those seeking
+civil justice, particularly when recovery amounts outweigh
+legal fees. It can
+also lead to the client having the best of both worlds by remaining in control
+of their own legal matter at the
+same time as obtaining small discrete segments
+of legal representation when it is most needed. For example, as early as 2009,
+website LawHelp Interactive ‘generated more than 145,000 forms’
+for pro bono solicitors, legal aid advocates and self-represented
+individuals in
+the United States.
+services are also being segmented and ‘unbundled’ in technological
+offerings from specialists to law firms and
+in-house lawyers. The traditional
+focus has been on legal precedents and information, but new start-ups like the
+UK startup FromCounsel_,
+are focusing on using a greater level of AI to
+supplement expert legal counsel
+In Australia, legal services provider Plexus offers a subscription-based
+service called Promotion Wizard that allows companies running
+promotions to
+generate customised terms and conditions via an interactive module. In addition
+to generating terms and conditions,
+the service also generates documentation to
+apply for the correct state -or territory- based
+Plexus also has a
+partnership with the Victorian Department of Justice, creating rule based expert
+systems to help community lawyers
+process youth justice
+These services are based
+on branched decision making using automation
+This is generally seen
+as a precursor to genuine machine learning that many consider the foundation for
+In each of these examples, the end user is able to generate legal documents
+without requiring detailed knowledge of the relevant laws
+or needing to clearly
+understand how their individual situation correlates with the law. These
+technologies are reliant to varying
+degrees on the user understanding and
+correctly interpreting their situation, and inputting it correctly, meaning that
+threshold barriers for potential litigants to make use of the
+technology. While these services can be greatly empowering to some
+others who are on the wrong side of the ‘digital divide’ (discussed
+below) will struggle to benefit.
+Chat Bots, ‘Big Data’, and
+Artificial Intelligence-Driven Technology
+The advent of smart phones has also opened other opportunities for mobile
+apps to increase access to justice using
+AI is a broad category that
+can include natural language processing to answer questions (as in the
+technology, or Alexa, or Siri),
+several variants of machine learning, through to
+robotics. One of the most sophisticated examples of usable AI today is Google
+an intelligent voice activated assistant that can make phone calls and
+interact with callers at the other
+In the USA, the chatbot
+AI-powered legal counsel app, DoNotPay stands as the benchmark civil action
+legal app used to ‘sue
+anyone by pressing a
+Initially it was
+the brainchild of 18 year old Joshua Browder who created the app to tackle
+parking tickets.
+Today it claims
+to offer nationwide legal advice in the United States aimed at protecting
+individual rights against a range of corporate
+and state violations such as
+unfair pricing practices, breaches of data and privacy laws, and the issuance of
+unfair bank fees.
+The legal apps field is expected to develop rapidly. Examples include the
+JustFix.nyc app, which connects tenants with legal and support
+services when
+facing difficulties dealing with neglectful
+and the RightsNOW
+app, which is designed to provide real-time legal information by a verbal answer
+to a spoken question.
+the same way, the Google search function is being transformed by AI through
+automatic analysis of web content and machine
+AI is expected to play
+a growing role in these legal apps, although at the present time, much of what
+is touted as AI is not what
+consumers might expect, and some is more aptly
+described as marketing hype.
+The use of technology by government agencies, courts and tribunals can
+potentially reduce the cost of providing existing labour-intensive
+services, and
+allow savings to be diverted to provision of additional services to fill the
+access to justice gap. This increase in
+access to justice through technological
+efficiencies can be expected to grow significantly. However, it will not be
+without controversy,
+especially to the extent governments show increased
+reliance on use of algorithms, ‘big data’ and AI to assist in
+This will be
+discussed further below.
+Automation Platforms
+A final category of technological innovation is that of automation platforms,
+which provide services to institutions that advance
+access to justice, but
+typically do not engage in the provision of any legal services. Drupal is an
+open source content management
+platform that is used by a range of for-profit
+institutions. Drupal has led to the creation of DLaw, an open source code but
+subscription-based
+library for the creation of public information websites such
+as Legal Aid websites. The service increases the level of appeal of
+websites and
+enhances their useability for a range of users without the need for technical
+programming expertise, meaning that legal
+information providers with even a
+basic level of knowledge can increase access to legal information by providing
+mobile-friendly
+and disability-accessible
+information.
+An additional level of sophistication is offered by the Australian innovation
+Josef, an automation platform that is available to both
+law firms and pro-bono
+service providers and provides the tool for non-technologically minded lawyers
+to create chatbots. As the
+founders of Josef explain, ‘the builder allows
+any legal organisation or community legal centre to build their own chatbot
+based on their area of expertise and then once they’ve built they can
+launch it themselves without the need for a developer
+or any coding
+experience’.
+Complaints Assist is one example of a platform built using this technology. It
+was created and funded by a Melbourne-based
+health law firm and could be
+considered as a part pro-bono and part marketing
+V CORE CONSIDERATIONS FOR BETTER ACCESS TO JUSTICE
+The previous parts of this article have set out the possibilities that
+technology can offer to advance access to justice. In this
+Part we offer a
+critical examination of three important and distinct challenges that technology
+presents for the genuine advancement
+of access to justice. As indicated in the
+introduction above, it is widely accepted that access to justice encompasses
+both procedural
+and substantive justice — so it is not enough to offer
+more people the chance to seek redress in the civil justice system if
+results do not maintain a satisfactory level of integrity and accuracy.
+Conversely, accurate results from a technical perspective
+cannot be achieved if
+those results are achieved in an untimely way, at great expense, or in a way
+that is not accepted by society
+or consistent with human rights frameworks.
+With these goals in mind, we identify two key challenges that must be met in
+order to deliver access to justice imperatives —
+digital inclusivity and
+algorithmic justice. We then discuss two technological solutions that assist in
+facilitating this —
+black box tinkering and inclusive human-centred
+design. We set out each of these in turn below.
+Challenge 1: Digital Inclusivity
+Critics of legal technology often argue that proponents ignore challenges
+faced by users in adopting and adapting to legal tech innovations.
+barriers include cost, digital exclusion, and trust. The digital divide severely
+impacts the impact of technological solutions
+in communities where they are most
+needed. For example, older people, people with disabilities, indigenous people,
+people from lower
+socioeconomic communities, rural and remote communities, and
+people for whom English is a second language, represent both groups
+legal need but also the least capable of accessing digital services. Simply
+having access to a device or internet connection
+is also insufficient. There is
+a question of how more vulnerable groups have the time, language skills and even
+mental bandwidth
+to deal with complex information in a digital environment.
+Studies identifying the phenomenon referred to as ‘mental bandwidth’
+define it as ‘the amount of space available in one’s head for
+processing’.
+These studies
+have discovered that those living with high levels of financial stress or living
+in poverty show decreased ability
+to cognitively process additional or new
+information. As such, technological advancements must be those that take into
+consideration
+the sociological challenges faced by end users.
+In October 2018, the Law Council of Australia was commissioned by the
+Australian Human Rights Commission to produce recommendations
+to government,
+community and business on aspects relating to human rights and
+technology.
+In the Report titled
+Human Rights and Technology
+, the Law Council of Australia voiced
+concerns that ‘unequal access to technologies can exacerbate inequalities,
+where access is affected by factors such as socio-economic
+status, geographical location and cultural or linguistic
+diversity’.
+Perhaps the
+most telling comments were these:
+...technological innovations can affect societal inequality ...A key
+concern identified by Justice Project stakeholders was that
+policymakers
+frequently overlook the realities of target groups’ digital exclusion (and
+underlying language and literacy barriers),
+in their overreliance on online
+solutions at the expense of more effective and targeted
+strategies.
+Underlying this Report was the recognition that the voices of ‘target
+groups’ were being ignored. However, gathering data
+on key groups is
+problematic. For example, there is often limited information on the digital
+literacy of users of legal
+and the diverse needs
+of disabled users and non-neurotypical users is still poorly featured in
+technological developments.
+In response to this, research is starting to identify and track digital
+exclusion impacts on legal technology introductions and advances.
+exclusion relates to a group or an individual’s ability to access, use and
+interact with digital technology. Recognition
+that digital exclusion, literacy
+and accessibility is becoming a global concern is evidenced by the growth in
+global reports tracking
+digital exclusion — such as the Lloyds Bank UK
+Consumer Digital Index and the Australian Digital Inclusion Index, both of which
+seek to identify barriers to a user’s digital availability, affordability,
+relevance and readiness.
+In 2018, the Australian Digital Inclusion Index produced a Report
+Measuring Australia’s Digital Divide: The Australian
+Digital Inclusion Index
+In that Report, it was
+found that whilst Australia had made some inroads over the years, more work was
+They reported that the
+most digitally excluded groups included (in ascending order) ‘low income
+households (41.3), mobile-only
+users (42.7), people aged over 65+ (46.0), people
+who did not complete secondary school (47.4) and people with disability
+There were also substantial differences between rural and urban areas,
+particularly for Indigenous
+Australians.
+Other research has
+suggested that a lack of digital literacy skills can result in high levels of
+vulnerability within groups, including
+fundamental human rights concerns such as
+restrictions on the ability of members within these groups to vote and obtain
+gainful employment.
+Some aspects of digital inclusivity may improve over time. For example, the
+number of individuals with access to affordable internet
+continues to increase,
+as the price of devices and network access decreases. This allows technology to
+become more accessible to
+marginalised groups. However, care needs to be taken
+to ensure that these groups, already identified as being amongst the most likely
+to experience civil disputes significantly impacting their
+can locate, discriminate
+between, and apply information and advice that they require. Hough points out
+that online services have
+to be created in a variety of formats for individuals
+with differing technological abilities.
+Hough’s work also articulates the spectre of ‘a digital divide
+that institutionalizes a two-tiered system incapable of
+delivering appropriate
+justice to low-income
+There is an
+argument that mainstreaming of digital resources will allow this two-tiered
+system to emerge even more strongly as market
+forces impact the legal
+profession.
+As technological
+options expand, we can expect that the pool of lawyers providing face-to-face
+legal advice to clients will shrink
+due to forces of supply and demand. As the
+legal profession contracts, the digital divide will increase in the sense that
+well-connected and wealthy will retain access to human lawyers, with
+others relying on online information and potentially AI to meet
+Challenge 2: Algorithmic Bias and the Algorithmic Justice
+Algorithms provide the processes or rules to enable machine learning and
+Algorithms are often
+discussed in terms of their capabilities to detect online social or preference
+patterns, such as when viewers
+watch a YouTube video and similar or related
+videos are suggested on the
+Algorithms have also
+been used for facial recognition purposes ranging from opening an iPhone to
+judging a beauty contest.
+Algorithms are often viewed as an access to justice panacea. As it relates to
+legal practice, algorithms power AI developments to
+create ‘smart
+contracts’ based on block chain technology that are described as automated
+contingency contracts based
+on ‘“if-then”
+statement’.
+In Australia,
+smart contracts are a reality, having already come into use by companies like
+AgriDigital, who piloted the ‘world’s
+first ever sale using a pilot
+blockchain ledger and smart contract
+Algorithms have also been used to automate due diligence for property and
+merger and acquisition work. Recently Allens’ innovative
+award-winning
+Real Estate Due Diligence App (REDDA) used AI to simplify due diligence for real
+estate leases.
+This was heralded
+by the then Allens’ Chief Legal & Technology Services Officer Beth
+Patterson as providing ‘...real-time
+access to flagged issues, faster
+turnaround and greater efficiency in a large
+Given these
+developments are relatively new, there is currently little case law or
+legislation in place. However, commentators agree
+that like any other legal
+aspect, applicable laws will guide disputes arising from the use of smart
+contracts and due diligence
+Concerns often arise,
+however, as to which parties will straddle the cost and responsibility burden
+when algorithmic breakdowns occur.
+Regardless of the possible costs, often bias impacts on how technology
+delivers justice. Algorithmic Bias refers to situations when
+one group or
+individual is unfairly favoured or discriminated over another. A great example
+of bias relates to the case between Vishal
+Vora and online retailer eBay. In
+reported on a case filed in the United Kingdom by
+Vishal Vora against eBay concerning the company’s buyer return policy
+in 2013. Here, Vora claimed the return policy was biased against
+sellers, effectively encouraging increases in fraudulent
+Vora disclosed to the
+that that on two occasions involving the sale of a Baby Bjorn
+bouncer and an iPhone, eBay had automatically refunded buyers without
+assessment of claims, or evidence of
+In the case of the Baby
+Bjorn bouncer, Vora reported that he discovered evidence that the item was being
+used on social media despite
+claims otherwise by the buyer. This transpired to
+Vora who demanded the buyer return the item, only to have the buyer report him
+to the local police.
+result, Vora ultimately took the buyer to court, at a cost of £70, only to
+be awarded £65.
+Vora was able to settle out of court with eBay for an undisclosed amount for a
+refund involving the sale of the iPhone, the
+case of the Baby Bjorn bouncer
+highlights the perils of seeking civil remedies against
+individuals.
+Algorithmic Bias not only occurs when the rules that form part of an
+algorithm in technology are inherently biased. It can also occur
+technology ‘glitches’ or fails to perform the required rules
+resulting in a bias, or worse, when there is a
+combination of both scenarios. In
+Australia, the ‘Robodebt Scandal’ involving Centrelink’s
+automated computer system
+designed to detect welfare fraud, provides a possible
+example of the worst case scenario. In 2016, Centrelink developed and commenced
+use of a computer system that effectively sought to uncover welfare fraud and
+accidental overpayments by matching tax records to
+The benefit of the
+system was that it removed a layer of human oversight, instead automatically
+generating letters of demand to welfare
+recipients that included explanations
+for any discrepancy between tax records and welfare
+The efficiency of
+the system meant that Centrelink was able to detect and send letters in respect
+of 20,000 discrepancies a
+This far outweighed the
+old system where human oversight only identified some 20,000 discrepancies per
+However, there were problems both with the algorithm used and the sudden
+ramping up of number of discrepancies found. A Senate Committee
+Report found
+‘the system was so flawed that it was set up to
+algorithms used often falsely calculated debt as owing due to the averaging of
+taxable income over the year, instead of
+only reducing the amount of welfare
+payable at the times of the year the welfare recipient was earning more than the
+threshold amount.
+the sudden increase in debt letters resulted in millions of phone calls being
+unanswered as welfare recipients tried to
+alleged debt. Welfare recipients were therefore redirected to online resources
+that were not easily
+accessible or understandable to many people. It is
+therefore claimed some people paid the incorrect amount when they could properly
+have disputed it. Other people apparently had payments improperly stopped when
+they were unaware of the claim because the letter
+was sent to the wrong address,
+or when they were unable to speak to a staff member or understand the online
+resources they were redirected
+As the highly automated system continued, many alleged debts were sold to
+private debt collectors with the onus on the debtor to prove
+the amount of debt
+calculated. This was a highly problematic outcome for a vulnerable population
+with the debt recovery system going
+back over a six year period despite online
+departmental advice that welfare recipients were only required to keep records
+report found ‘this lack of procedural fairness disempowered people,
+causing emotional trauma, stress and
+The use of this
+automated process was strongly criticised for unfairly targeting a vulnerable
+segment of the population,
+well as breaching the Government’s model litigant policy by sending
+official demands for a debt based on a computer generated
+approximation instead
+of actual evidence.
+claims have resulted in the Victorian Legal Aid filing a test case in the
+Federal Court of Australia in February 2019, on behalf
+of Ms Masterton against
+the Department of Human Services, the regulatory body at the heart of the
+Robodebt Scandal.
+Similar scenarios concerning failed algorithms have been identified also in
+criminal justice contexts, involving the use of machine
+learning and AI to
+assist judges. In the United States, there has been controversy over use of the
+Correctional Offender Management
+Profiling for Alternative Sanctions
+(‘COMPAS’) sentencing tool that uses AI and machine learning to
+predict the chance
+recidivism.
+Another issue is
+the use of AI and data analysis for law enforcement. These criminal law examples
+are equally instructive for the
+civil justice context, where similar challenges
+arise. The use of this technology is growing rapidly but has largely escaped
+or political accountability to
+In NSW, for example, it
+was identified in the criminal law context that the algorithm used by law
+enforcement to select suspects
+was racially
+Only 3 per cent of
+the State’s population is Indigenous and yet despite this, of those chosen
+by the algorithm, more than 50
+per cent were Aboriginal or Torres Strait
+One problem with machine learning is that the exact basis for the
+decision-making by the computer is often unclear to human operators.
+creates a concern that rights to procedural fairness are breached because the
+algorithm on which the decision is made is not
+transparent.
+significant problem is concern about whether the decision-making is biased
+(perhaps due to machine learning from a biased
+this concern being
+compounded by the lack of transparency of the basis for the decision.
+The brief discussion above highlights the need for better oversight by the
+legal community into algorithmic process used in
+technology.
+In the State of the Profession Address to the NSW Young Lawyers in Sydney on 21
+September 2017, Justice Margaret Beazley commenced
+her speech by stating:
+It goes without saying that law is not and will not be immune from the influence
+of the algorithm. The challenge for the legal system
+in general and the legal
+profession in particular is, I am going to suggest, twofold. First, there is the
+question of how to keep
+up to date with new technologies. And secondly, there is
+the question of how best to use technology to serve our clients and further
+administration of justice. This second point is fundamental to the efficient and
+effective administration of the legal
+Justice Margaret Beazley observed that it was the duty of the legal system
+and legal practitioners to develop knowledge of emerging
+technology and not
+leave the development ‘in the hands of technology
+In other parts of the world, the University of Helsinki’s Legal Tech
+Lab stands at the forefront of discussing questions of
+algorithmic fairness and
+justice by design, considering how the architecture of technology must import
+concepts of access, justice
+and fairness. They encapsulate the problem of
+algorithmic justice in the following terms:
+It is not possible to understand automation bias simply from the perspective of
+legal scholarship, as this requires insight into
+how algorithms reflect
+structural biases of their training data and how such shortcomings could be
+avoided. For example, removing
+possibly discriminating factors is not sufficient
+and bias in the formal sense of computer science differs from the term’s
+socio-legal
+Avoiding algorithmic injustice is challenging, due largely to the
+inaccessible nature of technology for most non-experts. Desai and
+caution the use of ‘wild data,’ stating systems using public data
+will require ‘ongoing monitoring and
+evaluation’ to ensure models
+remain accurate. This warning comes in the wake of Microsoft’s failed
+Twitter chat-bot Tay.
+The benign system was initially designed with a teenage
+girl’s persona but quickly became racist and foul-mouthed when fed
+information from online
+In the legal tech
+sector, the 2016 Alameda County rolled out a new court case-management system,
+resulting in the wrongful arrest,
+imprisonment and forced registration as sex
+offenders of community
+Solution 1: Black Box Tinkering
+Desai and Kroll call for technical accountability and make a case to suggest
+that the creators of technology should make known or
+publish algorithms so they
+can be analysed.
+Perel and Elkin-Koren
+warn that transparency of algorithms is insufficient of itself to ensure
+accountability. Simply publishing a
+coded and mathematically complex algorithm
+is not enough to meet the information needs of non-experts. Similarly, the
+of input and output data would only serve to produce vast quantities
+of information which is uninterpretable and incapable of scrutiny
+majority of the
+Instead, Perel and
+Elkin-Koren propose a reverse engineering technique coined ‘Black Box
+Tinkering’, a method that would
+involve presenting an algorithm with
+different scenarios to reveal ‘the [inner] blueprints of its decision
+Unlike observational studies, Black Box Tinkering can reflect on more than
+just what is publicly disclosed, and also examine the practical
+workings of the
+algorithm. For example, a recent experiment using this tinkering method
+conducted by King, Pan, and Roberts on China’s
+political censorship on
+social media platforms revealed that social media content was utilised in over
+60 per cent of the sites under
+review. Consequently, the Chinese public now know
+their social media submissions are automatically targeted. This in turn allows
+the public to ‘demand that algorithmic systems comply with public
+interests such as due process, equal protection, and freedom
+expression’.
+However, Black Box Tinkering is unlikely to be suited to all types of AI, or to
+always provide the specificity needed for public
+confidence or procedural
+This is of a special concern for software used by the Government in
+decision-making that may raise questions about the integrity of
+Government’s processes. It is advised that software is programmed to
+allow for the evaluation of applicable guarantees.
+It should be clear to
+competent observers that ‘the evidence explain[s] both the goals of the
+system and the fact that it meets
+In the Australian context, the country’s Chief
+Scientist has proposed the creation of a certification mark — a so called
+‘Turing Stamp’ to indicate to consumers that a particular piece of
+technology uses algorithms that meet a benchmark level
+However, from a
+computer science perspective, any requirement that would allow humans to be
+completely satisfied of a transparent
+algorithm and ability of the system to
+clearly meet its goals is likely to place limitations on use of systems based on
+machine learning,
+where the nature of the decision making is typically not
+easily explainable in human terms. This restriction may therefore seem
+unfeasible,
+and a realist would expect that the development of new technology
+will continue to outpace the regulation of the new technology.
+Solution 2: Human-Centred Design: The Emergence of Legal
+It would be unthinkable to design a utilitarian object such as a chair
+without regard for the consumer, the end user for whom it is
+intended that the
+object will become a part of their daily lives. If the chair was intended to
+serve as a piece of assistive technology
+to help a physically frail person to
+stand up and sit down with greater ease, but the chair was actually more
+cumbersome to use than
+a regular chair, then it would be considered an
+outrageous failure. To those who approach the world from a design perspective,
+litigation would have to be considered an outrageous failure — while
+its expressed aim is to allow ordinary people to vindicate
+their rights, the
+system is designed to be used primarily by highly-skilled experts whose services
+are out of reach of the intended
+beneficiary of the system. There is thus a
+great deal of work to be done to ensure that the civil justice system is
+redesigned with
+the end user in mind.
+Margaret Hagan, from the Stanford Legal Design Lab, was one of the first to
+coin the term Legal Design. Hagan defines it as a user
+focused ideology viewed
+as a process, mindset and set of mechanics to achieve human-centred design:
+Legal Design is the application of human-centered design to the world of law, to
+make legal systems and services more human-centered,
+usable, and satisfying.
+Legal Design is a way of assessing and creating legal services, with a focus on
+how usable, useful, and engaging
+these services are. It is an approach with
+three main sets of resources — process, mindsets, and mechanics —
+professionals to use. These three resources can help us conceive,
+build, and test better ways of doing things in law, that will engage
+and empower
+both lay people and legal
+professionals.
+Technological innovation in the absence of Legal Design is fraught with
+Likewise, efforts to
+merely gather user-feedback in the absence of implementing a solution also have
+damaging implications,
+leaving users frustrated as they attempt to navigate accessing justice. However,
+for years, legal systems have struggled to properly
+break down barriers to
+justice using human-centred design tools readily available, instead relying
+heavily on legal practitioners
+and government agencies to speak on behalf of
+users. This has caused advocates of Legal Design to observe that ‘new
+legal technologies
+and services, whether aiming to help people expunge their
+criminal records or to get divorced in more cooperative ways, have not
+adopted by the general public. Instead, it is primarily lawyers who use
+Central to Legal Design is the mindset that users are key to innovating legal
+systems. This ideology fits with the basic access to
+justice tenets set out by
+the United Nations, where access to justice focuses on fulfilment of the rule of
+law, aimed at making the
+delivery of justice impartial and
+non-discriminatory.
+adopting that mindset, the Legal Design methodology becomes iterative involving
+‘five main steps: understanding, synthesis,
+brainstorming and prototyping,
+testing and refinement’, where technology is one of many tools to achieve
+User insights have unfortunately not been a central feature of civil justice
+innovation, and testing and refinement is often done
+by experts rather than end
+users. The time taken to elicit proper user insights will impact on user
+adoption. For instance, a satellite-connected
+legal kiosk project in Arizona
+Computers that Speak of the Law
+failed because the intended
+beneficiaries in Navajo and Hopi communities were not consulted in the process,
+resulting in the communities
+finding that the kiosks created for them were not
+sufficiently user friendly.
+This lesson is reinforced by Salter and Thompson who emphasise that technology
+needs to take into account users throughout the entire
+process. They observe
+generally speaking, one of the biggest challenges in designing a justice system
+around the public is the necessary shift in emphasis
+away from the needs of
+people who provide justice processes towards the people who use them. There
+needs to be a rebalancing between
+the interests and perceptions of the people
+who work in the justice system, and the public for whom they work. This
+rebalancing requires
+a break with
+As such, technology’s role in shaping solutions only plays a part when
+it can increase the effectiveness of user experience
+by simplifying, aiding or
+empowering the user to engage with the legal system. Alex Smith, the innovation
+manager of global law firm
+Reed Smith, was recently quoted saying:
+‘[w]hile tech is exciting, it’s important to map and redesign the
+system properly...
+The people and process driving the justice system are
+probably more important in such sensitive areas as any
+technology’.
+Legal Design is a new and exciting field for lawyers with an interest in
+access to justice. While it is still emerging as a distinct
+field of academic
+inquiry, Legal Design offers a structured method to encourage an iterative and
+user-focused process of law reform
+and innovation that allows for
+miscalculations and mistaken assumptions to be made and corrected before a
+purported solution is released
+to an end user. It offers the ability to
+integrate methods of information delivery that suit a range of users, for
+example through
+the integration of visual law. This allows for a greater
+understanding by ordinary people of their rights and obligations in contexts
+such as an employment
+A second advantage of Legal Design thinking is that it explicitly embraces
+interdisciplinary thinking; another aspect of innovation
+that has often been
+overlooked in many parts of the civil justice system. As Holloway states:
+...design thinking looks beyond the immediate boundaries of the problem to
+ensure the right question is being addressed. Using interdisciplinary
+design thinking incorporates diversity and leverages different paradigms and
+tool sets from each profession to analyze, synthesize,
+and generate insights and
+new ideas. The interdisciplinary nature of design thinking also ensures that
+innovations are naturally
+balanced between the technical, business, and human
+dimensions.
+The potential contribution of Legal Design to access to justice is only just
+starting to be realised. Yet, it is important to point
+out that technological
+innovation is not the only output of Legal Design, and in fact, a critical
+feature of Legal Design theory
+is that it cannot be started without the end user
+in mind. The process requires a genuine understanding of the end user(s),
+an emphasis on practitioners immersing themselves in that user’s
+world so they can design interventions based on end user perspectives,
+than from a pre-determined solution. Legal Design also requires practitioners to
+be comfortable with using creative means,
+as opposed to solely analytical means
+to solve difficult problems.
+VI CONCLUSION
+This article has painted a picture of the need for innovation in the civil
+justice context, pointing to the need for real and effective
+access to justice
+to meet the unmet legal need in Australia. It has then tracked some of the
+major trends in technological innovation,
+and the core questions that remain for
+using technology to achieve improved access to civil justice. Since the 1970s,
+various mechanisms
+have been deliberately introduced into the civil justice
+system to facilitate access to justice, with varying degrees of success.
+advent of low-cost legal technology will forever change the access to justice
+landscape. One major consequence is that reform
+is now no longer the sole domain
+of governments using legislation and policy-driven reform. Instead, private
+providers and those
+with a passion for change can themselves innovate, and they
+face relatively low entry barriers. For the first time in history,
+non-government
+actors can engage with civil justice issues and make a real
+difference to those whose lives or livelihoods are impacted by civil
+Those currently riding the fourth wave promote legal technology as a panacea at
+best and, at the very least, an objective-tool
+capable of offering simplified,
+cost effective access to civil justice.
+However, the decision to create and deploy legal technology to enhance access
+to justice always carries numerous design considerations,
+many of which are
+value-laden in relation to accessibility, digital exclusion, efficiency, cost,
+fairness and equity. It remains
+to be seen whether the current plethora of
+hackathons and seed grants designed to inspire next generation legal
+entrepreneurs will
+revolutionise the system, or instead create a bewildering
+array of disconnected and competing apps without overall addressing the
+complexity of the law and its processes.
+Three key points are worth reiterating for future policy and research. First,
+there is a mistaken assumption that digital exclusion
+and literacy divides are
+largely resolved, leading many to assume that technology can plug gaping pro
+bono gaps left from diminishing
+legal aid budgets. These assumptions need to be
+challenged with ongoing clear data – not just on the capacity of citizens
+access tools, but their ability to effectively use and understand them.
+The second challenge can be easily identified but less easily resolved
+— namely that enthusiasm for innovation can overshadow
+the complexities
+required to properly administer justice. Caution should not obstruct attempts to
+engage in these fourth wave reforms,
+but caution is certainly required. As the
+Australian Human Rights Commissioner Edward Santow has observed: at the same
+time the technology
+offers the promise of ‘foster[ing] inclusion and
+accessibility’, there are potential human rights
+implications.
+We argue that
+the way forward is vigilant and active engagement by legal actors from across
+the sector, supported by and supporting
+the broader community. It is essential
+that legal practitioners actively participate in the creation of legal
+technology, or at the
+very least, provide ongoing legal analysis and empirical
+research, making legal technology accountable to upholding sound legal doctrines
+and principles.
+Great care needs to be taken to ensure that algorithms are created in a
+socially responsible fashion, and do not to serve to entrench
+already existing
+prejudices and assumptions in the legal system, or trample on due process
+considerations. Koulu cautions that a
+failure to do this will cause algorithms
+to be yet an additional barrier to access to justice rather than a facilitator
+to justice.
+Similarly Justice Steven Rares observes:
+a system of justice is an institution for the redress of grievances. It can only
+command the respect of a society's members if they
+trust that it is an
+impartial, equal, transparent and principled system that gives effect to the
+rule of law.
+The third challenge is one of emphasis. It is important that technological
+innovation should not displace non-technological innovation,
+as the refinement
+and improvement of substantive and procedural laws is an ongoing task. Equally,
+it is imperative that broad stakeholder
+perspectives be incorporated into the
+development process — with none more important than those being impacted
+by the technology,
+or end users. In the past, the law has been accused of
+failing to listen to the voices of the most vulnerable, instead opting to
+consider policy-maker views over the end user. Failure to address end user and
+societal needs has come at a price from a literal
+cost and efficiency
+standpoint, and more importantly an access to justice stance; resulting in
+poorly devised systems being unapproachable,
+inaccessible or inherently biased.
+In this paper we suggest that approaches like Legal Design, which places an
+emphasis upon the end user, should be used as a plank
+for future legal
+technology. To date, Legal Design approaches are relatively nascent concepts for
+legal practice, education and research.
+Little exploratory research and even
+lesser empirical data exists to give guidance to legal practitioners,
+technological developers,
+academia and policy makers on Legal Design approaches,
+usage, applicability or effectiveness. They nonetheless offer a useful set
+precepts for thinking about legal innovation, and an important framework for
+keeping user needs and experience front and centre
+of reform processes.
+Likewise, more research and guidance is required to aid legal practitioners and
+educators on the necessary skills
+and capabilities required to develop a
+‘Legal Design’ mindset that places emphasis on experimentation.
+There is also
+the question of what other innovative approaches are being
+utilised in legal practices to achieve better access to civil justice
+and how these innovations are impacting on legal practice business models and
+the institutions what administer civil justice
+(such as courts and tribunals).
+These are just a few possible areas ripe for future exploration and testing to
+ensure that legal
+technology enhances and optimises access to civil justice.
+* Professor and Deputy Dean (Research), University of Newcastle Law
+** PhD candidate, University of Western Australia & Research Assistant,
+University of Newcastle.
+*** Student, University of Newcastle.
+**** Solicitor and Clinical Teacher, University of Newcastle.
+Hazel Genn, ‘What Is Civil Justice For? Reform, ADR, and
+Access to Justice’
+(2012) 24(1)
+Yale Journal of Law & the
+Mauro Cappelletti and Bryant
+Garth, ‘Access to Justice: The Newest Wave in the Worldwide Movement to
+Make Rights Effective’
+(1978) 27(2)
+Buffalo Law Review
+(‘The Newest Wave’).
+Richard Susskind,
+of Lawyers? Rethinking the Nature of Legal Services
+(Oxford University
+Press, 2010) ch 2.
+Shannon Salter and Darin
+Thompson, ‘Public-Centred Civil Justice Redesign: A Case Study of the
+British Columbia Civil Resolution
+Tribunal’ [2017] (3)
+McGill Journal
+of Dispute Resolution
+Lyria Bennett Moses and Janet
+Chan, ‘Algorithmic Prediction in Policing: Assumptions, Evaluation and
+Accountability’
+(2018) 28(7)
+Policing & Society
+Rebecca L Sandefur,
+‘Bridging the Gap: Rethinking Outreach for Greater Access to
+Justice’ (2015) 37(4)
+University of Arkansas at Little Rock Law
+Christine Coumarelos et al,
+Legal Australia-Wide Survey: Legal Need in Australia
+(Report No 7, 2012),
+cited in New South Wales Department of Justice, ‘Civil Justice Action
+Plan: Improving Access to Justice
+for Everyday Problems’ (December 2018)
+<https://www.justice.nsw.gov.au/lsb/Documents/LSB/civil-justice-action-plan.pdf>.
+Christine Coumarelos et al,
+Legal Australia-Wide Survey: Legal Need in Australia
+(Report No 7, 2012)
+Legal Need Study
+Australian Productivity
+Commission,
+Access to Justice Arrangemen
+ts (Inquiry Report No 72, 2014)
+Chief Justice Wayne Martin,
+‘Creating a Just Future by Improving Access to Justice’ (Address,
+Community Legal Centres
+Association Western Australia, 24 October 2012) 3.
+Australian Small Business
+and Family Enterprise Ombudsman,
+Access to Justice: Where do Small Businesses
+(Report, 2018) 21.
+Ibid at 15.
+Ibid at 17.
+Jonathan Crowe et al,
+‘“I’ll just Google that!” Online Searches and the
+Post-Separation Family Law Information
+Experience’ (2019) 44
+Alternative Law Journal
+Jonathan Crowe et al,
+‘Bargaining in the Shadow of the Folk Law: Expanding the Concept of the
+Shadow of the Law in Family
+Dispute Resolution’
+[2018] SydLawRw 12
+(2018) 40(3)
+‘A Civil Justice
+Action Plan for New South Wales: Factsheet — December 2018’,
+South Wales Department of Justice
+(Web Page, December 2018) 1
+<https://www.justice.nsw.gov.au/lsb/Documents/LSB/civil-justice-strategy-fact-sheet.pdf>.
+‘Victorian Legal
+Services Board Grants Program: 2019 Funding Round Open’,
+Legal Services Board
+(Web Page, 6 December 2018)
+http://lsbc.vic.gov.au/?p=6259
+Mauro Cappelletti,
+‘Alternative Dispute Resolution Processes within the Framework of the
+World-Wide Access-to-Justice Movement’
+(1993) 56(3)
+Justice Ronald Sackville,
+‘Some Thoughts on Access to Justice’
+(2004) 2(1)
+New Zealand
+Journal of Public and International Law
+Australian Productivity
+Commission 2014 (n 12).
+Cappelletti and Garth,
+‘The Newest Movement’ (n 2) 194.
+Legal Need Study
+Christos Mantziaris,
+‘The Federal Division of Public Interest Suits by an
+Attorney-General’
+[2004] AdelLawRw 10
+(2004) 25(2)
+Adelaide Law Review
+Australian Law Reform
+Commission,
+Integrity, Fairness and Efficiency — An Inquiry into Class
+Action Proceedings and Third-Party Litigation Funders
+(Report No 134,
+Ibid 153-177.
+Dennis Pearce,
+‘Ombudsmen in Australia’ in Rob Gregory and Philip Gidings (eds)
+Righting Wrongs: The Ombudsman in Six Continents
+(IOS Press, 2000) 93,
+See, eg, ‘Industry
+Ombudsmen & Dispute Resolution’,
+Australian Competition and
+Consumer Commission
+<https://www.accc.gov.au/contact-us/other-helpful-agencies/industry-ombudsmen-dispute-resolution>.
+‘About Us’,
+Telecommunications Industry Ombudsman
+<https://www.tio.com.au/about-us>.
+Telecommunications Industry
+Annual Report 2017-2018
+(Report, 2018) 14.
+Cappelletti and Garth,
+‘The Newest Movement’ (n 2) 225.
+Consumer, Trader and
+Tenancy Tribunal Act 2001
+, as repealed by
+Administrative Tribunal Act 2013
+Civil and Administrative
+Tribunal Act 2013
+Civil Procedure Act 2005
+Susskind (n 3)
+Jane Ribadeneyra,
+‘Web-Based Legal Services Delivery Capabilities’
+(2012) 26(1)
+Harvard Journal of Law & Technology
+Tania Sourdin,
+‘Justice in the Age of Technology: “The Rise of Machines is Upon
+[2017] (139)
+​ ‘$19.3 million
+technology boost for NSW Courts’,
+New South Wales Department of
+(Web Page, 26 June 2017)
+<https://www.justice.nsw.gov.au/Pages/media-news/media-releases/2017/technology-boost-for-nsw-courts.aspx>.
+See, eg, ‘Litigation
+using Electronic Discovery’,
+Federal Court of Australia
+http://www.fedcourt.gov.au/law-and-practice/practice-documents/practice-notes/gpn-tech/electronic-discovery
+Ribadeneyra (n 43).
+‘Ask LOIS’, Women’s Legal Service NSW (Web Page) <
+https://www.wlsnsw.org.au/training/ask-lois-website/
+Ben Murphy, ‘Legal
+toolkit launches to combat elder abuse’ (28 March 2019)
+20; ‘First-of-its-kind resource aids legal practitioners in
+identifying elder abuse’,
+The National Tribune
+(Web Page, 21 March
+<https://www.nationaltribune.com.au/first-of-its-kind-resource-aids-legal-practitioners-in-identifying-elder-abuse/>;
+‘First-of-its-kind resource aids legal practitioners in identifying elder
+University of Newcastle: Newsroom
+(Web Page, 20 March 2019)
+<https://www.newcastle.edu.au/newsroom/featured-news/first-of-its-kind-resource-aids-legal-practitioners-in-identifying-elder-abuse>.
+Women’s Legal
+Services QLD, ‘Penda App Launched at Parliament House,
+Page, 12 September 2017)
+<https://penda-app.com/2017/09/12/penda-app-now-available-for-download/>.
+Susskind (n 3).
+Brescia et al, ‘Embracing Disruption: How Technological
+Change in the Delivery of Legal Services Can Improve Access to Justice’ (2014
+15) 78(2) Albany Law Review 553, 564.
+See ‘Resources and
+Consumer Action Law Centre
+<https://consumeraction.org.au/resources-and-toolkits/>.
+‘About Us’,
+(Web Page) <https://www.lawhelp.org/about-us>.
+FromCounsel_
+<https://www.fromcounsel.com/product.html>.
+<https://www.plxs.com.au/promotion-wizard/>.
+Plexus Gateway
+<https://legalgateway.co/general/plexus-impact>.
+Andrew Mellett,
+‘Legal A.I.: High on Artificial, Low on Intelligence’
+(Web Page, 17 November 2017)
+<https://www.plxs.com.au/legal-a-i-high-on-artificial-low-on-intelligence/>.
+Lois R Lupica, Tobias A
+Franklin and Sage M Friedman, ‘The Apps for Justice Project: Employing
+Design Thinking to Narrow the
+Access to Justice Gap’
+(2017) 44(5)
+Fordham Urban Law Journal
+Jeffrey Grubb,
+‘Google Duplex: A.I. Assistant Calls Local Businesses To Make
+Appointments’ (YouTube, 8 May 2018)
+<https://www.youtube.com/watch?v=D5VN56jQMWM>.
+Jon Porter, ‘Robot
+lawyer DoNotPay now lets you “sue anyone” via an app’,
+(Web Page, 10 October 2018)
+<https://www.theverge.com/2018/10/10/17959874/donotpay-do-not-pay-robot-lawyer-ios-app-joshua-browder>.
+See ‘About Us’,
+justfix.nyc
+(Web Page) <https://www.justfix.nyc/our-mission>.
+<https://www.rightsnowapp.com/our-product>.
+Cade Metz, ‘AI is
+transforming Google Search. The rest of the web is next’,
+(News Article, 4 February 2016)
+<https://www.wired.com/2016/02/ai-is-changing-the-technology-behind-google-searches/>.
+Julia Dressel and Hany
+Farid, ‘The Accuracy, Fairness, and Limits of Predicting Recidivism’
+(2018) 4(1)
+Science Advances
+‘Websites’,
+OpenAdvocate
+(Web Page) <https://openadvocate.org/websites/>.
+George Nott, ‘Legal
+chatbot builder Josef making justice more accessible’,
+Computerworld
+(News Article, 7 June 2018)
+<https://www.computerworld.com.au/article/642083/legal-chatbot-builder-josef-making-justice-more-accessible/>.
+See ‘Reporting
+Healthcare Complaints’,
+Health Complaints Assist
+<https://healthcomplaintsassist.com.au/>.
+The term ‘mental
+bandwidth’ has been popularised in mainstream media and used loosely. It
+is, however, a technical term
+used in the field of psychology and sociology:
+see, eg, Avik Basu, Jason Duvall and Rachel Kaplan, ‘Attention Restoration
+Exploring the Role of Soft Fascination and Mental Bandwidth’
+Environment and Behaviour
+Law Council of Australia,
+Submission to Australian Human Rights Commission,
+Human Rights and Technology
+(25 October 2018).
+See Tania Sourdin and Naomi
+Burstyner, 'Justice Delayed Is Justice Denied' [2014] (4)
+Victoria University
+Law and Justice Journal
+46, 54–5; researchers have also found that in
+New South Wales, the court database, ‘JusticeLink’ did not even
+the number of self-represented litigants: Suzie Forell et al,
+Insights in Civil Justice: NSW Supreme Court
+(Report, October 2018) 13.
+Lloyds Bank UK Consumer Digital Index 2019
+(Report, 2019).
+Julian Thomas et al,
+Measuring Australia’s Digital Divide: The Australian Digital Inclusion
+(Report, 2018).
+Amy Antonio,
+‘Democratising the Digital Divide: Civics and Citizenship Curriculum,
+Australian Aboriginal Communities and Social
+(2013) 31(1)
+Social Educator
+Legal Need Study
+Bonnie Rose Hough,
+‘Let’s Not Make It Worse: Issues to Consider in Adopting New
+Technology’
+(2012) 26(1)
+Harvard Journal of Law & Technology
+See, eg, Mark Lloyd,
+‘The Digital Divide and Equal Access to Justice’
+(2002) 24(4)
+Hastings Communications and Entertainment Law Journal
+Nellie Bowles, ‘Human
+The New York Times
+(online, 23 March
+<https://www.nytimes.com/2019/03/23/sunday-review/human-contact-luxury-screens.html>
+An algorithm is defined as
+‘a procedure for solving a mathematical problem ... in a finite number of
+steps that frequently involves
+repetition of an operation ... commonly used
+nowadays for the set of rules a machine (and especially a computer) follows to
+a particular goal’:
+Merriam-Webster
+(online at 17 June
+2019) ‘algorithm’ (def 2).
+Amanda R Matos, ‘Can
+Algorithmic Justice Save Us From the Coming Artificial Intelligence
+Dystopia?’,
+Feministing
+(Web Page, 17 November 2017)
+http://feministing.com/2017/11/17/can-algorithmic-justice-save-us-from-the-coming-artificial-intelligence-dystopia/
+Sam Levin, ‘A beauty
+contest was judged by AI and the robots didn’t like dark skin’,
+The Guardian
+(online, 9 September 2016)
+<https://www.theguardian.com/technology/2016/sep/08/artificial-intelligence-beauty-contest-doesnt-like-black-people>.
+Michael Bacha, ‘Smart
+contracts in Australia: Just how clever are they?’,
+PiperAlderman
+(Web Publication, 16 August 2017)
+<https://www.piperalderman.com.au/publications/ip-technology-telecommunications/article/28836>.
+Levin (n 92); see also
+Allens Linklaters, ‘REDDA Recognised at PCA Awards’ (Media Release,
+14 May 2018).
+Allens Linklaters,
+‘REDDA Recognised at PCA Awards’ (Media Release, 14 May 2018).
+Bacha (n 94).
+Anna Timms,
+‘“Sitting duck” eBay sellers take a stand against the
+The Guardian
+(online, 13 January 2019)
+<https://www.theguardian.com/money/2019/jan/13/ebay-sellers-scams-buyer-protection
+Shalailah Medhora,
+‘Over 2000 people died after receiving Centrelink robo-debt notice,
+figures reveal’,
+ABC Triple J Hack
+(Web Page, 18 February 2019)
+<https://www.abc.net.au/triplej/programs/hack/2030-people-have-died-after-receiving-centrelink-robodebt-notice/10821272>;
+see also Anna Timms, ‘When eBay goes wrong, who pays the price?’,
+The Guardian
+(online, 17 February 2014)
+<https://www.theguardian.com/money/2014/feb/17/ebay-goes-wrong-debt-collectors>;
+Anna Timms, ‘eBay
+accused of failing its sellers as fraudulent buyers
+manipulate the system’,
+The Guardian
+(online, 21 May 2017) <
+https://www.theguardian.com/money/2017/may/21/ebay-accused-failing-sellers-buyers-manipulate-system-protection
+Shalailah Medhora,
+‘Over 2000 people died after receiving Centrelink robo-debt notice,
+figures reveal’,
+ABC Triple J Hack
+(Web Page, 18 February 2019)
+<https://www.abc.net.au/triplej/programs/hack/2030-people-have-died-after-receiving-centrelink-robodebt-notice/10821272>.
+Senate Standing
+Committee on Community Affairs, Parliament of Australia,
+Design, Scope,
+Cost-Benefit Analysis, Contracts Awarded and Implementation Associated With the
+Better Management of the Social Welfare
+System Initiative
+(Report, 21 June
+Medhora (n 104).
+Paul Karp and Christoper
+Knaus, ‘Centrelink robo-debt program accused of enforcing
+“illegal” debts’,
+The Guardian
+(online, 4 April 2018)
+<https://www.theguardian.com/australia-news/2018/apr/04/centrelink-robo-debt-program-accused-of-enforcing-illegal-debts>.
+Cameron Houston and
+Chris Vedelago, ‘Centrelink wipes “robo-debt” at centre of
+test case’,
+The Sydney Morning Herald
+(online, 5 May 2019)
+<https://www.smh.com.au/national/centrelink-wipes-robo-debt-at-centre-of-test-case-20190505-p51kac.html>.
+Dressel and Farid (n
+Andrew G Ferguson,
+‘Policing Predictive Policing’
+(2017) 94(5)
+Washington University
+Deven R Desai and Joshua
+A Kroll, ‘Trust but Verify: A Guide to Algorithms and the Law’
+(2017) 31(1)
+Harvard Journal of Law and Technology
+137 US 2290
+Osonde A Osoba and
+William Welser IV,
+An Intelligence in Our Image: The Risks of Bias and Errors
+in Artificial Intelligence
+(Report, 5 April 2017).
+Desai and Kroll (n
+Justice Margaret
+Beazley, ‘Law in the Age of the Algorithm’ (Address, State of the
+Profession New South Wales, 21 September
+2017) 1 [2].
+Ibid 2 [6].
+‘Legal Tech Lab:
+University of Helsinki Legal Tech Lab
+(Web Page, 13
+October 2018)
+<https://www.helsinki.fi/en/networks/legal-tech-lab/research>.
+Hannah Francis,
+‘Microsoft’s teenage chatbot, Tay, turns into a racist, abusive
+The Sydney Morning Herald
+(online, 25 March 2016)
+<https://www.smh.com.au/technology/microsofts-teenage-chatbot-tay-turns-into-a-racist-abusive-troll-20160325-gnqvro.html>.
+Margaret Hagan,
+‘Participatory Design for Innovation in Access to Justice’ (2019)
+120, 121 (‘Participatory Design’).
+Maayan Perel and Niva
+Elkin-Koren, ‘Black Box Tinkering: Beyond Disclosure in Algorithmic
+Enforcement
+(2017) 69(1)
+Florida Law
+Desai and Kroll (n
+Alan Finkel, ‘What
+will it take for us to trust AI?’,
+World Economic Forum
+Article, 12 May 2018)
+<https://www.weforum.org/agenda/2018/05/alan-finkel-turing-certificate-ai-trust-robot/
+Margaret Hagan,
+(Open Law Lab, 2017) (
+Law by Design
+Hagan, 'Participatory
+Design' (n 125).
+Julia Perry et al,
+Access to Justice Roundtable: Proceedings of a Workshop July 2002
+(Report, 2002).
+‘Participatory Design’ (n 125) 120.
+United Nations and the Rule of Law
+<https://www.un.org/ruleoflaw/thematic-areas/access-to-justice-and-rule-of-law-institutions/access-to-justice/>.
+Salter and Thompson (n
+Jonathan Ames,
+‘Technology is driving force of legal shake-up’,
+(Web Page, 19 February 2015)
+<https://www.raconteur.net/risk-management/technology-is-driving-force-of-legal-shake-up>
+in Magda Ibrahim, ‘How technology is granting public access to
+justice’ (Web Page, 30 November 2018)
+<https://www.raconteur.net/risk-management/technology-public-access-justice>.
+Comic Book Contracts
+<https://www.comicbookcontracts.com/>.
+Matthew Holloway,
+‘How Tangible is Your Strategy? How Design Thinking Can Turn Your Strategy
+Into Reality’ (2009) 30(2–3)
+Journal of Business Strategy
+Edward Santow,
+‘Putting Human Values into the Machine’
+(2018) 27(3)
+Human Rights
+Riikka Koulu, Lila
+Kaillo and Jenni Hakkarainen,
+Law and Digitalization: An Agenda for the
+(Report No 1, May 2017) 7.
+Justice Steven Rares,
+‘Is Access to Justice a Right or a Service?’ (Speech, Access to
+Justice: Taking the Next Steps
+Symposium, 26 June 2015).
+Print (pretty)
+Print (eco-friendly)
+RTF format (419 KB)
+PDF format (0.992 MB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

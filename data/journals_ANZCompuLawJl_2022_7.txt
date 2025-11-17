@@ -1,0 +1,894 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/ANZCompuLawJl/2022/7.html
+Scraped: 2025-11-17 14:13:53
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Pistorius, Tana; Jordaan, Juan-Jacques --- "Whose Data is it Anyway? Copyright Protection of Databases and Big Data through the Looking Glass" [2022] ANZCompuLawJl 7; (2022) 94 Computers & Law, Article 7
+I INTRODUCTION
+II WHO OWNS BIG DATA?
+A Big Data as an Asset
+B Datasets as Training Data
+III COPYRIGHT PROTECTION OF DATABASES
+A Originality
+B Authorship
+C Sui Generis Database Right
+IV THE DATABASE PROBLEM
+V CONCLUDING REMARKS
+WHOSE DATA IS IT ANYWAY?
+BIG DATA THROUGH THE LOOKING GLASS
+TANA PISTORIUS
+AND JUAN-JACQUES
+This paper addresses a number of copyright issues that arise in relation to
+the protection of data and databases in the data economy.
+The paper questions
+the copyrightability and the ownership of aspects of Big Data. A related issue
+is the nature and scope of the
+a common-law perspective. Is the recognition of computer-generated works in
+Africa and New Zealand helpful in navigating copyright protection of
+collections of data in the data economy? The lawful processing
+of personal
+information also gives raise to several new copyright issues. The paper
+addresses the nature of data subject participation
+rights and consumer data
+rights and their impact on the copyright protection of databases. For example,
+where data subject participation
+rights allow data subjects, under certain
+circumstances, to reach over the proverbial database-ownership copyright wall
+the database owner to remove or amend personal information, it may
+have the effect of amending the original work. It is questioned
+whether new
+legislation in the EU, which seeks to protect the public interest while
+promoting private enterprise, should be adopted
+Australasia.
+INTRODUCTION
+Technological advancement has for ever changed the protection and value of
+data, datasets and databases. What was previously known
+as the ‘database
+problem’ has been compounded by the EU’s
+Data Governance Act
+. What used to be known as the
+OWNS BIG DATA?
+Data as an Asset
+Businesses have come to realise the value of their data and are beginning to
+treat it as an asset in itself and a means of creating
+As businesses merge and
+split, the data these businesses possess, is considered to have economic value
+that form part of the businesses’
+Mergers and business
+takeovers are essential aspects of business and the economy and they affect many
+stakeholders, including those
+falling within the scope of various
+regulators.
+Businesses’ needs, which are essential to driving and developing the
+modern data economy, encompass access to and the use of
+The protection of the
+intellectual property that vests in these databases and datasets is of
+increasing importance. The ownership
+of data, datasets and databases, however,
+must be balanced against the data subjects’ right to privacy which
+includes not having
+their personal information exploited. Ultimately,
+data-protection principles are conceptually and practically a fine balancing act
+between individual rights, societal values, national security and economic
+efficiencies, among other
+considerations.
+The ownership of Big Data
+asset and its valuation is a topic of considerable discussion and
+bargaining.
+It has also been argued
+that the universal principle of property ownership should extend to virtual
+property, which exists only electronically:
+so-called virtual property
+By extension, this would
+mean that any creation of Big Data made by computers and existing only in
+electronic format should be recognised
+as a form of property. The World Economic
+Forum has even suggested that personal information in itself is a new asset
+will require new interpretations regarding the individuals to whom
+the information relates.
+therefore remains to be seen whether Big Data will be classed as an asset or
+whether the data subjects’ rights will trump
+such ownership.
+This exploitation of data brings up the debate about who owns Big Data, or
+rather segments of Big Data, and therefore who is permitted
+to exploit the data
+contained in them. The debate about copyright ownership of Big Data is far from
+over, especially considering
+the rapid speed of technological development and
+economic progress which is dependent upon this data.
+Datasets as Training
+The recent proliferation of bots that scrape datasets for the development of
+artificial neural networks (more commonly known as artificial
+intelligence (AI))
+applications highlights the copyright issues related to the use of copyright
+works as training
+includes copyright works whereas the developers are
+in favour of a license-less
+Besides the question of the copyright ownership of databases, one may
+question whether it is possible to have ownership and control
+information and data.
+recognition of consumers’ rights in data generated by connected devices,
+discussed below, has compounded the issues.
+The current position regarding raw data is to view a database as a storage
+space which is capable of ownership; but the data contained
+in the database is
+not owned or capable of being possessed without a legal
+foundation,
+such as copyright or
+data-protection laws that explicitly provide for such ownership or possession.
+It must be borne in mind that
+a vast part of the Big Data can comprise or at
+least include personal
+information
+and that this may
+have an effect on the legalities applying to a database.
+From a copyright point of view, Big Data ownership is hampered if the
+legislation compounds the meaningful ownership of that
+and therefore reduces the
+commodity value of the Big Data. In reality, the very purpose of using Big Data
+to identify trends and
+persons through the analysis of data may create a
+situation where raw data becomes personally
+identifiable.
+This element of
+identifiability in Big Data would lead to such data falling within the scope and
+under the scrutiny of data-protection
+again making ownership
+protection difficult or impossible. Organisations that aggregate data generally
+assume that they hold the
+rights to the data they possess and, as such, have the
+right to analyse it and exploit the results or findings of their
+Similarly, some
+organisations that exploit datasets for the purpose of machine learning also
+operate under those assumptions. Hugh
+Stephens has pointed to the fact that some
+AI developers belong to the ‘better to ask for forgiveness after rather
+than permission
+before’ school of
+It is not clear-cut whether the exploitation of datasets as data training
+falls under the data mining exception under EU
+The Digital Single Market
+Directive defines text and data mining in article 2(2) as ‘any automated
+analytical technique aimed
+at analysing text and data in digital form in order
+to generate information which includes but is not limited to patterns, trends
+and correlations’.
+Although one could argue that the use of training data to create AI
+applications involve the analysis of data in order to recognise
+patterns which
+are then applied to parameters of the AI, the fact that a black box approach is
+used in AI applications obscures the
+The data mining
+exceptions and limitations have neither been adopted in the copyright law of
+Australia nor in New Zealand. This certainly
+casts a longer shadow on the
+lawfulness of the unlicensed use of copyright works as training data.
+Despite the economic and copyright ownership and infringement debates, the
+reality is that data already exists as a
+Baron notes that in
+the use of databases, a database owner could exploit the economic potential of
+the data if the database contents
+could be effectively structured in a manner in
+which the owner could claim ownership of both the
+and the information
+contained in it.
+PROTECTION OF DATABASES
+Originality
+an electronic or digital format from which data or information
+may be accessed,
+reproduced or retracted. Databases are generally protected in terms of copyright
+law in the same manner as literary
+works. In South Africa the
+provides the definition of a ‘‘literary work’’,
+which includes tables and compilations, including tables
+and compilations of
+data stored or embodied in a computer or a medium used in conjunction with a
+computer, but shall not include
+The definitions of ‘tables’ and
+‘compilations’
+include Big Data databases. Data and datasets, as would be the case in Big Data
+Africa as ‘literary
+works’, with the requirement of originality being the determining factor
+for qualification in respect
+or in this case, the data
+or the dataset.
+Some jurisdictions such as New Zealand and South Africa, still infuse the
+originality requirement with skill and labour as opposed
+to creative input
+– also known as the the 'sweat -of-the-brow' approach to database
+protection.
+In New Zealand
+courts held that skill, judgment or
+or effort, skill and
+were sufficient to impart
+originality to the works.
+Haupt t/a Softcopy v Brewers Marketing Intelligence (Pty)
+Streicher JA
+confirmed that, because the South African
+originated from
+the English law, creativity is not a requirement for copyright protection. The
+court then confirmed the test for
+originality in South African copyright law is:
+‘Save where specifically provided otherwise, a work is considered to be
+if it has not been copied from an existing source and if its production
+required a substantial (or not trivial) degree of skill,
+judgement or
+This low threshold for originality suffices and neither a higher standard nor
+any level of creativity is required. For example, a
+directory of telefax
+a catalogue and a price
+and an electronic
+qualified for copyright
+protection. Dean
+submits that
+the skill and labour which go into the compilation must be such that the
+compilation cannot simply be regarded as a
+copy of existing subject-matter, but
+rather as a work that contains features and qualities absent in the material
+form from which
+it was initially composed.
+The arrangement and selection of data are critical components pertinent to
+the originality requirement for the protection of databases.
+However, the
+selection aspect may be removed where a database is too comprehensive, with the
+result that very complex databases will
+protection.
+The digital
+embodiment of electronic databases meet the other intrinsic requirement for
+embodiment requirement. It must be
+noted, however, that the copyright protection of a database does not extend to
+the raw data contained
+in the database.
+The question of human authorship is important as Big Data often exist of
+machine-generated data. Guadamuz notes that creative works
+qualify for copyright
+protection if they are original, with most definitions of originality requiring
+a human author. Most jurisdictions,
+including Spain and Germany, state that only
+works created by a human author can be protected by
+There are two ways in which copyright law can deal with works where human
+interaction is minimal or non-existent. It can either deny
+for works that have been generated by a computer or it can attribute authorship
+of such works to the creator
+of the computer-generated work. In the United
+States, for example, the Copyright Office has declared that it will
+an original work of authorship, provided that the work was
+created by a human being.’ This stance flows from case
+which specifies that
+‘are founded in the creative
+powers of the mind.’
+In Europe the Court of Justice of the European Union has also declared on
+various occasions, particularly in its landmark
+that copyright only
+applies to original works, and that originality must reflect the
+‘author’s own intellectual creation.’
+This is usually
+understood as meaning that an original work must reflect the author’s
+personality, which clearly means that
+a human author is necessary for a
+Similarly, in an Australian
+a court declared that
+source codes were not original because they were generated by a computer, not
+written by a human author or
+by joint authors. Shortly, a work generated with
+the intervention of a computer could not be protected by copyright because it
+not produced by a human.
+The second option, that of giving authorship to the programmer, is evident in
+a few countries such as India, Ireland, New Zealand
+and the UK. This approach is
+best encapsulated in UK copyright law, section 9(3) of the Copyright, Designs
+and Patents Act (CDPA),
+which states: ‘In the case of a literary,
+dramatic, musical or artistic work which is computer-generated, the author shall
+be taken to be the person by whom the arrangements necessary for the creation of
+the work are undertaken.’
+Furthermore, section 178 of the
+defines a computer-generated work as one that ‘is generated by computer in
+circumstances such that there is no human author
+of the work’. The idea
+behind such a provision is to create an exception to all human authorship
+requirements by recognizing
+the work that goes into creating a program capable
+of generating works, even if the creative spark is undertaken by the
+Sui Generis Database
+In Europe, the
+EU Database
+deals with the
+matter of databases under copyright law and also provides database creators with
+sui generis
+right to databases. The European Union adopted a novel
+approach in the
+after nearly eight
+years of deliberation. The Directive provides a two-tier form of protection. It
+strives to create a harmonised
+level of copyright protection for
+A novel ‘sui
+generis’ right to protect investments in databases was also
+introduced.
+Both rights differ
+in terms of requirements for protection, duration of rights, scope of
+protection, the exceptions or limitations
+that apply and the determination of
+the right holders (both natural and
+extends copyright protection to databases that
+constitute ‘the author's own intellectual creation’ -- databases
+evidence some measure of ‘originality’ or
+‘creativity’ on the part of the
+Article 5 states that
+compilations of data or other material, in any form, which by reason of the
+selection or arrangement of their
+contents constitute intellectual creations,
+are protected as such.
+When, from a qualitative or quantitative perspective, a substantial
+investment has been shown to be made in a database, its makers
+may claim a right
+European legislation
+therefore provides some protection for the contents of
+which would also
+apply to the protection of Big Data databases.
+THE DATABASE
+Big Data is premised on the collection of as much raw data as
+In order to create a
+commodity, private ownership of data must be possible. Technological advances
+have facilitated the creation
+of big databases which are becoming more efficient
+and valuable. These databases often consist of vast collections of personal
+information.
+In such cases, their creation has raised questions about data
+subjects’ rights to participate and to oversee or control the
+which their data is being used in these databases – a phenomenon which has
+become known as the ‘database
+As society and businesses have developed, novel and previously unimaginable
+threats to privacy have emerged. These include data matching,
+where different
+sets of unrelated data are compared using a common denominator to match records;
+profiling, where historical information
+or records are used to create a profile
+of knowledge,
+harvesting or the use of bots to scrape data and datasets from websites and
+other online repositories of data. Given these
+developments, it may be argued
+that data subject participation rights is a mechanism to guard against these
+modern harms.
+Data subject participation
+provided for in data
+protection legislation are akin to giving data subjects a right of control over
+their personal information.
+A data subject has a
+prima facie
+exercise such rights over a database controlled and owned by a responsible
+party, simply because the data subject’s
+personal information is contained
+in that database. In effect, they are exercising a right over someone else's
+By way of example, where the data subject requests a database owner (i.e. a
+responsible party) to remove or modify their personal
+information contained in a
+this will have the
+effect of forcing the database owner to amend its intellectual property at the
+instruction of the data subject.
+This would then lead to the question if one may
+argue that the data subject granted an implied licence to the database owner to
+the data subject’s personal information in the database.
+Consequently, a database may soon only be considered a collection of licensed
+information that can be protected through contractual
+agreements with data
+subjects. These data subject participation
+allow the data subject,
+in certain circumstances, to reach over the proverbial database-ownership
+owner to remove or amend their personal
+information.
+In the case of a large data processor, for example one of the tech giants,
+the negative possibilities are considerable, especially
+if all users
+simultaneously request that their personal information be removed. Before data
+protection legislation was enacted, it
+would have been challenging, if not
+near-impossible, for data subjects to unilaterally change the content of a
+third-party database
+owner’s database.
+A dramatic shift has taken place in the EU regarding the ownership and use of
+Big Data. In February 2022, the
+was proposed to promote
+the sharing of data, particularly data generated by the use of connected objects
+and the Internet of Things,
+between companies (B2B) and consumers
+who can use what data
+, and under
+also enhances consumer
+protection by allowing users to control their data generated by digital
+technologies and to transfer it to
+third parties. This has a positive impact on
+competition in the digital markets as it curbs the data power of entrenched tech
+creates legal certainty, for both consumers and
+businesses, around access to data generated by products and
+Data Governance
+sets out a framework for
+data intermediation service providers (DISPs). Data intermediation services are
+defined in the Act as services
+which aim to establish commercial relationships
+between data subjects and data holders on the one hand and data users on the
+for the purposes of data sharing through technical, legal, or other
+means, such as infrastructure, platforms, or
+Data Governance Act
+crucial pillars of the European Strategy for
+Data Governance
+entered into force on 23 June 2022 and, following a 15-month grace
+period, will be applicable from September 2023. The
+Data Act Proposal
+adopted by the European Parliament on 14 March 2023, and it must still be
+approved by the European Council. These new instruments
+aim to create market
+fairness in the allocation of the value created by data. DISPs manage commercial
+relationships between data
+subjects and data holders on the one hand and data
+users on the other, for the purposes of data sharing.
+As noted above, the
+Data Governance Act
+form part of a European strategy for data. The
+covers both personal and non-personal data (as opposed to the GDPR
+which relates to personal data only) so both apply to mixed data.
+Act Proposal
+strengthens the
+and existing rights and obligations
+remains unaffected. It has been noted that the
+also strengthens data portability and gives users the right to
+access and port both personal and non-personal
+Data Governance
+Data Act Proposal
+complement each other as the former
+sets out rules for data intermediaries and data altruism and the
+clarifies the rules related to the creation of value from
+The commodification of information has been firmly entrenched in the European
+Union. Provision is made for consumers’ ‘personal
+spaces’. Furthermore, provision has been made in the
+Data Governance
+for the creation of ‘e-wallets’ to secure consumers’
+personal data. This will also have a ripple effect and will
+compound the
+In summary, the question of data ownership has become more pertinent than
+ever before. This is due, firstly, to the fact that much
+of the data being
+stored in huge databases are created and owned by a few dominant tech giants.
+Secondly, the use of training data
+and the proliferation of data scraping
+techniques have become prominent due to the rise in AI applications. The
+regulation of personal
+information, consumer data and machine generated data
+have become important building blocks of the European data economy. The
+environment in Europe will enable organisations to move beyond
+surveillance capitalism to data capitalism. In short, to innovate
+through data.
+To the exploit data for profit.
+The copyright protection of databases continues to play an important role.
+The same underlying policy objectives that support the
+protection of literary
+works also underlie the protection of databases, a species of literary works,
+especially in jurisdictions
+that have a low threshold of originality. However,
+these assumptions should be questioned as far as the copyright protection of
+Big Data is not a unique form of data, but simply vast amounts of data which
+is difficult to process using traditional data-processing
+methods. Big data is
+immensely valuable to the data economy. With data processors using novel and
+unique technologies to process
+this Big Data and performing a vast amount of
+work on the data, the question of the ownership, from an intellectual property
+perspective,
+arises, but it is one that remains unclear and unsettled. This is
+something that the regulators would have to consider in dealing
+with updated
+proprietary forms of protection for data and databases in the future.
+As the law currently stands, Big Data as such is not regulated in most
+information
+contained in Big Data – are regulated to ensure the personal information
+of identifiable individuals are processed
+lawfully. The regulation of data is
+therefore based on the content of a database and not on a database as a system.
+This position
+has been described as a flawed basis for the protection of
+personally identifiable
+information.
+This is especially
+true if we consider the vast economic significance of consumer data.
+EU Database Directive
+deals with databases both as a copyright
+work and as a
+sui generis
+right, whereas New Zealand and South Africa
+view databases as literary works to be protected under traditional copyright
+EU Database Directive
+excludes, with good reason, single source
+illustrate that the
+anti-competitive manner to lock
+out competitors. It submitted that the
+underlying policy objective of copyright law is not being served where the
+extensive protection
+afforded to the owners of electronic databases are used in
+a manner that deter competition. This is especially true where a database
+sole source of information. Copyright protection may act as a barrier to
+competitors especially where such a database has
+become an industry norm or
+where it is the single source of information; and it functions akin to an
+essential facility. In these
+circumstances it can be argued copyright abuse
+rears its ugly head.
+It may be argued that a
+sui generis
+right of ownership exists in
+respect of any personal information belonging to the data subject. The data
+subject may license such
+personal information to the responsible party, which
+licence is subject to revocation at any time if no other legitimate reason for
+retention or use exists. The definition of property is changing, but the
+question remains if the definition of property could be
+expanded to include a
+data subject's digital identity and thus provide for the concomitant protection
+of such property. With the
+increase in cybercrime, specifically that focused on
+identity theft, it is these authors’ view that if identity is something
+that can be stolen, and therefore something that must be capable of ownership,
+it should be granted a
+sui generis
+right to its protection.
+In respect of licensing considerations, many of the global social media
+networks license the use of their databases to third parties
+for a fee, but
+without consideration being given to the rights of the data subjects that
+provided the data. We question whether data
+subjects’ rights to their own
+data are being overridden by unilateral terms of use, and what that means for
+the ownership debate.
+Almost two decades ago writers have suggested that new
+legislation which protect the public interest while promoting private enterprise
+should be adopted; secondly that databases should be removed from the ambit of
+It was argued
+that such legislative approach would allow for the commercialisation of rights
+in information property and simultaneously
+require government oversight due to
+the dangers inherent in allowing vast collections of data to be commercially
+As society races into the future creating and collecting ever more data, the
+need for data-protection laws has become abundantly clear.
+However, while
+adequately protecting the interests of data subjects, these laws must not stand
+in the way of technological
+Whether this is done
+in the form of providing a
+right of ownership to
+protecting databases remains
+to be seen. What is certain is that existing laws
+do not apply to Big Data with ease.
+Specific laws could be created to deal with the ownership of Big Data. A case
+in point is the holistic approach in the EU through
+Data Act Proposal
+Data Governance Act
+Collectively, these instruments provide innovative solutions that form a
+legislative framework for the promotion of the growth of
+the EU data economy. We
+are of the opinion that the debate over the ownership of data has not been
+adequately explained or justified
+beyond Europe. The issues concerning the
+ownership of data requires much more exploration and analysis in
+Australasia.
+In essence, the world is a borderless place where the free flow of data
+between countries is commonplace and the quest for data is
+the ultimate goal.
+What is needed appears to be a global shared framework based on principles or
+conditions for the protection of
+data. In 2008 one author naively noted the
+following regarding the protection of information with reference to the database
+Policy considerations underlying the regulation of access to information and
+access to knowledge should be heeded. It can never been
+seriously proposed that
+information itself should be protected (except by the law regarding trade
+There is a long-standing principle that copyright should not
+be extended to cover basic information or “raw” data. However,
+evidenced by the ECJ’s differentiation between the “creation”
+of data and its
+demonstrate, the “sui generis”
+right comes precariously close to protecting basic
+information.
+With the benefit of hindsight it is clear that their assumptions about the
+value of data were naive. It is clear that technological
+advancement has for
+ever changed the landscape of database protection and our preconceived notions
+Professor and Head of
+Department of Commercial Law, The University of Auckland.
+Legal Practitioner,
+Durban, Kwa-Zulu Natal. This article is partially based on Juan-Jacques Jordaan
+Legal Implications for the Processing of Big Data – a South African
+Perspective
+(LLM dissertation, University of South Africa, 2020). Funding
+through the SARChI Chair (South African Department of Science and Technology)
+acknowledged.
+Ira Rubinstein ‘Big Data:
+The End of Privacy or a New Beginning?’ [2013]
+International Data
+Jacques B Stander ‘The
+Modern Asset: Big Data and Information Valuation’ (MSc thesis,
+Stellenbosch University, 2015) 132.
+MAL Phakeng ‘Deal
+Protection Measures in Takeovers and Mergers: Break Fees’ (2018) 39(2)
+A ‘dataset’ is
+defined as a particular collection of data, gathered for a purpose. See
+‘Introduction to data’,
+Data.govt.nz
+(Web Page, 23 April
+2021) <https://www.data.govt.nz/toolkit/intro-to-data/>.
+O Tene and J Polonetsky J
+‘Judged by the Tin Man: Individual Rights in the Age of Big Data’
+Journal of Telecommunications and High Technology Law
+Big Data is the information
+asset characterised by such a high volume, velocity and variety to require
+specific technology and analytical
+methods for its transformation into value.
+‘’See Andrea De Mauro, Marco Greco and Michele Grimaldi ‘A
+formal definition
+of Big Data based on its essential features’ (2016) 65
+Library Review
+Stander (n 2) 2.
+Wien Erlank
+‘Don’t touch My Virtual Property: Justifications for the Recognition
+of Virtual Property’ (2016)
+South African Law Journal
+World Economic Forum
+Personal Data: The Emergence of a New Asset Class
+(Initiative, January
+Jan Bernd Nordemann and Jonathan Pukas
+‘Copyright exceptions for AI training data—will there be an
+international level
+playing field?’ (2022) 17(12)
+Intellectual Property Law & Practice
+973, 973 where the authors note:
+‘Music AI relies on audio recordings protected by the copyrights of the
+composers and the
+neighbouring rights of the performing artists and record
+producers’. Recently two copyright infringement cases were filed in
+United States District Courts for the Northern District of California and the
+District Court for the District of Delaware respectively
+related to the use of
+Stability AI Ltd
+(D Cal, Case no 3:23-cv-00201, 13 January 2023) and
+Getty Images (US) Inc v Stability AI Inc
+(D Del, Case no 1:23-cv-00135, 3
+February 2023).
+Stuart Dredge ‘UK
+government rethinks plans for AI-training copyright exception’,
+(News, 2 February 2023)
+<https://musically.com/2023/02/02/uk-government-rethinks-plans-for-ai-training-copyright-exception/>.
+MN Njotini ‘Evaluating
+the Position of Information or Data in the Law of Property’ (2015) 26(1)
+Stellenbosch Law Review
+Protection of
+Personal Information Act 2013
+(South Africa) (
+) section 8 sv
+‘Personal Information’.
+Xavier Seuba, Christophe
+Geiger and Julien Pénin (eds)
+Intellectual Property and Digital Trade
+in the Age of Artificial Intelligence and Big Data
+(CEIPI/ICTSD Publications
+Series Issue 5, June 2018) 71.
+Paul Ohm ‘Broken
+Promises of Privacy: Responding to the Surprising Failure of
+Anonymization’
+UCLA Law Review
+, 1701; Moira Paterson
+and Maeve McDonagh ‘Data protection in an era of big government: the
+challenges posed by big personal
+data’ (2018) 44
+Monash Law Review
+1, 1; K Krasnow Waterman and Paula J Bruening ‘Big Data analytics: risks
+and responsibilities’ (2014) 4
+International Data Privacy Law
+Yvonne Mcdermott
+‘Conceptualising the right to data protection in an era of Big Data’
+Big Data and Society
+1, 4; See also Seuba, Geiger and
+Pénin (n 15) 71.
+Marcus R Wigan M and Roger
+Clarke ‘Big Data's Big Unintended Consequences’ (2013) 46
+Hugh Stephens ‘Will
+the Year of the Rabbit be the Year of Contentious Copyright Litigation over
+AI-Generated Content?’
+Hugh Stephens Blog
+(Blog, 1 February 2023)
+<https://hughstephensblog.net/2023/02/01/will-the-year-of-the-rabbit-be-the-year-of-contentious-copyright-litigation-over-ai-generated-content/>.
+Nordemann and Pukas, above n
+Herbert Zech
+Tradeable Commodity – Implications for Contract Law
+(Edward Elgar,
+2017) 1; P Baron ‘Databases and the commodification of information’
+(2002) 49(1)
+Journal of the Copyright Society of the USA
+Baron, above n 22, 144.
+(South Africa) section 1(1)(g) of the sv ‘literary work’.
+David Rüther
+‘Government Data and Copyright Protection in South Africa’ [2015]
+South African Intellectual Property Law Journal
+Waterlow Publishers
+The Times 8 Dec 1989;
+Waterlow Publishers Ltd v Reed
+Information Services Ltd
+The Times 11 Oct 1990 as quoted by Morton
+‘Draft EC Directive on the Protection of Electronic Databases: Comfort
+After Feist’
+Computer Law & Practice
+38, 39; Cornish
+‘1996 European Community Directive on Database Protection’
+(1996-1997) 21
+Columbia VLA Journal of Law & the Arts
+Labroke (Football) Ltd v
+William Hill (Football) Ltd
+[1964] 1 All ER 465 (HL).
+Bleiman v News Media
+(Auckland) Ltd
+[1994] 2 NZLR 673 (CA).
+Haupt t/a Softcopy v Brewers
+Marketing Intelligence (Pty) Ltd 2006 (4) SA 458 (Supreme Court of Appeal).
+Haupt t/a Softcopy v Brewers
+Marketing Intelligence (Pty) Ltd, above n 30, 473A–B.
+Fax Directories (Pty) Ltd v
+SA Fax Listings CC
+1990 (2) SA 164 (Local
+Payen Components SA Ltd v
+Bovic CC and Others
+[1995] ZASCA 57
+1995 (4) SA 441 (Appellate
+Haupt t/a Softcopy v
+Brewers Marketing Intelligence (Pty) Ltd
+above n 30.
+OH Dean Handbook of South
+African Copyright Law (Juta, 1987), 1-8A.
+A Roos ‘Data Privacy
+Law’ in DP Van der Merwe (ed)
+Information and Communications Technology
+(LexisNexis, 3rd ed, 2022) 363, 361.
+Andres Guadamuz
+‘Artificial intelligence and copyright’
+WIPO Magazine
+(Article, October 2017)
+<https://www.wipo.int/wipo_magazine/en/2017/05/article_0003.html>.
+Feist Publications v
+Rural Telephone Service Company Inc,
+[1991] USSC 50
+Infopaq International A/S
+v Danske Dagbaldes Forening
+[2009] ECR I-06569.
+Acohs Pty Ltd v Ucorp Pty
+[2012] FCAFC 16.
+EU Directive 96/
+Directive 96/9/EC
+of the European Parliament and of the Council of 11
+March 1996 on the legal protection of databases,
+OJ 1996 L77/20
+See Articles 3-5 of the
+See Articles 7, 10 and 11 of
+See Articles 6, 8, 9 and 15
+See recital 15 and art 3(1)
+Article 7(7) of the
+Julia Johnson
+‘Database Protection a Reality? How the Professional and Fantasy Sporting
+World Could Benefit from a sui generis
+Intellectual Property Right’ (2015)
+) Intellectual Property Journal
+Joseph Jerome ‘Buying
+and Selling Privacy: Big Data’s Different Burdens and Benefits’
+Stanford Law Review Online
+Neil M Richards
+‘Reconciling Data Privacy and the First Amendment’
+Anneliese Roos The law of
+data (privacy) protection: a comparative and theoretical study (LLD Thesis,
+University of South Africa,
+Sections 23–25 of
+articles 12-23 of the
+2016/679 of the European Parliament and of the Council of 27
+April 2016 on the protection of natural persons with regard to the processing
+personal data and on the free movement of such data, and repealing Directive
+95/46/EC (‘
+See articles 16-17, article
+; see also section 24 of
+Relevant data subject
+participation rights contained in the
+include the right to
+rectification (section 16), the right to erasure (section 17), the right to
+restrict processing (section 18)
+and the right to data portability (section 20);
+See also sections 23–25 of
+For example through the
+right to erasure (‘right to be forgotten’) in terms of article 17 of
+Proposal for a Regulation
+on harmonised rules on fair access to and use of data
+[2022] COM 68 final.
+‘European strategy for
+data: the CNIL and its counterparts comment on the Data Governance Act and the
+National Commission on Informatics and
+Liberty (Web Page,
+13 July 2022)
+<https://www.cnil.fr/en/european-strategy-data-cnil-and-its-counterparts-comment-data-governance-act-and-data-act>.
+Pascal D König
+‘Fortress Europe 4.0? An analysis of EU data governance through the lens
+of the resource regime concept’
+(2022) 8(4)
+European Policy
+Regulation (EU) 2022/868
+on European data governance and amending Regulation 2018/1724 (Data Governance
+[2022] OJ L 152/1.
+Article 10.
+Francesco Vogelezang
+‘The Data Act: five implications for the Datasphere’
+(Article, 22 August 2022)
+<https://www.thedatasphere.org/news/the-data-act-five-implications-for-the-datasphere/>.
+Blanca Escribano and
+Sofía Fontanals ‘The Data Act: new EU rules for data sharing’
+EY Spain (Article, 8 November
+<https://www.ey.com/en_es/law/the-data-act-new-eu-rules-for-data-sharing>.
+Paul Ohm ‘The Broken
+Promises of Privacy: Responding to the Surprising Failure of
+Anonymisation’
+UCLA Law Review
+Board of Healthcare
+Funders v Discovery Life; Discovery Health (Pty) Ltd and the Council for Medical
+(Unreported decision case number 35769/2011 Local Division decision
+dated 2 May 2012);
+Transunion Auto Information Solutions (Pty) Limited V
+Autobid (Pty) Limited
+, (Unreported decision case number 6494/2011 Provincial
+Division decision dated 14 March 2012).
+Jacqueline Lipton
+‘Balancing Private Rights and Public Policies: Reconceptualizing Property
+in Databases’
+(2003) 18(3)
+Berkeley Technology Law Journal
+Asunción Esteve
+‘The Business of Personal Data: Google, Facebook, and Privacy Issues in
+the EU and the USA’ (2017)
+International Data Privacy Law
+Václav Janeček
+‘Ownership of Personal Data in the Internet of Things’ (2018) 34(5)
+Computer Law and Security Review
+1039, 1052.
+Tana Pistorius ‘The IP
+protection of electronic databases: copyright or copywrong?’ in H Venter,
+M Eloff, J Eloff and
+L Labuschagne (eds) ‘Proceedings of the ISSA 2008
+Innovative Minds Conference’ (ISSA Pretoria, 2008).
+Pistorius, above n 71, 12;
+See also Stone and Kernick ‘Protecting Databases: Copyright? We
+don’t Need No Stinkin' Copyright’
+The Computer
+Lawyer 17; Fieldhouse and Bolton ‘Copyright? Wrong! – Copyright
+protection of computer programs as literary works’
+22, 25; H Sun ‘Copyright law under siege: An inquiry into the
+legitimacy of copyright protection in the context of the global
+International Review of Industrial Property and Copyright Law
+; Tana Pistorius ‘Copyright in the Information Age: The Catch-22 of
+Digital Technology’ (2006) 2
+Critical Arts
+47, 54; Michael J
+Bastian ‘Protection of 'Noncreative' Databases: Harmonization of United
+States, foreign and international
+law’ (1999) 22
+Boston College
+Environmental Affairs Law Review
+425, 426; Lionel M Lavenue ‘Database
+rights and technical data rights: the expansion of intellectual property for the
+of databases’ (1997) 38
+Santa Clara Law Review
+Christopher Kuner and others
+‘The (Data Privacy) Law hasn’t even checked in when Technology takes
+off’ (2014) 4
+International Data Privacy Law
+Print (pretty)
+Print (eco-friendly)
+RTF format (263 KB)
+PDF format (298 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

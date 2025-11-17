@@ -1,0 +1,357 @@
+Multicard: Own motion investigation report [2014] AICmrCN 2 (1 May 2014)
+Multicard: Own motion investigation report
+[2014] AICmrCN 2
+(1 May 2014)
+Timothy Pilgrim, Australian Privacy Commissioner
+11 February 2013, the Office of the Australian Information Commissioner (OAIC)
+opened an own motion investigation into Multicard
+Pty Ltd (Multicard). This was
+in response to information received from the Office of Transport Security (OTS)
+that personal information
+of a large number of Multicard applicants was publicly
+accessible online.
+The Commissioner’s investigation focused on whether Multicard took
+reasonable steps to protect customer information from misuse
+and loss and from
+unauthorised access, modification or
+disclosure.
+After considering the facts of the case, submissions from Multicard and the
+relevant provisions of the
+(Privacy Act),
+the Commissioner came to the view that Multicard had breached the
+failing to take reasonable steps to secure the personal information it held. The
+Commissioner also found that Multicard had unlawfully
+disclosed personal
+information.
+16 January 2013, the OAIC received information from OTS that personal
+information collected by Multicard for the purpose of assessing
+and granting
+applications for a Maritime Security Identity Card (MSIC; the MSIC information)
+had been made publicly accessible online
+(the data breach).
+The following elements led to the data breach:
+Multicard stored
+information about MSIC applicants in a folder labeled ‘uploads’
+(uploads folder) on a publicly accessible
+web server.
+Multicard stored
+the MSIC information in randomly named sub-folders in the uploads folder.
+incorrectly configured the MSIC website to allow directory browsing, including
+of the uploads folder and its sub-folders.
+Multicard did
+not configure its website to request search robots not to index the parts of the
+MSIC website that were not intended
+to be publicly accessible, including the
+uploads folder and its sub-folders.
+Google indexed
+the uploads folder on and from 23 September 2012, making photos of MSIC
+applicants and other information discoverable
+via Google search between 23
+September 2012 and 16 January 2013 (when Multicard responded to the
+The data breach resulted in the following personal
+information about MISC applicants being made publicly accessible online:
+8,865 first and
+8,791 dates of
+7,342 addresses
+8,147 AusCheck
+5,542 partial
+credit card numbers and expiry dates
+reference numbers
+photographs.
+information was accessed and downloaded in its entirety by at least one
+unidentified unauthorised third party.
+Relevant provisions of the
+From 21 December 2001 to 11 March 2014, organisations
+covered by the
+were required to comply with the ten National Privacy
+Principles (NPPs), contained in Schedule 3 of the
+The NPPs applied to the
+handling of ‘personal information’, which the
+information or an opinion (including information or an opinion forming part
+of a database), whether true or not, and whether recorded
+in a material form or
+not, about an individual whose identity is apparent, or can reasonably be
+ascertained, from the information
+or opinion.
+applies to all private sector organisations with an annual
+turnover of more than $3 million and some small businesses. Relevantly,
+business with an annual turnover of less than $3 million that trades in personal
+information will be covered by the
+. Multicard is subject to the
+and, at the time of the data breach, was subject to the NPPs.
+NPP 4 (Data security) and NPP 2 (Use and disclosure) are the
+provisions relevant to this incident. In particular:
+NPP 4.1 required
+organisations to take reasonable steps to protect the personal information they
+hold from misuse and loss and from
+unauthorised access, modification or
+disclosure, and
+NPP 2.1 provided
+that an organisation may only use or disclose personal information for the
+primary purpose of collection, unless
+an exception
+Security of personal information (NPP 4.1)
+assessing whether Multicard took reasonable steps to comply with NPP 4.1, the
+Commissioner considered information from Multicard
+in place relating to the MISC information contained in the uploads folder, and
+what steps would have
+been reasonable in the circumstances to protect the
+personal information held. The Commissioner also had regard to the guidance set
+out in the OAIC’s
+Guide to information
+Multicard stated that prior to the data breach, it had taken the following
+measures to protect the breached data:
+access to the MSIC website (which included the uploads folder) to authorised and
+authenticated users
+obscured file
+names with random data, to ensure they were not guessable, and
+implemented
+Secure Socket Layer (SSL) security.
+Restricted access to the MSIC website
+stated that access to the MSIC website was restricted to authenticated users.
+However, the Commissioner found that this
+was not the case. Access to the
+uploads folder was not restricted to authorised users; Multicard allowed access
+to the uploads folder
+without requiring a password, username or other
+authenticator to establish the identity of the user. As a result, the MSIC
+information
+was able to be accessed by unauthorised third parties, including
+The Commissioner noted that restricting access to non-public content is a
+basic security step to protect information hosted on web
+servers. Restricting
+access to authorised and authenticated users of the uploads folder would have
+prevented access to the MSIC information
+by unauthorised third parties,
+including search robots.
+File names and directory browsing
+Multicard’s
+security steps included storing the MISC information in randomly named
+sub-folders within the uploads folder. Multicard
+stated that the intention was
+that an unauthorised third party would not be able to guess the sub-folder
+names, and so would not
+be able to locate the MSIC information.
+Multicard indicated that prior to the data breach, directory browsing was
+inadvertently enabled on its web servers. Enabling directory
+browsing caused the
+web server to automatically generate an index page listing all files in the
+uploads folder. This negated any
+need for unauthorised third parties to guess
+sub-folder names in order to discover the MSIC information, and thus eliminated
+security value of implementing ‘non-guessable’ sub-folder names.
+In the absence of other security measures such as access
+restrictions (see
+above), this allowed search robots to access and index the uploads folder. The
+indexing of the uploads folder by
+Google facilitated discoverability of the MSIC
+information.
+The Commissioner noted that disabling directory browsing is a standard
+security step available when configuring web servers, and a
+fundamental security step when hosting content not intended for public access.
+Secure Socket Layer (SSL)
+advised that prior to the breach, it had secured its website using SSL, and that
+access [to the MSIC website] was unable
+to occur without
+However, during the course of the investigation, the Commissioner found that
+access to the uploads folder did not require authentication,
+and that SSL was
+not implemented on that part of the MSIC website.
+The Commissioner noted
+that using cryptographic protocols such as SSL may in some circumstances be a
+reasonable step to secure information
+while it is being transmitted over the
+internet. However, the end point of the transmission must also be secure. This
+securely transmitting information to an insecure location will not
+produce a reasonable security outcome.
+Appropriate instructions to search robots
+Commissioner found the indexing of the upload folder by Google indicated that
+Multicard did not configure its website to request
+GoogleBot (via the robots.txt file) not to index, archive or cache the uploads
+Configuring websites to provide appropriate instructions to search robots is
+a basic element of website security. Had Multicard configured
+its website
+appropriately it would have prevented the indexing of the uploads folder by
+GoogleBot. This would have significantly
+limited the discoverability of the
+uploads folder, and may have prevented access by unauthorised third parties.
+NPP 4.1 conclusion - whether reasonable steps were taken to secure the personal
+information
+Commissioner found that Multicard failed to implement a number of basic website
+security measures which would have been reasonable
+in the circumstances to
+protect the personal information contained in the upload folder, including:
+restricting
+access to the uploads folder to authorised and authenticated users
+directory browsing, and
+configuring its website to request search robots not to index the uploads
+Therefore, the Commissioner found that Multicard contravened
+NPP 4.1 by failing to take reasonable security steps to protect the personal
+information it held from misuse and loss and from unauthorised access,
+modification or disclosure.
+Disclosure of personal information (NPP 2.1)
+part of the investigation, the Commissioner considered whether there had been a
+breach of NPP 2.1 in relation to the publication
+of the MISC information online
+by Multicard. NPP 2.1 regulates the use and disclosure of personal information
+and states that organisations
+may only use or disclose personal information for
+the primary purpose of collection, unless an exception applies.
+In general terms, an organisation ‘discloses’
+information when it releases information, whether purposely or accidentally, to
+others outside the organisation.
+The Commissioner found that:
+Multicard made
+the uploads folder publicly accessible online, and
+the personal
+information contained in the uploads folder was accessed and acquired by
+unauthorised third parties.
+Accordingly, the Commissioner found that
+Multicard had ‘disclosed’ the MSIC information within the meaning of
+The primary purpose for the collection of the MSIC information was to enable
+Multicard to process applications for and issue MSICs.
+Multicard advised that
+the MSIC information was made accessible as the result of a ‘configuration
+error’. The Commissioner
+found that the purpose for that disclosure was
+not related to the primary purpose of the collection of the information, or a
+permissible
+secondary purpose.
+Accordingly, the Commissioner found that the online public accessibility of
+the MSIC information was a disclosure in breach of NPP
+Rectification
+Commissioner found that the steps that Multicard took to contain the breach were
+appropriate. After being notified of the breach,
+Multicard temporarily disabled
+the MSIC website, restricted access to the uploads folder, and requested Google
+to clear all relevant
+However, the Commissioner expressed concerns about the sufficiency of
+Multicard’s initial internal investigation into the breach
+(see below).
+During the course of the investigation, Multicard took or committed to a
+number of steps to prevent further breaches. In June 2013,
+Multicard advised the
+Commissioner that it had taken the following steps:
+directory browsing as a default on all its web servers.
+Implemented
+access controls so that the MSIC information can only be accessed by authorised
+Implemented an
+automatic alert notification system to inform the Multicard system administrator
+of unusual or anomalous traffic on
+the Multicard website.
+also advised that it was in the process of separating its public website and the
+MISC system onto separate servers, with
+the MISC system available only to
+authenticated users, and subject to higher security.
+In January 2014, Multicard advised that it had undertaken additional
+remediation steps, including:
+extensive website scanning, penetration testing and remediation over the course
+of September 2013 – January 2014
+establishing
+regular website security scans
+undertaking a
+major corporate restructure to increase levels of control, and
+engaging an
+Australian-based privacy consultancy firm to guide Multicard in responding to
+the data breach, including mitigating any
+harm to affected
+individuals.
+Multicard will also take the following steps:
+Commission an
+external privacy/security auditor to conduct an independent audit of
+Multicard’s information holdings and security
+systems, including the steps
+already taken to rectify and improve security (independent auditor).
+Put in place
+policies and frameworks to guide the regular conduct of audits of
+Multicard’s IT security framework.
+Develop and
+implement a data breach response plan.
+Increase privacy
+awareness amongst Multicard staff by providing privacy training, especially in
+relation to the reforms to the
+that came into force on 12 March
+Recommendations
+the Commissioner found that Multicard’s immediate response to contain the
+data breach was adequate, the Commissioner expressed
+concern that
+Multicard’s initial internal investigation into the breach, and the pace
+of that investigation, was insufficient.
+In particular, the Commissioner noted
+that Multicard’s communications with the OAIC suggested that Multicard did
+understand its obligations under the
+. Further, Multicard
+did not demonstrate to the OAIC that its investigation addressed major questions
+regarding the breach, even after
+they were raised by the OAIC. Multicard took
+almost 12 months to provide clear information on the personal information that
+was compromised
+by the data breach, and the number of individuals affected.
+However, the Commissioner noted that, in December 2013, Multicard significantly
+changed its attitude to the investigation, taking a more positive and
+cooperative approach.
+The Commissioner also expressed concern that Multicard did not appropriately
+investigate who and why third parties downloaded or otherwise
+accessed the
+uploads folder. This information would have informed Multicard’s risk
+assessment of the breach and facilitated
+the mitigation of that risk.
+The Commissioner recommended that Multicard undertake this investigation as
+part of finalising its rectification steps, and that it
+provide the OAIC with a
+copy of its final investigation report.
+The Commissioner has requested that the independent auditor engaged by
+Multicard certify Multicard has implemented the planned remediation
+provide to the OAIC the certification and a copy of the independent
+auditor’s report on Multicard’s information
+holdings and security
+systems by 30 June 2014. This will help ensure that Multicard is well placed to
+comply with its obligations
+, including the Australian
+Commissioner found that Multicard:
+failed to take
+reasonable steps to ensure the security of the personal information that it
+held, in contravention of NPP 4.1, and
+personal information other than for a permitted purpose, in contravention of NPP
+Multicard acted appropriately to contain the data breach by
+immediately disabling its website and restricting access.
+However, the Commissioner was concerned that Multicard’s initial
+internal investigation did not address major questions regarding
+the breach and
+did not respond to the OAIC’s requests in a timely fashion.
+Since the data breach, Multicard has taken a number of steps to improve its
+information security and is in the process of addressing
+many of the
+OAIC’s recommendations.
+Based on the information from Multicard about its remediation of the data
+breach, and Multicard’s ongoing implementation of
+recommendations made by
+the OAIC, the Commissioner decided to close the investigation.
+Acronyms and abbreviations
+Commissioner
+— Australian Privacy Commissioner
+NPPs — National Privacy Principles (contained in Schedule 3 of the
+OAIC — Office of the Australian Information Commissioner
+As required under National
+On 12 March 2014, the NPPs
+were replaced by the Australian Privacy Principles:
+www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles
+www.oaic.gov.au/privacy/privacy-resources/privacy-guides/guide-to-information-security
+https://support.google.com/webmasters/answer/182072?hl=en
+SSL is a cryptographic
+protocol that can be used to encrypt data transmitted over the internet, to
+protect the security of that
+information in transit. See, for example,
+http://technet.microsoft.com/en-us/library/cc784450%28v=ws.10%29.aspx
+‘Robots.txt’ is a
+request-based string which search engines comply with voluntarily, and the
+Commissioner noted that
+most search engines comply with
+‘robots.txt’, including Google, Bing, and Yahoo! Together, these
+comprise the vast majority
+of search engine market share in Australia (over 98%
+at the time of the data breach – see Michael David, Internetrix Research,
+www.internetrix.com.au/assets/Research-Papers/SEO-FINAL-White-Paper-web.pdf
+1 May 2013).
+RTF format (222 KB)
+Signed PDF/A format

@@ -1,0 +1,966 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/LawTechHum/2025/9.html
+Scraped: 2025-11-17 15:13:19
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Krook, Joshua --- "Building Serendipity into Recommender Algorithms on Online Platforms: Reviving the Chaos and Randomness of the Early Internet Aesthetic" [2025] LawTechHum 9; (2025) 7(1) Law, Technology and Humans 127
+Building Serendipity into Recommender
+Algorithms on Online Platforms: Reviving the Chaos and Randomness of the Early
+Internet Aesthetic
+Joshua Krook
+University of Southampton, United Kingdom
+Artificial intelligence; recommender systems;
+serendipity; early internet.
+1. Introduction
+In 2011, the University of Sydney began removing
+books from Fisher Library to make room for new laptop study
+The librarian, John Shipp,
+had the difficult task of deciding which books would stay on campus and which
+would be shipped off to
+a remote, off-site storage
+To determine which books
+would go, he invented the notorious ‘dust
+Any books found to
+have a layer of dust on them would be removed from the campus library, while
+commonly used books would remain
+on the shelves. Dusty books would still be
+available via retrieval from an online
+However, students would
+have to request that the books be physically brought back to them on
+This meant it was no longer
+possible to accidentally stumble upon these obscure volumes on the shelves. You
+needed to know what you
+were looking for.
+By the end of the ‘dust test’ process, over 500,000 books –
+nearly half of the library’s collection –
+were transferred off-site.
+The library was transformed overnight from a place of discovery and exploration
+to a largely digital space,
+with smooth, seamless study spaces, gleaming white
+desks and nap pods (Figure 1). Gone were the obscure history tomes, replaced by
+textbooks and popular novels. Previously, visiting the library involved losing
+yourself in the shelves, stumbling upon a few random
+texts – perhaps
+unrelated to the field you were studying – and learning something new.
+What the ‘dust test’
+killed was the serendipity of finding the
+unexpected, to be replaced by the dull predictability of the common, the popular
+One of the most significant yet often overlooked aspects of the ‘new
+wave’ of artificial intelligence (AI) and its integration
+into all aspects
+of modern life is its rich potential for cross-disciplinary dialogue. These
+conversations, particularly between
+lawyers and computer scientists, are crucial
+because they may hold keys to increased efficiency and accuracy in legal
+administration
+and access to justice. However, lawyers and computer scientists
+do not always speak the same language. In their 2017 article ‘Playing
+Data’, Lehr and Ohm present a compelling argument for lawyers to shift
+their perception of machine learning from a monolithic
+and abstract concept to a
+nuanced process that encompasses problem definition, data collection and model
+deployment, with several
+At the same time, in their enthusiasm for increasingly clever machines, computer
+scientists must not lose sight of the fact that
+the law and legal reasoning do
+not easily – and sometimes should not – adapt to computational data
+and modelling. Herein
+lies the crux of this article. The potential for
+predictive analytics in the field of refugee status determination raises
+questions about model appropriateness and how data can be collected
+and used in a way that may subvert legal standards to the detriment
+of the very
+real human at its heart.
+Figure 1. A malfunctioning ‘sleep pod’ in
+Sydney’s revamped Fisher Library.
+Source: Author’s photo, 2019.
+The ‘dust test’ is a fitting ethnographic story for the digital
+age in which we live today, where digitalisation attempts
+to make all processes
+smooth, efficient and seamless at the expense of interruption, accident and
+Online platforms have the
+same problem as the overcrowded library: they contain millions of items that
+must be sorted and ranked
+for users to see, with some items needing to be hidden
+from view. The internet’s librarian is the recommender system. These
+powerful algorithms make decisions on which items should be shown to
+and which are too
+‘dusty’ to show on screen. ‘Dusty’ items are hidden
+behind search bars or obscure menu
+options, where users need to manually search
+Over time, these algorithms have begun to ‘curate’ the user
+experience in order to increase platform efficiency. The push
+towards efficiency
+can be contrasted with the chaotic nature of life prior to digitalisation. Anne
+Helen Petersen tells a relevant
+story of looking for a friend on a college
+campus in the early 2000s.
+time before mobile phones, social media or digital cameras. If she wanted to
+find a friend on campus, she simply had to
+Typically, what
+followed was an odyssey: walking through the halls of the campus, checking dorm
+rooms, visiting the library to ask
+whether anyone had seen the friend in
+question. Sometimes they were found quickly; at other times the search turned
+into a ‘college
+night picaresque with distractions (shitty nachos) and
+diversions (good gossip, a random dance
+Petersen never
+knew whether the night would work out: ‘There was so much less control, so
+much less ability to curate what
+your night would look
+Walking through the
+halls and bumping into strangers, there was a chance for new friendships or new
+romantic relationships. All of
+this felt more
+, fulfilling and
+joyful than the ‘sterile world of infinite choice’ facing her online
+The curated life is the opposite of the serendipitous life. By serendipity, I
+refer to ‘the finding of unexpected information
+(relevant to the goal or
+Curation, by
+contrast, refers to a pre-planned show or display, or an ordering or structuring
+of items to view.
+Recommender
+systems move our lives away from serendipity and towards curation by
+structuring, ranking and organising the content
+to which we are
+This occurs via
+personalisation, which removes the unexpected surprise of unusual items that do
+not fit our expected taste.
+Algorithms have the same biases as the ‘dust test’ of Fisher
+Library, with a tendency to prioritise popular
+homogeneity
+over variation and
+difference. In this way, they lead to the same drawbacks of diminishing
+serendipitous encounters. Netflix, for
+example, recommends new TV shows based on
+a user’s past viewing history, including what TV shows they clicked on,
+they watched for and what similar users have watched in the
+Recommender algorithms create a feedback loop for new titles that reinforces
+a feeling of sameness and repetition: a user will see
+‘because you watched
+Mission Impossible
+... here are other movies featuring Tom Cruise’,
+and therefore will be encouraged to watch a similar movie again. This new movie
+gets fed back into the system, reinforcing the feedback
+Meanwhile, genres with
+which the user does not engage frequently are hidden from
+The recommendations
+resemble a mirror or a ‘you loop’: reflecting back opinions,
+entertainment and content that we already
+like and agree
+In this way, the curated
+life leads us towards a lack of personal growth, change or transformation.
+Instead of seeing different content
+and learning something new, we see content
+that confirms our existing
+We get trapped into a
+‘filter bubble’ or a ‘neighbourhood’, surrounded by
+other, similar users.
+Personalisation filters out the different, so we are less exposed to views and
+opinions that are different from our
+The decline of serendipity online has correlated with the decline of shared
+spaces of people radically different from one another
+in the same viewing space.
+Traditionally, viewers would watch the same TV show at the same time on
+television, whereas today they
+stream personally recommended TV shows on Netflix
+at their own leisure. This decline of the ‘shared viewing
+experience’
+extends to the graphical user interface: Netflix transforms TV
+and film posters to suit the viewing profile of the specific
+A user who watches
+romantic films will see new movie posters featuring romance, while a user who
+watches action films will see the
+same movies with more action-heavy
+Curation of the user
+experience limits the opportunity of the user to extend beyond their usual
+watching patterns. Instead, they
+are psychologically primed to reinforce their
+pre-existing behaviours.
+In the next section, I consider forms of resistance against algorithmic
+ranking and efficiency, including nostalgia for the early
+internet. This
+includes a consideration of early websites that were more chaotic in nature
+compared with the algorithmic rankings
+of today. I argue that the movement
+towards curation has resulted in a loss of serendipity for the user and the
+narrowing of the
+user experience, limiting their growth and the variety of
+content they are exposed to. I then consider ways to move back to a more
+content format, while retaining some of the advantages of digitisation and (some
+of) the efficiency gains provided by recommender
+2. Disturbing the Dust: Resistance to Efficient Design
+‘We’re going to go and disturb the dust,’ Jo Ball said.
+‘I don’t think books should have an expiry
+Following the
+announcement of the ‘dust test’ at Fisher Library, history graduate
+Jo Ball organised a student protest
+movement to ‘disturb’ the dusty
+Ball began by setting up
+a Facebook page, organising an event titled ‘Save the books! Disturb the
+dust! Mass book borrowing
+action this
+Wednesday’.
+students were encouraged to borrow the maximum number of books allowable on
+their library cards, with the intent of disrupting
+the university’s book
+transfer process.
+John Shipp,
+the librarian, had mentioned that any books not borrowed in the last five years
+would be removed from the
+The students organised
+to borrow all these books from the library at once. If enough books were
+borrowed, their thinking went, the
+library would be saved.
+Ms Ball’s protest was doomed to failure, as the university had already
+started the book-removal process. Nevertheless, the fact
+that a student
+rebellion occurred
+provides a fascinating ethnographic moment of
+resistance to digitalisation, change and efficiency. Consider the fact that
+students were fighting to keep books on campus that they rarely, if ever,
+The university was instigating digitalisation to make the library more
+efficient, introducing new laptop study spaces and a new café,
+room for popular textbooks and updating the online
+Ball’s protest
+represented a resistance to this process of ordering and structure, and a
+preference for the chaos of the library
+of old. One of the central complaints of
+these students was that removing the books would be bad for researchers.
+‘If you only
+read the books that everyone else is reading, you can only
+think what everyone else is thinking,’ writes Japanese author Haruki
+Fisher Library had always been a densely populated space, riddled with books
+in tightly crammed shelves, triggering disability and
+Occupational, Health and
+Safety (OH&S) concerns. The narrow ‘stacks’, as students called
+them, barely had room for
+two people to move between them abreast (Figure 2).
+There were rumours of students making out between the stacks at midnight, away
+from the prowling eyes of campus security. Even then, there was a charm to the
+chaos and the teeming volumes on the shelves. It was
+the lack of organisation
+that students sought. The burgeoning shelves promised that you might find
+something that you were
+looking for. There was a lack of
+organisation: unread volumes appeared side-by-side with staple textbooks, merely
+sorted in alphabetical
+or thematic order. A
+element still existed,
+in that the thematic texts contained rare or unusual books that defied neat
+categorisation.
+Figure 2. The Fisher Library ‘Stacks’ prior to
+dust testing.
+Source: ‘Jen Y’,
+Fisher Library’s transformation mirrors the ongoing transformation of
+the online world. The internet too has dealt with a burgeoning
+volume of items,
+and undergone a similar change: from chronological feeds showing everything to
+algorithmic recommenders preferencing
+some content and hiding
+The early internet is
+celebrated in popular media as a time of radical serendipity, where users
+experienced the chaotic randomness
+of life, but in an online format.
+Commentators describe the early internet of the 1990s and 2000s in nostalgic
+terms as ‘a
+giant treasure
+that was ‘full
+of excitement to discover new
+[and] frontier-like’,
+fun aesthetic quality.
+this might be overstated; however, it is true is that the early internet
+encouraged users to individually express themselves
+in stranger ways than the
+modern form: creating their own websites, forums and later
+Before the rise of social
+media, a homespun aesthetic dominated the primitive online landscape with
+websites such as Geocities and
+MySpace allowing users to create their own
+profiles, with their own images, music and
+These sites provided
+standardised profiles that could be customised to a much more substantial degree
+than their successors.
+Nostalgia for the early internet revolves around this serendipity and a
+backlash against the newly algorithmic (and therefore more
+predictable) feeds.
+An analysis of nostalgic tweets about MySpace, for example, finds that users
+celebrated its ‘chaotic aesthetic’
+and the ‘dominance of
+people of colour and young
+One user wrote
+that ‘sweet, smiling Tom ... never rearranged a timeline’,
+celebrating the lack of algorithmic curation
+At times, these sites
+came across as childish, strange, oblique or niche, but also precisely
+of this, they would rarely have slotted into the neat, tidy,
+corporate aesthetic of a Facebook, Twitter or LinkedIn
+These were the sites
+that existed when the internet was ‘individualized and amateurish’,
+but not yet
+personalised
+According to Miltner, MySpace turned users into ‘Front-End Web
+Developers’, by changing their backgrounds, loading music,
+sound effects,
+buttons, widgets and in-profile videos to completely individualise their landing
+By contrast, Facebook
+adopted a standardised profile with a more mature look, in part because it
+initially required a college email
+Geocities.com allowed users to build their own websites with bright colours,
+star banners, music and other features that allowed a
+higher degree of
+self-expression.
+Pookie’s Palace
+, a site from 1999, welcomed visitors ‘with a
+swirling purple background, a rainbow teddy bear and neon text’ (Figure
+Following the demise of
+Geocities as a platform, archives and artistic reproductions have been created
+in its image. Cameron Askin,
+a New Zealand artist, created one such aesthetic
+display with
+Cameron’s World
+, a ‘web-collage of text and
+images excavated from the buried neighbourhoods of archived GeoCities pages
+(1994–2009)’.
+writes, ‘In an age where we interact primarily with branded and marketed
+web content,
+Cameron’s World
+is a tribute to the lost days of
+self-expression.’
+archive celebrates the ‘weird’ of the early internet, lionised as a
+time before people used their real names in association
+with their social
+The oblique nature of these early websites contributed to a feeling of
+randomness. Without the constraints of platform dominance,
+users were radically
+empowered to control their own environment. Craigslist, which started in the
+late 1990s, was the epitome of
+this early internet
+The site resisted
+calls from venture capitalists, paid advertising and changes to its graphical
+user interface to modernise.
+First begun as a mail-in service posted online as a
+newsletter,
+it morphed into a
+website where individuals would post random items for sale, jobs and
+classifieds.
+The items were
+disorganised. The site retains its goal of being an uncurated place of
+discovery, where users picked the categories
+they wanted and saw a full
+catalogue of items, rather than filtering items through a curated feed.
+Where newer forums like Reddit curate the user experience with upvoting,
+downvoting and algorithmic suggestions of new subreddits
+to follow, early
+websites showed the latest posts in purely chronological
+everyone’s comments appeared as soon as they were posted. There was no
+filtering or moderator preview. There was
+less focus on the most popular or
+engaging items and more focus on strange postings. The chaotic nature of the
+early internet mirrored
+the chaotic nature of life. Compared with LinkedIn, for
+example, with its corporate chic aesthetic and ‘correct’ way
+(praise your boss and company, appeal to status, thank mentors), early internet
+forums rebelled in their eccentric style,
+their abandonment of authority and
+moderation. Jokes, memes and off-topic posts were more common, although some
+amount of content
+moderation did
+As one user reflects,
+‘early 2000s forums were the best ... like before Reddit and other social
+media and smartphones took
+The allure of these
+early forums was the randomness of their structure and the democratic nature of
+their discussion.
+The evolution of the internet away from chaos and towards a corporate order
+seems to mirror the evolution of culture that William
+Deresiewicz describes at
+American colleges: ‘now students all seem to be converging on the same
+self, the successful upper-middle-class
+professional, impersonating the adult
+they've already decided they want to
+Websites also
+followed this shift in aesthetics. From the chaos of GeoCities came the relevant
+order of MySpace and the substantial
+order of Facebook, Twitter and LinkedIn
+profiles, where everyone has the same profile, with only different photographs
+to populate
+it. The shift towards popularity meant these sites now appealed
+aesthetically to as many people as possible. This is visually clear
+comparing a GeoCities site (Figure 3) with the most dominant platform among
+young people today, TikTok (Figure 4).
+Source: Author screenshot, Wayback Machine, 10 October
+Author screenshot, 16 June 2024.
+In the mid-2010s, Facebook, Instagram and other social media sites started
+shifting their algorithms away from a chronological feed
+and towards algorithmic
+engagement via recommendations.
+Now users no longer saw posts as they were posted, but instead saw the
+‘most engaging’
+Jack Conte, CEO of
+Patreon, marks this as the turning point of internet culture, where the major
+platforms turned their backs on
+content creators, preferencing engagement
+statistics to keep people hooked to their platforms for the benefit of
+advertising revenue.
+Previously,
+users saw content to which they subscribed, using the ubiquitous
+‘Subscription’ button on YouTube and other
+Now, even content users
+subscribe to is hidden if it was not popular or engaging enough, effectively
+negating the user’s own
+The CEO of Meta, Mark
+Zuckerberg, reveals that Facebook and Instagram have changed to follow this
+Now, around ‘30% of
+the posts on the Facebook feed’ and ‘more than 50% of the content
+people see on Instagram is
+recommended’.
+substantial shift from the earlier chronological feeds of these platforms, which
+lacked AI recommenders. Instead of showing
+users what they choose to see via
+subscription, platforms now recommend content that they think will be engaging
+to the user, sacrificing
+autonomy for efficiency.
+Previously, chronological feeds retained a character of randomness and chaos;
+users were exposed to everything posted recently rather
+than only the most
+popular posts. Now users are faced with the most engaging posts, limiting their
+exposure to a diverse set of
+This has two
+significant effects. First, it cuts users off from
+traps them into a filter bubble filled only with those who are similar to them
+(in interests, likes and engagement
+Second, it traps them
+into what Byung-Chul Han terms the ‘you
+The longer a user
+spends on a platform, the more the recommender system learns what they like and
+the more it recommends the same
+Eventually, all other
+content is filtered out.
+user is left with a kind of mirror-reflection of themselves: a platform that
+shows them things that they already like, that they
+already agree with and that
+they have already engaged with before. By nature, this is a stifling of
+intellectual progression and
+growth: the progression moves towards further
+sameness rather than further difference.
+This is significant precisely because recommender systems are so ubiquitous
+today. Algorithmic recommenders now suggest, in part,
+what news we read, what
+movies we watch and what romantic partners we match with on dating apps. They
+make these decisions based
+on user data, negating explicit human input. On
+Spotify, songs are chosen for the listener automatically (although this
+exposes them to new
+On TikTok, videos are
+chosen for the user without any need for the user to subscribe to any channel
+they want to follow.
+‘subscription’ model is completely replaced in this instance by the
+algorithm, so the user asserts no agency over
+Instead, the platform
+asserts agency over the user, telling them that these are the products they are
+interested in.
+Unlike previous ‘knowledge-based’ recommender systems, newer
+algorithms do not ask the user what they want – they
+show users what they
+are presumed to want based on their implicit data and behaviour on the
+TikTok is a radical
+break from the subscription model, where users at least got to choose who they
+followed. The entire TikTok interface
+is built around its ‘For You’
+The algorithm
+optimises for user retention and time spent on the app, according to a leaked
+In this way, engagement
+becomes the number one factor for how the app is designed, rather than
+considering whether the user can grow
+or change by using the app to discover new
+content. This automation of choice and decision-making may attenuate individual
+When the user loses the
+ability to choose, they also lose the ability to choose the unexpected: the
+algorithm predicts their preferences
+rather than providing them with the full
+range of opportunities. This results in a loss of serendipity. As a result,
+curation can
+narrow the user experience by trapping users into their own
+reflection.
+Chayka suggests that we now live in a ‘vast, interlocking and yet
+diffuse network of algorithms that influence our lives’,
+simultaneously created a more ‘homogenous’ culture that
+‘perpetuates itself to the point of
+Visual artists
+must now consider the Instagram algorithm when they make their work, while
+songwriters tailor their songwriting to
+the algorithm of
+Charlie Puth breaks down
+his songwriting into tiny ten-second videos to appeal to his TikTok audience
+– a process he does not
+At the same time, an
+‘Airbnb aesthetic’ has started to influence interior design
+decisions in a lot of popular holiday
+destinations across
+This algorithmic
+sameness creates the
+of culture – where differences in
+culture are ironed out for the purposes of efficiency – for quickly
+renting out that
+top Airbnb location.
+Far from a serendipitous space, algorithms therefore provide us with a space
+of personalised content verging towards sameness, showing
+us content that we
+already expect to receive and therefore (eventually) triggering a form of
+predictability and boredom.
+Simultaneously, recommender systems make consumers more ‘passive’ in
+their entertainment experience, and less capable
+of thinking about the culture
+they are consuming.
+On Spotify,
+where songs are chosen for the user automatically, the user does not engage in
+the ‘browsing’ process for
+a new playlist, foregoing choice for the
+app’s decision-making.
+Users are empowered to curate their own playlists, but even here the app
+suggests songs for users to add to their list (often of
+a similar nature or
+genre). This decreases the serendipity of the prior experience in a record or CD
+store. There, a consumer would
+have to browse the shelves and physically pick up
+the record they wanted to listen to. This gave them the opportunity to walk past
+something new – a different genre that they rarely if ever listened
+When an algorithm optimises for engagement, it creates ideas that ‘are
+as acceptable as possible to as many people as
+In other words,
+it flattens culture and trends towards the average. Critics describe TikTok as
+‘vulgar’ and ‘kitsch’,
+referring to its highly engaging,
+popular short-form video content of people binge-eating, mimicking popular dance
+crazes or binge-drinking
+The company admits that
+such content has had an impact on culture and user behaviour, including exposing
+users to new music and influencing
+what users recommend to their
+Among Gen Z, ‘I
+saw this on TikTok’ has become a popular
+catchphrase.
+What gets lost in
+the wash of this is the homespun DIY nature of an earlier internet age, a sense
+of plurality of experiences online,
+unique encounters and strange experiences
+that differ from those of other users, while not yet being
+personalised
+and streamlined by an algorithm.
+3. Rebuilding Serendipity Online
+Designers of recommender systems can take a few key lessons away from
+nostalgic user reflections of the early internet and the student
+movement against the ‘dust test’ at the Fisher Library. First, some
+users enjoy the randomness and chance
+that the early internet gave to their
+lives, the feeling of being on the frontier with new and unexpected discoveries
+behind every
+corner. Second, some users consider the algorithmic reordering of
+their lives bland, repetitive or simply less exciting than the
+internet of the
+past, including the joys and unexpectedness of the chronological feed. Third,
+the aesthetic quality of the early
+internet and the Fisher library, with its
+chaotic shelves, is an aesthetic that can inspire a feeling of discovery and
+exploration.
+Finally, empowering users to control their own experiences online
+can improve the chances of experiencing serendipity, as well as
+self-expression that have since gone out of fashion. If each user can express
+themselves in more unique ways, this diversifies
+the content of the internet for
+every other user.
+Recommender systems could be redesigned to place serendipity at the heart of
+the user experience. This includes periodically including
+more random items in
+the feed, which at a minimum would prevent users from being shown the same item
+many times,
+and go beyond
+popular items. Instead, the algorithm could be biased towards increased
+serendipity
+and an element of randomness –
+unexpected items or less popular items being shown more
+– that is, showing
+users content from new genres, categories or themes and actually asking them,
+‘Would you like to see
+more diverse content on your feed?’ Finally,
+from a cultural diversity perspective, designers could be encouraged by
+to move away from a purely consumption (and attention) focus of their
+apps and towards a more educational or intrinsic purpose, such
+as an art gallery
+featuring a broader diversity of items to its audience, to increase their
+understanding of the world around
+While many go to the
+Louvre to see the
+, the museum itself features thousands of
+paintings that are just as striking, if not more so, in the rooms surrounding
+the popular
+Some call these diverse items ‘the long
+recommender systems typically prioritise popular items, this can create a
+‘long tail’ effect of lesser-known items
+‘dusty’ items that never get borrowed because people do not know
+they exist. In this case, the algorithm can
+be adjusted to place a higher focus
+on these lesser-known items, and simultaneously improve the profits of the
+company. Long-tail
+items provide an opportunity to target niche products to
+niche consumers, who are otherwise left out by only being able to access
+items. Netflix’s recommender system was based on this long-tail design
+methodology in its original
+conception.
+This made use of
+a huge catalogue of film and TV items that might appeal to the individual
+user. However, long-tail methodology can
+still result in trapping users into a
+few key genres (even while showing them niche products of that genre). The
+methodology of the
+long tail must therefore be balanced with the need for
+individual diversity in recommendations: expanding the lives of the users
+showing them more variety and reinstating that feeling of surprise and
+A few years after graduating, I returned to the Fisher Library. In many ways,
+it was unrecognisable from the days when I studied there.
+The nap pods that had
+been installed were malfunctioning (Figure 1), the students were left sprawled
+across the library amidst a
+sea of laptops on gleaming white tables, and the
+stacks that I remembered were gone, replaced by orderly rows of books at a
+(more OH&S compliant) distance. Entire sections of the library that
+had once held books were replaced, a new café stood
+in the middle of the
+room and I listened to the hum and hiss of the coffee percolating. It struck me,
+looking at the students studying
+there, that perhaps they didn’t
+understand what they had missed out on: the joy of discovery, getting lost
+amidst the shelves
+in the middle of a project, finding something new and
+obscure. Instead, amid the sea of those studying were a handful on TikTok,
+Instagram, getting fed content by the machine that had been so accurately and
+diligently trained on their personal data.
+Bibliography
+Akira the Don. [@akirathedon]. [Tweet]. August
+https://twitter.com/akirathedon/status/1030495910386515969
+André, Paul, M.C. Schraefel, Jaime Teevan, and Susan T. Dumais.
+“Discovery is Never by Chance: Designing for (Un)Serendipity.”
+Proceedings of the Seventh ACM Conference on Creativity and Cognition
+305–14. New York, 2009.
+https://doi.org/10.1145/1640233.1640279
+Cao, Steffi. “A Nostalgic Look Back at When the Internet Still Felt
+, March 14, 2024.
+https://www.cnn.com/2024/03/14/style/lan-party-online-gamers-photos/index.html
+Center for Advanced Research in Global Communication, “CARGC Symposium
+– Turning Points: The Long 1990s in Internet History
+| Annenberg.”
+October 16, 2024.
+https://www.asc.upenn.edu/news-events/events/cargc-symposium-turning-points-long-1990s-internet-history
+Chayka, Kyle.
+Filterworld: How Algorithms Flattened Culture,
+Doubleday, 2024.
+Chen, Xi, and Huang Zeng. “Analysis of Media’s Effect on
+People’s Aesthetic: A Case Study on TikTok.”
+Education, Humanities and Social Sciences
+9 (2023): 120–126.
+https://doi.org/10.54097/ehss.v9i.6434
+Conte, Jack. “Death of the Follower & the Future of Creativity on
+the Web with Jack Conte.” SXSW 2024 Keynote, SXSW.
+Dash, Anil. “The Web We Lost – Anil Dash.”
+, December 13, 2012.
+https://www.anildash.com//2012/12/13/the_web_we_lost
+Deng, Jireh. “Meta Now Has an AI Chatbot. Experts Say Get Ready for
+More AI-Powered Social Media.”
+Los Angeles Times
+, May 2, 2024.
+https://www.latimes.com/world-nation/story/2024-05-02/ai-chatbots-come-to-meta-more-social-media
+Deresiewicz, William.
+Excellent Sheep: The Miseducation of the American
+Elite and the Way to a Meaningful Life.
+New York: Simon and Schuster,
+Dever, Ally. “How TikTok Has Changed the Music Industry.”
+Boulder Today,
+September 12, 2022.
+https://www.colorado.edu/today/2022/09/12/how-tiktok-has-changed-music-industry
+Diniz, Rodrigo. “The Charm of Internet Nostalgia and Why It Isn’t
+Fun Anymore.” LinkedIn, April 15, 2024.
+https://www.linkedin.com/pulse/charm-internet-nostalgia-why-isnt-fun-anymore-rodrigo-diniz-uto2c
+Fletcher, Amelia, Peter L. Ormosi and Rahul Savani, “Recommender
+Systems and Supplier Competition on Platforms,” SSRN
+Working Paper
+Foulonneau, Muriel, Valentin Groues, Yannick Naudet, and Max Chevalier,
+“Recommender Systems and Diversity: Taking Advantage
+of the Long Tail and
+the Diversity of Recommendation Lists.” In
+Recommender Systems,
+edited by Gérald Kembellec, Ghislaine Chartron, and Imad Saleh,
+71–92. Chichester: Wiley, 2014.
+Gomez-Uribe, Carlos A., and Neil Hunt. “The Netflix Recommender System:
+Algorithms, Business Value, and Innovation.”
+ACM Transactions on
+Management Information Systems
+6, no 4 (2016).
+https://doi.org/10.1145/2843948
+Han, Byung-Chul.
+Infocracy: Digitization and the Crisis of Democracy
+Cambridge: Polity Press, 2022.
+Han, Byung-Chul.
+Non-Things: Upheaval in the Lifeworld
+. Cambridge:
+Polity Press, 2022.
+Jansson, Johan. “The Online Forum as a Digital Space of
+(2019): 115–124.
+https://doi.org/10.1016/j.geoforum.2019.08.008
+Krook, Joshua and Jan Blockx. “Recommender Systems, Autonomy and User
+Engagement.” In
+Proceedings of the First International Symposium on
+Trustworthy Autonomous Systems
+(TAS '23). New York: ACM, 2023.
+Lingel, Jessa.
+An Internet for the People: The Politics and Promise of
+. Princeton, NJ: Princeton University Press, 2022.
+Loder, Dave. “The Aesthetics of Digital Intimacy: Resisting
+Airbnb’s Datafication of the Interior.”
+2–3 (2021): 282–308.
+https://doi.org/10.1080/20419112.2021.1945816
+Mackinnon, Katie. “The Death of GeoCities: Seeking Destruction and
+Platform Eulogies in Web Archives.”
+Internet Histories
+1–2 (2022): 237–252.
+https://doi.org/10.1080/24701475.2022.2051331
+Madden, Emma. “We Found Love in a Fictional Place.”
+, December 18, 2019.
+https://theoutline.com/post/8442/internet-nostalgia-2010s-geocities-tumblr-vaporwave
+Magagnoli, Paolo. “The Internet as Ruin: Nostalgia for the Early World
+Wide Web in Contemporary Art.”
+Transformations
+, 28 (2016).
+http://www.transformationsjournal.org/wp-content/uploads/2016/12/Magagnoli_Transformations28.pdf
+McRae, Sarah. “‘Under Construction’ Lives: Restorative
+Nostalgia and the GeoCities Archive.”
+European Journal of Life
+https://doi.org/10.21827/ejlw.8.35623
+Millecamp, Martijn, Nyi Nyi Htun, Yucheng Jin, and Katrien Verbert.
+“Controlling Spotify Recommendations: Effects of Personal
+Characteristics
+on Music Recommender User Interfaces.” In
+Proceedings of the 26th
+Conference on User Modeling, Adaptation and Personalization
+New York: ACM, 2018.
+Miltner, Kate M., and Ysabel Gerrard. “‘Tom Had Us All Doing
+Front-End Web Development’: A Nostalgic (Re)Imagining
+of MySpace.”
+Internet Histories
+6, nos 1–2 (2022): 48–67.
+https://doi.org/10.1080/24701475.2021.1985836
+Murakami, Haruki.
+Norwegian Wood.
+New York: Random House, 2011.
+Narushima, Yuko. “Students Plan Dust-up with Uni over Library’s
+Book Cull.”
+The Sydney Morning Herald,
+May 13, 2011.
+https://www.smh.com.au/education/students-plan-dust-up-with-uni-over-librarys-book-cull-20110512-1ektk.html
+Narushima, Yuko. “You Can Judge a Book by Its ‘Dust Test’
+as University Library Cuts Its Staff and Stock.”
+The Sydney Morning
+, May 11, 2011.
+https://www.smh.com.au/education/you-can-judge-a-book-by-its-dust-test-as-university-library-cuts-its-staff-and-stock-20110511-1ej0z.html
+Nikolakopoulos, Athanasios N., Xia Ning, Christian Desrosiers, and George
+Karypis. “Trust Your Neighbors: A Comprehensive Survey
+Neighborhood-Based Methods for Recommender Systems.” In
+Recommender
+Systems Handbook,
+edited by Francesco Ricci, Lior Rokach, and Bracha
+Shapira, 39–89. Dordrecht: Springer, 2022.
+Pajkovic, Niko. “Algorithms and Taste-Making: Exposing the Netflix
+Recommender System’s Operational Logics.”
+Convergence
+1 (2022): 214–235.
+https://doi.org/10.1177/13548565211014464
+Pearce, Gary. “The Curious Case of Shrinking Libraries, Coffee Carts
+and ‘the Dust Test’.”
+, May 25, 2011.
+https://www.abc.net.au/news/2011-05-25/pearcecoffee/2730066
+Petersen, Anne Helen. “The Sterile World of Infinite Choice.”
+Culture Study
+(blog), August 30, 2023.
+https://annehelen.substack.com/p/the-sterile-world-of-infinite-choice
+ResetEra. “Forum Culture from the Early 2000’s’. January 9,
+https://www.resetera.com/threads/forum-culture-from-the-early-2000%E2%80%99s.358474
+Ricci, Francesco, Lior Rokach, and Bracha Shapira.
+“Introduction.” In
+Recommender Systems Handbook,
+Francesco Ricci, Lior Rokach, and Bracha Shapira, 1–35. Dordrecht:
+Springer, 2022.
+Smith, Ben. “How TikTok Reads Your Mind.”
+The New York
+, December 6, 2021.
+https://www.nytimes.com/2021/12/05/business/media/tiktok-algorithm.html
+Szablewicz, Marcella. “Internet Cafés: Nostalgia, Sociality, and
+Stigma.” In
+Mapping Digital Game Culture in China: From Internet
+Addicts to Esports Athletes
+, edited by Marcella Szablewicz, 29–49.
+Dordrecht: Springer, 2020.
+TikTok. “New Studies Quantify TikTok’s Growing Impact on Culture
+and Music.”
+TikTok NewsRoom
+, August 16, 2019.
+https://newsroom.tiktok.com/en-us/new-studies-quantify-tiktoks-growing-impact-on-culture-and-music
+Wang, Jianling, Ziwei Zhu, and James Caverlee. “User Recommendation in
+Content Curation Platforms.” In
+Proceedings of the 13th International
+Conference on Web Search and Data Mining
+, 627–35. New York: ACM, 2020.
+https://doi.org/10.1145/3336191.3371822
+Wirawan, Shandy. “The Nostalgic Feelings of the Old Internet.”
+(blog), September 8, 2023.
+https://medium.com/@shandywirawan/the-nostalgic-feelings-of-the-old-internet-bae70749c0ac
+Narushima, “Judge.”
+Lehr, “Playing with the
+Data,” 653.
+Han, Non-Things; Han,
+Ricci, “Introduction,” vii.
+“Discovery,” 305–306.
+Jansson, 115–124.
+Nikolakopoulos,
+“Trust,” 41; Wang, “User,” 627–635.
+Nikolakopoulos,
+“Trust,” 41; Wang, “User,” 627–635.
+“Recommender,” 9.
+“Recommender,” 9.
+“Recommender,” 10.
+Gomez-Uribe,
+“Recommender,” 11.
+“Algorithms.” 214, 220–222.
+Han, Infocracy, 29.
+Han, Infocracy, 29.
+Nikolakopoulos,
+“Trust,” 50.
+Han, Infocracy, 29.
+Han, Infocracy, 29.
+Han, Infocracy, 29.
+“Students.”
+“Students.”
+“Students.”
+“Students.”
+Murakami, Norwegian Wood,
+Photo from “Jen.
+Y.” on Flicker, licensed under CC-BY Attribution. 18
+https://www.flickr.com/photos/this-is-snowman/8485507396
+Conte, “Death of the
+Diniz, “The Charm of
+Internet Nostalgia.”
+Wirawan, “The
+Nostalgic Feelings.”
+Szablewicz. “Internet
+Cafés,” 30–33.
+Cao, “A Nostalgic Look
+Magagnoli, Paolo. “The
+Internet as Ruin.”
+Dash. “The Web We
+Mackinnon. “The Death
+of GeoCities,” 237–241.
+Miltner, “‘Tom
+Had Us All Doing Front-End Web Development.’” 48, 50–55,
+Akira the don, “Sweet,
+Smiling Tom.”
+McRae, “‘Under
+Construction’ Lives,” 8.
+Madden. “We Found Love
+in a Fictional Place.”
+Miltner, “‘Tom
+Had Us All Doing Front-End Web Development.’” 48, 50–55,
+McRae, “‘Under
+Construction’ Lives,” 8.
+Mackinnon. “The Death
+of GeoCities,” 237–241.
+Mackinnon. “The Death
+of GeoCities,” 237–241.
+Mackinnon. “The Death
+of GeoCities,” 237–241.
+Mackinnon. “The Death
+of GeoCities,” 237–241.
+Lingel, An Internet for the
+People, 71, 85, 118.
+Lingel, An Internet for the
+People, 71, 85, 118.
+Lingel, An Internet for the
+People, 71, 85, 118.
+Lingel, An Internet for the
+People, 71, 85, 118.
+Conte, “Death of the
+ResetEra. “Forum
+Culture from the Early 2000s”; Center for Advanced Research in Global
+Communication, “CARGC.”
+ResetEra. “Forum
+Culture from the Early 2000’s”; Center for Advanced Research in
+Global Communication, “CARGC.”
+Deresiewicz, Excellent
+Conte, “Death of the
+Conte, “Death of the
+Conte, “Death of the
+Conte, “Death of the
+Conte, “Death of the
+Deng, “Meta Now has an
+AI Chatbot.”
+Deng, “Meta Now has an
+AI Chatbot.”
+Han, Infocracy, 29.
+Han, Infocracy, 29.
+Han, Infocracy, 29.
+Han, Infocracy, 30.
+Han, Infocracy, 30.
+“Controlling Spotify Recommendations,” 101–103.
+Conte, “Death of the
+Conte, “Death of the
+Krook, “Recommender
+Systems,” 2–4.
+Smith, “How TikTok
+Reads Your Mind.”
+Smith, “How TikTok
+Reads Your Mind.”
+Krook, “Recommender
+Systems,” 2–4.
+Han, Infocracy, 29.
+Chayka, Filterworld.
+Chayka, Filterworld.
+Dever, “How TikTok has
+Changed the Music Industry.”
+Loder, “The Aesthetics
+of Digital Intimacy.”
+Dever, “How TikTok Has
+Changed the Music Industry.”
+Chayka, Filterworld.
+“Controlling Spotify Recommendations,” 101–104.
+Chayka, Filterworld.
+Chen, “Analysis of
+Media’s Effect,” 120–126.
+TikTok, “New Studies
+Quantify TikTok’s Growing Impact.”
+TikTok, “New Studies
+Quantify TikTok’s Growing Impact.”
+Foulonneau,
+“Recommender Systems and Diversity,” 72.
+Foulonneau,
+“Recommender Systems and Diversity,” 72.
+Foulonneau,
+“Recommender Systems and Diversity,” 75.
+Foulonneau,
+“Recommender Systems and Diversity,” 75.
+Foulonneau,
+“Recommender Systems and Diversity,” 75.
+Foulonneau,
+“Recommender Systems and Diversity,” 75.
+Print (pretty)
+Print (eco-friendly)
+RTF format (1.72 MB)
+PDF format (578 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

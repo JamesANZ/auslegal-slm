@@ -1,0 +1,932 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/UNSWLawJlStuS/2025/32.html
+Scraped: 2025-11-17 15:46:44
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Willetts, Katherine --- "Mind the Gap: Protecting the Extended Mind Under the General Data Protection Regulation" [2025] UNSWLawJlStuS 32; (2025) UNSWLJ Student Series No 25-32
+II CONTEXTUALISING THE PROTECTION OF THE (EXTENDED) MIND
+MIND THE GAP: PROTECTING THE EXTENDED MIND UNDER THE
+GENERAL DATA PROTECTION REGULATION
+KATHERINE S WILLETTS*
+I INTRODUCTION
+The nature of the human mind has been a topic of inquiry, investigation, and
+cultural imagination for millennia.
+As the site of our thoughts and subjective experience of the world and
+ourselves, the mind has accrued a special moral
+At the same time, the mind
+has been understood as being brain-based, residing internally within our
+As such, its internality
+has been a feature of its protection from scrutiny or interference.
+However, conventional understandings of the mind are increasingly unsettled
+by developments in neurotechnology and philosophy. Neurotechnologies
+‘tools, methods and their associated devices for recording or modifying
+neural signals’.
+neurotechnologies increasingly blur boundaries between mind and machine,
+philosophical perspectives such as the extended mind
+thesis are drastically
+reconfiguring where we understand the mind stops ‘and the rest of the
+world begin[s]’.
+particular, the extended mind thesis proposes that rather than being internal,
+the mind is embedded and constituted by elements
+of the external
+environment.
+Such a view vastly
+expands what we could consider part of the mind, and consequently, expands what
+should be protected as such.
+The aim of this article is to examine the implications of the extended mind
+thesis, assuming it is true, on the
+General Data Protection Regulation
+’) as a legal protection of mental data in the European
+Surprisingly, despite being
+‘the toughest privacy and security law in the
+there has been
+relatively little consideration of how the
+will protect neural or
+brain data,
+let alone mental data
+as understood according to the extended mind thesis. This article contributes to
+the emerging literature on
+this topic by assessing the
+in light of
+the extended mind thesis. This article specifically focuses on the legal
+categorisation of mental data as ‘personal
+and ‘special
+categories of personal
+as the gateways to
+enlivening protection under the
+This article is structured as follows. In Part II, I contextualise
+conventional approaches to understanding the mind and its protection
+necessary to appreciate the legal and normative implications of the extended
+minds thesis. Part II also includes an introduction
+to the extended mind thesis
+and how this changes what is meant by mental data in the context of data
+protection. In Part III, I analyse
+the implications of the extended mind thesis
+on the effectiveness of the
+with a focus on the definitions of
+personal data and special categories of personal data. In Part IV, I look more
+closely at the
+interactions between the extended mind thesis, the normative
+status of the mind, and the gaps emerging in the
+technologically neutral approach to data protection. Here, I consider how
+extended mental data can be better protected
+moving forward in the
+and consider other legal approaches that can support the
+safeguarding the extended mind.
+II CONTEXTUALISING THE PROTECTION OF THE (EXTENDED)
+To appreciate the implications of the extended mind thesis on the protection
+of the mind under the
+, an understanding of the relevant socio-legal
+context is essential. This section contextualises popular understandings of the
+how these views are challenged by neurotechnological and theoretical
+developments, and finally, introduces what the extended mind
+thesis entails in
+the context of understanding mental data.
+A Conventional Understandings of the Human Mind
+Questions about the nature of the human mind has been a fundamental topic of
+philosophical enquiry since
+‘Western’ tradition, conjectures in philosophy of mind have been
+shaped by Aristotelian dualisms that understand
+the world in terms of
+Accordingly, a topic
+of discussion in philosophy of mind is where the mind ends and the rest of the
+world begins, with a popular
+position being that the mind resides internally
+(ie, is brain-based) in contrast to the external
+At the same time, there
+is general agreement that the mind maintains a special status worth protecting:
+the mind is tied to notions
+of the self, privacy, personal integrity, freedom of
+thought, and freedom of expression, notions which underpin fundamental human
+rights and ideas of human
+It is important to appreciate that the special status of the mind has also
+been connected to ideas of the mind as being fundamentally
+internal or
+brain-based. Sjors Ligthart et al describe:
+[The] information residing in an individual’s mind and brain is
+potentially more sensitive and subjectively relevant to them
+compared to
+non-mental information, as it is otherwise inaccessible to others. The mind and
+the brain are thus, even in comparison
+with the difficulty in keeping other data
+confidential, the ultimate seats of personal information and the
+individual’s refuge
+of privacy, to which special protection is to be
+attributed.
+As such, how we understand the mind (and what it is) influences how we choose
+to protect it. This relationship is particularly important
+sociotechnological landscape characterised by challenges and changes to our
+historic understandings of ourselves and the world.
+B Challenges and Changes
+Conventional understandings of the human mind have been increasingly
+challenged by developments in neurotechnology. Neurotechnologies
+offer immense
+medical and non-therapeutic benefits while simultaneously posing significant
+threats to the privacy of the human mind.
+For instance, brain-computer
+interfaces (‘BCI’) collect and use neural data to action
+BCI’s are able
+to translate brain signals into various forms including language-based
+communication as well as into gameplay
+Neurotechnologies such
+as these enable potentially unprecedented access to the collection and
+processing of more mental data than
+Some neurotechnologies
+are also able to send data back into the brain, thereby potentially affecting
+Such capabilities
+suggest that once fictional stories about ‘mind control’ or mental
+exploitation may underpin increasingly
+and have been
+considered by some to be a ‘greater threat to liberty than genetic
+intervention’.
+there has increasing concern for the impacts of the development of
+neurotechnology on the privacy of the
+Additionally, new technologies challenge our understanding of what
+constitutes the mind. In short, neurotechnologies challenge historic
+separations
+between mind and machine, between human and
+between ‘flesh
+and bone’ and ‘bits and
+This is most
+poignantly demonstrated by way of example. In 2010 and 2011, the medical device
+company NeuroVista Corporation funded
+a trial on the use of BCIs to alert users
+of oncoming epileptic seizures which would enable users to take preventative
+In 2013, the trial was
+terminated due to the company’s financial situation and devices were
+explanted from users.
+patient experienced ‘mourning’ at the removal of her
+with her husband
+willing to re-mortgage their house to be able to buy
+She expressed that
+‘[i]t was a part of
+Such instances
+highlight the blurring of boundaries between human and machine, thus challenging
+our understanding of what the mind
+is and where it stops. With the proliferation
+of consumer health and tracking products combined with the growth of the
+of Things’, we can expect that such instances of
+human-machine symbiosis may become increasingly common such that ‘it
+be increasingly hard for anyone to deny that such devices and the information
+they contain are proper parts of our
+However, it is important to appreciate that most approaches to the protection
+of the mind in law proceed on an assumption that the
+mind is purely internal and
+brain-based. To illustrate this point, I highlight the introduction of bills to
+protect ‘neural
+data’ in 2024 under amended versions of state-based
+of the mind focused on ‘neural data’; that is, brain-based and
+nervous system-based data.
+Although, as aforementioned, neurotechnologies are challenging the historic
+boundaries of the brain, emphasising the need for more
+appropriate
+methodological and legal approaches to protecting the mind.
+Fortunately, there is growing interest in understanding the human as
+‘distributed and networked rather than centred’ in
+research such as science and technology
+Such approaches are
+reflexive and actively investigate the ways in which there are different
+understandings of ‘our place as
+humans beings in the
+Such paradigms
+appreciate that humans are fundamentally physical beings within networks of
+physical objects, things, and elements
+environment.
+Margaret Davies
+notes that such views reflect historic feminist thought as well as First Nations
+ontologies which have understood
+humans as being fundamentally connected to each
+other and the earth for thousands of
+The growing interest in
+these understandings of the world in Western thought marks a shift with
+significant ramifications for understandings
+of ourselves and our place in the
+world. This includes changing understandings of what the mind is, as exemplified
+by the extended
+mind thesis.
+C The Extended Mind Thesis
+Put forward most famously by philosophers Andy Clark and David Chalmers, the
+extended mind thesis (‘EMT’) claims that
+the ‘mind extends
+into the world’
+the environment has an active role in driving cognitive processes, thereby
+constituting the mind.
+central premise of the EMT is that ‘if a part of the world functions as a
+process which, were it done in the head, we would
+have no hesitation in
+recognizing as part of the cognitive process, then that part of the world is ...
+part of the cognitive process’
+and, therefore, part of the
+Under the EMT, for something to be part of the mind there must be a
+‘high degree of trust, reliance, and accessibility’
+between a human
+and a feature in the external
+environment.
+Chalmers’ explanatory example of how this works focuses on Otto, a man who
+lives with Alzheimer’s disease and
+carries a notebook with him
+everywhere.
+Otto adds new
+information to his notebook as he learns it, and then looks it up when he needs
+it such that ‘the notebook plays
+the role usually played by a biological
+Under the EMT,
+Otto’s notebook is actually a part of his mind; a part of his mind
+constituted by the external environment.
+More contemporary examples of extended
+mind elements may include smartphones, apps, and elements of the digital world,
+on how they are used. While Otto’s notebook in Clark’s and
+Chalmers’ example refers to pen and paper, there is
+no reason why
+Otto’s notebook (a substitute for biological memory) could not be digital.
+Evidently, the EMT drastically expands
+what we understand to constitute the
+It follows then that a definition of mental data, according to the EMT,
+includes not just neural or brain data, but any data in the
+external environment
+that constitutes, at least part of, of a cognitive process. This definition is
+markedly more extensive than
+definitions of neural data provided in the examples
+of the state-based legal protections introduced in California and Colorado that
+attempt to protect the contents of the human mind. This expansion of the mind
+obviously has implications for any attempt to protect
+mental data. It is these
+implications, with a specific focus on the
+, that I now consider.
+III THE PROTECTION OF MENTAL DATA UNDER THE
+This section analyses the implications of the EMT on the protection of data
+. This section investigates whether extended mental data
+can pass the gateway into
+protection, and additionally, whether the
+protections afforded are adequate.
+A Mental Data as Personal Data
+At present, the protection of data of any kind in the
+the characterisation of data under particular categories which invoke special
+protections. In the
+, the technologically-neutral gateway for data
+protection is the characterisation of data as ‘personal data’.
+data is defined as:
+[A]ny information relating to an identified or identifiable natural person
+... an identifiable natural person is one who can be identified,
+directly or
+indirectly, in particular by reference to an identifier such as a name, an
+identification number, location data, an online
+identifier or to one or more
+factors specific to the physical, physiological, genetic, mental, economic,
+cultural or social identity
+of that natural
+If data is categorised as personal data, this kicks article 5 into gear to
+provide protections for the processing of personal data.
+Processing is defined
+[A]ny operation or set of operations which is performed on personal data or
+on sets of personal data, whether or not by automated
+means, such as collection,
+recording, organisation, structuring, storage, adaptation or alteration,
+retrieval, consultation, use,
+disclosure by transmission, dissemination or
+otherwise making available, alignment or combination, restriction, erasure or
+destruction
+Article 5 protections mandate that, among other things, personal data
+processing must be: lawful, fair, and transparent in relation
+to the data
+subject; collected and processed for specific, explicit, and legitimate
+purposes; and that the data is processed in a
+way that ensures appropriate
+security of the data.
+Thus, the key elements of data protection under the
+simplified into three elements. First, data must be ‘personal data’
+per the definition in article 4(1). This is
+the gateway for protection under the
+. Second, that data must be being ‘processed’ per the
+definition in article 4(2). Third, if the data is personal data
+processed, then under the
+this data must be processed in compliance
+with article 5 mandates.
+The central question regarding the protection of extended mental data is thus
+whether the definition of ‘personal data’
+is flexible and wide
+enough to cover the components of the extended mind. The EMT does not make clear
+categorical delineations between
+what the mind is and what it isn’t. Clark
+and Chalmers acknowledge that they ‘do not think that there are
+categorical
+answers to all of these questions, and will not give
+In thinking about
+smartphones, for instance, certain data on these devices that may be part of the
+extended mind will likely be protected
+at some level. However, the question here
+is whether apps, such as note-taking or calendar apps (ie, apps with information
+for non-professional
+or non-commercial use), ‘with their increasing
+ability to contribute to the calculation, encoding, storage and retrieval of
+detailed beliefs, memories, plans and desires’, also count as personal
+In the face of such
+uncertainty, it seems the determination of whether extended mental data will be
+personal data must be addressed
+on a case-by-case basis. However, the broader
+the scope of what personal data covers, the more we can anticipate will be
+Fortunately, the scope of personal data is promisingly wide. The European
+Court of Justice has determined that personal data is a
+broad concept intended
+to capture a variety of data.
+Nowak v Data Protection Commissioner
+, the Court expressed
+that the term ‘any information’ in the definition of ‘personal
+data’ reflects:
+[The] aim of the EU legislature to assign a wide scope to that concept, which
+is not restricted to information that is sensitive or
+private, but potentially
+encompasses all kinds of information, not only objective but also subjective, in
+the form of opinions and
+assessments, provided that it ‘relates’ to
+the data subject.
+The requirement that something ‘relates’ to an individual is also
+a broad concept as something ‘relates’ to
+the data subject if
+‘the information, by reason of its content, purpose or effect, is linked
+to a particular person’.
+It has also been clarified that the provision is about protecting the
+‘content of the
+This is encouraging
+as if the focus is more on the content of data rather than its form, the scope
+could capture external features of the mind like Otto’s
+notebook so long as the information in these elements ‘relates
+an individual. On this evidence, it seems that extended mental data could
+constitute personal data.
+The next consideration is whether the extended mental data as personal data
+is processed, and thereby subject to article 5 protections.
+Like the definition
+of personal data, ‘processing’ has a wide scope. The definition of
+processing is also technologically
+neutral but offers a practical delineation
+between data which ought to be protected and that which should not under the
+based on processing purposes and contexts. Under article 5,
+Otto’s notebook may not be protected in his own hands but would
+protected in the hands of an investigator working to figure out where he lives.
+This is because the data in Otto’s notebook
+is no longer for his personal
+use, but re-contextualised as data processed as part of a professional
+investigation.
+example, processing could protect against Neurovista’s BCI gathering
+information about the mind that goes beyond
+its stated purpose to alert users of
+oncoming epileptic seizures. In these examples, the mental data in question is
+no longer merely
+personal but indeed being processed for commercial or
+professional purposes.
+However, the emphasis on purpose and context poses challenges for the
+protection of mental data, which we generally take to be worth
+irrespective of the context or purpose of its use. The European Commission has
+explicitly stated that the
+‘does not apply to data processed
+by an individual for purely personal reasons or for activities carried out
+means that unless elements of the processing of the extended mind elements are
+connected ‘to some professional or commercial
+activity’ they will
+not be protected.
+While a very practical approach to technologically-neutral data protection
+that ultimately applies to all kinds of data to be protected,
+it seems morally
+unsatisfactory to leave mental data without a baseline protection. In theory, I
+could read Otto’s notebook
+for personal reasons – say, out of
+interest – and the
+would offer no protections or recourse for
+Otto. Under the EMT, this is morally equivalent to saying that I could
+(hypothetically)
+read Otto’s biological, brain-based memory for personal
+reasons, and that the
+would offer no protections despite being one
+of the leading data protection laws in the world. There is clearly a normative
+in the way the purposive and context driven elements of the personal data
+processing provisions under Article 5 and the protection
+of personal data
+interact with the moral implications of the EMT. As such, it is necessary to
+consider whether better protections
+may be afforded under the
+through the characterisation of extended mental data as a special category of
+personal data which are ordinarily prohibited from
+processing.
+Mental Data as a Special Category of Personal
+There is an additional level of protection the
+affords to more
+sensitive types of data under the classification of ‘special categories of
+personal data’. Recital 15
+specifically states that a high
+level of protection for sensitive data is regarded as necessary since these data
+‘are, by their
+nature, particularly sensitive in relation to fundamental
+rights and freedoms’.
+acknowledged earlier in this paper, the mind, and thus mental data, is
+fundamentally connected to rights and freedoms related
+to privacy, freedom of
+thought, freedom of expression, and human dignity. The classification of mental
+data as a special category
+of personal therefore represents a promising route to
+the protect extended mind at a baseline level.
+The question here, therefore, is whether mental data falls within this
+classification. To qualify, data must be ‘personal data’
+article 4(1) and then considered in light of article 9. Under article 9,
+processing of data is outright prohibited if: (a)
+processing the data reveals
+information about racial or ethnic origin, political opinions, religious or
+philosophical beliefs, or
+trade union members; (b) the data is genetic data; (c)
+the data is biometric data for the purpose of uniquely identifying a natural
+person; (d) the data concerns health; or, (e) the data concerns a natural
+person’s sex life or sexual
+orientation.
+According to these provisions, extended mental data may be captured by (a),
+(c), (d) or (e). With regard to (a) and (e), Marcello
+Ienca and Gianclaudio
+Malgieri highlight:
+For what concerns data revealing information related to data subjects’
+[an individual in question’s] thoughts or memories,
+these data are not
+automatically sensitive data just because they refer to the ‘mental
+sphere’ of the subject. However,
+if –considering their content and
+the context and purpose of the data processing it is likely that these kinds of
+reveal information about religious beliefs, political opinions, and
+sex life or sexual orientation, they are sensitive data under
+Article 9(1)
+Unfortunately, this means that we run into the same issue as above: the
+protection of mental data under situations in (a) and (e)
+is therefore context
+and purpose dependent. Considering (c), some parts of the extended mind could be
+considered biometric data.
+Neurodata, for example, could be considered sensitive
+data if collected through biometric tools for the purposes of
+identification.
+However, this
+leaves out non-biometric data, such as Otto’s notebook, that may well
+constitute the mind, and again is purpose
+and context dependent. Finally,
+extended mental data maybe captured if it is considered data concerning health.
+Data concerning health
+is defined as personal data ‘related to the
+physical or mental health of a natural person...which reveal information about
+his or her health status’.
+This provides some promise. Stephen Rainey et al identify that this could
+capture neurotechnological devices working with brain data
+used in healthcare
+and research settings.
+many aspects of the mind may be too far from indicating mental health to be
+captured and are not necessarily brain-based,
+or indeed used in medical or
+research settings. Again, the protection of mental data generally is hindered by
+purpose and context
+considerations.
+Furthermore, it is worth considering how the protection of data may look even
+if mental data is considered a special category of personal
+data. Even if the
+extended mind was captured in some instances by this category, the prohibitions
+in article 9 may not apply due
+to the exceptions in article 9(2). The most
+interesting exception in the context of the extended mind is the exception
+relating to
+‘personal data ... manifestly made public by the data
+This provision
+has not been interpreted in case law or further defined in the regulation. Lack
+of clarification around what is precisely
+meant by ‘public’ here
+creates significant complications for the extended mind where aspects of the
+mind may indeed be
+public in the sense they are out in the world. However, there
+is some (promising) indication that not such a wide view will be taken
+courts. The
+Handbook on European Data Protection
+provides that
+this exception ‘must be construed strictly and as requiring the data
+subject to deliberately make his or her
+personal data public’ which is to
+say the data subject would need to make a ‘deliberate, affirmative act to
+personal data
+If the data of
+the mind is public by nature, this is unlikely to amount to a deliberate,
+affirmative act; rather, it would be a given
+by nature of its existence. On this
+evidence then, it seems promising this exception would not apply to undermine
+mental data that
+is captured under the article 9(1) prohibition. It is worth
+emphasising though, that even if it was considered public under this
+protections in article 5 will still apply as the threshold for personal data is
+met. However, as previously discussed,
+this is not so reassuring. Where does
+this leave us then?
+IV ADDRESSING GAPS IN THE
+Evidently, the approach in
+taken to defining personal data and
+special categories of personal data reflects a technologically-neutral
+methodology accompanied
+by a purpose and context-driven determination of whether
+data and processing activities warrant protection under the
+technologically-neutral approach benefits the EMT in some ways. The adaptability
+and flexibility afforded by the
+’s technological neutrality and
+focus on content of information (rather than form) creates a wide scope that
+adapts to changing
+technologies and
+understandings.
+This creates
+allows for the elements of extended mind to be potentially captured, regardless
+of the form of data that the mind’s
+contents may take.
+However, difficulty emerges in considering the purpose and context-driven
+protection of data in the
+, especially with regard to the
+characterisation of processing and the associated article 5 and article 9
+protections. That is, even
+if data is considered personal data and thus passes
+the gateway into the
+, this may be insufficient to adequately protect
+the extended mind. It is morally concerning that mental data, considered some of
+the most sensitive data, is subject to protection based on purpose and context.
+Thus, the weakness of the
+approach in the context of the extended
+mind is that it loses out on the expression of normative values in the
+protection of mental
+data. In short, there is a ‘clear conceptual and
+normative gap: even though most people would agree that mental data are the
+intimate and sensitive ... not all mental data are protected under the strict
+regime of sensitive data’.
+Indeed, the importance of normative considerations in the protection of mental
+data cannot be understated given that if people gained
+access to elements of our
+extended mind, ‘such as our smartphones or laptops, they would not be
+committing a typical violation
+of privacy – they would be looking into our
+‘the greater the extent to which the skull as a natural barrier of the
+mind becomes permeable’, the greater
+the impetus to configure boundaries
+around the mind to protect it.
+Thus, to preserve mental privacy as we know it, mental data should be equally
+inaccessible as the contents of our
+currently support this.
+There are a few considerations regarding where we can go from here. First,
+the normative gap in the
+highlights the need for further
+consideration of mental data under the
+has capacity
+to recognise the inherent value and protection of specific types of data –
+for example, genetic data. One option
+is to draw analogies to the special status
+of genetic data in the
+and create comparable protections for mental
+For instance, article 9
+prohibitions apply to genetic data not because of its use or purpose context,
+but by virtue of being genetic
+data; that is, by virtue of the type of data it
+is. However, no such protection exists for mental data. Perhaps what we need is
+technologically-neutral approach with a data-specific approach for mental
+data. Such an approach is also supported by analogy, as
+there is significant
+similarity between genetic and mental data as highly individualistic and morally
+valuable types of human data.
+Indeed, the protection of genetic data as a
+specific type of data has developed in the face of the Biotechnology Revolution
+century, and we are comparably facing the revolution
+of neuroscience and data today.
+Such a prohibition on the processing of mental data akin to that for genetic
+data would therefore better reflect the implications
+of the EMT.
+However, the
+has limitations that cannot be specifically overcome
+by data-specific protection for mental data alone. Under the EMT, the very
+technologies
+threatening the mind could become protected as constituents of the
+mind. That is, some of the technologies criticised for being for
+invasive on the mind, such as certain BCIs, would then become protected
+themselves.
+Additionally, there
+are questions about who owns extended mind data in the context of digital mind
+elements. This is especially the
+case if extended mental data is stored or
+created on applications or subscription services operated by private companies.
+individual own the contents of their mind if it is on an app owned by a
+company? Could it be the case that people might not even
+own aspects of their
+own minds? These are highly problematic implications of the EMT, and relying on
+alone does nothing to address these issues. This is because this
+discussion of the protection of the mind is situated within broader
+our understanding of how we relate to machines and devices, such as the blurring
+of boundaries between human and device,
+as discussed in Part I of this paper.
+Thus, any attempt to better protect the mind must also involve a deeper
+reflection on the ‘formal
+constitution’ of the law itself, and a
+consideration of ‘the cultural imaginaries and symbolisms that shape
+and are shaped by it.
+As such, only focussing on legal protections under the
+current or potential future states, will do little do address these pressing
+In light of these circumstances, the
+seems ill-equipped to be
+tasked with providing exhaustive protection of the extended mind. As such, we
+will need to look elsewhere
+for additional or complimentary legal regulations.
+Indeed, the genetic data provisions in the
+are also situated within
+a context of both additional international and domestic laws protecting genetic
+information as well as its
+As such, protections for the contents of the extended mind could also be
+afforded by other, even new, regulatory approaches. Neurorights
+are one such
+emerging legal modality with the potential to protect mental
+There is even a specific
+neuroright to mental privacy which states that ‘[i]ndividuals must have
+the ability to keep data about
+their mental activity protected from unwanted
+disclosure’.
+further research in this space is required, and must be informed by how these
+emerging legal approaches interact with our
+changing understanding of the human
+as more-than, and more specifically, the idea of the mind as extended. Of
+course, there is also
+scope for non-legal regulatory measures to be considered
+in this context, such as protection by design. Such options are beyond the
+of this paper but further emphasise that there is no shortage of questions and
+concerns regarding the protection of the extended
+mind to be investigated.
+V CONCLUSION
+On the available evidence, the
+therefore fails to provide
+adequate and convincing protection of mental data as understood according to the
+EMT. Mental data may
+constitute personal data and thereby pass the gateway of
+consideration under the
+. However, the purposive and context-driven
+approach to technologically-neutral data protection in the
+ultimately undermines effective data protection for mental data that is
+consistent with moral and normative understandings of the
+mind. Such a normative
+gap in the protections afforded by the
+is highlighted by the
+operation of the personal data protections, considerations for processing, and
+special categories of personal
+data provisions. In looking forward, alternative
+regulatory approaches both within the
+, such as data-specific
+provisions for mental data analogous to those for genetic data, and outside the
+, such as emerging neurorights frameworks, ought to be considered. As
+the sociotechnological landscape continues to change in this
+context, continued
+research and vigilance will be essential to protecting the mind if we indeed
+hold it so dear.
+* Bachelor of Science/Bachelor of Laws, University of New South Wales,
+Sydney. The author would like to thank Associate Professor
+Kayleen Manwaring at
+the Faculty of Law & Justice of the University of New South Wales for their
+Rajeev Lochan Tripathi, ‘What is Mind in Philosophy: An
+Introduction’ (2024) 8(6)
+International Journal of Scientific Research
+in Engineering and Management
+Philosophy of Mind
+(Westview Press, 3
+Sjors Ligthart et al,
+‘Minding Rights: Mapping Ethical and Legal Foundations of
+“Neurorights”’ (2023) 32(4)
+Cambridge Quarterly of
+Healthcare Ethics
+461, 466; Tripathi (n 1) 4–5, 11.
+Rafael Yuste,
+‘Advocating for Neurodata Privacy and Neurotechnology Regulation’
+(2023) 18(10)
+Nature protocols
+2869, 2869.
+Andy Clark and David Chalmers,
+‘The Extended Mind’ (1998) 58(1)
+Regulation (EU) 2016/679 of
+the European Parliament and of the Council of 27 April 2016 on the Protection of
+Natural Persons with
+Regard to the Processing of Personal Data and on the Free
+Movement of Such Data, and Repealing Directive 95/46/EC
+General Data
+Protection Regulation
+) [2016] OJ L 119/1 (‘
+Ben Wolford, ‘What Is
+, the EU’s New Data Protection Law?’,
+Page) <https://gdpr.eu/what-is-gdpr>.
+See Marcello Ienca and
+Gianclaudio Malgieri, ‘Mental Data Protection and the GDPR’ (2022)
+Journal of Law and the Biosciences
+1; Spyridon Orestis
+Palermos, ‘Data, Metadata, Mental Data? Privacy and the Extended
+Mind’ (2023) 14(2)
+AJOB Neuroscience
+84; Stephen Rainey
+et al, ‘Is the European Data Protection Regulation Sufficient to Deal with
+Emerging Data Concerns Relating
+to Neurotechnology?’ (2020)
+Journal of Law and the Biosciences
+Ibid art 9(1).
+Tripathi (n 1) 3.
+Donna Haraway,
+Cyborgs, and Women: The Reinvention of Nature
+(Routledge, 1991)
+It is beyond the scope of
+this article to detail the development of the concept of the mind in Western
+thought. For a review of
+the construction of the mind in philosophy of mind, see
+generally Rajeev Lochan Tripathi, ‘What Is Mind in Philosophy: An
+Introduction’
+(2024) 8(6)
+International Journal of Scientific Research
+in Engineering and Management
+Australian Human Rights
+Commission,
+Protecting Cognition: Background Paper on Human Rights and
+Neurotechnology
+(Background Paper, March 2024) 11–12;
+Declaration of Human Rights
+, GA Res 217A (III), UN GAOR, UN Doc A/810 (10
+December 1948) arts 1, 3;
+International Convention on Civil and Political
+, opened for signature 16 December
+1966, 999 UNTS 171
+(entered into
+force 23 March 1976) art 18, art 19.
+Ligthart et al (n 3) 466.
+Frederic Gilbert, Marcello
+Ienca and Mark Cook, ‘How I Became Myself after Merging with a Computer:
+Does Human-Machine Symbiosis
+Raise Human Rights Issues?’ (2023)
+Brain Stimulation
+See Ujwal Chaudhary et al,
+‘Spelling Interface Using Intracortical Signals in a Completely Locked-in
+Patient Enabled via Auditory
+Neurofeedback Training’ (2022)
+Nature Communications
+1236; Salvador Dura-Bernal,
+‘Introduction to Part I: State of the Art and Challenges of
+Neurotechnology’ in UNESCO,
+University of Milan-Bicocca: Department of
+Business and Law, and State University of New York,
+The Risks and Challenges
+of Neurotechnologies for Human Rights
+(UNESCO Open Access, 2023) 10,
+10–11; Lewis Gordon, ‘Brain-Computer Gaming Exists, though Ethical
+Questions Loom over
+The Washington Post
+(Web Page, 16
+December 2020)
+<https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/>.
+Morse, ‘Neuroethics: Neurolaw’ (2017) in
+The Oxford Handbook
+of Topics in Philosophy
+(Oxford Academic, 2014) 19.
+Sonja van Wichelen and Marc
+Biolegality: A Critical Introduction
+Macmillan, 2024) 129.
+Morse (n 19) 20.
+See Panel for the Future of
+Science and Technology, and European Parliamentary Research Service Scientific
+Foresight Unit,
+The Protection of Mental Privacy in the Area of Neuroscience:
+Societal, Legal and Ethical Challenges
+(Study, July 2024); Jared Genser,
+Stephen Damianos and Rafael Yuste,
+Safeguarding Brain Data: Assessing the
+(Report, April
+2024); Australian Human Rights Commission,
+Protecting Cognition: Background
+Paper on Human Rights and Neurotechnology
+(Background Report, March
+Margaret Davies,
+‘Distributed Cognition, Distributed Being, and the Foundations of
+Law’ in Marc de Leeuw and Sonja van
+Wichelen (eds)
+Personhood in the
+Age of Biolegality
+(Palgrave Macmillan, 2019) 205, 206.
+Adrian F Ward,
+‘Supernormal: How the Internet Is Changing Our Memories and Our
+Minds’ (2013) 24(4)
+Psychological Inquiry
+Mark J Cook et al,
+‘Prediction of Seizure Likelihood with a Long-Term, Implanted Seizure
+Advisory System in Patients with
+Drug-Resistant Epilepsy: A First-in-Man
+Study’ (2013) 12(6)
+Lancet Neurology
+Gilbert, Ienca and Cook (n
+Spyridon Orestis Palermos,
+‘Data, Metadata, Mental Data? Privacy and the Extended Mind’ (2023)
+AJOB Neuroscience
+See Colorado House Bill
+24-1058 2024 (CO);
+Colorado Privacy Act 2017
+(CO); California Senate Bill
+1223 2024 (CA);
+California Consumer Privacy Act 2018
+Davies (n 24) 206.
+Ibid 206, citing: Mary
+Graham, ‘Some Thoughts about the Philosophical Underpinnings of Aboriginal
+Worldviews’ (2008)
+Australian Humanities Review
+181; Ambelin
+Kwaymullina and Blaze Kwaymullina, ‘Learning to Read the Signs: Law in an
+Indigenous Reality’ (2010) 34(2)
+Journal of Australian Studies
+Bawaka Country et al, ‘Co-becoming Bawaka: Towards a Relational
+Understanding of Place/Space’ (2016) 40(4)
+Progress in Human
+455; Kirsten Anker, ‘Law as ... Forest: Eco-Logic, Stories
+and Spirits in Indigenous Jurisprudence’
+Law Text Culture
+Clark and Chalmers (n 5)
+Ibid art 4(2).
+Ibid art 5.
+Clark and Chalmers (n 6)
+Palermos (n 31) 87.
+Peter Nowak v Data
+Protection Commissioner
+(Court of Justice of the European Union, C-434/16,
+ECLI:EU:C:2017:994, 20 December 2020) [33] (‘
+College van burgemeester en wethouders van Rotterdam v M. E. E.
+(Court of Justice of the European Union, C-553/07,
+EU:C:2009:293, 7 May 2009) [59].
+Richie Koch, ‘What Is
+Considered Personal Data under the EU GDPR?’
+<https://gdpr.eu/eu-gdpr-personal-data/>.
+This hypothetical situation
+is inspired by examples used to explain the purposes of processing and personal
+data under the
+. See Koch (n 51).
+‘Data Protection
+Explained’,
+European Commission
+<https://commission.europa.eu/law/law-topic/data-protection/data-protection-explained_en>.
+(n 6) recital
+Ibid art 9(1).
+Ienca and Malgieri (n 9)
+(n 7) recital
+Stephen Rainey et al,
+‘Is the European Data Protection Regulation Sufficient to Deal with
+Emerging Data Concerns Relating
+to Neurotechnology?’ (2020)
+Journal of Law and the Biosciences
+European Union Agency for
+Fundamental Rights, European Court of Human Rights and European Data Protection
+Supervisor, Handbook on
+European Data Protection Law (Publications Office of the
+European Union, 2018) 162, cited in Edward S Dove and Jiahong Chen, ‘What
+Does it Mean for a Data Subject to Make Their Personal Data ‘Manifestly
+Public’? An Analysis of
+Article 9(2)(e)’ (2021) 11(2)
+International Data Privacy Law
+(n 7) recital
+Lyria Bennett Moses,
+‘Recurring Dilemmas: The Law’s Race to Keep Up with Technological
+Change’ [2007]
+University of New South Wales Faculty of Law Research
+Ienca and Malgieri (n 9)
+Palermos (n 31) 84, citing
+Peter B Reiner and Saskia K Nagel, ‘Technologies of the Extended Mind:
+Defining the Issues’
+in Judy Illes (ed)
+Neuroethics: Anticipating the
+(Oxford University Press, 2017) 108; Clark and Chalmers (n 5) 18.
+Ibid 656, quoting
+Jan-Christoph Bublitz, ‘The Nascent Right to Psychological Integrity and
+Mental Self-Determination’
+in Andreas von Arnauld, Kerstin von der
+Decken and Mart Susi (eds)
+The Cambridge Handbook of New Human Rights:
+Recognition, Novelty, Rhetoric
+(Cambridge University Press, 2020)
+Palermos (n 31) 90.
+(n 7) recital
+van Wichelen and de Leeuw
+Vera Tesink et al,
+‘Right to Mental Integrity and Neurotechnologies: Implications of the
+Extended Mind Thesis’ (2024)
+Journal of Medical Ethics
+Davies (n 24) 207.
+Convention on
+Human Rights and Biomedicine
+opened for signature on 4 April 1997
+(entered into force 1 December 1999); Françoise Baylis et al,
+‘Human Germline and Heritable Genome Editing: The Global
+Landscape’ (2020) 3(5)
+CRISPR Journal
+See Marcello Ienca and
+Roberto Andorno, ‘Towards New Human Rights in the Age of Neuroscience and
+Neurotechnology’ (2017)
+Life Sciences, Society and
+The Neurorights Foundation,
+‘Mission: The Five Neurorights’
+The Neurorights Foundation
+(Web Page) <https://neurorightsfoundation.org/mission>.
+Print (pretty)
+Print (eco-friendly)
+RTF format (87.5 KB)
+PDF format (297 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

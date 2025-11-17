@@ -1,0 +1,1565 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/ANZCompuLawJl/2022/6.html
+Scraped: 2025-11-17 14:13:32
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Nousiainen, Katri; Keski-Rahkonen, Joonas; McDonald, Tim; Feldmann, Sascha --- "Towards Society of Quantum Tomorrow" [2022] ANZCompuLawJl 6; (2022) 94 Computers & Law, Article 6
+I INTRODUCTION
+II AWARENESS: FUTURE IS QUANTUM
+III ANALYSIS: QUANTUM ROADMAP
+B Inclusiveness
+C Balancing Regulatory Activities
+D Safeguarding Individual Rights and Liberties
+E Innovating by Design
+IV ACTION: STEPS TOWARDS A FUTURE QUANTUM SOCIETY
+V CONCLUSION
+TOWARDS SOCIETY OF QUANTUM TOMORROW
+NOUSIAINEN,
+KESKI-RAHKONEN,
+Quantum technologies encompass a wide and ever-growing field of applications
+which leverage unique quantum-mechanical properties for
+performing tasks that
+existing, classical technologies could not. To benefit all of society optimally,
+it is a linchpin that we are
+aware of not just the potential of these emerging
+technologies, but also of the risks involved, to analyze them thoroughly, and to
+take political action accordingly – an A-cubed approach. Here, we follow
+this approach by first depicting a picture of the
+future quantum society. We
+then present a five-point roadmap to examine social, ethical and economical
+dimensions of quantum technologies,
+with a call for further discussions on the
+prospective legal and policy framework. Finally, we look over possible steps we
+on the path towards a bright society of quantum
+I INTRODUCTION
+The brave new world of quantum technologies is upon us. As we are entering
+into the new era of quantum technologies, the sovereign
+states, institutional
+and organizational operators, as well as businesses should reflect upon the
+social and legal relevance of this
+technological progress. Towards this goal, we
+propose the A-cubed approach - awareness, analysis, and action - being employed
+socio-economic framework construction (visualized in Fig. 1).
+. A-cubed approach to
+integrate new emerging quantum technologies into a part of future society: Raise
+awareness, analyze the environment,
+and take appropriate action.
+First, it is of crucial importance that we are aware of these new
+technologies; secondly, their implications and ramifications must
+be carefully
+analyzed within their respective environments, and lastly appropriate actions
+should be taken to work for their development
+but also to safeguard for
+individual and social rights. In the international arena, the path dependency
+process plays a crucial role
+in finding balance with various rights and
+obligations. In the quantum-technological environment, we see that the legal
+design approach,
+which aims to empower within improving, supporting, and
+demonstrating, can pave the way towards a legal framework that is transparent,
+human-centric, efficient, and comprehensible as well as foster equality and
+nondiscrimination. We recognize that it is better to
+be proactive than
+II AWARENESS: FUTURE IS
+To take full social benefit of new emerging quantum technologies, we should
+first be aware of what they encompass. Based on the economic
+theories on path
+dependency,
+knowledge is prevalent
+in society and learning is considered as gradual. We encounter the same dilemma
+with quantum technologies:
+we have the golden opportunity to embrace learnings
+from the past, to enhance, and build on the understanding that we have today.
+a matter of exemplary incident, we may study the policy frameworks of the
+1990’s for the internet.
+more modern reference point for the embodiment of quantum technologies is an
+envisaged social-legal-ethnic framework for
+nanotechnology.
+Though, just
+reflecting the past is not enough, and a new point of view on quantum matters is
+a linchpin, even when the learning
+process comes with a cost. At the end of the
+day, comprehensive understanding and knowledge are pivotal for successful
+innovation,
+development, and competition. In this respect, we should raise
+quantum awareness – there is a new game in town.
+The topic of “quantum” has attracted a lot of attention in recent
+years, starting from science and media until it now
+has reached every part of
+society through the first applications coined “quantum” in the
+consumer market. Yet, for the
+majority of people it is not actually clear what
+“quantum” really means, leave alone what implications quantum
+technologies
+might have for society in the future. Right now, we find ourselves
+in the midst of a quantum revolution – however, not in the
+first, but the
+second one in the history of quantum physics.
+The first quantum evolution began with the discovery of quantum mechanics and
+its laws in the beginning of the 20
+century, pioneered by
+physicists like Planck, Einstein, Bohr, Heisenberg, to acknowledge only a few of
+the most notable ones. Following
+the initial observations on the quantized
+nature of our underlying reality and the dualism between waves and particles,
+the understanding
+of these principles has by now enabled inventions that have
+had a lasting impact on the development of civilization. Examples include
+transistor or laser - essential building blocks in modern computers and
+telecommunication, thus forming the backbone of our digitalized
+society and the
+motor of globalization.
+The second quantum evolution is currently underway, and most scientific
+efforts in the present focus on building, fully controlling
+and taking advantage
+of quantum systems. One widely anticipated embodiment of emerging quantum
+technologies is a functional quantum
+computer. In a nutshell, a quantum computer
+is a device that harnesses the properties of quantum mechanics to store data and
+computational tasks.
+Although conventional computers have been present in some form since the 20th
+century, the possibility of a computer operating exclusively
+with quantum
+mechanical principles was put forward in the
+, which has led to the current
+rise of the quantum computing and information
+, onside stimulating the
+evolution of other quantum technologies.
+Even though any computational challenge with a classical computer can also,
+in principle, be targeted by a quantum computer, there
+are mathematical problems
+where a quantum computer outshines its classical counterparts
+spectacularly.
+Whereas classical
+computers, such as modern laptops and smartphones, encode information in binary
+, as either zeros or ones, the fundamental element of a quantum
+computer is a qubit, which in a simplified picture can be a zero and
+same time. These quantum bits are nowadays realized in various physical
+Over the last decade,
+significant progress has been made, and real-life quantum computers exist. For
+the time being, classical computers
+seem to handle most daily computational
+tasks with which a quantum computer is challenged, with a similar efficiency. On
+hand, based on some companies, such as IBM and Google, we are on the
+verge of achieving a genuine quantum
+. However, current
+devices are early examples of noisy intermediate-scale quantum computers, and
+these have just begun to find important
+applications in quantum simulation and
+The biggest adversary
+for the triumph of quantum computing has been the fragile nature of its building
+blocks, qubits, that will
+be rendered into an old-fashioned classical computer
+employing zeros and ones, i.e., bits, by unwanted disturbance, colloquially
+decoherence. A future challenge is to design devices with an ability to
+shield their quantum nature from decoherence, while remaining
+easy to operate.
+Whether it will be more robust, error-tolerant quantum
+or better ways to
+correct and mitigate errors
+both - only time will show us.
+It is the peculiar nature of qubits that gives a quantum computer an edge to
+solve certain complex problems better than the best conventional
+supercomputers.
+gives an overview of potential future applications which could harness this
+“quantum advantage”. For completeness,
+we want to emphasize that
+there are also many situations where a quantum computer will always be inferior
+to a classical one, or
+where the quantum-boost will be
+Most likely, the
+supercomputers of the future are a
+; a quantum computer and a
+classical computer working in symbiosis to tackle hard computational problems
+more efficiently. In other
+words, there will be no future extinction of
+classical computers, at least not due to quantum computing!
+. The future is quantum -
+Potential applications related to quantum technologies that could enter the
+consumer market within the next
+decade. Examples include drug and materials
+discovery, quantum computing and cryptography as well as boosts towards a more
+sustainable
+energy consumption and production.
+The sought-after quantum
+, sometimes called
+quantum supremacy
+, stems from
+the ability of a qubit array to represent and analyze a very large set of
+information
+. In fact, a few
+hundred entangled qubits are sufficient to describe all atoms in the whole
+Universe, whereas no classical computer
+would have enough available memory for
+this task. More precisely, a quantum computer excels in computational tasks
+which require
+going through a myriad of possible combinations to find the
+solution. For instance, the quantum advantage over classical computers
+achieved in solving mathematical optimization issues such as the prime number
+factorization problem
+closely linked to modern encryption methods, and the traveling salesman
+, which is in turn, for
+example, to the optimization of parcel delivery routes. Even though this casts
+a shadow on the widely employed
+encryption protocols, quantum can also be an
+: quantum information
+processing and quantum cryptography are thus promising applications leveraging
+the laws of quantum mechanics
+in the future. Furthermore, the quantum
+enchantment is shown to pay dividends in both machine learning and artificial
+intelligence
+that are valuable tools to utilize the ever-increasing mountain of
+available data.
+In addition to
+the computational speed-up, quantum computers are a natural platform to test the
+fundamental principles of
+, as well as to simulate
+the behavior of (complex) physical
+, which could act as a
+new catalyst to material science and chemistry.
+Quantum computers could also assist to map out and benchmark future
+pharmaceuticals, and thus dramatically accelerate the discovery
+therapeutics or other useful drugs, while screening the highly multidimensional
+chemical space with classical methods is almost
+impossible.
+Indeed, most total
+synthesis of target drug molecules to date still relies on the chemical
+intuition and experience of chemists in
+envisioning potential synthesis routes,
+which ultimately need to be tested in cost-extensive trial and error
+In addition, quantum
+sensing can be utilized, for example, to make structures and functions of
+individual biomolecules visible under
+physiological
+conditions.
+Likewise, materials discovery could be dramatically improved using a
+combination of machine learning approaches based on existing
+data bases and the
+highly parallelized nature of quantum simulations to find new material
+compositions. Examples and pressing challenges
+to tackle here include building
+material that could substitute concrete with its extreme carbon and energy
+footprint, while being
+more light-weight and versatile to manipulate,
+high-performance polymers, or highly efficient semiconductors that could
+silicon in solar cells or electronics components with enhanced energy
+efficiency.
+Aside from directly using quantum systems in quantum simulation and quantum
+information, there exists also a plethora of applications
+already in use today,
+which could see a dramatic “quantum boost” in efficiency in the near
+future. Examples here include
+the use of charges or light with a precise control
+over multiple quantum properties, such as the spin, momentum and
+polarization
+. Controlling the
+spin of electrons in optoelectronic devices could result in a reduction of
+scattering losses for enhanced solar
+cell performance, or significantly improve
+the rate of catalyzed chemical reactions, while in a spinLED (LED =
+light-emitting diode)
+the emitted circularly polarized light could double
+light-outcoupling efficiencies and thus the energy efficiency in most existing
+LED displays currently featuring anti-glare
+. This would dramatically
+enhance the battery life or conversely reduce the energy consumption in most
+digital consumer products.
+As such, quantum-boosted technology improvements
+could enable a more sustainable energy
+Other potential quantum advantages could lie in the energy-consuming nature
+of computing itself: This occurs currently almost exclusively
+transistors based on electronics, meaning information can be transmitted through
+electrical current either flowing or not
+flowing. As such, a bit of information
+(a “1” or a “0”) relies on permanent consumption of
+electrical energy.
+In contrast, employing a quantum-mechanical property of an
+electron called its “spin” would enable spintronics applications
+which would be by far more energy-efficient than electronics, as preserving a
+specific state of information would not consume energy
+and switching it would
+consume much less energy than switching in
+electronics
+. As such, quantum
+applications would highly enable energy efficient information processing in the
+future. In particular, quantum
+technologies could help reaching multiple
+Sustainable Development Goals set out by the United Nations, including
+Affordable and Clean
+Energy (#7), Industry, Innovation and Infrastructure (#9),
+Sustainable Cities and Communities (#11), and Responsible Consumption
+Production (#12)
+For the most part, new quantum technologies at the moment are still in the
+early stage of pioneering and commercialization, but the
+race for quantum
+resources has nevertheless clearly begun. There are high expectations and hopes
+that new emerging quantum technologies,
+like quantum computers, may assist us to
+tackle some of today’s acute issues, thereby providing a means towards a
+greener and
+brighter society. A step into this direction is to remember that
+there should still ideally be no great knowledge and information
+between all the relevant operators. Furthermore, knowledge on quantum
+technologies should also be disseminated in understandable
+terms to the general
+audience to achieve a wide social comprehension. In particular, the academy and
+education system has a central
+role to play in raising public quantum awareness,
+and to generate “quantum-skilled workforce” which is a necessary
+prerequisite
+to sustain and to drive a quantum ecosystem.
+In order to learn from best interdisciplinary practices and to create
+awareness and the most value, it is crucial to bridge more between
+academia and society. We see it is worthy of increasing knowledge and
+information between different operators, such as
+the academy, policy makers and
+industry, regarding interests, incentives, and objectives supporting the
+creation of standardization
+and best practices within quantum technologies.
+Thus, the goal is to thrive the technological development and its social
+embodiment,
+and to create a flourishing quantum ecosystem in the future. A
+pivotal aspect in quantum awareness is to acknowledge that the employment
+possession of new technologies create possibilities but also bring
+responsibilities. As we are now ushering into the next era
+of quantum, time is
+ripe to dissect the social-legal-ethical situation of today, and then to act in
+preparation for the quantum leap
+III ANALYSIS: QUANTUM
+As briefly discussed above, the quantum way of thinking has reshaped our
+worldview about the Universe but has also led to significant
+applications our modern society relies on in the past century. A current trend
+is to innovate more efficient and greener
+materials or components for future
+nanoelectronics by taking a better advantage of quantum
+, as it is getting
+harder to push the boundaries of Moore’s
+, i.e., doubling the
+transistor density on a microchip every second year. In addition to this
+evolutionary development, we are now
+experiencing a new wave of novel quantum
+technologies that are promising in terms of social impact and commercial
+applications
+communication
+. Furthermore,
+different technologies affect each other, especially when combined. For
+instance, quantum technologies may influence
+the survival and evolution of other
+technologies, such as artificial intelligence and big data applications, but
+this kind of interactions
+may vice versa increase the power and employment of
+the quantum technologies.
+Although the emerging quantum technologies, such quantum computing, are still
+at the initial stage of utilization – transiting
+from the pilot phase to
+the commercial sphere, they have already begun to influence the structures and
+functions of society in a
+spectrum of ways. Sovereign states, institutions,
+organizations, and corporations should be prepared for the emergence of these
+technologies, with the constant goal of improving the current legislative
+framework and initiating new ones. The upcoming technological
+shift will take
+place gradually, thus continuing efforts to stay updated on this development is
+crucial in order to provide for meaningful
+legislation initiatives.
+The application and possession of new technologies involve harmonizing
+different rights but also taking account of rising obligations.
+In anticipation
+of the social embodiment of quantum technologies, we address this regulatory
+dilemma within a legal design framework
+which comes together in our guideline
+– Quantum Roadmap.
+analyzes the emerging legal and ethical responsibilities into five basic
+principles that are ethics, inclusion, balancing regulatory
+activities,
+safeguarding individual rights, and innovating by design (see fig. 3).
+. Quantum roadmap suggested
+by the authors. It has been motivated by the desire to raise quantum awareness
+and to encourage further
+debate on the topic. The roadmap charts the social
+landscape into five interconnecting areas which each is supplemented with a
+guiding principle for the integration of quantum technologies into our
+daily life.
+Equal access, public good, and transparency
+are the guiding ethical principles.
+What ethical risks does quantum technology create, and how can we mitigate
+those risks? To what extent has quantum technology become
+a military asset, and
+what kind of role should international organizations play in governing
+quantum-based weapon technology?
+Law and ethics frequently interrelate, but ethical standards are never a
+supplementation or replacement to legal measure. In particular,
+ethics alone is
+not adequate when regulating high-risk technologies. Nevertheless, ethical
+provide a valuable direction to construct a legal framework
+for society. For example, the development or employment of new technologies
+should not create or aggravate inequalities. It should neither create a
+different level of standing through its design nor should
+it leave room for
+hidden discriminatory practices. Primary calls for the benefit of humankind
+should be recognized together with
+commercial incentives.
+When it comes to the ethical issues regarding the uprise of new technologies
+in a society, we do not start ex nihilo. There has been
+a lot of discussion on
+ethical rules for different technologies, which has paved the way to modern
+generic ethical guidelines. Nevertheless,
+every field has its own special
+traits; surprisingly the society has relatively recently woken-up to consider
+the ethical aspects
+circumstances.
+However, for the
+authors' knowledge, there is no well-established quantum-specific legal-ethics
+at the current state of affairs.
+Therefore, we herald for opening a discussion
+and constructing a legal-ethical framework to cover the emerging quantum
+technologies.
+Furthermore, since society is in a constant flux, the ethical
+norms are thus expected to be dynamic and contextual: the exact quantum-tech
+regulations will always be a product of their time following the current trend
+of the applications and implications of the given
+technology. Consequently, the
+legal-ethical framework has to be agile and updated with regular intervals.
+An exemplary, near-future ethical issue is the dual-usage of quantum
+technologies.
+“dual-usage” term refers to the aspect that technology can be
+employed in both military and in the commercial sphere.
+In fact, at the end of
+2018, the Commerce Department’s Bureau of Industry and Security announced
+that certain quantum technologies,
+such as quantum computing, sensing as well as
+quantum encryption, should be added to a list of blocking U.S exports due to
+dual-usage character.
+Subsequently, the United States has included some quantum technologies on
+the list of goods whose export is being
+restricted.
+There is surely a
+call for a more extensive and legally binding regulatory framework to address
+quantum technologies and their export
+restrictions based on the ethical point of
+views and the common-good practice.
+On the other hand, we must ensure that regulations and export restrictions
+will not hinder the development of new
+technologies
+or cause excessive
+barriers for their financing, other investments, or slow down scientific
+dialogues. In general, we see that equal
+access and transparency lie at the
+heart of ethics. For this purpose, we suggest following the dogma of legal
+design approach when
+approaching the legal-ethical conundrum of quantum
+technology.
+By definition, the legal design is
+to apply a user-centered approach to
+judicial information, services, products, and processes to design them to be
+more comprehensible
+approach aims to generate a systemic impact via empowering lay people with law:
+by supporting equality, creating and building
+value, increasing tools and
+products, reducing knowledge and information asymmetry in society, and enabling
+better access to law
+and legal information. Within this approach, all actors in
+the legal field as well as people outside of it are empowered by employing
+means, such as, design methods, interdisciplinary best practices, and
+technology.
+The legal design operates at least in four prominent ways: empowering,
+improving, supporting, and demonstrating. It builds on the
+design thinking
+process in reaching these
+The design thinking
+process determines the challenges and then executes solutions that take
+end-users' needs into account. These
+needs are at the essence of solutions and
+concept development. The design thinking process centralizes understanding,
+thinking, need-finding,
+creating, and
+Here the legal design
+approach may transform law and legal practice related to quantum technologies
+becoming more transparent,
+human-centric, efficient, and comprehensible as well
+as to foster better quality and the values of non-discrimination. Nonetheless,
+further research is required to demonstrate and to support the expectations on
+benefits derived from the legal design approach in
+the quantum technology
+Inclusiveness
+Democratic involvement and the sharing of knowledge and
+are the guiding inclusive principles.
+How will quantum technology affect international trade, trade relations, and
+trade organizations, and what kind of regulatory challenges
+does it raise? What
+kind of positive and negative effects will export and import restrictions have
+on the quantum-technology industry
+from a social, economic and innovation
+perspective? What role should the public and the private sector play, and at
+which stages?
+How can or should we fund quantum infrastructure?
+We see that the development or employment of new technologies should be
+inclusive and provide benefits to be utilized for the good
+of the whole of
+humankind. The ambition of the inclusiveness is to prevent various risks of
+increased inequality, e.g., stemming
+from the monopolization through immaterial
+property patents, and a quantum division during the commercialization phase,
+which holds
+both companies as well as countries. Furthermore, it aims to
+integrate our democratic values into the social-ontogenesis of new quantum
+technologies, which, for example, requires educating the general public on
+quantum-related technologies. For commercial players,
+a further motivation to
+this direction is that technology which has gained the trust of the people has a
+significant market advantage.
+From the standpoint of our principle, equal access and openness could, to
+some extent, help to impede, or at least restrict, the first
+operators from
+dominating the field. One concrete future software-level solution could be a
+cloud-based service enabling researchers
+and companies to fully tap into the
+benefits of quantum computers on an equal footing. This cloud-based quantum
+computing could be
+either provided by a commercial actor or organized by
+government authorities. Indeed, the current key actors of the quantum computing
+market, such as IBM, Google, Microsoft, and Amazon, are on pace to establish
+their quantum clouds, thus allowing the quantum computing
+experience to a
+broader audience.
+In contrast to quantum-software design, the situation is more challenging on
+the hardware level, i.e., designing and manufacturing
+quantum-computer
+architectures. Whereas we are on the software level, the hardware progress lacks
+behind, but it is catching up at
+an accelerating speed. However, unlike
+quantum-algorithms such as the quantum Fourier-transformation that commonly
+belong to the
+public domain, the hardware development is currently strongly led
+by the private sector so that the corresponding technological breakthroughs
+under immaterial protection rights and corporational trade secrets. At some
+level, this aspect is problematic for the evolution
+of quantum computing, e.g.,
+in respect to the openness and further development of the technology. Due to a
+major innovation or to
+the early-bird advantage, there may occur a
+winner-takes-all scenario in the quantum game where one actor begins to dominate
+market and the technological development in an unhealthy fashion. In
+general, it raises a question what role the public and the private
+sector should
+play, and at which stages. For instance, there might be a reason for
+governmental institutes to prohibit or to restrict
+access to some part of the
+technology, e.g., because of dual-usage and mitigating security risks.
+Some countries have already taken export restriction actions at their
+national level regarding quantum technologies. These actions
+have been realized
+in the form of export controls. It is even expected that we will witness the US
+and China technology war in the
+However, similarly to
+the usage of technology, export policy also has a dual character: it can be
+channeled for good and evil. States
+should be prudent to goals they aim to
+achieve through export restrictions. We recognize that the exportation also
+offers great opportunities
+collaborate,
+learn from each
+other, and it also provides transparency in the development of new technologies.
+As the quantum technologies get
+commercialized, it is a linchpin to find the
+right balance to safeguard security, and peace, as well as to improve
+technological
+development. In particular, we call for international influencers
+such as the United Nations (UN) or World Trade Organization (WTO)
+bigger role in addressing these issues.
+Balancing Regulatory
+Innovativeness, common good, effectiveness and being
+technology-friendly
+are the guiding regulatory principles.
+What type of institutions and governance structures does the emerging quantum
+technology require? To what extent can we rely on current
+and emerging
+regulatory frameworks? What can we learn from the history of technological
+governance and regulatory restrictions?
+The development or employment of new technologies should not be hindered by
+regulatory measures. In other words, the goal of the regulatory
+route is to
+maximize benefits to the whole society and mitigate risks of applied quantum
+technology. At the same time, the legislative
+actions should be cohesive and
+respectful towards the principles of proportionality and subsidiarity while
+providing a stable and
+predictive regulatory environment, which is a key element
+for commercial players. The regulatory actions should be guided by the
+Aristotelian-like philosophy on the excess and deficiency: balancing legal
+development, legal rights and obligations, public good,
+and incentives to
+innovate as well as to safeguard a fertile soil to develop technologies further.
+Although some initial steps have been
+contemporary legal
+frameworks are inadequate to cover quantum technologies. We want to emphasize
+that there is particularly a pressing
+demand for an international regulatory
+framework for the employment of quantum technologies in the society-wide global
+context. For
+example, WTO could be a prominent and connecting entity between
+different nations for addressing the commercial usage of future quantum
+technologies. Overall, it is of the utmost importance to find the regulatory
+With quantum technologies maturing rapidly, it will be seen whether the
+current incentives are enough for different operators to come
+together to take
+precautionary actions. Despite being better to be proactive than reactive, a
+cynical prediction is – by reflecting
+on the past – that a major
+incident often needs to occur before appropriate measures are set in place.
+Safeguarding
+Individual Rights and Liberties
+Prioritizing individual autonomy, fundamental rights and
+equality and fairness are the guiding principles.
+How will quantum technology affect digital surveillance, privacy, fairness,
+trust, access to information, and human rights? What are
+recommendations for the
+private sector to collaborate with the government?
+The development or employment of new technologies should not interfere with
+recognized individual rights and liberties, exclude individual
+access without
+good cause unreasonably, create or aggravate inequalities between individuals,
+interfere within individual autonomy,
+create barriers to access to justice or
+other recognized democratic fundamental principles. Safeguarding equal standing,
+non-interference
+on individual rights, and safeguarding for taking larger
+frameworks into account when making justified decisions affecting
+individual’s
+rights and obligations.
+For instance, the future quantum applications and innovations can be expected
+to comply with the legislation on data protection, governance
+and privacy.
+However, it is currently unknown to what extent can we rely on current and
+emerging regulatory frameworks such as General
+Data Protection Regulation
+,The California Consumer
+Proposal for a regulation
+of the European parliament and of the council laying down harmonized rules on
+artificial intelligence (Artificial
+Intelligence Act) and amending certain union
+legislative acts (AI Act),
+Digital Markets Act
+, The Digital Services Act,
+Arrangement
+to mention a few.
+This privacy issue culminates in the matter of cybersecurity where one must
+switch eventually to new quantum-proof
+encryption standards as quantum computers
+scale up. Like with balancing the regulatory actions, it remains to be seen
+whether the
+current incentives are enough for the field itself to take the
+precautionary step, or if a governmental nudge is required to motivate
+reformation.
+Currently, we are living in the age of information. In fact, we are almost
+drowning in the sea of data, but a quantum way of thinking
+may give us an
+ability to efficiently process enormous data sets. In the coming decades,
+synergies of quantum technology and AI may
+open a new chapter in data science.
+As regards, for instance, quantum-boosted artificial intelligence can be
+employed to categorize
+data, to track patterns, to benefit process development,
+and to make more accurate forecasts. Moreover, it is speculated that
+quantum-enhanced
+AI will play a major role in the rise of autonomous decision
+making. Nevertheless, quantum data utilization should not violate human
+including human dignity, agency and oversight with the right to an explanation,
+and the rights of humans with respect to
+artificial intelligence. This core
+principle should be methodically embedded in existing and future regulatory
+structures. To ensure
+human-centricity, one can employ the design methods
+mentioned previously above as one possible solution, e.g., for designing and
+generating data sets according to the principle.
+Innovating by
+A steered innovation design towards human centricity,
+transparency,
+openness and sustainability is the guiding principle.
+What type of innovation should we want? How can and should governments and
+public entities shape innovation in quantum technology,
+and what path
+dependencies might the corresponding actions and inactions create?
+A fundamental question is what type of innovations we want in the future. The
+governments, public and private entities, like different
+institutions, and other
+players, such as the developers and investors, have a possibility – and
+responsibility – to shape
+innovation in quantum technology, but at the
+same time keeping track of the path dependencies that the corresponding actions
+inactions create in respect to the other four guidelines above. The
+development or employment of new technologies should be designed
+in accordance
+with equality, transparency, ethics, and human centricity. The design of the
+technology should help provide an equal
+access to technology, designing
+technologies to foster non-discriminatory practices, transparency, and
+sustainability.
+First of all, when we investigate, develop and design quantum technology,
+academia plays a central role and is a good medium to initiate
+the quantum
+debate. Researchers do have the duty to steer research and innovation; various
+risks, legal gaps, ethical questions,
+societal implications and other unknown
+ramifications associated with quantum technologies should be factored in.
+Prospective practices
+should be designed and tested. Subsequently, insights
+should be shared and disseminated openly within and outside of the academic
+Side by side with academia, a public sector needs to step in. For example,
+governments and governmental institutions can bring the
+quantum community
+together, which instead can forecast future trends of quantum technology
+evolution for the service of the public.
+With this information, the public
+sector can become more aware of risks and engage in potential benefits related
+to quantum technologies.
+Moreover, it enables the public sector to set up
+quantum-targeted strategies and policies to steer the progress into the right
+to maximize the social benefit of the technology. This also enables
+governments to found new specialized public institutes to offer
+legal-ethical
+guidance on the current possibilities associated with the development and usage
+of quantum technologies from the public
+point of view. The public sector should
+also have healthy dialogue with the private sector to establish a pathway for
+innovations.
+Basic research conducted by academia through public funding is usually a
+precursor for commercial incentives. For example, quantum
+computing is rapidly
+evolving field whose the basic research funding still mostly comes from public
+resources, where the European
+with 7,2 billion and China
+with 15 billion have a clear leadership on funding. The
+has announced a planned
+governmental funding for 1.3 billion dollars. However, the private funding has
+also significantly increased
+during the recent years, in 2021 quantum computing
+start-ups raised 1,7 billion (Fig. 4). It is expected that the private
+will just further increase as the commercial applications gain
+attraction. Operators such as IBM, Amazon, Alibaba, Microsoft, and
+Google have
+already launched their quantum computing services in the commercial
+. Governmental funding in
+billion US-dollars in China, EU, and the US.
+In consequence, we can ask what type of governmental and public ties the
+emerging technology requires to achieve a bright quantum
+future. For example, if
+the development of such basic research is carried out or supported by public
+funding, the fruits could be
+then shared accordingly. This could mean that the
+fundamental research results should be announced as open access to be utilized,
+and the commercialization could take place via licensing to prevent the
+centralization of the crucial quantum innovations on one
+player. This kind of
+proactive involvement of the public sector could be also a precursor to
+establish industry-wide hardware standards
+which further stimulate technological
+evolution on a broader front, e.g., to lure smaller, new players into the
+quantum play. Therefore,
+along with the legislational route, an effective
+regulatory tool is to control the flows of (public) funding in order to design
+and ethically equitable quantum infrastructure without sacrificing the
+evolution and integration of the technology.
+IV ACTION: STEPS TOWARDS
+A FUTURE QUANTUM SOCIETY
+By knowing the “bigger picture”, we can take steps to ascertain
+the functionality and gain of society, while not smothering
+the evolution and
+integration of quantum technologies. In practice, success, most likely,
+requires a strategy plan with concrete
+steps for how to incorporate these
+technologies in order to fully capture the commercial opportunities, and to
+deliver maximum benefit
+to society at the same time. For example, one of these
+measures can be to launch a fleet of mission-driven flagships to solve
+and societal challenges related to the embodiment of quantum
+technologies. Naturally, our legislational environment needs to be ready
+upcoming quantum change. For instance, the immaterial property right framework
+could encourage commercialisation as well
+as accessibility. In the long run,
+there may be a necessity for an international framework to ensure the coherence
+and the optimal
+functionality of the global quantum community in respect to the
+values presented in Quantum Roadmap. To support the advancement of
+technologies while mitigating risks for destructive conflict, there need to be
+frameworks and new institutions that address
+legal, economic, political, and
+security issues. This will require institutional innovation, as quantum
+technologies exist in terms
+of the “tri-sector” of government,
+industry, and non-governmental
+organizations.
+Quantum technologies present challenges in terms of both shared development
+and governance. Companies and nations are cooperating
+and in competition, or
+what has been described as “co-opetition,” referring to when
+stakeholders can gain through working
+together, but are also in fierce
+competition and must balance the risks of over-exposure, protecting security or
+trade secrets.
+In contrast to
+the Cold War, when Western and Soviet-aligned nations had entirely different
+economic, political, and security institutions
+– such as the European
+Economic Community and NATO, or the Soviet-aligned Council for Mutual Economic
+Assistance (Comecon)
+and Warsaw Pact – nations today are closely linked,
+even when they have extensive divisions. The new competition between the
+States, Europe, and China for example is fundamentally different, with
+integration. Economies have much more integration,
+there are more exchanges of
+citizens, and many shared interests.
+Co-opetition is possible when both parties can gain without putting critical
+factors at risk, or the two parties together can gain
+an advantage over others.
+The key is in how partnerships are structured. The task is to manage these
+tensions and be proactive, to
+ensure benefits and manage risks. and we may need
+new institutions and processes. Naturally, our legislational environment needs
+to be ready for the upcoming quantum change. For instance, the immaterial
+property right framework could encourage commercialisation
+accessibility. An international framework will be required to ensure the
+coherence and the optimal functionality of the
+global quantum community in
+respect to the values presented in Quantum Roadmap.
+This can be done by creating an architecture of the
+Currently legal,
+economic, political, and security issues are negotiated through international
+bodies like the United Nations, World
+Trade Organization, regional bodies like
+the European Union, academic societies, and Non-Governmental Organizations such
+These are voluntary, and their formation is led often by a smaller
+group of powerful actors.
+Regulations need to cover data privacy, and access for government authorities
+such as law enforcement, shared governance of quantum
+internet, managing norms
+around cyberattacks, developing solutions to shared challenges such as climate
+change, and establishing
+a common language and terms among all three sectors.
+These have been significant challenges for the United States and China, and
+quantum computing provides an opportunity to form new institutional arrangements
+for a fundamentally new technology. These could
+take the form of new voluntary
+bodies modeled after the World Trade Organization which have governed
+challenging economic issues,
+or the Internet Corporation for Assigned Names and
+Numbers which has facilitated cross-national governance of the internet.
+Quantum-safe data transfers and storage is closely entangled with the
+security and defense field. Most likely, there will be a demand
+intergovernmental legal rule framework and surveillance in certain research
+areas of quantum computing to ensure worldwide
+security. The possession and
+employment of new technologies creates opportunities but also responsibilities.
+A great part of decision
+power is often vested and employed by public
+authorities and governments. Furthermore, there will be questions of a deeper
+collaboration and legal rule framework between sovereign states to
+prevent abusing quantum technologies, such as employing it for
+purposes to
+produce war materials.
+A solution could be to establish a legal collaborative framework for
+“Mandatory Reporting and Supervision” to ensure international
+and security. For instance, this could be realized as a form of a Security
+Council or of a Union of Sovereign States - committing
+to the same goals on
+security and sustainability. The operations and accomplishment of the goals
+should be overseen equally by all
+the coalition members, and the power should
+not be centered upon a few selected parties. Ideally, these member states should
+comprehensively sovereign states - not just a few powerful ones - but
+more equally the sovereign states of the world. The more equal
+standing of the
+sovereign states in this possible “Mandatory Reporting and Supervision
+Body” would allow actions to be
+taken with less political and historical
+impact, that is quite the opposite, for instance, to the unfortunate situation
+United Nations Security Council (that is mostly comprised of the War
+winning countries). The historical burden and political impact
+have frequently
+caused the United Nations Security Council to be toothless in taking appropriate
+measures and actions in reply to
+threats on international peace and security.
+Often, a mere “condemn” is insufficient to resolve the incidents
+at the international arena. The former challenges with international
+organizations and supervisory bodies should be converted into
+knowledge for
+anticipatory and precautionary practices. Therefore, we could learn from the
+past to ensure the future peace and security.
+According to economic theory, it
+should be in the interest of operators to collaborate as without collaboration
+the stakes are extremely
+high and can lead in the worst scenario, a full-scale
+mutual destruction. Thus, the game theory advises that it is best to
+collaborate.
+In general, our vision about a bright society of tomorrow is established upon
+broad scientific capabilities in a coordinated symbiosis
+with the tech industry
+to push the cutting-edge quantum technologies forward. At the same, we see an
+importance to deepen the dialogue
+within the “Tri-Sectors” of
+industry, academia and government so that social-level actions are taken in the
+direction. In the process, a virtuous circle may be set up.
+Public and private funding stimulates basic research yielding blooming
+hubs and eventually connecting into a thriving quantum ecosystem. On the other
+hand, some money will flow back into research
+to generate more knowledge we can
+transform into further advantageous innovation, and into more benefits to
+V CONCLUSION
+A new quantum revolution is underway, with innovation enabling the building
+and controlling of quantum systems in areas of computing,
+cryptography and
+cybersecurity, sustainable energy, pharmaceuticals, and materials.
+To conceptualize the changes, we propose an A-cubic approach of awareness,
+analysis, and action to organize legal design. Awareness
+provides for knowledge
+of quantum to the general public and to regulators and specialists, bridging
+between business, academia, and
+society. To assist in the analysis of quantum
+capabilities we propose creation of standardization and best practices that
+cross national
+and sectoral boundaries. This can be supported through a Quantum
+Roadmap regulatory framework organizing emerging legal and ethical
+relating to quantum technologies into five categories of ethics, inclusion,
+regulatory activities, safeguarding individual
+rights, and innovating by
+The ethical principles to guide a regulatory framework include equal access,
+public good, and transparency. The inclusiveness principles
+include democratic
+involvement and sharing of knowledge and resources. The principles for balancing
+regulatory activities are supporting
+innovativeness and the common good. The
+principles behind safeguarding individual rights are prioritizing individual
+autonomy, and
+fundamental rights such as equality and fairness. Innovating by
+design means steering innovation design toward human centricity,
+openness, and
+sustainability.
+Quantum technologies are “tri-sector” and impact industry,
+academia, and government, mirroring the tensions of both cooperation
+competition. New institutions will be needed for this regulation. We propose the
+establishment of a legal collaborative framework
+for mandatory reporting and
+supervision, reflecting a type of Security Council or a Union of Sovereign
+States, to coordinate across
+these boundaries and ensure that the development of
+quantum technologies advances, rather than inhibits or destructs, the betterment
+of society.
+Teaching Faculty at
+Harvard University and Postdoctoral Research Fellow, Program on Negotiation,
+Harvard Law School.
+Postdoctoral
+Researcher and Teaching Fellow, Department of Physics, Harvard University.
+Policy Researcher, RAND Corporation.
+Research Group
+Leader and Rowland Fellow, The Rowland Institute, Harvard University.
+See for instance FA Hayek,
+New Studies in Philosophy, Politics, Economics, and the History of Ideas
+(University of Chicago Press, 2018).
+Andrew Chadwick and Christopher
+May, ‘Interaction between States and Citizens in the Age of the Internet:
+“E-Government”
+in the United States, Britain, and the European
+Union’ (2003) 16(2)
+271; Jan Van Dijk,
+The Deepening
+Divide: Inequality in the Information Society
+(Sage Publications, 2005).
+See for instance, Barry L
+Shumpert et al, ‘Specificity and Engagement: Increasing ELSI’s
+Relevance to Nano–Scientists’
+(2014) 8(2)
+Antonio G Spagnolo and Viviana Daloiso, ‘Outlining Ethical Issues in
+Nanotechnologies’ (2009) 23(7)
+394; Tsjalling Swierstra
+et al, ‘Converging Technologies, Shifting Boundaries’ (2009) 3(3)
+There are a myriad of text
+books on quantum computing and information, see for example Masahito Hayashi,
+Quantum Information Theory
+(Springer, 2016); David McMahon,
+Computing Explained
+(John Wiley & Sons, 2007); Michael A Nielsen and
+Isaac L Chuang,
+Quantum Computation and Quantum Information
+University Press, 2019); Venkateswaran Kasirajan,
+Fundamentals of Quantum
+(Springer Nature, 2021); John Watrous,
+The Theory of Quantum
+Information
+(Cambridge University Press, 2018); Mark M Wilde,
+Information Theory
+(Cambridge University Press, 2017); Noson S Yanofsky and
+Mirco A Mannucci,
+Quantum Computing for Computer Scientists
+University Press, 2008).
+Richard P Feynman,
+‘Simulating Physics with Computers’ (1982) 21(6-7)
+International
+Journal of Theoretical Physics
+467; Paul Benioff, ‘The Computer as a
+Physical System: A Microscopic Quantum Mechanical Hamiltonian Model of Computers
+as Represented
+by Turing Machines’ (1980) 22(5)
+Journal of Statistical
+563; D Deutsch, ‘Quantum Theory, the Church-Turing Principle
+and the Universal Quantum Computer’ (1985) 400(1818)
+Proceedings of the
+Royal Society A: Mathematical, Physical and Engineering Sciences
+TD Ladd et al, ‘Quantum
+Computers’ (2010) 464(7285)
+45; Antonio Acín et al,
+‘The Quantum Technologies Roadmap: A European Community View’ (2018)
+New Journal of Physics
+See, for instance, Takashi
+Yamakawa and Mark Zhandry, ‘Verifiable Quantum Advantage without
+Structure’ (2022)
+2204.02063.
+TD Ladd et al, ‘Quantum
+Computers’ (2010) 464(7285)
+45; S Lloyd, ‘A
+Potentially Realizable Quantum Computer’ (1993) 261(5128)
+1569; Colin D Bruzewicz et al, ‘Trapped-Ion Quantum Computing: Progress
+and Challenges’ (2019) 6(2)
+Applied Physics Reviews
+021314; Sergei
+Slussarenko and Geoff J Pryde, ‘Photonic Quantum Information Processing: A
+Concise Review’ (2019) 6(4)
+Applied Physics Reviews
+Kjaergaard et al, ‘Superconducting Qubits: Current State of Play’
+(2020) 11(1)
+Annual Review of Condensed Matter Physics
+Therefore, the field is
+accumulating more and more attention and resources from industrial players: not
+only broad-interests corporations
+such as Google and Microsoft, but also from
+companies linked to the area of hardware development, like Intel and IBM.
+Besides commercial
+actors, the field has also piqued the wide interest of
+various universities, international organizations and non-governmental
+John Preskill,
+‘Quantum Computing in the NISQ Era and Beyond’ (2018) 2(2)
+79; Kishor Bharti et al, ‘Noisy Intermediate-Scale Quantum
+(NISQ) Algorithms’ (2022) 94(1)
+Reviews of Modern Physics
+Matteo Ippoliti et al, ‘Many-Body Physics in the NISQ Era: Quantum
+Programming a Discrete Time Crystal’ (2021)
+PRX Quantum
+Earl T Campbell, Barbara M
+Terhal and Christophe Vuillot, ‘Roads towards Fault-Tolerant Universal
+Quantum Computation’
+(2017) 549(7671)
+Iulia Georgescu, ‘25
+Years of Quantum Error Correction’ (2020) 2(10)
+Nature Reviews
+519; Simon J Devitt, William J Munro and Kae Nemoto, ‘Quantum
+Error Correction for Beginners’ (2013) 76(7)
+Reports on Progress in
+See, for instance, Ethan
+Bernstein and Umesh Vazirani, ‘Quantum Complexity Theory’ (1997)
+SIAM Journal on Computing
+1411; Daniel R Simon, ‘On the Power
+of Quantum Computation’ (1997) 26(5)
+SIAM Journal on Computing
+1474; Peter W Shor, ‘Polynomial-Time Algorithms for Prime Factorization
+and Discrete Logarithms on a Quantum Computer’
+(1997) 26(5)
+Journal on Computing
+See, for example, Dorit
+Aharonov et al, ‘A Polynomial-Time Classical Algorithm for Noisy Random
+Circuit Sampling’ (2023)
+2211.03999.
+Alberto Peruzzo et al,
+‘A Variational Eigenvalue Solver on a Photonic Quantum Processor’
+(2014) 5(1)
+Nature Communications
+4213; Abhinav Kandala et al,
+‘Hardware-Efficient Variational Quantum Eigensolver for Small Molecules
+and Quantum Magnets’
+(2017) 549(7671)
+242; Nikolaj Moll et
+al, ‘Quantum Optimization Using Variational Algorithms on Near-Term
+Quantum Devices’ (2018) 3(3)
+Quantum Science and Technology
+Jarrod R McClean et al, ‘The Theory of Variational Hybrid
+Quantum-Classical Algorithms’ (2016) 18(2)
+New Journal of Physics
+023023; Ying Li and Simon C Benjamin, ‘Efficient Variational Quantum
+Simulator Incorporating Active Error Minimization’
+(2017) 7(2)
+021050; D Zhu et al, ‘Training of Quantum Circuits on a
+Hybrid Quantum Computer’ (2019) 5(10)
+Science Advances
+Ryan R Ferguson et al, ‘A Measurement-Based Variational Quantum
+Eigensolver’ (2021) 126(22)
+Physical Review Letters
+220501; Bela
+Bauer et al, ‘Hybrid Quantum-Classical Approach to Correlated
+Materials’ (2016) 6(3)
+Physical Review X
+Yulin Wu et al,
+‘Strong Quantum Computational Advantage Using a Superconducting Quantum
+Processor’ (2021) 127(18)
+Physical Review Letters
+180501; Han-Sen
+Zhong et al, ‘Quantum Computational Advantage Using Photons’ (2020)
+Frank Arute et al,
+‘Quantum Supremacy Using a Programmable Superconducting Processor’
+(2019) 574(7779)
+505; Aram W Harrow and Ashley Montanaro,
+‘Quantum Computational Supremacy’ (2017) 549(7671)
+203; Adam Bouland et al, ‘On the Complexity and Verification of Quantum
+Random Circuit Sampling’ (2018) 15(2)
+Nature Physics
+See, for example, Lov K
+Grover, ‘Quantum Mechanics Helps in Searching for a Needle in a
+Haystack’ (1997) 79(2)
+Physical Review Letters
+Peter W Shor,
+‘Polynomial-Time Algorithms for Prime Factorization and Discrete
+Logarithms on a Quantum Computer’ (1997)
+SIAM Journal on
+Charles H Bennett et al,
+‘Strengths and Weaknesses of Quantum Computing’ (1997) 26(5)
+Journal on Computing
+1510; Lov K Grover, ‘Quantum Mechanics Helps in
+Physical Review
+See, for instance, Dustin
+Moody et al,
+Status Report on the Second Round of the NIST Post-Quantum
+Cryptography Standardization Process
+(US Department of Commerce, NIST,
+Vedran Dunjko and Hans J
+Briegel, ‘Machine Learning & Artificial Intelligence in the Quantum
+Domain: A Review of Recent
+Progress’ (2018) 81(7)
+Reports on Progress
+074001; Vojtech Havlícek et al, ‘Supervised Learning
+with Quantum-Enhanced Feature Spaces’ (2019) 567
+Yunchao Liu, Srinivasan Arunachalam and Kristan Temme, ‘A Rigorous and
+Robust Quantum Speed-up in Supervised Machine Learning’
+(2021) 17(9)
+Nature Physics
+1013; Vicente Moret-Bonillo, ‘Can Artificial
+Intelligence Benefit from Quantum Computing?’ (2014) 3(2)
+Progress in
+Artificial Intelligence
+89; V Saggio et al, ‘Experimental Quantum
+Speed-up in Reinforcement Learning Agents’ (2021) 591(7849)
+229; Andreas Trabesinger, ‘Quantum Computing: Towards Reality’
+(2017) 543(7646)
+Shruti Dogra, Artem A
+Melnikov and Gheorghe Sorin Paraoanu, ‘Quantum Simulation of
+Parity–Time Symmetry Breaking with
+a Superconducting Quantum
+Processor’ (2021) 4(1)
+Communications Physics
+26; Simanraj Sadana,
+Lorenzo Maccone and Urbasi Sinha, ‘Testing Quantum Foundations with
+Quantum Computers’ (2022) 4(2)
+Physical Review Research
+Scott E Smart, David I Schuster and David A Mazziotti, ‘Experimental Data
+from a Quantum Computer Verifies the Generalized
+Pauli Exclusion
+Principle’ (2019) 2(1)
+Communications Physics
+Ehud Altman et al,
+‘Quantum Simulators: Architectures and Opportunities’ (2019) 2(1)
+PRX Quantum
+017003; Bruce M Boghosian and Washington Taylor,
+‘Simulating Quantum Mechanics on a Quantum Computer’ (1998) 120(1-2)
+Physica D: Nonlinear Phenomena
+30; Richard P Feynman, ‘Simulating
+Physics with Computers’ (1982) 21(6-7)
+International Journal of
+Theoretical Physics
+467; Francesco Tacchino et al, ‘Quantum Computers
+as Universal Quantum Simulators: State‐Of‐The‐Art and
+Perspectives’
+(2020) 3(3)
+Advanced Quantum Technologies
+Nathan Wiebe et al, ‘Simulating Quantum Dynamics on a Quantum
+Computer’ (2011) 44(44)
+Journal of Physics A
+445308; Christof
+Zalka, ‘Simulating Quantum Systems on a Quantum Computer’ (1998)
+Proceedings of the Royal Society of London. Series A: Mathematical,
+Physical and Engineering Sciences
+See, for instance, Carlos
+Outeiral et al, ‘The Prospects of Quantum Computing in Computational
+Molecular Biology’ (2021)
+Wiley Interdisciplinary Reviews:
+Computational Molecular Science
+Tameem Albash and Daniel A
+Lidar, ‘Adiabatic Quantum Computation’ (2018) 90(1)
+Modern Physics
+015002; Y Cao, J Romero and A Aspuru-Guzik, ‘Potential
+of Quantum Computing for Drug Discovery’ (2018) 62(6)
+IBM Journal of
+Research and Development
+See, for example, Bruno
+Miranda et al, ‘Recent Advances in the Fabrication and Functionalization
+of Flexible Optical Biosensors:
+Toward Smart Life-Sciences Applications’
+(2021) 11(4)
+107; Antoine Reserbat-Plantey et al,
+‘Quantum Nanophotonics in Two-Dimensional Materials’ (2021) 8(1)
+ACS Photonics
+85; Tongtong Zhang et al, ‘Toward Quantitative
+Bio-Sensing with Nitrogen–Vacancy Center in Diamond’ (2021) 6(6)
+ACS Sensors
+Crassous, Jeanne et al,
+‘Materials for Chiral Light Control’ (2023) 8(6)
+Nature Reviews
+Young Hoon Kim et al,
+‘Chiral-Induced Spin Selectivity Enables a Room-Temperature Spin
+Light-Emitting Diode’ (2021) 371(6534)
+See, for instance, Jonathan
+Ruane, Andrew McAfee and William D Oliver, ‘Quantum Computing for Business
+Harvard Business Review
+(1 January 2022)
+<https://hbr.org/2022/01/quantum-computing-for-business-leaders>; Matthias
+Möller and Cornelis Vuik,
+’On the Impact of Quantum Computing
+Technology on Future Developments in High-Performance Scientific
+Ethics and Information Technology
+269; Akshay Ajagekar and Fengqi You, ‘Quantum Computing and Quantum
+Artificial Intelligence for Renewable and Sustainable Energy:
+Prospect towards Climate Neutrality’ (2022) 165
+Renewable and
+Sustainable Energy Reviews
+112493; Annarita Giani and Zachary Eldredge,
+‘Quantum Computing Opportunities in Renewable Energy’ (2021) 2(5)
+SN Computer Science
+Igor Žutić,
+Jaroslav Fabian and S Das Sarma, ‘Spintronics: Fundamentals and
+Applications’ (2004) 76(2)
+Reviews of Modern Physics
+Transforming Our World:
+The 2023 Agenda for Sustainable Development,
+UN GAOR, 70
+Agenda items 15 and 116 UN Doc A/RES/70/1 (21 October 2015).
+See, for instance, Philip
+Ball, ‘Materials Innovation from Quantum to Global’ (2022) 21(9)
+Nature Materials
+962; F Pelayo García de Arquer et al,
+‘Semiconductor Quantum Dots: Technological Progress and Future
+Challenges’
+(2021) 373(6555)
+G E Moore, ‘Cramming
+More Components onto Integrated Circuits’ (1998) 86(1)
+Proceedings of
+See, for instance, Antonio
+Acín et al, ‘The Quantum Technologies Roadmap: A European Community
+View’ (2018) 20(8)
+New Journal of Physics
+See, e.g., C L Degen, F
+Reinhard and P Cappellaro, ‘Quantum Sensing’ (2017) 89(3)
+of Modern Physics
+See, e.g., Omar S
+Magaña-Loaiza and Robert W Boyd, ‘Quantum Imaging and
+Information’ (2019) 82(12)
+Reports on Progress in Physics
+Paul-Antoine Moreau et al, ‘Imaging with Quantum States of Light’
+(2019) 1(6)
+Nature Review Physics
+See, e.g., Vittorio
+Giovannetti, Seth Lloyd and Lorenzo Maccone, ‘Advances in Quantum
+Metrology’ (2011) 5(4)
+Nature Photonics
+222; Luca Pezzè et
+al, ‘Quantum Metrology with Nonclassical States of Atomic Ensembles’
+(2018) 90(3)
+Reviews of Modern Physics
+035005; Michael A Taylor and
+Warwick P Bowen, ‘Quantum Metrology and Its Application in Biology’
+Physics Reports
+1; Géza Tóth and Iagoba
+Apellaniz, ‘Quantum Metrology from a Quantum Information Science
+Perspective’ (2014)
+Journal of Physics A: Mathematical and
+Theoretical
+Nicolas Gisin et al,
+‘Quantum Cryptography’ (2002) 74(1)
+Reviews of Modern Physics
+145; Nicolas Gisin and Rob Thew, ‘Quantum Communication’ (2007) 1(3)
+Nature Photonics
+165; H J Kimble, ‘The Quantum Internet’
+(2008) 453(7198)
+1023; Stephanie Wehner, David Elkouss and Ronald
+Hanson, ‘Quantum Internet: A Vision for the Road Ahead’ (2018)
+See, e.g., Michael A Nielsen
+and Isaac L Chuang,
+Quantum Computation and Quantum Information
+(Cambridge University Press, 2019); T D Ladd et al, ‘Quantum
+Computers’ (2010) 464(7285)
+See also, Katri Nousiainen
+and Joonas Keski-Rahkonen,
+Quantum Computing Era: New Legal Order, Berkeley
+Global Society: The Tech Book
+(Europa Institute at the University of Zurich,
+forthcoming 2023); Katri Nousiainen and Joonas Keski-Rahkonen,
+Navigating in
+a Post-Quantum Legal Design Landscape, in Legal Design Book
+University Press, forthcoming 2023); ‘Katri Nousiainen and Joonas
+Keski-Rahkonen on “Quantum Computing”’,
+Berkeley Technology
+Law Journal Podcast
+(Seth Bertolucci and Isabel Jones, 23 August 2022)
+<https://btlj.org/2022/08/berkeley-technology-law-journal-podcast-quantum-computing>.
+See for instance, Mauritz
+Kop, ‘Establishing a Legal-Ethical Framework for Quantum
+Technology’,
+Yale Journal of Law & Technology: The Record
+Page, 30 March 2021)
+<https://yjolt.org/blog/establishing-legal-ethical-framework-quantum-technology>.
+See, for instance, Michal
+Krelina, ‘Quantum Technology for Military Applications’ (2021) 8
+EPJ Quantum Technology
+See further on
+Controls for Certain Emerging Technologies,
+83 FR 58201 (2018). Note:
+Commerce and Defense both are part of the U.S. Department of the Treasury /CFIUS
+which makes decisions
+related to export-control
+‘CFIUS Overview’, US Department of the Treasury (Web Page, 25 August
+<https://home.treasury.gov/policy-issues/international/the-committee-on-foreign-investment-in-the-united-states-cfius/cfius-overview>.
+Export Controls for Quantum Computers
+, 15 CFR 774
+Implementation of Certain
+New Controls on Emerging Technologies Agreed at Wassenaar Arrangement 2019
+85 FR 62583 (2020).
+On current technological
+development,
+for instance, Edward Parker et al, ‘An Assessment
+of the U.S. And Chinese Industrial Bases in Quantum Technology’,
+Corporation
+(Web Page, 2 February 2022)
+<https://www.rand.org/pubs/research_reports/RRA869-1.html>. Note: Although
+China is leading on
+quantum communications, the USA and EU are ahead on quantum
+Katri Nousiainen,
+‘Legal Design in Commercial Contracting and Business Sustainability New
+Legal Quality Metrics Standards’
+(2022) 6(2)
+Journal of Strategic
+Contracting and Negotiation
+Katri Nousiainen,
+‘What Have I Signed? Do I Really Understand the Contract?’,
+Contracting Excellence Journal
+(Web Page, 12 September 2020)
+<https://www.worldcc.com/Resources/Blogs-and-Journals/Contracting-Excellence-Journal/View/ArticleID/10812>.
+A Design Thinking
+Stanford Education ME 113
+(Web Page, 2 February 2022)
+<https://web.stanford.edu/class/me113/d_thinking.html>. Note: there exist
+also various paths as
+regards the number and content of the design thinking
+process stages.
+See for instance, Katri
+Nousiainen and Joonas Keski-Rahkonen,
+Quantum Computing Era: New Legal Order,
+Berkeley Global Society: The Tech Book
+(Europa Institute at the University
+of Zurich, forthcoming 2023); Katri Nousiainen and Joonas Keski-Rahkonen,
+Navigating in a Post-Quantum Legal Design Landscape, in Legal Design Book
+(Cambridge University Press, forthcoming 2023); ‘Katri Nousiainen and
+Joonas Keski-Rahkonen on “Quantum Computing”’,
+Technology Law Journal Podcast
+(Seth Bertolucci and Isabel Jones, 23 August
+<https://btlj.org/2022/08/berkeley-technology-law-journal-podcast-quantum-computing>.
+for instance,
+Davide Castelvecchi, ‘IBM's Quantum Cloud Computer Goes
+159; Evan R MacQuarrie
+et al, ‘The Emerging Commercial Landscape of Quantum Computing
+(2020) 2(11)
+Nature Reviews Physics
+596, 598; Frederic T Chong, Diana
+Franklin and Margaret Martonosi, ‘Programming Languages and Compiler
+Design for Realistic
+Quantum Hardware
+Noah Barkin, ‘Export
+Controls and the US-China Tech War Policy Challenges for Europe’,
+Tendenz Blick
+(Web Page, 18 March 2020)
+<https://tendenzblick.net/wp-content/uploads/2020/08/merics_ChinaMonitor_US-CH-EU-Export-Controls_en_final.pdf>.
+See for instance some
+examples of intergovernmental friendly agreements and research partnerships on
+quantum technologies; (FIN-USA)
+‘Joint Statement of the United States and
+Finland on Cooperation in Quantum Information Science and Technology’,
+United States Department of State
+(Web Page, 6 April 2022)
+<https://www.state.gov/joint-statement-of-the-united-states-and-finland-on-cooperation-in-quantum-information-science-and-technology>;
+(AU-USA) ‘Cooperation in Quantum Science and Technology’,
+States Department of State
+(Web Page, 17 November 2021)
+<https://www.state.gov/cooperation-in-quantum-science-and-technology-aus>;
+(SWE-USA) Thomas Wong,
+‘The United States and Sweden Sign Quantum
+Cooperation Statement’,
+National Quantum Initiative
+(Web Page, 11
+April 2022)
+<https://www.quantum.gov/the-united-states-and-sweden-sign-quantum-cooperation-statement>;
+‘The United States and United Kingdom Issue Joint Statement to
+Enhance Cooperation on Quantum Information Science and Technology’,
+White House
+(Web Page, 4 November 2021)
+<https://www.whitehouse.gov/ostp/news-updates/2021/11/04/the-united-states-and-united-kingdom-issue-joint-statement-to-enhance-cooperation-on-quantum-information-science-and-technology>;
+(UK-SWE) George Freeman, ‘New Joint Statement between UK and US to
+Strengthen Quantum Collaboration’,
+Department for Business, Energy
+& Industry Strategy
+(Web Page, 4 October 2021)
+<https://www.gov.uk/government/news/new-joint-statement-between-uk-and-us-to-strengthen-quantum-collaboration>.
+Ibid; See for instance,
+National Quantum Initiative Act
+, Pub L No 115-368, 132 Stat 5902-5103;
+National Quantum Initiative Act
+, HR 6227, 115
+(2017-2018)
+<https://www.congress.gov/bill/115th-congress/house-bill/6227/text>.
+Regulation (EU)
+2016/679 of the European Parliament and of the Council of 27 April 2016
+on the protection of natural persons with regard to the processing of
+personal data and on the free movement of such data, and repealing
+95/46/EC (General Data Protection Regulation)
+[2016] OJ L 119/1.
+Cal Civ Code
+1798.100-1798.199.100 (‘California Consumer Privacy Act of
+European Commission,
+Directorate-General for Communications Networks, Content and Technology,
+‘Proposal for a Regulation of
+the European Parliament and of the Council
+Laying down Harmonised Rules on Artificial Intelligence (Artificial Intelligence
+and Amending Certain Union Legislative Acts’,
+Page, 21 April 2021)
+<https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:52021PC0206>.
+Digital Markets Act (DMA),
+expected to be adopted in September or October 2022. ‘Digital Markets Act
+European Commission
+(Web Page, 8 July 2022), archived at
+<https://web.archive.org/web/20220708202056/https://ec.europa.eu/competition-policy/sectors/ict/dma_en>;
+‘Europe Fit for the Digital Age: Commission Proposes New Rules for Digital
+European Commission
+(Web Page, 15 December 2020)
+<https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2347>.
+‘The Digital Services
+Act Package’,
+European Commission
+(Web Page, 25 September 2023)
+<https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package>;
+Fit for the Digital Age: Commission Proposes New Rules for Digital
+European Commission
+(Web Page, 15 December 2020)
+<https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2347>.
+Data Act: Commission
+Proposes Measures for a Fair and Innovative Data Economy’,
+(Web Page, 23 February 2022)
+<https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1113>.
+Bureau of Nonproliferation,
+US Department of State, ‘Wassenaar Arrangement on Export Controls for
+Conventional Arms and Dual-Use
+Goods and Technologies’ (Web Page, 22 March
+2000), archived at
+<https://1997-2001.state.gov/global/arms/np/mtcr/000322_wassenaar.html>.
+For further reading
+European Commission’s
+Shaping Europe’s Digital Future
+Quantum Technologies Flagship
+, that intends to place the European Union
+at front of the second quantum revolution in fostering long term research and
+innovation,
+‘Quantum Technologies Flagship’,
+European Commission
+(Web Page, 4 October 2022)
+<https://digital-strategy.ec.europa.eu/en/policies/quantum-technologies-flagship>;
+Council Regulation on Establishing the European High Performance Computing
+Joint Undertaking and Repealing Regulation EU2018/1488
+[2021] OJ L 256/3
+(‘EuroHPC’). The regulation aims to foster making the EU the leading
+actor in super computing. ‘The
+European High Performance Computing Joint
+Undertaking,’
+European Commission
+(Web Page, 30 June 2023)
+<https://digital-strategy.ec.europa.eu/en/policies/high-performance-computing-joint-undertaking>.
+National Quantum
+Initiative Act
+, Pub L No 115-368, 132 Stat 5902-5103;
+National Quantum
+Initiative Act
+, HR 6227, 115
+Congress (2017-2018)
+<https://www.congress.gov/bill/115th-congress/house-bill/6227/text>;
+‘National Quantum Initiative’,
+National Quantum Coordination
+(Web Page) <https://www.quantum.gov>; ‘National Quantum
+Initiative Supplement to the President’s FY 2023 Budget’,
+National Quantum Coordination Office
+(Report, January 2023)
+<https://www.quantum.gov/wp-content/uploads/2023/01/NQI-Annual-Report-FY2023.pdf>;
+‘National Quantum
+Initiative Supplement to the President’s FY 2022
+National Quantum Coordination Office
+(Report, December
+2021) <https://www.quantum.gov/wp-content/
+uploads/2021/12/NQI-Annual-Report-FY2022.pdf>. See further discussion
+around quantum computing and cybersecurity: Christopher Monroe,
+Michael G Raymer
+and Jacob Taylor, ‘The U.S. National Quantum Initiative: From Act to
+Action’ (2019) 364(6439)
+National Quantum
+Initiative Act
+, Pub L No 115-368, 132 Stat 5902-5103; Arthur Herman,
+‘At Last America Is Moving on Quantum’,
+(Web Page, 20
+August 2018)
+<https://www.forbes.com/sites/arthurherman/2018/08/20/at-last-america-is-moving-on-quantum/#71eaa5d55327>;
+Office of Science and Technology, The White House, ‘White House Office of
+Science & Technology Policy and U.S. National
+Science Foundation Host
+“Quantum Workforce: Q-12 Actions for Community Growth” Event,
+Release Quantum Workforce Development
+Plan’ (Web Page, 1 February 2022)
+<https://www.whitehouse.gov/ostp/news-updates/2022/02/01/white-house-office-of-science-technology-policy-and-u-s-national-science-foundation-host-quantum-workforce-q-12-actions-for-community-growth-event-release-quantum-workforce>.
+See, for instance, Edwin
+Cartlidge, ‘Europe’s Billion-Euro Quantum Flagship Hands out First
+(Web Page, 29 October 2018)
+<https://www.science.org/content/article/europe-s-billion-euro-quantum-flagship-hands-out-first-grants>;
+Garrelt J N Alberts et al, ‘Accelerating Quantum Computer
+Developments’ (2021) 8(1)
+EPJ Quantum Technology
+18; Jonathan
+Ruane, Andrew McAfee and William D Oliver, ‘Quantum Computing for Business
+Harvard Business Review
+(1 January 2022)
+<https://hbr.org/2022/01/quantum-computing-for-business-leaders>.
+Nick Lovegrove and Matthew
+Thomas, ‘Why the World Needs Tri-Sector Leaders’,
+Business Review
+(Web Page, 13 February 2013)
+http://hbr.org/2013/02/why-the-world-needs-tri-sector
+Adam Brandenburger and
+Barry Nalebuff, ‘The Rules of Co-Opetition’,
+Harvard Business
+(January-February 2021)
+http://hbr.org/2021/01/the-rules-of-co-opetition
+Michael J Mazarr and Tim
+McDonald, ‘Competing for the System: The Essence of Emerging Strategic
+Rivalries’,
+Rand Corporation
+(Web Page, 10 November 2022)
+http://www.rand.org/pubs/perspectives/PEA1404-2.html
+Print (pretty)
+Print (eco-friendly)
+RTF format (23.4 MB)
+PDF format (973 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

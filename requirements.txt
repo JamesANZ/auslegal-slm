@@ -1,0 +1,14 @@
+# Dependencies for Legal SLM Training and Inference
+
+# Core ML libraries
+torch>=2.0.0
+transformers>=4.30.0
+tokenizers>=0.13.0
+
+# Optional but recommended
+datasets>=2.12.0
+accelerate>=0.20.0
+
+# For data processing (if not already installed)
+numpy>=1.24.0
+

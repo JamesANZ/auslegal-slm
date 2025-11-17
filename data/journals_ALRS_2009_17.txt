@@ -1,0 +1,1924 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/ALRS/2009/17.html
+Scraped: 2025-11-17 14:13:24
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Greenleaf, G --- "Rudd Government abandons border security of privacy" [2009] ALRS 17; Australian Policy Online 23 October 2009
+Five years of the APEC Privacy Framework: Failure or promise?
+Graham Greenleaf
+University of New South Wales, CLSR Editorial Board
+Published in
+Computer Law & Security Report
+– Please cite
+published version.
+The APEC Privacy Framework was developed from 2003, adopted by APEC in 2004
+and finalised in 2005. It was intended as a means of improving
+the standard of
+information privacy protection throughout the APEC countries of the
+Asia-Pacific, and of facilitating the trans-border
+flow of personal information
+between those countries. In 2007 a number of ‘Pathfinder’ projects
+for cross-border data
+transfers were launched under the Framework. In the five
+years since the process commenced, what has it achieved, and what is it
+to achieve? This paper argues that the APEC Privacy Framework has had many flaws
+from its inception, including Privacy Principles
+that are unnecessarily weak,
+and no meaningful enforcement requirements. Since its adoption in 2004, little
+attempt has been made
+to encourage its use as a minimal standard for privacy
+legislation in developing countries (which might have been useful), and it
+having little impact on the significant number of legislative developments now
+taking place.
+Instead, the ‘Pathfinder’ projects seem to be developing toward a
+generalised version of the US ‘Safe Harbor’
+scheme. What is known of
+the Pathfinder projects leaves many questions unanswered, such as what standards
+for data transfers they
+aim to implement; whether compliance with all of
+APEC’s own Privacy Principles will be required; and how
+‘Accountability
+Agents’ will be accredited. Consumer input into
+APEC’s privacy processes has been belated and ad-hoc but business
+omnipresent. Despite these flaws, APEC could still play a useful role
+in the gradual development of higher privacy standards in Asia,
+provided its
+priorities are re-oriented. The major developments in Asian privacy protection
+are likely to come from elsewhere, including
+other regional groupings, and
+attractions of standards originating in Europe. The paper concludes with
+suggestions for other directions
+APEC, Asia-Pacific, data protection, privacy
+1. The APEC Privacy Framework
+In November 2004 Ministers of the APEC (Asia-Pacific Economic Cooperation)
+economies, meeting in Santiago, Chile, adopted the
+APEC Privacy
+, which had been developed during 2003-04 by APEC’s
+Electronic Commerce Steering Group (ECSG) Privacy Subgroup. The significance
+the 21 APEC economies
+adopting common information privacy standards cannot be doubted. The APEC
+economies are located on four continents, account for more
+than a third of the
+world’s population, half its GDP, and almost half of world trade. The APEC
+Framework could have become
+the most significant international privacy
+instrument since the EU privacy Directive of the mid-1990s (EU, 1995). This is
+to be the case, though it may well have some positive effects. However,
+compared with its potential, the reality seems more like
+a missed opportunity.
+Other commentators are less pessimistic (Tan, 2008).
+The APEC Privacy Framework (APEC, 2004) originally consisted of a set of nine
+‘APEC Privacy Principles’ in Part III, plus
+a Preamble and Scope
+note in Parts I and II. Part IV ‘Implementation’ included Section A
+‘Guidance for Domestic
+Implementation’ but did not include Section B
+on the ‘cross-border elements’ (including data exports) until it
+added in September 2005 Part IV(B) and the Framework completed (APEC, 2005). A
+Commentary is included.
+A brief critique of both the principles and the implementation mechanisms
+follows. In summary, the Principles in APEC’s Privacy
+Framework are at
+best an approximation of what was regarded as acceptable information privacy
+principles twenty years ago when the
+OECD Guidelines were developed. Its
+Principles are weaker than those of the European privacy Directive, or of most
+existing data
+protection laws in the Asia Pacific. In relation to
+implementation, Part IV exhorts APEC members to implement the Framework without
+requiring any particular means of doing so, or any means of assessing whether
+they have done so. The Framework is therefore considerably
+weaker than any other
+international privacy instrument in terms of its implementation requirements.
+The Framework does not explicitly
+require data export limitations, nor permit
+them, nor forbid them, but it does imply an approach to allowing data exports
+very different from that adopted in Europe, and its implementation is
+gradually making that more clear.
+1.1. The status of APEC ‘agreements’
+APEC is unusual in being an organisation of States which does
+not have a constitution, operates by consensus, and undertakes commitments
+voluntary basis. It claims to be ‘the only inter governmental grouping in
+the world operating on the basis of non-binding
+commitments’
+APEC ‘agreements’ such as the Privacy Framework do not have any
+legal status, and are best seen as agreed aspirations,
+supported by
+consensus-based commitments to cooperate (see Greenleaf 2005c, 2005d for
+details). Nevertheless, their practical effect
+is often very significant. This
+factor limits to some extent what can be expected from the APEC Privacy
+2. APEC Privacy Principles – A brief critique
+The nine APEC Privacy Principles deal with most of the broad topics normally
+found in international or national sets of privacy principles:
+collection,
+quality, security, use, access to, and correction of personal information.
+1.2. A floor not a ceiling
+The OECD privacy Guidelines explicitly state that they are only
+minimum standards for privacy protection that may be supplemented
+in national
+laws by other principles (OECD 1981: 6). The APEC Framework does not explicitly
+state that there may or may not be national
+strengthening of its Principles,
+though this may be implied by some provisions. This has been recognised at the
+APEC implementation
+seminars and meetings of APEC’s Privacy Sub-group
+since 2005. It is also hard to see how the Framework could attempt to impose
+such a ceiling, since almost every privacy law enacted in the region is stronger
+than the APEC Privacy Principles in various ways
+(as discussed later, and see
+Greenleaf, 2005c, 2007 for details). It seems, therefore, that the APEC
+Framework should be interpreted
+as recommending a minimum desirable standard for
+a ceiling for privacy protection (see Greenleaf 2005d for details).
+2.1. Definitions and exemptions (Part II)
+Before considering the Part III Principles, the Part II definitions need
+brief mention though they are largely uncontentious. ‘
+information
+’ is defined as ‘any information about an identified
+or identifiable individual’. The commentary clarifies only
+information may be ‘put together with other information’ to identify
+an individual and that legal persons are
+not included.
+Personal information controller
+’ is defined as meaning
+‘a person or organization that controls the collection, holding,
+processing or use of personal
+information’, so there can be multiple
+controllers. However, organisations acting as agents for another are not to be
+as responsible for ‘ensuring compliance’, but their
+principals are. Agents appear to be exempt from any direct responsibility
+data subject for breaches of the Principles (a) by actions contrary to their
+principal’s instructions; and (b) even
+if they are aware they are in
+breach. . This definition is designed with the Accountability Principle (IX) in
+mind, which makes principals
+‘accountable’ for their agents but only
+under certain circumstances which may easily be avoided by the principal (eg
+obtaining the consent of the data subject). As will be discussed,
+‘accountability’ does not give strong enough protection
+subjects. The exclusion of agents from any direct liability to data subjects
+weakens the APEC approach further, and will
+often leave the data subject without
+any remedy against any party. From the data subject’s perspective the
+strongest position
+is to have both principal and agent responsible for breaches
+of the Principles caused by the acts of the agent.
+Publicly available information
+’ is given a broad
+definition, including the flexible category of information ‘that the
+individual knowingly makes or
+permits to be made available to the public’.
+However, such information is only excluded from the requirement that individuals
+be given notice of its collection by third parties collecting it. The APEC
+Principles do not give the collector of publicly available
+information any
+right, per se, to disclose the information to others. They can, however, use it
+for the purpose for which they collect
+it. They must also take reasonable steps
+to keep it secure, as it is still personal information.
+Personal, family and
+household affairs
+are excluded, but there is no further list of exemptions
+for the press, national security, emergencies etc.
+The wide differences between APEC economies are used to justify Member
+Economies creating local exceptions to the Principles unconstrained
+by any APEC
+list of categories of allowable exceptions. Instead, the only limits on allowed
+exceptions are that they should be (a)
+proportional to their objectives, and
+‘(b) (i) made known to the public;
+(b)(ii) in accordance with
+law’ (emphasis added). This last use of ‘or’ appears to be a
+drafting error and should
+say ‘and’, otherwise it would mean any
+organisation could create exceptions merely by announcing them (see Greenleaf,
+2005a, for details). For comparison, OECD principle 4 states that exceptions
+should be as few as possible, and made public. It is
+not clear whether these
+limits on exceptions (weak though they are) also apply to those exceptions
+already included in the Principles
+(eg to Principle VIII Access and Correction).
+They should apply, and it is a weakness that this is not clear.
+2.2. The nine Principles – strengths and weaknesses
+Each APEC Principle I-IX is now summarised, and main weaknesses or strengths
+noted, but without detailed comparison to other laws
+in the region (for which
+see Greenleaf 2005c, 2007).
+2.2.1. Preventing Harm (I)
+The sentiment that privacy remedies should concentrate on preventing harm
+(‘should be designed to prevent the misuse of such
+information’ and
+should be ‘proportionate to the likelihood and severity of the harm
+threatened’) appears unexceptional
+in sentiment but it is strange to
+elevate it to a privacy principle because it neither creates rights in
+individuals nor imposes
+obligations on information controllers. To treat it on a
+par with other Principles makes it easier to justify exempting whole sectors
+not sufficiently dangerous (eg small business in Australia’s law or in the
+2005 Chinese ‘Expert Draft’ proposals:
+see Greenleaf, 2008a), or
+only providing piecemeal remedies in ‘dangerous’ sectors (as in the
+USA). Waters (2008a) considers
+that the principle is similar to the use of the
+‘such steps as are reasonable in the circumstances’ qualifier found
+other sets of Principles, but a qualifier to some particular principles is
+different from a blanket principle which could be interpreted
+to qualify all
+other principles.
+It is not clear from APEC’s Principles whether ‘harm’
+covers distress, humiliation etc. Although it has apparently
+been assumed in
+meetings of the APEC Privacy Sub-group that these should be included (Waters,
+2008a), given that it has been elevated
+to the status of a separate Principle it
+should make this crucial matter explicit. It is also arguable that there should
+to privacy in some situations independent of any proven harm, such as
+where there is the intentional large-scale public disclosure
+of private facts.
+This ‘principle’ would make better sense in Part IV on
+implementation, as a means of rationing remedies,
+or lowering compliance
+2.2.2. Notice (II)
+APEC says clear ‘statements’ should be accessible to individuals,
+disclosing the purposes of collection, possible types
+of disclosures, controller
+details, and means by which an individual may limit uses, and access and correct
+their information. Reasonable
+steps should be taken to provide notice before or
+at the time of collection. APEC does not however require that
+should be by some explicit form of notice (electronic or
+paper) given to individuals (and nor do most existing laws in the region).
+can be argued that in many cases this will be the only form that reasonable
+steps can take. APEC is not explicit that notice of
+collection must be given to
+a data subject where their personal information is collected by a third party
+but the Commentary clearly
+implies that it should. APEC’s Principles are
+stronger than the OECD’s on this point.
+2.2.3. Collection limitation (III)
+APEC requires only that information collected should be limited to what is
+‘relevant’ to the purpose of collection, but
+not that only the
+minimum information should be collected. It shares the weaknesses of the
+OECD’s collection principle which
+only say 'there should be limits on the
+collection of personal information'. Existing laws in the region are usually
+stricter, with
+collection objectively limited to where necessary for the
+functions or activities of organisations. While APEC requires that information
+be collected by ‘lawful and fair means’, it does not limit
+collection to lawful purposes, in contrast with existing laws
+in the region.
+2.2.4. Uses of personal information (IV)
+APEC has adopted the weakest possible test of allowable secondary uses that
+they only need be for ‘compatible or related purposes’
+(a version of
+the OECD test of ‘not incompatible’ purposes. Most existing laws in
+the region are stricter than this,
+requiring that secondary uses be
+‘directly related’ or within the ‘reasonable
+expectations’ of the data
+subject. In addition to the usual further
+exceptions of individual consent and ‘where authorized by law’, APEC
+adds another
+exception ‘when necessary to provide a service or product
+requested by the individual’. This could easily be abused if
+could have the unrestricted right to determine what information available to
+them was needed for them to decide whether
+to enter into a transaction, with no
+need to notify the individual concerned.
+2.2.5. Choice (V)
+APEC requires that, where appropriate, individuals should be offered
+prominent, effective and affordable mechanisms to exercise choice
+in relation to
+collection, use and disclosure of their personal information. Since consent is
+already an exception to the collection
+and use and disclosure Principles (III
+and IV), this Choice Principle only adds an emphasis on the mechanisms of
+choice, and could
+be seen as redundant. It is not found in other sets of
+Principles. The elevation of choice to a separate principle carries with it
+risk of interpretations in national laws that would support consent overriding
+other Principles, namely the notice, security,
+integrity, access or correction
+Principles. Elevating ‘choice’ by data subjects is superficially in
+their interests,
+but can too easily be used by business and governments to have
+individuals ‘agree’ to surrender their ostensible rights
+Waters, 2008a). Properly interpreted, the wording of the Choice Principle
+probably does not (and should not) imply that consent
+can override other
+Principles, so it does not imply that individuals should be able to
+‘contract out’ of these Principles.
+However, given the risk of
+misinterpretation, it is hard to see what value it has at all.
+2.2.6. Integrity of Personal Information (VI)
+APEC requires that personal information should be accurate, complete and kept
+up-to-date to the extent necessary for its purposes
+of use. This is
+uncontentious, except that (like the OECD), it does not include any explicit
+deletion requirement, and it is difficult
+to infer such a requirement from the
+other integrity requirements.
+2.2.7. Security Safeguards (VII)
+APEC requires information controllers (but not their agents) to take
+appropriate safeguards against risks to personal data, proportional
+likelihood and severity of the risk and the sensitivity of the information. This
+is uncontentious, except it is hard to see
+why agents should not also be liable,
+as discussed.
+2.2.8. Access and Correction (VIII)
+APEC’s access and correction rights are made more explicit than the
+OECD’s, but are also subject to explicit exceptions
+where (i) the burden
+or expense would be disproportionate to the risks to privacy; or (ii) for legal,
+security, or confidential commercial
+reasons; or (iii) the privacy of other
+persons ‘would be violated’. ‘Other persons’ seems to
+mean natural
+persons, not companies, because to assume otherwise would make the
+exception for confidential commercial information unnecessary.
+These exceptions
+are very broad and it does not seem that APEC’s requirement of
+proportionality for exemptions applies to them.
+However, APEC says individuals
+should have the right to challenge refusals of access. The dangers of incorrect
+information are greater
+where access is prevented by an exception, but APEC has
+not addressed the question of whether the right of correction depends on
+being a right of access. Nor have most existing laws.
+2.2.9. Accountability (including due diligence in transfers) (IX)
+APEC’s requirement that there be an accountable information controller
+is uncontentious, except as previously noted in excluding
+agents from any
+Accountability is coupled in principle IX with a requirement that where
+information is transferred to a third party (domestically
+or internationally)
+this requires either the consent of the data subject or that the discloser
+‘exercise due diligence and
+take reasonable steps to ensure that the
+recipient ... will protect the information consistently with these
+Principles’. Also,
+IX only applies where there is an ongoing relationship
+between exporter and importer. This sub-principle was proposed by the USA.
+the incomplete Framework was announced in 2004, it was assumed that data export
+limitations would be dealt with in Part IV ‘Implementation’
+was completed. However, Part IV said nothing on the subject, leaving the
+Accountability Principle as APEC’s only substitute
+for a Data Export
+Limitation principle.
+Once the transferor has ‘exercis[ed] due diligence and taken reasonable
+steps’ (which are not further defined), the transferor
+has no further
+liability to the data subject, no matter what breaches of the Principles occur
+in the hands of the recipient (importer).
+The data subject will have no remedy
+against the exporter, and none against the importer if it is in a jurisdiction
+without applicable
+mechanism for compliance. A contractual clause between exporter and importer
+requiring APEC compliance will not provide such a remedy, even in theory, unless
+the importer is in a jurisdiction where consumers
+can enforce such clauses
+benefiting third parties (i.e. where doctrines of privity of contract do not
+prevent this). The purpose
+of the APEC ‘Pathfinder’ projects (from
+one perspective) is to try to develop mechanisms in various APEC jurisdictions
+(particularly those without data protection laws) to assist exporters to obtain
+credibility for claims that they have exercised their
+‘accountability’ responsibilities when they export data to those
+2.3. Five bases for criticism
+There are five distinct forms of criticism that may be levelled at the APEC
+and which are
+inherent in my above summary.
+2.3.1. Weaknesses inherent in the OECD Principles
+First, the APEC Privacy Principles are based on OECD Principles more than
+twenty years old, and only improve on them in minor respects.
+The inadequacies
+of the OECD Principles have been identified by authors over the years (eg
+Clarke, 2000 and Greenleaf, 1996). Even
+the Chair of the Expert Group that
+drafted them, Justice Michael Kirby, has stressed the need for their revision
+before they are
+suitable for the 21st Century Kirby, 1999).
+2.3.2. Further weakening of the OECD Principles
+The Framework is weaker in significant respects than the OECD Guidelines,
+both in its principles but particularly in its implementation
+requirements. APEC
+states that the OECD privacy Guidelines ‘represent the international
+consensus’, but only claims that
+its Framework is ‘consistent with
+the core values’ of the Guidelines (APEC, 2005, Preamble, para 5), not
+that they reflect
+them on all points. The APEC Privacy Principles improve on
+some OECD Privacy Principles in minor ways, but are weaker than some other
+principles. In particular, they do not include the OECD Privacy Principles
+concerning Purpose Specification or Openness, and
+are therefore weaker on those
+2.3.3. Potentially retrograde new Principles
+The only new principles, ‘Preventing harm’, ‘Choice’
+and the ‘Due diligence in transfers’ aspect
+of the Accountability
+principle, while capable of benign interpretations, carry inherent dangers and
+have little to recommend them,
+as discussed.
+2.3.4. EU compatibility ignored
+While some countries in the region have difficulties in accepting that the EU
+can judge the ‘adequacy’ of their privacy
+laws, ignoring the EU
+standard is not necessarily an approach that other APEC countries would prefer.
+The principles in the EU Directive
+are also the most widely implemented privacy
+principles globally. They have considerable influence in Acts and Bills in APEC
+economies, as seen in the Hong Kong SAR, Korean and Macau SAR
+legislation, and bills in China and the Philippines. For at least these
+they deserved consideration as contributions toward a standard for the
+Asia-Pacific. New principles found in the EU privacy
+Directive (EU, 1995), such
+as its principle requiring human checking of automated adverse decisions, do not
+seem to have received
+any consideration by APEC, and the question of EU
+consistency does not seem to have been explicitly addressed in their
+considerations.
+This might be considered a missed opportunity, to give it the
+most benign interpretation, or an intentional avoidance of anything
+coming from
+2.3.5. Regional experience ignored
+The most obvious source that an Asia-Pacific regional instrument could be
+expected to draw from is the actual standards implemented
+over twenty-five years
+in regional privacy laws such as the laws of Korea, Canada, Hong Kong, New
+Zealand, Taiwan, Australia, and
+Japan. Principles stronger than those found in
+the OECD Guidelines are common in legislation in the region, and many occur in
+than one jurisdiction's laws. These include principles concerning
+collection directly from the individual, data retention, notice
+of corrections
+to third party recipients, data export limitations, anonymity, identifiers,
+sensitive information, and public registers
+(for details see Greenleaf, 2005c
+and Greenleaf, 2007). APEC has not adopted any of these ‘regional’
+improvements. Without
+suggesting that APEC should have embraced all of them, the
+Framework’s failure to include any other new principles means that
+ignores or rejects the experience of those Asia-Pacific countries that already
+have privacy laws and have consistently included
+beyond those of the OECD, and very often share these new Privacy Principles
+across multiple Asia-Pacific
+represent any objective ‘consensus’ of existing regional privacy
+laws, unless it that of the lowest common denominator of every set of Privacy
+Principles in the region.
+2.4. What have the Principles achieved after five years?
+The APEC Privacy Principles are of no positive domestic significance to the
+economies in the Asia-Pacific region that already have
+general information
+and South Korea), because the Principles
+in all of those laws exceed the level
+of protection provided by the APEC Principles at various points. There may be a
+few minor points
+where specific APEC principles such as the Security Principle
+may have better drafting than local laws, but in general these jurisdictions
+have ‘nothing to learn’ from APEC.
+Since 2003 when the first APEC drafts appeared, there has only been one new
+APEC jurisdiction (or other Asia-Pacific country for that
+matter) that has
+brought into force an information privacy law, or any other known method of
+implementing privacy principles. The
+Macau Special Administrative Region of the
+Personal Data Protection Act
+(2006) is based explicitly on
+Portugal’s data protection law, and is therefore the most EU-oriented law
+in the region (see
+Macau, 2006). The 2005 ‘Expert Draft’ proposed
+national law for China (Greenleaf, 2008a, 2008b) does not seem to show
+direct influence of the APEC Framework, but does show some EU influences such as
+the use of ‘lawful processing’ and
+inclusion of a data export
+limitation referring to ‘sufficient’ protection in other countries.
+It now seems unlikely
+to proceed in that form. Bills are under development in
+other jurisdictions such as the Philippines, where they are ‘influenced
+the structure and language of the EU Directive’ (Parlade, 2008). In
+Thailand the details of Bills under development are
+not yet clear, but are said
+to be EU-influenced (Raksirivorakul, 2008). Peru is apparently planning a
+European-influenced law (Waters,
+2008a). In a survey of Asia-Pacific
+developments, Connolly (2008) concludes that, despite the APEC Framework,
+‘an argument
+can be made that the EU approach to privacy protection is
+rapidly becoming the global norm’, and that the APEC principles
+not be implemented as stand alone legislation in Asia-Pacific
+countries’ and will have ‘minimum influence on the content
+legislation’, with the possible exception of the Accountability principle.
+The APEC Sub-group Chair notes (APEC, 2008a)
+that six economies (Australia,
+Canada, Korea, New Zealand, the Philippines and Vietnam) report intentions to
+to the APEC Framework, but whether this amounts to anything
+more than mentioning it in the Preamble is unknown.
+As a means of encouraging the better protection of privacy protection across
+APEC to a minimum agreed standard, the APEC Privacy Framework
+cannot point to
+any conspicuous successes after five years. If the APEC processes have helped
+stimulate some more Bills in the region
+(which is difficult to judge), then what
+has been stimulated is more oriented toward the EU Directive than the APEC
+Framework. Although
+Waters (2008a) argues the APEC principles are ‘not too
+bad as a floor’. But it is a floor on which no one seems to be
+dancing, as
+he admits in saying that ‘none of them, paradoxically, appear to be paying
+too much attention to the APEC Principles
+in their design’.
+Waters argues that all international data protection agreements embody a
+‘lowest common standard’. However, it is questionable
+whether that
+was so with the OECD and the Council of Europe over a quarter of a century ago,
+when what they proposed was of a higher
+standard than most jurisdictions at that
+time. The same could perhaps be argued in relation to the European Directive,
+which required
+most European jurisdictions to change their laws to meet its
+standards, but that is beyond the scope of this article.
+2.5 Australia’s bad example
+The first clear attempt in the region to implement a version of an APEC
+principle comes from Australia’s current review of its
+Australian Law Reform Commission (ALRC, 2008). Although the APEC principles were
+largely ignored by the ALRC,
+the Accountability principle has influenced its
+recommendations concerning data exports. The ALRC’s proposed Principle 11
+replace a rather weak implementation of the EU approach (ie Articles 25
+and 26 of the Directive) with a principle that allows personal
+information to be
+exported anywhere overseas (no ‘border controls’ is how the ALRC
+puts it), provided the transferor
+remains liable for any breaches that then
+occur. However the data subject has the onus of proof that a breach of a
+Principle has
+occurred in a foreign county before there is anything to be
+‘accountable’ for. This will often make ‘remains liable’
+The ALRC then compounds the problem by grafting a number of EU-like
+exceptions onto this approach, the effect of which is to extinguish
+accountability wherever an exception applies. The exceptions include a
+government-controlled ‘whitelist’; exemption
+for transfers to
+countries which the transferor ‘reasonably believes’ have
+substantially similar protections to Australia;
+and exemption where the
+transferor gives the data subject notice that it is proposing to transfer
+personal data overseas without
+accepting liability, but with no obligation to
+tell the data subject the proposed destination. If this is an allowable
+interpretation
+of APEC’s Accountability principle, then consumers will get
+the worst of both worlds, and the concerns of APEC sceptics are
+3. Implementation – Exhortations only
+The Framework’s implementation aspects in Part IV Section A
+(‘Guidance for domestic implementation’), provisions
+are non-prescriptive in the extreme. They state that members ‘should take
+all necessary and appropriate steps’
+to identify and remove or avoid
+‘unnecessary barriers to information flows’ (I), but do not include
+any similarly strong
+injunctions to take ‘all necessary and appropriate
+steps’ to protect privacy. The bias is clear.
+The Framework does not require any particular means of implementation of the
+implementing the Framework
+may differ between countries (‘Member Economies’ in APEC-speak), and
+may be different for
+different Principles, but with an overall goal of
+compatibility between countries. (II).
+In (II) it is made clear that anything ranging from complete self-regulation
+unsupported by legislation, through to legislation-based
+national privacy
+agencies is acceptable to APEC:
+‘There are several options for giving effect to the Framework and
+securing privacy protections for individuals including legislative,
+administrative, industry self-regulatory or a combination of these methods under
+which rights can be exercised under the Framework.’
+‘In practice, the Framework is meant to be implemented in a flexible
+manner that can accommodate various methods of implementation,
+including through
+central authorities, multi-agency enforcement bodies, a network of designated
+industry bodies, or a combination
+of the above, as Member Economies deem
+appropriate.’
+There is mention of the value of complainants having a choice of remedies
+‘commensurate with the extent of the actual or potential
+individuals resulting from such violations’ (V).
+Legislation is mentioned as one means of providing remedies but is not
+required or even recommended (V). In contrast, even the OECD
+Guidelines 'Part 4
+National Implementation' state that ‘Member countries should in particular
+endeavour to (a) adopt appropriate
+domestic legislation’ (OECD 19(a)) and
+a range of other means including 'reasonable means for individuals to exercise
+rights' (19(c)), 'adequate sanctions and remedies' (including against data
+export breaches) (19(d)), and for 'no unfair discrimination'
+(19(e)). The OECD
+support for legislation is tepid, but APEC’s is non-existent.
+3.1. What verifiable implementation is there after five years?
+What criteria are to be used to measure whether a chosen implementation
+measure is sufficient to implement the APEC Privacy Principles?
+APEC only states
+that a country’s privacy protections ‘should include an appropriate
+array of remedies for privacy protection
+violations, which could include
+redress, the ability to stop a violation from continuing, and other
+remedies’, and these should
+be ‘commensurate with the extent of the
+actual or potential harm’. No external means of assessment are suggested.
+now creates problems for the ‘Pathfinder’ projects, as
+discussed below.
+Nor does APEC require that there by any central enforcement body (no matter
+what enforcement approach is adopted), but merely recommends
+some central access
+point(s) for general information. (II). ‘Pathfinder’ project 5 is
+now supposed to document this.
+Member economies are also supposed to provide to APEC periodic updates on
+their Individual Action Plan (IAP) on Information Privacy
+(VI). There are no
+provisions for any third party assessments of these IAPs in terms of their
+compliance with the Framework. Development
+of this IAP content was supposed to
+have started after the second Implementation Seminar in 2005, but as of the most
+recent APEC
+are renewed
+exhortations from the Sub-group that the APEC Secretariat should overcome
+whatever bureaucratic or technical obstacles
+have prevented them from posting
+documents on a website for three years, so that some unspecified number of IAPs
+can be available,
+but only New Zealand is known to have submitted one (APEC,
+2008a). That aspect of external validation of compliance has also failed.
+APEC advocates education and publicity to support the Framework (III). It
+advocates ‘ample’ private sector (including
+civil society) input
+into the development and operation of privacy regimes (IV), but for much of the
+history or the APEC Framework
+this resulted in the inclusion of business
+interests but exclusion of consumers.
+In essence, Part IV exhorts APEC members to implement the Framework without
+requiring any particular means of doing so, or any means
+of assessing whether
+they have done so. No means of assessment have yet been developed. The APEC
+Framework is therefore considerably
+weaker than any other international privacy
+instrument in terms of its implementation requirements, and its practices.
+4. Data export issues
+A key purpose of the APEC Privacy Framework is to increase the free flow of
+personal information among APEC economies. We first need
+to see how other
+international privacy agreements address this issue.
+4.1. OECD and EU approaches – allowing and requiring
+The OECD Guidelines require that member countries do not impede the free flow
+of personal information to other OECD countries that
+do ‘substantially
+observe’ the Guidelines. They also explicitly set out three situations
+when data export restrictions
+are acceptable: where the importing country does
+not ‘substantially observe’ the OECD Guidelines; where re-export
+circumvent domestic laws (in effect, where the receiving country does not
+have its own data export prohibitions); and to protect
+sensitive data not
+similarly protected overseas (OECD, 1981: ‘Part 3 - Basic Principles of
+International Application’,
+guideline 17).
+The novel development in the EU Directive was that, while it required that
+there be free flow of personal information to other EU
+countries (on the basis
+that they were all required to implement the standards of the Directive in their
+national laws), it also
+required member countries to prohibit personal data
+exports to non-EU countries unless the standards required by the EU for personal
+data exports were met (the best known of which is the ‘adequacy’
+standard under A25 of the Directive, but other approaches
+are required or
+allowed under A26). In some cases, where the EU’s standards were met by a
+non-EU country, the EU country concerned
+was not permitted to forbid the export
+to the non-EU country, thereby guaranteeing a certain degree of free flow of
+personal information
+even outside the EU. There is now an Optional Protocol
+(CoE, 2001) to the Council of Europe privacy Convention 108 (COE, 1981) to
+the same effect.
+There is therefore nothing unusual in an international privacy agreement
+including a guarantee of free flow of personal information
+as an inducement to
+meet an agreed minimum standard of privacy protection. Equally, there is nothing
+unusual in international agreements
+recognising that it can be justified to
+prohibit data exports in some circumstances (OECD Guidelines), and even making
+such restrictions
+mandatory (EU Directive).
+4.2. The APEC Framework’s approach – neutrality or Trojan
+What approach is APEC taking to these issues? It is necessary to look at
+both the final Framework, and its implementation through
+the post-2007
+‘Pathfinder’ projects. When the Framework was released in 2004, it
+seemed possible that it might seek
+via the missing Part IV (B) to discourage or
+prevent data export limitations in regional privacy laws, or attempt to provide
+of free flow of personal data within APEC despite existing or future
+data export limitations. A number of factors supported such
+an expectation (see
+Greenleaf, 2007 for a summary), including that embodying such a
+‘trade-off’ in the Framework was
+suggested by then APEC Privacy
+Subgroup Chair in his
+accompanying version 1 of the APEC principles (APEC drafts, 2003-04; and see
+Ford, 2003 and Greenleaf, 2003a).
+However, such expectations were not borne out by the September 2005 final
+version of Part (IV) B. It says nothing directly about personal
+data exports
+– either in terms of limitation rules or requirements to allow them. Part
+IV (B) III ‘Cooperative Development
+of Cross-border privacy rules’
+only deals with ‘recognition or acceptance of organizations’
+cross-border privacy
+rules across the APEC region’ (APEC Framework Part B,
+2005). The final version of the Framework does not explicitly take as
+position as the
+Consultant’s Issues Paper
+(Crompton and Ford, July
+2005) which proposed that one of three ‘implementation objectives’
+of APEC is that ‘prevention
+of data flow across borders should not be put
+forward as a generally suitable remedy for privacy infringements that involve
+more economies.’
+The final APEC Framework, by itself, does
+do any of the following:
+(i) Forbid (or even discourage) data exports to countries without
+APEC-compliant laws (contrast the EU Directive);
+(ii) Explicitly allow restrictions on data exports to countries without
+APEC-compliant laws (contrast the OECD Guidelines and the
+Council of Europe
+Convention);
+(iii) Require data exports to be allowed to APEC economies that have
+APEC-compliant laws (or equivalent protections) (contrast any
+international privacy agreement).
+The Framework’s Commentary encourages (iii), but does not explicitly
+discourage (ii), unless you interpret Principle IX as providing
+exports should be allowed provided the exporter remains
+‘accountable’. The APEC Privacy Framework is therefore
+non-prescriptive in relation to data exports, consistent with its general
+non-prescriptive nature. Since APEC agreements
+do not have any legal status, it
+could not of course formally require or forbid anything, but if the Framework
+had been stated in
+more prescriptive terms this would have had an influence.
+This apparently non-prescriptive result led some commentators, including
+conclude that there was little risk that the APEC Framework might create a data
+protection ‘bloc’ which is antagonistic
+to the EU’s
+‘adequacy’ requirements (Greenleaf, 2005c, 2005d). However, to
+assess whether this is correct, it
+is also necessary to consider how the APEC
+framework is now being implemented by the ‘Pathfinder’ projects.
+5. Cross-Border Privacy Rules (CBPR) and the ‘Pathfinders’
+In September 2007 the relevant APEC Ministers endorsed the ‘Data
+Subgroup. Such
+projects must have the support of a majority of APEC economies, and no veto. The
+Pathfinder project has ‘the
+goal of developing and implementing an
+accountable Cross-Border Privacy Rules (CBPR) system within APEC’, so as
+‘to protect
+the personal information of an individual no matter where in
+the APEC region that personal information is transferred or accessed’.
+Pathfinder proposal is described in its Executive Summary as:
+Thirteen APEC member economies have agreed to develop a framework for
+accountable flows of personal data across the region, focussing
+on the use of
+cross-border privacy rules by business. This will promote consumer trust and
+business confidence in cross-border data
+flows. It will support business needs,
+reduce compliance costs, provide consumers with effective remedies, allow
+regulators to operate
+efficiently, and minimise regulatory burdens.
+These proposals are not limited to intra-company transfers: they may deal
+with data exports to any other company in any other (APEC)
+5.1. The Pathfinder participants - tentative engagement?
+The Project Work Plan says ‘An economy’s expression of support
+indicates support for an overarching approach for developing
+and implementing a
+CBPR system. Economies may then consider whether they are able to support and
+participate in the development
+and implementation of specific projects.’
+With Ministerial adoption, all economies now support the Pathfinder process, but
+are not necessarily involved in projects.
+Of APEC’s 21 member ‘economies’, 13 expressed interest in
+participating in one or more of the nine Pathfinder projects
+detailed below by
+the time of the September 2007 Ministerial endorsement: Australia, Canada, Hong
+Kong, Japan, Republic of Korea,
+Mexico, New Zealand, Peru, Singapore, Thailand,
+Chinese Taipei (Taiwan), the United States, and Vietnam. Since then, the
+Republic of China, and the Philippines have decided to
+participate in some projects. Singapore is still not participating in any
+project, though its ‘joining’ of the Pathfinders has been
+re-announced (APEC, 2008a), so it should not be counted. The
+economies which have apparently chosen not to participate in any of the
+‘Pathfinder’ projects are Chile, Indonesia,
+Malaysia, Papua New
+Guinea, Russia, and Brunei. The business group Global Business Dialogue (GBDe)
+has also become a participant
+in project 9, and the Asia Pacific Trustmark
+Association is also to be involved in Project 9 testing (though not formally
+to Sub-group meetings).
+Although the apparent involvement of two thirds
+member economies is superficially impressive, it is necessary to look more
+closely. There are three possible levels of involvement
+in each of the 9
+Pathfinder projects: leader, participant, and observer. From inception, the
+International Chamber of Commerce (ICC)
+and the USA have been participants in
+all nine projects. The ICC leads Pathfinder project 1 and 3, the USA leads
+projects 2, 4, and
+9 and Australia leads the rest (5, 6, 7 and 8). Although
+Australia is a participant in the other 8 projects, it is only an observer
+project 9. Canada is involved in all projects except project 4 and to a very
+limited extent in project 9.
+Aside from the obvious enthusiasm of the ICC, USA, Australia and Canada to be
+involved as participants, it is not obvious that there
+is yet a high level of
+‘buy in’ to the Pathfinder projects from other economies. As
+discussed below, projects 5, 6 and
+7 are non-contentious arrangements for
+cross-border cooperation between data protection authorities, and while very
+relevant to the
+Pathfinder projects are independent of their more contentious
+aspects. Leaving these three projects aside, the levels of participation
+addition to that of the USA, Australia and Canada is thin: no other economies
+are participants in projects 1 and 3; Hong Kong,
+Japan, Mexico and New Zealand
+are participants in project 2; only Mexico is a participant in project 4; Korea
+and New Zealand are
+participants in project 8; and China, Hong Kong, Chinese
+Taipei, Mexico and Vietnam have agreed to participate in the testing processes
+in project 9. This leaves Thailand and the Philippines only being involved
+anywhere as observers, and Peru only participating in
+projects 5 and 6. Other
+than the ‘three amigos’ of the USA, Australia and Canada, only
+Mexico (2, 4 and 9) is a participant
+in more than one project outside of
+projects 5, 6 and 7.
+It could not be expected that all economies would be active participants in
+all projects. While lack of active participation does
+not equate to lack of
+support, merely being listed as an ‘observer’ in a project may not
+constitute much more than taking
+a ‘wait and see’ attitude. It seems
+that most APEC economies are still waiting to make up their minds as to how
+they will be in these Pathfinder processes. Any talk of an APEC
+‘bloc’ or common position in relation to the APEC Pathfinder
+projects would seem to be a considerable exaggeration at this stage. Having said
+that, it remains impressive and valuable that so
+many APEC economies are meeting
+twice a year to discuss data protection issues, with 17 economies having been
+represented at the
+August 2008 meeting in Peru.
+5.2 The Pathfinder projects
+There are nine Pathfinder projects
+that economies can decide to join. Official publicly available documentation
+projects is very limited, the most recent being a two page
+summary of the August 2008 Sub-group meeting in Peru (APEC 2008a). There
+numerous work-in-progress drafts in circulation about each of the projects
+below, but they remain unpublished. Published accounts
+by Waters (2008, 2008a),
+Civil Society representative at Sub-group meetings, are the most informative.
+His summaries of how the Pathfinder
+projects are supposed to work are added to
+the formal descriptions below (Waters, 2008).
+CBPR self-assessment guidance for organisations
+developed jointly with project 3). ‘A business seeking to participate will
+prepare a document setting out how it
+will comply with any applicable standards,
+and how it will deal with any complaints about breaches; (i.e. a version of the
+policy or privacy statements which are required by some domestic laws,
+and by APEC principle II). In the Pathfinder this is known
+‘self-assessment’ (project 1). This self-assessment will be based on
+a standard set of questions, currently being
+drafted by TRUSTe with input from
+all participants.’ (Waters, 2008)
+Guidelines for trustmarks participating in a CBPR system
+(‘Develop guidelines for what a trustmark must do in order to be
+recognised as an APEC CBPR accreditation provider’).
+These are now called
+‘accountability agents’. In some jurisdictions they will be
+government bodies, and there should
+be common standards for both public sector
+and privacy sector Accountability Agents (Waters, 2008a).
+Compliance review of an organisation's CBPRs
+guidelines for trustmarks to use when assessing an organisation’s
+compliance with the APEC Privacy Principles’).
+‘Project 3 involves
+developing guidelines for trustmarks to use when assessing the compliance of
+organisations with the relevant
+legal/self-regulatory criteria.’
+‘The [self-assessment] document would be assessed by an
+‘accountability agent’
+which might be a regulatory agency or a
+‘trustmark’ organisation. Private accountability agents (e.g.,
+trustmarks) would
+be approved based on a separate trustmark assessment process,
+guidelines for which are project 2. TRUSTe has also provided a first
+this document for review by participants.’ (Waters, 2008)
+Directory of compliant organisations
+(‘Develop a publicly
+accessible directory of organisations that have CBPRs that have been accredited
+as complying with the
+APEC Privacy Principles’). ‘If assessed as
+meeting the requirements, the business would be included in a publicly
+directory of compliant organisations’ (Waters, 2008)
+Data Protection Authority and Privacy Contact Officer
+Template Enforcement Cooperation Arrangements
+Template cross-border complaint handling form
+‘Regulators will
+establish mechanisms for cooperation on complaints that involve multiple
+Guidelines and procedures for responsive regulation in a CBPR
+(‘Develop guidelines and procedures (e.g. flowchart) to assist
+in determining at which stage of the CBPR responsive regulation
+cross-border privacy complaint should be handled and identify the triggers for
+escalating a complaint to a higher level
+of the pyramid’)
+Cross-Border Privacy Rules International Implementation Pilot
+(including participating economies identifying businesses willing to
+participate) ‘Pathfinder project 9 will seek to test the
+entire process,
+starting with a number of volunteer businesses submitting self-assessment
+results documents for ‘processing’
+by accountability agents. The
+complaints and enforcement mechanisms being developed in projects 6 & 7 will
+then be tested on
+hypothetical ‘breach’ scenarios.’ (Waters,
+2008) Six economies, plus ICC and GBDe, have agreed to participate in
+testing, and others are observers.
+5.3. Unanswered questions about standards for data exports
+Projects 5-8 aim to increase cooperation between all types of data protection
+authorities, are not related specifically to CBPR schemes,
+uncontroversial. Project 9 involves making elements of the other projects work
+together. It is Projects 1-4 that raise questions
+which are not answered by any
+of the official APEC Pathfinder documents (Greenleaf, 2008).
+Against what criteria does a company self-assess whether its CBPR procedures
+are good enough (Project 1)? Similarly, what is the standard
+protection against which a trustmark provider must accredit companies (Projects
+3)? Further, are the only aspects of a
+company’s privacy practices which
+must meet the standards of the APEC Privacy Framework those that relate to
+cross-border transfers?
+The APEC Privacy Framework does not provide answers to any of these
+questions, as it is quite open as to what standards different
+economies may
+require in order to allow cross-border transfers (see Greenleaf, 2005). The APEC
+Pathfinder published documents are
+still unclear as to where they locate the
+standards against which particular organisation’s cross-border privacy
+to be measured. Where countries have information privacy laws, there
+may be limits as to what cross-border transfers can be allowed.
+But where no
+laws apply, are the standards for cross-border transfers those that consumers
+would set, or governments – or
+businesses?
+It seems to be a reasonable assumption that the standard to be applied here
+is that (except where a law forbids) any data export is
+allowable provided the
+exporter can claim to be adhering to APEC Principle IX
+(‘Accountability’) which says any data
+exporter must either obtain
+consent or ‘exercise due diligence and take reasonable steps to ensure
+that the recipient person
+or organization will protect the information
+consistently with these Principles’, plus any other Principles on which
+with Principle IX is dependent. It appears to be assumed that this is
+enough, and ‘accreditation’ should be provided
+on this basis (at
+least where local laws do not forbid this). The APEC Framework does not state
+how the sufficiency of any compliance
+measures are to be assessed, so there is
+no objective standard of whether the information is ‘protected’. At
+APEC needs to better communicate its intentions and its operating
+assumptions.
+One draft Pathfinder document states that an Accountability Agent is to
+evaluate a company’s practices ‘against a set
+requirements (Project 3) that encompasses all the principles of the APEC Privacy
+with respect to cross border data transfers
+as developed and
+endorsed by APEC member economies’ (emphasis added). This seems to mean
+that the ‘program requirements’
+do not require companies to comply
+with ‘all the principles of the APEC Privacy Framework’ at all, but
+only Principle
+IX (‘Accountability’). The rest of the document only
+refers to enforcement of ‘program requirements against
+Participants’,
+not enforcement of the APEC Privacy Principles. However,
+other draft Pathfinder documents do pose questions to potential company
+Participants about their compliance with all of the APEC Principles, without it
+being clear which aspects are essential for the evaluation
+being carried out by
+the Accountability Agent. It is not at all clear which principles are
+‘with respect to cross border data
+transfers’, as it is clearly not
+all of them, but presumably more than just Principle IX. It is easy to see that
+IV (Uses of personal information) is applicable in that any uses or
+disclosures to an overseas organisation must comply with it,
+and the same
+applies to Principles VI (Integrity) and VII (Security) insofar as information
+being transferred and the conditions
+of its transfer are concerned (but not in
+relation to any other information not being transferred). Some but not all
+aspects of Notice
+(II) may be relevant, but it is hard to see that Collection
+(III), Choice (V), or Access and Correction (VIII) will normally involve
+cross-border considerations.
+Of course these are only drafts, but the implication of the Pathfinders
+focussing only on CBPRs is that companies will be able to
+be listed in the
+‘Directory of compliant organisations’ (Project 4) even though they
+do not comply with the all Principles
+in the APEC Privacy Framework. For data
+which they have no intention to transfer overseas, they might not need to comply
+Principles. How will this ‘APEC Privacy Compliance
+Directory’ (or whatever it will be called) make it clear to every
+and business partner that just because a company is listed there, that is no
+guarantee that it complies with the APEC Privacy
+Framework? Of course, similar
+approaches and similar issues have been seen before: as more details become
+available, the Pathfinder
+Projects look increasingly like a generalised version
+of the US Safe Harbor approach.
+5.4 Standards for accrediting accountability agents
+Just as important, against what criteria would ‘accountability
+agents’ be themselves ‘accredited’ or recognised
+(Project 2).
+To use the most obvious example, ‘how do we know that TRUSTe can be
+trusted to refuse or remove accreditation
+of non-compliant businesses?’.
+As Waters (2008) puts it:
+‘Another important element currently missing from the Pathfinder is the
+mechanism by which the regulator in any one jurisdiction,
+or collectively, would
+assess the credentials of the ‘accountability agent’ in another
+deliver assessment criteria for trustmarks, but
+who will make the decision that a trustmark scheme (or a regulatory agency)
+these criteria? As with organisational assessments, we [civil society
+organisations] will argue for full transparency with respect
+to trustmark
+assessments.’
+Is there any evidence that trustmark schemes can be trusted to provide
+objective assessments of compliance with privacy standards,
+free of any conflict
+of interest? Connolly (2008) concludes after a detailed study that the track
+record of English language trustmark
+schemes in relation to privacy is poor.
+Following the demise of the BBB Online Privacy Seal in 2008, TRUSTe is
+‘the only remaining
+large-scale privacy trustmark’. The
+‘privacy seal graveyard’ is littered with corpses such as
+controlscan
+. Connolly concludes that TRUSTe’s own privacy
+standards for their most common seal (with over 2,000 members) are ‘lower
+than any privacy law, binding agreement or international privacy
+standard’. In relation to the enforcement of these already
+low standards
+against its members, he concludes that ‘TRUSTe can only point to one
+effective enforcement action in more than
+11 years – against a company who
+(sic) was already being taken to court by regulators’. Connolly considers
+that TRUSTe
+was actually the best of the trustmark schemes he considers.
+Connolly’s conclusions echo those of earlier critics of trustmark
+such as Gellman (2000) (who stated he could not think of a single reason to
+advise a consumer to make a complaint against
+a trustmark scheme) and Howes
+(2002) (‘their standards were worthless, and ... their true sympathies and
+interests lay with
+the very companies they were supposed to be policing’).
+Perhaps there are some successes outside the English-speaking world, but a
+successful Japanese or Vietnamese language scheme, or even
+one in Spanish, would
+give rather limited scope for privacy seal operators to be the bedrock of
+APEC’s Pathfinder. What basis
+is there for trusting privacy seal or other
+trustmark operators? APEC needs to explain this, not assume it. There is scope
+for self-regulatory
+and co-regulatory elements in regulatory schemes, but they
+are not givens, and evidence of past failures should weigh heavily against
+continuation.
+Accreditation by a trustmark provider is not the only way to be included in a
+directory (Project 4), because an ‘accountability
+agent’ can also be
+a ‘regulatory agency’ (Waters, 2008). Under what powers regulatory
+agencies can carry out the
+assessments required by Projects 2 and 3 also remains
+to be seen. Will existing legislation be amended across APEC to allow regulators
+to carry out this function? If it is, will the legislation also have to endorse
+the standards adopted by the APEC Sub-group under
+projects 3 and 4? Is this
+likely to occur?
+Who is going to ‘accredit’ these Accountability Agents? The
+Pathfinder documents don’t explicitly say so, but since
+there is no
+collective process for accreditation across all Member economies, it can only be
+that each economy will decide on its
+own process for such accreditation. An
+Accountability Agent will then accredit the CBPRs of, for example, businesses
+headquartered
+in its country. Then, by some process yet to be developed,
+governments in one country will presumably recognise the accreditations
+businesses made by Accountability Agents in other countries. It also seems that
+if there is no Accountability Agent specified
+in a country, it can choose to
+make use of one from another country. If the USA accredits TRUSTe, will or
+should other economies
+accept that, and all the consequent accreditations of
+US-based companies that flow from it? This is the type of question for which
+there are no published answers as yet.
+5.5 Will ‘adequacy’ evolve within APEC?
+Waters is the Civil Society representative most actively (and positively)
+engaged in the Pathfinder projects, but he still considers
+that collective
+‘adequacy’ assessments will eventually be necessary (Waters, 2008),
+an argument first raised by NZ Assistant
+Commissioner Stewart in 2003 (see
+Greenleaf, 2003a):
+‘If the APEC Framework is to achieve its objective of removing barriers
+to the cross border flows of personal information, there
+is no escaping from the
+need, ultimately, for an ‘adequacy assessment’ mechanism similar to
+the EU Directive’s
+Articles 29 and 31 Committee processes. No economy, and
+in particular no regulator in those economies with a legislated cross border
+transfer principle ...will be able to avoid making a decision about which other
+-both of substantive
+rules/principles, and of compliance and enforcement mechanisms. There is
+reluctance on the part of some participants
+to acknowledge this fact; indeed
+some participants seem to view the Pathfinder project as a replacement for
+traditional “adequacy”
+determinations, via a sort of “safe
+harbour” approach, although it is not clear how this can be reconciled
+acceptance of domestic legislative requirements.’
+5.6. Potential advantages?
+An optimistic approach is to hope that this CBPR work will encourage
+economies with no current privacy legislation to adopt legislation
+embodying the
+APEC Principles, on the basis that this will then make it easier for them to
+utlise the CBPR procedures to secure information
+flows to their economy.
+Waters (2008) also sees some advantages in the ‘self assessment’
+‘The scheme would appear to offer the advantage of having businesses
+conduct a level of self-assessment which goes well beyond
+what is required by
+most domestic privacy laws, which are almost all complaint-based and have a
+default untested assumption that
+data controllers are complying with the law.
+From draft assessment criteria presented in the Lima workshop, the level of
+provided to ‘accountability agents’ would also exceed even
+that required by those European laws which require registration
+controllers. A crucial unanswered question is whether the self assessment
+details would be made public, or whether participating
+business could provide a
+lesser level of detail in its public privacy notices, statements or policies.
+Civil society organisations
+will argue for the former.’
+Another crucial question, as discussed above, is whether companies seeking
+APEC accreditation, will in fact have to comply with the
+whole nine APEC
+Principles, or only the Accountability Principle and those Principles on which
+it depends (but only in relation to
+some data). If only the latter, then the
+APEC CBPR process will have the opposite effect in both cases: it will provide a
+way out’ from complying with all the Principles (so why
+bother with legislation to embody all of them), and the assessment
+process will
+not require businesses to demonstrate full compliance with all APEC Principles,
+but will reward them nevertheless with
+APEC accreditation (Project 4).
+However, there are still some grounds for optimism. If the Pathfinder
+projects result only in complexity and uncertainty, with no
+obvious benefits to
+economies overall but only to a few companies, it may be that some economies
+will draw the conclusion that legislation
+of international standards is a more
+productive route forward.
+6. Ongoing issues of consumer representation
+What role do consumer interests have in APEC’s privacy processes? In
+the development of the Framework, consumer organisations
+were not invited to
+participate in the negotiating process, though business organisations were. A
+few national delegations (notably
+that of the USA) included consumer
+representatives. Most others did not. The one detailed and critical submission
+by a consumer organisation
+when public submissions were belatedly requested (see
+APEC drafts, 2003-04: APPCC Submission), had no effect.
+Has anything improved during the post-2004 implementation phase?
+Representatives of consumer organisations have been invited to participate
+all public seminars since 2005. The Pathfinder proposal approved by Ministers in
+2007 says that one of its ‘main objectives’
+will be ‘promoting
+the development of consultative processes ... including ... consumer
+representatives both in the creation
+of the rules and processes and in their
+operational review and optimisation.’ (APEC, 2007). These objectives are
+repeated at
+the outset of the Project Work Plan. However, the nine projects were
+designed without any input from consumer organisations, in contrast
+to extensive
+input from business organisations.
+At the time these objectives were under consideration, Privacy International
+(PI) applied for accreditation to the APEC Data Privacy
+Subgroup, in the same
+way that the International Chamber of Commerce (ICC) and another business group
+(Global Business Dialogue on
+e-Commerce (GBDe)) are accredited to be
+represented, with speaking and participation rights. As we have seen, ICC
+participates in
+all 9 projects, and GBDe in one. Other business organisations
+such as TRUSTe and the Asia Pacific Trustmark Association are also
+now involved
+in project 9, on some unknown basis. PI’s application was declined by the
+APEC Secretariat in June 2007, with
+the comment that consumer representatives
+could ask to join delegations from economies, ignoring the fact that this does
+a right to speak at Subgroup meetings without consent of delegation
+chairs or to formally participate in Pathfinder projects. Both
+USA’s Electronic Privacy Information Centre (EPIC) made a further
+application at APEC’s Peru meeting in February
+2008 for guest membership
+status. Although there was no apparent objection to this at the Privacy Subgroup
+meeting, neither application
+was approved by the ECSG, apparently because one
+economy objected (APEC works by consensus). It was stated at the Privacy
+Commissioner’s
+Conference in Strasbourg, 2008, that the blackballing was
+by China. The applications were deferred to the next ECSG meeting pending
+organisations providing further background information (Waters, 2008), but have
+been again refused. PI and EPIC are instead
+invited to apply for guest status on
+a meeting-by-meting basis.
+Consumer groups in various APEC countries have been undecided whether to
+engage with the APEC processes, or to oppose them. As Canada’s
+(2007) says ‘the process looks very much like a cleverly disguised attempt
+to establish a low international standard
+through the back door’.
+Australia’s Waters (2007) noted that although the Australian Privacy
+Foundation proposed better
+NGO input into APEC processes, ‘other NGOs ...
+are still concerned that engaging formally with the APEC process may be a trap
+that NGOs should avoid’. In 2008 the civil society organisations are still
+testing the strategy of engagement. As noted, it
+has not yet yielded subgroup
+membership. However, at the February 2008 Privacy Subgroup meeting in Peru,
+three representatives of
+civil society
+organisations
+invited to speak in the public seminar. Even without permanent guest status, the
+civil society organisations have been invited
+to participate in conference calls
+on the Pathfinder projects. All very well, but it is a bit late. In contrast,
+the subgroup Chair
+drafted the Pathfinder Work Plan in 2007 and noted that
+‘ICC had the opportunity to consider the draft and circulated some
+comments which identified areas where it is necessary to broaden the discussion
+in the document. There was discussion about the projects’.
+It is clear
+from this, and from its participation in all projects, that ICC uses its
+participation right aggressively to influence
+every aspect of the
+sub-group’s work. Consumer groups were at that time shut out from such a
+level of participation. It is
+of less value to be allowed to participate once
+the principal rules have already been set.
+The downside of Civil Society involvement in the Subgroup was apparent at the
+2008 where the US
+representative made effusive statements about the value of Civil Society
+participation in the Pathfinder projects.
+The comments were accurate, but were
+potentially misleading to less informed listeners, who could easily have
+concluded that Civil
+Society groups were fully behind the APEC processes. None
+are, as was subsequently made clear by a statement to the Subgroup by all
+involved Civil Society groups setting out their limited ‘terms of
+engagement’:
+‘Civil Society has not endorsed either the APEC Privacy Framework
+or the Pathfinder process. Civil Society has very limited
+expectations
+of the Pathfinder process and it remains unclear to us whether it
+can produce anything of value other than better cooperation
+national authorities, which would be very valuable. We also remain concerned
+that the Pathfinder could lead to undesirable
+outcomes in terms of either lower
+standards of privacy protection and/or misleading compliance claims.
+However, Civil Society considers
+that it needs to be aware of what is
+happening in the APEC privacy processes, and therefore welcomes opportunities
+to participate
+in sub-group meetings when limited resources
+allow. While attending it is our policy to make constructive suggestions
+where appropriate,
+but these do not represent either support or expectations of
+It may no longer be fair to joke that APEC stands for ‘All Present
+Except Consumers’, but it is still arguable that Civil
+organisations have more to lose than to gain from participation in the APEC
+processes because they have been let in too late,
+when the main rules are
+already set. There is a danger that the reputations of Civil Society
+organisations will be co-opted.
+7. Does APEC offer a future for privacy protection?
+The APEC Framework is supposed to be agnostic as to which route(s) economies
+take to implement its Principles, whether the route is
+via binding corporate
+rules (BCRs), trustmarks, legislation or other means. But it is notable that,
+while there has been some belated
+recognition that enforceable remedies will be
+necessary, the Data Privacy Subgroup’s work plan has never included
+expressly to do with supporting legislative development (such as
+seminars on options in drafting privacy laws to achieve different
+goals). It is
+now focused solely on developing a CBPR system. Waters (2008) notes that
+‘APEC has confirmed that the CBPR approach
+implementing the APEC Privacy Framework,
+currently the main focus
+of the Privacy Subgroup’.
+When one of the principal drafters of China’s proposed data protection
+gave details of what was then China’s proposed
+Personal Information
+Protection Act (see Greenleaf, 2008a, 2008b) at APEC’s public seminar in
+Canberra in January 2007, this
+attracted no public comment from anyone engaged
+in the APEC processes who was present. That one of the two giant economies of
+was proposing to protect privacy by comprehensive national legislation
+almost seemed to be an embarrassment to APEC, even though
+it is the most direct
+route to complete compliance with the APEC Privacy Framework.
+The APEC Privacy Framework and its processes often seems to be little more
+than a vehicle for advancing the interests of those business
+economies that seem to wish to deter and deflect as many countries as possible
+from adopting information privacy laws,
+and in particular from adopting any
+legally enforceable restrictions on exports of personal data. As more Pathfinder
+details emerge,
+the priority of APEC’s Privacy Sub-group seems to be to
+construct a generalised version of the Safe Harbor program, applicable
+economies in the Asia Pacific. It benefits large companies, many of which are
+US-based, who wish to transfer personal information
+out of (or at least between)
+APEC economies. It benefits operators of trustmark schemes. There are competing
+claims that credit for
+originating and driving the APEC Framework’s
+development is primarily due to the Australian government (Ford, 2008), and to
+American business organisations associated with the ICC (The Centre for
+Information Policy Leadership website, cited in Connolly,
+2008a). There is no
+need to take sides, as the impetus seems to have come from both directions, and
+from the US government, though
+other economies’ representatives have
+influenced its development (Greenleaf 2003a – 2005e).
+The likelihood that companies will obtain ‘APEC privacy
+accreditation’ without actually complying with all APEC Privacy
+Principles, and without their being any guarantee that they are even complying
+with local privacy legislation by such accreditation,
+is potentially extremely
+confusing to and deceptive of consumers everywhere across APEC. Privacy
+Commissioners and other regulators
+are being asked to be a party to this
+(including through projects 2, 3, 4, 8 and 9) without their being clear benefits
+to data subjects.
+They run the risk of being seen as unduly influenced by
+transnational business interests.
+Until APEC gives the same priority to supporting both legislative and
+non-legislative developments, unambiguously accepts the rights
+of economies to
+have reasonable data export limitations, and gives the same status to
+consumer/privacy groups as it currently gives
+to business groups, it is hard to
+see its Privacy Framework as having any significant positive effect on the
+development of privacy
+protection in the Asia-Pacific. Even then, whether the
+Pathfinder projects 1-4 and 8-9 can make a positive contribution remains to
+Of course, the APEC Privacy Framework and its processes could be more than
+they are at present. They could be a useful means of advancing
+information
+significance; of advocating a minimum standard
+of privacy Principles to be
+achieved by verifiable means; and of facilitating trans-border data flows within
+a framework of national
+laws. Europe has made significant progress toward these
+goals over 25 years, though there is still a long way to travel. The APEC
+process is showing little sign as yet that it is even pointed in the right
+8. Alternative futures for Asia-Pacific privacy
+If APEC’s Privacy Framework and its CBPR focus are unlikely be the
+driver of major changes to privacy protection in the Asia-Pacific
+region, where
+are they going to come from? Four possible drivers include new national privacy
+laws, possibly influenced by other
+regional groupings (most likely), the
+region’s privacy officials learning to act collectively (least likely) and
+Europe Convention 108 developing as a global privacy Convention (only
+recently a possibility). The final ‘elephant in the room’
+Asia-Pacific is the continuing influence of the European Union privacy
+Directive. None of these possible future major factors
+exclude the APEC Privacy
+Framework continuing to play a role.
+8.1. New national privacy laws and regional initiatives?
+A new wave of national legislation would make APEC less relevant,
+particularly if it is origins had little to do with APEC. As already
+there is new data protection legislation under development in China, Thailand,
+the Philippines, Vietnam, Malaysia, Peru,
+and perhaps elsewhere. The draft
+Chinese law that was under consideration seemed to fit that description (see
+Greenleaf 2008a, 2008b),
+but China’s intentions are still a mystery.
+Chinese legislation would change the whole regional privacy equation, providing
+another model for emulation and a signal that privacy legislation is part of the
+package of a modernising economy.
+The Association of South East Asian Nations (ASEAN) has recently and
+successfully placed significant emphasis on the drafting and
+enactment of
+e-commerce laws. As part of this, its members have a commitment to data
+protection laws harmonised across ASEAN by 2015
+(Connolly, 2008b). Its ten
+member countries
+have a partial overlap with APEC membership (Cambodia, Laos and Myanmar are not
+in APEC), but have a combined population of
+575 million and a combined GDP of
+$US1.8 trillion. A coordinated ASEAN legislative initiative, drafted from the
+perspective of facilitating
+e-commerce, would have impact comparable to that of
+China adopting national legislation. It is not difficult to envisage these quite
+possible developments overshadowing anything arising from APEC.
+Other regional groupings within the APEC area may also play a role in
+diminishing the focus on APEC. Three APEC members (Chile, Peru
+and Mexico) are
+in the Ibero-Américan Data Protection network. In 2008 Uruguay adopted an
+EU-modelled data protection law,
+joining Argentina, Columbia and Paraguay. Chile
+has a law before Parliament to adapt its current Act toward EU compliance. Laws
+said to be proposed in Peru, Brazil, Venezuela, El Salvadore, Bolivia and
+Nicuragua (Palazzi, 2008). Mexico may soon be quite out
+of step with its
+Ibero-Américan neighbours.
+One APEC member (Vietnam) and three ASEAN members are also members of the
+Organisation Internationale de la Francophonie, in which
+since 2004 there is a
+commitment by Heads of State to develop data protection rules and to support
+cooperation between data protection
+authorities (Summit of Ouagadougou 2004).
+This led to the francophone association of data protection authorities
+8.2. The limited vision of the Asia-Pacific’s privacy Commissioners
+As Stewart, Waters and others have suggested, collective judgments about
+compliance with regional privacy standards may eventually
+be inevitable. If this
+occurs then it may require collective input from the region’s privacy
+authorities. This is not a role
+to which they are yet accustomed.
+European data protection Commissioners have a long history of collective
+deliberation, and in the last ten years, of collective action.
+The EU national
+Commissioners make up the Data Protection Working Party (‘Article 29
+Committee’) established under the
+European privacy Directive (A29
+Committee website), and as such have a formal role in deliberating on the
+adequacy of privacy laws
+of non-EU countries, as well as on many other matters
+of collective concern to privacy protection in Europe, and advising other
+bodies on this. In their first decade they published 118 collective
+Opinions, Annual Reports and Working Documents since 1997. The
+Committee is
+generally regarded as among the world’s most authoritative and influential
+voices on privacy issues.
+There is as yet nothing similar in the Asia-Pacific. The Asia-Pacific Privacy
+Authorities Forum (APPA Forum, previously known as PANZA+)
+includes the data
+protection authorities of Australia (from four jurisdictions), New Zealand, Hong
+Kong, South Korea and Canada (federal
+and British Columbia jurisdictions). APPA
+members have to be accredited to the international meeting of Commissioners and
+Asia or the Western Pacific (Stewart, 2006). APPA and its predecessor
+bodies have met six monthly for fourteen years. APPA’s
+Statement of
+Objectives (2005), other than being a general agreement to cooperate and
+exchange information, has its most concrete
+objective as ‘Promoting best
+practice amongst privacy authorities’. In contrast, the ‘Tasks of
+the Article 29 Data
+Protection Working Party’ (A29 Committee, Tasks) is
+replete with substantive objectives, including ‘To make recommendations
+the public at large, and in particular to Community institutions on matters
+relating to the protection of persons with regard
+to the processing of personal
+data and privacy in the European Community.’
+The severely limited collective role of the Asia-Pacific Commissioners is
+best appreciated by considering things it has not done.
+It has never issued a
+collective opinion on a privacy issue of regional or global importance, such as
+on particular privacy practices
+of global companies or on outsourcing practices.
+The Article 29 Committee has given many such opinions. It did not provide any
+input into the development of the APEC Privacy Framework, though
+individual offices from some jurisdictions (eg NZ, HK) were significant
+There are both good reasons and excuses for the differences between Europe
+and the Asia-Pacific. The Europeans have more countries
+with privacy laws, and
+the A29 Committee has a formal collective role enshrined in a Directive which
+gives them a mandate to stick
+their collective noses into any privacy issue they
+think is important enough, and to do so publicly. One of the many failures of
+the process leading to the APEC Privacy Framework is that the creation of any
+such collective body of privacy authorities was not
+even on the agenda for
+discussion. The Asia-Pacific Commissioners have never had sufficient courage of
+their own convictions to invent
+a role for themselves, possibly at risk of
+upsetting national governments. It would be possible for some Commissioners to
+find sufficient
+mandate in their legislation to enable them to have some larger
+collective role. However, there would be severe limits to this in
+the absence of
+a mandate from some regional agreement. Since 2005 APPA is becoming more
+organized and purposeful, but has not yet
+found a substantive role in the
+region’s privacy protection.
+8.3. The continuing influence of the EU privacy Directive
+The European Union privacy Directive’s (European Union, 1995)
+requirements concerning the ‘adequacy’ of the privacy
+laws of third
+countries before there can be unconditional exports of personal data to them
+from EU member states has taken a lot
+longer to ‘bite’ than many
+expected. There are a number of reasons for this. It has taken a long time for
+EU countries
+to bring their own laws into line with the Directive, and some
+still have not done so fully, to the extent that the European Commission
+taking action against some of them. Individual EU countries have been reluctant
+to prevent data transfers to third party countries.
+The Commission has been very
+slow to complete its determinations of adequacy, or lack of it, for very many
+countries, no doubt being
+very reluctant to find non-EU countries’ laws
+inadequate when so many EU laws were still so manifestly lacking.
+No Asia-Pacific country's law has yet been declared to not be adequate. There
+has been a provision finding in favour of Canadian federal
+law, which is now
+being reviewed in the context of all Canadian jurisdictions. The US ‘Safe
+Harbor’ scheme, of very limited
+scope, was held adequate. A
+consultants’ report to the Commission on all of Australia’s laws was
+delivered in 2005 and
+subsequently updated. The Commission is not known to have
+commenced any formal investigation of the laws of New Zealand, Hong Kong,
+Korea or Taiwan. The absence of adequacy findings in relation to some of these
+laws, when contrasted with the adequacy finding
+in favour of Argentina, have
+quite rightly resulted in the European Commission and the Directive being held
+up to ridicule by authors
+such as Ford (2008).
+Slow though it is in maturing, the EU adequacy issue is not going to go away,
+and nor should it. The EU is not unreasonable in insisting
+that the privacy of
+Europeans whose personal data is being exported is provided adequate protection,
+and the Directive is quite flexible
+in how such protection can be achieved.
+The attraction to most countries in the Asia-Pacific of a blanket finding of
+‘adequate’ for their laws will persist, no
+matter how much a few
+countries may rail against the idea. The apparent motivation behind some of the
+proponents of the APEC process
+to form an ‘APEC bloc’ that either
+explicitly rejected or ignored any European privacy standards (see Ford 2003,
+and Ford 2005) has not yet succeeded, as APEC has not established
+anything substantial of its own. The attraction of ‘EU adequacy’
+likely to persist over time and will influence many aspects of future
+Asia-Pacific privacy laws.
+8.4. Globalisation of Council of Europe Convention 108?
+world’s privacy and data protection Commissioners at their
+International Conference in Montreux, Switzerland
+agreed on a concluding ‘Montreux Declaration’ (2005) which issued a
+number of challenges to global organizations and national governments. One was
+their appeal ‘to the Council of Europe to invite,
+in accordance with
+article 23 [of Convention 108 on data protection] ... non-member-states of the
+Council of Europe which already
+have a [sic] data protection legislation to
+accede to this Convention and its additional Protocol.’ Since 2001 a
+similar approach
+has seen the Council of Europe Cybercrime Convention become an
+international instrument with some adoption outside Europe, including
+USA. In July 2008 the Council of Europe took up the suggestion in the
+Commissioners’ declaration. The Council of Ministers
+decided to invite
+non-European countries with data protection laws ‘in accordance
+with’ the standards of Convention 108
+to request to be allowed to accede
+to the Convention under Article 23(1). It may be that the Convention’s
+Consultative Committee
+will first examine such requests (see Greenleaf 2008c for
+The Council of Europe initiative signals a possible way of sidestepping the
+cumbersome process of developing a new UN convention on
+with an instrument already adopted within the region with the most concentrated
+distribution of privacy laws,
+Europe. Forty European states have already acceded
+to Convention 108. Twenty of them have acceded to its Additional Protocol which
+requires a data protection authority and data export restrictions (with fourteen
+more having signed it), and which seems to be heading
+rapidly toward universal
+accession within Europe. Five accessions are from outside the EU (Greenleaf,
+The APEC region has the largest concentration of countries outside Europe
+with existing data protection laws, and more so if pending
+legislation is
+considered. Accessions would therefore have considerable impact within the
+region, and not only in relation to Europe,
+because of the mutual obligations to
+allow free flow of personal information (although this can be a complex question
+if the Additional
+Protocol is not acceded to). Accession to Convention 108 and
+the Additional Protocol deserves serious consideration by Asia-Pacific
+governments which already have privacy laws of international standards (or are
+considering introducing same). Which countries could
+qualify is beyond the scope
+of this article. The pros and cons of accession for businesses, consumers and
+government also require
+more analysis than is possible in the conclusion of this
+paper. It is in particular not clear whether there would be overall benefits
+consumers. It could be counter-productive if non-European parties were allowed
+to accede only to the Convention and not to the
+Additional Protocol. However,
+one considerable advantage is that the obligations of such a Convention would be
+freely entered into
+by non-European countries in return for perceived benefits,
+not imposed upon them by the EU. This factor alone could help remove
+‘log jam’ between some Asia Pacific countries and the EU.
+The Convention and Additional Protocol could provide a reasonable basis (a
+common and moderate privacy standard) for a guarantee of
+free flow of personal
+information between parties to the treaty, both as between Asia-Pacific
+countries and as between those countries
+and European countries. Such invitation
+and accession to both would be likely to carry with it the benefits of a finding
+of ‘adequacy’
+under the EU Directive, or make one irrelevant.
+Furthermore, the Directive allows a country’s international obligations to
+be considered in determining the ‘adequacy’ of its laws.
+Given that the APEC Privacy Framework has not attempted to provide such a
+general mechanism for free flow of personal information
+within the Asia-Pacific,
+perhaps globalizing this European instrument is now the realistic way to do so.
+It would also be a much
+quicker solution than waiting for some new global
+enforceable treaty to emerge from the UN or elsewhere, or waiting for the
+slow process of adequacy assessment to grind onward. Even though we
+may be unsure of its benefits, the globalisation of Convention
+108 is likely to
+play a role in shaping the future of data protection in the Asia Pacific.
+9. Conclusion: A multi-tiered privacy system for the Asia-Pacific?
+The result of some Asia-Pacific countries acceding to Convention 108 and the
+Optional Protocol would be a multi-tiered system of international
+protection in the Asia-Pacific. For the first tier countries, membership of the
+Council of Europe Convention and Additional
+Protocol would guarantee free flow
+of personal information both between their Asia-Pacific peers who are also
+members, and with European
+countries. On the second tier, other regional
+countries with existing privacy laws would be likely to have those laws regarded
+‘adequate’ by other countries in the region for data export
+purposes. For the remaining countries (‘economies’),
+which economies with little or no existing
+protection could adopt by whatever
+means they chose, and a CBPR procedure which might give them some assistance in
+relation to data
+exports with similar economies or (with more difficulty), the
+countries that are also in the second or first tier. It would be an
+which would allow all Asia-Pacific countries to move forward.
+Professor Graham Greenleaf
+(g.greenleaf@unsw.edu.au) CLSR Editorial
+Board, University of New South Wales
+Earlier versions of parts of this paper have been published before, as the
+APEC Privacy Framework has developed since 2003 (see Greenleaf
+2003a-2008 in
+references). This paper reconsiders and updates those arguments over five years.
+An earlier version of this paper was
+presented at the Asian Law Schools (ASLI)
+Conference in Singapore, May 2008. Valuable comments were received from three
+referees. Thanks also to Nigel Waters for earlier valuable
+A29 Committee website at
+http://europe.eu.int/comm/justice_home/fsj/privacy/workinggroup/index_en.htm
+ALRC (2008) – Australian Law Reform Commission
+Information
+Report 108, ALRC, 2008
+APEC (2008a) – APEC Privacy
+Sub-group Chair (C Minihan)
+APEC Data Privacy Sub-Group and related Meetings
+- Summary of Outcomes 15 August 2008 Lima, Peru
+(email to Australian APEC
+APEC (2007) – APEC Privacy Subgroup (submitted by Australia)
+Pathfinder Project Outlines: Possible Pathfinder Projects
+implementing
+Cairns, June
+http://aimp.apec.org/Documents/2007/ECSG/SEM2/07_ecsg_sem2_003.doc
+APEC (2005) – Asia-Pacific Economic Cooperation (APEC) Privacy
+Framework -[2005] PrivLRes 4
+http://www.worldlii.org/int/other/PrivLRes/2005/4.html
+APEC (2004)
+APEC Privacy Framework
+, November 2004 -Available from
+http://www.apec.org/content/apec/apec_groups/som_special_task_groups/electronic_commerce.html
+(PDF) (follow link); or in HTML from APEC drafts (2003-04) below
+APEC drafts
+(2003-04) -for both the final Framework and some of the previous drafts see
+http://www.bakercyberlawcentre.org/appcc/
+APEC Framework Part B -
+APEC Privacy Framework International Implementation (“Part B”)
+Final – Version VII ECSG Plenary Meeting Gyeongju, Korea, 8-9
+September 2005
+APPCC (2004) -Asia-Pacific Privacy Charter Council
+Submission to the APEC Electronic Commerce Steering Group Privacy Sub-Group
+31 May 2004 at
+http://www.bakercyberlawcentre.org/appcc/APEC_APPCCsub.htm
+and Ford (2005) – Malcolm Crompton and Peter Ford
+Consultant’s
+Issues Paper
+, APEC Privacy Sub-Group, July 2005 (circulated to attendees at
+the first APEC Implementation Seminar; copy on file with author)
+Europe (1981) -Council of Europe
+Convention for the Protection of Individuals
+with Regard to the Automatic Processing of Personal Data
+(Convention No 108)
+1981 (Convention No 108)
+Council of Europe (2001) -
+Additional Protocol to
+the Convention for the Protection of Individuals with regard to Automatic
+Processing of Personal Data regarding
+supervisory authorities and transborder
+, Strasbourg,8.XI.2001, available at
+http://conventions.coe.int/Treaty/en/Treaties/Html/181.htm
+(2008) – Connolly, C ‘Trustmark schemes struggle to protect
+http://www.galexia.com/public/research/assets/trustmarks_struggle_20080926/trustmarks_struggle_public.html
+(2008a) – Connolly, C ‘Asia-Pacific region at the privacy crossroads
+(2008)’ available at
+http://www.galexia.com/public/research/assets/asia_at_privacy_crossroads_20080825/
+(2008b) – Connolly, C ‘A new approach to privacy in the Asia-Pacific
+(2008) Issue 95, 13-15
+Ford (2008) – Ford, P ‘Asia-Pacific
+, (2008) Issue 95, 11-13
+Ford (2003) - Ford, P 'Implementing
+the Data Protection Directive - An Outside Perspective' [2003] 9 PLPR141
+Gellman (2000) – Gellman R ‘TRUSTe fails to justify its
+role as privacy arbiter’,
+No. 6, December 2000 at
+http://www.austlii.edu.au/au/journals/PLPR/2000/53.html
+(2008) – Greenleaf, G ‘APEC’s privacy Pathfinders – a
+dead end for consumers?’
+, Issue 91, February 2008
+Greenleaf (2008a) – Greenleaf,
+G ‘China’s proposed Personal Information Protection Act (Part I):
+The principles’
+, Issue 91, February 2008
+Greenleaf (2008b) – Greenleaf,
+G ‘Enforcement aspects of China’s proposed Personal Information
+Protection Act’
+, Issue 92, April 2008
+Greenleaf (2008c)
+– Greenleaf, G ‘Non-European states may join European privacy
+Convention’
+(2008) Issue 94, 13-14
+Greenleaf (2007) – Greenleaf, G
+‘Asia-Pacific developments in information privacy law and its
+interpretation’
+[2007] UNSWLRS 5
+(bepress); presented at
+, Wellington NZ, 30 March 2006
+Greenleaf (2005e) – Greenleaf,
+G ‘APEC Privacy Framework completed: No threat to privacy
+standards’,
+Issue 79, Sept/Oct 2005
+Greenleaf (2005d) – Greenleaf, G
+‘Implementation of APEC’s Privacy Framework’ in Datuk Haji
+Abdul Raman Saad
+Personal (Ed)
+Data Protection in the New Millennium
+LexisNexis, Malaysia, 2005
+Greenleaf (2005c) – Greenleaf, G
+‘APEC’s Privacy Framework sets a new low standard for the
+Asia-Pacific’ in
+M Richardson and A Kenyon (Eds)
+New Dimensions in
+University Press
+Greenleaf (2005) -Greenleaf, G ‘APEC’s Privacy
+Framework: A new low standard’ (2005)
+Vol 11 Issue 5
+Greenleaf (2004) - Greenleaf, G f
+‘APEC’s privacy standard regaining strength’
+(2004) 10(8) PLPR
+Greenleaf (2003a) – Greenleaf G ‘Australia's APEC privacy
+initiative: The pros and cons of “OECD Lite” ’
+(2003) 10 (1)
+Greenleaf (2003c) -Greenleaf, G 'APEC privacy principles: More Lite
+with every version’
+(2003) 10(6)
+HK Seminar (2005)
+-Website for at the first
+APEC Electronic Commerce Steering Group (ECSG)
+Technical Assistance Seminar: Domestic Implementation of the APEC Privacy
+Hong Kong, June 2005, located at
+http://www.pco.org.hk/english/infocentre/apec_ecsg1_2.html
+(2002) – Howes E. ‘No Guarantee of Privacy’, 2002, at
+http://www.spywarewarrior.com/uiuc/priv-pol.htm#no-guarantee
+(1999) -Justice Michael Kirby ‘Privacy protection, a new beginning: OECD
+principles 20 years on’
+(1999) 6 PLPR 25
+Lawson (2007) – Lawson,
+P ‘APEC provides second class privacy protection’,
+&Business International Newsletter
+, Issue 89, October 2007, pgs 13-14
+Montreux Declaration (2005) -‘The protection of personal data and
+diversities’,
+Declaration of the 27
+International Conference of
+Palazzi (2008) – Palazzi, P ‘New Argentine regulations, new
+Uruguay law’ law’
+, Issue 95, October 2008, 9-10
+Parlade (2008)
+– Parlade C ‘Philippines likely to adopt EU-style privacy and
+95, October 2008, 16-18
+Stewart (2003) – Stewart, B 'A suggested
+scheme to certify substantial observance of APEC Guidelines on Data Privacy',
+E-commerce Steering Group meeting, 2003
+Raksirivorakul (2008)
+– Raksirivorakul, W ‘Introducing Thailand's Data Protection
+Law’, available at
+http://www.mayerbrown.com/publications/article.asp?id=5053 & nid=6
+(2005) -Stewart, B ‘Mechanisms for reporting on domestic
+implementation’, paper at HK APEC Implementation
+Seminar (2005)
+(2008) – Tan, J ‘A comparative study of the APEC privacy
+Framework: A new voice in the data protection dialogue’
+Asian Journal
+of Comparative Law
+(2008) Vol 3, Issue 1, Article 7
+Waters (2007) –
+Waters, N ‘NGO view of DP Commissioners’ Conference, Montreal’
+, Issue 90, December
+2007, pgs 12-13
+Waters (2008) – Waters, N ‘NGOs ‘cautious
+optimism’ on APEC privacy initiative’
+International Newsletter
+, Issue 92, April 2008 (in publication)
+(2008a) – Waters, N ‘The APEC Asia-Pacific Privacy Initiative
+– a new route to effective data protection
+or a trojan horse for
+self-regulation?’ available in
+University of New South Wales Faculty of
+Law Research Series 2008
+Working Paper 59.
+[2008] UNSWLRS 59
+http://law.bepress.com/unswwps/flrps08/art59/
+to be published in
+Australia, Brunei
+Darussalam, Canada, Chile, People's Republic of China, Hong Kong, China,
+Indonesia, Japan, Republic of Korea, Malaysia,
+Mexico, New Zealand, Papua New
+Guinea, Peru, Philippines, Russia, Singapore, Chinese Taipei, Thailand, United
+States, Viet Nam –
+http://www.apec.org/apec/member_economies.html
+“APEC is the only inter governmental grouping in the world operating on
+the basis of non-binding commitments, open dialogue
+and equal respect for the
+views of all participants. Unlike the WTO or other multilateral trade bodies,
+APEC has no treaty obligations
+required of its participants. Decisions made
+within APEC are reached by consensus and commitments are undertaken on a
+voluntary basis.”
+– ‘About APEC’ from APEC secretariat
+http://www.apecsec.org.sg/apec/about_apec.html
+basis, APEC
+‘agreements’ such the Framework do not have any legal status, and
+are best seen as agreed aspirations.
+Nevertheless, their practical effect is
+often very significant.
+Sub-group Chair claims 16 (APEC, 2008a) claims 16, but this seems wrong unless
+you count Singapore and the ICCC.
+Nigel Waters
+(Australian Privacy Foundation, representing Privacy International), Katitza
+Rodriguez (Electronic Privacy Information
+Centre (EPIC), USA) and Philippa
+Lawson (Canadian Internet Policy and Public Interest Clinic (CIPPIC))
+Letter by N
+Waters to Privacy Sub-group, 30 October
+Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand
+and Vietnam
+Print (pretty)
+Print (eco-friendly)
+RTF format (54.7 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

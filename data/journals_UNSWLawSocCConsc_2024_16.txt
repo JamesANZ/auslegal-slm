@@ -1,0 +1,731 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/UNSWLawSocCConsc/2024/16.html
+Scraped: 2025-11-17 15:47:18
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Paterson, Jeannie --- "Misleading or Deceptive AI: Why Transparency Provides the Baseline for Responsible AI in Consumer Transactions" [2024] UNSWLawSocCConsc 16; (2024) 18 UNSW Law Society Court of Conscience 113
+MISLEADING OR DECEPTIVE AI:
+WHY TRANSPARENCY PROVIDES THE BASELINE FOR RESPONSIBLE AI IN CONSUMER
+TRANSACTIONS
+Jeannie Paterson
+I Introduction
+Artificial intelligence (‘AI’) has been growing in prominence in
+modern society, especially with the emergence of generative
+AI, such as in
+ChatGPT. While AI offers many benefits, it also carries significant risks of
+harm. These risks can be classified in
+several ways but include potential harms
+relating to discrimination, privacy, misinformation, safety, human-computer
+interactions
+and social/environmental
+In response to concerns
+aimed at ensuring robust and
+accountable human governance of AI. These
+initiatives cover ethical
+principles,
+and new laws directed
+specifically at AI,
+prominent example being the European Union’s (‘EU’)
+In Australia, the
+Commonwealth Government has put forward a number of initiatives to support
+responsible AI, most recently, a ‘Voluntary
+and a law reform
+proposal for ‘Mandatory Guardrails for Responsible
+There is insufficient space in this short article to discuss all of these
+issues or initiatives. Instead, this article focuses on
+one common element of
+most frameworks for responsible AI, transparency. It focuses on the role of
+transparency in business-to-consumer
+transactions as a specific high-impact site
+of operation of AI, noting these insights may prove relevant to other contexts
+AI is deployed. The article seeks to explain why transparency is a
+necessary requirement for AI accountability, albeit not sufficient,
+transactions involving consumers, and the way in which transparency requirements
+complement existing laws for consumer protection.
+It illustrates these arguments
+by considering three ways in which AI may interact with consumers, namely AI
+consumers to inform their decisions; AI used to make decisions
+consumers’ access to goods and services; and AI used
+consumers to manipulate or trick them. The article begins by
+outlining initiatives for transparency in AI models and systems, before
+to these specific scenarios.
+II Understanding Transparency As A Prerequisite To
+Responsible Ai
+Principles, standards and laws for responsible AI commonly require
+transparency across the lifecycle of that technology. Transparency
+many of the reporting and documentation requirements in the EU
+Thus, Australia’s AI
+Ethics Principles state that there ‘should be transparency and responsible
+disclosure so people
+can understand when they are being significantly impacted
+by AI, and can find out when an AI system is engaging with
+The Australian
+Voluntary AI Safety Standards includes both informing ‘end-users regarding
+AI-enabled decisions, interactions
+with AI and AI-generated content’ and
+being ‘transparent with other organisations across the AI supply chain
+models and systems to help them effectively address
+Australia’s
+Proposed Mandatory Guardrails for Responsible AI include measures for
+‘transparency regarding product development
+and use with end-users, other
+actors in the AI supply chain and relevant
+authorities’.
+As these principles demonstrate, transparency in the context of responsible
+AI may operate at a number of levels of
+generality.
+Recital 27 of the EU
+transparency means that AI systems are developed and used in a way that
+allows appropriate traceability and explainability, while
+making humans aware
+that they communicate or interact with an AI system, as well as duly informing
+deployers of the capabilities
+and limitations of that AI system and affected
+persons about their rights.
+Thus, ‘transparency’ as an AI governance principle can refer to
+clarity about the data and algorithms used in AI systems.
+This kind of
+transparency is a necessary precondition to identifying problems of bias or
+error in AI outputs. This is because these
+failings in an AI system will often
+only be able to be identified by insight into the way in which AI was developed
+and trained,
+the data used in training and the outputs it produces. It is these
+insights that allow the testing, monitoring or auditing needed
+to identify
+patterns of discrimination or
+For the same reasons,
+transparency at this level is an essential part of holding accountable those who
+provide or deploy AI for safe,
+secure and effective systems.
+Recital recognises, transparency also operates at a
+more general level to encompass informing humans when they are interacting with
+AI and the basis for decisions made about them by, or informed by,
+In the context of business
+to consumer transactions, AI transparency means consumers should know when they
+are dealing with, subject
+to or interacting with content generated by AI.
+Informing humans about the way AI is being used in interactions with them
+human dignity and autonomy, in this instance manifested as a right for
+consumers not to be misled about who or what they are interacting
+with, as well
+as to exercise choice about the kinds of interactions they prefer to engage in.
+Additionally, transparency about the
+interactions between consumers and AI is
+essential for regulators and consumer advocates to oversee the operation of AI
+systems and
+their impact on consumers’ rights and
+New initiatives for transparency in AI overlap with existing requirements in
+Australian law. In particular, the
+Competition and Consumer Act 2010
+(Cth) sch 2 (‘
+Australian Consumer Law
+’) contains broad
+prohibitions on misleading conduct in trade or
+Misleading conduct
+contrary to this statutory prohibition can be found in failing to reveal
+information that consumers would reasonably
+expect to be
+This aspect of the
+statutory prohibition may overlap with transparency requirements. In particular,
+firms that fail to disclose the
+use of AI in circumstances where consumers might
+reasonably think they are dealing with a human may be engaged in misleading
+contrary to the statutory regime.
+There is nonetheless a limitation on using prohibitions on misleading conduct
+to prompt transparency in AI used in business-to-consumer
+transactions. This
+limitation arises because the prohibition is a response to harmful conduct
+rather than a mechanism for AI accountability,
+which aims to prevent harm from
+arising in the first place. A liability regime may provide incentives to firms
+to take more care
+in their operations, including in their use of AI, from the
+outset. Indeed deterrence (against contravening conduct) is one of the
+purposes of the courts’ powers to impose civil pecuniary penalties for
+some contraventions of the
+Australian Consumer
+However, given the
+complexity of AI, and the speed with which it is developing, we may not want to
+wait until harm occurs to see
+if the case law encourages firms to be more
+transparent in their use of AI. This need for transparency and other
+protections, applying
+as a condition of use and before harm
+occurs, is one of the reasons for considering mandatory rules applying to AI in
+III Transparency In Consumer Ai Transactions
+To understand the case for requiring transparency,
+business-to-consumer transactions, it is useful to consider three key categories
+of AI use which may impact on consumer interests
+and the role of transparency
+responding to the risks of harm arising from those uses.
+AI Used by Consumers
+The first relevant category of use involves AI used by consumers to provide
+advice and assistance, such as through apps or smart speakers.
+The AI in this
+scenario may be embedded in an object (a speaker, phone or household item) but
+is typically provided as a
+Consumer Law
+provides a regime of consumer guarantees which are mandatory
+standards of quality that apply to the supply of goods or services to
+regime, a provider of services (in this case the firm deploying the AI to
+provide the service to consumers) is required to
+use ‘due care and
+skill’ in providing that service. What amounts to ‘due care’
+for these purposes is likely
+to be guided by the governance and accountability
+strategies set out in guidance such as the Australian Voluntary AI Safety
+This means firms
+providing AI services to consumers should have systems and processes for
+reducing the possible risk of harm to consumers
+that may arise specifically from
+the use of AI, including by enhancing privacy and security, and responding to
+possible biased or
+self-serving recommendations along with systemic
+Transparency lies in
+documenting what has been done to satisfy these requirements. A commitment to
+transparency may sometimes also
+go further to require salient, clear and
+accessible advice to consumers about the limitations of the technology, such as,
+in services
+based on generative AI, the tendency to hallucinate.
+Another aspect of the concern with AI used by consumers arises in respect to
+AI bots and interfaces designed to resemble humans, a
+scenario described by
+Frank Pasquale as counterfeiting
+Here, the risk is that
+consumers may be mistaken about the status of a humanistic interface, thinking
+they are interacting with another
+It will usually be wrong,
+in law and normatively, to mislead humans about the sentience of the entity they
+are dealing with.
+possible to envisage a human being manipulated as a result of this counterfeited
+relationship.
+The human may put
+misplaced trust in the AI to act in their best interests, when the AI has no
+capacity to care or even do what is
+best for the human simply because it is a
+mere machine.
+This concern for transparency in AI that might otherwise be mistaken for a
+human is recognised in some legislation. The California
+Bolstering Online
+Transparency Act
+requires that bots used to influence a vote or incentivise
+a transaction be expressly identified as mere
+imposes transparency obligations on providers of AI systems to ensure humans
+‘are informed that they are interacting with an
+AI system, unless this is
+The voluntary
+Australian AI Safety Standard recommends deployers of AI systems consider
+transparency to mitigate risks associated
+with AI systems ‘presenting as a
+At the time of
+writing, the question in Australian law reform is whether these requirements are
+sufficiently important to be embodied
+in law (i.e. made mandatory).
+AI Used to Make
+Decisions about Consumers
+The second category of AI use requiring transparency in business-to-consumer
+transactions arises when AI is used to make or inform
+decisions about consumers,
+commonly referred to as ‘automated’ or ‘algorithmic’
+decision-making. This use
+of AI involves using the predictive insights of
+machine learning algorithms drawn from data sets to personalise aspects of the
+or supply of goods and services to consumers. For example, AI might be
+used to set the interest rate for a loan, the cost of insurance
+or access to
+education or healthcare programs. These predications might benefit consumers by
+ensuring lower prices or more suitable
+services. However, there are also
+concerns that relying on algorithms to inform such matters may be used in a
+predatory manner against
+inexperienced or vulnerable consumers to make them pay
+more or exclude them from the market altogether. Additionally, these outcomes
+may be based on factors that might be considered irrelevant or at least not
+compelling in the context, such as social media ‘likes’
+items in a shopping basket.
+The risks of harm inherent in automated decision-making, and the need for
+governance measures to reduce the risk of those harms, were
+starkly revealed in
+Australia by the robo-debt
+Decisions informed by
+AI might be more precise and accurate than if made by humans, but they may also
+lack the safeguard that is
+provided by human insight and oversight. Where
+training data gives rise to errors or discriminatory biases, the harmful effects
+these influences can be magnified by automation and difficult to identify
+because they are embedded in an opaque
+In most cases firms are not required to provide goods or services to
+consumers, and the prices at which those products should be supplied
+fixed by law. This means that there are very few methods in consumer protection
+law for scrutinising the decision not to
+supply a product to consumers, or the
+price of a product that is supplied. Of course, if a particular representation
+has been made
+held to it.
+Generally, however,
+matters of pricing or supply are typically ‘back of house’ decisions
+to which the protections in
+Australian Consumer Law
+are unlikely to
+apply because they do not involve ‘supply’ in ‘trade or
+Yet we as a
+society might think that firms using AI for these kinds of decisions about
+consumers should be accountable for those
+decisions, at least insofar as
+ensuring they are not perpetuating unacceptable biases or being influenced by
+irrelevant or unacceptable
+A first step towards this accountability might lie in requiring firms to be
+transparent about their use of automated decision making,
+and the factors
+relevant to the automated decision. Reforms to the
+announced in September 2024, go in this direction. The
+Legislation Amendment Bill 2024
+(Cth), being considered by parliament at the
+time of writing, proposes amendments to the requirement to provide notice under
+entity subject to the Act uses a ‘computer program’
+or do a thing that is substantially and directly related to making, a
+decision’ that could 'reasonably be expected
+to significantly affect the
+rights or interests’ of an individual, they must include in the privacy
+notice details about the
+automated process and the personal information that is
+‘directly or substantially’ related to the
+These proposed
+transparency requirements do not include a right to not to be subject to
+automated decision-making.
+However, they may provide the foundation for other kinds of challenge to unfair
+decisions, and, ideally, would complement other reforms,
+such as requirements
+for accountability and fairness in the voluntary/mandatory guardrails for
+responsible AI in Australia.
+AI Used Against Consumers
+Deepfakes are images, videos or audio that falsely present real people saying
+or doing things they did not do.
+They may do this by manipulating aspects of the image or voice of the person,
+or, more recently, by generating an entirely synthetic
+image, video or
+Most concern has been
+raised about deepfake images, which are only magnified by the addition of
+seemingly realistic voice
+Deepfakes can be
+entirely legitimate, such as in film and television. Yet deepfakes also have the
+potential to cause considerable
+individual, economic and democratic
+Deepfakes have been
+implicated in intimate image
+and political
+misinformation.
+They risk an
+erosion of trust in public institutions. Chesney and Citron also point to the
+‘liars’ dividend’, whereby
+greater concern about deepfakes
+creates distrust in all images and leads to a scepticism about genuine
+The malicious use of deep fake content may contravene existing laws, such as,
+potentially, defamation, deceit and misrepresentation.
+The nonconsensual
+creation and sharing of intimate images, including deep fake or synthetic
+images, is a criminal offence in most
+Australian jurisdictions, with new federal
+offences recently introduced.
+Victims of offensive deepfake images can request that platforms and websites
+remove the images. In Australia, the
+Online Safety Act 2021
+provides the eSafety Commissioner with a power to require that offending images
+within the scope of that act (primarily child
+abuse material, non-consensual
+intimate images, abhorrent violence and terrorist material) be removed from
+websites and platforms,
+accompanied by fines for those who do not
+Unfortunately, the wrongdoer in cases of deepfake fraud or scams will usually
+have disappeared. This reality means that a regulatory
+response to the harms of
+deep fakes is likely to need to focus on the firms involved in the creation and
+transmission of deepfakes,
+such as developers of the tools that create deep
+fakes, app stores that distribute the tools and platforms that display the
+The regulatory challenge is to provide realistic incentives to these
+firms to proactively respond to the risks arising from deepfake
+creation and
+The Australian
+Government has recently announced a suite of reforms aimed at scams (including
+through deepfakes)
+misinformation.
+In relation to
+the consumer protection issue of scams, the proposed reforms include placing
+greater obligations on intermediaries
+such as digital platforms, banks and
+telecommunications companies for preventing, detecting and disrupting scams,
+with significant
+civil penalties for failing to comply with these obligations,
+as well as, in the case of digital platforms, wider takedown
+obligations.
+Importantly, these responses require mechanisms for identifying fake content.
+Some regulatory regimes are imposing obligations for
+greater transparency in the
+provenance of online content. Thus, under the EU
+, Article 50
+states that:
+2. Providers of AI systems, including general-purpose AI systems, generating
+synthetic audio, image, video or text content, shall
+ensure that the outputs of
+the AI system are marked in a machine-readable format and detectable as
+artificially generated or manipulated
+4. Deployers of an AI system that generates or manipulates image, audio or
+video content constituting a deep fake, shall disclose
+that the content has been
+artificially generated or manipulated.
+In the US, the White House has obtained a voluntary commitment from tech
+companies to develop ‘robust technical mechanisms to
+ensure users know
+when content is AI-generated, such as a watermarking
+These developments are important in requiring providers of AI systems to use
+technological methods to allow deepfakes to be identified.
+These mechanisms
+include ‘trust marks’ and ‘watermarks’. In particular,
+the Coalition for Content Providence
+and Authenticity (‘CCPA’) has
+developed a technical standard for ‘content provenance and
+authenticity’.
+technical standard includes a ‘manifest’ that identifies the source
+of digital images using cryptographically signed
+metadata and that can be used
+to verify the provenance of images and subsequent changes to
+The CCPA has also
+developed standards for
+watermarking.
+Watermarks create
+a more ‘sticky’ link between the digital content and its origins by
+being embedded in the synthetic
+image, video or audio track which is then
+detectable by software.
+case of the CCPA watermark, this links back to the providence metadata
+credentials included in the trust mark or manifest,
+even if this information has
+been subsequently removed from the image. Additionally, there are some
+initiatives to preserve the providence
+of authentic images, even storing the
+provenance data on a blockchain.
+These strategies are nascent, and there is considerable debate in the tech
+community about their efficacy.
+Trust and water marks can be manipulated by bad actors. They require
+considerable coordination across the digital ecosystem to be
+recognised and
+used. The overall strategy for monitoring the provenance of images need to be
+carefully designed and monitored so
+as not to censor unpopular opinions or the
+views of marginalised groups, or stifle the use of satire and humour in public
+Nonetheless, they
+represent one part of a suite of possible responses to the harms of AI deep
+They also provide a
+strategy that potentially can inform and empower consumers rather than leaving
+them at the mercy of fake images.
+The reality is that these issues of AI used
+against consumers can only begin to be addressed by an ongoing coordinated
+effort between
+regulators, firms, government and consumers. The technology, and
+its possible misuses, develop more quickly than rule-based law reform
+accommodate.
+IV Conclusion
+Greater transparency is not a fail-safe response to the problems of
+misleading or deceptive AI in consumer transactions. It will not
+consumers from being misled about the nature of the entity they deal with
+online. Not will it preclude firms or agencies
+using AI to inform decisions
+based on factors that may be considered irrelevant or leading to biased
+outcomes. Transparency will
+not prevent deepfakes from being used for scams,
+fraud and abuse. However, transparency in these domains is the prerequisite for
+making effective more sweeping obligations on those who develop, provide or
+deploy AI, including through testing, training and oversight.
+Law reform to
+introduce proactive and
+transparency requirements for AI used by,
+buttressed by other
+reforms and initiatives.
+Jeannie Paterson is a Professor of Law and Director of the
+Centre of AI and Digital Ethics at the University of Melbourne.
+See Peter Slattery et al,
+The AI Risk Repository: A
+Comprehensive Meta-Review, Database, and Taxonomy of Risks From Artificial
+Intelligence
+(Report, 2024). See also Digital Platforms Regulators Forum,
+‘Literature Summary: Harms and Risks of Algorithms’
+Paper No 1, Digital Platforms Regulators Forum, July 2023).
+‘Australia’s AI
+Ethics Principles’,
+Department of Industry, Science and Resources
+(Web Page, 2019)
+<https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles>
+(‘Australia’s AI Ethics Principles’).
+See Standards Australia,
+‘Standards Australia Adopts the International Standard for AI Management
+System, AS ISO/IEC 42001:2023’
+(Media Release, 16 February 2024)
+<www.standards.org.au/news/standards-australia-adopts-the-international-standard-for-ai-management-system-as-iso-iec-42001-2023>.
+See the summary of legal
+initiatives in Department of Industry, Science and Resources (Cth),
+Responsible AI in Australia: Proposals Paper for Introducing Mandatory
+Guardrails for AI in High-Risk Settings
+(Proposals Paper, September 2024) 3
+Proposed Mandatory Guardrails
+Regulation (EU) 2024/1689 of
+the European Parliament and of the Council of 13 June 2024 Laying Down the
+Harmonised Rules of Artificial
+Intelligence and Amending Regulation
+OJ L 2024/1689 (‘EU
+Department of Industry, Science
+and Resources (Cth),
+Voluntary AI Safety Standard
+(Report, August 2024)
+Voluntary AI Safety Standard
+Proposed Mandatory
+(n 5): see in
+particular arts 13, 18 and 50.
+Australia’s AI Ethics
+Principles (n 2).
+Voluntary AI Safety
+(n 6) 32. See also iv, vi.
+Proposed Mandatory
+Voluntary AI Safety
+Transparency
+Requirements on Content Moderation Applying to Digital Platforms in Regulation
+(EU) 2022/2065 of the European Parliament
+and of the Council of 19 October 2022
+on a Single Market for Digital Services and amending Directive 2000/31/EC
+(Digital Services
+[2022] OJ L 277/1 (‘
+Transparency
+Requirements on Content Moderation Applying to Digital Platforms in
+See Cathy O'Neil, Holli
+Sargeant and Jacob Appel, ‘Explainable Fairness in Regulatory Algorithmic
+Auditing’ (2024) 127
+West Virginia Law Review
+(forthcoming).
+in particular recitals 20 and 27.
+Jeannie Paterson,
+‘Misleading AI: Regulatory Strategies for Algorithmic Transparency in
+Technologies Augmenting Consumer Decision-Making’
+(2023) 34(3)
+Consumer Law Review
+Competition and Consumer
+(Cth) sch 2,
+Australian Consumer
+See especially
+& Associates Insurance Broking Pty Ltd v BMW Australia Finance Ltd
+(2010) 241 CLR 357
+, 368–9 [16]–[21] (French CJ and Kiefel
+Jeannie Marie Paterson and
+Elise Bant, ‘Intuitive Synthesis and Fidelity to Purpose? Judicial
+Interpretation of the Discretionary
+Power to Award Civil Penalties under the
+Australian Consumer Law’ in Prue Vines and Donald M Scott (eds),
+Statutory Interpretation in Private Law
+(Federation Press, 2019)
+Proposed Mandatory
+See also Jeannie Paterson
+and Yvette Maker ‘Consumer Protection Law and AI’, in Ernest Lim and
+Phillip Morgan (eds),
+The Cambridge Handbook of Private Law and Artificial
+Intelligence
+(Cambridge University Press, 2024).
+Australian Consumer
+Voluntary AI Safety
+See, eg, Jeannie Marie
+Paterson, ‘Making Robo-advisers Careful? Duties of Care in Providing
+Automated Financial Advice to Consumers’
+(2021) 15(3–4)
+Financial Markets Review
+Frank Pasquale,
+Laws of Robotics
+(Belknap Press, 2020) 7.
+Judith Shulevitz,
+‘Alexa, How Will You Change Us?’,
+The Atlantic Magazine
+(online, 15 November 2018)
+<www.theatlantic.com/magazine/archive/2018/11/alexa-how-will-you-change-us/570844/>.
+Cf. ‘Principles of
+Engineering and Physical Sciences Research Council
+<https://webarchive.nationalarchives.gov.uk/ukgwa/20210701125353/https://epsrc.ukri.org/research/ourportfolio/themes/engineering/activities/principlesofrobotics/>
+(identifying in modern laws of robotics that the robot will not deceive humans
+as to its identity).
+See Jeannie Marie Paterson,
+‘AI Mimicking Humans’ (2024)
+Journal of Bioethical Inquiry
+(forthcoming).
+Joanna J Bryson,
+‘Robots Should Be Slaves’ in Yorick Wilks (ed)
+Close Engagements
+with Artificial Companions: Key Social, Psychological, Ethical and Design
+(John Benjamins Publishing, 2010) 63, 70–2; Simon Chesterman,
+We the Robots?
+(Cambridge University Press, 2021) 114. Cf. John Danaher,
+‘The Philosophical Case for Robot Friendship’ (2019) 3(1)
+of Posthuman Studies
+Cal Bus & Prof
+§ 17941 (2023).
+Voluntary AI Safety
+(n 6) 32. See also iv and vi.
+Royal Commission into the
+Robodebt Scheme
+(Report, 7 July 2023) vol 1–3.
+See generally Janina Boughey
+and Katie Miller (eds),
+The Automated State
+(Federation Press, 2021).
+Michael Atkin,
+‘Insurance Giant IAG Facing Class Action for Allegedly Inflating Premiums
+of Loyal Customers Across Australia’,
+Australian Broadcasting
+Corporation
+(online, 29 May 2024)
+<https://www.abc.net.au/news/2024-05-29/iag-insurance-class-action-for-inflating-loyal-customers-bills/103884968>.
+On the scope of the
+Australian Consumer Law
+: see Jeannie Paterson,
+Australian Consumer Law
+(Law Book Co, 5th ed, 2023)
+[2.190]–[2.200].
+See Zofia Bednarz and Monika
+Zalnieriute (eds),
+Money, Power, and AI
+(Cambridge University Press,
+Legislation Amendment Bill 2024
+Regulation (EU) 2016/679
+of the European Parliament and of the Council of 27 April 2016 on the Protection
+of Natural Persons with
+Regard to the Processing of Personal Data and on the
+Free Movement of such Data, and Repealing Directive 95/46/EC
+[2016] OJ L
+119/1, art 22.
+Proposed Mandatory
+eSafety Commissioner,
+Deepfakes | What are Deepfakes?
+(Web Page, 18 March 2024)
+<https://www.esafety.gov.au/industry/tech-trends-and-challenges/deepfakes>.
+Hannah Smith and Katherine
+Mansted, Australian Strategic Policy Institute,
+Weaponised Deep Fakes
+(Policy Brief No 28/2020, 29 April 2020).
+Roman Kepczyk,
+‘Deepfakes Emerge as Real Cybersecurity Threat’,
+Institute of Certified Public Accountants & Chartered Institute of
+Management Accountants
+(online, 28 September 2022)
+<https://www.aicpa-cima.com/news/article/deepfakes-emerge-as-real-cybersecurity-threat>;
+Colleagues Trick HK Clerk into Paying HK $200m’,
+Television Hong Kong
+(online, 4 February 2024)
+<https://news.rthk.hk/rthk/en/component/k2/1739119-20240204.htm>.
+Danielle Citron and Robert
+Chesney, ‘Deep Fakes: A Looming Challenge for Privacy, Democracy, and
+National Security’
+(2019) 107(6)
+California Law Review
+Emine Saner, ‘Inside
+the Taylor Swift Deepfake Scandal: “It’s Men Telling a Powerful
+Woman to Get Back in Her Box”’,
+The Guardian
+(online, 31
+January 2024)
+<https://www.theguardian.com/technology/2024/jan/31/inside-the-taylor-swift-deepfake-scandal-its-men-telling-a-powerful-woman-to-get-back-in-her-box>.
+Australian Associated Press,
+‘Australian Mining Magnate Andrew Forrest Can Sue Meta Over Facebook Scam
+Ads, US Court Rules’,
+The Guardian
+(online, 19 June 2024)
+<https://www.theguardian.com/technology/article/2024/jun/19/metas-bid-to-dismiss-case-brought-by-andrew-forrest-over-facebook-scam-ads-dismissed-by-us-court>.
+Editorial, ‘The
+Guardian View on Political Deepfakes: Voters Can’t Believe Their Own
+The Guardian
+(online, 20 February 2024)
+<https://www.theguardian.com/commentisfree/2024/feb/19/the-guardian-view-on-political-deepfakes-voters-cant-believe-their-lying-eyes>.
+Citron and Chesney (n 44)
+Criminal Code Amendment
+(Deepfake Sexual Material) Bill 2024 (Cth). Also See generally Asher Flynn,
+Jonathan Clough and Talani Cooke,
+‘Disrupting and Preventing Deepfake
+Abuse: Exploring Criminal Law Responses to AI-Facilitated Abuse’ in
+Anastasia Powell,
+Asher Flynn and Lisa Sugiura (eds),
+The Palgrave Handbook
+of Gendered Violence and Technology
+(Palgrave Macmillan, 2021).
+eSafety Commissioner,
+Regulatory Schemes
+(Web Page, 11 March 2024)
+<www.esafety.gov.au/about-us/who-we-are/regulatory-schemes>.
+Transparency
+Requirements on Content Moderation Applying to Digital Platforms in
+Communications Legislation
+Amendment (Combating Misinformation and Disinformation) Bill 2024 (Cth).
+Australian Government
+Scams Prevention Framework: Summary of Reforms
+(Summary Report,
+September 2024).
+See generally Explanatory
+Materials, Treasury Laws Amendment Bill 2024: Scams Prevention Framework.
+The White House, ‘Fact
+Sheet: Biden-⁠Harris Administration Secures Voluntary Commitments from
+Eight Additional Artificial
+Intelligence Companies to Manage the Risks Posed by
+AI’ (Media Release, 12 September 2023)
+<https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/12/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-eight-additional-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/>.
+‘C2PA Technical
+Specification 1.3’,
+Coalition for Content Provenance and
+Authenticity
+(Technical Standards Framework, 29 March 2023)
+<https://c2pa.org/specifications/specifications/1.3/specs/_attachments/C2PA_Specification.pdf>.
+See Siddarth Srinivasan,
+‘Detecting AI Fingerprints: A Guide to Watermarking and Beyond’
+(Research Paper, The Brookings
+Institution, 4 January 2024)
+<https://www.brookings.edu/articles/detecting-ai-fingerprints-a-guide-to-watermarking-and-beyond/>.
+See also Melissa Heikkilä, ‘Three Ways We Can Fight Deepfake
+Porn’ (29 January 2024) MIT Technology Review.
+‘C2PA Technical
+Specification’,
+Coalition for Content Provenance and Authenticity
+(Technical Standards Framework, 26 January 2022)
+<https://c2pa.org/specifications/specifications/2.1/specs/C2PA_Specification.html>.
+Emilia David,
+‘Watermarking the Future’,
+(online, 14 February
+<https://www.theverge.com/2024/2/13/24067991/watermark-generative-ai-deepfake-copyright>.
+Kathryn Harrison and Amelia
+Leopold, ‘How Blockchain Can Help Combat Disinformation’,
+Business Review
+(online, 19 July 2021)
+<https://hbr.org/2021/07/how-blockchain-can-help-combat-disinformation
+Vittoria Elliot, ‘Big
+AI Won’t Stop Election Deepfakes with Watermarks’,
+(online, 27 July 2023).
+On the free speech concerns:
+see Lorraine Finlay, ‘Why Misinformation Bill Risks Freedoms it Aims to
+Australian Human Rights Commission
+(online, 24 August
+<https://humanrights.gov.au/about/news/opinions/why-misinformation-bill-risks-freedoms-it-aims-protect>.
+John Storey, Institute of Public Affairs, ‘Revised Misinformation Laws Amp
+Up Assault on Free Speech’
+(Media Release, 12 September 2024)
+<https://ipa.org.au/publications-ipa/media-releases/revised-misinformation-laws-amp-up-assault-on-free-speech>.
+See Jeannie Marie Paterson,
+‘So You Have Been Scammed by a Deepfake. What Do You Do?’,
+Conversation
+(online, 26 February 2024)
+<https://theconversation.com/so-youve-been-scammed-by-a-deepfake-what-can-you-do-223299>.
+Print (pretty)
+Print (eco-friendly)
+RTF format (118 KB)
+PDF format (358 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

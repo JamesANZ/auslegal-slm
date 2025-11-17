@@ -1,0 +1,1019 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/LawTechHum/2025/16.html
+Scraped: 2025-11-17 15:12:54
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Farmaki, Despoina --- "User-Generated Content in Gaming: Legal Challenges and Narrative Frameworks" [2025] LawTechHum 16; (2025) 7(2) Law, Technology and Humans 53
+User-Generated Content in Gaming:
+Legal Challenges and Narrative Frameworks
+Despoina Farmaki
+City St George’s, University of London, United Kingdom
+User-generated content; video games; end-user
+licence agreement; copyright; Let’s Play.
+1. Introduction
+Video games have profoundly influenced not only
+economic markets but also cultural landscapes across the
+While this article engages
+primarily with European legal frameworks – particularly EU case law
+– its analysis touches
+on broader intellectual property principles (such
+as fair dealing and fair use, and derivative works) which are also relevant in
+other jurisdictions. Increasingly recognised as significant cultural
+video games serve as both
+artistic expressions and tools for engaging with cultural heritage. They are
+frequently incorporated into
+museum exhibitions and educational programs,
+enhancing the preservation and understanding of cultural
+Additionally, the video
+game industry generates economic and social
+serving as a platform for
+creative content from other sectors and influencing film and television
+productions.
+digital age, video games represent intricate works of art operating within
+sophisticated technological
+frameworks.
+The surge in online
+gaming, fuelled by user-generated content (UGC) and live streaming, has
+propelled this industry to unprecedented
+The global audience for
+live video game streaming is projected to reach nearly 1.8 billion users by
+2029, with platforms such as
+Twitch dominating the
+Concurrently, the eSports
+market, a spectator-oriented extension of competitive gaming, was worth US$1.98
+billion in 2023 and shows
+no signs of slowing down. With a projected annual
+growth rate of 20.9 per cent, it was expected to reach US$2.89 billion by 2025,
+with revenues expected to reach US$5.7 billion by
+UGC refers to any form of content (e.g. text, images, audio, video, game
+assets) created by users rather than professionals or developers.
+participatory digital culture, empowering users to contribute, personalise and
+reshape their experiences across platforms.
+Despite the lack of a uniform
+definition, OECD characterises UGC as ‘content made publicly available
+over the Internet, which
+reflects a certain amount of creative effort, and which
+is created outside of professional routines and
+practices’.
+In the context
+of video games, UGC allows players to go beyond passive gameplay, transforming
+them into co-creators who build, modify
+or extend game content, often resulting
+in vibrant communities and longer game lifespans.
+video game’s mechanics, graphics or storylines,
+custom levels or maps (players design their own environments, as seen in
+), cosmetic assets and skins (players design their own in-game
+appearances or items) and Let’s Play (LP) videos. Coogan explains
+videos refer to videos of someone playing a video game, with audio commentary of
+the gameplay, which is edited to entertain
+More recently,
+have defined LP videos,
+pointing out that there are two characteristics, or common denominators, shared
+by all LP videos: gameplay
+footage (via a playthrough of a video
+and typically
+player’s commentary (e.g. commentary by the player on the gameplay,
+experience and mechanics). Game players can
+either record and subsequently
+upload live gameplay on internet platforms or they can livestream (live
+broadcast) their play while
+they are playing so the wider audience can enjoy
+watching them play in real time.
+UGC allows players to generate new content for a game and has been characterised
+as an ‘alternative to the classic single player-multiplayer
+dichotomy’.
+document gameplay experiences accompanied by player commentary, serving as
+entertainment for online audiences. This trend
+has given rise to a burgeoning
+industry of video game streaming, with platforms such as Twitch and YouTube at
+the forefront.
+Despite the industry’s meteoric rise, questions surrounding copyright
+infringement and enforcement loom large, as UGC is effectively
+protected works. Lee has highlighted the lack of scholarly analysis in the forms
+of UGC associated specifically with video
+with this article aiming
+to fill the gap by providing a comprehensive legal analysis of UGC in video
+games, particularly in the European
+context. UGC, together with its copyright
+implications, poses a conundrum for copyright scholars on a global
+While transformative and
+creative, such content often skirts the boundaries of copyright law. Thomas has
+characteristically highlighted
+that ‘this industry of user recreation is
+made possible, not because of enabling copyright laws, but in spite of a
+restrictive
+framework’.
+suggests that the indifference exhibited by platforms stems from the approach
+taken by game companies, which generally refrain
+from initiating complaints or
+legal actions against platforms, and suggests labelling instances of theoretical
+and technical copyright
+infringement that are tacitly accepted by the
+rights-holder as ‘tolerated
+infringement’,
+embraced in this study. Nintendo stood out as an exception to the
+‘tolerated infringement’, opting to permit
+the upload of its
+were shared among the user, Google
+and Nintendo, a practice later abandoned
+allowing gamers/users to monetise videos with gameplay footage and screenshots
+of Nintendo
+As the video game landscape evolves, navigating the intersection of UGC and
+of intellectual
+property (IP) resulting from user-generated content, players must adhere to the
+regulations/legal framework outlined
+in the end-user licence agreement (EULA),
+or similar terms provided by game
+publishers;
+this agreement
+defines the permissible scope of usage and limitations of such use, as well as
+the implications of breach of, or non-compliance
+with, the terms and conditions
+to which players are required to consent in order to play the video game. These
+terms may vary between
+different games and can often be intricate and
+challenging to understand. Clarifying the legal framework surrounding video game
+is essential to foster innovation while safeguarding intellectual
+property rights.
+In cases where creators lack explicit authorisation (typically outlined in
+EULAs), they must rely on legal limitations and exceptions
+to avoid copyright
+infringement. This approach is more viable in jurisdictions with specific
+exceptions for UGC, such as Canada,
+or flexible copyright doctrines such as fair
+use in the United States, compared with the stricter, closed-list exceptions in
+European Union and United Kingdom. However, these legal arguments remain
+largely untested in court, as disputes are often swiftly
+resolved through the
+notice-and-takedown process rather than formal litigation.
+This study seeks to explore the pressing legal questions surrounding video
+game UGC, focusing on the copyright implications and regulatory
+Specifically, it investigates the legal uncertainties faced by UGC creators and
+the broader impact of EULAs in shaping
+content usage. The research question
+guiding this study is: How does the regulatory framework governing UGC in video
+games reconcile
+intellectual property rights with evolving user practices? To
+address this, the article will examine the legal classification of
+UGC and the
+role of EULAs in regulating UGC; and
+finally, it will propose solutions to balance copyright protection with creative
+expression.
+By clarifying these legal complexities, this study aims to
+contribute to an informed regulatory approach that safeguards intellectual
+property while fostering innovation in the gaming industry.
+2. User-Generated Content in Video Games
+The core essence of UGC lies in its ability to encompass various forms of
+creativity, primarily centred around the reuse of existing
+owned by third parties. This is particularly evident in the realm of video game
+UGC, where the content typically
+originates from copyrighted works owned by game
+publishers or developers.
+As multifaceted creations, games comprise diverse copyrightable elements such
+as video (e.g., cutscenes), graphics (e.g., character
+design), audio (e.g.,
+soundtrack) and literary works (e.g.,
+While certain aspects
+of game development may be outsourced, ownership rights typically revert to the
+game publisher.
+Despite the
+substantial creative input from users, copyright law does not afford them
+recognition as authors, with the primary ownership
+granted to the game company.
+While users may contribute significantly to the value of UGC through their
+entertainment or skills,
+creative contribution and has not yet acknowledged an authorial role that could
+effectively challenge the publisher’s original ownership rights. Although
+this issue has seldom been addressed in
+the prevailing legal view
+has been to recognise the game creator – specifically, the software
+developers employed by the company
+– as the entity enabling the
+user’s creative input by creating the game itself.
+Even though users contribute to the interactive elements of gameplay, the
+courts (as seen above) tend to attribute creative agency
+to the game
+developer’s predetermined rules and design. As a result, the audio-visual
+outputs and content generated by users
+through original and creative
+contributions,
+even if caused by
+their actions, are typically considered the property of the game company. For
+used presents a paradox in terms of how UGC
+policy defines creative contributions. In copyright doctrine,
+‘originality’
+and ‘authorship’ are often intertwined, as
+meeting the originality threshold is essential for authorship and, consequently,
+first ownership of a creative work. In the European Union, originality is
+established when an author demonstrates their own ‘intellectual
+creation’, interpreted as requiring the exercise of free and creative
+These same principles appear in UGC policies but in a different context, thus
+framing originality as a condition for permission to
+create rather than a
+criterion for authorship. In the UGC framework, originality and authorship seem
+to be treated as separate concepts.
+For instance, Riot Games mandates that UGC
+creators produce ‘original’ content but simultaneously denies
+recognition
+of ‘works of authorship based on the
+It remains unclear
+whether the reference to ‘authorship’ in UGC policies intentionally
+engages with the technical definition
+in copyright law or carries a different
+intended meaning. Regardless, this contradiction is not addressed in UGC
+policies, despite
+the possibility that a user could be considered an original
+creator without being the legal author of a work. This framework distinguishes
+game UGC from traditional creative works, prompting criticism for its
+inconsistent treatment of
+In this legal
+landscape, users are left with limited options to assert their authorial claim
+over UGC. Seeking refuge in copyright
+exceptions proves challenging, especially
+in scenarios such as creating a playthrough video, which often involves
+substantial portions
+of copyrighted content.
+There are three types of LP videos: reviews, playthrough videos with
+commentary and playthrough videos without commentary. The first
+constitutes reviews of video games. In the second category, a viewer can watch
+the entire or part of the video game being
+played, while the gamer gives their
+commentary on their experience. In the third category, viewers can watch videos
+of the entire
+game being played, or part of it, with no commentary from the
+gamer. To illustrate, users broadcast themselves playing video games
+YouTube or Twitch channel, known as a ‘playthrough’ – for
+example, there is an 18-hour and 48-minute game
+walkthrough of the video game
+Baldur’s Gate 3
+a ten-hour and 20-minute playthrough of
+where viewers
+can watch the entire game, or part of it, and would encounter various obstacles
+hindering the straightforward application
+of a copyright exception.
+Even small portions of content can be deemed significant, as evidenced by
+legal precedent.
+Streaming an
+entire game is undoubtedly substantial, potentially constituting copyright
+infringement. Given the extensive time required
+to complete modern games (a
+number of video games require more than 70 hours to complete them), comparing
+their duration to that
+of films or music becomes challenging.
+In addition, streaming gameplay does not neatly fit into the closed list of
+exceptions outlined in Article 5 of the Information Society
+Directive (hereafter
+InfoSoc Directive),
+key piece of EU legislation that aims to harmonise the copyright laws of EU
+member states in the context of the digital
+environment. The InfoSoc Directive
+concerns the legal protection of copyright and related rights, the exclusive
+rights of rights-holders
+and exceptions and limitations to these rights. In
+principle, copyright exceptions create legal allowances for the use of protected
+works in situations where such use offers social, political or economic
+benefits. While some exceptions might seem applicable to
+playthroughs, their relevance diminishes when the purpose of the playthrough
+– a key factor in many copyright exceptions
+– is examined more
+closely. For UGC creators, playing a game serves as a medium for
+self-expression.
+significance of a playthrough is less about the game itself and more about the
+interaction between the player and their audience,
+which forms the core of its
+Similarly, while some videos are clearly intended as parodies, most
+playthroughs only feature sporadic moments of humour or mockery,
+which may not
+always relate directly to the game itself. The criteria for assessing parody
+under Article 5(3)(k) of the InfoSoc Directive,
+as established in
+Vandersteen
+require two key
+elements: (1) the work must reference an existing creation while being
+noticeably distinct from it; and (2) it must
+serve as an expression of humour or
+mockery. Merely playing a game and occasionally making humorous remarks –
+whether about
+the game or unrelated topics – does not meet the threshold
+required by this test. A successful parody must actively engage
+original work in a way that both references and transforms it with a clear
+comedic or critical intent.
+While users may critique or inject humour into their streams, they often fall
+short of meeting the level of engagement required for
+exceptions such as
+quotation for criticism and
+Most playthrough streams
+prioritise the streamer’s personality, skills, observations or rapport
+with viewers over critiquing
+or mocking the game itself.
+Even if a copyright exception could potentially apply, national
+implementations of the InfoSoc Directive often factor in the non-commercial
+aspect when assessing ‘fairness’. Many streams generate revenue
+through ad partnerships, sponsorships or fan donations,
+undermining claims to
+non-commercial use. The notion/meaning of commerciality in EU copyright
+jurisprudence suggests that any form
+of compensation primarily intended for
+commercial advantage or private monetary gain falls under this
+Given the slow pace of policy change and judicial interpretation, it is
+unlikely that the legal treatment of game UGC in copyright
+doctrine will evolve
+soon. Without intervention, UGC creators remain in a precarious state of
+‘tolerated infringement’,
+susceptible to enforcement measures. In
+response to this complex legal landscape, the video games industry has adopted
+an alternative
+approach to regulate user creativity: contracts. Game companies
+now view users not merely as passive consumers but as active creators
+in understanding the rights licensed to them for interactive game creation. The
+end-user licence agreement (EULA), traditionally
+accompanying games at the point
+of sale, now includes extensive terms, conditions and policies dedicated to
+regulating UGC.
+3. End-User Licence Agreement and Copyright Challenges
+Rights in UGC are retained by publishers (in the first instance). For
+example, Blizzard, the publisher of
+World of Warcraft
+, states in its EULA
+User Created or Uploaded Content. The Platform may provide you an opportunity
+to upload and display content on the Platform, such
+as on the Blizzard forums,
+as part of a Game
+, including the compilation, arrangement or
+display of such content (collectively, the ‘User Content’) ... You
+Blizzard a perpetual, irrevocable, worldwide, fully paid up,
+non-exclusive, sub-licensable, right and license to exploit the User
+Content and
+all elements thereof, in any and all media, formats and forms, known now or
+hereafter devised. Blizzard
+shall have the unlimited right
+reproduce, fix, modify, adapt, translate, reformat, prepare derivatives, add to
+and delete from, rearrange and transpose,
+manufacture, publish, distribute,
+sell, license, sublicense, transfer, rent, lease, transmit, publicly display,
+publicly perform,
+provide access to, broadcast, and practice the User Content as
+well as all modified and derivative works thereof and any and all
+contained therein, and use or incorporate a portion or portions of the User
+Content or the elements thereof in conjunction
+with or into any other material.
+In the event you upload or otherwise transmit to Blizzard any concepts, ideas,
+or feedback relating
+to the Platform,
+you shall not be entitled to any
+compensation for any such submission
+, unless expressly agreed between you
+and Blizzard, and Blizzard may freely use any such submission in any manner it
+deems appropriate.
+A study conducted by Thomas examined the UGC policies of 30 popular game
+titles from 30 different publishers, chosen on the basis
+popularity from sources such as Ranker and eSports
+The analysis involved
+reviewing the latest versions of EULAs, terms and conditions, and other
+UGC-related documents available as
+of 21 December 2021, resulting in a total of
+61 documents (approximately two per game title).
+Thomas’s analysis categorised UGC policies into eight specific
+activities: video creation, monetisation, screenshots and game
+photography,
+soundtrack usage, fan works, merchandise, mods, and commercial use. Each
+activity was assessed to determine whether
+it was permitted, conditionally
+allowed or prohibited. The creation of video content, both streamed and
+prerecorded, is the most
+frequently permitted UGC activity without conditions,
+authorised by the majority of rights-holders in the dataset. This widespread
+permission aligns with the dominance of game streams and prerecorded videos in
+the UGC landscape.
+When conditions are attached to video creation, they often reflect existing
+to make ‘original
+contributions’ (Riot
+or add a ‘creative
+spin’ (Ubisoft)
+UGC. Additionally, many conditions address non-copyright concerns related to the
+quality and nature of the content. For
+instance, restrictions may include
+prohibitions on videos that contain spoilers or pre-release footage to protect a
+commercial viability and longevity (Rockstar
+Other conditions aim to
+preserve the ‘spirit and tone’ (Epic
+of the game, preventing
+content that is ‘obscene, sexually explicit, defamatory, offensive,
+harmful’ (Epic Games)
+‘objectionable’
+These conditions
+allow game creators to determine what content aligns with the ‘spirit and
+tone’ of their game and the
+quality of its use. Even a minimal
+quantitative use of copyrighted material can be deemed qualitatively
+significant,
+potentially leading
+to infringement; UGC policies therefore focus more on the quality of the
+user’s interaction with the game.
+This qualitative assessment prioritises
+the nature and originality of the user’s content over the amount of game
+footage shown.
+Among other key findings of the study was a significant variation in how game
+companies handled screenshots and game photography.
+While 14 allowed it without
+conditions, 14 prohibited it and one permitted it with conditions. This
+disparity may stem from the perceived
+value of static images, which can be more
+closely associated with a game’s brand compared with more dynamic and less
+predictable
+video content. Despite the general view of UGC creators as
+non-commercial entities, a notable number of companies allowed UGC monetisation
+(seven unconditionally, 12 with conditions). However, this permission was
+narrowly defined. Monetisation was typically linked to
+the creator’s
+originality and creativity, emphasising content that adds value rather than
+merely replicating existing material.
+Conditions for monetisation often aimed to
+protect the game’s integrity and community standards, allowing companies
+to withdraw
+monetisation rights if the content was deemed harmful or
+inappropriate. The differing approaches to screenshots and monetisation
+broader concerns about brand integrity and community engagement. By examining
+these policies, the study provides insight
+into the balance game publishers seek
+between encouraging creative expression and maintaining control over their
+intellectual property.
+While Thomas’s study examined the UGC policies of popular game titles,
+Mezei and Harkai's study examined EULAs and the flexibilities
+available to
+end-users across 17 service providers, categorised into four groups: streaming
+with a hosting service; streaming without
+a hosting service; online
+marketplaces; and social media.
+Their analysis highlighted that end-users cannot negotiate the contractual
+terms: they must either accept the terms as presented
+or not use the service at
+all. In the context of streaming sites with hosting services, YouTube and Twitch
+were particularly relevant
+due to their prominence in UGC. The study of
+Twitch’s terms of service revealed key points. First, while these
+platforms generally
+allow the upload of various types of user-generated content,
+they consistently require that such content respects third-party intellectual
+property rights.
+Second, the
+platforms reserve the right to change their terms and conditions at any time,
+with users needing to accept these changes
+either explicitly (by confirming) or
+implicitly (by continuing to use the
+Additionally, user
+privileges and licences may be revoked if users engage in illegal activities or
+choose to delete or remove their
+content from the platform.
+While Ahuja asserts that EULAs provide crucial information to users,
+delineating the terms and conditions that define the relationship
+between the
+parties involved and the range of rights available to each
+and Miller supports the
+view that EULAs offer tangible benefits to consumers by promoting efficiency,
+disseminating information and
+delineating a variety of
+it is important to
+emphasise that the terms outlined in these agreements are non-negotiable and
+presented on a take-it-or-leave-it
+basis. Given that users often do not engage
+with or read these agreements, the purported informational benefits and
+efficiency gains
+are effectively nullified. This non-negotiable nature
+underscores the inherent limitations in the practical utility of EULAs for
+average user as well as (its limitation) in enforcing the terms stipulated in
+the Agreement, due to the unfair bargaining power
+between the parties.
+An in-depth examination of EULAs brings to the surface additional nuances
+that challenge the efficacy of EULAs in effectively safeguarding
+user interests,
+as observed by Corbett, whose analysis reveals that EULAs attached to computer
+games tend to be remarkably similar
+across different jurisdictions –
+likely because they are often copied from other games or created using online
+templates without
+careful legal
+This international
+convergence of EULAs may also be due to terms that purport to exclude
+user-permitted exceptions in the copyright
+laws of various countries.
+Rights-owners appear somewhat complacent about the enforceability of their
+EULAs, relying on research
+indicating that only a small fraction of users
+actually read the contractual documents to which they agree, with the majority
+into contracts without understanding the contents or potential
+consequences.
+However, this complacency is problematic. For players of Massively
+Multiplayer Online Role-Playing Games (MMORPGs), many terms in
+EULAs infringe
+upon their rights as both consumers and users of intellectual property. The
+reality is that these standardised agreements
+often fail to account for the
+legal nuances of different jurisdictions, leading to potential conflicts. This
+situation is unsatisfactory
+and underscores the need for a more conscientious
+approach to the formulation of EULAs, ensuring they respect user rights and
+to legal standards across different regions.
+Lau’s analysis of Blizzard Entertainment’s EULAs in the context
+of the decentralised Web 3.0 Metaverse highlights critical
+issues related
+to legal complexity and the imbalance of negotiating
+EULAs, notorious for
+their dense legalese, pose a significant cognitive challenge for the average
+user, leading to superficial reading
+or complete disregard of the terms. This
+lack of thorough engagement results in users unknowingly consenting to terms
+that they do
+not fully understand. Furthermore, the inherent power asymmetry in
+these agreements places users at a disadvantage, relegating them
+to accept the
+terms unilaterally imposed by the software provider without the opportunity to
+negotiate or contest unfavourable conditions.
+This dynamic undermines the
+concept of informed consent and marginalises user autonomy in contractual
+engagements.
+4. Exploring Solutions
+In addressing the complexities and issues of EULAs for UGC in video games,
+several solutions are proposed to enhance clarity and fairness
+solutions) and the positive impacts on game sales (pro-publisher solutions). The
+proposed solutions do not merely aim to
+resolve technical legal ambiguities;
+they also contribute to an evolving narrative about creativity and authorship in
+digital gaming
+environments. Traditional EULAs often reflect a narrative of
+corporate control, framing user creativity as a form of licence-dependent
+activity. By contrast, emerging regulatory and cultural trends – such as
+the transparency mandate of the General Data Protection
+Regulation (GDPR) and
+the rise of platforms such as
+Decentraland
+– promote a
+more participatory narrative, where users are seen as co-creators within
+expansive digital worlds.
+One significant issue is the complexity and legalistic nature of EULAs, which
+are often difficult for the average user to comprehend.
+To mitigate this
+problem, it is essential to mandate that EULAs be rewritten in plain language,
+so the lay user can understand the
+terms and conditions contained therein,
+including the rights they retain and those they grant to publishers.
+Importantly, the GDPR
+explicitly enshrines the principle of transparency,
+requiring that any information addressed to the public or data subjects be
+easily accessible and easy to
+understand.
+obligation extends to the use of clear and plain language, supplemented by
+visual elements where appropriate – particularly
+in technologically
+complex contexts such as online data collection and advertising. Given that
+certain groups, such as children,
+require specific protection, the GDPR further
+mandates that any information intended for them be presented in language they
+comprehend. Thus, ensuring that EULAs adhere to these legal
+transparency requirements is not merely a best practice but a regulatory
+Additionally, the development of standardised EULA templates, which clearly
+outline UGC terms, should be implemented. Publishers should
+explicitly state in
+their EULAs whether UGC is permitted, and if so what kinds and under which
+conditions. The diverging EULA approaches
+discussed above illustrate competing
+narratives around digital creativity. Balancing the protection of intellectual
+property with
+the encouragement of fair use/dealing and creative freedom
+presents a significant challenge. Including explicit fair use/dealing
+in EULAs would allow players to create and share content without fear of legal
+repercussions, provided they adhere to
+specified guidelines. Additionally,
+creating collaborative platforms where players and developers can discuss and
+negotiate the terms
+of UGC creation would foster a community-driven approach to
+content creation, ensuring that the interests of both parties are
+considered.
+Research highlights that the creation of official guidelines for gameplay
+approval significantly impacts game sales, varying by
+The rationale behind this
+difference is that action games, role-playing games (RPG) and sports games
+emphasise the player’s
+experience, such as the thrill of gameplay and
+competition with friends.
+For these genres, simply knowing the
+storyline from gameplay-related content does not deter purchases. Instead,
+watching gameplay
+can inspire viewers to want to experience the game themselves,
+develop in-game characters and engage in competition, thereby significantly
+influencing their willingness to buy the game.
+To leverage the above, genre-specific strategies for UGC and gameplay
+approvals should be developed. For instance, story-driven games
+may benefit from
+stricter guidelines to prevent spoilers, while action games may benefit from
+more lenient guidelines that encourage
+user creativity and
+engagement.
+Implementing dynamic
+guidelines that can be adjusted based on the game’s life-cycle and user
+this strategy. Stricter guidelines may be
+necessary early in a game’s release, whereas more lenient guidelines could
+user interest and engagement over time.
+5. Concluding Remarks
+As frontier technologies such as virtual worlds reshape creative practices,
+the legal frameworks that govern them will increasingly
+serve as narrative tools
+– encoding values about who creates and who owns. The exponential growth
+of online gaming, driven
+by UGC and live streaming, has pushed the industry to
+new heights, with platforms such as Twitch and the burgeoning eSports sector
+demonstrating impressive expansion. However, this rapid development brings forth
+intricate legal and regulatory challenges, particularly
+concerning copyright
+enforcement and user rights. UGC, epitomised by LP videos, has become integral
+to the gaming culture, yet it
+operates in a legally ambiguous space, often
+skirting the boundaries of copyright law. The current European legal discourse
+a comprehensive analysis of UGC’s copyright implications, leading to
+a precarious state of ‘tolerated infringement’,
+where content
+creators operate with limited protection. The industry’s reliance on EULAs
+to regulate UGC therefore underscores
+the need for these agreements to be clear
+and equitable.
+EULAs should evolve to reflect the distinctive attributes of decentralised
+platforms, addressing the unique legal complexities they
+present. The analysis
+of Blizzard Entertainment’s EULAs, as discussed by Lau, highlights the
+critical issues of legal complexity
+and power asymmetry. To ensure user rights
+are protected and foster innovation, it is imperative that EULAs are crafted
+with transparency
+and fairness, allowing for informed consent and user
+As the video game industry continues to advance, navigating the intersection
+of UGC and copyright law remains a pressing concern.
+Legal professionals and
+industry experts should work together to develop EULAs that are not only legally
+sound, but also reflect
+the dynamic and participatory nature of modern gaming.
+By doing so, the industry can ensure that it remains innovative and inclusive
+while safeguarding intellectual property rights and fostering a respectful and
+legally compliant user community.
+Acknowledgements
+My heartfelt thanks to the organisers of the Narratives, Frontier
+Technologies, and the Law Conference, the
+Law, Technology and Humans
+team, and the peer reviewers for their insightful feedback and support.
+Bibliography
+Primary Sources
+Atari Games v Oman
+[1989] USCADC 373
+888 F2d 878.
+“Council Directive 2001/29/EC of the European Parliament and of the
+Council of 22 May 2001 on the harmonisation of certain aspects
+of copyright and
+related rights in the information society,”
+Official Journal
+Deckmyn v Vandersteen
+, C-201/13, ECLI:EU:C:2014:2132,
+Eva-Maria Painer v Standard VerlagsGmbH
+, C-145/10, ECLI:EU:C:2011:798,
+European Court Reports 2011-00000.
+Infopaq International A/S v Danske Dagblades Forening
+ECLI:EU:C:2009:465,
+Midway Mfg v Artic International
+[1983] USCA7 257
+704 F2d 1009.
+Nintendo Co Ltd v PC Box Srl
+, C-355/12, ECLI:EU:C:2014:25, 1
+Nova Productions Ltd v Mazooma Games Ltd & Ors
+“Regulation (EU) 2016/679 of the European Parliament and of the Council
+of 27 April 2016 on the protection of natural persons
+with regard to the
+processing of personal data and on the free movement of such data, and repealing
+Directive 95/46/EC (General Data
+Protection Regulation)” Official Journal
+Spiegel Online GmbH v Volker Beck
+, C-516/17, ECLI:EU:C:2019:625,
+Secondary Sources
+Ahuja, Neha. “Commercial Creations: The Role of End User License
+Agreements in Controlling the Exploitation of User Generated
+The John Marshall Review of Intellectual Property Law
+https://repository.law.uic.edu/cgi/viewcontent.cgi?article=1416&context=ripl
+Bakos, Yannis, Florencia Marotta-Wurgler and David Trossen. “Does
+Anyone Read the Fine Print? Consumer Attention to Standard-Form
+Contracts.”
+The Journal of Legal Studies
+43, no 1 (2014):
+https://doi.org/10.1086/674424
+Bass, Alexandra. “Video games are the next big thing in film and
+television.”
+The Economist
+, November 19, 2024.
+https://www.economist.com/the-world-ahead/2024/11/19/video-games-are-the-next-big-thing-in-film-and-television
+Blizzard. “Blizzard End User Licence Agreement, Clause D(i)(4).”
+https://www.blizzard.com/en-sg/legal/fba4d00f-c7e4-4883-b8b9-1b4500a402ea/blizzard-end-user-license-agreement
+Blizzard. “Blizzard End User Licence Agreement.”
+https://www.blizzard.com/en-us/legal/fba4d00f-c7e4-4883-b8b9-1b4500a402ea/blizzard-end-user-license-agreement
+Caguioa, Isabel Assunta. “Recent Copyright Issues in Video Games,
+Esports and Streaming.”
+63 (2019): 882–924.
+Coogan, Kyle. “Let’s Play: A Walkthrough of Quarter-Century-Old
+Intellectual Property, Media and Entertainment Law Journal
+28, no 2 (2018):
+https://ir.lawnet.fordham.edu/iplj/vol28/iss2/4
+Decentraland. “Frequently Asked Questions.”
+https://decentraland.org/create
+Epic Games. “Fan Content Policy.”
+https://www.epicgames.com/site/en-US/fan-art-policy
+European Audiovisual Observatory. “Legal Challenges and Market Dynamics
+in the Video Games Sector.” 2024.
+https://rm.coe.int/iris-2024-5-video-games/1680b25239
+European Commission. “The European Media Industry Outlook.” May
+https://digital-strategy.ec.europa.eu/en/library/european-media-industry-outlook
+European Commission. “Understanding the Value of a European Video Games
+Society.” In
+Final Report,
+October 2023.
+https://digital-strategy.ec.europa.eu/en/policies/value-gaming
+Farmaki, Despoina. “Copyright Protection of Video Games: A Comparative
+Interactive Entertainment Law Review
+5, no 2 (2022):
+https://doi.org/10.4337/ielr.2022.02.04
+Fairfield, Joshua. “Nexus Crystals: Crystallizing Limits on Contractual
+Control of Virtual Worlds.”
+William Mitchell Law Review
+(2011): 44–95.
+https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1291&context=wlufac
+Gorbett, Susan. “Computer Game Licences: The EULA and Its
+Discontents.”
+Computer Law and Security Review
+https://doi.org/10.1016/j.clsr.2019.03.007
+Hu, Han. “User-Generated Content and Copyright Liability: Assessing the
+Role of User in Copyright Infringement Detection.”
+Advances in
+Economics Management and Political Sciences
+71, no 1 (2024): 48–61.
+https://doi.org/10.54254/2754-1169/71/20241420
+Johnson, Mark and Woodcock, Jamie. “The Impact of Live Streaming and
+Twitch.tv on the Video Game Industry.”
+Media Culture Society
+5 (2019): 670–688.
+https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3015240/no.ntnu:inspera:104598052:13065797.pdf?sequence=1
+Larkey, Michael. “Cooperative Play: Anticipating the Problem of
+Rutgers Journal of Law and Public Policy
+13 (2015): 52.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2651390
+Lau, Pin L. “Disrupting MMORPGs Gaming: Exploring and Renegotiating
+End-User License Agreements in the Metaverse.”
+Journal of Strategic
+Contracting and Negotiation
+8, nos 1–2 (2024).
+https://doi.org/10.1177/20555636241246188
+Lee, Harn Yin. “Copyright and Gaming.” In
+Research Handbook on
+Intellectual Property and Digital Technologies
+, edited by Tanya Aplin,
+44–62. Cheltenham: Edward Elgar, 2020.
+Lee, Harn Yin. “‘Play Again? Revisiting the Case for Copyright
+Protection of Gameplay in Videogames.”
+European Intellectual Property
+34 (2012): 865–874.
+https://www.docs-crids.eu/s/docs-crids/pdf?ids=435966&template=item
+Liu, Zijia, Bo Feng, and Junwen Feng. “A Study on the Copyright Law of
+Live Game Streaming.”
+Canadian Social Studies
+https://doi-org.ezproxy.brunel.ac.uk/10.3968/11772
+Loopy Longplays. “
+Baldur’s Gate 3
+: Act 1 Longplay
+Walkthrough Part 1 [No Commentary] 4k.” September 8, 2023. Video,
+https://www.youtube.com/watch?v=Ecp0vOKReHA
+Matsui, Shigenori. “Does it Have to be a Copyright Infringement? Live
+Game Streaming and Copyright.”
+Texas Intellectual Property Law Journal
+24 (2016): 215–244.
+https://heinonline.org/HOL/P?h=hein.journals/tipj24&i=223
+Mejia, Sebastian C. “Fair Play: Copyright Issues and Fair Use in
+YouTube ‘Let’s Plays’ and Videogame Livestreams.”
+Intellectual Property Brief
+7 (2015): 2. Sobkow, Beata, Video Game
+Industry and User-Generated Content: A Dynamic Interplay Between Laws and Video
+Game Community
+Norms (August 14, 2017). https://ssrn.com/abstract=3270498 or
+http://dx.doi.org/10.2139/ssrn.3270498
+Mezei, Peter and Istvan Harkai. “End-User Flexibilities in Digital
+Agreements.”
+Interactive Entertainment Law Review
+(2022): 2–21.
+https://dx.doi.org/10.2139/ssrn.3879740
+Miller, Daniel C. “Determining Ownership in Virtual Worlds: Copyright
+and License Agreements.”
+Review of Litigation
+22, no 2 (2003):
+https://www.academia.edu/2521911/The_Laws_of_the_Virtual_Worlds_with_Dan_Hunter_
+Mojang. “Minecraft End User License Agreement.”
+https://account.mojang.com/documents/minecraft_eula
+Nintendo. “Nintendo Game Content Guidelines for Online Video &
+Image Sharing Platforms.”
+https://www.nintendo.co.jp/networkservice_guideline/en/index.html
+OECD. “Participative Web and User-Created Content Web 2.0, Wikis and
+Social Networking.” (2007).
+https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/09/participative-web-and-user-created-content_g1gh826c/9789264037472-en.pdf
+Oshima, Hidetaka and Shinichi Yamaguchi. “The Impact of User-Generated
+Content Authorization on Demand in the Game Industry.”
+SN Business
+3, no 191 (2023).
+https://doi-org.ezproxy.brunel.ac.uk/10.1007/s43546-023-00573-7
+Puddington, James. “Fair Play: Economic Justification for Applying Fair
+Use to the Online Streaming of Video Games.”
+Boston University Journal
+of Science & Technology Law
+21 (2015): 413.
+https://www.bu.edu/jostl/files/2015/12/PUDDINGTON_NOTE_FINAL-web.pdf
+Riot Games. “Legal Jibber Jabber.”
+https://www.riotgames.com/en/legal
+Rockstar Games. “Policy on Posting Copyrighted Rockstar Games
+https://support.rockstargames.com/articles/200153756/Policy-on-posting-copyrighted-Rockstar-Games-material
+SourceSpy91. “Bloodborne – Full Game Walkthrough. No
+Commentary,” July 17, 2017. Video. 10:20:34.
+https://www.youtube.com/watch?v=VJyc-sD1DiY
+Statista, “Games Live Streaming – Worldwide.” Accessed July
+https://www.statista.com/outlook/amo/media/games/games-live-streaming/worldwide
+Statista. “Esports WorldWide.” Accessed May 6, 2024.
+https://www.statista.com/outlook/amo/esports/worldwide
+Thomas, Amy. “Can You Play? An Analysis of Video Game User-Generated
+Content Policies,” CREATe Working Paper 2022/6 (2022).
+https://www.create.ac.uk/blog/2022/05/24/new-working-paper-can-you-play-an-analysis-of-video-game-user-generated-content-policies
+Thomas, Amy. “Merit and Monetisation: A Study of Video Game
+User-Generated Content Policies.”
+Internet Policy Review
+https://doi.org/10.14763/2023.1.1689
+Twitch. “Terms of Service 6. ”
+https://www.twitch.tv/p/hu-hu/legal/terms-of-service/#7-license
+Twitch. “Terms of Service 8.”
+https://www.twitch.tv/p/hu-hu/legal/terms-of-service/#7-license
+Tyler, Ackerson. “It’s Time for the Copyright Act to Patch-in a
+Statutory License for Video Game Streaming.”
+AIPLA Quarterly
+48, no 1 (2020).
+https://www.aipla.org/detail/journal-issue/quarterly-journal-48-2
+Ubisoft. “Ubisoft Video Policy.”
+https://legal.ubi.com/VideoPolicy/en-INTL
+Wolf, Mark J.P.
+The Video Game Explosion: A History from Pong to
+PlayStation and Beyond
+. Westport, CT: Greenwood Press, 2007.
+Xu, Qinqing. “Copyright Ownership of User-Generated Content in
+Journal of Gaming & Virtual Worlds
+15, no 2 (2023):
+https://doi.org/10.1386/jgvw_00077_1
+European Commission,
+Understanding the Value, 10.
+European Commission, The
+European Media Industry Outlook, 51.
+European Commission,
+Understanding the Value, 10
+European Commission, The
+European Media Industry Outlook, 53.
+Bass, “Video Games are
+the Next Big Thing.”
+Nintendo Co Ltd v PC Box
+, C-355/12, para. 22.
+European Commission, The
+European Media Industry Outlook
+“Games Live
+Streaming.”
+WorldWide.”
+OECD, “Participative
+Web and User-Created Content,” 9.
+Coogan, “Let’s Play,” 391.
+Lee, “Copyright and
+Gaming”, 60.
+Mejia, “Fair
+For a discussion on the
+and Farmaki, “Copyright
+Protection.”
+Matsui, “Does it Have
+to Be a Copyright Infringement?” 215.
+Wolf, The Video Game
+Explosion, 126.
+Lee, “Copyright in
+Xu, “Copyright
+Ownership”; Hu, “User-Generated Content”; Larkey,
+“Cooperative Play”; Mejia, “Fair
+Thomas, “Merit and
+Monetisation.”
+Matsui, “Does it Have
+to be a Copyright Infringement?” 215.
+Nintendo, “Nintendo
+Game Content Guidelines.”
+Mezei, “End-User Flexibilities,” 2.
+European Audiovisual
+Observatory, Legal Challenges and Market Dynamics, 33.
+Thomas, “Merit and
+Monetisation.”
+In the United States, see
+Atari Games v Oman
+[1989] USCADC 373
+888 F2d 878
+Midway Mfg v Artic International
+[1983] USCA7 257
+704 F2d 1009.
+In the United Kingdom, see
+Nova Productions Ltd v Mazooma Games
+2007, EWCA Civ 219.
+See, for example, the UGC
+policies of Nintendo, “Nintendo Game Content Guidelines”; Mojang,
+“Minecraft End User
+License Agreement”; Ubisoft, “Video
+Infopaq International A/S
+v Danske Dagblades Forening
+, C-5/08, ECLI:EU:C:2009:465, European Court
+Reports, I, 6569;
+Eva-Maria Painer v Standard VerlagsGmbH,
+ECLI:EU:C:2011:798, European Court Reports 2011-00000.
+Riot Games, “Legal
+Jibber Jabber.”
+Thomas, “Merit and
+Monetisation.”
+Loopy Longplays,
+Baldur’s Gate 3
+: Act 1 Longplay Walkthrough.”
+SourceSpy91,
+“Bloodborne – Full Game Walkthrough.”
+Infopaq International A/S
+v Danske Dagblades Forening
+, C-5/08, ECLI:EU:C:2009:465, European Court
+Reports, I, 6569.
+“Council Directive
+2001/29/EC of the European Parliament and of the Council of 22 May 2001,”
+Thomas, “Merit and
+monetisation: A study of video game user-generated content”.
+Vandersteen
+, C-201/13, ECLI:EU:C:2014:2132, Bus LR, 1368, para 20.
+Spiegel Online GmbH v
+Volker Beck
+, C-516/17, ECLI:EU:C:2019:625, ECDR 24.
+Vandersteen
+, C-201/13, ECLI:EU:C:2014:2132, Bus LR, 1368.
+Thomas, “Merit and
+Monetisation.”
+Thomas, “Merit and
+Monetisation.”
+Blizzard, “Blizzard
+End User Licence Agreement” (emphasis added).
+Thomas, “Can you
+Riot Games, “Legal
+Jibber Jabber.”
+Ubisoft, “Ubisoft
+Video Policy.”
+Rockstar Games,
+“Policy on Posting.”
+Epic Games, “Fan
+Content Policy.”
+Epic Games, “Fan
+Content Policy.”
+Ubisoft, “Ubisoft
+Video Policy.”
+Infopaq International A/S
+v Danske Dagblades Forening
+, C-5/08, ECLI:EU:C:2009:465, European Court
+Reports, I, 6569;
+Eva-Maria Painer v Standard VerlagsGmbH,
+ECLI:EU:C:2011:798, European Court Reports 2011-00000.
+Mezei, “End-user
+Flexibilities.”
+Twitch, “Terms of
+Service 8.”
+Twitch, “Terms of
+Service 6.”
+Ahuja, “Commercial
+Creations,” 400.
+Miller, “Determining
+Ownership.”
+Gorbett, “Computer Game Licences,”
+Bakos, “Does Anyone
+Read the Fine Print?”
+Lau, “Disrupting
+MMORPGs Gaming.”
+Decentraland,
+“Frequently Asked Questions.”
+“Regulation (EU)
+2016/679 of the European Parliament (General Data Protection
+Regulation).”
+Oshima, “The Impact of
+User-Generated Content”; Puddington, “Fair Play,” 413; Liu,
+“A Study on the
+See, for example, the
+discussion in Johnson and Woodcock, “The Impact of Live Streaming”;
+Caguioa, “Recent Copyright
+Issues”; Puddington, “Fair
+Print (pretty)
+Print (eco-friendly)
+RTF format (279 KB)
+PDF format (388 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

@@ -1,0 +1,309 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/ANZCompuLawJl/2022/9.html
+Scraped: 2025-11-17 14:13:48
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Matulionyte, Rita --- "A Study on Explainable AI in Healthcare: A Brief Report" [2022] ANZCompuLawJl 9; (2022) 94 Computers & Law, Article 9
+I BACKGROUND
+II FINDINGS
+III CONCLUSION
+A STUDY ON EXPLAINABLE AI IN HEALTHCARE:
+A BRIEF REPORT
+MATULIONYTE
+Despite its exponential growth, artificial intelligence (AI) in healthcare
+faces various challenges. One of the problems is a lack
+of transparency and
+explainability around healthcare AI. This arguably leads to insufficient trust
+in AI technologies, quality, and
+accountability and liability issues. In our
+pilot study we examined whether, why, and to what extent AI explainability is
+with relation to AI-enabled medical devices and their outputs. Relying on
+a critical analysis of interdisciplinary literature on
+this topic and a pilot
+empirical study, we conclude that the role of technical explainability in the
+medical AI context is a limited
+one. Technical explainability is capable to
+addresses only a limited range of challenges associated with AI and is likely to
+fewer goals than sometimes expected. The study shows that, instead of
+technical explainability of medical AI devices, most stakeholders
+transparency around its development and quality assurance
+I BACKGROUND
+AI technologies, such as machine learning (ML), are gaining importance in
+healthcare. AI-enabled medical applications have been developed
+that promise to:
+improve diagnosis; assist in the treatment and prediction of diseases; and
+improve clinical workflow. AI-enabled
+medical devices are expected to comply
+with a number of ethical principles and policy recommendations, such as
+benevolence, privacy
+and protection of data, safety, fairness, accountability
+and responsibility, avoidance of bias, governance, and others. A sought-after
+principle is that of transparency and/or explainability, which is found in most
+ethical AI guidelines.
+speaking it mandates that certain information about AI in healthcare should be
+made available and that outcomes of AI tools
+should be explainable and
+interpretable.
+In response to this, computer scientists have been working to develop AI
+explainability techniques, with some of them focusing specifically
+explainable AI (XAI) in the healthcare sector. In order to ensure explainability
+of complex and thus intrinsically inexplainable
+algorithms (such as those based
+on deep learning and artificial neural networks) and their outcomes, numerous
+so-called post-hoc
+XAI approaches and techniques have been developed and
+discussed in the literature.
+the same time, the literature has shown signs of increasing disagreement as to
+whether explainability should be a required feature
+of AI devices, including
+those intended for the healthcare sector. While some commentators argue that the
+black box nature of AI-enabled
+medical devices has led to a lack of trust and
+quality, and, consequently, a slow adoption of these technologies in practice,
+are increasingly suggesting that AI explainability is not a necessary or
+adequate measure in ensuring the quality of AI or, indeed,
+the trust in
+The aim of this study was to examine whether, why, and to what extent AI
+explainability should be demanded with relation to AI-enabled
+medical devices
+and their outputs. To achieve this aim, we posed the following questions: First,
+what exactly an AI explainability
+principle means and how it could be delineated
+from other terms, such as transparency and interpretability; second, what goals
+explainability can be expected to achieve and which stakeholders will likely
+benefit from AI explainability; and finally, is AI
+explainability capable of
+achieving the identified goals or does it merely create a ‘false
+hope’, as suggested by some
+commentators?
+In the study, we adopted a dual methodology. First, we have reviewed,
+synthesised, and critically analysed medical and computer science
+exploring the question of explainability of AI-enabled medical devices.
+Secondly, we adopted the Focus Group method to
+supplement our analysis with
+first-hand empirical data. We organized two pilot focus group discussions (5-6
+participants each) to
+collect views from clinicians, AI developers and policy
+makers on the need of explainability for AI-enabled medical devices.
+This study was conducted by an interdisciplinary team: Dr Rita Matulionyte
+(Macquarie Law School, Macquarie University), Paul Nolan
+(Macquarie Law School,
+Macquarie University), Prof Farah Magrabi (Australian Institute for Health
+Innovation) and Prof Amin Beheshti
+(School of Computing, Macquarie
+University).
+II FINDINGS
+Since ‘AI explainability’ does not have an agreed definition and
+various meanings of it are provided in different contexts,
+we first developed
+the definition to be used in this study. We noted that both in literature and in
+policy documents, AI explainability
+is sometimes used as a synonym to AI
+transparency, while in other instances it is delineated from the latter. In our
+study we distinguish
+between AI explainability and AI transparency principles.
+We refer to ‘AI explainability’ in a narrow sense, as an explanation
+an AI system generates outputs, which in most cases will require
+using specific explainable AI (XAI) approaches or techniques. This
+is similar to
+‘technical explainability’ as defined by the EU Principles on
+Trustworthy AI.
+In contrast, we
+understand ‘transparency’ as a requirement to provide information
+the model. It may require disclosing very general information such
+as ‘when AI is being used (in a prediction, recommendation
+or decision, or
+that the user is interacting directly with an AI-powered agent, such as a
+or more specific
+information about the AI use, its technical configuration, limitations, etc.
+After clarifying the concept of explainability, we identified the main
+reasons, as proposed in the literature, why and by whom technical
+explainability
+of AI medical devices could be required. We identified 4 main rationales for
+explainable AI, as discussed in legal,
+healthcare and computer science
+literature: trust in technology; patient autonomy and clinician-patient
+relationship; quality of
+AI and improved clinical decision making; and
+accountability and liability.
+First, the ‘black box’ nature of AI
+arguably fails to elicit trust, both among clinicians and their patients.
+If clinicians cannot interpret and understand the decision made by AI,
+such as a diagnosis or a treatment recommendation, or if they
+cannot understand
+the criteria taken into account when making the decision, trust and reliance
+issues will arise.
+Secondly, a
+lack of explainability, arguably, is incompatible with patient-centered
+medicine, as it adversely affects both a patient’s
+ability to make
+informed decisions and the clinician-patient relationship.
+Thirdly, the lack of explanation may
+arguably lead to technical errors or bias in AI that, due to the opaque nature
+of AI, cannot
+be readily identified by technical or medical
+specialists.
+Such errors or bias,
+if AI is applied to numerous cases, could lead to harm to multiple patients.
+Finally, many experts cite explainable
+AI as the answer to ensuring professional
+accountability and determining legal liability for wrong decisions generated by
+Arguably, the opaque nature
+of AI arguably leads to problems in defining moral accountability and legal
+liability as it makes it
+unclear as to who would be held accountable for harm
+caused by a black box algorithm – the clinician, the AI developer, both,
+or none of them. Explainable AI would arguably help more clearly and
+appropriately allocate accountability for incorrect AI decisions.
+As a next step, we critically analysed these rationales for explainable AI in
+healthcare and, through focus group discussions, examined
+whether stakeholders
+(clinicians, patients, policy makers) agree with these propositions. We made
+four main conclusions.
+First, AI explainability is not the only (or the best) way to ensure trust in
+AI among clinicians. We argue that a causal explanation
+is not always necessary
+in clinical decision-making as clinicians have traditionally used or relied on
+technologies that they do
+not fully understand. For instance, physicians and
+others rely on laboratory test results in their decision making, even if they
+not precisely know how the pathology laboratory testing works. Similarly,
+clinicians routinely prescribe pharmaceutical interventions
+without knowing
+their specific mechanisms of action. Further, XAI techniques are still facing a
+number of technical challenges and
+are yet to attain sufficient certainty, and
+therefore the explanations that they produce cannot be themselves trusted.
+In additional, we suggest
+that there are more optimal alternatives to ensure trust in AI systems.
+Empirical research suggests that
+trust of the AI system in healthcare could be
+ensured by, e.g., building relationships with stakeholders from the beginning of
+project to the final implementation stage; by respecting professional
+discretion and elevating the expertise of stakeholders rather
+than replacing
+them with technology; and by creating ongoing information feedback loops with
+stakeholders.
+Second, we argue that a lack of explainability does not inhibit patient
+autonomy, nor their relationship with the clinician or trust
+in the medical
+system generally. While patients may need certain information about AI
+technology, like any other technologies applied
+in the healthcare sector, the
+information they would require would fall under the ‘transparency’
+concept defined above,
+rather than a technical explainability concept on which
+we focused in this study.
+Third, we contend that XAI techniques may be helpful in ensuring the quality
+of AI during the development process, but the utility
+of XAI techniques in
+eliminating AI errors in a clinical setting is questionable. We agree that XAI
+may be useful, or perhaps even
+necessary, for AI developers in ensuring the
+quality, accuracy, and absence of bias when developing AI modules. However, it
+is questionable
+whether XAI techniques could help clinicians to improve clinical
+decision making. In most if not all instances, XAI techniques and
+their outputs
+cannot be understood and interpreted by those lacking AI expertise, such as
+clinicians.
+Also, empirical
+evidence suggests that additional explainability features do not necessarily
+improve clinical decision making.
+In addition, explanations may lead
+to an over-trust and over-reliance on the technology, thereby introducing a risk
+of missing obvious
+Finally, we also question the need of explainability functions to clearly
+allocate accountability and liability among different stake
+holders (clinician,
+AI developer and healthcare provider institution). We submit that it is yet not
+clear how explainability functions
+in an AI-enabled medical device will
+ultimately affect the determination of liability. Explainability of an AI system
+is something
+that, from a legal perspective, potentially cuts both ways: it
+could both decrease the potential for errors, negative patient outcomes
+associated liability for clinicians, or it could increase the standard of care
+demanded of clinicians, leading to the potential
+to breach their duty.
+III CONCLUSION
+These findings suggest that the role of an AI explainability principle in the
+medical AI context is a limited one. Technical explainability,
+as we define it
+here, can address only a limited range of challenges associated with AI and is
+likely to reach fewer goals than sometimes
+expected. This should be considered
+by policy makers when making demands for AI-enabled medical devices to be
+explainable, and by
+companies and data scientists when deciding whether to
+integrate an explainability function in an AI-enabled medical device.
+The full reference to the report is: R Matulionyte, P Nolan, F Magrabi, A
+Beheshti, ‘Should AI Medical Devices be Explainable?’,
+International Journal of Law and Information
+, 151-180 (2022). A pre-print copy could be accessed via:
+<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3829858>.
+Senior Lecturer, Macquarie Law
+School, Macquarie University.
+Eg Australia’s Artificial
+Intelligence Ethics Framework (2022),
+<https://www.industry.gov.au/data-and-publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles>
+(‘There should be transparency and responsible disclosure so people can
+understand when they are being significantly impacted
+by AI and can find out
+when an AI system is engaging with them.).
+Eg J Amann et al.
+Explainability for Artificial Intelligence in Healthcare: A
+Multidisciplinary Perspective’ (2020) 20
+BMC Med Inform Decision
+Eg A J London,
+‘Artificial Intelligence and Black‐Box Medical Decisions: Accuracy
+Versus Explainability’, (2019)
+Hastings Center Report
+Eg European Commission,
+‘Ethics Guidelines for Trustworthy AI’ (2019),
+<https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai>.
+OECD, Recommendation of the
+Council on AI (2022), para 1.3,
+<https://oecd.ai/en/dashboards/ai-principles/P7>.
+See eg K Rasheed et al,
+‘Explainable, Trustworthy, and Ethical Machine Learning for Healthcare: A
+Survey’, (2021) Comput
+Biol Med. 2.
+J C Bjerring, J Busch,
+‘Artificial Intelligence and Patient-Centered Decision-Making’,
+(2021) 34(2)
+Philosophy & Technology
+H Maslen, ‘Responsible
+Use of Machine Learning Classifiers in Clinical Practice’, (2019)
+Journal of Law and Medicine
+Eg M Sendak et al, ‘The
+human Body is a Black Box: Supporting Clinical Decision-Making with Deep
+Learning’, (Conference
+Fairness, Accountability, and
+Transparency
+, 2020, 99-109, 101).
+J J Wadden, ‘Defining
+the Undefinable: The Black Box Problem in Artificial Healthcare’
+J Med Ethics
+Sendak et al (n 9) 100.
+See e.g. interpretability
+analysis by E Zihni et al, ‘Opening the Black Box of Artificial
+Intelligence for Clinical Decision
+Support: A study Predicting Stroke
+Outcome’, (2020)
+Eg H J Weerts et al,
+‘A Human-Grounded Evaluation of SHAP for Alert Processing’,
+arXiv preprint arXiv:1907.03324
+Print (pretty)
+Print (eco-friendly)
+RTF format (153 KB)
+PDF format (185 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

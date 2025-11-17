@@ -1,0 +1,3021 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/MelbULawRw/2025/3.html
+Scraped: 2025-11-17 15:17:57
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Dietrich, Joachim; Field, Iain --- "'Consent' and Trespass to the Person: Denial of Liability or Defence?" [2025] MelbULawRw 3; (2025) 48(2) Melbourne University Law Review 340
+‘CONSENT’ AND TRESPASS TO THE PERSON:
+DENIAL OF LIABILITY OR DEFENCE?
+II What Is Consent?
+III Taxonomic Questions:
+Defences, Denials and the Burden of Proof
+IV Doctrinal Matters: The Current Legal Position
+V Legal Coherence and Defences
+VI Moral and Policy Arguments
+VII Conclusions
+‘CONSENT’ AND TRESPASS TO THE PERSON:
+DENIAL OF LIABILITY OR DEFENCE?
+Joachim Dietrich
+The question of whether consent is a defence to battery or whether the
+absence of consent is an element of the claim is unresolved
+in Australian law
+and has received little attention. Different conclusions have been reached on
+the issue in other jurisdictions
+and the same question is equally raised by
+other trespass claims. Yet, how consent is classified (ie as a defence or a
+an element of a claim) and which party (ie plaintiff or defendant)
+bears the onus of proving consent (or its absence) may be of practical
+importance and of theoretical interest, thereby raising fundamental taxonomic
+questions. The primary aim of this article is to tease
+out the underlying
+conceptual, theoretical and practical issues that contribute to the ongoing
+uncertainties as to who bears the
+burden of proving, and the correct
+classification of, consent (or the absence of
+I Introduction and Outline
+Is consent a defence to a claim in the tort of battery (a form of trespass to
+the person) or is the absence of consent an element
+of the claim? Does the
+answer turn simply on which party bears the burden of
+extent that it does, is it the case that a defendant has to plead and prove
+consent as a defence or is it the case that the
+plaintiff has to plead and prove
+an absence of consent and an assertion of consent by a defendant is merely a
+of that element of the plaintiff’s
+position in Australia remains unsettled. Apart
+from some case law and brief
+textbook discussions, surprisingly little has been written on the
+discussion there has been has also arisen mostly in the context of battery, but
+the issue is broader than
+The same question is equally elicited by other claims in trespass to the person,
+namely assault and false imprisonment as well as
+trespass to land or to
+In contrast, the doctrine of consent has received considerable attention from
+criminal law scholars in recent years, spurred on by
+rapidly evolving sexual
+mores and increased awareness of, and concern about, the difficulties faced by
+certain groups in proving
+the guilt of
+perpetrators.
+issues with which we are concerned in this article are impacted by those same
+concerns (among others) and by the broader question
+of the extent (if any) to
+which tort law ought to instantiate the norms apparent in the criminal law. Our
+primary aims, however,
+are to tease out the underlying conceptual, theoretical
+and practical issues that contribute to the ongoing uncertainties as to who
+bears the burden of proving, and the correct classification of, consent (or the
+absence of consent). In doing so, we assess whether
+it is possible to articulate
+a principled approach to the treatment of consent in trespass that is sensitive
+to these issues. We
+conclude that a principled approach is possible and suggest
+that the best approach would be for the law to embrace a general rule
+onus of proving consent rests with defendants, subject to clearly justified
+exceptions.
+Some might question whether uncertainty surrounding the onus of proof for
+consent really
+the way in which we choose to describe and classify consent might be of
+practical importance because the allocation of the
+persuasive (legal) onus can
+be decisive in some cases where evidence is limited or conflicting. The
+classification of consent is
+especially likely to be of practical importance in
+cases of alleged sexual battery, which typically turn on conflicting
+it might be important in other circumstances
+Allocating the burden of proving consent to defendants, thereby suggesting
+that contact is prima facie wrongful, might also serve
+an important deterrent
+and/or social messaging function by indicating to citizens that the law affords
+them no privilege to engage
+in certain forms of
+as importantly, it might encourage and enable victims of certain wrongs to
+exercise their rights. Conversely, allocating the
+burden of proof to plaintiffs,
+thereby suggesting that contact is wrongful only when it is non-consensual,
+might signal to potential
+wrongdoers that certain forms of conduct are
+presumptively permissible and/or discourage certain groups of tort victim from
+if social messaging is a purpose of the law, then determining what sort of
+conduct is presumptively permissible may depend
+on context — that is,
+there might be some justification for applying different approaches in different
+contexts (eg perhaps
+between sexual, medical or sporting contacts).
+The classification of consent is of some theoretical interest too, as it
+raises fundamental taxonomic questions about what, precisely,
+constitutes a
+‘defence’ or a ‘denial’ and whether the answer to that
+question turns simply on which party
+bears the onus of proving the matter. In
+any case, it would be wrong to assume that our choice of classification is
+inconsequential.
+As Hanoch Dagan rightly points out, ‘[t]he taxonomic
+scheme we use in law does not merely organise our legal knowledge; rather,
+legal taxonomy necessarily participates in our construction of that knowledge
+and thus in the ongoing evolution of
+Importantly, and consistently with the crux of Dagan’s point, there may
+be significant normative values (or perhaps policy arguments)
+judicial decisions or commentary on the classification of
+These values
+may not always be openly articulated. For example, in the early case of
+Christopherson v Bare
+Christopherson
+’), Patteson
+J stated that an ‘assault
+[or battery] must be an act done against the will of the party assaulted: and
+therefore it cannot be said that a party has been assaulted
+permission’.
+Similarly, Lord Denman CJ stated that ‘it is a manifest contradiction in
+terms to say that the defendant assaulted the plaintiff
+permission’.
+Both statements assume that the absence of consent is embedded in our
+understanding of what makes contact an ‘assault’
+(or a battery)
+— that is, a
+normative values, if any, underpin it?
+This article traverses and seeks to answer three categories of question: (a)
+taxonomic questions, (b) doctrinal questions and (c)
+questions concerning
+interpersonal morality. These questions raise distinct issues, although there
+may be some overlap between them
+such that answers to one category of question
+may influence answers to the others.
+In examining what are broadly taxonomic questions, we consider what
+constitutes a ‘defence’ and whether: (i) the classification
+legal matter as a defence is determined by who should or does bear the
+persuasive onus of establishing that matter, (ii) the
+classification of
+something as a defence dictates which party should bear the persuasive onus or
+(iii) neither option is true. We
+then turn to doctrinal matters, the most
+fundamental being the current law as to the onus of proof for consent within
+different causes
+of action and in
+different jurisdictions. We engage with recent legal debate in the context of
+battery claims, focusing on Australian law, but also with legal precedent
+from the United States (‘US’), England and Canada.
+We also briefly
+consider the
+status of the authorities in relation to other trespass claims. Importantly,
+consent operates as a defence in other trespass claims, this might raise
+implications for its status within battery claims. We then
+consider some moral
+and policy arguments (focusing on battery), related analogous debates in the
+criminal law and, indeed, whether
+those debates are relevant to tort law. The
+conclusion of the article seeks to draw together the various threads in order to
+any clear conclusions that can be drawn, while noting the matters that
+remain unresolved.
+Before addressing these questions, however, and as a prelude to them, we
+begin by exploring consent as a concept. What conduct or
+mental state, or what
+evidence as to conduct or mental state, will constitute valid consent? There are
+myriad ways in which consent
+might be conceived, defined and proved in the civil
+law and more broadly. We consider the ways in which this might itself contribute
+to the ongoing uncertainty.
+II What Is Consent?
+Most private law scholars are likely to agree that consent, in its core
+sense, is subjective in
+Hohfeldian terms, consent is a
+held by plaintiffs to alter their
+legal relations with
+same basic concept is at play in the law of negligence when the plaintiff
+voluntarily assumes a risk of injury.
+both instances, the law’s underlying rationale is to vindicate the
+plaintiff’s personal (subjective or ‘actual’)
+vis-a-vis their legal
+That is not to say, however, that a legal doctrine of consent must be (or is)
+entirely subjective, since the plaintiff’s actual
+state of mind can only
+be determined by ‘direct evidence or ... inference’ from objective
+One challenge for the law lies in
+balancing these different dimensions of the doctrine in a way that leads to just
+same is true of consent (broadly stated) as it applies across legal topics.
+Thus, criminal law scholars often speak of subjective
+versus objective (or
+‘performative’) theories of
+And in contract law, Rick Bigwood
+explains that
+‘assent’ and ‘consent’ perform different functions in
+relation to the formation of a contract ... Assent,
+which is itself a principal
+source of contractual obligation, is not concerned with the
+‘justice’ of a contract, but
+rather merely with whether there has
+been a manifestation of mutual consents sufficient to function as offer and
+acceptance. ...
+Consent, in contrast ... comprehends a subjective mental state:
+to give one’s consent is to exercise the will.
+consent-giver’s outward manifestation of consent (assent) is evidence of
+that person’s state of mind, but it can never
+be conclusive
+that any plausible doctrine of consent in tort law must, at the very least,
+acknowledge the
+evidentiary
+role played by some objective facts even if
+those facts are not awarded any independent normative force (eg by grounding
+some exculpatory
+justification such as reasonable mistake of
+Recognising that consent (at least in the loose sense in which tort law
+scholars have tended to discuss it) has both subjective and
+objective dimensions
+is important because the relative significance attached to, and the burden of
+proving, each dimension might
+be determinative of legal outcomes. Those
+dimensions ought therefore to be carefully balanced and openly accounted for.
+will identify what matters are legally relevant as a matter of evidence
+and proof in deciding whether certain conduct is exculpated.
+Which party
+(plaintiff or defendant) is required to prove such matters is, however, another
+question. To be clear, we do not mean
+to say that the law must necessarily give
+weight to each dimension; our point is simply that the law ought to, at the very
+explain the role that each dimension does or does not play in determining
+liability and explain who must prove what (whether generally
+or in a given
+But how does, or should, the law go about making these decisions? To conclude
+that consent is subjective or objective, or a combination
+of the two, is not to
+say anything especially meaningful about what consent
+to transform legal relations. As Alan Wertheimer puts it,
+the important question is not whether consent is — ontologically speaking
+— a performative or a mental state. Rather,
+we begin by reminding
+ourselves that we are interested in consent because it renders it permissible
+for A to [engage in an act] with
+B, and we ask ‘what could do
+formulation is accepted — and we believe that it should be — then an
+important question for the law is what
+of evidence will be
+sufficient to establish the underlying conditions of consent in a given context.
+However, and crucially for present
+purposes, there is no necessary correlation
+between the answer to this question and its practical consequences, such as the
+of the burden of proof or the classification of consent as a defence
+or its absence as a denial. Elsewhere in the same article, Wertheimer
+It is a mistake to think that we can resolve the moral and legal issues in which
+we are interested by an analysis of the ‘meaning’
+of consent. ... We
+can say, for example, that A commits a criminal offense if he ‘fails to
+obtain meaningful consent, and continues
+to engage in sexual activity,’ or
+that B’s consent must be ‘voluntary’ or
+‘competent,’ but then
+we seem to need to know when consent is
+‘meaningful,’ ‘voluntary,’ or ‘competent.’
+In the final
+analysis, we have to determine whether the balance of relevant
+moral reasons are such that A’s conduct is
+impermissible. In that
+sense, I am squarely in the camp that maintains that
+the criteria for
+morally transformative or
+consent must, of necessity, be moral
+Again, we agree.
+It is not, of course, our purpose here to speculate as to what these moral
+criteria might be. However, it seems highly
+unlikely that a single set of
+criteria could ever be identified that could satisfactorily explain when morally
+valid consent should
+be said to exist in every instance of battery, any more
+than one might be identified that explains consent as it applies across the
+criminal law.
+One key point that flows from the preceding analysis is that the underlying
+conditions of consent are important considerations in
+determining what
+of evidence is relevant to determining consent — that is,
+whether that evidence is subjective or objective or some combination
+of the two.
+But it does not necessarily follow that a conclusion as to the type of evidence
+that is relevant to establishing consent
+correlates with a particular conclusion
+as to who should bear the persuasive onus of proving that matter and of leading
+the relevant
+evidence (though there might be a correlation, for example, if the
+burden of proving the absence of purely subjective consent is
+allocated to the
+plaintiff and, say, the onus is placed on a defendant to justify their actions
+by reference to objective consent
+considerations). A purely objective test of
+consent might be a defence or the absence of objective consent might be an
+the wrong and, similarly, proof of a subjective test to consent could
+be allocated to either party (albeit a defendant may experience
+some practical
+difficulties with establishing subjective consent without some reference to
+external objective indicators of
+Further, irrespective of what the underlying conditions of consent are, the
+classification of consent as a defence or a denial might
+still signal or reflect
+the evaluation, by law or society, of the prima facie wrongfulness (or not) of
+certain conduct: for example,
+that sexual contact is prima facie wrongful
+(unless subjective consent is shown) or that sexual contact is a social good and
+(unless an absence of subjective consent is
+In short, irrespective of what
+evidence is required to satisfy moral and legal questions of consent, it does
+not appear that the
+nature of the required evidence is necessarily relevant to,
+or a factor in, answering the taxonomic, doctrinal and normative questions
+considered below concerning the status of consent and who bears the onus of
+establishing that consent (or the absence of that consent).
+III Taxonomic
+Defences, Denials and the Burden of Proof
+We now explore the distinction, if any exists, between a ‘denial’
+of the elements of a cause of action and a ‘defence’
+to an action
+and attempt to track the relationship between both of those concepts and the
+onus of proof. As we have intimated, we
+consider the allocation of the onus of
+proof to be the most significant issue both practically and normatively, but we
+also accept
+that simply describing a given rule as a ‘defence’ or a
+‘denial’ might deter or encourage
+certain forms of conduct or serve some messaging function or both of those
+functions (albeit we remain unconvinced about the extent
+to which tort law
+has any significant impact on
+behaviour).
+For ease of analysis and to
+avoid conclusory reasoning, we use the term ‘answer’ to refer to
+denials and defences
+collectively.
+As a matter of logic, it is possible to frame most answers typically
+classified as defences in negative terms: the absence of self-defence,
+necessity, the absence of consent and so
+definition of defences that seeks to distinguish denials must therefore explain
+why the absence of these answers — or any
+specific answer — cannot
+be incorporated into the elements of the cause of action. Indeed, some theorists
+support incorporating
+the absence of answers typically classified as defences as
+a final element in proving liability, postulating that there is no logical
+distinction between the two approaches; both a failure to prove an element of a
+cause of action or a failure to refute a defence
+lead to no liability arising
+and so the best approach (according to ‘incorporationists’) is to
+classify all answers as
+sceptical of that conclusion because, as we have said, we believe that the
+classification may have legal (and perhaps social)
+consequences. But are
+incorporationists nevertheless correct when they say that it is impossible to
+draw a strict logical distinction
+between these two categories?
+In our view, a useful
+descriptive
+account of the distinction between
+denials and defences is that ‘[u]nless all the elements of a tort ... are
+established, the
+claimant will fail; but the claimant’s success does not
+similarly depend on the absence of each valid defence being
+established’.
+’), Leeming JA similarly observed that,
+from the defendant’s perspective, the ‘essential difference is
+plea which attacks an element of the cause of action, or by the
+positive assertion [by the defendant] of some further matter which,
+if accepted,
+will exonerate the defendant’.
+Neither of these accounts purports to explain the distinction between an
+element (ie a denial) and a defence, although each account
+might be taken to
+suggest that the distinction turns on who bears the persuasive burden of
+plaintiffs will succeed if they
+establish elements A, B and C, and they need only concern themselves with the
+absence of defences
+X, Y or Z if defendants plead any of those defences and are
+able to raise evidence prima facie to support their
+application.
+However, it can be difficult
+to distinguish between cause and effect. For Leeming JA, the proper allocation
+of the onus of proof
+appears to flow as a
+consequence
+of categorising a
+legal issue as a defence or an element of the
+contrast, some commentators
+the concept of ‘defence’
+by reference to who bears the onus of proof in the
+James Goudkamp has rejected an onus-of-proof account of
+Goudkamp considers that the difference between denials and defences ‘is
+one of the most basic organising devices in tort
+However, he does not see the
+difference as turning on the onus of proof.
+Goudkamp gives the (sole) example of the application of limitation periods as a
+defence, since the persuasive burden rests on the
+plaintiff to disprove the
+application of the ‘defence’ where a defendant has raised the
+possibility of a limitations
+period having
+One possible response to Goudkamp’s example is to deny that limitations
+periods are ‘defences’ and instead to claim
+that they form part of
+the procedural rules. According to Luís Duarte d’Almeida, for
+example, defences prevent a plaintiff
+from succeeding ‘on the
+merits’ whereas procedural matters may prevent a plaintiff from succeeding
+without any evaluation
+by a court of the substantive merits of the
+On this basis, Duarte
+d’Almeida claims that the ‘challenge of providing a theoretical
+account of the “denial”/“defence”
+distinction only
+arises with regard to those circumstances which ... bear on the merits of the
+action before the court’.
+exclude limitations periods, he argues, undermining Goudkamp’s argument
+that the onus of proof is
+not determinative.
+Certainly, as a singular objection to the onus-of-proof account of defences,
+we agree that the unusual rules pertaining to limitations
+periods are not
+especially compelling. Indeed, Andrew Burrows suggests that the legal burden of
+proving a limitation
+to be on the defendant and that the law in
+this area has simply taken a ‘wrong
+As Duarte d’Almeida concedes, however, the line between procedural and
+substantive rules is not always a bright
+and the application of this
+distinction — such as it is — might result in some counterintuitive
+classifications, at least
+in Australia. Take advocates’ immunity, for
+example (which survives in Australia but has been removed in many other
+It is not uncommon for judges to describe this rule as a
+is nevertheless said to be grounded in a procedural policy consideration —
+that is, the need to maintain finality in
+decision-making.
+It is, as Basten JA has
+described it, an ‘immunity from
+proceedings’.
+Neither classification
+— defence or procedural rule — seems intuitively incorrect or
+mutually exclusive as a description
+of advocates’ immunity. Either way,
+the rule operates in much the same way: the opportunity to reopen earlier
+litigation ‘on
+the merits’ is foreclosed and the principle of
+finality is protected.
+If we are to accept
+that procedural rules fall outside the domain of defences, however, then
+advocates’ immunity (and for that
+matter, judicial immunity) might be
+excluded from our taxonomy of defences (if they are, indeed, procedural
+This would be inconsistent with
+some mainstream accounts of tort law defences in Australia, if not contemporary
+judicial practice,
+and would mean that the
+law recognises two different categories of immunity (procedural and
+substantive).
+For these reasons, we doubt that the distinction between procedural and
+substantive rules is clear enough to ground the claim that
+the domain of
+defences is limited to the latter. That said, advocates’ immunity has been
+abandoned in the United Kingdom (‘UK’)
+and New Zealand and never
+existed in Canada or the US, so it need not be accounted for by those concerned
+solely with those jurisdictions.
+The onus-of-proof account faces other difficulties in Australia, however.
+Most notably, the account does not explain the existence
+of rules that place the
+onus on defendants to disprove an
+of a cause of action; some of
+these rules are deeply embedded in tort law. In the trespass torts, for example,
+it is well established
+that fault is an element of the tort of
+yet in Australia the onus remains
+on the defendant to prove that their conduct lacked the requisite degree of
+fault on the basis
+of, for example, involuntariness or
+Again, it might be argued that
+this burden
+to be on plaintiffs, but the very fact that different
+views exist on the matter illustrates that the mere allocation of the burden
+reveals little about the reasons
+allocation.
+For this reason, historical
+allocations of the burden of proof cannot be relied upon to determine where the
+burden of proving consent
+should lie, at least as a purely normative matter, or
+whether consent (or any other rule) is properly classified as a defence or
+denial. This may be especially so in Australia, where courts have been accused
+of following a ‘misplaced cult of historicism’
+on matters concerning
+the burden of proof in trespass.
+That said, it certainly appears to be the case that the allocation of the
+onus of proof in relation to an answer or the classification
+of that answer (as
+a defence or denial) may in some cases simply flow from and reinforce some
+conventional taxonomic assumption.
+We are left, then, with a number of possibilities: for some, who bears the
+onus of proof determines what qualifies as a defence; for
+others, categorising
+something as a defence determines the allocation of the burden of proof; and for
+yet others, categorising something
+as a defence has no necessary connection at
+all with which party bears the burden of
+Whichever approach is adopted,
+however, something else may be going on here; as we intimate in
+Part VI, some normative evaluation(s) may be driving the categorisation of a
+matter as either an element of the cause of action or
+as a defence or,
+alternatively, driving where the onus of proof should lie. In the latter case,
+the appropriate category then, generally,
+attaches to that conclusion. It may
+not always be clear, however, which of these processes is occurring or what
+normative factors
+are at play.
+IV Doctrinal Matters: The
+Current Legal Position
+Battery requires socially unacceptable bodily contact outside ‘the
+ordinary conduct of daily
+someone’s shoulder to get their attention, is not
+actionable even when it
+is non-consensual.
+Although the basis for
+this rule is sometimes said to be implied consent, the rule is better seen as an
+objective ‘threshold’
+requirement that turns on the social context
+of the contact which is unconnected to the plaintiff’s subjective state of
+Therefore, the issue of consent only arises where interference in a
+person’s bodily integrity is not an exigency of everyday
+life as adjudged
+within the specific factual context in which the
+In Australia, whether consent is a defence to trespass to the person or the
+absence of consent
+is an element of a trespass claim is unsettled and
+recent cases have taken different positions. There is at present no binding
+on the issue,
+which has received
+‘remarkably little
+discussion’.
+Perhaps the most authoritative statement is that of McHugh J in a dissenting
+judgment in
+Secretary, Department of Health and Community Services v JWB
+In that case, McHugh J rejected the view that lack of consent was an element of
+battery and that, consequently, a plaintiff would
+need to negative
+an approach, according to McHugh J, ‘is inconsistent with a person’s
+right of bodily integrity. Other persons do
+not have the right to interfere with
+an individual’s body unless he or she proves lack of consent to the
+interference.’
+On McHugh J’s approach, the persuasive onus rests with a defendant to
+prove consent.
+In the absence of evidence
+on consent, proof of the elements will result in the tort being made
+In the UK, Hale LJ expressed similar
+views on bodily integrity as ‘the first and most important of the
+interests protected
+by the law of tort’, although her Ladyship made no
+comment on whether consent operates as a defence or a
+, Leeming JA reached the opposite conclusion to that of McHugh
+J, albeit his Honour confined his comments to medical-practitioner-related
+battery claims.
+His Honour stressed that the absence of consent went to the very essence of
+liability in battery and cited, with approval,
+Christopherson
+authoritatively determining that the absence of consent is an element of
+, Leeming JA focused on the historical context of
+Christopherson
+and also relied on subsequent
+authorities.
+His Honour stated: ‘Commonly, a modern defendant will both deny (or not
+admit) some allegations, and advance further allegations
+designed to defeat the
+plaintiff. It was not always thus.’
+Historically, his Honour noted, ‘there was a crisp and essential
+distinction between a denial (known as a traverse) and a plea
+of confession and
+avoidance: a defendant had to elect between
+In that historical context,
+Christopherson
+held that a defendant could not make a special plea of
+‘leave and licence’ (ie consent) to confess and avoid a claim
+Instead, consent should have been
+pleaded as a denial that any wrong occurred at all — that is, the
+defendant needed to ‘traverse’
+the plaintiff’s claim
+(‘an argumentative plea of not
+The decision of the Court
+to reject the defendant’s pleading as not good in law therefore
+constituted a rejection of consent
+Relying on this precedent, Leeming
+JA concluded (albeit in obiter) that the onus of proof rests with the plaintiff
+to prove the absence
+of consent as an element of their
+conclusion contrasts with the judgment of Basten JA (Beazley JA agreeing) in
+Dean v Phung
+that the burden of proof rests with a defendant to prove
+consent for medical procedures.
+However, in a case argued only four days after
+was handed down,
+the Australian Capital Territory Court of Appeal in
+Moon v Whitehead
+that consent
+did not discuss
+, and it was conceded by the defendant that the onus
+rested with him to prove consent on the balance of
+probabilities.
+Nevertheless, the Court
+considered that the authorities favoured that
+conclusion.
+In the UK, case authority supports the view that an absence of consent forms
+an element of the cause of action for a battery
+said, there is only scant recent authority on point, and
+Freeman v Home
+Office [No 2]
+, which is ‘generally regarded as the leading English
+case’, is only a single-judge
+Further, some judges have assumed the opposite to be true or expressed doubts on
+the matter. In
+Collins v Wilcock
+, Robert Goff LJ (for the Court), without
+discussing the issue, stated that ‘[g]enerally speaking, consent is a
+defence to battery’.
+And Clarke MR in
+Ashley v Chief Constable of Sussex Police
+noted that the conclusion that
+the absence of consent is for a plaintiff to prove has ‘been the subject
+of some criticism’
+and it is ‘open to debate’ whether
+‘[the] conclusion on burden of proof is
+In the US, an approved draft of the
+Restatement (Third) of Torts:
+Intentional Torts to Persons
+Restatement (Third)
+takes the position
+that most [US] jurisdictions have not clearly resolved which party bears the
+burden of production and persuasion on the question
+whether plaintiff has
+satisfied any of the categories of consent (§§ 12–19) that
+preclude liability for one of the
+intentional torts to persons. Among those
+addressed the issue, the predominant but not
+universal view is that plaintiff has the burden of proving the absence of actual
+but there is very little authority concerning burden of proof as to
+other categories of consent. ... Because of this dearth and mix
+of authority,
+and because there are competing considerations with respect to which party
+shoulders the burden of proof, this Restatement
+takes no position on the
+contrasts with the position taken in earlier Restatements, and indeed earlier
+drafts of the
+Restatement (Third)
+, which stated that the burden is on the
+plaintiff to prove an absence of consent in
+This change of position might
+reflect criticism of earlier drafts by some commentators, particularly in
+relation to sexual contact,
+which we return to in Part
+Interestingly, the
+Restatement (Third)
+notes that the burden of proof
+with respect to consent
+traditionally on the defendant for trespasses
+to property, and that the
+greater procedural protection of property rights is consistent with the greater
+use of strict-liability criteria for property rights.
+Although it might seem
+anomalous that property interests receive greater legal protection in this
+respect than the personal interests
+safeguarded by the intentional torts to
+persons, the difference has historical roots and is embedded in some of the case
+Canada, it is well established that the onus of proving consent rests
+on defendants. The courts have consistently held this to be so in
+medical-practitioner-related battery
+Non-Marine Underwriters,
+Lloyd’s of London v Scalera
+majority of the Supreme Court of Canada emphatically endorsed this
+‘settled rule’ as applying equally to sexual
+concluded by McLachlin J (for L’Heureux-Dubé, Gonthier, McLachlin
+and Binnie JJ) that
+there is no justification in cases of battery of a sexual nature for departing
+from the traditional rule that the plaintiff in a
+battery action must prove
+direct contact, at which point the onus shifts to the defendant to prove
+consent. To do so would be to
+place a burden upon plaintiffs in battery actions
+of a sexual nature which plaintiffs in other battery actions do not bear. I see
+neither the need nor the justification for doing this ... in this
+The Supreme Court of
+Canada therefore rejected the view that a distinct rule should be applied for
+sexual battery as opposed to other
+batteries — that is, that different
+taken in the
+Restatement (Third)
+, which recognises that the onus
+might operate differently in some ‘categories’ of battery, and that
+Leeming JA, who was prepared to accept in
+that the status of
+consent in Australia might differ not just according to the cause of action but
+even within one cause of action,
+depending on the
+Honour left open the possibility that consent to battery
+raise different issues as to the requisite onus of proof compared to consent in
+a medical context.
+Leeming JA accepted that for other causes of action, such as trespass to
+land, Australian precedent supports the conclusion that consent
+is a defence
+that needs to be pleaded by the
+Nonetheless, Leeming JA noted
+that ‘there is no reason for every element of those different torts to be
+the same as an action
+for trespass to the
+We return to this question in Part V.
+What, then, is the law as to the status of consent in claims for trespass to
+land in Australia? In
+, Leeming JA accepted the view of McHugh J in
+Marion’s Case
+that consent is a defence to trespass to
+Relying on the combined authority
+of older English case law and
+Plenty v Dillon
+’), decided in the High Court of Australia, McHugh J
+Marion’s Case
+that a claim of consent is a plea in
+defence that the defendant had the ‘leave and licence’ of the
+plaintiff to
+, Gaudron and McHugh JJ stated that ‘[a] person who enters
+the property of another must justify that entry by showing that he
+or she either
+entered with the consent of the occupier or otherwise had lawful authority to
+Interestingly, however, when discussing consent and trespass to land or goods in
+English law, Goudkamp tentatively concludes that
+since ‘[i]t is not easy
+to ascertain how consent precludes liability ... the dominant position seems to
+be that consent is
+also a denial in trespass to land and to
+That conclusion is
+suspect, however, as he does not consider relevant authorities to the contrary
+but instead merely notes English
+and Australian judicial statements defining the
+tort of trespass to land with inclusive references to the absence of a
+justification.
+There has not been much by way of discussion, as far as we are aware, on the
+status of consent in false imprisonment, and the Court
+Christopherson
+left that specific question open.
+possible to make sui generis arguments that support the onus of proof being
+placed on defendants to prove consent in false
+imprisonment claims. This is
+because many false imprisonment claims are brought against persons in positions
+of actual or apparent
+context, it is often difficult to distinguish circumstances in which a plaintiff
+voluntarily accedes to a
+by a party in a position of power or
+from circumstances in which a
+plaintiff has no choice but to do so.
+Consequently, it can be argued that it would be inappropriate to require a
+plaintiff to prove an absence of consent given the difficulties
+in ascertaining
+precisely what impact perceived coercive powers may have had on the
+plaintiff’s decision. But in making that
+argument, it is important to
+stress it would only apply to false imprisonment claims.
+V Legal Coherence and
+If consent is a defence to some trespass torts (such as trespass to land and
+false imprisonment) but the absence of consent is an
+element of others (such as
+then, self-evidently, we
+cannot examine consent consistently across the board as one or the other.
+Instead, discussions of consent
+— whether judicial, in commentary or in
+teaching materials — would need to be aligned to the context of the claim
+which the issue of consent arises. This is not necessarily a huge problem and
+in fact some texts and casebooks already distinguish,
+if only implicitly, between consent in these
+Moreover, there is
+no obvious reason why different causes of action ought to treat consent
+uniformly or why, even on the same facts, such causes of action
+ought to lead to
+the same outcomes.
+But might the consequences be more significant if consent were to operate
+differently within
+one cause of action
+— battery — depending
+on whether a claim arose, say, in a medical context versus a sporting or sexual
+Consent would then need to be considered as a defence in some battery claims
+and its absence as an element of the tort in others.
+This would obviously
+generate greater complexity in the law and in textbooks but, more importantly,
+also lead to incoherence in the law if the ‘weight or
+importance attributed to’ consent-based reasons, relative to other
+reasons, were to differ simply because those reasons would be accounted for at
+the liability stage or the defences
+It is noteworthy that one reason for the majority decision in
+was legal coherence — that is, that sexual battery cases ought to be
+treated uniformly with other battery
+On this view, classifying consent
+as a defence in all instances is justifiable — notwithstanding potential
+difficulties in
+some instances — on the basis that it facilitates the
+treatment of ‘like with like’ and the development of a clear
+normative framework. However, McLachlin J (for L’Heureux-Dubé,
+Gonthier, McLachlin and Binnie JJ) appears to have based
+her Honour’s
+conclusion on the fact that insufficient reasons have been offered thus far to
+support the differential treatment
+of sexual battery and other
+cases — not necessarily that no such reasons
+Indeed, provided that sufficient
+reasons are provided and fully accounted for, the sui generis treatment of
+consent might be justifiable
+on the basis that it reflects the distinct features
+of consent that arise in different factual contexts and the different normative
+foundations that explain why some interferences are prima facie wrongful whereas
+others are only prima facie wrongful when non-consensual.
+On this view, there is
+no incoherence in treating consent as a defence in some instances and a denial
+in others or in allocating
+the onus of proving consent differently, provided
+that the applicable contributory reasons differ sufficiently between contexts to
+justify that differential treatment. Indeed, in such cases it might be
+to classify consent, or to allocate the onus of proof,
+differently.
+That said, when we look beyond trespass to entirely unrelated torts such as
+defamation, private nuisance and negligence, consent undeniably
+operates as a
+This raises the question of
+whether an inherent use of the term ‘defence’ is to encapsulate
+liability-defeating rules
+that are not cause of action
+specific — that is, rules which have general application and reflect
+broader justificatory concerns. Many ‘defences’
+apply across
+different causes of action, and so it seems intuitive (and less conducive to
+error) to deal with those defences separately
+from, and after consideration of,
+the relevant cause of action, precisely because similar ideas are at play
+irrespective of the cause
+Necessity, for example, is available to justify infringements of many
+different types of rights.
+VI Moral and Policy
+Let us put to one side arguments based on legal precedent and coherence.
+There has not been much debate about whether, for trespass
+claims, the status of
+consent reflects, or ought to reflect, moral determinations about the prima
+facie wrongfulness of particular
+interpersonal interactions and, if so, what
+those determinations might be. Do legal conclusions about whether consent is a
+or a denial, and who bears the burden of proof, reflect underlying moral
+assumptions or values, policy considerations or both? Certainly,
+many criminal
+law scholars take the view that the distinction between offences and defences is
+morally consequential,
+and Goudkamp
+argues that the distinction between a defence (which privileges otherwise
+wrongful conduct) and an element of the cause
+of action is morally significant
+in tort law:
+[T]he suggestion that the distinction [between the elements of torts and
+defences] is not inherently [morally] significant looks
+decidedly implausible.
+Is it really the case that it is not inherently significant whether, for
+example, a sexual battery is defined
+to include the absence of consent or
+whether consent is treated as a defence to liability arising in respect of a
+to Goudkamp, such conclusions could guide defendants in their
+A conclusion that the absence
+of consent is an element of battery may reflect a view that contact in general,
+or contact of a particular
+inherently acceptable, so a plaintiff must prove that it is wrongful because it
+non-consensual. And consent as a defence may reflect a view that contact
+generally, or of a particular type, is inherently wrongful
+unless a defendant
+justifies the contact by establishing consent. In the latter case, a tort is
+prima facie committed, but the defendant
+has the ‘privilege to
+commit’ the
+We will return to Goudkamp’s views on consent, battery and sexual contact
+although we are inclined to think
+that any moral significance flows from the onus of proof and whether a defendant
+has to justify
+their conduct (if, indeed, tort law plays any real
+social-messaging function).
+Certainly, there appears to be an underlying moral dimension to statements
+such as that of McHugh J in
+Marion’s Case
+of the importance of the
+right to bodily integrity.
+with that right is the concomitant protection of a person’s autonomy to
+choose what manner of interference is
+acceptable.
+Consequently, a plaintiff is
+prima facie entitled to compensation for harm caused by bodily contact unless
+that interference is justified
+or explained by a defendant. And in the context
+of sexual battery, specifically, the social problem of unwanted sexual touching
+the value in protecting bodily integrity against any intrusion. On
+that argument, consent is essential for a defendant to justify
+any physical
+interaction that has caused mental or physical harm or mental
+Consent as a defence ensures
+that a plaintiff’s autonomy to avoid contact is given adequate regard by
+the law. It is not a
+logical necessity, however, that protecting a
+person’s autonomy
+that the onus of proving consent rests
+with a defendant. It could also be argued that a plaintiff’s
+autonomy is only compromised by
+non-consensual
+interferences in bodily
+integrity: that is, only where the absence of consent is positively established
+need the law intervene.
+In contrast with tort law, there has been considerable debate among criminal
+scholars as to the moral significance of the distinctions
+between defences and
+elements of crimes generally as well as, more specifically, on the normative
+role of consent in battery and
+These debates show that normative assumptions about sexual conduct and consent
+are contested, although the debates themselves are
+generally conducted within a
+far clearer conceptual framework than exists in tort
+It is also important to bear in
+mind that, in criminal matters, the prosecution generally bears the legal burden
+of proving beyond
+reasonable doubt
+matters critical to the guilt of
+the accused.
+Save in exceptional circumstances, such as proof of
+defendants merely bear, in respect of most defences, an evidentiary
+which requires them to ‘do
+no more than raise a reasonable doubt on the
+The ‘orthodox’ position in criminal law is that sexual conduct is
+not prima facie wrongful and only becomes so where it
+non-consensual.
+In an influential essay, Kenneth Campbell argues that this position reflects the
+salient normative distinction between offences and
+justificatory
+That distinction, he explains, turns on the balance of reasons that go for or
+against acting (the ‘practical conflicts
+According to that thesis, the reason(s) against doing X is/are the same
+reason(s) that make(s) doing X an offence in the first
+A justified defendant does not
+deny that those reasons existed when they did X; rather, they argue that there
+were countervailing
+reasons to do X.
+A punches B in self-defence, for example, she does not deny that there are
+generally good reasons not to punch other people; she
+simply claims that, in the
+circumstances, her reason for punching B outweighed those general reasons not to
+punch people. In contrast,
+Campbell argues that since there is no prima facie
+reason not to engage in sexual conduct, the absence of consent must be an
+of the offence of rape.
+In a subsequent essay, John Gardner supports Campbell’s account and
+goes on to explain:
+Of course, it is possible for people to disagree about whether there is a
+general reason not to have sexual intercourse or a general
+reason not to
+occasion actual bodily harm. That is not denied. Campbell’s only point is
+that if one has such a disagreement,
+one is apt also to disagree about whether
+the issue of consent should be handled under the ‘offence’ or the
+heading. Those who think that, in the law of rape, sexual
+intercourse
+should be regarded as the real offence and consent
+as a defence had best be able to identify a general reason not to have sexual
+intercourse, such that one needs a defeating reason in favour before one should
+engage in it. ... Central to Campbell’s modest
+proposal is the idea that
+cases of justified offending are not cases of innocuous action: the offence is
+still committed and is still,
+offence, unwelcome. Its commission,
+albeit justified, remains
+regrettable.
+challenge of articulating a general reason not to engage in sexual intercourse
+has been taken up by Michelle Madden Dempsey and
+Their views are broadly consistent with some feminist discourse on sex and rape,
+and their arguments are complex and easily misunderstood
+summarised.
+In essence, however, Dempsey and Herring claim that sexual penetration requires
+the application of some force to achieve penetration,
+carries a nontrivial risk
+of physical harm (even if consensual) and often has a negative social meaning
+attached to it.
+Because of those
+physical and social factors, even where justified, sexual penetration is a
+‘prima facie wrongdoing [that]
+leaves a moral residue of
+What is the significance
+of such regret? According to Dempsey and Herring:
+[R]egret generates reason to prefer less wrongful alternatives to securing the
+values that justify the prima facie wrongful conduct.
+This point is easily
+illustrated in the case of prima facie wrongdoing committed in medical
+operations. Surgical cutting into a patient’s
+body is a prima facie wrong,
+but one that may be justified in virtue of reasons generated
+by the value of the patient’s life and well-being. Despite its
+justification, however, cutting into a patient’s body
+is still to be
+regretted. This regret generates reasons for medical personnel to seek less
+wrongful alternatives to securing the
+values sought by the surgery. ... [I]t is
+rationally incumbent upon the surgeon to seek less wrongful alternatives to
+the source of the pain before cutting into the patient’s body.
+... The rational force of regret functions similarly in other
+cases of justified
+prima facie
+wrongdoing.
+and Herring explicitly avoid drawing any conclusions as to what practical
+consequences might follow for the criminal law from
+these moral
+Indeed, they clearly state
+that they do not suggest that ‘mere prima facie wrongdoing is sufficient
+to establish the elements
+of a criminal
+Most importantly, for
+present purposes, they do not indicate how their argument impacts the question
+of which party bears the burden
+of proving either consent or the absence of
+consent. Indeed, as Duarte d’Almeida points out, one’s views as to
+a prima facie reason to refrain from sexual
+intercourse
+’ need not dictate whether consent is a
+defence or its absence an element (of an offence or of a
+In a subsequent article, however,
+Dempsey and Herring briefly and tentatively raise the possibility of moving
+towards consent as
+affirmative
+defence in the criminal law on the
+basis that sexual penetration alone constitutes an
+If the law were to require affirmative consent — that is, if the law
+were to place a duty on ‘the initiator of sexual
+conduct to make sure that
+the plaintiff consents to what would otherwise be tortious
+— then this legal
+position would seem to be supported by placing the onus on a defendant to prove
+consent (though that need
+not logically be
+In a powerful critique of
+the 2017 Preliminary Draft No 4 of the
+Restatement (Third)
+, which also
+speaks to the nature of consent in the criminal law, Martha Chamallas
+convincingly demonstrates that the burden of proof
+should rest with the
+defendant to establish an affirmative defence ‘given that a presumptive
+invasion of [the] plaintiff’s
+interests has
+By placing the burden of proof on plaintiffs to show an absence of consent, she
+argues, that draft was ‘at odds’ with
+a requirement of affirmative
+consent on the part of a plaintiff and seemed ‘to presume
+Restatement
+was to ‘assign the plaintiff the burden of proving her lack of
+consent’ in all
+as it did in earlier drafts,
+would compound ‘the difficulty of incorporating affirmative consent into
+the body of tort law’.
+Perhaps in response to such criticisms, and noting that the position differs
+from state to state, the recently approved final draft
+Restatement
+adopts a neutral position on the burden of proof in cases of sexual
+It is important to note,
+however, that Chamallas does not claim to offer any general reason
+have sexual intercourse. Her argument is essentially formal in nature and
+proceeds on a hypothetical assumption that parliament
+already passed
+affirmative consent laws.
+She does not
+(and need not) defend the claim that,
+, defendants should have to
+justify having sex. Indeed, Chamallas accepts (though not necessarily
+uncritically)
+that the affirmative
+consent movement is being driven by ‘a newer generation of
+feminists’ who are ‘intent on reclaiming
+consent and making it a
+focal point’
+and who are committed
+to the idea that every person has the right ‘to be treated as an active,
+sexual being’.
+perspective, the only circumstance in which sex is to be regretted is when it is
+non-consensual.
+According to the
+practical conflicts thesis, then, sex is not something that calls for
+justification.
+Of course, there are good
+policy reasons why we might want to introduce affirmative consent laws, which
+Chamallas identifies, but
+those reasons do not require us to accept that sex is
+generally to be
+Do those who support the orthodox view in the context of tort law offer any
+reasons in support of their position? As already noted,
+Goudkamp is one of the
+few scholars who considers whether consent is a defence or whether its absence
+is an element of the tort.
+When discussing the criminal law of rape, Goudkamp
+embraces what he terms Campbell’s ‘practical conflicts thesis’
+and thus accepts that criminal law defences ‘specify circumstances in
+prima facie
+reasons against engaging in the behaviour described
+in the offence definition are outweighed by opposing
+He therefore accepts the orthodox view that the absence of consent is an element
+of the offence of rape because ‘[w]ere consent
+a defence to rape, that
+would imply that there is a
+prima facie
+reason to refrain from sexual
+intercourse
+Rightly or wrongly, Goudkamp appears to assume that the criminal law’s
+treatment of non-consent as an element reflects this
+moral view of sexual
+intercourse rather than other criminal law principles, such as the presumption
+of innocence and the need for
+the prosecution to prove an absence of consent in
+the face of evidential uncertainties: that is, reasons of procedural
+Goudkamp is also clearly attracted to the idea that ‘the practical
+conflicts thesis might apply ... to tort law ... given that
+many crimes are
+torts and that the defences that are applicable to many torts are broadly
+similar to the defences that are available
+Consistently with that view, Goudkamp goes on to conclude (albeit only
+tentatively) that the absence of consent is an element of trespass
+conclusion appears to apply equally to all forms of trespass to the person and
+in all contexts (sexual, medical, sporting and
+We agree with Goudkamp that the practical conflicts thesis affords a useful
+basis upon which to determine whether, morally, consent
+ought to be classified
+as a defence or a denial (or whether the plaintiff or the defendant ought to
+bear the onus of proof). However,
+questions of interpersonal morality are
+generally less relevant in tort law than they are in the criminal law. Tort law
+seek to justify the criminalisation of conduct and the consequential
+punishment that follows from a successful
+conviction.
+Rather, tort law is primarily concerned with determining whether a civil remedy
+is justified. When a plaintiff can show that harm
+has flowed from a
+defendant’s contact to their body (and this could include psychological
+harm), the question for tort law
+is typically: should that loss be
+compensated?
+Compensating a plaintiff does not necessarily involve any serious moral
+judgement about the defendant’s behaviour, unlike a
+criminal conviction,
+which is one reason why the civil standard is lower and other evidentiary
+requirements are weaker.
+determining whether a plaintiff should be compensated might turn on some morally
+neutral concern of distributive justice
+or on a pragmatic assessment of which
+party is better able to bear the
+follows that tort law might justifiably require defendants to prove consent when
+the practical conflicts thesis would require
+plaintiffs to prove an absence of
+consent (and vice versa).
+There is also some tension between the practical conflicts thesis and
+Goudkamp’s conclusion that the absence of consent is an
+The criminal law debates that
+we have discussed above are focused primarily on one type of offence (sexual
+assaults) and seek to
+justify the criminalisation of certain conduct and the
+form which that criminalisation takes: that is, what sort of conduct prima
+constitutes an offence.
+commentary engages with the question of whether sexual contact is of itself
+wrongful or whether it merely becomes so when
+non-consensual. These debates are
+not concerned with other criminal offences that focus on other forms of contact
+and are composed
+of different elements. In contrast, battery (in tort) is a
+singular cause of action that encompasses a variety of conduct and might
+constitute any number of different crimes. And consent may have very different
+roles in such offences. Grievous bodily harm (‘GBH’)
+is one such
+absence of consent is not an element of GBH, but acts that constitute GBH would
+also constitute battery.
+Indeed, consent
+is not necessarily decisive in determining criminal responsibility for
+the practical conflicts thesis,
+then we must also be prepared to accept that the classification of consent (as a
+defence or a denial)
+as it applies to battery, and/or the allocation of the
+burden of proof, might differ depending on
+the context.
+One author, Luis E Chiesa, writing on US criminal law, highlights the
+law’s treatment of different types of batteries. Chiesa
+argues that
+consent operates in one of two
+consent may take away an
+element of the
+This is why consented-to
+kisses or sexual intercourse are not criminal: no offence has been committed. In
+such circumstances, no
+harm has occurred at all as consent precludes the
+elements of the offence being made out.
+Chiesa would therefore agree with the orthodox criminal law position, outlined
+above, that sexual contact is not prima facie wrongful
+and therefore generally
+requires no justification.
+In tort law
+terms, Chiesa’s view is consistent with the judgments in
+Christopherson
+and the views that the absence of consent is an element of
+However, in other circumstances, according to Chiesa, consent is not
+determinative of whether an offence has been committed, although
+it may be a
+consideration in determining whether some nontrivial
+bodily contact is nonetheless socially
+acceptable.
+On that basis, a medical
+procedure that involves cutting into a person’s body (which is prima facie
+harmful) may serve a useful
+purpose and is therefore a justified battery if
+consensual.
+Similarly, playing football
+may involve someone consenting to physical contact that is harmful (eg when it
+causes a broken arm).
+Such harmful
+alongside the social acceptability (or perhaps
+utility) of the
+But this does not mean that one
+can consent to serious harm — such as a broken arm —
+circumstances
+For Chiesa, for
+example, one cannot consent to having one’s arm broken as part of a
+sadomasochistic ritual.
+Such contact is
+criminal because it is harmful and socially unacceptable or, in the words of an
+English case, because there is no
+‘discernible social
+Similarly, the consensual piercing of an ear for cosmetic reasons is socially
+acceptable; the consensual piercing of a scrotum for
+sadomasochistic reasons is
+not. Although the physical impact in both cases may be similar, consent is
+relevant in the former to justify
+but not in the latter
+the absence of consent is not an element of the offence; the crime may still be
+committed even where there has been consent.
+Instead, the harmful contact must
+be justifiable in all of the circumstances and consent is merely a factor
+to such justification alongside the social acceptability (or
+utility) of the contact.
+summary of US law is consistent with other common law
+This analysis leads Chiesa to define (criminal) battery as ‘seeking to
+prevent the infliction of non-trivial physical harm in
+circumstances where the
+infliction of such harm is not considered a normal occurrence given current
+societal practices’; that
+is, it is harm pursuant to ‘[s]ocially
+[u]nacceptable [a]ctivities’.
+Chiesa does not discuss how his analysis impacts the onus of proof.
+Again, these arguments do not necessarily equally or directly apply to tort
+law. Even if the criminal law determines that certain
+conduct is socially
+unacceptable for reasons of promoting public good and community values and that
+consent to that conduct is therefore
+no answer to criminal
+it does not follow that a
+plaintiff should be able to sue for damages in the same
+circumstances.
+Indeed, the dominant view
+in tort law is that valid consent is
+a sufficient answer to an
+interpersonal wrong and that policy concerns such as community values are
+irrelevant.
+However, we are not aware of
+any tort law cases where that issue has actually been
+Importantly, however, the debate
+in the criminal law about consent and sexual contact is not relevant to
+batteries that take the
+form of more serious harm (eg contact that would
+constitute GBH in the criminal law).
+Crucially, the distinction that Chiesa draws when discussing the way that
+consent operates is between conduct that does not involve
+bodily harm (eg, in
+his view, sexual intercourse) and contact that is
+(eg surgery);
+for the latter type of contact, the conduct then needs to be justified by
+meeting the requirement of social
+acceptability.
+One way in which this
+distinction could play out in trespass is that the social acceptability (or
+perhaps utility) of the contact
+could translate into a conclusion as to whether
+the conduct is prima facie wrongful (and therefore needing justification by a
+or not (and therefore requiring a plaintiff to show an absence of
+consent for it to be deemed wrongful). Consequently, the onus of
+establish consent might be on a defendant where the contact is prima facie
+unacceptable
+and on the plaintiff to establish that they had
+indeed not consented to the contact where the contact is prima facie socially
+acceptable.
+Such an approach may be consistent with the judgment of Leeming JA
+, who noted the social utility of medical procedures as,
+seemingly, a relevant factor in concluding that the onus should be on plaintiffs
+to establish an absence of consent.
+said, conclusions as to who should bear the persuasive onus are not logically
+dictated by the social acceptability or unacceptability
+of conduct. There is
+still a leeway for choice here.
+such conclusions solve the problem that, undeniably, there exist fundamental
+differences of opinion as to the social acceptability
+or unacceptability of some
+Ultimately, our analysis on social views is speculative; it is unclear which
+social values, if any, are being given weight in conclusions
+on which party
+should bear the onus of proof and on the applicable label that flows from
+that conclusion (ie consent as defence or the absence of consent as an
+element) — or, alternatively, which social values (if any) drive the
+essential characterisation of what is wrongful (eg that
+the absence of consent
+is the very essence of what makes a battery ‘a battery’). Judges and
+commentators for the most
+part simply do not allude to such values. It seems
+likely, however, that assumptions of social fact and morality nonetheless may
+at play here — even if they are often unstated or only partly articulated.
+It would be helpful if there were greater transparency
+in the articulation of
+the moral assumptions (if any) that drive the law’s conclusions or the
+conclusions advocated for by
+commentators. Goudkamp’s attempt to be
+transparent is to be welcomed.
+The point of this discussion is not to take a position as to which of these
+views about sexual conduct, or any other conduct, are
+correct. Rather, the point
+is to highlight that there are competing normative views about what constitutes
+prima facie wrongful conduct.
+These competing views make it difficult to argue
+that the law’s determination of the status of consent is itself based on
+self-evident
+or universal normative truths. Now, in choosing, for example, to
+classify consent as a defence (such as the Canadian position), the
+law might be
+attempting to reflect widely accepted normative views or perhaps even signalling
+a normative position — taking
+sides, as it
+Alternatively, however, legal
+conclusions on the burden of proof may be based on other (eg procedural,
+historical or precedential)
+grounds or even on unstated or intuitive grounds.
+is undeniable is that most legal authorities — old and new, criminal
+private — that support one or the other position on the status of
+consent do so without explicit reference to moral
+justifications.
+VII Conclusions
+This article has considered whether — taxonomically, doctrinally and
+normatively — the defendant or the plaintiff bears,
+or should bear, the
+onus of proving consent or the absence of consent respectively. These questions
+have not received a single answer:
+the law as to consent and where the onus of
+proof lies (or should lie) for battery is not consistently answered across
+Further, in
+some jurisdictions, the allocation of the onus of proof for other trespass
+actions is not necessarily consistent with
+the allocation of the onus of proof
+for battery.
+In Australia, the law
+remains uncertain as to who bears the onus of proving consent in
+The taxonomic classification of consent as a defence or denial and, indeed,
+the precise meanings of those terms are equally uncertain
+as is the related
+question of whether that classification determines or reflects which party bears
+the onus of proving consent (or
+its absence). Some have argued to the
+Indeed, the onus of disproving
+a defence could be on a plaintiff (or the onus of disproving an element might be
+on a defendant).
+However, we are not aware of any judicial decisions or
+commentators that advocate for such a position in relation to consent in
+It appears to be almost universally assumed that, if consent is a
+defence, then the onus is on the defendant and that, conversely,
+if consent is a
+denial of an element, then the onus of disproving consent rests on the
+In short, there appears to be
+an inherent connection between the taxonomic status of consent and the onus of
+proof. That said, it
+is not possible to identify any clear direction of
+reasoning that drives this connection. In other words, it is not clear whether
+the onus of proof determines the taxonomic classification of consent as a
+defence or a denial of an element or whether the classification
+dictates the allocation of the onus of proof. Importantly, irrespective of the
+relationship between the status of consent
+and the onus of proof, other
+value-based concerns may also be relevant to arguments about the allocation of
+onus and the taxonomic
+classification of consent.
+In the light of this uncertainty, we have considered whether legal
+determinations as to which party bears the onus of proof might
+correlate with
+moral views as to whether certain conduct is prima facie desirable, or a social
+it is non-consensual or whether certain conduct is prima
+facie wrongful
+consent has been proven. Certainly, there appears
+to be general agreement among criminal law scholars that questions of
+interpersonal
+morality explain why consent is an element of some offences but a
+defence to others. If the same moral considerations were determinative
+law, then it might be necessary to concede that there is no single answer to the
+questions of who should bear the onus of
+proof in battery (or other forms of
+trespass) and the question of whether consent ought to be classified as a
+defence or a denial.
+This outcome would be contrary to the dominant view in
+although, alternatively, the
+law could allocate the onus differently for different trespass claims or even
+for different battery
+claims (eg for sexual, sporting or medical
+As we have explained, there is
+no necessary incoherence in doing so, provided that there are reasons to support
+differential treatment.
+However, we are ultimately of the view that, while important, moral
+considerations are less useful in determining where the onus of
+proof should lie
+(or how consent should be classified) in tort law than they are in the criminal
+law. Tort law defines battery broadly
+so as to encompass a variety of contacts
+which, in the taxonomy of the criminal law, could constitute anything from
+assault, sexual
+assault, wounding, GBH or even manslaughter and
+This taxonomic distinction might
+be dismissed as little more than a historical accident but there are good
+reasons why contemporary
+tort law might eschew the subdivision of battery into
+what are, in effect if not by name, discrete wrongs that differ in their
+of consent. Despite the common origins of tort and crime, the criminal
+law has been codified in some states and territories and specific
+offences have
+been subjected to extensive legislative
+modification.
+In contrast, tort law
+remains, for the most part, a common law discipline, organised around general
+rules and principles. The opportunity
+to carefully differentiate between
+different forms of battery at a systemic level simply does not arise on a
+case-by-case basis and
+so the assumption is that the same rules will apply in
+all cases in which the same basic definitional elements are satisfied unless
+exceptional treatment is clearly and explicitly justified.
+Further, unlike the criminal law, tort law does not seek to justify the
+criminalisation of specific forms of conduct and the consequential
+that follows from a successful
+conviction.
+It is true that tort law
+serves more than one purpose and that disagreement remains as to what these
+various purposes might be, but
+it seems uncontroversial to state that a core
+function of tort law is shifting loss and that trespass might also perform a
+vindicatory
+Both of these
+functions can be performed without necessarily making any serious moral
+judgements about the defendant’s behaviour.
+Therefore, although questions
+of interpersonal morality are undoubtedly important in tort law, they carry less
+weight than they do
+in the criminal law and must be carefully balanced against
+other considerations.
+What, then, of broader policy considerations? Given the different purposes of
+tort and crime, the nature of potentially relevant policy
+considerations might
+also differ between these disciplines. For example, concerns about the
+boundaries of socially acceptable behaviour,
+which have been determinative in
+some areas of the criminal law,
+likely to be less relevant in tort law than concerns about the social
+of certain conduct and the associated risks of defensive
+professional practices or rising insurance
+Medical procedures, for
+example, are clearly of social value, and this might explain
+Leeming JA’s conclusion that the onus of proving that a medical
+treatment was non-consensual should rest on the plaintiff, including
+circumstances where the plaintiff argues that the consent was vitiated because
+the treatment was non-therapeutic and
+unnecessary.
+On balance, then, it seems to us that the best solution would be for tort law
+to maintain a general rule that defendants bear the
+onus of proving consent in
+all cases of trespass and that, in the interests of clear social messaging,
+consent ought also to be generally
+classified as a defence. This general rule
+would reflect the fact that, in the vast majority of cases, battery involves
+requires justification (according to the practical conflicts
+It would also have the
+coincidental benefit of removing any need to explain why sexual contact is prima
+facie wrongful.
+However, and as is
+always the case, we also accept that there might be some contexts in which
+exceptions to this general rule are
+justified on the basis of countervailing
+moral, normative or policy considerations (such as, perhaps, the social utility
+treatment or sport). The recognition of exceptions poses no challenge
+to the general rule, provided that they are clearly identified
+as such and are
+carefully justified, whether legislatively or judicially.
+* Faculty of Law, Bond University.
+† TC Beirne School of Law, University of Queensland. The authors are
+grateful to the anonymous reviewers for their helpful
+and thoughtful comments.
+Any remaining errors are ours alone.
+See generally Harold Luntz et al,
+Luntz & Hambly’s Torts: Cases, Legislation and Commentary
+(LexisNexis, 9
+ed, 2021) 719 [12.1.1].
+White v Johnston
+[2015] NSWCA 18
+87 NSWLR 779
+, 802–3 [107] (Leeming JA, Barrett JA agreeing at 782 [2])
+’). It is not wholly clear
+where Emmett JA stands on the issue. It may be that his Honour merely agrees
+with Leeming JA that
+the onus is on the plaintiff in cases where fraud is
+alleged, as opposed to being on the plaintiff more generally: see at 785–6
+[18] (Emmett JA), 786 [23] (Leeming JA).
+One exception is James Goudkamp’s
+monograph, although this text primarily examined English law: see generally
+James Goudkamp,
+Tort Law Defences
+(Hart Publishing, 2013). We also
+considered an American article dealing only with sexual battery: see below nn
+–64 and accompanying text. An
+Australian article written around 35 years ago engaged with the question more
+generally and argued
+that the absence of consent was an element of trespass to
+the person: SKN Blay, ‘Onus of Proof of Consent in an Action for
+to the Person’
+(1987) 61(1)
+Australian Law Journal
+With respect, however, many of the arguments in that article were circular. For
+example, the author stated that ‘[t]o
+say that consent is a defence to
+trespass is contradictory in terms because one cannot commit any trespass with
+consent, and more
+importantly, a defence cannot be available for a liability
+which has not been established and does not exist’: at 28 (emphasis
+omitted). Peter W Young’s book,
+The Law of Consent
+, does not engage
+with the issue other than to assert that plaintiffs bear the burden of proving
+an absence of consent: Peter W Young,
+The Law of Consent
+(Law Book, 1986)
+See, eg, Martha Chamallas, ‘The
+Elephant in the Room: Sidestepping the Affirmative Consent Debate in the
+Restatement (Third)
+of Intentional Torts to Persons’
+(2017) 10(2)
+Journal of Tort Law
+At times in the literature, the terms
+‘battery’ and ‘assault’ are used interchangeably, and at
+other times
+the latter term incorporates the former. We use the term
+‘assault’ in the narrow sense of encompassing only threats of
+and ‘battery’ as encompassing actual physical contact. In the
+Australian criminal law, assault is generally used
+to encompass both: see
+Judicial Commission of New South Wales,
+Criminal Trials Courts Bench Book
+rev ed, 2024) 893 [5-5010].
+See, eg, John Gardner and Stephen Shute,
+‘The Wrongness of Rape’ in Jeremy Horder (ed),
+Oxford Essays in
+Jurisprudence: Fourth Series
+(Oxford University Press, 2000) 193; John
+Gardner, ‘The Opposite of Rape’
+(2018) 38(1)
+Oxford Journal of
+Legal Studies
+(‘Opposite of Rape’); Jonathan Herring and
+Michelle Madden Dempsey, ‘Rethinking the Criminal Law’s Response
+Sexual Penetration: On Theory and Context’ in Clare McGlynn and Vanessa E
+Munro (eds),
+Rethinking Rape Law: International and Comparative
+Perspectives
+(Routledge, 2010) 30 (‘Rethinking the Criminal
+Law’). The concept of consent has also been examined at length by contract
+law scholars: see, eg, Margaret Jane Radin, ‘Regulation by Contract,
+Regulation by Machine’ (2004) 160(1)
+Journal of Institutional and
+Theoretical Economics
+142, 144, 153; Debra Satz,
+Why Some Things Should
+Not Be for Sale: The Moral Limits of Markets
+(Oxford University Press, 2010)
+96–7; Brian H Bix, ‘Contracts’ in Franklin G Miller and Alan
+Wertheimer (eds),
+The Ethics of Consent: Theory and Practice
+University Press, 2010) 251, 251–67; Randy E Barnett, ‘Contract Is
+Not Promise: Contract Is Consent’ in
+Gregory Klass, George Letsas and
+Prince Saprai (eds),
+Philosophical Foundations of Contract Law
+University Press, 2014) 42, 43, 48–57; Joseph Raz, ‘Is There a
+Reason To Keep a Promise?’ in Gregory Klass,
+George Letsas and Prince
+Saprai (eds),
+Philosophical Foundations of Contract Law
+University Press, 2014) 58, 58.
+For example, Windeyer J stated that
+‘where the elements on which liability depends are not in dispute and
+evidence relating
+to them is given on both sides, it seems ... that adjudication
+is not likely often to depend upon which side has the onus of proof’:
+McHale v Watson
+[1964] HCA 64
+(1964) 111 CLR 384
+Chamallas (n
+) 309. For an Australian example, see, eg,
+Moon v Whitehead
+[2015] ACTCA 17
+(2015) 10 ACTLR 309
+, 321 [37], 323 [43] (Murrell CJ and
+Burns J, Penfold J agreeing at 323–4 [49]) (‘
+that case, the sexual battery occurred in an apartment with only the plaintiff
+and defendant present: see at 311 [3]
+(Murrell CJ and Burns J).
+Platt v Nutt
+, 243, 246–7 (Clarke JA, Hope JA agreeing at 243)
+’). In that case, there was conflicting evidence as to
+whether the appellant (the
+respondent’s then son-in-law) slammed a glass door into the
+respondent’s hand while she was helping her daughter move
+marital home following a domestic dispute and, if that had occurred, whether the
+appellant did so intentionally: at 233–4
+(Kirby P), 243 (Clarke JA, Hope
+JA agreeing at 243).
+See Goudkamp (n
+) 41–4. Goudkamp suggests that the
+distinction between defences and denials is a morally important one, softly
+rejecting the
+views of commentators who suggest that the difference is not
+morally consequential and serving perhaps only instrumental or efficiency
+See ibid 42;
+) 237 (Kirby P).
+Hanoch Dagan, ‘Legal Realism and
+the Taxonomy of Private Law’ in Charles Rickett and Ross Grantham (eds),
+Structure and Justification in Private Law: Essays for Peter Birks
+Publishing, 2008) 147, 156.
+[1848] EngR 242
+(1848) 11 QB 473
+Christopherson
+Ibid. In the criminal law, for some
+offences that constitute serious batteries such as grievous bodily harm, Lord
+Denman CJ’s
+statement is not a contradiction — consent would not
+preclude criminal responsibility: see below nn
+–7 and accompanying text.
+See, eg, Kit Barker et al,
+of Torts in Australia
+(Oxford University Press, 5
+611; Rick Bigwood,
+Exploitative Contracts
+(Oxford University Press, 2003)
+See Kit Barker, ‘Private Law,
+Analytical Philosophy and the Modern Value of Wesley Newcomb Hohfeld: A
+Centennial Appraisal’
+(2018) 38(3)
+Oxford Journal of Legal Studies
+, 590 (‘Centennial Appraisal’). Alternatively, and from the
+defendant’s perspective, we might say that consent renders
+defendant’s action ‘morally, institutionally, or legally
+permissible
+’: Alan Wertheimer, ‘What Is Consent? And Is It
+Important?’
+(2000) 3(2)
+Buffalo Criminal Law Review
+(emphasis in original).
+The precise object of the
+plaintiff’s consent differs between these contexts — interference
+with a right on the one hand
+and risk of injury on the other: see Barker,
+‘Centennial Appraisal’
+) 590; Bix (n
+) 251; Barker et al (n
+) 611. Legislation in the Australian
+states has modified the first limb of this defence in negligence in the case of
+obvious risks
+by reversing the onus of proof, so the plaintiff must show that
+they were not aware of it: see, eg,
+Civil Liability Act 2002
+Civil Liability Act 2003
+. Even if a risk is objectively obvious, however, the defendant
+must still prove that the plaintiff voluntarily accepted the risk
+remains a subjective question: Barker et al (n
+) 617–18. For this reason, perhaps,
+these provisions do not appear to have made it any easier for defendants to
+establish the
+) 251; Barker, ‘Centennial
+Appraisal’ (n
+) 611. The term
+‘actual consent’ is adopted by the American Law Institute: see
+American Law Institute,
+Restatement (Third) of Torts: Intentional Torts to
+(Tentative Draft No 4, 1 April 2019) §§ 13–15
+Restatement (Third) Draft 4
+’). American Law Institute,
+Restatement (Third) of Torts: Intentional Torts to Persons
+Draft No 6, 26 April 2021) (‘
+Restatement (Third) Draft 6
+was finally approved by the American Law Institute on 16 May 2021, thereby
+completing the project on intentional torts to
+Restatement
+’): American Law Institute, ‘Restatement Third of Torts:
+Intentional Torts to Persons Is Approved’ (Press Release,
+16 May 2021)
+https://www.ali.org/news/articles/restatement-third-torts-intentional-torts-persons-approved
+archived at <
+https://perma.cc/94LT-ARJJ
+) 317 [22] (Murrell CJ and Burns J,
+Penfold J agreeing at 323 [49]).
+For example, the
+Restatement
+attempts to traverse these different dimensions by distinguishing
+between ‘actual consent’ and ‘apparent or presumed
+consent’: see
+Restatement (Third) Draft 4
+) §§ 13–16. Further
+nuanced rules are set out in respect of consent subject to the ‘emergency
+‘consent to sexual conduct’ and ‘medical
+treatment without legally effective consent as battery’: see
+Restatement (Third) Draft 6
+) §§ 17–19.
+For an excellent analysis of the
+relationship between subjective and objective (or performative) explanations of
+consent in the criminal
+law, see Wertheimer (n
+) 89–90 (emphasis altered).
+), it was held that consent should be
+determined by reference to the plaintiff’s actual (ie subjective) state of
+mind and not
+by what a reasonable person would have considered that state of
+mind to be: at 316–17 [20]–[22] (Murrell CJ and Burns
+J, Penfold J
+at 323 [49]). In confirming this position, their Honours squarely rejected
+the relevance of a reasonable mistake of fact approach
+founded on the
+defendant’s perspective. Indeed, the general rejection of mistaken fact
+defences in tort law formed one of the
+primary bases on which their Honours
+concluded that consent is subjective: see at 317 [21]–[22]. This view is
+consistent with
+that of Nikki Godden: see Nikki Godden, ‘Claims in Tort
+for Rape: A Valuable Remedy or Damaging Strategy?’ (2011) 22(2)
+King’s Law Journal
+157, 164–6. We note, however, that some
+courts have questioned this orthodoxy in recent years — at least in the
+of recognising reasonable mistake of fact as justifying self-defence:
+New South Wales v McMaster
+[2015] NSWCA 228
+(2015) 91 NSWLR 666
+[144]–[181] (Beazley P, McColl JA agreeing at 729 [358], Meagher JA
+agreeing at 729 [359]) (‘
+Ashley v Chief
+Constable of Sussex Police
+[2008] UKHL 25
+[2008] 1 AC 962
+, 973–5 [17]–[20]
+(Lord Scott), 984 [53] (Lord Rodger), 989–90 [76] (Lord Carswell),
+992–3 [85]–[88]
+(Lord Neuberger) (‘
+Interestingly, the conclusion in
+) confirmed that the criminal law
+approach to self-defence, as stated by the High Court in
+Zecevic v DPP
+[1987] HCA 26
+(1987) 162 CLR 645
+’), applied equally to
+tortious wrongdoing: see
+) 699 [166]–[168] (Beazley P,
+McColl JA agreeing at 729 [358], Meagher JA agreeing at 729 [359]), citing
+). This was contrary
+to the approach that can be observed in a previous High Court judgment —
+that a mistaken belief is not
+the relevant inquiry in tort law: see, eg,
+Fontin v Katapodis
+[1962] HCA 63
+(1962) 108 CLR 177
+(McTiernan J), 186 (Owen J, Dixon CJ agreeing at 179). However, the
+conclusion in
+) — although incidentally
+consistent with
+— is based on different reasons and in part
+English criminal law which also accepts mistaken belief as justifying the
+defence but holds that such belief
+be reasonable:
+3 All ER 411
+, 415 (Lord Lane CJ for the Court);
+) 967 [3] (Lord Bingham),
+973 [17]–[18] (Lord Scott), 984 [52]–[53] (Lord Rodger),
+989–90 [76] (Lord Carswell),
+992–3 [86]–[87] (Lord Neuberger). In
+), their Lordships declined to follow the
+criminal law on the basis that civil law serves a different function: see at
+[3] (Lord Bingham), 973–4 [18] (Lord Scott), 984 [53] (Lord
+Rodger), 989–90 [76] (Lord Carswell), 993 [87] (Lord Neuberger).
+Scott went on to note, in obiter, that the result was to put the English law of
+self-defence on the same footing as consent,
+in respect of which a mistaken
+belief would suffice, provided that the belief was reasonable: at 974 [19].
+Wertheimer (n
+) 568 (emphasis omitted).
+Ibid 561–2 (emphasis
+For example, recent reforms to
+criminal sexual assault and rape laws, adopting requirements of
+‘affirmative’ consent,
+have not been accompanied by any changes to
+the onus of proof, which remains with the prosecution: Judicial College of
+Bench Book: Criminal Charge Book
+(2025) 739 [19]. See also
+Chamallas (n
+) 282. What affirmative
+consent laws do require, however, is more overtly performative (ie objective)
+acts of consent to have occurred,
+ensuring a greater likelihood of the presence
+of subjective consent: see, eg,
+Crimes Act 1958
+’), as amended by
+Justice Legislation Amendment (Sexual Offences and Other Matters) Act
+. According to s 37A(a) of the
+Vic Crimes Act
+), one of the objectives of the
+reforms is ‘to uphold the fundamental right of every person to make
+decisions about their sexual
+behaviour and to choose whether or not to engage in
+sexual activity’. The absence of a reasonable belief that the victim
+consented continues to be an element of the offences of rape
+and sexual assault, but such a belief is not reasonable if the accused
+‘within a reasonable time before or at the time the act takes place ...
+does not say or do anything to find out whether
+B consents to the act’:
+see at s 36A(2). See also at
+See above nn
+and accompanying text.
+For a brief discussion, see Iain D
+Field, ‘The Problem with Provocation in Trespass’
+(2021) 84(2)
+Modern Law Review
+See Peter Cane,
+Responsibility in
+Law and Morality
+(Hart Publishing, 2002) 89–90 n 83.
+See, eg, Julius Stone, ‘Burden
+of Proof and the Judicial Process: A Commentary on
+Joseph Constantine
+Steamship Ltd v Imperial Smelting Corporation Ltd
+(1944) 60(3)
+Quarterly Review
+, 280; Glanville Williams, ‘The Logic of
+“Exceptions”’
+(1988) 47(2)
+Cambridge Law Journal
+See Luís Duarte
+d’Almeida, ‘Defining “Defences”’ in Andrew Dyson,
+James Goudkamp and Frederick
+Wilmot-Smith (eds),
+Defences in Tort
+Publishing, 2015) 35, 36–43. Luís Duarte d’Almeida cites
+various proponents of an incorporation model, although
+he does not support such
+a model himself: see at 43, 50. Goudkamp categorically refutes the
+incorporationist view as ‘bizarre’:
+Goudkamp (n
+Duarte d’Almeida,
+‘Defining “Defences”’ (n
+) 803 [107]. See also Goudkamp (n
+Duarte d’Almeida states that
+‘a burden-of-proof account of the
+“denials”/“defences” distinction
+may well be on the
+right track’: Duarte d’Almeida, ‘Defining
+“Defences”’ (n
+On that account, differences between denials and defences turn on their
+‘contrasting probatory behaviour’: at 44.
+He cites John CP Goldberg
+and Benjamin C Zipursky in support of a definition ‘that affirmative
+defences are liability-defeating
+grounds which it is the defendant’s
+burden to establish’: at 50, citing John CP Goldberg and Benjamin C
+The Oxford Introductions to US Law: Torts
+(Oxford University
+Press, 2010) 110. See generally Luís Duarte d’Almeida, ‘A
+Proof-Based Account of Legal Exceptions’
+(2013) 33(1)
+Oxford Journal of
+Legal Studies
+The correlation between defences and
+the burden of proof is also reflected in judicial approaches to the
+interpretation of exculpatory
+statutory provisions — that is, provisions
+which express ‘an exculpation, justification, excuse, ground of defeasance
+or exclusion which assumes the existence of the general or primary grounds from
+which the liability or right arises’:
+Vines v Djordjevitch
+[1955] HCA 19
+(1955) 91 CLR 512
+, 519–20 (Dixon CJ,
+McTiernan, Webb, Fullagar and Kitto JJ), citing
+Darling Island Stevedoring
+& Lighterage Co Ltd v Jacobsen
+[1945] HCA 22
+(1945) 70 CLR 635
+Dowling v Bowie
+[1952] HCA 63
+(1952) 86 CLR 136.
+Such provisions are presumed to cast the onus of proof on the
+defendant absent some ‘identified contrary legislative indication’:
+Webster v Lampard
+[1993] HCA 57
+(1993) 177 CLR 598
+, 606 (Mason CJ, Deane and Dawson
+JJ). See also at 620 (McHugh J).
+That is, the legal onus of proof flows
+from the relevant categorisation of the absence of
+consent as an element of the claim and therefore rests on the plaintiff: see
+806–7 [129]–[130]. See also Andrew Burrows, ‘Some Recurring
+Issues in Relation to Limitation of Actions’ in
+Andrew Dyson, James
+Goudkamp and Frederick Wilmot-Smith (eds),
+Defences in Tort
+Publishing, 2015) 311, 314–15.
+For example, albeit admittedly in the
+context of the criminal law, Heydon J has stated:
+The language of ‘defences’
+. The parties persistently,
+though not universally, spoke of the appellant’s ‘defences’.
+However, as Nettle JA recognised
+in his dissenting judgment, this terminology is
+inappropriate. These ‘defences’ were not matters on which the
+as the accused bore any burden of proof, whether legal (ie persuasive)
+or evidential. They were not matters which the appellant as
+the accused was
+required to establish in order to avoid the prosecution’s prima facie
+entitlement to a conviction. Rather,
+they were denials of essential ingredients
+in the prosecution’s case. They were matters on which the prosecution bore
+(ie persuasive) burden of proof beyond reasonable doubt.
+Baiada Poultry Pty Ltd v The Queen
+[2012] HCA 14
+(2012) 246 CLR 92
+(emphasis in original). See also Tony Weir,
+An Introduction to Tort Law
+(Oxford University Press, 2
+ed, 2006) 129; WVH Rogers,
+and Jolowicz on Tort
+(Sweet & Maxwell, 18
+Some influential criminal law scholars
+have also rejected an onus-of-proof account of defences: see, eg, George P
+Rethinking Criminal Law
+(Little, Brown and Company, 1978)
+552–5; John Gardner,
+Offences and Defences: Selected Essays in the
+Philosophy of Criminal Law
+(Oxford University Press, 2007) 142
+Offences and Defences
+’). John Gardner states that
+‘[t]he contrast between offences and defences has little to do with the
+shifting of any burdens,
+and nor should it have’.
+Goudkamp (n
+See ibid 2–7.
+Ibid 4. See also at 130–1.
+Duarte d’Almeida,
+‘Defining “Defences”’ (n
+) 48. See also at 49–52.
+Ibid 50–1. See above nn
+and accompanying text.
+) 314. See also at 315.
+Duarte d’Almeida,
+‘Defining “Defences”’ (n
+D’Orta-Ekenaike v
+Victoria Legal Aid
+[2005] HCA 12
+(2005) 223 CLR 1
+, 23–5 [56]–[63], 30–1
+[84] (Gleeson CJ, Gummow, Hayne and Heydon JJ), 60–1 [181]–[185], 68
+[205] (McHugh
+70–1 [211]–[215] (Kirby J), 112–20 [359]–[381]
+(Callinan J) (‘
+D’Orta-Ekenaike
+Donnellan v
+[2012] NSWCA 433
+(2012) NSW Conv R 56-307
+, 55696 [259], [263] (Basten JA)
+D’Orta-Ekenaike
+), McHugh J stated that although the
+inability to sue advocates for their in-court conduct is ‘traditionally
+described as an
+immunity’, ‘that description is just another name
+for the conclusion that, as a matter of legal policy, advocates do
+duty of care in respect of their conduct in court’: at
+33–4 [95] (emphasis in original).
+D’Orta-Ekenaike
+) 19 [39] (Gleeson CJ, Gummow,
+Hayne and Heydon JJ);
+) 55696 [259]
+(Basten JA), 55698 [276] (Barrett JA). In more recent years, however, the High
+Court has tended to refer to the rule
+simply as an immunity, perhaps to avoid
+any classificatory difficulties: see, eg,
+Attwells v Jackson Lalic Lawyers
+(2016) 259 CLR 1
+, 11–12 [1]–[3] (French CJ, Kiefel,
+Bell, Gageler and Keane JJ), 29 [65]–[66] (Nettle J),
+37–8 [98]–[102] (Gordon J) (‘
+Kendirjian v Lepore
+[2017] HCA 13
+(2017) 259 CLR 275
+, 281 [16] (Gordon J), 281–2
+[17]–[18] (Edelman J, Kiefel CJ agreeing at 278 [1], Bell J agreeing
+at 278 [2], Gageler J agreeing at 278 [3], Keane J agreeing at 278 [4])
+Giannarelli v Wraith
+165 CLR 543
+, 558 (Mason CJ), 574 (Wilson J);
+D’Orta-Ekenaike
+) 17–18 [34]–[36], 30–1
+[84] (Gleeson CJ, Gummow, Hayne and Heydon JJ),
+56 [168] (McHugh J), 117 [374] (Callinan J);
+) 19–21 [30]–[36] (French CJ,
+Kiefel, Bell, Gageler and Keane JJ), 29 [66] (Nettle J), 37–8
+[100]–[101] (Gordon J).
+) 55696 [259]. It is more commonly
+referred to by the High Court as an ‘immunity from suit’: see, eg,
+D’Orta-Ekenaike
+[39] (Gleeson CJ, Gummow, Hayne and Heydon JJ), 33 [93] (McHugh J), 72 [219]
+[13] (Gordon J),
+281 [17] (Edelman J, Kiefel CJ agreeing at 278 [1], Bell J agreeing at 278
+[2], Gageler J agreeing at 278 [3], Keane J agreeing at
+) 11 [1] (French
+CJ, Kiefel, Bell, Gageler and Keane JJ), 29 [65] (Nettle J).
+D’Orta-Ekenaike
+) 20–1 [45] (Gleeson CJ, Gummow,
+Hayne and Heydon JJ);
+) 37–8 [98]–[101] (Gordon
+For the classic pronouncement of
+judicial immunity, see
+Floyd v Barker
+[1572] EngR 142
+(1607) 12 Co Rep 23
+See, eg, Cane (n
+), Basten JA describes the immunity as a
+defence and not a denial: see at 55696 [259]. Other judicial statements and
+commentaries,
+however, classify advocates’ immunity as a ‘no duty
+rule’ and therefore as a denial of liability: see, eg,
+D’Orta-Ekenaike
+33–5 [95]–[97] (McHugh J), quoting
+Brodie v Singleton Shire
+[2001] HCA 29
+(2001) 206 CLR 512
+, 555–6 [93]–[94] (Gaudron, McHugh and
+Gummow JJ). In
+D’Orta-Ekenaike
+), McHugh J indicated that ‘the
+immunity afforded advocates in Australia involves a recognition of the existence
+of obligations
+of due care and skill owed to clients,
+but for policy reasons
+denies a duty of care that gives rise to a cause of action in
+’: at 34 [97] (emphasis added). Leading Australian texts also
+appear to take this ‘no duty’ approach, although they
+perhaps do so
+more as a matter of convenience and convention rather than to satisfy any
+underlying theoretical preference: see, eg,
+Luntz et al (n
+) 165–6 [2.6.20]–[2.6.24];
+Barker et al (n
+) 522–3. See
+also Prue Vines, Peter Handford and Carol Harlow, ‘Duty of Care’ in
+Carolyn Sappideen and Prue Vines
+Fleming’s the Law of Torts
+(Lawbook, 10
+ed, 2011) 151, 158.
+Most immunities have nothing to do
+with the integrity of the judicial process and are therefore presumptively
+substantive in nature:
+see Goudkamp (n
+) 122–6. For example, trade union
+immunities were developed to rebalance labour relations following the rapid
+judicial expansion
+of the economic torts: see at 125.
+Arthur J S Hall & Co v
+[2002] 1 AC 615, 681, 683 (Lord Steyn), 685 (Lord Browne-Wilkinson),
+704, 707 (Lord Hoffmann), 753 (Lord Millett);
+Lai v Chamberlains
+[2006] NZSC 70
+, 44 [80] (Elias CJ for Elias CJ, Gault and Keith JJ), 61 [155] (Tipping
+J), 73 [203] (Thomas J);
+Demarco v Ungaro
+(1979) 95 DLR (3d) 385
+(Krever J);
+Ferri v Ackerman
+[1979] USSC 178
+, 205 (Stevens J for the Court)
+Weaver v Ward
+[1792] EngR 2772
+; (1616) Hob
+Stanley v Powell
+[1890] UKLawRpKQB 153
+[1891] 1 QB 86
+93–4 (Denman J);
+) 387–8 (Windeyer J).
+) 388–9 (Windeyer J).
+Fowler v Lanning
+, 439–40 (Diplock J);
+) 237–40 (Kirby P).
+John G Fleming,
+(Law Book, 7
+ed, 1987) 21, quoted in
+(Kirby P). See also Dagan (n
+155–6. Hanoch Dagan warns against some of the risks consequent upon
+accepting historical categories or rigid taxonomies, rendering
+them immune from
+proper justification.
+For example, Leeming JA does not focus
+on the normative arguments in favour of his Honour’s conclusion in
+) that non-consent is
+an element of battery, but rather his Honour relies on a close analysis of the
+precedent and the significance
+of the legal pleading rules central to the
+determination in
+Christopherson
+) 804–7 [114]–[130]. See above
+and accompanying text.
+See above nn
+and accompanying text.
+See Andrew Dyson, James Goudkamp and
+Frederick Wilmot-Smith, ‘Central Issues in the Law of Tort Defences’
+in Andrew Dyson,
+James Goudkamp and Frederick Wilmot-Smith (eds),
+Defences in
+(Hart Publishing, 2015) 3, 5–7. The authors set out the different
+usages and give examples of authors who define a ‘defence’
+to who bears the onus and other authors who determine a ‘defence’ by
+reference to other grounds, usually unstated,
+and see onus of proof as
+consequential on that determination: see, eg, Weir (n
+) 129; Burrows (n
+) 314–15; Robert Stevens,
+‘Should Contributory Fault Be Analogue or Digital?’ in Andrew Dyson,
+James Goudkamp and
+Frederick Wilmot-Smith (eds),
+Defences in Tort
+Publishing, 2015) 247, 250.
+Collins v Wilcock
+[1984] 1 WLR
+, 1177 (Robert Goff LJ for the Court) (‘
+also at 1178 (Robert Goff LJ for the Court);
+Rixon v Star City Pty Ltd
+[2001] NSWCA 265
+(2001) 53 NSWLR 98
+114 [55] (Sheller JA, Priestley JA agreeing at 100 [1], Heydon JA agreeing at
+115 [61]) (‘
+) 112–14 [50]–[55] (Sheller
+JA, Priestley JA agreeing at 100 [1], Heydon JA agreeing at 115 [61]). Cf
+(Robert Goff LJ for the Court). Presumably, if consent to such contact was
+expressly withdrawn, it could become a
+) 1177–8 (Robert Goff LJ for the
+) 800 [94] (Leeming JA).
+Dean v Phung
+[2012] NSWCA 223
+(2012) Aust Torts
+Reports 82-111
+, 66350 [59] (Basten JA, Beazley JA agreeing at 66339 [1])
+Gorman v McKnight
+, the Court left the
+question open, stating that ‘[v]iews differ’ on the matter: (2020)
+19 ASTLR 181, 194 [73] (Bell P,
+Payne JA agreeing
+at 197 [91], Emmett AJA agreeing at 198 [99]).
+[1992] HCA 15
+(1992) 175 CLR 218
+Marion’s Case
+Ibid 310–11. The other Justices
+did not discuss this matter.
+Ibid 311. In the context of sexual
+trespass, see Anita Bernstein, ‘Rape Is Trespass’
+(2017) 10(2)
+Journal of Tort Law
+, 317, 319–21. Anita Bernstein stresses the
+rights of a ‘self-possessor’ to absolute dominion over her body
+the right to exclude): see especially at 320. Interestingly, however,
+despite Bernstein’s powerful defence of the rights of
+rape victims, she
+does not cavil with the conclusion that the absence of consent is for a
+plaintiff to prove, as expressed in American
+Law Institute,
+Restatement
+(Third) of Torts: Intentional Torts to Persons
+(Preliminary Draft No 4, 6
+March 2017) § 12 cmt (d) (‘
+Preliminary Draft No 4
+) 322–3. The most recent
+draft, however, amends this position: see below nn
+–7 and accompanying
+Marion’s Case
+Ibid 311 (McHugh J).
+Parkinson v St James & Seacroft
+University Hospital NHS Trust
+[2001] EWCA Civ 530
+[2002] QB 266
+, 284 [56].
+) 807 [130]. Cf
+Marion’s Case
+) 806 [125], 807 [130]. See also at
+804–5 [117]–[122] (Leeming JA), discussing
+Christopherson
+) 556 (Lord Denman CJ, Wightman J
+agreeing at 556), 556 (Patteson J,
+Wightman J agreeing at 556), 556 (Coleridge J, Wightman J agreeing at
+) 800–7 [94]–[130], discussing
+Freeman v Home Office [No 2]
+[1984] 1 QB 524
+, 539 (McCowan J) (High
+) 803 [109].
+Ibid 803 [110].
+Christopherson
+) 554. See also at 556 (Lord Denman CJ,
+Wightman J agreeing at 556), 556 (Patteson J, Wightman J agreeing at 556), 556
+J, Wightman J agreeing at 556), discussed in
+) 804 [114]–[118] (Leeming JA).
+Christopherson
+) 554. See also at 556 (Lord Denman CJ,
+Wightman J agreeing at 556), 556 (Patteson J, Wightman J agreeing at 556), 556
+J, Wightman J agreeing at 556), discussed in
+) 804 [114]–[118] (Leeming JA).
+Christopherson
+) 556 (Lord Denman CJ, Wightman J
+agreeing at 556), 556
+(Patteson J, Wightman J agreeing at 556), 556 (Coleridge J, Wightman J
+agreeing at 556);
+[118] (Leeming JA).
+) 807 [130].
+) 66350–1 [64] (Basten JA, Beazley
+JA agreeing at 66339 [1]).
+) 314–15 [14]–[16] (Murrell CJ
+and Burns J, Penfold J agreeing at 323–4 [49]). See also at 309;
+) 779. Cf at 807 [130]
+(Leeming JA).
+) 314–15 [14]–[16] (Murrell CJ
+and Burns J, Penfold J agreeing at 323–4 [49]).
+See ibid 314–16 [14]–[19],
+321 [37] (Murrell CJ and Burns J, Penfold J agreeing at 323–4 [49]).
+See Goudkamp (n
+Christopherson
+) 554, 556 (Lord Denman CJ, Wightman J
+agreeing at 556), 556 (Patteson J, Wightman J agreeing at 556), 556 (Coleridge
+J, Wightman
+J agreeing at 556);
+) 539 (McCowan J) (High Court);
+Bocardo SA v Star Energy UK Onshore Ltd
+[2010] UKSC 35
+[2011] 1 AC 380
+, 391 [6] (Lord
+Hope DPSC, Lord Walker JSC agreeing
+at 404 [46], Lord Brown JSC agreeing at 406 [57], Lord Collins JSC agreeing
+at 418 [94], Lord Clarke JSC agreeing at 422 [116])
+Goudkamp (n
+) 539 (McCowan J) (High Court). See also
+at 543. The matter was not discussed on appeal: Goudkamp (n
+) 65 n 123. Goudkamp
+‘tentatively’ reaches the same conclusion after noting that
+‘it is extremely difficult to discover’
+the correct legal position:
+at 67. See also Jodi Gardner, ‘Rethinking Risk-Taking: The Death of
+(2023) 82(1)
+Cambridge Law Journal
+[2006] EWCA Civ 1085
+[2007] 1 WLR 398
+, 410 [31].
+Restatement (Third) Draft 4
+) § 12 cmt (e) (emphasis in
+original). For the ‘categories of consent’ referred to in this
+excerpt, see above n
+and accompanying
+See, eg, American Law Institute,
+Restatement of Torts
+(1934) § 13 cmt (f); American Law Institute,
+Restatement (Second) of Torts
+(1965) §§ 10 cmt (c), 13 cmt (d);
+Preliminary Draft No 4
+) §§ 1 cmt (f), 5 cmt
+(j), 7 cmt (k).
+See, eg, Chamallas (n
+) 304–6, 309–10. Kenneth W
+Simons and W Jonathan Cardi, the Reporter and Associate Reporter of the
+Restatement (Third)
+, accepted the view that there is no harm where
+a protected interest, placing the burden on the plaintiff to prove a
+lack of consent is a natural application of the general principle’:
+Kenneth W Simons and W Jonathan Cardi, ‘Restating the Intentional Torts to
+Persons: Seeing the Forest and the Trees’
+(2017) 10(2)
+Journal of Tort
+Restatement (Third) Draft 4
+) § 12 cmt (e). Another possible
+explanation is that tort law operates in a secondary capacity to protect
+property rights, which
+are established by an independent legal department, in
+contrast with torts against the person, which instantiate rights reflective
+basic moral values that exist independently of the law: see also Robert Stevens,
+Torts and Rights
+(Oxford University Press, 2007) 2–3, 5–7. By
+treating consent as a defence in respect of interferences with property,
+might be argued, tort law simply accepts that interferences with those
+antecedent rights are prima facie wrong. However, the precise
+circumstances in
+which it is wrong to interfere with a right in property, and, more importantly,
+what elements must be proven to
+establish such a wrong,
+determined by
+tort law. Thus, the mere fact that the underlying right is established by an
+independent body of law does not mean
+that consent to an interference with that
+right could never be classified as a denial or that the plaintiff might bear the
+proving an absence of consent in appropriate circumstances.
+Allan v New Mount Sinai
+(1980) 109 DLR (3d) 634
+, 641 (Linden J). A new trial was ordered on
+appeal on other grounds: see
+Allan v New Mount Sinai Hospital
+DLR (3d) 276
+, 277 (Jessup JA).
+[2000] 1 SCR 551
+[7]–[10], 572–6 [27]–[34] (McLachlin J for
+L’Heureux-Dubé, Gonthier, McLachlin and Binnie
+Ibid 579 [43]. The minority
+concluded that a different rule for sexual battery was warranted: see at 582
+[53], 606–12 [101]–[110]
+(Iacobucci J for Iacobucci, Major and
+Bastarache JJ).
+See above n
+and accompanying text. See also
+) 801–2 [102],
+) 801–2 [102]. Martha Chamallas
+states that having general rules on consent is ‘very tricky’ given
+that different
+for sexual battery claims, a special rule requiring affirmative
+consent and
+shifting the onus to the defendant is required: see Chamallas (n
+) 284, 306–11, 315. Chamallas also
+argues that tort law can and should take a different approach to that adopted by
+the criminal
+law: at 312–13.
+) 805 [123]. This is consistent with the
+position in the United States (‘US’): see above n
+and accompanying text.
+) 805 [123], citing Edward Bullen and
+Stephen Martin Leake,
+Precedents of Pleadings in Personal Actions in the
+Superior Courts of Common Law: With Notes, and an Appendix of Recent Statutes
+General Rules Relating to Pleading
+(Stevens and Sons, 3
+1868) 740. That text supports the different position in relation to land.
+Similarly, Goudkamp accepts that the status of consent
+in relation to one cause
+of action need not ‘necessarily carry over to’ another: Goudkamp (n
+) 67. In other words, consent
+‘need not operate in the same fashion in relation to [the action of
+trespass to land] as it does
+in the context of trespass to the person’. He
+tentatively concluded that, nonetheless, the legal position is the same. Jodi
+Gardner also seems to accept that consent may have a different status across
+different causes of action: see Jodi Gardner (n
+) 805 [123], discussing
+Marion’s Case
+) 311, citing
+Kavanagh v Gudge
+[1844] EngR 249
+(1844) 7 Man & G
+Wood v Manley
+[1839] EngR 1030
+(1839) 11 Ad & El 34
+Plenty v Dillon
+(1991) 171 CLR 635
+, 647 (Gaudron and McHugh JJ)
+’). Similarly, for trespass to goods, consent appears
+to be a defence that needs to be specifically pleaded: see, eg,
+(1810) 2 Campbell’s Reports, Nisi Prius 378;
+[1810] EngR 98
+170 ER 1190
+(Lord Ellenborough). The same position holds for defamation:
+) 805 [123] (Leeming JA);
+Marion’s Case
+(McHugh J).
+Goudkamp (n
+See ibid, citing
+) 391 [6] (Lord Hope DPSC, Lord Walker
+JSC agreeing
+at 404 [46], Lord Brown JSC agreeing at 406 [57], Lord Collins JSC agreeing
+at 418 [94], Lord Clarke JSC agreeing at 422 [116]). In
+that case, Lord Hope
+DPSC held that ‘a trespass [to land] occurs when there is an unjustified
+intrusion by one party upon land
+which is in the possession of another’.
+The problem with Goudkamp’s reliance on this statement is that the
+to ‘unjustified’ cannot be limited to the absence of
+consent, as it could also include, say, statutory authority, and
+it is unlikely
+that Lord Hope DPSC was suggesting that statutory authority would not be a
+defence. The same applies to Barwick CJ’s
+definition of trespass as to be
+‘on the land of another without legal right, invitation or
+permission’:
+Public Transport Commission (NSW) v Perry
+[1977] HCA 32
+, 126, cited in Goudkamp (n
+67. The inclusion of ‘legal right’ makes it unlikely that Barwick CJ
+was suggesting that all arguments as to legal right
+Ironically, such definitions could also be founded on an incorporation model of
+‘defences’ and Goudkamp categorically
+rejects such a model: see at
+5–6; Duarte d’Almeida, ‘Defining “Defences”’
+Christopherson
+) 556 (Lord Denman CJ, Wightman J
+agreeing at 556), 556
+(Patteson J, Wightman J agreeing at 556).
+See Luntz et al (n
+[12.5.1]–[12.5.5].
+Myer Stores Ltd v
+[1991] VicRp 97
+[1991] 2 VR 597
+in relation to the plaintiff’s subsequent
+attendance at a police station: at 620, 623 (McDonald J).
+See, eg, ibid in relation to the
+plaintiff’s interview in the defendant’s store office: at 601
+(Murphy J), 614–15 (O’Bryan J), 627–9 (McDonald J). See
+Symes v Mahon
+[1922] SAStRp 57
+[1922] SASR 447
+, 453–4 (Murray CJ, Murray CJ for
+Gordon J agreeing at 454, Poole J agreeing at 454).
+See above nn
+and accompanying text.
+See, eg, Martin Davies, Ian Malkin
+and Tania Voon,
+Focus Torts
+(LexisNexis, 10
+859–61, 901–6; Rachael Mulheron,
+Principles of Tort Law
+(Cambridge University Press, 2016) 713–20, 951–2.
+See above n
+and accompanying text.
+Andrew Fell, ‘The Concept of
+Coherence in Australian Private Law’
+[2018] MelbULawRw 6
+(2018) 41(3)
+Melbourne University
+, 1200. Various possible meanings may be ascribed to the word
+‘coherence’. However, we agree with Andrew Fell that, in
+this term, ‘the High Court [of Australia] is best understood as requiring
+consistency in the law’s underlying
+normative reasons or
+justifications’ and that ‘this requires consistency in the weight or
+importance attributed to contributory
+reasons relative to each other’.
+The case therefore supports consent
+as a defence (consistently with Canadian medical-practitioner-related battery
+cases): see
+576–7 [35]–[36] (McLachlin J for L’Heureux-Dubé,
+Gonthier, McLachlin and Binnie JJ). For similar reasoning,
+see Simons and Cardi
+) 396. However, Simons and Cardi
+therefore support understanding the absence of consent as an element, even for
+sexual battery, consistently
+with US battery cases generally: cf Chamallas (n
+) 309–10, 315.
+) 576 [36] (McLachlin J for
+L’Heureux-Dubé, Gonthier, McLachlin and
+Binnie JJ).
+See Goudkamp (n
+) 805 [123] (Leeming JA);
+Marion’s Case
+(McHugh J). See also
+Clarey v Principal of the Women’s College
+[1953] HCA 58
+(1953) 90 CLR 170
+(Williams ACJ, Webb, Kitto and Taylor JJ). See also Barker et al (n
+Goudkamp (n
+) 114–15. Applying similar
+reasoning, it has been argued that the illegality principle ought not to be
+characterised as a no-duty
+rule of negligence because it operates from outside
+the relationship of the parties and also, importantly, operates in other areas
+of law and causes of action as well: see Beverley McLachlin, ‘Weaving the
+Law’s Seamless Web: Reflections on the Illegality
+Defence in Tort
+Law’ in Andrew Dyson, James Goudkamp and Frederick Wilmot-Smith (eds),
+Defences in Tort
+(Hart Publishing, 2015) 207, 217–18.
+See, eg, Fletcher (n
+) 554–5; John Gardner,
+and Defences
+) 142. See also
+Goudkamp (n
+) 42–4. Cf Williams
+) 277; Heidi M Hurd,
+‘Justification and Excuse, Wrongdoing and Culpability
+(1999) 74(5)
+Notre Dame Law Review
+Goudkamp (n
+Ibid. The reverse of this argument
+is also possible, namely that the law’s allocation of the burden of proof
+to one or the
+other party sends a normative signal that contact is inherently
+wrongful (or not wrongful). For example, Joanne Conaghan considers
+‘our conception of rape would look very different’ if there operated
+a presumption that sexual intercourse was non-consensual
+unless positive
+evidence of consent was adduced: Joanne Conaghan, ‘The Essence of
+(2019) 39(1)
+Oxford Journal of Legal Studies
+alternative process of argument is to take a normative position and then rely on
+that to justify where the burden of proof
+should lie. Despite the quote above,
+we do not take Goudkamp to be any different: see above n
+and accompanying text. He supports the
+view that there is no prima facie reason to refrain from sexual intercourse
+according to our
+sexual morality: see ibid 43. This normative view supports
+with English law’s conclusion that the
+absence of consent is an element of battery: see at 65, 67. Presumably, this
+Goudkamp would therefore argue that the burden should similarly be on
+plaintiffs in other jurisdictions, such as Canada, rather than
+arguing that, in
+such jurisdictions, sexual contact is prima facie wrongful because the law puts
+the burden on defendants: see above
+–8 and accompanying text.
+See below nn
+–9 and accompanying text.
+Marion’s Case
+), McLachlin J (for
+L’Heureux-Dubé, Gonthier, McLachlin and Binnie JJ) stated that
+‘the law of battery [was] based
+on protecting individuals’ right to
+personal autonomy’:
+at 563 [10]. Her Honour reached the same conclusion as McHugh J as to the
+onus of proof:
+see at 579 [43];
+Marion’s Case
+This contrasts with the
+‘orthodox view’ on sexual contact in the criminal law: see below n
+and accompanying text. To be sure,
+consent may be readily provable in some contexts.
+For a discussion of the general
+debate in the criminal law, see, eg, Goudkamp (n
+) 42–4, discussing Williams (n
+) 277, Kenneth Campbell, ‘Offence
+and Defence’ in IH Dennis (ed),
+Criminal Law and Justice: Essays from
+the WG Hart Workshop: 1986
+(Sweet & Maxwell, 1987) 73, 74, 78–9,
+See Gardner and Shute (n
+) 205. One interesting and important
+question, which is beyond the scope of this article, is whether consent is
+capable of fixing
+the boundaries of what constitutes rape and, if not, how else
+we might approach fixing those boundaries. Gardner and Stephen Shute
+what makes rape wrong — in both criminal and tort law — is that
+‘all sheer use of human beings, all
+treatment of them merely as means, is
+; and rape is the central case of such abuse’ (emphasis in
+original). In a subsequent article, Gardner goes further, saying
+that what makes
+rape wrong at its core — and what distinguishes it from good sex —
+is that it is non-collaborative: see
+generally John Gardner, ‘Opposite of
+). For a discussion of
+the different views as to what it is that makes rape ‘rape’, see
+generally Conaghan
+Lee v The Queen
+[2014] HCA 20
+253 CLR 455
+, 466–7 [32] (French CJ, Crennan, Kiefel, Bell and Keane JJ);
+Criminal Code Act 1995
+(Cth) s 13.1(1) (‘
+Cth Criminal
+Commonwealth v
+Melbourne Harbour Trust Commissioners
+[1922] HCA 31
+(1922) 31 CLR 1
+(Knox CJ, Gavan Duffy and Starke JJ), 17–18 (Isaacs J);
+Williamson v
+[1926] HCA 46
+(1926) 39 CLR 95
+, 113 (Isaacs J);
+Sheldrake v DPP (UK)
+[2004] UKHL 43
+, 289 [1], 312–13 [50] (Lord Bingham, Lord Steyn agreeing at 314
+[55], Lord Phillips MR agreeing at 314 [56]), 323 [79]
+(Lord Carswell);
+Kuczborski v Queensland
+[2014] HCA 46
+(2014) 254 CLR 51
+122–3 [240]–[244] (Crennan, Kiefel, Gageler and Keane JJ). For proof
+of insanity, see
+Woolmington v DPP (UK)
+[1935] AC 462, 481 (Viscount
+Sankey LC, Viscount Sankey LC for Lord Atkin agreeing at 483, Lord Hewart CJ
+agreeing at 483, Lord Tomlin
+agreeing at 483, Lord Wright agreeing at 483)
+Woolmington
+Cth Criminal Code
+) s 13.3(3).
+R v DPP (UK); Ex parte
+[1999] UKHL 43
+[2000] 2 AC 326
+, 379 (Lord Hope).
+See Herring and Dempsey,
+‘Rethinking the Criminal Law’ (n
+) 34, citing John Gardner, ‘Fletcher
+on Offences and Defences’
+(2004) 39(4)
+Tulsa Law Review
+Criminal Responsibility
+(Oxford University Press, 2005) 106.
+Victor Tadros and Gardner are supporters of the orthodox view.
+Campbell (n
+) 77, 82–4. See also Goudkamp (n
+) 43; Duarte d’Almeida,
+‘Defining “Defences”’ (n
+We borrow this label from Goudkamp
+) 43. See also Campbell (n
+) 77, 79, 83.
+See Campbell (n
+See ibid 77, 79, 83.
+See ibid 82–4.
+John Gardner,
+Offences and
+See Michelle Madden Dempsey and
+Jonathan Herring, ‘Why Sexual Penetration Requires Justification’
+(2007) 27(3)
+Oxford Journal of Legal Studies
+See, eg, Andrea Dworkin,
+Intercourse: The Twentieth Anniversary Edition
+(Basic Books, 2007) 154,
+quoted in ibid 474; Catharine A MacKinnon,
+Towards a Feminist Theory of the
+(Harvard University Press, 1989) 149, quoted in ibid 480.
+See Dempsey and Herring,
+For a summary, see Herring and Dempsey, ‘Rethinking the Criminal
+Jonathan Herring and Michelle
+Madden Dempsey argue that consent alone may not suffice to ‘fully justify
+sexual penetration’:
+Herring and Dempsey, ‘Rethinking the Criminal
+) 30. See also at 37; Dempsey and
+Herring, ‘Why’ (n
+Dempsey and Herring,
+See ibid 467, 470–1.
+Ibid 472. ‘[T]he fact that a
+given type of action is prima facie wrongful never establishes a prima facie
+case in favour of
+criminalization’: Herring and Dempsey, ‘Rethinking
+the Criminal Law’ (n
+See Duarte d’Almeida,
+‘Defining “Defences”’ (n
+) 42 (emphasis in original).
+See Herring and Dempsey,
+‘Rethinking the Criminal Law’ (n
+Chamallas (n
+For example, in some jurisdictions
+where affirmative consent has been adopted in the criminal law, the onus stills
+rests with the
+prosecution to prove an absence of consent, although proving the
+absence of affirmative consent is less of a burden than proving
+the absence of
+consent generally: see above n
+also Conaghan (n
+Chamallas (n
+) 309. Chamallas concedes that this
+approach has not been adopted in the criminal law: see at 311–12.
+Affirmative consent has,
+however, been incorporated into university and college
+disciplinary codes: see at 282, 298–9. See generally
+Preliminary Draft
+Chamallas (n
+) 309. Chamallas adds that this ‘is
+reminiscent of consent presumptions in traditional criminal law’. Although
+not expressly
+commenting on other types of batteries, by advocating for a
+distinct rule specific to sexual conduct cases Chamallas implicitly agrees
+Preliminary Draft No 4
+that the onus generally rests on plaintiffs to prove the absence of consent, as
+she advocates for a distinct rule specific to sexual
+conduct cases: see
+Chamallas (n
+) 284. See above n
+Chamallas (n
+See above n
+Chamallas (n
+Restatement (Third) Draft
+) § 18 cmt (l). It must
+be noted, however, that the paucity of civil claims by victims of sexual battery
+against the perpetrators
+(rather, than, say third-party institutions sought to
+be held responsible for such acts) means that there is only limited legal
+on the issue and, even in the US, that there have been very few
+examples of direct tort claims against perpetrators for sexual battery:
+314. The position is similar in the United Kingdom, though Godden nonetheless
+sees advantages in victims pursuing civil
+claims: see Godden (n
+) 157, 167–70. The absence of civil
+claims may be one reason why, unlike in the criminal law context, there has also
+been minimal
+debate in tort law about the underpinning moral dimensions of the
+role of consent in sexual contact. See also Goudkamp (n
+See Chamallas (n
+) 306–7, 309.
+Chamallas does not take a formal
+side on the issue. However, it is possible to discern in her narrative a note of
+regret that the
+views of some feminists, in particular Catharine A MacKinnon,
+have been rejected in favour of ‘what Deborah Turkheimer [sic]
+“the culture of consent”’: see Chamallas (n
+) 282–3, citing Deborah Tuerkheimer,
+‘Rape on and off Campus’
+(2015) 65(1)
+Emory Law Journal
+See also at 3. See generally MacKinnon (n
+Chamallas (n
+To be clear, this is not the view
+of all, or even most, feminist scholars — many favour more nuanced
+accounts of sexual wrongdoing
+that downplay the transformative power of consent:
+see, eg, Herring and Dempsey, ‘Rethinking the Criminal Law’ (n
+) 31–6; Nicola Lacey,
+Unspeakable
+Subjects: Feminist Essays in Legal and Social Theory
+(Hart Publishing, 1998)
+118–21. For an overview of the different views as to the
+‘essence’ of rape, see generally
+See Campbell (n
+In particular, Chamallas identifies
+that affirmative consent laws might bolster ‘sexual freedom and
+autonomy’ by changing
+underlying norms: Chamallas (n
+Goudkamp (n
+) 43 (emphasis in original).
+Ibid (emphasis in original),
+discussing Campbell (n
+). See also
+Simons and Cardi (n
+matter the prevalence of sexual assault, consensual sex is surely the
+norm.’ It is interesting that Goudkamp
+uses the phrase ‘our sexual
+morality’ to mean, presumably, current sexual norms: Goudkamp (n
+) 43. During some periods in the history
+of criminal rape laws, however, sexual intercourse
+marriage would have been considered immoral and non-consensual sex within
+marriage was not rape: see, eg, Sir Matthew
+The History of the Pleas of
+(1736) vol 1, 629. See also Lisa Featherstone,
+(Cambridge Scholars Publishing, 2011) 8–9.
+Goudkamp (n
+) 43. See also Penny Crofts et al,
+Waller & Williams Criminal Law: Text and Cases
+(LexisNexis,
+ed, 2020) 90–2 [2.84]–[2.86];
+Woolmington
+) 481–2 (Viscount Sankey LC,
+Viscount Sankey LC for Lord Atkin agreeing at 483, Lord Hewart CJ agreeing
+at 483, Lord Tomlin agreeing at 483, Lord Wright agreeing at 483).
+Alternatively, the criminal law position might even be the product
+of historical
+gendered prejudices. Let us not forget that until relatively recently in the
+history of the criminal law, consent was
+irrelevant where sexual intercourse
+occurred in marriage: see
+[1991] HCA 48
+(1991) 174 CLR 379
+, 386–90 (Mason
+CJ, Deane and Toohey JJ), 402–3 (Brennan J), 405 (Dawson J).
+Goudkamp (n
+) 44. See also
+), where Leeming JA states that ‘it
+is desirable for there to be a measure of coherence’ between the position
+in the criminal
+law and tort law:
+at 806 [128].
+See Goudkamp (n
+) 65–8. It is not entirely clear
+whether Goudkamp’s conclusion is premised in any way on his acceptance of
+the practical
+conflicts thesis as an explanation of the criminal law or on his
+argument that the same thesis might apply in tort law.
+See Prue Vines,
+‘Introduction’ in Carolyn Sappideen and Prue Vines (eds),
+Fleming’s the Law of Torts
+(Lawbook, 10
+ed, 2011) 3,
+See, eg, ibid 3–4;
+Fairchild v Glenhaven Funeral Services Ltd
+[2002] UKHL 22
+[2003] 1 AC 32
+, 44 [9] (Lord
+Bingham). More recently, it has been argued that tort law also serves an
+important vindicatory function, although the
+precise meaning of vindication and
+the manner in which that function is performed remain controversial: see
+generally Kit Barker,
+‘Private and Public: The Mixed Concept of
+Vindication in Torts and Private Law’ in Stephen GA Pitel, Jason W Neyers
+Erika Chamberlain (eds),
+Tort Law: Challenging Orthodoxy
+Publishing, 2013) 59; Jason NE Varuhas, ‘The Concept of
+“Vindication” in the Law of Torts: Rights, Interests
+(2014) 34(2)
+Oxford Journal of Legal Studies
+) 973–4 [17]–[18] (Lord
+Scott); Kylie Burns et al, ‘Australia: A Land of Plenty (of Legislative
+in Matthew Dyson (ed),
+Comparing Tort and Crime: Learning
+from across and within Legal Systems
+(Cambridge University Press, 2015) 367,
+396, 402–4.
+This is seen, perhaps, in cases of
+vicarious liability. As one text explains, a possible justification for such
+liability is that
+‘damages are taken from a deep pocket’: W Page
+Keeton et al,
+Prosser and Keeton on the Law of Torts
+(West Publishing,
+ed, 1984) 500, quoting T Baty,
+Vicarious Liability: A Short
+History of the Liability of Employers, Principals, Partners, Associations and
+Trade-Union Members with
+a Chapter on the Laws of Scotland and Foreign
+(Clarendon Press, 1916) 154.
+See Goudkamp (n
+See above nn
+–47 and accompanying text.
+The absence of consent is not an
+element of grievous bodily harm: see, eg,
+Criminal Code Act 1899
+sch 1 ss 1 (definition of ‘grievous bodily harm’), 320(1)
+Qld Criminal Code
+’). On the other hand, the absence of
+consent is an element of assault: see at sch 1 s 245.
+See ibid sch 1 ss 1 (definition of
+‘grievous bodily harm’), 320(1). Cf Luntz et al (n
+733 [12.4.1]. See also at 720 [12.1.7].
+See Luis E Chiesa, ‘Consent
+Is Not a Defense to Battery: A Reply to Professor Bergelson’
+(2011) 9(1)
+Ohio State Journal of Criminal Law
+See above nn
+–40 and accompanying text.
+See above nn
+and accompanying text.
+See Chiesa (n
+) 196, 207–8.
+See ibid 204.
+See ibid 207.
+See ibid 207–8.
+See ibid 203–4. Luis E Chiesa
+gives the examples of piercing children’s ears, providing surgery for
+sex-change purposes
+and boxing as being socially acceptable and tattooing
+children, providing surgery to amputate a limb for someone suffering a
+disorder and street fighting as being socially unacceptable.
+See ibid 204.
+[2018] EWCA Crim 560
+, 12 [40] (Lord Burnett CJ for the Court) (‘
+case held that consented-to body modifications nevertheless constituted unlawful
+at 13 [45] (Lord Burnett CJ for the Court). See also
+[1993] UKHL 19
+, which held that sadomasochistic activities were not justifiable: at
+236–7 (Lord Templeman), 245–6
+(Lord Jauncey), 255–6 (Lord Lowry) (‘
+surgeon broke an arm to reset the limb, that would be socially acceptable so
+long as either the patient consented or
+the defence of necessity applied: see at
+266 (Lord Mustill); Goudkamp (n
+See Chiesa (n
+) uses the term ‘social
+benefit’: at 12 [40] (Lord Burnett CJ for the Court). Problematically,
+socially acceptable
+conduct may not have net social utility —
+boxing, perhaps, is an example. This means that it is questionable whether these
+two concepts (ie ‘socially acceptable’ and ‘social
+benefit’) are interchangeable. Nonetheless, it seems clear
+that references
+to social acceptability have a strong correlation with assumed views about the
+utility of conduct and vice versa:
+see Chiesa (n
+See above nn
+–90 and accompanying text. See the
+authorities cited in Kenneth J Arenson, ‘Consent as a Common Law Defence
+to Non-Sexual
+Assaults: The Effect of
+Neal v The Queen
+[2014] UTasLawRw 16
+University of Tasmania
+, 301–2 n 4. See
+also at 300–1. In
+), the England and Wales Court
+of Appeal stated that the requisite justification could not be stated as a
+universally applicable test,
+but that justification was underpinned by the
+considerations of whether (a) the activity conferred a discernible social
+benefit and
+(b) it would simply be regarded as unreasonable for the law to
+criminalise the activity if it was undertaken consensually: at 12
+Burnett CJ for the Court).
+One example is sadomasochistic
+wounding: see
+236–7 (Lord Templeman),
+245–6 (Lord Jauncey), 255–6 (Lord Lowry).
+This assumes that such consent was
+valid, made voluntarily and made with capacity, of course, which might be
+doubted in this example:
+see, eg, ibid 236 (Lord Templeman), 246
+(Lord Jauncey).
+See above nn
+–3 and accompanying text. See also
+) 3–5; Goudkamp (n
+Bain v Altoft
+, 40–1 (Gibbs J, Lucas J agreeing at 42, Douglas J agreeing
+at 43). Where the harm caused by a consensual battery (eg from a mutually
+consensual fight) is minor, it has been held that civil
+damages may not be
+available to the injured plaintiff:
+at 40–2 (Gibbs J, Lucas J agreeing at 42, Douglas J agreeing at 42). In
+that case, however,
+Gibbs J suggested that the same conclusion would not necessarily apply where
+the force used was excessive or involved the use of a
+weapon: see at 41 (Gibbs
+J, Lucas J agreeing at 42,
+Douglas J agreeing at 42).
+See Chiesa (n
+) 196, 205–8. Dempsey and Herring
+agree that medical surgery, as prima facie harmful conduct, may be justified,
+but it is still
+to be regretted as a less desirable choice than less intrusive
+treatments: see above n
+accompanying text.
+) 801–2 [102], quoting
+) 266 (Lord Mustill).
+Of course, it does not follow that
+because the contact is socially useful that we can assume that the plaintiff has
+consented to
+it unless they can show otherwise. Vaccination is an obvious
+See above n
+See above nn
+–8 and accompanying text.
+Some cases have, however,
+explicitly referred to non-moral normative justifications such as rule-of-law
+concerns about the desirability
+of coherent and consistent positions across
+different types of claims: see above Part V.
+See above Part IV.
+See above Part IV.
+See above Part IV.
+See above nn
+and accompanying text.
+Marion’s Case
+) 311 (McHugh J);
+) 806 [125], 807 [130] (Leeming
+Marion’s Case
+) 310–11 (McHugh J);
+) 66350–1 [64] (Basten JA,
+Beazley JA agreeing at 66339 [1]);
+) 317 [22] (Murrell CJ and Burns J,
+Penfold J agreeing at 323 [49]).
+) 801–2 [102], 807 [130] (Leeming
+JA, Barrett JA agreeing at 782 [2]),
+785–6 [18] (Emmett JA).
+Qld Criminal Code
+) sch 1 ss 1 (definition of
+‘grievous bodily harm’), 245,
+300–3, 320(1), 323, 352. Cf Luntz et al (n
+) 733 [12.4.1].
+Cth Criminal Code
+Criminal Code Act 1983
+Qld Criminal Code
+Criminal Code Act 1924
+Criminal Code Act Compilation Act
+Crimes Act 1900
+Criminal Law Consolidation
+Vic Crimes Act
+). See also
+Crofts et al (n
+[2.6]–[2.8].
+See Vines (n
+Ibid. See above nn
+–3 and accompanying text.
+) 236–7 (Lord Templeman),
+245–6 (Lord Jauncey), 255–6 (Lord Lowry).
+See Luntz et al (n
+) 21–2 [1.1.34]; Vines (n
+) 799 [92], 807 [130].
+See above nn
+–8 and accompanying text. This is
+more so because ordinary, socially acceptable contact within daily life does not
+battery: see above nn
+–6 and accompanying text.
+It follows that we are broadly in
+agreement with the approach taken by McLachlin J (for
+L’Heureux-Dubé, Gonthier, McLachlin and Binnie JJ) in
+): at 568–70
+Print (pretty)
+Print (eco-friendly)
+RTF format (357 KB)
+PDF format (349 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

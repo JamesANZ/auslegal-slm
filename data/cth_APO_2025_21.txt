@@ -1,0 +1,2018 @@
+Seqirus Inc. v ModernaTX, Inc. [2025] APO 21 (4 July 2025)
+IP AUSTRALIA
+AUSTRALIAN PATENT
+Seqirus Inc. v ModernaTX, Inc.
+Patent Application: 2017326423
+Title: High purity RNA compositions and methods for preparation
+Patent Applicant: ModernaTX, Inc.
+Opponent: Seqirus Inc.
+Delegate: M. Umehara
+Decision Date: 4 July 2025
+Hearing Date: Written submissions completed on 7 April 2025
+Catchwords:
+– opposition to the grant of a patent under
+s59 – no claims found to lack utility – novelty – citations do
+not disclose all features of the claims – inventive step – it would
+be a matter of routine to arrive at the claimed invention
+– clear enough
+and complete enough disclosure and support – technical contribution to the
+art does not extend to a general
+principle – opportunity to amend –
+costs awarded
+Representation: Patent attorney for the applicant: RnB IP
+Patent attorney for the opponent: FB Rice Pty Ltd
+IP AUSTRALIA
+AUSTRALIAN PATENT OFFICE
+Patent Application: 2017326423
+Title: High purity RNA compositions and methods for preparation
+Patent Applicant: ModernaTX, Inc.
+Date of Decision: 4 July 2025
+The opposition is successful on the grounds of inventive step, clear
+enough and complete enough disclosure and support with regard
+to claims 1-8 and
+11-20 and fails on the grounds of clarity, utility and novelty.
+the applicant two (2) months from the date of this decision to file amendments
+to overcome the deficiencies identified in
+this decision.
+I award costs according to Schedule 8 against the applicant, Moderna TX,
+REASONS FOR DECISION
+patent application no. 2017326423 (the
+opposed application
+) in the name
+of ModernaTX, Inc. (the
+) was filed under the provisions of the
+Patent Cooperation Treaty on 14 September 2017 and claims priority from US
+provisional patent
+application 62/394711 filed on 14 September 2016. While
+nothing turns on this point, a divisional application, 2024200861 claiming
+priority from the opposed application was filed on 9 February 2024 and
+examination has commenced.
+acceptance of the opposed application was advertised on 9 November 2023.
+Seqirus Inc. (the
+) filed a notice of opposition under section
+Patents Act 1990
+) on 9 February 2024. A
+statement of grounds and particulars (
+) was subsequently filed on 9
+May 2024. The SGP identified entitlement, manner of manufacture, novelty,
+inventive step, utility,
+sufficiency, clarity and support as grounds of
+opposition.
+evidence in support (
+) was filed on 9 August 2024, consisting of a
+declaration by Professor Andre Gerber dated 8 August 2024 (
+together with exhibits AG-1 to AG-13 and a declaration by Professor Thomas
+Preiss also dated 8 August 2024 (
+) together with exhibits TP-1 to
+evidence in answer was filed and the matter was set for hearing by written
+submissions. The submissions were completed on 7 April
+opponent’s submissions in support pressed novelty, lack of inventive step,
+lack of clear enough and complete enough
+disclosure, lack of utility and lack of
+Onus and standard of proof
+opposed application was filed after 15 April 2013 and is governed by the Act and
+Patents Regulations 1991
+as amended by the
+Intellectual Property Laws
+Amendment (Raising the Bar) Act
+. Thus, the standard of proof that
+applies in the present case is the balance of probabilities.
+onus rests with the opponent to satisfy me, on a balance of probabilities, that
+a ground of opposition to the grant exists. Under
+subsection 60(3A), if I am
+satisfied, on the balance of probabilities, that a ground of opposition to the
+grant of a patent exists,
+I may refuse the application. I note, however, that,
+under subsection 60(3B), I must not refuse an application without giving the
+applicant a reasonable opportunity to amend the relevant specification to remove
+any grounds of opposition.
+The specification
+specification includes 110 pages of written description, 20 claims as accepted,
+40 figures spanning 51 pages and 32 sequences.
+Before construing the
+specification, I note the comments of Middleton J:
+“It is well settled that the Court should, from the outset, approach
+the task of patent construction with a generous measure
+of common sense. The
+Court must place itself in the position of a person skilled in the relevant art,
+being the subject matter of
+the patent. From this perspective, the patent is to
+be read as a whole, in the context of the specification and in light of the
+prevailing common general knowledge and state of the relevant art at the
+priority date.”
+invention as described
+the heading “Background of the Invention”, it is explained that mRNA
+has immense therapeutic potential by transiently
+expressing any desired protein
+while avoiding the downsides of viral and DNA-based nucleic acid delivery
+approaches.
+However, mammalian
+cells contain sensors of nucleic acids including RNA as part of the innate
+immune system, which need to be avoided
+when developing mRNA
+therapeutics.
+work in the field showed that incorporation of modified nucleosides, in
+particular pseudouridine, reduced innate immune activation
+and increased
+translation of mRNA.
+progress identified double stranded RNA contaminants as being at least partially
+responsible for the innate immune
+activation.
+However, there remains
+a need for better understanding of the nature of contaminations and improved
+methods of preparing mRNA for
+therapeutic
+the heading “Summary of Invention”, the invention is described as
+relating to
+RNA synthesis for producing RNA transcripts having
+enhanced properties resulting in qualitatively and quantitatively superior
+compositions.
+In contrast to
+methods described in the art which attempt to remove contaminants following
+production, the described invention controls
+the nature and levels of
+contaminants produced in the
+-transcription (
+“Without being bound in theory, it is believed that preventing the
+production of unwanted contaminants in the IVT reaction from
+the outset provides
+for improved compositions having higher purity and potency, measurable, for
+example, in terms of increased translation
+from full-length, intact mRNA in the
+composition.”
+“Detailed Description” explains that the IVT methods of the
+invention involve a modification in the relative amounts
+of nucleotides and/or
+nucleotide analogues in the reaction mixture to produce a high yield product
+which is significantly more pure
+than products produced by typical IVT
+The typical IVT
+reaction is described as including the following:
+“an RNA polymerase, e.g., a T7 RNA polymerase at a final concentration
+of, e.g., 1000-12000 U/mL, e.g., 7000 U/mL; the DNA template
+concentration of, e.g., 10-70 nM, e.g., 40 nM; nucleotides (NTPs) at a final
+concentration of e.g., 0.5-10 mM, e.g., 7.5
+mM each; magnesium at a final
+concentration of, e.g., 12-60 mM, e.g., magnesium acetate at 40 mM; a buffer
+such as, e.g., HEPES or
+Tris at a pH of, e.g., 7-8.5, e.g. 40 mM Tris HCl, pH
+to typical IVT methods, the process of the invention involves modifying the
+relative amounts of nucleotides and/or nucleotide
+analogs in the reaction
+For example, one or
+more nucleotides and/or one or more nucleotide analogs may be added in excess to
+the reaction mixture.
+particular, the following is noted:
+“the methods of the invention involve the surprising finding that the
+presence of an excess amount of one or more nucleotides
+and/or nucleotide
+analogs can have significant impact on the end
+nucleoside triphosphate (
+) is in excess when it is it in a
+concentration that is 2-fold to 100-fold, or more, greater than any one or more
+of the other individual
+NTPs in the reaction
+Alternatively, the
+excess of the selected NTP is in a concentration of 0.5 mM to 150 mM, or more,
+greater than the amount of any
+one or more of the other individual NTPs in the
+reaction mixture.
+may also be achieved by including a corresponding nucleoside diphosphate
+) where all NTPs are present in equimolar
+In the broadest sense,
+the NTP in excess may be any one of GTP, ATP, UTP or
+Otherwise, buffers, RNA
+polymerases and DNA templates to be used are typical for IVT
+RNA produced by using a NTP in excess is said to be “surprisingly pure and
+of high integrity.”
+said to have fewer contaminants, including immune-stimulating contaminants, such
+as reverse complement transcription products,
+cytokine-inducing RNA contaminants
+and double-stranded RNA
+contaminants.
+With regard to
+these contaminants, the following comment is provided:
+“Without being bound in theory, it is believed that the removal of
+certain species or contaminants, for example, dsRNA species
+or contaminants, is
+important in the preparation of IVT RNA compositions for therapeutic
+NTPs may include both natural and modified
+The modified NTPs may be
+chemically modified with respect to the natural adenosine (A), guanosine (G),
+uridine (U), thymidine (T)
+or cytidine (C) ribo- or deoxyribnucleosides in one
+or more of their position, pattern, percent or population and can include any
+useful modification, such as to the sugar, the nucleobase, or the
+internucleotide linkage.
+extensive list of modified nucleic acids is
+highly pure RNA compositions may themselves be therapeutic or are used to
+produce polypeptides of
+Therapeutic proteins
+mediate a variety of effects in a host cell or a subject in order to treat a
+disease or ameliorate the signs
+and symptoms of a
+The polypeptides of
+interest may be selected from any of “biologics, antibodies, vaccines,
+therapeutic proteins or peptides,
+cell penetrating peptides, secreted proteins,
+plasma membrane proteins, cytoplasmic or cytoskeletal proteins, intracellular
+bound proteins, nuclear proteins, proteins associated with human
+disease, targeting moieties or those proteins encoded by the human
+which no therapeutic indication has been identified but which nonetheless have
+utility in areas of research and
+discovery.”
+specification concludes with 12 examples. Examples 1-3 describe the methods for
+the manufacture of polynucleotides using prior
+art methods, including methods
+for synthesis of chimeric polynucleotides and standard PCR procedures for the
+production of DNA templates.
+Example 4 describes the optimisation of IVT to
+synthesise short model “RNA-1” and uses specific IVT reaction
+referred to as “
+” nucleotide
+formulations and assesses the induction of immune response associated with each
+product. Examples 5-12 all used
+IVT reaction processes and shows that RNA produced from the
+reaction mixtures had improved purity compared
+three reaction mixtures of Example 4 are as follows:
+model transcript prepared using the
+IVT process had a higher
+IFN-β response than material prepared using the
+process also showed the presence of reverse complements, which was not present
+Similarly, both
+reactions mitigated extraneous
+IFN-B inducing impurity formation, which was enhanced in the
+specification ends with 20 claims. Independent claims 1 and 16 read as
+A method of producing a messenger ribonucleic acid
+(mRNA) that is suitable for administration as a vaccine to a human subject,
+the mRNA comprises an open reading frame encoding a vaccine antigen, the
+method comprising incubating a reaction mixture comprising
+a deoxyribonucleic
+acid (DNA), an RNA polymerase that initiates with a GTP or GDP, a buffer,
+adenosine triphosphate (ATP), cytidine
+triphosphate (CTP), uridine triphosphate
+(UTP), and guanosine triphosphate (GTP), thereby producing the mRNA, wherein:
+(i) the concentration of GTP is greater than the concentration of one or more
+of ATP, CTP, and UTP, and two or more of ATP, CTP, and
+UTP are in equimolar
+concentrations; and/or
+(ii) the reaction further comprises guanosine diphosphate (GDP), the
+concentration of GTP plus GDP is greater than the concentration
+of one or more
+of ATP, CTP, and UTP, and two or more of GTP, ATP, CTP, and UTP are in equimolar
+concentrations.
+A method of producing a messenger ribonucleic acid
+(mRNA) that is suitable for administration as a vaccine to a human subject,
+the mRNA comprises an open reading frame encoding a vaccine antigen, the
+method comprising incubating a reaction mixture comprising
+a deoxyribonucleic
+acid (DNA), a T7 RNA polymerase, a buffer, adenosine triphosphate (ATP),
+cytidine triphosphate (CTP), uridine
+triphosphate (UTP), and guanosine
+triphosphate (GTP), thereby producing the mRNA,
+wherein the concentration of GTP is greater than the concentration of one
+or more of ATP, CTP, and UTP, and two or more of ATP, CTP,
+and UTP are in
+equimolar concentrations,
+wherein the UTP is a modified UTP comprising 2’-O-methylribose,
+pseudouridine (ψ), N1-methylpseudouridine (m1ψ), 2-thiouridine,
+4-thiouridine, 2-thio-1-methyl-1-deaza- pseudouridine,
+2-thio-1-methyl-pseudouridine, 2-thio-5-aza-uridine ,
+2-thio-dihydropseudouridine,
+2-thio-dihydrouridine, 2-thio-pseudouridine,
+4-methoxy-2-thio-pseudouridine, 4-methoxy-pseudouridine,
+4-thio-1-methyl-pseudouridine,
+4-thio-pseudouridine, 5-aza-uridine,
+dihydropseudouridine, or 5-methoxyuridine.
+claims 2-15 and 17-20 further define the components and incubation conditions as
+well as the properties of the produced mRNA.
+The full claim set is reproduced
+at Annex A.
+The person skilled in the art
+is well established that many of the issues in an opposition are answered by
+reference to the person skilled in the art:
+“He is the person to whom the patent is addressed and who must construe
+it. He is the person whose knowledge will determine
+whether a patent is novel.
+He is the person who will judge whether a patent is
+hypothetical skilled person works in the field with which the invention is
+connected and is a non-inventive person or team likely
+to have a practical
+interest in the subject matter of the
+As noted by Nicholas
+ToolGen Incorporated v Fisher (No 2)
+, the notional team for
+considering obviousness may have
+skills than the team required for
+sufficiency.
+opponent has characterised the relevant person as follows:
+“In this case, the person skilled in the art is a person, or more
+likely a team of persons, comprising a PhD qualified molecular
+biochemist or molecular bioscientist with experience in RNA-mediated mechanisms
+and methods of RNA preparation, including
+IVT methods of RNA production. They
+would be likely to have a significant amount of laboratory experience in
+research and be working
+at research hospitals, universities and research
+institutes and/or be employed by medical and pharmaceutical companies with a
+on RNA biology and/or methods of RNA production, including protein
+therapeutics.”
+opponent’s evidence was obtained from independent experts Professor Preiss
+and Professor Gerber. The applicant did not
+provide any evidence in answer.
+However, the applicant submitted that neither Professor Preiss nor Professor
+Gerber have qualifications
+or experiences in relation to mRNA vaccine production
+or formulation at the relevant date and are therefore not relevant persons
+skilled in the
+Professor Preiss is an expert in the field of RNA
+His postdoctoral work
+involved the investigation of the mechanisms of mRNA translation initiation in
+eukaryotes.
+Since then,
+Professor Preiss has continued to study various aspects of gene regulation at
+the RNA level, becoming the Professor
+of RNA Biology at
+Similarly, Professor
+Gerber is a Professor of RNA Biology at University of Surrey, a position held
+since 2012.
+Gerber’s field of interest lies in RNA-protein
+interactions.
+therefore understand the applicant’s concerns to be specific to
+qualifications or experiences directly related to immunology
+and mRNA vaccines
+in the immunology sense. I acknowledge the applicant’s concerns insofar
+as the available evidence being
+relevant to the processes for preparing RNA
+products rather than to the therapeutic efficacy of mRNA vaccines.
+preparation of RNA products by IVT is a standard technique known in the art
+since at least the 1980s.
+nature of the RNA product or the peptide or protein encoded by the produced mRNA
+is not important to the process. As I understand
+the technology, whatever is
+encoded by the template DNA will be transcribed into mRNA during the IVT
+reaction and the host will produce
+the encoded peptide or protein following
+administration of the mRNA so produced. If the DNA template encodes a vaccine
+the product of the IVT reaction will be a mRNA encoding the target
+vaccine antigen.
+neither declarant purport to be immunologists, contaminants triggering
+unintended immune and inflammatory responses was a known
+Professor Gerber stated
+that “Failure to effectively control contaminants was known to result in
+strong rejection reactions
+in patients during final clinical
+application.”
+controlling the contaminants during IVT reactions does not only address
+efficiency but also the safety of the RNA product
+and the declarants are
+familiar with this issue.
+noted by the opponent, the opposed application generally relates to an improved
+IVT reaction.
+The specification
+itself generally relates to the production of pure mRNA where the polypeptide of
+interest may relate to any biologic,
+antibody, vaccine, therapeutic protein or
+I consider that the declarants are well placed to give evidence in relation to
+the opposed application.
+Construction
+correct approach to the construction of claims was discussed by Bennett J in
+H Lundbeck A/S v Alphapharm Pty Ltd
+“the words in a claim should be read through the eyes of the skilled
+addressee in the context in which they appear. ... While
+the claims define the
+monopoly claimed in the words of the patentee’s choosing, the
+specification should be read as a whole
+... It is not permissible to read into a
+claim an additional integer or limitation to vary or qualify the claim by
+reference to the
+body of the specification ... terms in the claim which are
+unclear may be defined or clarified by reference to the body of the
+specification.”
+claims are to be construed in light of the specification as a whole, but the
+plain and unambiguous meaning of a claim cannot be
+varied or qualified by
+reference to the body of the
+specification.
+construction according to which the invention will work is to be preferred to
+one in which it may
+Full Court in
+Airco Fasteners Pty Ltd v Illinois Tool Works
+recently reiterated
+the principle that experts can give evidence on the meaning which those skilled
+in the art would give to technical
+or scientific terms and phrases and on any
+unusual or special meanings that would be given by skilled addressees to words
+which might
+otherwise bear their ordinary
+and the Court is to
+place itself in the position of some person acquainted with the surrounding
+circumstances as to the state of
+the art and manufacture at the
+However, it is for the
+Court, not for any witness however expert, to construe the
+specification.
+approach is taken in matters before the Commissioner.
+method of producing a mRNA that is suitable for administration as a
+independent claims 1 and 16 are directed to methods of producing mRNA that is
+suitable for administration as a vaccine to a human
+subject, wherein the mRNA
+comprises an open reading frame encoding a vaccine antigen. A vaccine antigen
+is defined in the specification
+as “a biological preparation that improves
+immunity to a particular disease or infectious
+The opposed
+application does not purport to have invented new vaccine antigens. Instead,
+the opposed application states that “one
+or more vaccine antigens
+currently being marketed or in development may be encoded by the RNA of the
+invention.”
+applicant stressed that the claimed subject matter is specific to mRNA vaccines
+where a vaccine antigen is encoded by the
+This was contrasted to
+the broader use of the term “vaccines” in the art which may include
+references to the delivery
+of non-antigenic therapeutic polypeptides, such as
+antibodies, which assist in boosting an immune response but do not comprise an
+I agree with the
+applicant and nothing in the opponent’s submissions nor the expert
+evidence suggest non-antigenic polypeptides
+were considered relevant. For
+completeness, I will further add that the mRNA product itself does not elicit an
+immune response and
+it is the antigen expressed therefrom that vaccinates the
+host against the target pathogen.
+applicant further submitted that the requirement for suitability for
+administration as a vaccine means that “methods to
+produce the mRNA must
+result in an mRNA that meets both safety and efficacy requirements as a human
+However, the
+specification does not define any particular safety or efficacy requirements.
+Instead, the specification states as
+“... the methods of the invention arrive at mRNA compositions suitable
+for therapeutic use by controlling the nature and levels
+of contaminants
+produced in the IVT reaction, i.e., the contaminants are not made in the initial
+reaction, as contrasted to art-described
+methods which attempt to remove
+contaminants once they have been produced. Without being bound in theory, it is
+believed that preventing
+the production of unwanted contaminants in the IVT
+reaction from the outset provides for improved compositions having higher purity
+and potency, measurable, for example, in terms of increased translation from
+full-length, intact mRNA in the
+composition.”
+the context of the specification, both declarants associate the levels of
+contaminants with suitability of the product for administration
+Relative to standard
+IVT processes, the modified IVT process simply produces the same mRNA with
+reduced contaminants, thereby negating
+the need for post-synthesis purification.
+There is no ingenuity claimed in relation to any mRNA sequence for encoding a
+vaccine antigen
+in the opposed application.
+NTPs and modified NTPs
+claims refer to NTPs without qualification, natural NTPs and modified NTPs. The
+specification provides the following explanations
+“A nucleoside triphosphate, as used herein, refers to a molecule
+including a nucleobase linked to a ribose (i.e. nucleoside)
+and three phosphates
+(i.e. nucleotide). A nucleotide diphosphate refers to the same molecule, but
+which has two phosphate moieties.
+A nucleotide monophosphate refers to the same
+molecule, but which has one phosphate
+“Natural nucleotide triphosphates include at least adenosine
+triphosphate (ATP), guanosine triphosphate (GTP), cytidine triphosphate
+5-methyluridine triphosphate (m5UTP), and uridine triphosphate
+“The nucleotide analogs useful in the invention are structurally
+simliar [sic] to nucleotides or portions thereof but, for example,
+polymerizable by T7. Nucleotide/nucleoside analogs as used herein (including C,
+T, A, U, G, dC, dT, dA, dU, or dG analogs)
+include for instance, antiviral
+nucleotide analogs, phosphate analogs (soluble or immobilized, hydrolyzable or
+nonhydrolyzable),
+dinucleotide, trinucleotide, tetranucleotide,
+cap analog, or a precursor/substrate for enzymatic capping (vaccinia, or
+ligase), a nucleotide labelled with a functional group
+to facilitate
+ligation/conjugation of cap or 5' moiety (IRES), a nucleotide labelled with a 5'
+PO4 to facilitate ligation of cap
+or 5' moiety, or a nucleotide labelled with a
+functional group/protecting group that can be chemically or enzymatically
+Antiviral nucleotide/nucleoside analogs include but are not limited
+to Ganciclovir, Entecavir, Telbivudine, Vidarabine and
+Cidofovir.”
+person skilled in the art would understand that where “natural” and
+“modified” NTPs are specified, the claimed
+subject matter is
+directed to the specified subgroup. Where it is not specified, the NTPs
+encompass both natural and modified NTPs.
+concentrations
+claims specify relative concentrations of the NTPs in the IVT reaction mixture.
+The following concentrations are defined in the
+(i) the concentration of GTP is greater than the concentration of one or more of
+ATP, CTP, and UTP, and two or more of ATP, CTP,
+and UTP are in equimolar
+concentrations;
+(ii) the concentration of GTP plus GDP is greater than the concentration of one
+or more of ATP, CTP, and UTP, and two or more of
+GTP, ATP, CTP, and UTP are in
+equimolar concentrations.
+noted by the opponent, the IVT reaction mixture may comprise any amount of GTP
+or GTP plus GDP greater than another
+When GTP alone is used,
+the claims require that two or more of ATP, CTP, and UTP are in equimolar
+concentrations. When GTP plus
+GDP are used, the claims require that two or more
+of GTP, ATP, CTP, and UTP are in equimolar concentrations. As long as there are
+two NTPs in equimolar concentrations, they need not be present in lower or
+greater concentrations than any other NTP.
+not explicitly pressed as a specific ground of opposition, the opponent
+submitted that the claims were unclear because “there
+is no clear meaning,
+definition or boundary for what constitutes a concentration ‘greater
+than’ the concentration of
+Professor Preiss
+was specifically asked to comment on this:
+“I was asked what I understand the term ‘greater than’ to
+mean in the context of the above claim. In my view this
+is ANY amount greater
+than another amount. In particular, claim 1 does not limit the concentration of
+the particular NTPs, nor does
+it limit the extent to which the GTP can be
+‘greater than’ another
+Gerber gave a similar
+explanation.
+Consequently, the
+concentration of GTP or GTP plus GDP may be only marginally greater than one or
+more of the other NTPs. Alternatively,
+the concentration of GTP or GTP plus GDP
+may be significantly greater than one or more of the other NTPs. There is no
+lower limit
+for how much the concentration of GTP or GTP plus GDP must be
+“greater” by in the specification. Similarly, there is
+limit. The claims simply require that the concentration of GTP or GTP plus GDP
+is greater than one or more of the other
+Furthermore,
+I note that there is no requirement in the claims that GTP or GTP plus GDP to be
+present in the IVT reaction mixture
+at the highest concentration among all NTPs
+present. The concentration of GTP or GTP plus GDP need only be greater than one
+NTPs. While two or more NTPs must also be equimolar to one another,
+these conditions can be met as long as there is one NTP at a
+lower concentration
+than GTP or GTP plus GDP. This is reflected in the specification, which
+“For instance, an excess of a nucleotide and/or nucleotide analog may
+be a greater amount than the amount of each or at least
+one of the other
+individual NTPs in the reaction mixture or may refer to an amount greater than
+equimolar amounts of the other
+consider that a person skilled in the art would readily be able to determine
+whether any given IVT reaction mixture falls within
+the scope of the present
+claims by comparing the concentrations of each of the NTPs present
+18(1)(c) of the Act requires that the invention, so far as claimed in any claim,
+is useful. The ground of utility was
+considered by the Full Court of the
+Federal Court in
+H Lundbeck A/S v Alphapharm Pty
+, where Emmett J stated:
+“A claim is bad if it covers means that will not produce the desired
+result, even if a skilled person would know which means
+to avoid. That is to
+say, everything that is within the scope of a claim must be useful, otherwise
+the claim will fail for
+inutility.”
+Apotex Pty Ltd v AstraZeneca AB (No 4)
+, Jagot J pointed out that lack of
+utility requires evidence, not just speculation:
+“Ultimately, an asserted lack of utility must be established by
+appropriate evidence, not be mere speculation that the invention
+will not work
+or meet the promise set out in the
+specification.”
+summary of relevant principles was provided by the Full Court of the Federal
+“It is ‘no objection’ to the validity of an innovation
+patent granted under the Act that it is ‘commercially
+impracticable’. The utility of the patent depends upon whether, by
+following the teaching of the specification, the result
+produced...
+The ‘basic principle’ of inutility is that if an invention
+‘does what it is intended by the patentee to do, and
+the end attained is
+itself useful, the invention is a useful invention’... What the invention
+is ‘intended’ to
+do is a matter to be gathered from the ‘title
+and the whole of the specification’.
+Put another way, the two questions are: first, what is the promise of the
+invention derived from the whole of the specification?;
+second, by following the
+teaching of the specification, does the invention, as claimed in the patent,
+attain the result promised
+for it by the patentee?... Further,
+‘everything’ that is within the scope of a claim must be useful,
+that is, attain
+the result promised for the invention by the
+[citations omitted]
+I note Beach J’s observation regarding construction of the
+specification:
+“...the specification (including the claims) must be construed from the
+perspective of a skilled person, but not in a way that
+such a person would
+appreciate would lead to unworkability when by construction it could be given a
+more limited but workable
+completeness, I also note that Section 7A states that an invention is taken to
+not be useful unless a specific, substantial, and
+credible use for the invention
+(so far as claimed) is disclosed in the complete specification. However, this
+requirement is additional
+to the requirement that the claimed invention must
+achieve the promised benefit
+the opponent’s submissions relate only to a failure to achieve the
+promised benefit.
+What is the promise of the invention?
+noted by the opponent, the specification promises methods for
+RNA synthesis wherein the RNA transcripts produced “have enhanced
+properties which result in qualitatively and quantitatively
+compositions”.
+the applicant submitted that utility should be assessed with reference to the
+invention as claimed, I note that the first
+question in
+seeks the promise of the invention derived from the whole of the specification.
+Does the claimed invention attain the result
+opponent pressed that “at least claim 1 lacks utility because, the claim
+encompasses reaction mixtures and reaction conditions
+which will not work or
+indeed, will not produce mRNA suitable for administration as a vaccine to a
+human subject (i.e., with less
+contaminants than the art-described
+To this end,
+the opponent relied on the following quotes from the experts:
+“I note that Example 4 showed that for both the equimolar process and
+alpha process low temperature IVT reactions (< 30°C)
+produce a larger
+abundance of reverse complement RNAs than IVT reactions at
+“...there will be upper and lower limits to all NTP concentrations, and
+the disparity between GTP and the remaining NTPs, beyond
+which the reaction will
+no longer be efficient in producing (full-length) transcripts. The upper limit
+of NTPs will also be driven
+by the solubility of NTPs in
+“...there will be NTP concentrations that fulfil the criteria of the
+NTP concentrations of the claims but will be outside the
+useful range for
+efficient IVT and consequently could result in a higher proportion of
+immunogenic
+contaminants.”
+“...I would not expect to achieve the same result (i.e., less than 1%
+of the total mass of RNA in the reaction mixture is a
+reverse complement
+transcription product) with any concentration of GTP that is at a concentration
+greater than the concentration
+of one or more of ATP, CTP and UTP, wherein two
+or more of ATP, CTP and UTP are in equimolar amounts. One can envisage NTP
+concentrations
+that fulfil these criteria but will be outside the useful range
+for efficient IVT and could result in higher proportions of immunogenic
+contaminants.”
+statements by the two experts relate to their comments in relation to the
+examples of the opposed application. The examples of
+the opposed application
+showed only that the
+outperformed the
+starting mixture. Consequently, the experts are unable to
+extrapolate these results across the claimed scope without any certitude.
+note that the concerns are couched in possible outcomes, such as “could
+result in”, rather than absolute terms. There
+is no evidence as to any
+particular embodiment properly within the scope of the claims that does not
+person skilled in the art would understand the invention to operate within
+generally accepted limits of IVT reactions. While failure
+may be achieved by
+intentionally operating outside known limits, the promise of the opposed
+application does not extend beyond known
+limits of IVT reaction conditions. It
+follows that I consider this a case as alluded to by Beach J in
+where a skilled person would construe the claims in a manner that does not give
+rise to unworkability.
+Conclusion on utility
+opponent has raised doubts and concerns in relation to the likely outcomes of
+the claimed IVT process. However, the opponent
+has only provided mere
+speculation rather than any evidence to show that the claims include within
+their scope any particular embodiment
+that would not be useful or would not
+achieve at least some aspect of the benefits promised in the specification.
+Consequently,
+this ground of opposition
+is a requirement of subsection 18(1) of the Act that the invention, so far as
+claimed in any claim, is novel. Subsection 7(1)
+provides that an invention is
+taken to be novel unless it is not novel in light of the prior art base. Prior
+art information made
+publicly available in a document or through the doing of an
+act forms part of the prior art base for the purpose of novelty if it
+published before the priority date of a claim.
+is well established that the general test for lack of novelty is the reverse
+infringement test, as set out by Aickin J in
+Meyers Taylor Pty Ltd v Vicarr
+Industries Ltd
+“The basic test for anticipation or want of novelty is the same as that
+for infringement and generally one can properly ask
+oneself whether the alleged
+anticipation would, if the patent were valid, constitute an
+infringement.”
+test is satisfied if the alleged anticipation discloses all the essential
+features of the invention as
+The level of
+disclosure required is set out in
+General Tire & Rubber Co v Firestone
+Tyre and Rubber Co Ltd
+“If the prior inventor’s publication contains a clear description
+of, or clear instructions to do or make, something that
+would infringe the
+patentee’s claim if carried out after the grant of the patentee’s
+patent, the patentee’s claim
+will have been shown to lack the necessary
+novelty, that is to say, it will have been anticipated. ...if carrying out the
+contained in the prior inventor’s publication will inevitably
+result in something being made or done which, if the patentee’s
+were valid, would constitute an infringement of the patentee’s claim, this
+circumstance demonstrates that the patentee’s
+claim has in fact been
+anticipated.
+If, on the other hand, the prior publication contains a direction which is
+capable of being carried out in a manner which would infringe
+patentee’s claim, but would be at least as likely to be carried out in a
+way which would not do so, the patentee’s
+claim will not have been
+anticipated, although it may fail on the ground of obviousness. To anticipate
+the patentee’s claim
+the prior publication must contain clear and
+unmistakable directions to do what the patentee claims to have invented. A
+however clear, upon the road to the patentee’s invention will
+not suffice. The prior inventor must be clearly shown to have
+planted his flag
+at the precise destination before the patentee.”
+(citations omitted)
+requirement for clear and unmistakable directions in the prior publications from
+General Tire
+is well known.
+General Tire
+also states that if
+carrying out the directions in the prior art leads inevitably to doing something
+within the scope of the claim
+, then there will be a lack of
+novelty. This inevitable consequence of carrying out the directions in the
+prior art was considered
+Novozymes v
+with Jessop J
+providing the following guidance (with Yates J and Greenwood J
+concurring):
+“In my view, the
+General Tire
+approach, if taken at all, may be
+taken only with respect to the whole of any claim asserted to have been
+anticipated. The ‘precise
+destination’ at which the flag must have
+been planted is one which includes every integer of the claim. The approach
+in my view, be taken for some integers only, leaving others to be dealt
+with by reference to the understanding of the skilled
+addressee.”
+recently, the Full Court considered where the prior art discloses the invention
+in hypothetical manner without concrete confirmation
+of the results and
+emphasised as follows:
+“We do not accept that a documentary disclosure containing an
+hypothesis cannot be an anticipatory disclosure that deprives
+an invention of
+novelty. In such a case the question, simply put, remains: what does the prior
+document disclose? The occasion
+on which, or the context in which, a particular
+documentary disclosure is made may well inform the interpretation of the
+content. But if, as a matter of interpretation, the document
+nonetheless discloses that which is later claimed as an invention,
+disclosure will anticipate the invention and deprive it of
+that in mind, I will now look at the disclosures of the prior art. The Opponent
+pressed that claims 1-3, 5-8 and 11-13 are not
+novel in light of D2, D4 or
+Triana-Alonso
+: “Self-coded 3’-Extension
+of Run-off Transcripts Produces Aberrant Products during
+Transcription with T7 RNA Polymerase”,
+Journal of Biological
+, 1995, vol. 270, iss. 11, pp. 6298-6307
+.: “Suppression of RNA Recognition by
+Toll-like Receptors: The Impact of Nucleoside Modification and the Evolutionary
+, 2005, vol. 235, no. 2, pp. 165-175
+WO 2011/005799 A2 (NOVARTIS AG) 13 January 2011
+Gerber was asked to consider each of these documents and provide general
+comments as well as whether he thought that the
+claimed invention was new given
+the disclosures of these
+Professor Preiss was
+asked a similar task for eight documents, including D2, D4 and
+in light of D2
+opponent pressed that claims 1, 2, 5-8 and 11-13 lack novelty in light of D2.
+According to Professor Preiss, “D2 generally
+discusses synthesis of
+incorrect products during RNA transcription with T7 RNA polymerase as a result
+of run-off transcription.”
+Professor Preiss goes on to note that D2 identifies the following parameters
+that influence the extent of false transcription: incubation
+polymerase concentration; and UTP
+concentration.
+Professor Gerber
+took particular interest in the last parameter:
+“In summary, the key finding of D2 was that the number of false
+products formed during IVT depends on NTP concentration. That
+is, if all NTPs
+are used in the same concentration then the transcript will be extended and
+false products will be produced. However,
+if the concentration of UTP was
+lowered, then the production of false products is
+the abstract of D2 concludes with the following:
+“Surprisingly, a reduction of the UTP concentration to 0.2-1.0 mM in
+the presence of 3.5-4.0 mM of the other NTPs leads to faithful
+transcription and
+good yields, irrespective of the nucleotide composition of the
+person skilled in the art may expect the modified IVT process of D2 to result in
+faithful transcription of whatever DNA template
+used. Neither expert suggested
+that D2 discloses a method for producing mRNA comprising an open reading frame
+encoding a vaccine
+antigen and is suitable for administration as a vaccine.
+to the applicant, the use of
+P labelled mRNA “cuts against
+the requirement in the present claims that the mRNA must be suitable for
+administration as a vaccine
+The applicant
+went on to submit that “given the increased risk of cell death and
+mutation resulting from radiation exposure”,
+therapeutics and vaccines do
+not typically contain radioactive
+However, I note that
+neither expert had any concerns with using
+P labelled mRNA as a
+model for studying the transcription fate.
+Irrespective
+of whether D2 included studies using
+P labelled mRNA, in the
+absence of any disclosure of producing mRNA comprising an open reading frame
+encoding a vaccine antigen D2
+cannot be said to anticipate the present claims.
+All claims are novel in light of D2.
+Novelty in light of
+opponent pressed that claims 1-3, 5-7 and 11-13 lack novelty in light of D4.
+According to Professor Preiss, D4 generally describes
+the effects of
+incorporating modified nucleosides into RNA on toll-like receptor (TLR)
+signalling and on dendritic cell
+activation.
+describes materials and methods used to produce mRNA by IVT, including the use
+of DNA templates and T7 RNA
+polymerase.
+Professor Gerber
+noted that the methods of D4 describe the following RNA transcripts with
+functional coding regions: RNA-1866 (NdeI-linearized
+pTEVluc) which encodes
+firefly luciferase and a 50 nt-long polyA-tail; RNA-1571 (SspI-linearized
+pSVren) which encodes Renilla luciferase;
+RNA-730 (HindIII-linearized
+pT7T3D-MART-1) which encodes the human melanoma antigen; RNA-713
+(EcoRI-linearized pT7T3D-MART-1) which
+corresponds to antisense sequence of
+MART-1; and RNA-497 (BglII-linearized pCMV-hTLR3) which encodes a partial
+5’ fragment
+applicant submitted that “While there is some disclosure in D4 of an mRNA
+produced using T7 RNA polymerase and encoding
+MART-1, this is not in the context
+of vaccination.”
+that the claims of the opposed application are directed to methods of producing
+mRNA that is suitable for administration as
+a vaccine and comprises an open
+reading frame encoding a vaccine antigen, there is no need for D4 to have
+disclosed a vaccination
+protocol using the mRNA. The question is whether the
+mRNA encoding for MART-1 produced by the method of D4 would be suitable for
+administration as a vaccine. While D4 does not mention vaccinations, as noted
+by the applicant, MART-1 is an antigen that can be
+recognised by the immune
+system and is used as a cancer vaccine.
+Preiss was specifically asked to consider whether the methods disclosed in D4
+would potentially produce a viable mRNA vaccine
+and responded that “if the
+template was switched to a template encoding an mRNA vaccine candidate, the
+conditions used in D4
+could have produced an mRNA that was functional as a
+prototype mRNA vaccine.”
+From this, I understand that Professor Preiss does not consider RNA-730 encoding
+the human melanoma antigen to be a vaccine antigen
+and/or that it would not be
+suitable for administration to a human subject as a vaccine. The evidence of
+Professor Gerber is also
+silent with respect to any of the model mRNA of D4
+being suitable as a vaccine antigen.
+as repeatedly stressed by the applicant, neither declarant is an expert in the
+field of vaccines. It is therefore unsurprising
+that they did not recognise a
+potential antigen of interest.
+Professor Preiss stated that each IVT reaction in D4 used equimolar
+concentrations of all four
+nucleotides.
+Upon comparing
+the claimed invention with D4, Professor Preiss reasoned that the concentration
+of GTP was greater in instances where
+one or more of the other natural NTPs were
+substituted with a modified
+equivalent.
+As D4 disclosed
+substituting one natural NTP at a time, as well as GTP being present in greater
+concentration than the natural NTP
+with modified substitution, there were also
+two other NTPs in equimolar amounts. Professor Gerber made a similar
+observation for
+explained in the construction section above, where the claims do not specify
+“natural” or “modified” NTPs,
+they encompass both
+natural and modified NTPs. Therefore, I understand the claims to be defining
+the relative concentrations of
+the sums of both natural and modified NTPs. This
+is consistent with the examples of the opposed application and the initial
+of D4 given by Professor Preiss before being asked to compare the
+disclosures of D4 specifically to the claims. Moreover, D4 explicitly
+that “In each transcription reaction, all four nucleotides or their
+derivatives were present in equimolar (7.5 mM)
+concentration.”
+given my construction of the claims, D4 does not disclose an IVT process where
+GTP, or GTP plus GDP, is in greater concentration
+than one or more of ATP, CTP
+and UTP where the molar concentration is calculated on the sum of natural and
+modified NTPs. All claims
+are novel in light of D4.
+in light of D5
+opponent pressed that claims 1-3 and 11-13 lack novelty in light of D5.
+According to Professor Gerber, “D5 describes the
+synthesis and
+transfection of self-replicating RNAs using cell based assays and their
+immunogenicity in
+In particular,
+attention is drawn to example 9, where self-replicating RNA vaccines were
+produced through IVT with modified
+nucleosides.
+Similar to D4,
+the example uses equimolar NTPs, where difference in concentrations between
+natural NTPs occur only when a portion
+of one NTP is substituted for a modified
+the experts draw direct analogy to the claimed features, they do not suggest
+that self-replicating RNAs fall within the scope
+of mRNAs. Even if
+self-replicating RNA was equated to mRNA, D5 discloses the use of equimolar NTPs
+in the IVT reactions. Therefore,
+the claims are novel in light of
+Conclusion on novelty
+of the prior art documents provide clear and unmistakable directions to the
+claimed invention. The opponent has not made out
+this ground of opposition.
+Inventive step
+7(2) states that an invention is taken to involve an inventive step unless it
+would have been obvious to a person skilled
+in the art in light of the common
+general knowledge (whether in or out of the patent area) before the priority
+date of the relevant
+claim when considered alone or together with the
+information mentioned in subsection 7(3).
+J provided a statement of principles relevant to assessing inventive
+“Section 7(2) of the Act uses the word ‘obvious’ in the
+course of describing what must be established before an
+invention can be held
+not involve an inventive step. Something may be ‘obvious’ in light
+of the common general knowledge,
+or the common general knowledge coupled with
+the relevant s 7(3) information, if it is ‘plain or open to the eye or
+mind, something
+which is perfectly evident to the person thinking on the
+subject’ or something which ‘would at once occur to anyone
+with the subject and desirous of accomplishing the
+An invention may also be obvious in light of the common general knowledge if
+the person skilled in the art faced with the same problem
+as the inventor would
+have taken as a matter of routine whatever steps might have led from the prior
+art to the invention, whether
+they be the steps of the inventor or not or (using
+the language of the ‘modified Cripps question’) if the person
+in the art would be directly led as a matter of course to take such
+steps in the expectation that doing so might well produce a useful
+alternative to the prior art. However, a claimed invention is not obvious
+merely because the person skilled in the art
+would consider that it was
+‘worthwhile to
+is important to note the requirement for a reasonable expectation of success.
+This is explicit in the expectation that an approach
+“might well”
+succeed, and implicit in the characterisation of steps as those to be taken as a
+matter of routine.
+success need not be guaranteed: “the relevant test is not knowing that
+steps will or would or even may well work,
+but merely expecting that the steps
+may well work.”
+Further, it is possible that the skilled person might be directly led to try
+more than one alternative expecting that each may well
+produce a useful or
+Importantly,
+where a claim is directed to a combination of known integers obviousness is not
+established merely by identifying each
+of those features in the prior art or the
+common general knowledge – the question is whether the combination of
+those features
+is obvious.
+In a similar vein, the High Court said that the question of whether it would be
+obvious to add one integer to a combination of other
+“...will turn on what a person skilled in the relevant art, possessed
+with that person’s knowledge would have regarded,
+at the time, as
+technically possible in terms of mechanics, and also as practical. ... Even if
+an idea of combining integers, which
+individually may be considered mere design
+choices, is simple, its simplicity does not necessarily make it
+general knowledge
+general knowledge is the background knowledge and experience available to all
+those working in the relevant art:
+“The notion of common general knowledge itself involves the use of that
+which is known or used by those in the relevant trade.
+It forms the background
+knowledge and experience which is available to all in the trade in considering
+the making of new products,
+or the making of improvements in old, and it must be
+treated as being used by an individual as a general body of
+knowledge.”
+it is not enough that information is recorded in a document, even if that
+document is widely circulated. It is only part
+of the common general knowledge
+when it is generally known and accepted in the art:
+“...information does not constitute common general knowledge merely
+because it might be found, for example, in a journal, even
+if widely read by
+persons in the art ... Reference in this regard is made to the words of Luxmoore
+British Acoustic Films
+(1936) 53 RPC 221
+at 250, cited by Lehane J
+Aktiebolaget Hässle v Alphapharm Pty Ltd
+(1999) 44 IPR 593
+[1999] FCA 628
+In my judgment it is not sufficient to prove common general knowledge that
+a particular disclosure is made in an article, or series
+of articles, in a
+scientific journal, no matter how wide the circulation of that journal may be,
+in the absence of any evidence that
+the disclosure is accepted generally by
+those who are engaged in the art to which the disclosure relates. A piece of
+knowledge as disclosed in a scientific paper does not become common
+general knowledge merely because it is widely read, and still
+less because it is
+widely circulated. Such a piece of knowledge only becomes general knowledge
+when it is generally known and accepted
+without question by the bulk of those
+who are engaged in the particular art; in other words, when it becomes part of
+their common
+stock of knowledge relating to the
+opponent provided a summary of matters that were common general knowledge before
+the priority date, as explained by Professor
+Gerber and Professor
+“(i) Methods of synthesising mRNA encoding a protein of interest,
+including use of IVT.
+(ii) Key properties of a functional mRNA, including therapeutic mRNA, such as
+coding sequence and humanised codon choice, optimised
+untranslated region (UTR)
+sequences, cap structures, polyadenylation and internal nucleoside
+modifications.
+(iii) Components of IVT reactions and the role of each component, including a
+DNA template, an RNA polymerase, nucleotide triphosphates
+(i.e., ATP, GTP, UTP,
+GTP), reagents for capping such as a capping dinucleotide (if performing
+co-transcriptional capping), modified
+nucleotides if used, an RNase inhibitor, a
+buffer, a reducing agent, and optionally a bulking agent. A number of
+commercial IVT
+kits were available before the claimed priority date, such as
+MEGAscript™ and RiboMAX™, included standard reagents and
+troubleshooting manuals.
+(iv) Effect of IVT reaction conditions on the resultant mRNA transcript that
+could cause issues with the mRNA produced, including
+therapeutic use, such as
+generation of double-stranded RNA, generation of degradation products,
+incomplete capping and incomplete
+transcription.
+(v) Effect of excess and/or unincorporated nucleotides in IVT reactions on RNA
+produced, including purity, yield and quality, and
+persistence in a mRNA IVT
+product, which can potentially activate the neuroinflammatory mechanisms in the
+central nervous system.
+(vi) Methods of optimising IVT reaction conditions to control the nature, or
+amount, of unwanted contaminants, include [sic] optimising
+triphosphate concentrations and ratios, and enzyme concentrations.
+(vii) Advantages of using modified nucleotides (e.g., pseudouridine (Ψ),
+2-thiouridine, 5-methylcytidine, etc.) in IVT reaction
+mixtures titrated with
+the corresponding natural nucleotide to achieve improved yield and purity, and
+to reduce immune recognition
+and stimulation.
+(viii) Importance of reducing immune system stimulation when producing mRNA
+therapeutics, including vaccines, such as those caused
+by contaminants,
+including double-stranded
+applicant was in agreement with the above, except for (viii) including reference
+to vaccines.
+The applicant
+stressed that neither declarant was specifically qualified to give evidence in
+relation to mRNA vaccines.
+However, I note that the applicant did not provide any contradictory evidence.
+any event, the opposed application itself makes apparent that various vaccine
+antigens were already well known in the art. It
+is suggested that vaccine
+antigens currently being marketed or in development may be
+personalised cancer vaccines,
+a long list of infectious diseases that RNA vaccines may treat, such as
+hepatitis, measles, influenza, cholera, rabies, amoebiasis,
+rubella, mumps and
+polio, is given as suitable treatment
+noted by the opponent,
+problem to be solved according to the opposed application is:
+“a need for better understanding of the nature of contaminants in
+IVT-generated mRNA preparations, in order to better control
+for levels and
+nature of contaminants in IVT preparations. There further exists a need for
+improved methods of preparing mRNA for
+therapeutic use and for high purity
+compositions produced according to such
+claimed invention is directed at the mRNA vaccine subset of the broader field of
+RNA production. That is, the problem addressed
+by the opposed application does
+not reside in providing a new vaccine antigen or even a new mRNA vaccine. The
+problem lies simply
+in providing improved IVT methods for preparing RNA.
+Inventive step in light of common general knowledge
+understand the broad strokes of the opponent’s case on obviousness in
+light of the common general knowledge alone to be along
+the lines of RNA
+synthesis through IVT being well known and the production of mRNA vaccines
+through such methods being a mere choice
+Of particular
+relevance to the present claims, Professor Gerber summarised the process of
+carrying out IVT reactions using commercially
+available kits:
+“At 14 September 2016, these kits, and others, were commonly used for
+IVT with linearised DNA templates derived from plasmids
+or upon annealing of
+single stranded DNA (ssDNA) synthetic fragments (30-60 nucleotides) bearing a
+minimal T7 promotor sequence.
+Following incubation, DNAse I digest is performed
+in the same reaction buffer and then EDTA is added to stop the reaction and
+Following the IVT reaction, RNA precipitation and/or purification is
+typically undertaken using an RNA isolation kit to ensure contaminants
+removed that could induce inflammatory responses when used
+The mRNA produced using IVT normally comprises of 5’ UTRs, 3’
+UTRs, the coding sequence, 3’ polyA tail and 5’
+cap. Typically, the
+3’ polyA tail and 5’ cap components can be added either
+co-transcriptionally or
+post-transcriptionally.”
+evidence convincingly establishes that those in the field knew, as a matter of
+common general knowledge, that IVT methods could
+be used to produce RNA
+products. The evidence also establishes that IVT reaction conditions, such as
+excess and/or unincorporated
+NTPs, can impact on the on the resultant mRNA
+transcript that could cause issues with the mRNA produced. For example,
+of double-stranded RNA, generation of degradation products,
+incomplete capping and incomplete transcription could potentially activate
+inflammatory mechanisms and cause issues in therapeutic use.
+the present case, although IVT methods were known and it was also known that
+many factors could affect the resulting product, there
+is nothing to suggest
+that the modified method itself was common general knowledge. Irrespective of
+the RNA product being encoded,
+the opponent has not established that the claims
+lack inventive step in light of the common general knowledge alone.
+Common general knowledge plus D2
+opponent submitted that a person skilled in the art looking for an IVT method to
+produce mRNA suitable for use as a vaccine would
+follow the IVT method of D2:
+“In particular, it is clear that the person skilled in the art,
+desirous of controlling for levels and the nature of contaminants
+preparations to thereby produce high purity mRNA, ) [sic] would have been
+directly led, if not driven, as a matter of course
+to follow the IVT method
+taught in D2 and reduce the concentration of UTP in the IVT reaction mixture
+relative to the remaining NTPs
+(i.e., GTP, ATP and CTP), to arrive at the method
+of claim 1 and with a reasonable expectation of successfully producing a high
+mRNA suitable for therapeutic
+applicant was concerned by the lack of disclosure of mRNA suitable for
+administration as a vaccine to a human and the presence
+radioactive label in the model experiments as teaching away from such a
+However, both Professor
+Gerber and Professor Preiss answered positively to the hypothetical task of
+using the technique of D2 to
+produce mRNA encoding a vaccine antigen for
+therapeutic use.
+weight of the evidence, I am confident that a person skilled in the art would
+not share the same concerns as the applicant.
+an IVT method is described as using an excess of GTP or a reduction of UTP, they
+both fulfil the requirement of GTP concentration
+being greater than one or more
+of the other NTPs (UTP) and two or more NTPs (ATP and CTP) being in equimolar
+concentrations. The
+only difference is in the product to be encoded by the
+mRNA, which is determined by the DNA template used in the IVT process.
+to the expert evidence, replacing one template with another known
+template does not require further invention.
+regard to the presence of
+P radioactive label in the model
+experiments in D2, it was simply used for visualisation of the mRNA products,
+not for any therapeutic
+In a similar
+fashion, the opposed application also used
+P radioactive label in
+Example 11 to determine the sample purity of model RNA
+constructs.
+present claims are directed to methods of producing mRNA by IVT where the
+reaction mixture has been modified to reduce the production
+of contaminants. As
+noted by the opponent, D2 teaches that the preferential reduction of UTP
+concentration relative to the other
+NTPs “leads to faithful transcription
+and good yields, irrespective of the nucleotide composition of the
+context, I am satisfied that the expert evidence supports a conclusion that
+simply encoding a known vaccine antigen in place
+of the model peptides of D2
+does not require further invention.
+claims 1-8 and 11-20 of the opposed application lack inventive step in light of
+D2. Features of the IVT process, such
+as the use of modified NTPs, choice of
+polymerase and reaction temperature, are routinely chosen by the person skilled
+depending on the nature of the desired product and components used in
+the reaction mixture. There are well defined reaction conditions
+and components
+known in the
+9 and 10 of the opposed application are inventive over common general knowledge
+plus D2 as this document teaches maintaining
+GTP, CTP and ATP in equimolar
+concentrations.
+Common general knowledge plus
+opponent submitted that a person skilled in the art looking for an IVT method to
+produce mRNA suitable for use as a vaccine would
+have been directly led, if not
+driven, to follow the IVT method of
+Similar to D2, at least
+Professor Preiss also hypothesised that switching the template with one encoding
+for a mRNA vaccine antigen
+candidate would produce a prototype mRNA
+noted by the applicant, D4 discloses an IVT process using modified UTPs to
+produce mRNA including an embodiment encoding MART-1,
+which is a peptide
+suitable for use as a therapeutic cancer
+The document itself
+is silent with respect to the potential use of MART-1 as a cancer vaccine and
+neither professor picked up on
+this antigen.
+of the nature of the template, the IVT process employs equimolar amounts of GTP,
+CTP, ATP and UTP. The concentration of
+the natural NTPs may vary from
+experiment to experiment as modified NTPs replace portions of their natural
+cousins. However, the
+combination of the natural and modified NTP is equivalent
+to the other NTPs. Consequently, D4 does not teach an IVT method where
+concentration of GTP or GTP plus GDP is greater than another NTP and where two
+or more NTPs are present in equimolar amounts.
+it has not been established that claims 1-20 of the opposed application lack
+inventive step in view of common general knowledge
+Common general knowledge plus D5
+to the opponent, a person skilled in the art looking for an IVT method to
+produce mRNA suitable for use as a vaccine would
+have been directly led, if not
+driven, to follow the IVT method of D5 as
+However, whilst
+Professor Preiss could identify some features of the invention disclosed in D5,
+he does not suggest that the method
+of D5 could be used to produce mRNA
+Professor Gerber
+was put to a similar task and responded:
+“I was also asked whether I would expect the methods of D5 to work for
+an mRNA comprising an antigen for therapeutic use (i.e.,
+vaccine). Overall, I
+consider that the methods look promising when looking to produce IVT mRNA for
+use in vaccines and therapeutic
+IVT process of D5 may provide a good starting point for producing mRNA vaccines.
+However, as with D4, the IVT process of D5 employs
+equimolar amounts of GTP,
+CTP, ATP and UTP where variations in concentrations can only be found where a
+modified NTP is subtracted
+from the total.
+it has not been established that claims 1-20 of the opposed application lack
+inventive step in view of common general knowledge
+Conclusion on inventive step
+opponent has not established that the claims lack inventive step in light of the
+common general knowledge alone or in combination
+with D4 or D5.
+evidence does however establish that claims 1-8 and 11-20 lack inventive step in
+light of common general knowledge plus D2. The
+opposition is successful on this
+Clear enough and complete enough disclosure and
+40, as amended by the
+Raising the Bar Act
+, relevantly requires that the
+complete specification disclose the invention in a manner that is clear enough
+and complete enough
+for the invention to be performed by a person skilled in the
+relevant art (section 40(2)(a)) and that the claim or claims be supported
+matter disclosed in the specification (section 40(3)). Such enablement must be
+across the whole breadth of the claims, without
+undue burden or the need for
+further invention and the claim scope must not exceed the applicant’s
+contribution to the art.
+Delegates of the Commissioner have adopted the
+following stepped approach to assessing whether there is a clear enough and
+enough disclosure:
+a) Construe the claims to determine the scope of the invention as
+b) Construe the description to determine what it discloses to the person
+skilled in the art; and
+c) Decide whether the specification provides an enabling disclosure of all
+the things that fall within the scope of the
+it plausible that the invention can be worked across the full scope of the
+the invention be performed across the full scope of the claims without undue
+principles have been confirmed by the Federal
+Similarly, the
+requirement of support was discussed by Burley J:
+CSR Building Products Ltd v United States Gypsum Company
+[2015] APO 72
+, Dr S D Barker adopted the summary provided by Aldous J in
+Schering Biotech
+at 252 – 253, which has been often followed in the
+United Kingdom (emphasis added):
+...to decide whether the claims are supported by the description it is
+necessary to ascertain what is the invention which is specified
+in the claims
+and then compare that with the invention which has been described in the
+specification. Thereafter the court’s
+task is to decide whether the
+invention in the claims is supported by the description. I do not believe that
+the mere mention in
+the specification of features appearing in the claim will
+necessarily be a sufficient support. The word ‘support’ means
+than that and requires the description to be the base which can fairly entitle
+the patentee to a monopoly of the width claimed.
+That approach encapsulates broadly the claim support obligation under s
+40(3). To it may be added the requirement that the technical
+contribution to
+the art must be ascertained. Where it is a product, it is that which must be
+supported in the sense that the technical
+contribution to the art disclosed by
+the specification must justify the breath of the monopoly
+opponent also points to the matter
+the Full Court applied principles entirely consistent with those above and also
+considered the concept of a relevant range
+for the purpose of assessing
+enablement across the scope of the claims. There it was noted that whether a
+range is a relevant range
+“...judged against the invention as claimed and, where appropriate,
+against its essence or core where that is understood to
+be related to the
+technical contribution the specification makes to the art and/or its inventive
+Full Federal Court considered issues of support and sufficiency and
+“In many cases these obligations may tend to be the same since they are
+describing the same relationship although viewed from
+the differing perspectives
+of the claims and the specification. As Burley J has observed in
+Merck Sharp
+& Dohme Corporation v Wyeth LLC (No 3)
+[2020] FCA 1477
+Merck Sharp
+’) at [543], they may often be viewed as two
+sides of the same
+submissions
+opponent submitted that claim 1 is overly broad and encompasses any amount of
+GTP or GTP plus GDP that is greater than that of
+It is their view that
+“Claim 1 of the Opposed Application encompasses ranges and combinations of
+nucleotide concentrations
+that would not successfully produce an mRNA product
+that would be suitable for administration as a
+Claims 8 and
+9 introduce ratio values but remain broader than the exemplified embodiment but
+claim 10 is recognised as reflecting
+the ratios of NTPs used in the exemplified
+embodiment.
+Claims 14 and 15
+introduce further functional limitations directed to the desired outcomes of the
+mRNA transcript produced by the
+methos of the
+explained by Professor Gerber and Professor Preiss, the claimed invention
+encompasses any amount of GTP or GTP plus GDP greater
+than the amount of another
+For example, Professor
+Preiss explained:
+“There will be upper and lower limits to all NTP concentrations, and
+the disparity between GTP and the remaining NTPs, beyond
+which the reaction will
+no longer be efficient in producing (full-length)
+transcripts.”
+Gerber also explained:
+“In addition, the error rate of RNA polymerase may pose a problem
+depending on the concentration of NTPs in the reaction. In
+particular, if the
+NTP concentration is too low, it may lead to aberrant transcripts, whilst if the
+NTP concentration is too high
+it may lead to aberrant transcripts and
+inefficient
+transcription.”
+opponent submitted that although the specification references a wide range of
+NTP concentrations and ratios for the modified IVT
+reactions, there is no
+guidance on how to make appropriate selections to successfully produce a mRNA
+that is suitable for administration
+as a vaccine to a subject across the very
+broad scope of the claims.
+Throughout the specification, only 3 reaction mixtures are provided: the
+(1:1:1:1 ratio of GTP:ATP:CTP:UTP),
+(4:2:1:1 ratio
+of GTP:ATP:CTP:UTP) and
+(4:2:2:1:1 ratio of
+GDP:GTP:ATP:CTP:UTP)
+In comparison to
+reaction, the
+processes demonstrated increased RNA integrity and purity, and reduced reverse
+complements, double stranded and run-on
+transcripts.
+opponent describes the applicant’s technical contribution to the art as
+“to exemplify a reaction mixture comprising a 4:2:1:1 ratio of
+GTP:ATP:CTP:UTP or 2:2:1:1 ratio of GTP:ATP:CTP:UTP when GDP
+opponent submitted that the breadth of the subject matter claimed is
+“nothing more than mere speculation derived from the
+two exemplified
+reaction mixtures provided in the Opposed
+Application.”
+Furthermore, the experts also noted additional differences between the
+“However, I note that there are additional difference between the
+equimolar process and the alpha process (see page 95, Table
+1). For example,
+the alpha process comprises more polymerase (i.e., 14 U/μl) than the
+equimolar process (i.e., 7 U/μl).
+The alpha process also comprises more
+phosphate (i.e., effective phosphate 180 or 195, for the alpha or alpha GDP
+processes respectively)
+than the equimolar process (i.e., effective phosphate
+90). Accordingly, I cannot attribute any improvements conferred by the alpha
+process solely to the different concentrations of
+opponent submitted that there is therefore “an absence of teaching in the
+opposed application as to how an appropriate reaction
+mixture is obtained in
+order to achieve a mRNA product with enhanced properties suitable for
+administration to a subject as a
+limited range of conditions and reaction mixtures shown to produce any mRNA
+product, the opponent submitted that it “places
+a significant undue burden
+on the skilled person seeking to successfully work the invention to ascertain
+which incubation times and
+reaction temperatures achieve a mRNA having enhanced
+properties that is suitable for administration as a vaccine to a human
+submissions
+applicant submitted that the “breadth of claim scope cannot automatically
+be equated with undue experimental effort”
+and the specification must be
+considered as a whole in the context of the common general knowledge in the art
+at the relevant time.
+applicant does not consider Professor Gerber and Professor Preiss to be relevant
+persons skilled in the art and submitted that
+their evidence in relation to the
+specification should be
+it was submitted that the examples in the opposed application provided a proof
+of concept showing B cell activation in an
+animal model following the
+administration of mRNA encoding human erythropoietin prepared by the
+further submitted that “This proof of concept is irrefutable and together
+with the other examples taught in the opposed
+application, would be understood
+by the skilled person as evidence of the ability to produce an mRNA that is
+suitable for administration
+as a vaccine to a human subject, wherein the mRNA
+encodes a vaccine antigen, using the claimed
+regard to the breadth of the reaction conditions in the claims, on the
+understanding that the person skilled in the art is motivated
+to make the
+claimed invention work, the applicant submitted that “it is clearly well
+established precedent that method claims
+do not require prescriptive recitation
+of every possible parameter such as the concentration of reaction constituents,
+temperatures,
+dosing regimes,
+Consideration
+the outset, I will stress that the applicant did not provide any evidence. All
+submissions made by the applicant lack any evidentiary
+backing, unless relevant
+reference could be drawn from the evidence given by Professor Gerber or
+Professor Preiss. Although, the
+applicant held a strong view that both
+declarants lacked relevant skills and experiences to be giving evidence in
+relation to mRNA
+vaccines, in recognition of their qualifications and
+experiences in RNA biology as a whole, the opponent’s expert evidence
+be preferred where the applicant’s submissions stray into technical
+specification of the opposed application relates generally to mRNA production
+and there is no specific disclosure directed at
+the production of mRNA vaccines.
+The specification treats all mRNA products equally and does not single out mRNA
+vaccines as requiring
+any process that would differ from the others. The
+opposed application simply suggests that “one or more vaccine antigens
+currently being marketed or in development may be encoded by the RNA of the
+present invention.”
+Furthermore, both declarants, who are experts in RNA synthesis through IVT, have
+not identified any difficulties with preparing
+mRNA encoding vaccine antigens
+relative to any other peptide sequence. Instead, both declarants attribute the
+lower levels of contaminants
+achieved through the modified IVT process with
+suitability of the product for administration as a
+than the use of model sequences which do not encode vaccine antigens, the
+reactions of the opposed application fall
+within the scope of the claimed IVT method where the concentration of GTP or GTP
+is greater than one or more NTPs and two or more of ATP, CTP and UTP
+are in equimolar concentrations. Both experts agree that the
+IVT process produces an improved mRNA
+However, both
+experts also agree that the modified IVT reactions would not work across the
+full breadth of the claimed scope to
+produce mRNA suitable for administration as
+“There will be upper and lower limits to all NTP concentrations, and
+the disparity between GTP and the remaining NTPs, beyond
+which the reaction will
+no longer be efficient in producing (full-length) transcripts. The upper limit
+of NTPs will also be driven
+by the solubility of the NTPs in
+“For example, with some concentrations the IVT reaction would possibly
+be less efficient and produce contaminants (e.g., no
+longer produce mRNA
+suitable for administration as a vaccine). In addition, the error rate of RNA
+polymerase may pose a problem
+depending on the concentration of NTPs in the
+reaction. In particular, if the NTP concentration is too low, it may lead to
+transcripts, whilst if the NTP concentration is too high it may lead to
+aberrant transcripts and inefficient
+transcription.”
+some parameters, such as NTP concentrations in the IVT reaction mixture, may
+require some attention on the part of the
+person skilled in the art. Based on
+the evidence at hand, it is apparent that the art of IVT has certain bounds
+within which a person
+skilled in the art would operate. That is, a person
+skilled in the art can anticipate the consequences of altering some reaction
+parameters and how to modify the reaction to suit their needs. For example, the
+opposed application shows that low temperature IVT
+reactions (< 30 °C)
+produce a larger abundance of reverse complement RNAs than IVT reactions at 37
+The overall
+concentrations of NTPs, choice of RNA polymerases, reaction temperature and
+incubation duration are routinely adjusted
+and a person skilled in the art would
+expect to work through some fine tuning.
+opposed application provides a “typical” IVT reaction as including:
+an RNA polymerase at a final concentration of
+1000-12000 U/mL; the DNA template
+at a final concentration of 10-70 nM; NTPs at a final concentration of 0.5-10 mM
+each; magnesium
+at a final concentration of 12-60 mM; a buffer at a pH of
+specification broadly describes IVT reaction mixtures where any given NTP may be
+The excess of the
+selected NTP is 0.5 mM to 150 mM greater than the other individual
+This is in line with
+the claimed invention extending to where the concentration of GTP or GTP plus
+GDP is simply greater than any
+one of the other NTPs and where two or more other
+NTPs are equimolar. Marginally increasing the GTP concentration or marginally
+dropping the concentration of just one of ATP, CTP or UTP in the IVT reaction
+mixture is all that is required to fall within the
+contrast to this, the only effective suppression of contaminants has been shown
+reactions performed with 30 mM GTP,
+15 mM ATP, 7.5 mM CTP and 7.5 mM UTP (4:2:1:1 ratio of GTP:ATP:CTP:UTP) or 30 mM
+GDP, 15 mM GTP,
+15 mM ATP, 7.5 mM CTP and 7.5 mM UTP (4:2:2:1:1 ratio of
+GDP:GTP:ATP:CTP:UTP). Professor Gerber stated that “it is not possible
+know what other concentrations encompassed by the claim would work and certainly
+not every variation encompassed by the claim
+Professor Preiss does not expect an IVT reaction where GTP concentration is only
+marginally greater than the other NTPs
+to achieve the desired reverse complement
+transcription suppression.
+opposed application does not provide any guidance, beyond the examples, with
+regard to appropriately choosing the relative amounts
+of the NTPs to ensure
+improved RNA products are obtained. Armed only with the guidance of using a
+selected NTP, GTP or GTP plus
+GDP in the case of the claimed invention, in a
+greater concentration than at least one of the other NTPs and two or more other
+are equimolar, the person skilled in the art is expected to work within the
+general bounds of IVT reactions to produce mRNA products
+with improved purity.
+Gerber opines that an IVT reaction of claim 8, where the reaction mixture
+comprises an at least 2:1 ratio of GTP concentration
+to any one of ATP, CTP or
+UTP concentrations, “may in principle work” but continues on to say
+that “it is not possible
+to know what would work and certainly not every
+variation encompassed by the
+Preiss considers that the ratios recited in claim 9 (at least 2:1 GTP:ATP, at
+least 2:1 or at least 4:1 GTP:CTP and at
+least 4:1 GTP:UTP) and claim 10 (2:1
+GTP:ATP, 2:1 or 4:1 GTP:CTP and 4:1 GTP:UTP) reflect the
+there is no certitude of product purity with deviation from the
+reactions, given the expert evidence, I am prepared to accept
+that the opposed application provides sufficient disclosure to enable
+skilled in the art to perform the invention of claims 9 and 10. Accordingly,
+the applicant’s contribution to the
+art resides in providing modified IVT
+reactions which have been shown to produce RNA with effective suppression of
+contaminants,
+thereby providing a better product. The modified IVT reaction is
+particularly well represented by the
+reactions. The applicant’s contribution to the art is a modified IVT
+reaction where GTP or GTP plus GDP is in excess by at
+least 2-fold of ATP and by
+at least 4-fold of CTP and UTP.
+reactions do not extend to a general
+principle where the concentration of the GTP or GTP plus GDP need only be
+greater than one or
+more of the other NTPs and two or more of the other NTPs are
+in equimolar concentrations. There is insufficient disclosure to enable
+person skilled in the art to perform the inventions of claims 1-8 and 11-20,
+where the claims extend beyond the applicant’s
+contribution to the art.
+opposition is successful on these grounds.
+opponent has not made out the grounds for clarity, utility and novelty. The
+opposition is successful on the grounds of inventive
+step, clear enough and
+complete enough disclosure and support. Based on the evidence at hand, claims
+1-8 and 11-20 lack inventive
+step and support and are not sufficiently
+my determination, I consider that the specification includes patentable subject
+matter and these issues can be overcome by
+amendment. I therefore allow the
+applicant two (2) months from the date of this decision to propose amendments to
+overcome the issues
+identified.
+normal approach is that costs should follow the event. I see no sufficient
+reason to depart from this approach. The opposition
+is successful.
+Accordingly, I award costs in accordance with Schedule 8 against the applicant,
+Moderna TX, Inc.
+Delegate of the Commissioner of Patents
+Annex A – claims
+method of producing a messenger ribonucleic acid (mRNA) that is suitable for
+administration as a vaccine to a human subject, wherein
+the mRNA comprises an
+open reading frame encoding a vaccine antigen, the method comprising incubating
+a reaction mixture comprising
+a deoxyribonucleic acid (DNA), an RNA polymerase
+that initiates with a GTP or GDP, a buffer, adenosine triphosphate (ATP),
+triphosphate (CTP), uridine triphosphate (UTP), and guanosine
+triphosphate (GTP), thereby producing the mRNA, wherein:
+(i) the concentration of GTP is greater than the concentration of one or more of
+ATP, CTP, and UTP, and two or more of ATP, CTP,
+and UTP are in equimolar
+concentrations; and/or
+(ii) the reaction further comprises guanosine diphosphate (GDP), the
+concentration of GTP plus GDP is greater than the concentration
+of one or more
+of ATP, CTP, and UTP, and two or more of GTP, ATP, CTP, and UTP are in equimolar
+concentrations.
+method of claim 1, wherein the UTP is a natural UTP.
+method of claim 1, wherein the UTP is a modified UTP comprising
+2’-O-methylribose, pseudouridine (ψ), N1-methylpseudouridine
+(m1ψ), 2-thiouridine, 4-thiouridine, 2-thio-1-methyl-1-deaza-pseudouridine,
+2-thio-1-methyl-pseudouridine, 2-thio-5-aza-uridine
+thio-dihydropseudouridine, 2-thio-dihydrouridine, 2-thio-pseudouridine,
+4-methoxy-2-thio-pseudouridine, 4-methoxy-pseudouridine,
+4-thio-1-methyl-pseudouridine, 4-thio-pseudouridine, 5-aza-uridine,
+dihydropseudouridine, or 5-methoxyuridine.
+method of claim 1 or 3, wherein the UTP is an N1-methylpseudouridine
+triphosphate (N1-methylpseudo-UTP).
+method of any one of claims 1-4, wherein the amount of the GTP is greater than
+an amount of the UTP.
+method of any one of claims 1-5, wherein the amount of the ATP is greater than
+the amount of the UTP.
+method of any one of claims 1-6, wherein the amount of the CTP is greater than
+the amount of the UTP.
+method of any one of claims 1-7, wherein the reaction mixture comprises an at
+least 2:1, at least 3:1, at least 4:1, at least
+5:1, and/or at least 6:1 ratio
+of GTP concentration to any one of ATP, CTP, or UTP
+concentrations.
+method of any one of claims 1-8, wherein the reaction mixture comprises an at
+least 2:1 ratio of GTP concentration to ATP concentration,
+an at least 2:1 or at
+least 4:1 ratio of GTP concentration to CTP concentration, and an at least 4:1
+ratio of GTP concentration to
+UTP concentration.
+method of any one of claims 1-9, wherein the reaction mixture comprises a 2:1
+ratio of GTP concentration to ATP concentration,
+a 2:1 or 4:1 ratio of GTP
+concentration to CTP concentration, and a 4:1 ratio of GTP concentration to UTP
+concentration.
+method of any one of claims 1-10, wherein the RNA polymerase is selected from T7
+polymerase, T3 polymerase, and SP6 polymerase.
+method of claim 11, wherein the RNA polymerase is T7
+polymerase.
+method of any one of claims 1-12, wherein the reaction mixture is incubated at
+25 degrees Celsius or at 37 degrees Celsius.
+method of any one of claims 1-13, wherein the produced mRNA is less immunogenic
+and/or has fewer double-stranded impurities than
+an mRNA made by a comparable
+method but with equimolar amounts of the GTP, ATP, CTP and UTP in the reaction
+method of any one of claims 1-14, wherein less than 1% of the total mass of RNA
+in the reaction mixture is a reverse complement
+transcription
+method of producing a messenger ribonucleic acid (mRNA) that is suitable for
+administration as a vaccine to a human subject, wherein
+the mRNA comprises an
+open reading frame encoding a vaccine antigen, the method comprising incubating
+a reaction mixture comprising
+a deoxyribonucleic acid (DNA), a T7 RNA
+polymerase, a buffer, adenosine triphosphate (ATP), cytidine triphosphate (CTP),
+triphosphate (UTP), and guanosine triphosphate (GTP), thereby producing
+wherein the concentration of GTP is greater than the
+concentration of one or more of ATP, CTP, and UTP, and two or more of ATP, CTP,
+and UTP are in equimolar concentrations,
+wherein the UTP is a modified UTP comprising 2’-O-methylribose,
+pseudouridine (ψ), N1-methylpseudouridine (m1ψ), 2-thiouridine,
+4-thiouridine, 2-thio-1-methyl-1-deaza- pseudouridine,
+2-thio-1-methyl-pseudouridine, 2-thio-5-aza-uridine ,
+2-thio-dihydropseudouridine,
+2-thio-dihydrouridine, 2-thio-pseudouridine,
+4-methoxy-2-thio-pseudouridine, 4-methoxy-pseudouridine,
+4-thio-1-methyl-pseudouridine,
+4-thio-pseudouridine, 5-aza-uridine,
+dihydropseudouridine, or 5-methoxyuridine.
+method of claim 16, wherein the UTP is an N1-methylpseudouridine triphosphate
+(N1-methylpseudo-UTP).
+method of claim 16 or 17, wherein the amount of the GTP is greater than an
+amount of the UTP.
+method of any one of claims 16-18, wherein the amount of the ATP is greater than
+the amount of the UTP.
+method of any one of claims 16-19, wherein the amount of the CTP is greater than
+the amount of the
+Eli Lilly and Company
+Limited v Apotex Pty Ltd
+[2013] FCA 214
+Specification at page 1
+lines 15-17.
+Specification at
+page 1 lines 17-19.
+Specification at page 1 lines
+Specification at page 1
+lines 27-29.
+Specification at
+page 2 lines 11-15.
+Specification at page 2 lines
+Specification at page 2
+lines 25-30.
+Specification at
+page 2 line 30 – page 3 line
+Specification at page 18
+line 29 – page 19 line 8.
+Specification at page 21
+lines 6-11.
+Specification at
+page 22 lines 11-12.
+Specification at page 22 lines
+Specification at page
+22 lines 6-9.
+Specification
+at page 22 lines 24-29.
+Specification at page 23 lines
+Specification at page
+24 lines 24-26.
+Specification at page 24 lines
+Specification at page
+27 line 29 – page 28 line
+Specification at page 29
+lines 15-16.
+Specification
+at page 29 lines 17-22.
+Specification at page 36 lines 16-18.
+Specification at page 45
+Specification at
+page 45 lines 8-24.
+Specification at pages
+Specification at page
+68 lines 23-25.
+Specification at page 68 lines
+Specification at page
+69 lines 25-31.
+Specification at page 95,
+Specification at
+page 95 lines 10-11.
+Specification at page 95 lines
+Specification at page
+100 line 10 – page 100 line
+Root Quality Pty Ltd v
+Root Control Technologies Pty Ltd
+[2000] FCA 980
+Root Quality Pty
+Ltd v Root Control Technologies Pty Ltd
+[2000] FCA 980
+ToolGen Incorporated v Fisher (No 2)
+submissions in support at
+Applicant submissions
+in answer at [0137].
+Gerber at [1].
+Gerber at [16] and
+Preiss at [20].
+[19] and Preiss at
+Opponent submissions
+in reply at [10].
+Specification at page 29 lines
+H Lundbeck A/S v
+Alphapharm Pty Ltd
+[2009] FCAFC 70
+Welch Perrin
+& Co Pty Ltd v Worrel
+[1961] HCA 91
+Pfizer Overseas
+Pharmaceuticals v Eli Lilly & Company
+[2005] FCAFC 224
+Airco Fasteners
+Pty Ltd v Illinois Tool Works Inc.
+[2023] FCAFC 7
+Sartas No 1 Pty Ltd
+v Koukourou & Partners Pty Ltd
+[1994] FCA 1529
+Kimberley-Clark
+Australia Pty Ltd v Arico Trading International Pty Ltd
+[2001] HCA 8
+Sartas No 1 Pty Ltd
+v Koukourou & Partners Pty Ltd
+[1994] FCA 1529
+Specification
+at page 21 lines 26028.
+Specification at page 71 lines
+Applicant submissions
+in answer at [22].
+submissions in answer at [22].
+Applicant submissions in
+answer at [019].
+Specification at page 2 line25 page 3 line
+Gerber at [88] and Preiss
+Specification at
+page 19 lines 19-22.
+Specification at page 19 line 30 – page 20 line
+Specification at page 20
+lines 14-23.
+submissions in support at
+Opponent submissions
+in support at [79].
+Specification at page
+22 lines 16-18.
+Lundbeck A/S v Alphapharm Pty Ltd.
+[2009] FCAFC 70
+Apotex Pty Ltd v
+AstraZeneca AB (No 4)
+[2013] FCA 162
+Artcraft Urban
+Group Pty Ltd v Streetworx Pty Ltd
+[2016] FCAFC 29
+Sequenom, Inc. v Ariosa Diagnostics, Inc
+[2019] FCA 1011
+Explanatory Memorandum,
+Intellectual Property Laws Amendment (Raising the Bar)
+(Cth) at page 44.
+Specification at page 2 lines
+Opponent submissions
+in support at [254].
+Meyers Taylor Pty
+Ltd v Vicarr Industries Ltd
+[1977] HCA 19
+137 CLR 228
+Nicaro Holdings Pty
+Ltd v Martin Engineering Co
+[1990] FCA 40
+(1990) 91 ALR 513
+General Tire &
+Rubber Co v Firestone Tyre and Rubber Co Ltd
+[1972] RPC 457
+at 485-486.
+Novozymes A/S v Danisco
+[2013] FCAFC.
+Novozymes A/S v Danisco A/S
+[2013] FCAFC at [145].
+Mylan Health Pty Ltd v
+Sun Pharma ANZ Pty Ltd
+[2020] FCAFC 116
+Opponent submissions
+in support at [84].
+Preiss at [29] and
+Preiss at [43].
+Applicant submissions
+in answer at [054].
+Applicant submissions in answer at
+D4 at page 174 left
+column paragraph 2.
+submissions in answer at
+Preiss at [55].
+D4 at page 174 left
+column paragraph 2.
+Gerber at [60].
+[61] and Preiss at [89].
+Gerber at [61] and Preiss at
+Hood v Bush
+Pharmacy Pty Ltd
+[2020] FCA 1686
+Health Pty Ltd v Bayer Pharma Aktiengesellschaft
+[2014] FCAFC 73
+Corporation v Arrow Electronics Australia Pty Ltd
+[2019] FCAFC 2
+Corporation v Arrow Electronics Australia Pty Ltd
+[2019] FCAFC 2
+Mining and Manufacturing Co v Beiersdorf (Aust) Ltd
+[1980] HCA 9
+Aktiebolaget Hässle v Alphapharm Pty Ltd
+[2002] HCA 59
+212 CLR 411
+Lockwood Security Products Pty Ltd v Doric Products Pty Ltd (No 2)
+Minnesota Mining & Manufacturing Co v Beiersdorf (Australia) Ltd
+[1980] HCA 9
+144 CLR 253
+Laboratories Limited v AstraZeneca AB
+[2013] FCA 368
+submissions in support at [25]. (citations
+submissions in answer at
+submissions in answer at [0137].
+Specification at page 71
+lines 28-29.
+Specification at page 71 line 30 – page 72 line 2.
+Specification at page 73
+line 4 – page 74 line
+Opponent submissions
+in support at [154].
+Specification at page 2 lines
+submissions in support at [164].
+submissions in support at
+submissions in answer at
+Gerber at [47]
+and Preiss at [78].
+Gerber at [44].
+[14]-[20 and Preiss at
+submissions in support at [178].
+submissions in answer at
+submissions in support at [184].
+CSR Building
+Products Limited v United States Gypsum Company
+[2017] APO 57.
+Industries Inc. v Nalco Company
+Merck Sharp &
+Dohme Corporation v Wyeth LLC (No 3)
+[2020] FCA 1477
+Nominees Pty Ltd v Rattlejack Innovations Pty Ltd
+[2023] FCAFC 178
+Jusand Nominees
+Pty Ltd v Rattlejack Innovations Pty Ltd
+[2023] FCAFC 178
+Jusand Nominees
+Pty Ltd v Rattlejack Innovations Pty Ltd
+[2023] FCAFC 178
+submissions in support at
+submissions in support at
+submissions in support at
+submissions in support at
+submissions in support at
+Preiss at [127].
+Gerber at [88].
+Opponent submissions in
+support at [206].
+Opponent submissions in support at
+submissions in support at
+submissions in support at
+submissions in support at
+submissions in support at
+submissions in support at
+submissions in answer at
+submissions in answer at [0205].
+Applicant submissions in
+answer at [0206].
+Applicant submissions in answer at [0206].
+Applicant submissions in
+answer at [0208].
+Specification at page 72 lines
+Gerber at [88] and
+Preiss at [25].
+[88] and Preiss at [140].
+Preiss at [127].
+Gerber at [91].
+Specification at page 21
+lines 6-11.
+Specification
+at page 24 lines 9-11.
+Specification at page 22 lines 24-26 and page 23 lines
+Preiss at [141].
+Preiss at [132].
+RTF format (1.16 MB)
+Signed PDF/A format

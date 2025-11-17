@@ -1,0 +1,1917 @@
+Oracle Corporation Australia Pty Ltd v Commissioner of Taxation [2025] FCAFC 145 (21 October 2025)
+FEDERAL COURT OF AUSTRALIA
+Oracle Corporation Australia Pty Ltd v
+Commissioner of Taxation
+[2025] FCAFC 145
+Appeal from:
+Oracle Corporation Australia Pty Ltd v Commissioner of Taxation (Stay
+Application)
+[2024] FCA 1262
+File numbers:
+NSD 1716 of 2024
+NSD 1717 of 2024
+NSD 1718 of 2024
+Judgment of:
+HESPE, BUTTON AND YOUNAN JJ
+Date of judgment:
+Catchwords:
+PRACTICE AND PROCEDURE
+proceedings under s 23 of
+Federal Court of Australia Act 1976
+– public interest considerations – double taxation treaties –
+mutual agreement procedure (
+) – where primary judge refused
+Appellants’ application for a stay of proceedings pending finalisation of
+a MAP under
+the double taxation treaty between Australia and Ireland –
+where domestic proceedings commenced to preserve taxpayer rights
+statutory time limits – where Commissioner suspended the MAP when domestic
+proceedings were commenced and opposed the
+stay application – where
+underlying withholding tax dispute concerned characterisation of certain
+payments as royalties –
+where primary judge found that public interest in
+domestic proceedings providing judicial guidance in respect of the affairs of
+approximately
+15 other taxpayers and a dispute with the United States favoured
+refusal of the stay – appeal allowed
+Legislation:
+Federal Court of Australia Act 1976
+Income Tax Assessment Act 1936
+Income Tax Assessment Act 1997
+(Cth) Subdiv 719-B
+International Taxation Agreements Act 1953
+(Cth) ss 4, 4AA, 5,
+Judiciary Act 1903
+Taxation Administration Act 1953
+Agreement between the Government of Australia and the Government of
+Ireland for the Avoidance of Double Taxation and the Prevention
+Evasion with Respect to Taxes on Income and Capital Gains
+, signed on 31 May
+[1983] ITS 25 (entered into force on 21 December 1983) Preamble,
+Arts 1, 3, 13, 25, 26
+Multilateral Convention to Implement Tax Treaty Related Measures to
+Prevent Base Erosion and Profit Shifting
+, signed on 7 June 2017,
+(entered into force on 1 January 2019 for Australia and 1 May 2019 for
+Ireland) Arts 2, 6, 16, 19, 20, 23, Pt VI
+Vienna Convention on the Law of Treaties
+, opened for signature 23
+1969, 1155 UNTS 331
+[1974] ATS 2
+(entered into force 27 January 1980) Arts
+Cases cited:
+Commissioner of Taxation v Pepsico Inc
+[2025] HCA 30
+(2025) 99 ALJR 1211
+Epic Games Inc v Apple Inc
+[2021] FCAFC 122
+(2021) 286 FCR
+GLJ v Trustees of the Roman Catholic Church for the Diocese of Lismore
+[2023] HCA 32
+(2023) 280 CLR 442
+(1936) 55 CLR 499
+HVAC Construction (Qld) Pty Ltd v Energy Equipment Engineering Pty
+[2002] FCA 1638
+(2002) 44 ACSR 169
+Impiombato v BHP Group Ltd
+[2025] FCAFC 9
+(2025) 308 FCR 250
+International Business Machines Corporation v Commissioner of Taxation
+[2011] FCA 335
+(2011) 91 IPR 120
+Minister for Aboriginal Affairs v Peko-Wallsend Ltd
+(1986) 162 CLR
+Onslow Salt Pty Ltd v Buurabalayji Thalanyji Aboriginal Corporation
+[2018] FCAFC 118
+Oracle Corporation Australia Pty Ltd v Commissioner of Taxation (Stay
+Application)
+[2024] FCA 1262
+Sterling Pharmaceuticals Pty Ltd v Boots Co (Aust) Pty Ltd
+OECD, ‘Commentary on Article 12 Concerning the Taxation of
+Royalties’ in
+Model Tax Convention on Income and Capital: Condensed
+(OECD Publishing, 2017)
+OECD, ‘Commentary on Article 25 Concerning the Mutual Agreement
+Procedure’ in
+Model Tax Convention on Income and Capital: Condensed
+(OECD Publishing, 2017)
+Explanatory Statement to the MLI
+(adopted on 24 November
+Making Dispute Resolution Mechanisms More Effective, Action 14
+– 2015 Final Report
+(OECD Publishing, 2015)
+General Division
+New South Wales
+National Practice Area:
+Number of paragraphs:
+Date of hearing:
+Counsel for the Appellants:
+J Sheahan KC with C Winnett, A Roe and J Schwarz
+Solicitor for the Appellants:
+Herbert Smith Freehills Kramer
+Counsel for the Respondent:
+M O’Meara SC with N Li
+Solicitor for the Respondent:
+Australian Government Solicitor
+REASONS FOR JUDGMENT
+NSD 1716 of 2024
+ORACLE CORPORATION AUSTRALIA PTY LTD
+ACN 003 074 468
+First Appellant
+VANTIVE AUSTRALIA PTY LTD ACN 076 201 619
+Second Appellant
+ORACLE CAPAC SERVICES UNLIMITED COMPANY
+Third Appellant
+COMMISSIONER OF TAXATION
+NSD 1717 of 2024
+ORACLE CORPORATION AUSTRALIA PTY LTD
+ACN 003 074
+COMMISSIONER OF TAXATION
+NSD 1718 of 2024
+ORACLE CORPORATION AUSTRALIA PTY LTD
+ACN 003 074
+COMMISSIONER OF TAXATION
+three Appellants are part of the
+Oracle group
+of companies. The Third
+Appellant (
+Oracle Ireland
+) is resident in Ireland for tax purposes, and
+the First Appellant (
+Oracle Australia
+) is tax resident in Australia. The
+Second Appellant
+) is the provisional head company of a
+multiple entry consolidated group (MEC group) of companies, of which Oracle
+Australia is a
+subsidiary member, for the purposes of Subdivision 719-B of
+Income Tax Assessment Act 1997
+three proceedings were filed on 7 November 2023. The first proceeding is an
+application for relief under
+Judiciary Act 1903
+the other two proceedings are brought pursuant to
+Administration Act 1953
+), appealing the
+Commissioner’s disallowance of objections to penalty assessments issued on
+the basis that there had been a
+failure to withhold amounts from royalty
+payments made by Oracle Australia to Oracle Ireland in the tax year 2013 and the
+2014–2018. Appeals to the Federal Court against objection
+decisions must be filed within 60 days of the objection decision:
+of the TAA. There is no statutory power to extend the time for a Federal Court
+underlying tax issue is whether amounts paid by Oracle Australia to Oracle
+Ireland under intra-group licensing arrangements are
+royalties as defined by
+Income Tax Assessment Act 1936
+Art 13 of the
+Agreement between the Government of Australia and the
+Government of Ireland for the Avoidance of Double Taxation and the Prevention
+Fiscal Evasion with Respect to Taxes on Income and Capital Gains
+, signed on
+31 May 1983,
+[1983] ITS 25 (entered into force on 21 December 1983)
+). The Commissioner’s position is that the amounts paid under
+the intra-group licensing agreements are royalties, as defined,
+such that Oracle
+Ireland was liable to pay withholding tax (at a rate of 10% because of the DTA)
+pursuant to ss 128B and 128C of
+the 1936 Act, thus exposing Oracle
+Australia to penalties for failing to withhold. Where an entity fails to
+withhold from a dividend,
+interest or royalty payment, or withholds less than
+the amount required, the entity is liable to a penalty equal to the amount they
+failed to withhold: s 16-30 of Sch 1 to the TAA, ss 128B(2B) and 128B(5A)
+of the 1936 Act.
+appeals concern the primary judge’s refusal of the Appellants’
+applications to stay the three proceedings pending
+finalisation of the
+“mutual agreement procedure” (
+) between the competent
+authorities of Australia and Ireland under the DTA:
+Oracle Corporation
+Australia Pty Ltd v Commissioner of Taxation (Stay Application)
+). The Commissioner suspended the MAP when the present domestic
+proceedings were initiated, and opposed the application for a stay.
+We will say
+something more about the chronology later in these reasons.
+the primary judge refused the stay applications, his Honour granted leave to
+appeal that refusal.
+THE DOUBLE TAXATION AGREEMENT AND THE MUTUAL AGREEMENT
+DTA is a bilateral agreement between the government of Australia and the
+government of Ireland (the
+contracting states
+) which, like other double
+taxation agreements, has been enacted as and forms part of Australia’s
+domestic taxation law:
+International Taxation Agreements Act 1953
+ss 4(1), 4AA(1), 5(1), 11K.
+of the DTA’s terms are relevantly modified and/or supplemented by the
+Multilateral Convention to Implement Tax Treaty Related Measures to Prevent
+Base Erosion and Profit Shifting
+, signed on 7 June 2017,
+[2019] ATS 1
+(entered into force on 1 January 2019 for Australia and 1 May 2019 for Ireland)
+), to which both Ireland and Australia have acceded: MLI Art 2(1)(a).
+The primary judge referred to a “Synthesised Text”
+incorporates the MLI modifications into the text of the DTA (PJ [6],
+Schedule A).
+purpose of the DTA is to eliminate double taxation with respect to the taxes
+covered by the agreement: DTA Preamble; MLI Art 6(1).
+Royalties are among the
+taxes covered by the DTA: DTA Art 13. Pursuant to Art 13(1)–(2),
+royalties “arising” in
+one contracting state, to which a resident of
+the other state is beneficially entitled, may be taxed in that other state, save
+the contracting state in which the royalties “arise” may impose
+a tax, not exceeding 10% of the gross amount of the royalties.
+“royalties” is relevantly defined as follows by Art 13(3) of
+(3) The term “royalties” in this Article means payments or credits,
+whether periodical or not, and however described
+or computed, to the extent to
+which they are made as consideration for-
+the use of, or the right to use, any copyright
+, patent, design or
+model, plan, secret formula or process, trademark, or other like property or
+supply of any assistance that is ancillary and subsidiary to
+and is furnished as a means of
+enabling the application or enjoyment of, any
+such property or right as is mentioned in subparagraph (a)
+equipment as is mentioned in subparagraph (b) or any such knowledge or
+information as is mentioned in subparagraph (c);
+(Emphasis added.)
+taxpayers are not parties to this intergovernmental agreement, they are the
+objects of the agreement and are by no means
+passive bystanders. Not only is the
+DTA incorporated into domestic law (by the ITA Act), by its terms, the DTA is
+stated to “apply
+to persons who are residents of one or both of the
+Contracting States”: DTA Art 1. Further, and as set out below, it is
+who submit instances of perceived double taxation to the competent
+authorities of the contracting states, and who may invoke the
+arbitration
+process under Part VI of the MLI.
+intended method by which double taxation is to be eliminated is set out in
+Art 25 of the DTA. Broadly, subject to their respective
+domestic laws, each
+of Ireland and Australia is to allow, as a credit against tax payable in its
+26 of the DTA makes provision for the MAP. Article 26(1) (as modified by
+MLI Art 16(1)) provides that, where a resident of
+a contracting state
+considers that the actions of one or both of the contracting states result, or
+will result in, taxation not in
+accordance with the provisions of the DTA
+— ie that there will be double taxation — that person may
+“irrespective
+of the remedies provided by the domestic law” of the
+contracting states, “present” the case to the competent authority
+either state. For the purposes of the DTA, Australia’s competent authority
+is the Commissioner of Taxation or his authorised
+representative
+Commissioner
+), and Ireland’s competent authority is the Revenue
+Commissioners or their authorised representative: DTA Art 3(1)(j). In
+officers of the Australian Taxation Office (
+) handle the MAP
+on behalf of the Commissioner.
+MAP must be initiated by a resident within three years of the first notification
+of the action resulting in taxation contrary
+to the terms of the DTA: DTA Art
+26(1); MLI Art 16(1).
+the claim appears to be justified, and the competent authority is not itself
+able to arrive at an appropriate solution, the
+competent authority is obliged to
+endeavour to resolve the case with the competent authority of the other
+contracting state, with
+a view to avoiding taxation contrary to the DTA: DTA Art
+agreement reached between the two contracting states is to be implemented
+“notwithstanding any time limits in the domestic
+law of [the contracting
+states]”: DTA Art 26(2); MLI Art 16(2).
+the competent authorities are unable to reach an agreement resolving a case
+presented by a taxpayer within two years, subject to
+a potential extension of
+time, the taxpayer may request that any unresolved issues be submitted to an
+arbitration process under Part
+VI of the MLI: MLI Art 19(1). Each contracting
+state is to appoint one member to the arbitral panel, with that individual to
+“expertise or experience in international tax matters”: MLI Art
+20(2). The two appointed members appoint a third as their
+Chair, with default
+appointment mechanisms provided if the Chair cannot be appointed by agreement.
+There are strict time limits for
+the appointment of the panel: MLI Art
+to the terms of Art 23 of the MLI, the arbitration conditions to which Australia
+and Ireland have agreed provide for each
+contracting state to submit a
+“proposed resolution” which is generally limited to being a specific
+monetary amount. While
+the contracting states can submit position papers for
+consideration by the arbitral panel, the panel is to “select as its
+one of the proposed resolutions” with respect to each issue. The
+panel’s decision is in writing, but it is prohibited
+from including any
+“rationale or any other explanation of the decision”. In other
+words, where the arbitral panel selects
+one of the monetary sums put forward by
+one of the contracting states, it does not give any reasons for its decision(s).
+the competent authorities can agree to vary the manner in which an
+arbitration is to be conducted: MLI Art 23(1).
+arbitration decision is final and, subject to some exceptions, binding on both
+contracting states: MLI Art 19(4). However, it
+is not binding on the taxpayer.
+The taxpayer can choose not to accept the outcome of any mutual agreement
+reached under the MAP,
+whether that be a mutual agreement reached as a result of
+negotiations between the competent authorities, or a mutual agreement that
+implements an arbitration decision: MLA Art 19(4)(b)(i). A taxpayer will be
+taken not to have accepted the arbitral panel’s
+decision if it does not,
+within 60 days, withdraw all issues dealt with by the decision from
+consideration by any court or administrative
+tribunal process, or otherwise
+terminate those proceedings.
+all double taxation agreements adopt the arbitration procedures set out in Part
+VI of the MLI, but the DTA between Australia and
+Ireland does adopt those
+procedures.
+MAP may be suspended in certain circumstances. In particular, Art 19(2) of
+the MLI refers to a competent authority having “suspended
+agreement procedure ... because a case with respect to one or more of the same
+issues is pending before a court or administrative
+tribunal”. This
+provision implicitly empowers each competent authority to suspend a MAP where an
+issue is brought before a
+domestic court or tribunal. Article 19(2) provides
+that any such suspension has the effect of stopping time running on the two-year
+pre-arbitration period until either: a final decision has been rendered by the
+court or administrative tribunal, or the case has
+been suspended or withdrawn.
+was no dispute that, although the power is implicit in Art 19(2) of the
+MLI, the Australian competent authority did have the
+power to suspend the MAP
+upon the Appellants having commenced the domestic proceedings. It is also common
+ground that, although the
+DTA and MLI address the interaction between the MAP
+and domestic proceedings in a number of respects, they do not explicitly provide
+for what is to occur where a taxpayer commences domestic proceedings in order to
+comply with a strict time limit, but wishes to have
+a MAP continue.
+a domestic proceeding is not stayed, but proceeds to judicial resolution, the
+reservation made by Art 19(12) of the MLI will
+apply such that any
+(unresolved) issue within the scope of the arbitration process provided for by
+the MLI will not be submitted
+to arbitration if a decision on the issue has been
+rendered by a domestic court or tribunal of either contracting state.
+FACTS CONCERNING THE WITHHOLDING TAX DISPUTE AND INTERACTIONS
+CONCERNING THE MAP
+Australia and Oracle Ireland were parties to a “Fourth Amended &
+Restated Distribution Agreement” (
+Distribution
+) and a “Fifth Amended & Restated Distribution
+Agreement” (
+Distribution Agreement
+) (together,
+Distribution Agreements
+). Under each agreement, Oracle Ireland granted
+Oracle Australia the right to market, promote, distribute, copy (for limited
+and sell licenses for the “Programs” to “End
+Users”, as defined. Oracle Australia undertook, pursuant to
+the terms of
+the agreements, to do a number of things, “[i]n consideration for the
+rights granted herein”: Art 2.4 of
+the Distribution Agreements.
+End User Licence Distribution rights granted under Art 2.2.A of the
+Distribution Agreement permitted Oracle Australia to do a number
+of things, including: to enter into End User Licenses for the Programs;
+the Programs to provide training product support and additional support to End
+Users and Subdistributors; to use the Programs
+for demonstrations; to use the
+Programs to prepare marketing material; to grant trial End User Licenses; and to
+use and reproduce
+the Programs, only to the extent necessary for internal use,
+safekeeping, back-up and archival purposes. The End User Licence Distribution
+rights granted under Art 2.2.A of the 5
+Distribution Agreement were
+in similar terms.
+each of the agreements, Oracle Australia was to “pay a fee as set forth in
+Schedule 1 hereof” “[i]n consideration
+for the distribution rights
+granted under Article 2.2.A”: Art 4.4 of the 4
+Distribution
+Agreement and Art 5.2.A of the 5
+Distribution Agreement.
+Schedule 1 of each of the agreements contains five parts, labelled
+“Part I”, “Part II”
+etc. The heading to each such part
+purports to refer to the Article to which the part relates, but in the case of
+Distribution Agreement, all but one of those references
+is wrong and two such references are wrong in the 5
+Distribution
+Agreement. Nevertheless, it appears to be the case that Parts II to V are
+revenue recognition provisions, and do not
+provide for any fee to be payable by
+Oracle Australia to Oracle Ireland.
+addition to “Schedule 1” being referred to in Arts 4.4 and
+5.2.A of the Distribution Agreements, respectively, both
+of the agreements
+contain a further provision that cross-refers to fees payable under Sch 1.
+Article 4.4.A of the 4
+Distribution Agreement provides that
+“[i]n consideration for each End User License of a Program granted by
+[Oracle Australia
+or its Subdistributors]”, Oracle Australia is to provide
+Oracle Ireland “a fee equal to that set out in Part I of Schedule
+1”: Art 4.4.A of the 4
+Distribution Agreement and
+Art 5.2.B of the 5
+Distribution Agreement. As mentioned,
+Part I of Sch 1 in each agreement is the only part of that schedule
+which appears to provide
+for a fee to be paid by Oracle Australia to Oracle
+Ireland, but that fee is specified to be payable in consideration both for the
+grant of general distribution rights pursuant to Art 2.2.A and the grant of each
+“End User License”.
+Distribution Agreement, the fee specified by Part I of
+Sch 1 was determined by a formula which was calculated — to
+— as the amount that would provide Oracle Australia with the
+amounts set out in two sub-clauses, the first of which was 97%
+of “Program
+and Support Net Revenue” less a stated percentage of Oracle
+Australia’s “Direct and Indirect
+Software Operating Costs”.
+The corresponding fee payable under the 5
+Distribution Agreement
+was the amount that would provide Oracle Australia with stated amounts
+calculated by reference to five sub-clauses.
+Distribution Agreement made provision for a number of tasks to be
+undertaken by Oracle Australia, which included: using commercially
+efforts to promote the marketing and distribution of the Programs; maintaining a
+suitable sales organisation; preparing
+marketing materials; servicing End Users
+and others; providing education and training; providing support to End Users and
+Subdistributors;
+maintaining and submitting financial records; and representing
+Oracle Ireland. These obligations were the subject of detailed terms.
+Australia’s obligations under the 5
+Distribution Agreement
+were in similar terms, but included provisions in relation to “Managed
+Cloud Services”, and “Cloud
+Software Services”.
+30 May 2018, the ATO issued to Oracle Australia a “Notice of penalty for
+failure to withhold amounts” for the 2013
+financial year. This notice was
+issued after an audit process conducted by the ATO through 2017, which included
+the issue, by the
+ATO, of a position paper and, later, a statement of audit
+Commissioner decided, on 6 December 2019, not to remit the penalty. That
+rejection was preceded by a letter dated 5 November 2019,
+in which Oracle
+Australia summarised its arguments. These arguments included that the rights
+granted under the 4
+Distribution Agreement fall under the
+definition of “simple use” rights where payments for licenses for
+such rights are
+not royalties, and that, except for those “simple
+use” rights, the other rights conferred on Oracle Australia under the
+Distribution Agreement would not infringe copyright even if
+exercised without a licence. Oracle Australia contended, alternatively,
+even if the rights it acquired under the agreement did include a right to use
+Oracle Australia contended that
+the Commissioner had misconstrued Art 2.2.A of the
+Distribution Agreement and the rights conferred on it
+pursuant to the terms of that agreement.
+23 March 2022, the ATO issued to Oracle Australia a “Notice of penalty for
+failure to withhold amounts” for the 2014
+to 2018 financial years.
+penalties were premised on amounts paid by Oracle Australia to Oracle Ireland
+under Art 4.4 of the 4
+Distribution Agreement and Art 5.2
+Distribution Agreement being “royalties”.
+3 February 2020, Oracle Australia lodged an objection to the penalty notice
+issued in respect of the 2013 year. The supporting
+submissions contended that
+the Commissioner misconstrued the 4
+Distribution Agreement in
+concluding that the payments were royalties. It contended, in the alternative,
+that if any part of the
+payments were royalties, that part was nominal or,
+failing that, that there should be an apportionment of the payments made under
+Art 4.4 on the basis that they were only royalties in part.
+18 May 2021, Oracle Ireland wrote to the Irish competent authority, invoking the
+MAP under Art 26 of the DTA in respect of the
+2013 year (relevantly to the
+royalty withholding tax issue). Oracle Ireland requested the Irish competent
+authority enter into a
+mutual agreement with the Australian competent authority
+requiring the Australian competent authority to withdraw the assessed tax
+Oracle Ireland’s position were rejected, to allow Oracle Ireland a
+corresponding downward adjustment to its income so
+that the amounts in question
+were not subject to taxation both in Australia and Ireland.
+ATO issued a statement of audit position to Oracle Australia on 11 February
+2022, addressing the 2018–2022 years. In a later
+letter to the Irish
+competent authority (dated 8 March 2022), the ATO referred to the
+Australian taxpayer having requested MAP in
+respect of those years on 22
+February 2022. By a letter dated 4 March 2022, Oracle Australia referred to the
+ATO’s statement
+of audit position in relation to the 2014–2018 years
+and requested that the ATO “reconsider the need to issue any penalty
+notices, or at least defer the issue of the penalty notices until the conclusion
+of MAP”. As that letter noted, the issues
+in respect of the
+2014–2018 years were substantively the same as those in respect of the
+2013 year, which was already the subject
+of an active MAP under the DTA.
+appears that that request was not acceded to, as the Commissioner issued the
+penalty notice on 23 March 2022 and, it appears, a
+decision not to remit
+penalties issued the same day, following which, on 20 May 2022, Oracle Australia
+lodged an objection against
+the Commissioner’s decision not to remit the
+penalty for the 2014–2018 years. This objection decision set out the same
+analysis as that advanced in the objection decision in respect of the 2013 year,
+but by reference to the terms of the 5
+Distribution Agreement.
+decision to proceed and issue an objection decision was taken even though, on
+8 March 2022, an officer of the ATO wrote to the
+Irish competent
+authority and said that, as the “Australian taxpayer ha[d] requested that
+the objection process be put into
+abeyance while the MAP process is
+undertaken”, it was no longer necessary to discuss the request in the
+ATO’s earlier
+correspondence for an extension of the arbitration process
+pending the outcome of the objection process. The same letter noted that
+Australia wanted the 2014–2018 years included in the MAP and proposed that
+those years be treated as constituting a
+separate MAP. It also observed that
+“the taxpayers are now relying on the MAP process as the primary mechanism
+for resolving
+the [redacted] and royalty withholding tax issues”.
+with its understanding that the 2014–2018 years were also to be addressed
+under the MAP, the ATO provided its position
+paper to the Irish competent
+authority on 4 May 2022. That paper addressed both the 2013 year, and the
+2014–2018 years. It
+also referred to both Australia and Ireland having
+accepted those years into the MAP. That position paper set out, at length, the
+ATO’s views, which views were again advanced through a detailed analysis
+of the Distribution Agreements between Oracle Ireland
+and Oracle Australia, the
+nature of the operations undertaken pursuant to those agreements, the nature of
+the rights conferred, the
+fees paid and how all of those matters were to be
+regarded having regard to the concept of “copyright” under the
+). (While we note that the
+Appellants’ submissions on the appeals raised the point that it should not
+be assumed that the term
+“copyright” in the DTA takes its meaning
+from domestic law (ie Australian law), that point was not taken any further
+argument before us. Rather, the appeals were conducted on the basis that the
+resolution of the Appellants’ proceedings would
+into consideration. Accordingly, we say no more about the Appellants’
+apparent reservation of their position on this point.)
+a letter to the ATO dated 3 August 2022, the Irish competent authority noted
+that the objection process was being put into abeyance,
+and agreed that the
+2014–2018 years should be addressed pursuant to the MAP, but asked whether
+a formal MAP request had been
+made to the ATO for those years. The ATO responded
+by a letter dated 5 July 2023, noting that no formal MAP request had yet been
+submitted to it for the 2014–2018 years, thus confining the extant MAP to
+2013. The Irish competent authority agreed with this
+approach (by a letter dated
+25 July 2023).
+8 September 2023, the ATO notified Oracle Australia that its objection in
+respect of the 2013 year had been disallowed. That was
+despite the ATO having,
+in 2022 and earlier in 2023, proceeded in its interactions with the Irish
+competent authority on the apparent
+basis that the objection process would be
+put into abeyance while the MAP was pursued.
+its objection decision, the ATO noted that, pursuant to Art 13(3) of the DTA,
+the term “royalties” means payments or
+credits “to the extent
+to which they are made as consideration for ... the use of, or the right to use,
+any copyright ...”.
+The next step in the reasoning is that, as copyright
+is not defined in the DTA, it takes its meaning from domestic law, specifically
+pursuant to Art 3(3) of the DTA. The ATO referred to the
+definition of copyright in
+and then addressed, in
+detail, the rights granted to Oracle Australia under Art 2.2.A of the
+Distribution Agreement, including by reference to whether the
+nature of the rights conferred extended to the right to “reproduce”
+a work in material form (by reference to the scope of reproduction under
+). Further detailed analysis of the provisions of the
+Distribution Agreement was undertaken by reference to other
+concepts addressed in the
+, including the right to communicate to
+, the right to authorise
+the right to make an adaptation
+The objection decision also addressed
+the detailed terms of the 4
+Distribution Agreement having
+regard to the DTA’s inclusion (in Art 13(3)(d)) of payments in respect of
+ancillary and subsidiary
+services. The ATO concluded that the rights granted to
+Oracle Australia went beyond “simple use” rights, and that neither
+the exception to copyright infringement for certain incidental and automatic
+reproductions in
+, or the exception for back-ups in
+, applied. Finally, the ATO detailed its reasons for rejecting the alternate
+contention that the payments should be apportioned and
+were only partly
+referable to any royalty.
+18 October 2023, the ATO wrote to Oracle Australia advising it that the two
+competent authorities had agreed to extend the pre-arbitration
+time period by
+one year, making the earliest date that arbitration could be requested 18
+November 2024. In corresponding with the
+Irish competent authority about the
+extension to the arbitration date, the ATO noted that it had issued an objection
+decision and,
+if the Australian taxpayer exercised its review rights before an
+Australian court or tribunal, the ATO would advise the Irish competent
+and the MAP would be suspended.
+formal MAP request was submitted to the Irish competent authority in respect of
+the 2014–2018 years on 2 November 2023 (GMT)
+(being 3 November 2023 in
+Australia). While the formal application was submitted then, it should be
+recalled that it is clear from
+the ATO’s correspondence with the Irish
+competent authority in March 2022 that Oracle Australia had already indicated in
+2022 that it wanted a MAP in respect of those years, and also that the
+taxpayers were treating the MAP as the primary mechanism for
+resolution of the
+double taxation issues.
+3 November 2023, Oracle Australia’s solicitors wrote to the ATO and noted
+that Oracle Australia “requested that the
+issuing of the objection
+decisions be delayed so as to enable alternative dispute resolution mechanisms
+(including MAP proceedings)
+to be completed”. This observation was made in
+explaining that, as that request had not been acceded to, proceedings would
+commenced, but would be accompanied by an application for a stay of the
+proceedings pending the conclusion of the MAP proceedings.
+The solicitors noted
+that “[o]ur clients consider that the dispute between the parties can and
+should be resolved through agreement
+or binding arbitration under the processes
+prescribed by the [DTA]”. The proceedings were commenced on the last
+possible day
+for the filing of
+proceedings, and the
+was filed at the same time. An affidavit sworn in support of the stay reiterated
+that the Oracle companies wanted to pursue
+processes under the DTA (as modified
+by the MLI) to conclusion, including through arbitration, but the ATO’s
+suspension of
+the MAPs prevented these processes from continuing.
+proceedings were commenced on 7 November 2023, the ATO notified Oracle Australia
+on 17 November 2023 that the 2013 MAP had been
+suspended as at 7 November 2023
+following the filing of the proceedings. At the same time as the Irish competent
+authority confirmed,
+on 21 December 2023, the entry of the 2014–2018 years
+into the MAP, the ATO notified Oracle Australia that the 2014–2018
+also been suspended as at 20 December 2023, as a result of the filing of these
+proceedings.
+following are the relevant points to be observed, having regard to this
+chronology:
+(1) The issues arising in relation to the question of whether the fees paid by
+Oracle Australia under the Distribution Agreements
+were “royalties”
+for the purposes of Art 13(3) of the DTA require a close analysis of the
+terms of the two Distribution
+Agreements, and consideration of how the
+arrangements and rights established by those agreements mapped to several
+aspects of the
+including, but by no means limited to, the
+definition of “copyright”. The centrality of these issues is further
+by the description of the issues arising in the underlying tax dispute
+in the affidavit of Ms Melissa Anne Spurge, filed by the Commissioner
+opposing the stay application below (at [31]–[36]). Similarly, the
+Commissioner’s oral submissions on the appeal addressed
+the contractual
+terms between Oracle Australia and Oracle Ireland in detail. None of the
+material concerning the underlying tax dispute
+identified any question of
+construction about the meaning of “royalty” in the DTA that was
+capable of being answered
+at a level of generality, or in a manner divorced from
+the specific terms of the agreements between Oracle Australia and Oracle
+(2) The ATO was, for a significant period of time, proceeding on the basis that
+it was open to the Commissioner to defer making decisions
+on the objections, so
+as to allow the MAP to progress at the taxpayers’ request. When and why
+the Commissioner changed his
+view and decided to issue objection decisions was
+not explained in the evidence. While it did not have to be, the change in the
+Commissioner’s
+position exposes his argument, in the appeals, that he was
+merely issuing the objection decisions because he was duty bound to do
+ill-conceived submission diverting attention from the fact that the Commissioner
+decided to take a step that would force
+the taxpayers to elect either to bring
+domestic proceedings in 60 days and risk one or both of the competent
+authorities suspending
+the MAP, or to forever forego domestic appeal rights and
+place all their eggs in the MAP basket. In the abstract, putting a taxpayer
+an election may be routine, and not a matter that would feature in an
+application for a stay, but in the specific context of the
+MAP and the
+procedures and interactions with domestic remedies for which it provides, the
+commencement of domestic proceedings by
+the Appellants needs to be considered in
+light of the context and manner in which their hand was forced.
+(3) Although the formal request for a MAP for the 2014–2018 years was made
+after the objection decision had already issued
+on 8 September 2023, that bare
+fact (which was relied on by the Commissioner in argument on the appeal)
+obscures the history, which
+makes it clear that it was always apparent to all
+concerned that Oracle Australia wanted the 2014–2018 years also to be
+under the MAP. In February 2022, Oracle Australia had requested this
+be done and, for quite some time, the MAP process was being
+pursued on that
+basis — including by the ATO, whose position paper covered the
+2014–2018 years, as well as the 2013 year
+— until it appears that it
+was realised that a separate process needed to be initiated.
+THE PRIMARY JUDGE’S REASONS
+addressing factual matters and describing the operative provisions of the DTA,
+MLI and, in particular, the MAP provisions, the
+primary judge addressed the
+matters relevant to the question of whether a temporary stay ought to be granted
+Federal Court of Australia Act 1976
+). In particular, the primary judge identified that matters that can be
+inferred from the subject matter, purpose and scope of any
+relevant legislative
+context will be relevant in exercising the discretion to grant a stay (PJ [20],
+Minister for Aboriginal Affairs v Peko-Wallsend Ltd
+(1986) 162 CLR
+at 39–40 (Mason J, Gibbs CJ agreeing at 30 and Dawson J agreeing
+HVAC Construction (Qld) Pty Ltd v Energy Equipment Engineering Pty
+[2002] FCA 1638
+(2002) 44 ACSR 169
+(French J)).
+primary judge then turned to addressing the subject matter, purpose and scope of
+the DTA and the MLI, both of which are to be
+interpreted in accordance with Arts
+31 and 32 of the
+Vienna Convention on the Law of Treaties
+, opened for
+signature 23 May
+1969, 1155 UNTS 331
+[1974] ATS 2
+(entered into force 27
+January 1980) (
+Vienna Convention
+) (PJ [22]). Pursuant to Art
+31(3)(b) of the
+Vienna Convention
+, subsequent practices in the
+application of treaties which establish the agreement of the parties regarding
+their interpretation
+may be taken into account (PJ [22]).
+primary judge then turned to a number of documents issued by the Organisation
+for Economic Co-operation and Development (
+) to which regard may be
+had in the interpretation of double taxation agreements modelled on the
+Model Convention with Respect to Taxes on Income and on
+, and in appreciating their intended operation (PJ [23]). Those
+documents include the OECD’s ‘Commentary on Article 25
+the Mutual Agreement Procedure’ in
+Model Tax Convention on Income and
+Capital: Condensed Version
+(OECD Publishing, 2017) (the
+Explanatory Statement to the MLI
+(adopted on 24 November
+Explanatory Statement
+) and the OECD’s
+Making Dispute
+Resolution Mechanisms More Effective, Action 14 – 2015 Final Report
+(OECD Publishing, 2015) (
+Action 14 Report
+primary judge considered the following matters arising from the subject matter,
+scope and purpose of the DTA and MLI relevant
+to the exercise of the
+Court’s discretion under s 23 of the FCA Act (PJ
+[24]–[46]):
+(1) A final judicial determination of whether the payments are royalties within
+the meaning of DTA Art 13 would bind the Commissioner
+such that it would not be
+possible for any MAP outcome by consensus to contradict that determination.
+Consequently, refusal of the
+stay would have the effect of making the
+determination of the royalty question by this Court (or any higher court)
+definitive of
+Oracle Ireland’s liability to Australian withholding tax and
+Oracle Australia’s liability to penalty. If a MAP follows
+determination in this proceeding, and the competent authorities do not reach an
+agreement, the matter will not proceed
+to arbitration under the MAP due to the
+reservation in MLI Art 19(12), which precludes an issue from being submitted to
+arbitration
+if a decision on the issue has been rendered by a court or
+administrative tribunal of either contracting state (PJ [25]–[29]).
+(2) Refusing the stay “may carry the risk of double taxation”,
+because the revenue and judicial authorities of Ireland
+and Australia may arrive
+at different interpretations of DTA Art 13 (PJ [30]–[32]). However,
+that risk would not be eliminated
+by granting the stay, because the taxpayers
+may choose not to accept the outcome of the MAP negotiations or arbitration, in
+case the issues would proceed to determination by the Australian courts in
+(3) Both the MAP process in DTA Art 26 and the arbitration process in MLI Art 19
+seek to achieve the central purpose of the DTA,
+namely, the avoidance of double
+taxation (PJ [33]).
+(4) Refusing a stay would empower the Commissioner to force taxpayers to choose
+between a MAP and pursuing their domestic proceedings
+by issuing an objection
+decision and thus commencing the 60-day period for the taxpayer to bring
+domestic proceedings pursuant to
+s 14ZZN of the TAA. Such an outcome would be
+inconsistent with textual indications in the DTA and MLI that the taxpayer
+able to access
+mechanisms and to access MAP
+in addition
+to any domestic procedures (PJ [34]–[35]). The primary judge
+identified the following examples (PJ [35]):
+(a) prior to the adoption of the MLI, DTA Art 26(1) provided that a taxpayer may
+present their case to the relevant competent authority
+“notwithstanding
+the remedies provided by the national law of those States”;
+(b) DTA Art 26(1) was then modified by MLI Art 16(1), which provides that a
+taxpayer may present their case to the relevant competent
+authorities
+“irrespective of the remedies provided by the domestic law”;
+(c) MLI Art 16(2) provides that any agreement reached through the MAP
+“shall be implemented notwithstanding any time limits
+in the domestic law
+of the Contracting States”; and
+(d) the taxpayer is not bound by any agreement reached by the competent
+authorities under the MAP or the outcome of any arbitration
+procedure under MLI
+Art 19(4)(b)(i).
+(5) Relevant extrinsic materials from the OECD support the position that
+taxpayers are to have access to both mechanisms, albeit
+that they cannot pursue
+them both simultaneously (PJ [36]–[39]). In particular, the primary judge
+referred to the OECD’s
+Commentary, Explanatory Statement, and Action 14
+The primary judge quoted from paragraph 77 of the Commentary, which directly
+addresses the intersection of domestic proceedings and
+the MAP, and suggests
+that the usual position would be to suspend legal remedies pending the outcome
+of the MAP involving the arbitration
+of the issues the competent authorities are
+unable to resolve. Paragraph 17 of the Commentary refers to the MAP being
+available as possible”, but paragraph 76(a) of the
+Commentary makes it clear that a person should not be allowed to pursue
+arbitration by MAP if a domestic court or tribunal has already rendered a
+decision, and that the approach adopted by most countries
+is that a person
+“cannot pursue simultaneously the mutual agreement procedure and domestic
+legal remedies”. That paragraph
+goes on to state that “[w]here
+domestic legal remedies are still available, the competent authorities will
+generally either
+require that the taxpayer agree to the suspension of these
+remedies or, if the taxpayer does not agree, will delay the mutual agreement
+procedure until these remedies are exhausted” (PJ [38]).
+Importantly, the primary judge concluded (PJ [39]) that the Commentary
+“shows that generally, where domestic proceedings are
+commenced, a
+competent authority in the position of the ATO should seek to suspend the
+domestic proceedings”.
+(6) The extrinsic materials (the Action 14 Report and the Commentary) also
+suggest that it is the taxpayer — not the competent
+authority — that
+typically chooses whether to proceed by a MAP or by domestic procedures (PJ
+[40]). The Action 14 Report states
+that choice of remedies should remain with
+the taxpayer. Paragraph 44 of the Commentary states that, depending on domestic
+procedures,
+“the choice of redress is normally that of the taxpayer”
+and, in most cases, it is the domestic recourse provisions (eg
+appeals or court
+proceedings) that are “held in abeyance in favour of the less formal and
+bilateral nature of mutual agreement
+procedure”.
+(7) Although the Commissioner disclaimed that a competent authority could
+determine which of domestic proceedings or a MAP is to
+proceed, the effect of
+the position he adopted by making a decision to disallow the taxpayer’s
+objection was to require the
+taxpayer to abandon one of the two procedures (PJ
+[42]). The primary judge said he was “unpersuaded that this is what the
+or the MLI contemplate” (PJ [42]).
+(8) The primary judge further observed that nothing in the DTA, the MLI or the
+extrinsic materials supports the view that a competent
+authority may seek to
+force a taxpayer to pursue its domestic remedies by opposing the
+taxpayer’s application to stay its own
+proceeding (PJ [43]).
+(9) The Commentary (at paragraph 25) recognises that time limits in domestic law
+may create difficulties by requiring a taxpayer
+to choose between domestic
+remedies and the MAP remedies and, in this context, again indicates an intention
+on the part of the drafters
+of the DTA that the taxpayer be the one to choose
+whether to proceed by a MAP or by domestic proceedings (PJ [45]–[46]).
+primary judge’s consideration of various arguments advanced by the
+Commissioner may be passed over, as they have not resurfaced
+on the appeal. It
+is relevant to observe, however, that in many respects, the primary judge
+addressed those arguments by reference
+to his Honour’s conclusion that the
+DTA and MLI do not contemplate a taxpayer being forced to elect between remedies
+light of his Honour’s analysis of the DTA and MLI regime, the primary
+judge found that, generally speaking, if a taxpayer
+has been forced to commence
+domestic proceedings to meet a time limit, proceedings should be stayed to
+permit the MAP (including
+any arbitration) to proceed, if that is what the
+taxpayer wishes (PJ [82]). Refusing a stay in such cases would effectively
+in the competent authority being able to force the taxpayer to abandon
+one process, a consequence which is not contemplated by the
+DTA or the MLI (PJ
+[49], [54]).
+primary judge then addressed several “non-treaty considerations”
+raised by the parties as relevant discretionary considerations.
+The primary
+judge addressed several matters raised by the Commissioner as supporting the
+refusal of a stay, as follows:
+(1) The Commissioner submitted that the critical royalty issue at the heart of
+the Appellants’ proceedings concerned the construction
+and application of
+Australian copyright law, which is a matter in which the Federal Court of
+Australia has expertise. By contrast,
+the Commissioner submitted, an arbitral
+tribunal appointed under a MAP would have expertise in international tax
+matters. The primary
+judge considered the concern to be somewhat overstated in
+that the ATO will have the right to appoint one of the arbitrators, and
+appoint someone experienced in Australian copyright law and tax. The primary
+judge concluded that there was “some risk”
+that any arbitral panel
+would not have the same expertise as this Court (PJ [61]).
+(2) The Commission raised the matter of delay, noting that there could be no
+arbitration under the MAP until September 2025 (for
+the 2013 year MAP) and
+September 2026 (for the other MAP in respect of the 2014 to 2018 years). The
+primary judge observed that,
+even if a stay were refused, the Appellants’
+domestic proceedings would be unlikely to go to trial until 2026, an appeal was
+“inevitable” and the matter may go to the High Court, meaning that
+the proceedings would likely not be finalised until
+2027. The primary judge also
+observed that, if the stay were granted and the Appellants rejected the outcome
+of the MAP arbitration
+and only then proceeded with their domestic litigation,
+the matter might not be finalised until 2029. The primary judge regarded
+as favouring the refusal of the stay “although not strongly” (PJ
+(3) The Commissioner submitted that the MAP was not very far advanced, as the
+only step that had been taken was the provision of
+the ATO’s position
+paper, and the domestic proceedings going ahead would not waste court resources.
+The primary judge noted
+that, if the MAP progressed and the Appellants rejected
+the outcome of arbitration, there would have been wasted time and effort
+pursuing the MAP. While this was a function of the treaty machinery, the primary
+judge regarded it as relevant and favouring the
+refusal of the stay sought,
+“although not strongly” (PJ [69]).
+is the other discretionary matter raised by the Commissioner that lies at the
+heart of this appeal. That matter was explained and
+addressed by the primary
+judge as follows:
+the Commissioner submitted
+that a judicial determination by this Court (or,
+more likely, any appellate court) will provide guidance both to him and other
+. In that regard, Ms Melissa
+Spurge, a Deputy Commissioner of Taxation, gave evidence that there were
+approximately fifteen other entities whose distribution of software or
+related arrangements require consideration of the definition
+‘royalty’ for Australian tax purposes
+addition to those matters, it is also apparent that the Commissioner’s
+approach to what constitutes a royalty for the purpose
+of double taxation
+treaties has created
+friction with the United States
+Commissioner’s position on royalties in relation to software distribution
+arrangements is the subject of two draft taxation
+Income tax:
+royalties – character of receipts in respect of software
+2021/D4) and its revised version,
+Income tax: royalties – character of
+payments in respect of software and intellectual property rights
+2024/D1). On
+, Mr Jose E. Murillo, Deputy Assistant
+Secretary (International Tax Affairs) in the Office of Tax Policy within the US
+Treasury Department,
+wrote to Mr Marty Robinson, First Assistant Secretary
+– CBR in the Corporate and International Tax Division of the Australian
+Treasury, indicating that the
+United States had ‘strong concerns’
+also indicated that it would be
+inconsistent with United States Treasury
+regulations
+which provide that payments of the present kind are to be
+treated as payments in exchange for services which were not royalties.
+, the US Department of the Treasury again wrote to the Australian
+urging the ATO to withdraw Draft TR 2024/D1 or to ‘revise it
+as it applies to the Australia-U.S. tax treaty to bring it into conformity
+with the OECD Model Commentaries’.
+taxpayers submitted that these matters should be given little weight and that
+the stay should not be refused to allow the Commissioner’s
+guidance on the issue: ASR [12]. In that regard, it was
+submitted that the
+dispute with the United States is a diplomatic issue. Whilst this is no doubt
+formally true, it does not gainsay
+the fact that it is a diplomatic issue
+concerned with the meaning of word the ‘royalty’ in a treaty with
+the United States
+Further, that word derives from the Model Convention
+and appears in a large number of other double taxation agreements which
+has made with other members of the OECD. Thus, the
+dispute with
+the United States is potentially emblematic of a larger dispute within the
+distribution arrangements
+accept that
+any decision by this or an appellate court will provide guidance
+to the Commissioner about his draft ruling
+. If this guidance were for the
+Commissioner alone, I would be disposed to see the force of the
+Applicants’ submission. However,
+approximately 15 other
+whose arrangements raise the principal issue in these
+proceedings,
+an ongoing dispute with an important trading partner
+and, if one accepts the Applicants’ submission about the highly
+controversial nature of the Commissioner’s position,
+possibly other
+similar disputes in the wings.
+matters, which it is true do not directly relate to the current taxpayers, are a
+powerful discretionary consideration favouring
+the refusal of the stay
+application.
+Under Art 23(1)(c) of the MLI, the decisions of an arbitral
+panel have no precedential effect and are not to include ‘a rationale
+any other explanation of the decision’
+. In the context of 15 other
+taxpayers whose circumstances seem to raise similar concerns, a dispute with at
+least one significant
+trading partner, and the potential for additional disputes
+with other contracting states in future,
+it would be useful to have a
+judicial determination of whether arrangements such as the present do or do not
+involve a royalty under
+the various double taxation treaties which exist.
+series of 15 arbitrations would give no guidance on the correct answer and each
+decision would provide no guidance to the Commissioner
+as to what he was to do
+with the other cases. Indeed, I accept that
+there is a risk that the
+arbitrations may result in inconsistent outcomes
+including in this case
+(because there are two mutual agreement procedures on foot which need not be
+determined by the same panel).
+Nor would any such arbitral decisions provide
+guidance in negotiating the dispute with the United States
+this may be added another consideration.
+The existence of a final appellate
+conclusion on whether distribution arrangements such as the present involve
+royalties will assist
+in the conduct by the IRC and ATO of other mutual
+agreement procedure cases and any subsequent arbitrations
+. Contrary to the
+Applicants’ submissions at AS [30(d)] and ASR [5], such a determination
+will clarify, rather than ‘constrain’,
+the options available for
+resolving the issues in dispute between the ATO and IRC through a mutual
+agreement procedure. These last
+two matters are powerful considerations in
+favour of refusing the present stay application.
+(Emphasis added.)
+the section of his Honour’s reasons headed “Decision”, the
+primary judge returned to the importance of judicial
+guidance in the exercise of
+the discretion:
+Court’s decision of whether to stay the proceedings is discretionary. The
+terms of the treaties show that,
+generally speaking, in a case where a
+taxpayer has been forced to commence domestic proceedings to meet a time limit,
+proceedings
+should be stayed
+to permit the mutual agreement procedure
+(including any arbitration) to proceed if that is what the taxpayer wishes. It
+is the taxpayer
+which, generally speaking, gets to choose whether to pursue
+domestic proceedings or to enliven the mutual agreement procedure between
+competent authorities. Denying a stay in such cases would effectively result in
+the competent authority being able to force the
+taxpayer to abandon one process.
+Because this is not what the treaties contemplate, this is a powerful
+consideration favouring the
+grant of the stay sought.
+the question of what a royalty is under the various double taxation
+agreements and how it is to be applied to 15 different taxpayers
+is a question
+which subtends the position of the taxpayers in this case, as does the dispute
+with the United States
+. This larger consideration speaks powerfully to the
+need for there to be a final appellate judicial determination of the
+Such a determination will provide guidance to the various
+competent authorities, to the other taxpayers, to arbitrators and to any
+trading partners with whom the Commonwealth is presently in dispute about the
+nature of a royalty
+. This consideration strongly suggests that one case
+should proceed to final appellate determination for
+the guidance of all
+it not for the position of the 15 other taxpayers and the dispute with the
+United States, I would grant the stay sought. The
+balance of the other
+discretionary matters are outweighed by my impression of how these treaties are
+generally to operate in circumstances
+such as the present.
+the need for a judicial determination of the royalties question for the
+benefit of others
+persuades me that a stay should not be granted for public
+interest reasons.
+(Emphasis added.)
+his Honour’s reasoning made clear, were it not for the public interest
+discerned in the domestic proceedings progressing
+to judicial determination and
+so providing guidance vis-à-vis the approximately 15 other taxpayers and
+the dispute with the
+United States, the primary judge would have granted the
+stay sought.
+CONSIDERATION
+was no serious challenge on the appeal to the primary judge’s
+characterisation of the nature of the DTA and MLI and, in
+particular, his
+Honour’s conclusion that those instruments anticipate that a taxpayer will
+be able to access both the MAP and
+domestic appeal remedies, albeit not
+simultaneously. Similarly, it was not seriously argued that the primary judge
+was wrong to conclude
+that, absent discretionary factors tending in support of a
+stay being refused, “generally speaking, in a case where a taxpayer
+been forced to commence domestic proceedings to meet a time limit, proceedings
+should be stayed to permit the mutual agreement
+procedure (including any
+arbitration) to proceed if that is what the taxpayer wishes” (PJ [82]).
+(The Appellants’ only
+quibble with the primary judge’s analysis of
+the regime was that the risk of double taxation, if the stay were refused, was
+inevitable, not merely possible (cf PJ [30]).)
+the extent that any challenge to these conclusions of the primary judge featured
+in the appeal, it arose from the terms of the
+Commissioner’s Notice of
+Contention. But, as is addressed below, the key ground of the Notice of
+Contention was abandoned,
+several other grounds were said not to require
+consideration, and the balance did not articulate any clear challenge to these
+conclusions
+of the primary judge. The high point of the argument, insofar as it
+was maintained, was that it should be remembered that the DTA
+and MLI empower
+the ATO, as representing the competent authority of Australia, to suspend a MAP,
+as it did. The existence of that
+power was accepted by both the Appellants and
+the primary judge. On the appeal, as it was run, the Commissioner accepted that
+power to suspend was itself subject to the Court’s capacity to stay
+domestic appeal proceedings. The contention that any such
+grant of a stay would
+stultify or unduly restrict the Commissioner’s power to suspend a MAP was
+agree with the primary judge’s careful and comprehensive analysis of the
+DTA and MLI regime, and his Honour’s conclusions
+as regards the general
+position that arises under them where a taxpayer wishes to invoke a MAP in
+addition to keeping alive domestic
+appeal rights, and the legislative policy
+those matters reveal and which is relevant to consideration of whether a stay of
+proceedings should be granted.
+is evident from the primary judge’s reasons, it was the public interest in
+domestic proceedings giving guidance in respect
+of the matters in issue
+concerning the approximately 15 other taxpayers and the dispute with
+the United States that resulted in the
+primary judge being persuaded that the
+general position his Honour had identified — which would have seen the
+present proceedings
+being stayed — should not prevail, and the stay should
+be refused.
+Appellants’ principal contention on the appeal was that the primary judge
+erred in concluding that the stay should be refused
+on public interest grounds
+on the basis that refusing the stay, and thereby ensuring that the
+Appellants’ proceedings would
+— unless discontinued — progress
+to judgment, and an appeal, would provide guidance in relation to the 15 other
+and the dispute with the United States. The Appellants contended that
+the evidence did not support the primary judge’s conclusions
+the course of the Commissioner’s oral submissions on the appeal, senior
+counsel twice confirmed that the Commissioner did
+not contend that the other
+matters that the primary judge identified as militating against the stay would
+be sufficient to warrant
+the stay being refused. Those three matters were the
+expertise of an arbitral tribunal under the MAP versus the expertise of this
+Court in copyright matters, delay and wasted resources (PJ [61],
+[68]–[69], set out above at paragraph
+). Counsel for the Commissioner stated
+explicitly that he did not submit that delay, wasted costs and the point about
+expertise “would
+independently support the refusal of the stay if your
+Honours are against us on the main public interest point”.
+“main public interest point”, as it was characterised by counsel for
+the Commissioner, is the primary judge’s
+conclusion that judicial (and
+particularly appellate) determination of the issues in the domestic proceedings
+would address the “nature
+of a royalty” and so “provide
+guidance” that could be applied to the 15 other taxpayers, “the
+various competent
+authorities”, arbitrators and trading partners with whom
+the Commonwealth is in dispute about the nature of a royalty (PJ [83]).
+the primary judge referred, in this passage of his Honour’s reasons, to
+“trading partners with whom the Commonwealth
+is in dispute”, it is
+clear from other parts of the reasons that the only evidence of such a
+“dispute” concerned
+the United States, and that the tension with the
+United States was only characterised as being “potentially
+emblematic”
+of a larger dispute within the OECD (PJ [64]); there was no
+evidence of any such wider dispute.
+Consequently,
+and because we have concluded that the primary judge erred on the facts as the
+Appellants contended, it is not necessary
+to decide the Appellants’
+subsidiary arguments. We will, however, address some of those matters to put
+them in context and
+explain why it is not necessary to reach a concluded
+Preliminary matters
+Public interest considerations
+strand of the Appellants’ case, albeit not one advanced with great vigour,
+was that the matters that led the primary judge
+to consider that the stay should
+be refused — the guidance said to be afforded in respect of approximately
+15 other taxpayers
+and the dispute with the United States — were not
+matters of “high” public interest, and so were irrelevant. It
+The bases on which public interest factors were considered relevant in
+Games Inc v Apple Inc
+[2021] FCAFC 122
+(2021) 286 FCR 105
+Pharmaceuticals Pty Ltd v Boots Co (Aust) Pty Ltd
+(1992) 34 FCR 287 at 288,
+293 do not apply here.
+that the appeal has been determined based on the factual matters addressed
+above, it is not necessary to dwell on this issue.
+However, for completeness, we
+note that we do not consider that the matters of “public interest”
+to which regard may
+be had are confined in the manner for which the Appellants
+contended. A public interest can inhere in particular private litigation
+different ways. As the Appellants noted, in some cases, the public interest
+arises from the characteristics of the subject matter
+of the litigation, such as
+litigation concerning the protection of consumers (eg the claims made about
+product safety and characteristics
+Sterling Pharmaceuticals Pty Ltd v
+Boots Co (Aust) Pty Ltd
+(1992) 34 FCR 287) or the enforcement of competition
+law, which affects the economic market for certain segments of consumers
+Epic Games Inc v Apple Inc
+[2021] FCAFC 122
+(2021) 286 FCR 105
+) is an example of this kind of case: see, eg the
+observations of the Full Court (Middleton, Jagot and Moshinsky JJ) at [97]
+and [108]).
+, the Full Court identified, as one of its points of departure from
+the primary judge, that the primary judge’s position did
+with the fact that Epic’s proceeding has the potential to affect the
+position of app developers generally who
+are subject to the same contractual
+regime as Epic”: at [65] (see also at [105] concerning the capacity of
+private litigation
+to help develop and clarify the law). In our view, the Full
+regarded the potential for a particular piece of private
+litigation to affect non-parties as an element, albeit only one of many,
+public interest considerations that led the Full Court to consider that the
+primary judge erred in staying the proceedings
+in the Federal Court. Of course,
+as is clear from the Full Court’s reasons, the point to which we have
+directed attention concerned
+developers with the “same” contractual
+terms, which is not the situation in the case at hand. But the relevant point
+here is that the implications of particular litigation for third parties are not
+excluded from the ambit of the public interest considerations
+to which the Court
+can have regard.
+Standard of review
+Appellants contended that, if it matters to the result, the decision of the
+primary judge is not to be approached on the basis
+that an error of the kind
+identified in
+(1936) 55 CLR 499
+needs to be established. Rather, so the Appellants
+contended, the correctness standard of review applies. That position was said to
+arise on the basis that the permanent effects of a stay being refused are
+analogous to the “extreme” consequences of
+a permanent stay that
+lead the High Court to conclude, in
+GLJ v Trustees of the Roman Catholic
+Church for the Diocese of Lismore
+[2023] HCA 32
+(2023) 280 CLR 442
+) that the decision in respect of a permanent stay on abuse of
+process grounds is not discretionary, but permits only one legally
+permissible
+at [1], [15]–[17] (Kiefel CJ, Gageler and
+Commissioner disagreed, contending that the decision to refuse a temporary stay
+was discretionary, such that appellate review
+is to be conducted according to
+the principles in
+. He submitted that there is no relevant
+analogy between a decision to refuse a stay and a decision to grant a permanent
+the kind considered in
+it were necessary to decide, we would reject the contention that the decision to
+refuse the stay sought is not discretionary and
+is analogous to the decision
+under review in
+. Temporary stays are usually regarded as
+discretionary. There is Full Court authority that temporary stay determinations
+are discretionary.
+Onslow Salt Pty Ltd v Buurabalayji Thalanyji Aboriginal
+Corporation
+[2018] FCAFC 118
+, which concerned a temporary stay, the Full
+Court stated that the power to stay proceedings is discretionary: at [15]
+(Besanko, Barker
+and Colvin JJ). Additionally, and in any event, the analogy
+fails. The plurality in
+determined that the
+assessment of whether a trial would be so unfair as to be an abuse of process
+for the purposes of determining
+whether there should be a permanent stay was
+evaluative, but admitted of only one correct answer:
+at [15] and
+[23] (Kiefel CJ, Gagler and Jagot JJ). In this case, a stay was sought to
+preserve the Appellants’ domestic rights
+while the MAP progressed. The
+refusal of a stay required the Appellants to choose whether to proceed with
+their domestic proceedings,
+thereby effectively terminating the MAP in practice,
+or to discontinue their domestic proceedings, thereby foregoing their domestic
+appeal rights. That situation is not analogous to the factors leading to the
+Impiombato v BHP Group Ltd
+[2025] FCAFC 9
+(2025) 308 FCR 250
+Beach and O’Bryan JJ confirmed
+at [193] that: even where
+applies, “a discretionary
+decision may be set aside if it is based on an error of fact”; in an
+appeal against a discretionary
+decision, “the appeal is by way of
+rehearing in which the Court is required to determine whether the primary
+findings of fact involved error”; and where no witnesses
+have given oral testimony and there has been no cross-examination,
+hearing the appeal is in “as good a position as the primary judge to make
+findings of fact on the evidence that was
+adduced at the hearing”.
+the present case, nothing turns on whether or not the decision below is regarded
+as discretionary, so as to attract the principles
+because mistaking the facts is one of the errors identified in
+and, as set out below, we have concluded that the primary judge erred in
+relation to factual matters. Further as there was no cross-examination
+oral evidence before the primary judge, this Court is, on the appeal, in as good
+a position as the primary judge to make
+findings of fact:
+The Appellants have established an error of the requisite kind,
+whether or not
+applies. The Appellants accepted that, if they
+succeed on their contentions as to errors of fact, their contention that
+does not apply will not arise.
+of the grounds of appeal asserted error in the primary judge’s analysis of
+where the burden rests. The primary judge rejected
+the contention that the
+Commissioner bore the onus of demonstrating there is a good reason to refuse the
+stay, concluding that, other
+things being equal, the burden rests on the moving
+party in an interlocutory application (PJ [57]–[58]). The primary judge
+went on to observe “I do not think that where the burden lies in this case
+matters very much” (PJ [59]). We agree. The
+critical issues, and the
+issues upon which the disposition of the appeal turns, are the factual errors
+concerning the approximately
+15 other taxpayers and the dispute with the United
+States. We have determined those matters by reference to the evidence, such as
+it was, about the approximately 15 other taxpayers and the dispute with the
+United States, and the significance of domestic court
+proceedings to those
+matters. In short, the outcome of this appeal is not informed by the issue of
+onus, and it is not necessary
+or productive to further address the
+parties’ arguments on onus.
+The approximately 15 other taxpayers and the dispute with the
+United States
+is apparent from the reasons of the primary judge, his Honour considered that
+the “question” or “principal issue”
+that arises in the
+present Oracle proceedings also arises in the arrangements of the approximately
+15 other taxpayers and the dispute
+with the United States (PJ [65], [83]). More
+than that, the commonality of the issue was such that the primary judge not only
+that determination of Oracle’s domestic proceedings would
+provide “guidance” (PJ [62], [65], [66]), but considered
+that guidance was of such importance and utility that there was an identified
+“need for there to be a final appellate
+judicial determination of
+”, which determination would provide “guidance to the
+various competent authorities, to the other taxpayers, to arbitrators
+other trading partners with whom the Commonwealth is presently in dispute about
+the nature of a royalty”: (PJ [83],
+emphasis added).
+may be seen, in the primary judge’s assessment, judicial determination
+would provide definitive and reasoned guidance, which
+would address an issue
+lying at the heart of the affairs of the approximately 15 other taxpayers and
+the dispute with the United
+States, in a way that binding arbitration under the
+MLI would and could not. The primary judge considered that the provision of
+to all concerned — not only the other taxpayers, and the United
+States’ competent authorities, but also all other competent
+authorities,
+arbitrators generally, and other trading partners around the world with whom the
+Commonwealth may be in dispute concerning
+the nature of a royalty — was
+such that there was a strong suggestion that “one case should proceed to
+final appellate
+determination for the
+guidance of all
+”: (PJ [83],
+emphasis added).
+the appeal, the Appellants took issue with the primary judge’s factual
+findings concerning the nature of the “approximately”
+taxpayers’ affairs, their similarity with the controversy arising in the
+Appellants’ case, and the extent to
+which resolution by this Court of the
+Appellants’ proceedings would affect the 15 other taxpayers. (While noting
+that the figure
+of 15 other taxpayers is an approximate figure and no reasons
+explaining the imprecision were proffered, we will refer to them as
+“15” other taxpayers for simplicity.)
+respect of the 15 other taxpayers, the Appellants point to the paucity of
+evidence concerning those other entities and the nature
+of their royalty-related
+tax issues.
+sum total of the evidence on the other 15 taxpayers is a single paragraph in the
+affidavit of the Commissioner’s deponent,
+Ms Spurge, an Assistant
+Commissioner. In her affidavit, Ms Spurge stated as follows:
+The ATO is aware of approximately fifteen entities whose arrangements require
+consideration of the definition of a “royalty”
+for an [sic]
+Australian tax purposes in connection with software distribution and related
+arrangements for the purposes of their
+Australian tax affairs.
+was no evidence regarding the nature of the 15 taxpayers’
+“arrangements”. Nor was there any evidence regarding
+what aspects of
+the definition of “royalty” were in dispute, how those disputed
+aspects arose in relation to the 15 taxpayers’
+“arrangements”,
+or whether any of these 15 taxpayers was involved in substantively the same
+dispute as another (as was,
+eg, the case in respect of the Appellants). While
+the Commissioner observed that Ms Spurge’s evidence was not challenged,
+is not to the point. A lack of challenge to evidence does not elevate that
+evidence; the evidence went no higher and no further than
+the single sentence of
+Ms Spurge’s affidavit.
+on such slender evidentiary foundations, we do not consider that it was open to
+the primary judge to conclude that judicial
+determination of the Oracle
+proceedings
+— not “might” — provide
+material “guidance” in relation to the 15 other taxpayers.
+have emphasised that the primary judge proceeded on the basis that judicial
+determination
+provide guidance. Moreover, the nature of the
+guidance the primary judge perceived would be afforded by the Appellants’
+proceedings
+advancing to determination was such that his Honour referred to
+there being a “need” for there to be “final appellate
+determination” on the perceived common principal issue (see paragraphs
+above). But what is the basis for that
+conclusion? The single paragraph of Ms Spurge’s affidavit simply does
+not provide the
+necessary factual foundation for the finding. The dispute
+between Oracle and the Commissioner is anchored in the very particular
+circumstances of the contracts between Oracle Ireland and Oracle Australia. The
+Commissioner’s evidence provided no foundation
+for the conclusion that the
+affairs of the 15 other taxpayers were such that judicial determination of the
+Appellants’ proceedings
+would quell the controversy with the 15 other
+taxpayers, or materially contribute to its resolution by offering
+on a common principal issue.
+one sense, it is accurate to say that the underlying tax issues of concern to
+the Appellants concern the definition of “royalty”
+under the DTA. It
+is also accurate to say, as the Commissioner did, that the underlying tax
+dispute and the Commissioner’s
+decisions took place in the “broader
+context” of the treatment of payments by software distributors being a
+controversial
+issue. But those matters do not take one very far. As the
+narrative regarding the tax dispute above (at paragraphs
+) shows, the definition of
+“royalty” under the DTA is not itself the source of the controversy
+in the sense of there being
+some question of construction of Art 13(3) or
+question of law that is exposed for resolution that can be answered in a way
+divorced from the specific terms of the arrangement in issue.
+the controversy arising in relation to the Appellants’ tax affairs
+concerns whether the payments made by Oracle Australia
+to Oracle Ireland under
+the Distribution Agreements were payments “made as consideration for ...
+the use of, or right to use,
+any copyright ...”, where the question of
+what constitutes “copyright” is determined under domestic law by
+. The narrative set out above exposes that
+determination of that issue involves an in-depth analysis of: the terms of the
+Distribution
+Agreements; the particular nature of the rights acquired by Oracle
+Australia under those agreements; the arrangements in operation
+between Oracle
+Australia and Oracle Ireland; how those rights and arrangements are to be
+evaluated by reference to the terms of the
+; what the fees paid by
+Oracle Australia are consideration for; and whether those payments are to be
+apportioned in any way.
+short, the tax controversy is mired in the facts of the specific arrangements
+between Oracle Australia and Oracle Ireland. That
+this is the case is to be
+expected. As the High Court’s recent decision in
+Commissioner of
+Taxation v Pepsico Inc
+[2025] HCA 30
+(2025) 99 ALJR 1211
+exposes, the
+question of whether payments under particular contractual arrangements are
+“consideration for” particular
+rights turns on the terms of the
+contracts between the parties: at [159] (Gordon, Edelman, Steward and Gleeson
+JJ). Similarly,
+International Business Machines Corporation v Commissioner of
+[2011] FCA 335
+(2011) 91 IPR 120
+illustrates that determining
+whether or not certain payments are royalties is a fact-dependent exercise
+involving close analysis
+of the terms of the contracts between the parties, and
+the nature of their arrangements. That case concerned whether certain payments
+made pursuant to a software licensing agreement were “royalties” for
+the purposes of Art 12 of the double taxation agreement
+between Australia
+and the United States.
+the present case, there is simply no basis upon which to conclude that
+determination of the proceedings brought by the Appellants
+by this Court will
+shed meaningful light on whether the “arrangements” of 15 other
+taxpayers, said by Ms Spurge to involve
+“software distribution and related
+arrangements”, are or are not royalties for Australian tax purposes. The
+evidence relied on by the Commissioner does not include any evidence
+distribution and related arrangements”. Nor does the affidavit suggest
+that the tax affairs of the other taxpayers
+involve the application of a double
+taxation agreement.
+these reasons, we consider that the primary judge mistook the facts in
+concluding that the present proceedings would, if determined
+by this Court,
+provide material guidance on the correct tax treatment of the arrangements of
+the 15 other taxpayers.
+conclusion is sufficient to vitiate the primary judge’s determination that
+the stay should be refused. What then of the
+significance of judicial
+determination of the Appellants’ proceedings in this Court to
+disagreements between the Commonwealth
+and the United States? In our view, and
+in any event, the view taken regarding the dispute with the United States
+suffers from similar
+errors of fact.
+evidentiary basis for the dispute with the United States was very limited. The
+evidence comprised only two letters, one from a
+Deputy Assistant Secretary and
+the other from an Acting Deputy Assistant Secretary in the United States
+Treasury Department, to the
+First Assistant Secretary of the Commonwealth
+Treasury. The first letter is dated 23 August 2022 (the
+) and the second is dated 5 April 2024 (the
+second US letter
+). Both letters were produced by the
+Commissioner’s deponent, Ms Spurge, without any comment beyond noting
+their receipt and
+that they related, respectively to the position taken in the
+draft tax rulings TD 2021/D4 and TD 2024/D1. The US letters also raised
+issue of whether Australia was departing from the international consensus view
+regarding the ambit of “royalties”,
+as reflected in the
+“Commentary to Article 12 (Royalties) of the OECD Model Tax
+Convention” (we infer, a reference to
+the OECD’s ‘Commentary
+on Article 12 Concerning the Taxation of Royalties’ in
+Convention on Income and Capital: Condensed Version
+(OECD Publishing,
+was no evidence of any response to the US letters that may have been sent to the
+United States Treasury, although the second
+US letter does refer to some
+“constructive engagement” having taken place following the first US
+to the position in relation to the 15 other taxpayers, it is not apparent that a
+resolution by this Court of the fact-specific
+controversy concerning the
+payments made by Oracle Australia to Oracle Ireland (including their treatment
+in light of Australian
+domestic legislation (the
+)) will provide
+“guidance” that will materially contribute to resolving the
+disagreement between Australia and the United
+States, whatever its precise ambit
+may be. While the Commissioner would be bound by the result of judicial
+determination of the
+Appellants’ domestic proceedings, there is no
+identified basis to suppose that the United States Treasury would necessarily
+accede to whatever view might be taken by this Court in these proceedings. As
+the Appellants point out in their submissions, disagreements
+between sovereign
+nations concerning international treaties are primarily political questions, to
+be determined at the level of the
+executive, or parliament. The proposition
+that a decision of a domestic court of one national party to an international
+disagreement
+will resolve, or materially assist in the resolution of, that
+disagreement is speculative on the evidence in this matter; yet that
+foundation of the primary judge’s finding (see paragraphs
+various double taxation agreements to which Australia is a party, including the
+double taxation agreement between Australia and
+the United States, provide
+mechanisms by which taxpayers can be relieved of the burden of double taxation.
+Where such double taxation
+is not avoided by the provision of credit in one
+is to be pursued is through the MAP. Where invoked by a taxpayer, a
+MAP involves, in the first instance, the competent authorities
+contracting states attempting to “come to an agreement” by which the
+double taxation may be relieved. While the
+arbitration provisions agreed between
+Ireland and Australia provide, as a default, a mechanism whereby no reasons are
+given for an
+arbitral tribunal’s determination, as set out above at
+, it is open to Ireland
+and Australia to vary the basis upon which an arbitration is conducted so that
+reasons are given. Article
+16(3) of the MLI also provides for contracting states
+to resolve, by mutual agreement, any “difficulties or doubts arising
+the interpretation or application of [the DTA]”. As these provisions show,
+if the Commonwealth considers that “guidance”
+is desirable on
+matters of concern in its relations with other trading partners (such as the
+United States), progressing the Appellants’
+domestic proceedings to
+conclusion is not necessarily the only way in which such guidance may be
+procured (cf PJ [66]). Conversely,
+and while accepting that an arbitral
+tribunal under a MAP may have regard to — in the sense of reading and
+taking into account
+— a decision of a domestic court of one of the
+contracting states, there is no basis on which to assume that domestic judicial
+determination of the instant proceedings would form the basis of any arbitral
+disposition under a MAP in relation to other taxpayers
+or residents of other
+these reasons, we do not consider that the evidentiary record, such as it was,
+supported the conclusion that there was a “dispute”
+Australia and the United States whose resolution would be materially assisted by
+the judicial determination by this Court
+of the Oracle proceedings. It follows
+that, in our view, the primary judge erred in concluding that the
+“dispute” with
+the United States, together with the position of the
+15 other taxpayers, established the existence of a public interest supporting
+the refusal of the stay. In the absence of those factors founding the presence
+of a “public interest” tending
+the grant of a stay,
+and given our agreement with the primary judge’s conclusions regarding the
+nature of the DTA and MLI processes
+generally warranting a stay to avoid a
+taxpayer who wishes to preserve domestic appeal rights being effectively
+deprived of the opportunity
+to have a MAP progress, including to arbitration, it
+follows that the stay application should succeed.
+have proceeded on the basis that the matters we have addressed concerning the
+significance of the judicial resolution of the Appellants’
+proceedings to
+resolution of Australia’s disagreement with the United States constitute
+(or at least include) errors of fact.
+If that were not the case, in our view the
+error identified with respect to the 15 other taxpayers vitiates the primary
+determination to refuse the stay, meaning that it is for this
+Court to re-determine that application. As we have just noted, we would
+regard the matters raised concerning the dispute with the United States as
+exposing such utility in the proceedings continuing
+as to warrant the stay being
+Notice of Contention
+Commissioner filed a Notice of Contention with eight sub-paragraphs
+(1(a)–(h)).
+1(a)–(d) were cast in terms of matters that the taxpayer had “no
+right, or unqualified right” to do (in
+substance, to commence and maintain
+a MAP and choose whether to proceed by the MAP or domestic proceedings), and,
+conversely, matters
+that the Commissioner had a “power and a right”
+to do (in substance, to suspend a MAP). Ground 1(e) similarly referred
+“right” of the taxpayer in respect of a MAP and domestic proceedings
+being qualified by the Commissioner’s
+“power and right” to
+suspend the MAP.
+1(f) and (g) set out two propositions that it was contended are “not the
+law”. The first of these was the proposition
+that, where a taxpayer has
+commenced domestic proceedings to comply with a time limit, proceedings should
+be stayed to permit the
+MAP to proceed, “if that is what the taxpayer
+wishes”. The second proposition said to be “not the law” was
+that the treaties do not contemplate that the exercise, by a competent
+authority, of the power to suspend a MAP will or may result
+in a taxpayer
+abandoning the MAP in favour of domestic proceedings.
+1(h) contended that “to stay the proceedings would stultify, or
+alternatively unduly restrict, the Commissioner’s
+exercise of his power
+and right to suspend the mutual agreement procedure”. Buried in a footnote
+to the Commissioner’s
+submissions on the appeal, and appearing in small,
+single-spaced type face, was the following: “Par 1(h) of the Notice of
+is not pressed.” It was inappropriate for an important point
+— the abandonment of a ground stated in a Notice of Contention
+be buried as such in a footnote.
+same footnote also stated that “For more abundant caution these matters
+are raised at par. 1(a)–(e) of the Notice
+of Contention”. The
+matters to which that note refers must be the matters referred to in the
+sentence to which that footnote
+was attached, which read: “In that
+context, as the primary judge observed, the language of ‘rights’ is
+or, at least, unhelpful (J[77])”. The Commissioner did not
+advance any written or oral submissions in support of grounds 1(a)–(e)
+the Notice of Contention. In oral submissions, senior counsel for the
+Commissioner described those grounds as “trying to
+make the same point as
+his Honour was there making, that the language of rights ... is
+inapposite”, and also said that there
+was no need for the Court to decide
+those grounds of the Notice of Contention.
+the Appellants’ written submissions were advanced in terms that deployed
+the term “right[s]”, it was not
+contended that anything turned on
+whether that language was, or was not, used. Despite using the language of
+(and “power”) in his Notice of Contention, the
+Commissioner endorsed the primary judge’s view that the language
+“rights” is inapposite or unhelpful. The Appellants also clarified
+their position in oral submissions, highlighting
+that taxpayers have a right or
+power under domestic law to commence the MAP process, but any so called
+“right” as regards
+the continuation of that process, once commenced,
+is qualified by the competent authority’s right or power to suspend that
+process. It was not in dispute that this is, in turn, qualified by the power of
+the Court to grant or refuse a stay. Accordingly,
+none of the issues in dispute
+on appeal turn on the use of the language of “rights”.
+follows that nothing more needs to be said about grounds 1(a)–(e) of the
+Notice of Contention.
+Commissioner made written submissions on grounds 1(f) and (g) of the Notice of
+Contention. Those submissions were in the following
+remains to address two remaining matters raised by the Commissioner’s
+Notice of Contention.
+: At J[42], [43], [46], [49] and [54] the
+primary judge expressed the view that the Irish Treaty (including the MLI) did
+not contemplate
+that the Commissioner could force a taxpayer to choose between
+proceeding by way of a MAP or domestic proceedings. However, as the
+the primary judge’s reasoning reveals, where the Commissioner (in
+discharge of his statutory duty) makes an objection
+decision and the taxpayer
+commences domestic proceedings, the power of the Commissioner to suspend a MAP
+recognised by Art. 19(2)
+of the MLI may be exercised to give effect to the
+CA’s view that the public interest requires that the issue should be
+in the domestic proceedings and, if that view is sustained by the
+Court on a subsequent stay application, the result may be that
+the taxpayer
+abandons the MAP in favour of the domestic proceedings.
+: At J[82] the primary judge expressed the view that where a taxpayer
+has been forced to commence domestic proceedings to meet a time
+generally speaking
+proceedings should be stayed to permit the MAP to
+proceed if that is what the taxpayer wishes. The Commissioner submits that the
+approach is that the Court in such a stay application should not commence
+with any disposition in favour of the proceedings progressing
+through one
+process or another, but should assess which procedure more appropriately serves
+the interests of justice in all the circumstances
+of the case, including having
+regard to the matters referred to in
+present case, such an approach would yield the same conclusion as reached by the
+primary judge.
+oral submissions, the Commissioner referred to his written submissions on these
+grounds and did not advance any further substantive
+submissions in support of
+those grounds. The Commissioner described these grounds as “slightly
+different perspectives”
+on the approach the primary judge took on how the
+Court “should weigh the various desirability of the domestic proceedings
+as opposed to the MAP, and ... whether the exercise of the Commissioner’s
+power to suspend could force the taxpayer to pursue
+the domestic
+proceedings”. The Commissioner further stated that neither ground was
+going to have a “definitive operation”
+in the appeal. In the absence
+of any argument that anything turns on these two grounds of contention, and
+where it was not suggested
+by the Commissioner that either of these points would
+warrant this Court not disturbing the order below if persuaded that the primary
+judge erred in relation to the 15 other taxpayers and the dispute with the
+United States (see paragraph
+above), it is not necessary to address these grounds. Neither ground advances a
+coherent basis upon which the stay should still be
+refused in light of the
+errors we have found.
+DISPOSITION
+follows from the foregoing that the primary judge’s determination not to
+stay the proceedings cannot stand. This Court must
+determine the question of
+whether there should be a stay.
+set out above, the primary judge detailed the features of the MAP under the DTA
+and MLI. Subject to the matters noted above concerning
+the Notice of Contention,
+no party disputed the accuracy of the primary judge’s analysis of the
+features of the MAP under the
+DTA and MLI, its role relative to the processes
+available to taxpayers under the domestic law or that, while the regime
+anticipates
+that taxpayers will not be free to pursue a MAP and domestic court
+or tribunal proceedings
+simultaneously
+, it anticipates that the choice of
+remedy remains with the taxpayer.
+agree with the primary judge’s analysis and his Honour’s
+observations (at [42]) that the practical effect of the Commissioner’s
+approach in issuing the objection decisions and then opposing the grant of a
+stay that would prevent the simultaneous pursuit of
+a MAP and domestic court
+proceedings, was that the taxpayers were required to abandon one of the two
+options. The primary judge concluded,
+and we agree, that this is not what the
+DTA and the MLI contemplate (PJ [42]).
+primary judge’s analysis of these matters led his Honour to conclude that,
+were it not for the 15 other taxpayers and the
+dispute with the United States,
+he would have granted the stay sought (PJ [85]).
+follows from the Commissioner’s concession (referred to above at paragraph
+), and also because we otherwise
+agree with the primary judge’s analysis of the DTA and MLI, and his
+Honour’s analysis
+of the non-treaty considerations favouring a stay, that
+the orders to be made should allow the appeals, revoke the primary judge’s
+order dismissing the applications to stay each of the three proceedings, and
+stay those proceedings until the conclusion of the MAP
+processes (including by
+any arbitration).
+parties are to submit proposed orders giving effect to our reasons, and
+addressing costs within seven days of the publication
+of these reasons. If the
+parties cannot agree on orders, they are to submit their competing proposals for
+consideration along with
+a submission of no more than two pages within 10 days
+of the publication of these reasons. Any responsive submissions, limited to
+pages, may be submitted within 13 days of the publication of these reasons,
+following which orders will be made on the papers.
+I certify that the preceding one hundred and
+seven (107) numbered paragraphs are a true copy of the Reasons for Judgment of
+the Honourable
+Justices Hespe, Button and
+Dated: 21 October 2025
+RTF format (738 KB)
+Signed PDF/A format

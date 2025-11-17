@@ -1,0 +1,699 @@
+River Stone Biotech ApS v Antheia, Inc [2025] APO 38 (4 November 2025)
+IP AUSTRALIA
+PATENT OFFICE
+River Stone Biotech ApS v Antheia, Inc
+[2025] APO 38
+Patent Application: 2022203267
+Title: Methods of producing nor-opioid and nal-opioid benzylisoquinoline
+Applicant: Antheia, Inc
+Opponent: River Stone Biotech
+Hearing Officer: Dr N. R. Madsen – Deputy Commissioner of
+Decision Date: 4 November 2025
+Hearing Date: 16 September 2025, by video conference
+Catchwords:
+– section 210 – request for production
+of documents – ground of best method – whether documents on balance
+of probabilities are likely to be of substantial relevance to the matter –
+do the documents exist? – discovery verses
+production – notice to
+produce refused
+Representation: Patent attorneys for the opponent: Mr Gary Cox and Dr Linda
+Kennaugh of Wrays
+IP AUSTRALIA
+AUSTRALIAN PATENT OFFICE
+Application: 2022203267
+Title: Methods of producing nor-opioid and nal-opioid benzylisoquinoline
+Applicant: Antheia, Inc
+Date of Decision: 4 November
+I refuse to issue a notice to produce.
+REASONS FOR DECISION
+matter concerns a request by River Stone Biotech ApS (
+River Stone
+orders under
+section 210
+Patents Act 1990
+for the production of documents for the purpose of an opposition under
+application 2022203267 was filed in the name of Antheia, Inc (
+16 May 2022 as a divisional application of 2017345328 itself filed on 18 October
+2017. The application was examined and subsequently
+accepted. Following
+acceptance, River Stone filed a Notice of Opposition. The case asserted in the
+statement of grounds and particulars
+consists of a rather full suite of grounds,
+but it is the ground of best method
+(s40(2)(aa))
+that is relevant to the matter
+the period for filing evidence in support, River Stone filed a request for a
+Notice to Produce (19 May 2025). The request
+was subject to some exchanges with
+a delegate of the Commissioner of Patents who was ultimately not convinced that
+a Notice to Produce
+should issue. On 28 July 2025, River Stone requested a
+hearing in regard to the delegate’s findings. I also note that evidence
+in support has been filed and completed. The applicant has chosen not to file
+any evidence in answer. As such, pending River Stone’s
+request for a
+notice to produce, the matter is ready to proceed to a hearing of the
+substantive opposition.
+The Patent Application
+specification
+describes the
+background to the present invention as follows:
+Medicinal opioids are used for treating moderate to severe pain, but may
+exhibit addictive properties. Due to the mechanism by which
+medicinal opioids
+relieve pain, these medications are among the most effective painkillers in
+modern medicine. Additionally, however,
+medicinal opioids are also widely
+abused. In addressing the use of medicinal opioids, policy makers are tasked
+with balancing the
+under-treatment of pain, while mitigating the risk for opioid
+abuse. Pharmacotherapies have proven effective in treating and preventing
+addiction but the high cost of these therapeutics is a limiting factor in the
+scope and reach of treatment programs.
+preliminary consistory clauses describing the invention are as
+The present disclosure provides methods for demethylating a first opioid to a
+second opioid. The present disclosure further provides
+methods for demethylating
+an opioid to a nor-opioid. Additionally, the present disclosure provides methods
+for altering an opioid
+to a nal-opioid. Further, the present disclosure provides
+engineered cells for producing a nor-opioid from an opioid present within
+engineered cell. The present disclosure also provides engineered cells for
+producing a nal-opioid from a nor-opioid present within
+the engineered cell.
+An aspect of the disclosure provides a method for demethylating a first
+opioid to a second opioid. The method comprises contacting
+the first opioid with
+at least one enzyme, wherein contacting the first opioid with the at least one
+enzyme converts the first opioid
+to a second opioid through loss of an O-linked
+methyl group, wherein the first opioid is not selected from the group consisting
+codeine and thebaine.
+Another aspect of the disclosure provides a method of demethylating an opioid
+to a nor-opioid. The method comprises contacting the
+first opioid with at least
+one enzyme, wherein contacting the first opioid with the at least one enzyme
+converts the first opioid
+to a second opioid through loss of an O-linked methyl
+group. The method also comprises contacting the second opioid with at least
+enzyme, wherein contacting the opioid with the at least one enzyme converts the
+second opioid to a nor-opioid through loss of
+an N-linked methyl
+note the specification is rather lengthy, constituting 162 pages, and for the
+purposes of this decision it is not necessary for
+me to provide a general
+summary of its contents. River Stone’s request for a Notice to Produce is
+focused on examples 14-16
+in the specification. Paragraphs [00345], [00348] and
+[00351] are relevant to examples 14 (O-demethylation of opioid molecules),
+(N-demethylation of opioid molecules) and 16 (Modification of nor-opioid
+compounds to generate nal-opioids) respectively. I have
+added emphasis to the
+key aspect of these examples that form the basis for River Stone’s
+assertion that the best method has
+been withheld.
+[00345] To identify engineered enzymes with improved O-demethylation
+activity, sequences encoding enzymes listed in Table 3 were subjected
+mutagenesis and then screened via a high-throughput colorimetric assay. Initial
+libraries were generated by error-prone
+PCR using Mutazyme II (Agilent
+Technologies), and variants were cloned into the pA24 (or similar) vector by gap
+repair in the Cen.PK2
+screening host. Strains expressing mutated enzymes, with
+either individual mutations or combinations of mutations introduced by gene
+shuffling or other methods, were grown in selective medium in 96-well plate
+format under varying fermentation conditions (different
+media components, pH,
+and temperature, for example), pelleted, and lysed by glass bead disruption.
+Lysates were incubated with substrates
+(listed in FIG. 23) and assayed for
+formaldehyde production in the purpald assay.
+Enzymes with improved
+O-demethylation activity were verified by directly measuring O-demethylated
+product (oxymorphone, for example)
+formation in the culture medium by LC-MS.
+[00348] To identify engineered enzymes with improved N-demethylation
+activity, sequences encoding enzymes listed in Table 4 were subjected
+mutagenesis and then screened via a high-throughput colorimetric assay. Initial
+libraries were generated by error-prone
+PCR using Mutazyme II (Agilent
+Technologies), and variants were cloned into the pA24 (or similar) vector by gap
+repair in the Cen.PK2
+screening host. Strains expressing mutated enzymes, with
+either individual mutations or combinations of mutations introduced by gene
+shuffling or other methods, were grown in selective medium in 96-well plate
+format under varying fermentation conditions (different
+media components, pH,
+and temperature, for example), pelleted, and lysed by glass bead disruption.
+Lysates were incubated with substrates
+(listed in FIG. 24) and assayed for
+formaldehyde production in the purpald assay.
+Enzymes with improved
+N-demethylation activity were verified by direct measurement of N-demethylated
+product (noroxymorphone, for
+example) formation in the culture medium by
+[00351] To identify engineered enzymes with improved BIA modifying activity,
+sequences encoding enzymes listed in Table 5 were subjected
+mutagenesis and then screened via a high-throughput colorimetric assay. Initial
+libraries were generated by error-prone
+PCR using Mutazyme II (Agilent
+Technologies), and variants were cloned into the pA24 (or similar) vector by gap
+repair in the Cen.PK2
+screening host. Strains expressing mutated enzymes, with
+either individual mutations or combinations of mutations introduced by gene
+shuffling or other methods, were grown in selective medium in 96-well plate
+format under varying fermentation conditions (different
+media components, pH,
+and temperature, for example), pelleted, and lysed by glass bead disruption. To
+detect N-methylation activity
+in a high-throughput screen, lysates were
+incubated with substrates (such as noroxymorphone) in the presence of a BM3
+variant with
+demethylating activity, and assayed for formaldehyde production in
+the purpald assay (for indirect measurement of methylation). In
+formaldehyde formation can only result from the activity of BM3 on a substrate
+that has been N-methylated by an enzyme
+of interest.
+Enzymes with improved
+modifying activity were additionally tested for activity in cell lysates using
+various SAM analogues as cosubstrates
+(see FIG. 25), and verified by direct
+measurement of product formation by LC-MS. The best variant enzymes were
+selected for the efficient
+bioconversion of substrate molecules to nal-opioid
+to the claims, claims 1-3, which reflect examples 14-16, are most relevant, I
+provide these claims below.
+method of demethylating an opioid to a nor-opioid, comprising:
+through removal of a N-linked methyl group from the opioid,
+wherein the nor-opioid is produced by culturing an engineered yeast cell
+comprising a coding sequence for encoding the N-demethylase
+wherein the opioid is selected from the group consisting of codeine,
+oxycodone, thebaine, hydrocodone, dihydrocodeine, 14-hydroxycodeine,
+and 14- hydroxycodeinone, morphine, oxymorphone, oripavine, hydromorphone,
+dihydromorphine, 14-hydroxy-morphine, morphinone,
+or 14-hydroxy-morphinone.
+method of claim 1, further comprising:
+opioid with an O-demethylase enzyme, wherein contacting the first opioid with
+the O-demethylase enzyme converts
+the first opioid to a second opioid through
+loss of an O-linked methyl group; and
+the second opioid
+to the nor-opioid through loss of an N-linked methyl group,
+wherein the nor-opioid is produced by culturing the engineered cell,
+wherein the cell further comprises a coding sequence for encoding
+O-demethylase enzyme.
+method of claim 1 or claim 2, further comprising altering an opioid to a
+nal-opioid, comprising:
+N-methyltransferase enzyme, wherein contacting the nor-opioid with the
+N-methyltransferase enzyme
+in the presence of a cofactor converts the nor-opioid
+to the nal-opioid through transfer of a sidechain from the cofactor,
+wherein the nal-opioid is produced by culturing the engineered cell,
+wherein the cell further comprises a coding sequence for encoding
+N-methyltransferase enzyme.
+The Notice to Produce Request
+19 May 2025 River Stone made an initial request for a Notice to Produce. That
+request sought the following:
+pertaining to Example 14 of the Specification
+constituting, reporting, recording or evidencing each sequence of the
+O-demethylation enzymes that was verified by the
+Applicant and identified in
+paragraph [00345] of the Specification as displaying improved activity.
+pertaining to Example 15 of the Specification
+constituting, reporting, recording or evidencing each sequence of the
+N-demethylation enzymes that was verified by the
+Applicant and identified in
+paragraph [00348] of the Specification as displaying improved activity.
+pertaining to Example 16 of the Specification
+constituting, reporting, recording or evidencing each sequence of the best
+variant enzymes that were verified and selected
+by the Applicant for the
+efficient bioconversion of substrate molecules to nal-opioid compounds
+identified in paragraph [00351] of
+the Specification
+Stone supported this request by noting that:
+They assert in
+the statement of grounds and particulars that the specification does not
+describe the best method known to the applicant
+at the time of filing.
+The claimed
+invention is directed to methods using N-demethylase enzymes, O-demethylase
+enzymes, and N-methyltransferase enzymes.
+specification at examples 14-16 suggests that enzymes with improved activity
+were verified and the best enzymes for efficient
+bioconversion were selected.
+disclosure of sequence listings for these enzymes, the best method for
+reproducing the invention is not present.
+The requested
+documents will identify the improved sequences and are thereby determinative of
+the best method matter.
+request was considered by a delegate who considered that the relevant question
+was whether the applicant had knowledge of the
+improved enzymes at the relevant
+date, and not the identity of the enzymes themselves. He was not satisfied that
+a notice should
+issue on the basis that it appeared an exercise of discovery
+noting there was no certainty that the documents actually existed.
+Stone responded by expanding their arguments along the lines I have summarised
+above. Notably they suggested that:
+The documents
+sought by the request were expected to reveal with very high probability that
+the applicant has withheld the best method.
+The selected
+documents only relate to sequence listings and are easily produced
+Identifying the
+improved sequences requires incredible time and research effort thus it is
+necessary they be disclosed to satisfy
+the requirements of the ground of best
+delegate remained unsatisfied of the merits of the request for fundamentally the
+same reasons as already provided.
+Stone requested to be heard. Antheia did not wish to be heard.
+210 Commissioner's powers
+Commissioner's powers
+(1) The Commissioner may, for the purposes of this Act:
+(a) summon witnesses; and
+(b) receive written or oral evidence on oath or affirmation; and
+(c) require the production of documents or articles; and
+(d) award costs against a party to proceedings before the Commissioner.
+Exercise of power to summon witnesses
+(2) The Commissioner must not summon a witness under paragraph (1)(a)
+(a) the Commissioner is satisfied, on the balance of probabilities, of the
+following matters:
+(i) the witness has a substantial interest in the proceedings before the
+Commissioner;
+(ii) the witness is likely to provide oral evidence of substantial relevance
+to a matter before the Commissioner;
+(iii) receiving oral evidence from the witness is necessary or desirable in
+all the circumstances; and
+(b) the Commissioner notifies the witness of the actions the Commissioner may
+section 210A
+if the witness fails or refuses to comply with the
+(3) The Commissioner may summon a witness under paragraph (1)(a) whether the
+witness is in or out of the patent area.
+Exercise of power to require production of document or article
+(4) The Commissioner must not require a person to produce a document or
+article under paragraph (1)(c) unless:
+(a) the Commissioner is satisfied, on the balance of probabilities, of the
+following matters:
+(i) the person has a substantial interest in the proceedings before the
+Commissioner;
+(ii) the document or article is likely to be of substantial relevance to a
+matter before the Commissioner; and
+(b) the Commissioner notifies the person of the actions the Commissioner may
+section 210A
+if the person fails or refuses to comply with the
+requirement.
+(5) The Commissioner may require a person to produce a document or article
+under paragraph (1)(c) whether the person is in or out
+of the patent area.
+Exercise of powers in relation to bodies corporate
+(6) The Commissioner's powers in subsection (1) to make a requirement of a
+person extend, if the person is a body corporate, to making
+that requirement of
+any person who is an officer, agent or employee of the body corporate.
+central consideration is the fact that the Commissioner must not issue a notice
+to produce unless the document or article is likely
+to be of "substantial
+relevance" to the matter. Notably, the Commissioner must be satisfied of this
+requirement on the balance of
+probabilities.
+provisions apply to the exercise of the Commissioner's powers on or after the
+commencement of Schedule 3 of the
+Intellectual Property Laws Amendment
+(Raising the Bar) Act 2012
+Raising the Bar Act
+is, after 15 April 2013. Substantially the changes brought about at that time
+were the insertion of subsections (2) to (6).
+The effect of these changes to
+section 210 was discussed by the Deputy Commissioner in
+Domino's Pizza
+Enterprises Limited v Precision Tracking Pty
+"...in my view 'substantial relevance' means more than just 'substantive
+relevance' or 'not of limited relevance' as suggested by
+Mr Cordiner. It must
+be something that is likely to be, if not determinative, highly significant in
+the determination of a relevant
+issue in dispute in the proceedings."
+Deputy Commissioner drew a clear distinction between production under the
+and discovery (at [32]):
+"It follows that section 210 as amended is unlike the scheme for discovery
+and production in other jurisdictions. It is not to be
+invoked by one party as
+a general means of exploring the other party’s case and particularly is
+not to be used in a fishing
+expedition or a hunt for a ‘smoking
+gun’. Usually it will be necessary to identify a real and specific
+factual issue
+in dispute, not merely speculation that production or summons
+might reveal such a matter and a plausible basis for concluding that
+will in some way be likely to provide substantial assistance in resolving the
+matter. Otherwise the Commissioner cannot
+be satisfied on the balance of
+probabilities that what is sought is 'likely to be of substantial
+relevance'."
+and pointed out that the power is discretionary (at
+"The power exercised by the Commissioner is discretionary and must only be
+exercised after considering the respective interests involved
+and the purpose of
+the legislation. Some relevant factors will include fairness to the respective
+parties, whether any order made
+would be onerous, delay in the resolution of the
+proceedings and in the granting of the patent, the correctness of the
+determination
+of the proceedings and the efficiency of IP Australia in
+administering the process."
+Deputy Commissioner also focused on the idea that the distinction between
+production and discovery is supported by section 210
+“Rather [section 210] is intended to allow
+documents to be produced in limited circumstances where they would
+provide significant assistance in a determination by the Commissioner.”
+(emphasis added)
+an understanding appears consistent with the approach of the Federal Court of
+Australia as articulated in a relevant practice
+issued by then Chief Justice
+Allsop concerning subpoenas and notices to produce before the court, where
+recognition was given to
+the importance of avoiding “fishing”
+exercises as follows:
+“The subpoena must specify, with reasonable particularity, the
+documents to be produced and must avoid becoming a mechanism
+“fishing” for evidence or documents. Broad subpoenas that contain
+imprecise or ambiguous terms may fail to obtain
+it appears clear that if the Commissioner cannot be satisfied that documents
+sought by a requested notice exist then they cannot
+be satisfied, on balance of
+probabilities, that the relevant threshold of section 210(4) is passed. It
+follows that in circumstances
+where it is merely speculation that the documents
+exist then this will likely be considered an exercise of
+reasoning and conclusions of Deputy Commissioner Spann in
+adopted by Deputy Commissioner Barker in
+Sanofi v Amgen
+Laboratories Limited v Bayer New Zealand
+Deputy Commissioner stated that "substantial relevance" is not to be understood
+as merely relevant to a substantial issue that
+is in dispute. Rather, he noted
+that it is the degree of relevance that must be considered, and it is the high
+threshold set out
+that applies. The Patent Manual of
+Practice and Procedure at 7.6.3
+summarises the principles neatly:
+“Likely to be of substantial relevance" means that the documents or
+articles required are likely to be of substantial probative
+value in the
+determination of a matter before the Commissioner. This goes beyond
+evidence that may be merely relevant to the Commissioner’s
+determination.
+It requires a realistic expectation that the documents or articles are of
+such significance that they may be determinative
+of a matter before the
+Commissioner.
+Unless a document or article is identified with sufficient particularity for
+its relevance to be determined it cannot be the subject
+of a requirement to
+Section 210
+is not an opportunity to discover what
+relevant documents are in possession of another party or to obtain documents of
+relevance. Requests of this nature will be refused.”
+opponent made a submission that the Deputy Commissioner in
+devised a test that went beyond the intent of the explanatory memorandum
+when suggesting that documents should be “likely to
+be ... highly
+significant in the determination” in order for a notice to issue. While
+not an important aspect of the present
+decision, my reading of the Deputy
+Commissioner’s approach is that his language merely represents an
+alternative formulation
+of the fundamental consideration that is present in
+section 210 that a document must, on balance, be likely to be of substantial
+relevance. As the Patent Manual of Practice and Procedure puts it, a document
+will be considered likely determinative where it would
+provide substantial
+assistance in resolving the issue and/or dispute.
+Consideration
+Initial Considerations
+an initial point discussed at the hearing, I identified that the present request
+from River Stone seeks documents with no limitation
+to a range of dates. While
+River Stone suggests in their submissions that they seek a very specific set of
+documents with “surgical
+precision”, I note that the relevant time
+for establishing the ground of best method has recently been clarified by the
+The NOCO Company v Brown and Watson International Pty
+. In this regard, the best
+method requirement is assessed on the basis of the applicant’s knowledge
+at the filing of a complete
+specification qualified by the fact that for a
+divisional application, the relevant date is the filing date of the earliest
+application,
+being the date from which the patent term is calculated. Thus,
+such a limitation should be present in the requested notice. River
+Stone agreed
+this was the case at the hearing and noted that they would seek to amend their
+request if required.
+applicant clearly has a substantial interest in the proceedings in the context
+of the requested notice to produce, notwithstanding
+an indication of intent to
+not pay continuation fees. In turn, section 210(4)(a)(i) is satisfied. The
+question that remains to be
+answered is whether, on balance, a notice should
+issue including, if necessary, considering whether the documents requested are
+to be of substantial relevance.
+submissions
+Stone generally submitted along the following lines:
+The selected
+documents concern three different enzyme sequences referenced in the
+specification as having improved activity with respect
+to the claimed invention.
+They note that the “importance of the enzyme sequences is recited in the
+claims in that the invention
+defines the use of ‘a coding sequence’
+in an engineered yeast cell encoding a particular enzyme function”.
+specification does not list these improved enzyme sequences
+This information
+has been withheld by the patentee, and the evidence on file in support of the
+section 59 opposition demonstrates
+that it would take decades to repeat the
+relevant methods. They add that the steps described in the specification for
+and/or identifying the verified enzymes are highly complex and
+time-consuming, and that without those sequence listings the skilled
+cannot possibly repeat the invention.
+The documents
+are highly likely to reveal that the patent applicant withheld improved sequence
+listings and as such, they would be
+sufficiently relevant to the allegation that
+the best method of performing the invention has been withheld.
+Stone noted that the applicant did not deposit the relevant engineered yeast
+cells under the Budapest Treaty (being a mechanism
+that may be used to provide a
+clear enough and complete enough disclosure in relation to microorganisms), and
+that accordingly they
+must disclose the enzyme sequences. The converse would
+suggest that if the applicant had deposited the cells, they would not need
+disclose the sequences. To the extent that the cells (rather than the
+corresponding identified sequences) may be used to perform
+the invention, it is
+prima facie not clear whether the applicant possessed the relevant information -
+that is, whether they had sequenced
+the enzymes.
+address this, River Stone focusses upon the idea that the specification itself
+provides clear circumstantial evidence that the
+applicant has withheld the best
+method at the relevant date. They submit:
+“In Example 19, the Patent Applicant describes the biological
+production of
+N-demethylated
+opioid molecules... For the purposes of the
+Notice, River Stone refers the delegate to the first 4 lines of [00358] which
+Enzymes described in Example 15 and listed in
+Table 4, that displayed N
+demethylase activity on BIA molecules
+(such as those listed in
+were incorporated into a
+microbial strain (either Saccharomyces cerevisiae
+or Escherichia coli) which biosynthesizes morphinan alkaloids de nova. (Emphasis
+This passage presents clear circumstantial evidence that the Patent Applicant
+was in possession of the sequences at the time of filing
+the Patent Application,
+for the following reasons:
+(a) First, the above passage refers to the use of enzymes that displayed
+“N-demethylase activity on BIA molecules”. The
+only enzymes that
+were tested for N demethylase activity on BIA molecules were the improved
+enzymes identified in paragraph [00348].
+The enzymes produced in paragraph
+[00346] were not tested for the identified enzyme activity; they were merely
+isolated, verified
+by PCR and sequenced.
+(b) Second the Enzymes were then “incorporated” into the select
+microbial strain. Without knowing the sequence of the
+enzyme, it would not have
+been possible to incorporate the sequence into the strain.
+the circumstantial evidence would strongly suggest that the Patent Applicant
+must have been in possession of the sequences
+with N demethylase activity on BIA
+molecules revealed in Example 15.”
+with specific focus on the specificity of the request and the relevance of the
+requested documents, River Stone assert that
+the documents sought are specific
+and not an act of discovery.
+Should a notice be
+as I reflect upon the submissions summarised at paragraph 25 above, it is clear
+to me that the issues compress into some
+rather straightforward points. The
+focus of the request is that it is clearly the case that “improved”
+enzymes are in
+some way identified. It is also clearly the case that the
+specification does not list what those enzymes are in terms of their sequencing.
+The documents that are sought are essentially those which are considered to
+contain the identity of those sequences. While it is
+the case that the steps of
+producing and identifying the improved enzymes may be highly complex and time
+consuming and that the requested
+documents may be highly relevant to the ground
+of best method, it is relevant to first consider whether the request is one for
+or for discovery.
+I have noted above in discussing the relevant legal principles, s210(4) operates
+to enable the production of existing documents.
+This is distinct from
+discovery, or the conduct of a “fishing expedition” for documents
+that might exist. Subsection
+210(4) also operates generally on the on the
+balance of probabilities. Thus, it appears plain to me that if the Commissioner
+be satisfied that the documents exist then he cannot be satisfied, on the
+balance of probabilities, that the requirements of 210(4)(a)(ii)
+are made out.
+opponent submits that the specification itself provides sufficient evidence of
+the existence of the requested documents, at least
+circumstantially. Firstly,
+the opponent submits that the only way the enzymes could be
+“identified” is by their sequences.
+Secondly, the opponent submits
+that the only way the improved enzymes could be “incorporated” into
+the microbial strain
+as per example 19 is by knowing their
+am not satisfied on the balance of probabilities that the documents do in fact
+exist. Firstly, while the disclosed methods at paragraph
+[00345], [00348] and
+[00351] discuss “identifying engineered enzymes” I see no
+information before me that inherently
+suggests that the relevant enzymes were
+sequenced. As a general proposition it would appear arguable that
+identification of improved
+enzymes may be nothing more than some kind of wet
+chemical isolation in a test tube, to put it colloquially. More specifically,
+turning to those paragraphs in full the identification occurs through a method
+of verification using Liquid Chromatography –
+Mass Spectrometry (LC-MS).
+I note that Examples 14, 15 and 16 are supported by methods that identify
+capable enzymes, wherein these
+individual colonies are sequenced for
+identification purposes ([00342], [00346] and [00349], respectively). However,
+there is nothing
+in the methods of the improved enzymes (para [00345], [00348]
+and [00351]) that requires identification methods to be the same, especially
+when each method clearly identifies the relevant method to be used. Therefore,
+I am not satisfied on balance that there is a circumstantial
+argument that the
+documents requested containing the sequences must exist on the face of the
+specification.
+the opponent concedes in their submissions that when reading example 15 it is
+unclear if the improved enzymes have been
+sequenced. Albeit it, the opponent
+claims that when this is read together with example 19 (at [00358]) the fact
+that the improved
+enzymes are “incorporated” into a microbial strain
+is evidence that the applicant must have the sequences, otherwise
+incorporation
+would be impossible. I further note that at the hearing the Opponent also
+relied on the term “engineered cell”
+to emphasise this point that
+the sequences had to be known to engineer the microbial strain by incorporation.
+However, these contentions
+are not supported by any evidence and as such this
+claim does not rise higher than mere speculation as to the existence of the
+Furthermore,
+the opponent acknowledges that they are seeking to identify whether the
+applicant was in possession of the relevant sequences
+and submitted at the
+hearing that if the applicant does not have these sequences, then there would be
+no burden having allowed the
+notice to produce. These claims further support my
+preferred construction of the specification that there is nothing circumstantial
+or directly leading to the inference that these documents must be more likely
+than not to exist.
+general, the opponent argues that the real and specific factual issue in dispute
+is best method (s40(2)(aa)) because they claim
+that the applicant has withheld
+sequence information relating to the improved enzymes of examples 14-16. I
+accept that this is a
+real and specific factual issue. However, I am not
+convinced that it is being properly relied on. What appears at this stage a
+more relevant issue, given the evidence already filed in support of the s59
+opposition to the application and River Stone’s
+submissions, is that of
+whether there is a clear and complete disclosure of the invention as required by
+s40(2)(a). Much of the
+opponent’s submissions refer to the requested
+notice being necessary because the claimed invention is not repeatable, not
+(e.g. the opponent asserts that at least claim 1 cannot be performed
+without knowledge of the “coding sequence for encoding
+the N-demethylase
+enzyme) and/or because the N-demethylase engineered yeast cells have not been
+deposited under the Budapest Treaty.
+Such arguments are not applicable in the
+present matter to the ground of best method.
+absent any evidence in areas that amount at this stage to speculation, I am of
+the opinion that allowing this notice to
+produce would constitute a “hunt
+for a smoking gun” in relation to the ground of best method.
+need go no further to consider the question of substantial relevance. I
+consider the request is for discovery as opposed to production.
+With this in
+mind I note that the amendments introduced by the
+Raising the Bar Act
+merely raised the threshold for relevance required of documents sought to be
+produced. An important aspect of section 210 was, and
+continues to be, the need
+to distinguish between production and discovery as a preliminary matter.
+the event that I am wrong in my approach to the nature of the request as a
+fishing expedition, I will comment on the potential
+relevance of the documents.
+As put forward by the delegate in his approach to the matter prior to the
+hearing, if the case currently
+put forward by the opponent on the basis of the
+specification alone satisfied me that the relevant improved enzymes were
+then I cannot see how the production of those documents would provide
+substantial assistance in resolving the matter. Knowledge
+of the identity of
+the sequences as such is not the question to be answered in the context of the
+ground of best method. Instead,
+the ground of best method asks whether, at the
+relevant time, the applicant knew of a better method than that which is
+If one assumes that the performance of the relevant enzymes is
+critical to the best method and is satisfied on balance that the
+enzymes have
+been sequenced, then a best method attack would succeed on that basis, and the
+identity of the sequences themselves
+would appear to bring no further
+determinative force to the matter.
+this further reason I do not think a notice should issue.
+am not satisfied that I should issue a notice. On the information before me, I
+consider that the present request is for discovery
+and not production.
+Dr N. R. Madsen
+Deputy Commissioner of Patents
+Specification at
+Specification at
+[0003]-[0005]
+[2016] APO 13
+Allsop CJ (25 October
+2016) Subpoenas and Notices to Produce Practice Note (GPN -SUBP) Federal Court
+of Australia,
+https://www.fedcourt.gov.au/law-and-practice/practice-documents/practice-notes/gpn-subp
+https://manuals.ipaustralia.gov.au/patent/7.6.3-basis-for-requiring-production
+The NOCO Company v Brown and Watson International Pty Ltd
+[2025] FCA 887
+RTF format (350 KB)
+Signed PDF/A format

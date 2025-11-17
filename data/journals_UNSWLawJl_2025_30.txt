@@ -1,0 +1,1884 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/UNSWLawJl/2025/30.html
+Scraped: 2025-11-17 15:45:16
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Buckley, Ross P; van Romburg, Lucien J --- "The Need to Address the Broader Social Dimensions in Any Decision to Issue a Retail Central Bank Digital Currency" [2025] UNSWLawJl 30; (2025) 48(3) UNSW Law Journal 952
+I INTRODUCTION
+A Policy Objectives within the Scope of Primary Central Bank Mandates
+1 Promote Resilient Payment Systems
+2 Support Monetary Anchor Role of Central Bank Money
+3 Improve Cross-Border Payments
+B Policy Objectives outside the Scope of Primary Central Bank Mandates
+1 Foster Innovation
+2 Encourage Competition
+3 Enhance Financial Inclusion
+III CENTRAL BANK MANDATES: A BRAVE NEW WORLD?
+IV WHERE TO FROM HERE?
+A A Needs- and Effects-Focused Approach
+B Broad Public Engagement and Participation
+V CONCLUSION
+THE NEED TO ADDRESS THE BROADER SOCIAL DIMENSIONS IN ANY
+DECISION TO ISSUE A RETAIL CENTRAL BANK DIGITAL CURRENCY
+ROSS P BUCKLEY* AND LUCIEN J VAN ROMBURG**
+Central banks, in deciding to issue a Central Bank Digital Currency
+(‘CBDC’), tend to focus on how it might best support
+their policy
+objectives. While central banks typically view themselves as being in the
+service of society, the ‘need’
+for a CBDC will usually be assessed
+within the scope of their primary mandates, traditionally concerned with
+monetary policy. This
+is problematic, as grounds for the issue of a CBDC that
+fall outside this scope may not be considered fully. We suggest that the
+needs of society and the effects of a retail CBDC should be given substantial
+weight in decisions concerning a potential
+CBDC. States should collaborate with
+central banks and other diverse sources of expertise to ensure broad public
+engagement and participation
+in deciding whether there is an actual need for a
+CBDC, as well as its design.
+I INTRODUCTION
+Contrary to popular belief, the Bahamas and China were not the first
+countries to issue central bank money in digital form to the
+In 1993, the Bank of
+Finland launched its Avant Smart Card system, which issued smart cards preloaded
+with Finnish markka, and functioned
+much like debit or credit
+Despite this pioneering
+vision, Avant was discontinued in 2006 as it became more expensive to use than
+simple debit cards. Initially,
+the smart card was offered to customers for free,
+but fees were later added, which reduced customer
+The reason for
+Avant’s discontinuance was ironic, as the Bank of Finland’s primary
+reason for its issue was the potential
+cost savings. This experience thus serves
+as a timely cautionary tale of the importance of clarity about the precise
+reasons for
+issuing a retail Central Bank Digital Currency
+Accordingly, we analyse the justifications given by central banks for their
+intentions to issue a retail CBDC, and whether these rationales
+address societal
+needs broader than the purely economic. As well put by Hiep Ngoc Luu et al:
+‘Despite CBDC gaining in its popularity,
+our understanding of the reasons
+why countries decide to adopt [a] CBDC is still in its
+We aim to analyse
+the policy objectives typically given as justifying CBDC projects and explore
+whether central banks appropriately
+consider broader societal needs in the
+process. We ultimately argue that as CBDC issuance will have society-wide
+effects, decisions
+concerning a potential CBDC, including whether there is an
+need for one, should involve multiple agencies within government,
+and broad public engagement and participation. It should not be
+a process driven
+only by central banks and directed only through the lens of their monetary
+policy mandates. This article contributes
+to the literature examining the role
+of central banks in social
+The arguments for a wholesale CBDC are quite different, with wholesale CBDCs
+potentially offering substantial efficiency gains in
+cross-border trade
+transaction payments, and capital market
+transactions.
+This article focuses
+upon retail CBDCs – those designed for use by the general population, not
+major banks and corporations.
+Whereas a retail CBDC could be used by households
+and businesses to effect online transactions and transfers of funds to family
+friends, a wholesale CBDC would only be accessible to a limited range of
+market participants, such as commercial banks, and would
+be used to effect
+wholesale payments and
+settlements.
+This article has five Parts. Part II surveys the broad reasons given by
+central banks, in both advanced and developing economies,
+for the issue of a
+CBDC. Part III sets out our thesis that the ‘need’ for a CBDC will
+typically be assessed in terms
+of the scope of central bank primary mandates and
+the related policy objectives, which are traditionally concerned with monetary
+policy. This is problematic as grounds for issuing a CBDC which fall outside
+this scope may not be considered fully. Part IV sets
+out our suggestions for
+needs-focused and effects-focused approaches and broad public engagement and
+participation in making decisions
+concerning a potential retail CBDC, including
+whether there is an
+need for one, and settling upon its model and
+design. This should be facilitated largely by the state and not by central banks
+Such an approach will ensure that the broader interests of all members of
+society are properly taken into account. Part V concludes.
+II CENTRAL BANK DIGITAL CURRENCIES
+While the technology that typically underpins CBDCs has existed for some
+the term itself is relatively
+recent, with reports indicating it was coined by Bank of England
+(‘BoE’) research staff
+Since then, CBDCs have
+garnered sustained government and public interest, and today feature prominently
+on policy agendas worldwide.
+Today’s focus upon CBDCs is due, in large part, to the rise of
+cryptocurrencies, and the systemic risks associated with the
+digital asset
+platforms which facilitate their
+The catalyst for
+developed nations’ focus on CBDCs (at least beyond China, which had been
+researching them since about 2014)
+was Meta’s Libra
+The first Libra
+Association white paper, published in June 2019, set out Meta’s plans for
+a decentralised, blockchain-based,
+low-volatility, asset-backed cryptocurrency
+and a smart contract platform.
+Governments and regulators globally reacted strongly against these plans for a
+digital currency issued by a company with billions
+of users globally, fearing
+loss of monetary and economic sovereignty. In response, Meta issued an amended
+‘White Paper v2.0’
+and rebranded and
+restructured Libra as Diem in December
+Nonetheless, the entire
+Libra/Diem project was wound down in January
+Since then, many policy
+papers have been published by governments internationally exploring potential
+reasons for CBDC issuance,
+which most often tend to be to address existing pain
+points in, or future-proof, payment
+The cases presented by central banks in deciding to issue a CBDC overwhelmingly
+highlight the potential benefits. However, a CBDC
+may also introduce risks,
+particularly related to financial
+Large transfers of retail deposits by households into CBDC could impact the
+ability of commercial banks to access low-cost and stable
+funding from the
+public. This may ‘shrink their balance sheets’ and, in extreme
+cases, require the central bank to make
+available through their discount window
+to the commercial banks the funds otherwise siphoned out of the commercial
+banking system.
+Further, during
+financial crises, bank runs may occur as households suddenly move their
+commercial bank deposits to the safe harbour
+of CBDC, as a state-backed
+risk-free asset.
+At the moment,
+bank runs are severely curtailed by the limited access to cash provided by most
+bank branches. The digital nature
+of CBDCs, without appropriate holding and
+withdrawal limits, may facilitate massive, rapid and destabilising
+withdrawals.
+Several solutions,
+however, have been proposed to mitigate the potential financial stability risks
+posed by CBDCs. These solutions
+include providing for no or very low interest
+rates to attach to CBDCs so as to not compete with commercial bank
+enforcing routine
+quantitative limits on deposits and withdrawals of CBDCs with possibly more
+restrictive limits at times of
+and the use of deposit
+How these solutions
+will translate into and work in practice, however, is yet to be fully worked
+through. Some jurisdictions, however,
+are beginning to voice concerns over the
+risks associated with the issuance of a CBDC. For example, while acknowledging
+the political
+drivers involved, United States (‘US’) President
+Donald Trump recently issued an executive order ‘prohibiting the
+establishment, issuance, circulation, and use of a CBDC within the jurisdiction
+of the United States’ to protect Americans
+from the risks associated with
+a CBDC, including those related to its threat to financial system stability,
+In grappling with these issues and considering the specific uses to which a
+CBDC could be put, governments will have to determine
+how a retail CBDC will be
+This will involve
+decisions concerning the CBDC’s architecture, user base, core technology,
+and scope of usage.
+there are three architectural choices for CBDC systems.
+In centralised CBDC systems, central banks manage all payments and can keep a
+record of all transactions.
+Users store their units of value and use them for transactions through a central
+bank account by verifying their
+In decentralised systems, on the other hand, validation of payments and
+recording of transactions occurs on blockchains operating
+on decentralised
+ledgers – as with the Bitcoin protocol. The validation process for
+Bitcoin, known as mining, is highly unlikely
+to be adopted for a retail CBDC due
+to speed and energy usage issues, and alternative consensus mechanisms will be
+adopted. However,
+transactions are validated and recorded, and a CBDC will
+operate as a guaranteed direct claim on the central
+Finally, in a hybrid CBDC system, users would not necessarily have a central
+bank account, and intermediaries will instead link users
+to the central bank
+through the intermediaries’ own
+The costs of creating a
+CBDC system will depend largely on its design, and will be significant. In 2024,
+the European Central Bank
+(‘ECB’) put out calls for applications for
+potential digital euro component providers with an aggregate cost ranging
+€430 million to €1.2
+This range does not
+include ECB staff expenses and costs related to the private sector’s
+integration of a digital euro into
+their business practices and systems.
+Irrespective of the precise type of system that may be adopted to implement
+the CBDC, in deciding the threshold issue of whether to
+issue the CBDC, central
+banks will almost inevitably start by asking how their mandated policy
+objectives would be supported by
+This is natural. The policy
+objectives are, after all, in place for the benefit of the public at
+As the economic and
+socio-cultural contexts of each jurisdiction vary, there will be a range of
+justifications for the issue of a
+CBDC. However, central bank policy objectives
+capable of achievement through the issue of a CBDC can, as we do below, be
+into two broad groups: those that fall within the scope of the primary
+mandates of central banks, traditionally concerned with monetary
+policy, and
+those that do not.
+A Policy Objectives within the Scope of Primary
+Central Bank Mandates
+In this section, we consider the primary policy objectives of promoting
+resilient payment systems, providing a monetary anchor, and
+thereby ensuring the
+singleness of money and promoting cross-border payments.
+1 Promote Resilient Payment Systems
+The primary reason given by central banks for choosing to explore issuing a
+CBDC is to support the policy aim of promoting resilient
+Payment systems need to
+be reliable, resilient and safe to support commerce, and robust enough to
+respond to the risks and challenges
+that arise from greater levels of
+digitisation, cyber-attacks, natural disasters and
+Payment systems must
+therefore be highly adaptive to respond effectively to future challenges.
+Governments worldwide have taken steps
+to modernise their payment systems
+through legislative and supervisory means to address new risks and challenges
+and have turned
+towards advanced technology as a potential
+The Reserve Bank of Australia (‘RBA’) believes a CBDC could
+increase the resilience of some aspects of the Australian
+A report published by
+the RBA, in collaboration with the Digital Finance Cooperative Research Centre
+(‘DFCRC’), noted
+that a CBDC could be used to support increased
+transparency and resilience in offline environments
+particularly.
+A CBDC could thus
+make it possible for Australians to effect digital payments during electricity
+and telecommunication disruptions,
+such as those following natural
+This is particularly
+relevant as Australia is prone to natural disasters, the frequency of which have
+increased with climate change.
+In Europe, a digital euro is seen as a means to strengthen Europe’s
+resilience against potential cyberattacks and technical
+disruptions, such as
+power outages.
+Similarly, the
+Central Bank of Nigeria has noted that an eNaira could enhance the resilience of
+Nigeria’s payments system by
+serving as a central alternative means for
+digital payments.
+Central banks have argued further that CBDCs could promote the resilience of
+payment systems in the face of the risks presented by
+the accelerated use of
+digital payments and the potential for systems to be dominated by a handful of
+digital payment services providers
+through economies of scale and network
+In such an oligopoly
+environment, dominant payment services providers could set high prices for
+consumers and disruption of their
+services could threaten the efficacy of the
+entire system. A CBDC could further promote the resilience of payment systems by
+as a ‘redundancy’ system to complement non-CBDC
+2 Support Monetary Anchor Role of Central Bank
+The second case put forward by central banks in favour of CBDC is that it
+could support the continued role of central bank money as
+a monetary anchor,
+which preserves public trust in money generally and commercial bank money in
+particular.
+The existence of
+CBDCs will mean that the public can at any time exchange their commercial bank
+money (for instance deposits with
+a commercial bank) for central bank money,
+just as they can do today for cash. Like cash, CBDCs will be risk-free and
+convertible,
+therefore providing a backstop for all other types of money –
+a monetary anchor role important for maintaining financial
+In a future where
+physical cash is used far less than today, CBDC would ensure that the role and
+function of commercial bank money
+This policy aim is
+significant considering the steep decline in physical cash use, particularly in
+advanced economies.
+According to
+Corinne Zellweger-Gutknecht, Benjamin Geva and Seraina Grunewald, the decline in
+the use of cash can be explained by
+the increased use of commercial bank money,
+public laws that restrict or exclude the use of cash, and the saving and
+hoarding of
+cash which keeps it out of
+circulation.
+We believe the
+first factor is the principal one.
+The decline in cash usage could also mean a CBDC will be needed to maintain
+the singleness or uniformity of
+Economic efficiency
+demands that every dollar or euro be worth the same as every other dollar or
+euro, otherwise merchants negotiating
+sales would have to negotiate both the
+price and which commercial bank would issue the money being used to pay the
+price. This singleness
+or uniformity of money is primarily ensured by the public
+being able to exchange digital commercial bank money for central bank money.
+This is done today by withdrawing cash from their bank account. If usage of cash
+ceases or declines to minimal levels, this may no
+longer be possible, and a CBDC
+would be needed to provide the public with the ability to hold value in central
+bank money. This function
+is a particular motivation of the ECB in choosing to
+issue a digital euro.
+Federal Reserve has likewise indicated that a digital US dollar could provide
+the public with wider access to digital money,
+free from credit and liquidity
+A CBDC can also serve as a defence against foreign distortions of a payments
+system. The BoE and His Majesty’s Treasury (‘HM
+have indicated that if digital money, denominated in other currencies, becomes
+broadly available in the United Kingdom
+(‘UK’), a digital pound
+could potentially play a key role in maintaining the sterling as the unit of
+The continued role of central bank money as a monetary anchor is also crucial
+for developing economies. The People’s Bank of
+China has noted that their
+mandate is ‘to ensure the public’s direct access to cash, and make
+sure the unit of account
+is consistent in the era of digital economy by
+digitalizing cash’.
+Developing economies are particularly sensitive to currency substitution, where
+a large share of domestic transactions are settled
+in a foreign currency other
+than the official unit of
+In Nigeria, for
+example, there is strong evidence that currency substitution significantly
+impacts the demand for Naira.
+The eNaira is an attempt to respond to this trend, to improve the availability
+and usability of central bank
+3 Improve Cross-Border Payments
+A third argument advanced by central banks in favour of a CBDC is that it
+could improve cross-border
+Cross-border payments
+are essential for every economy as they facilitate international trade, and
+thereby contribute to economic
+prosperity.
+Global cross-border
+payments are projected to grow significantly from USD190 trillion in 2023 to
+USD290 trillion by 2030.
+Cross-border payments are central to global economic well-being. Despite this
+importance, such payment systems today are generally
+and are particularly so
+for migrant workers from developing economies who disproportionately incur more
+expenses in effecting these
+One potential solution to this problem is to make nations’ fast payment
+systems interoperable so that users can transact with
+each other seamlessly
+across different systems.
+other leading possible solution is CBDCs. CBDC systems for cross-border payments
+can be designed to exist with other cross-border
+payment systems or to share a
+common system with other forms of
+Domestic CBDC systems
+can also be interlinked, or a common platform can be created for multiple CBDCs,
+to ensure interoperability
+amongst several national CBDC systems for effecting
+cross-border payments.
+been argued that the use of CBDC cross-border systems can ensure instant
+settlement of both domestic and international cross-border
+payments, which
+lowers the cost of international remittances and reduces risk to
+As such, CBDC
+cross-border systems may likely increase capital flows, thereby stimulating
+economic growth and increasing integration
+of markets, which could present new
+opportunities and
+challenges.
+The RBA and DFCRC’s pilot project did not embrace cross-border
+payments, in an effort to reduce the risks associated with anti-money
+and counter-terrorism financing. However, industry participants did express
+their interest in the potential of CBDCs to
+improve cross-border
+In the US it has been
+noted that a digital US dollar could potentially streamline cross-border
+payments through the use of new technologies
+and create further opportunities
+for inter-jurisdictional interoperability and
+collaboration.
+People’s Bank of China has also noted that its e-CNY would provide
+opportunities to explore how cross-border payments could
+be improved through
+pilot programs.
+Finally, Nigeria
+has stated that the eNaira could decrease costs and improve cross-border
+transaction efficiency by real-time cross-border
+foreign exchange
+Policy Objectives outside the Scope
+of Primary Central Bank Mandates
+We next consider the broader, yet typical, central bank policy objectives of
+fostering innovation, encouraging competition and enhancing
+financial inclusion.
+1 Foster Innovation
+CBDCs could well help achieve the policy aim of fostering
+innovation.
+This policy aim does
+not usually fall squarely within the primary statutory mandates of central
+banks, concerned traditionally with
+monetary policy. However, the role of
+central banks in fostering innovation has received increased attention with
+rapid technological
+development and greater digitisation, and many central banks
+have begun to focus upon enabling environments for technology development,
+society can enjoy the advantages of
+innovation.
+In turn, central
+banks are impacted by innovation, as novel technologies introduce new products,
+services and unregulated market
+This means central
+banks have to balance their secondary role in creating enabling environments for
+innovation with their primary
+role of safeguarding financial
+The role of central banks in fostering innovation has become more readily
+accepted, despite central bank mandates not traditionally
+incorporating concerns
+of this kind.
+In particular,
+many central banks have said that fostering innovation could support them in
+their duty to ensure financial stability.
+In Australia, the RBA believes that
+issuing a CBDC could support its policy aim of promoting innovation in payment
+systems and financial
+infrastructures,
+particularly
+through facilitating atomic
+and programmable
+Other central banks
+have noted that the issue of a CBDC supports choice and
+and could provide a
+safe platform for private-sector innovations which may mitigate the risks
+associated with private digital
+2 Encourage Competition
+A further case made by central banks for the issue of a CBDC is that it could
+encourage competition in payments, a policy aim not
+ordinarily considered a
+primary part of a central bank’s mandate. This goal, however, is closely
+related to the traditional
+central bank mandate of ensuring safe, resilient and
+efficient payment systems and maintaining financial stability. Central banks
+faced with a myriad of challenges in executing this mandate. For example, while
+access to modern payment services has increased
+over time, universal access is
+yet to be achieved.
+services are also highly susceptible to network effects which can result in the
+creation of established platforms with large
+user bases. This can result in the
+existence of a handful of dominant payment services firms, which presents a
+significant barrier
+to diversifying competition and lowering costs for
+Central banks believe that a CBDC could encourage competition among private
+sector intermediaries and thereby address concentration
+in domestic payment
+services and lower the high barriers to
+In Australia, the RBA has
+shared its vision for a payments system which is, among other things,
+competitive.
+It has reported
+that a CBDC could promote competition in payments as a complement to private
+digital currencies, rather than as a
+competitor.
+Other central banks
+have stated that a CBDC could support competition through interoperable payments
+that diversify available payment
+instruments,
+allowing firms to
+offer competing CBDC-related payment
+and facilitating a
+competitive market for firms providing such
+3 Enhance Financial Inclusion
+Finally, central banks argue that CBDCs could enhance financial inclusion by
+bringing more people into the formal financial
+While financial
+inclusion is more prominently an issue in developing economies, research has
+suggested that it is also relevant for
+Faced with this
+challenge, central banks have argued that a CBDC could lower the entry barriers
+to financial inclusion, such as expensive
+banking costs, reduced risk appetites
+of financial institutions, and a lack of trust in financial service
+CBDC systems could be
+used to make welfare payments to households far more efficiently, with the use
+of digital identification
+and could facilitate
+payments to government, such as tax
+Accordingly, central banks around the world believe that CBDCs could serve to
+advance financial inclusion and thereby promote economic
+The RBA believes a CBDC
+has the potential to provide value-adding payment and settlement services to
+Australian businesses and
+households,
+and support greater
+access to financial services. Other central banks have noted that a
+fit-for-purpose CBDC system could potentially
+enhance financial inclusion
+through its accessibility to a wider range of people, in comparison to the
+narrower scope of private
+sector payment
+Finally, it has also
+been argued that a CBDC could boost financial inclusion by supplementing
+existing forms of payment services
+through its intrinsic nature as legal tender
+which can be transferred without the use of a bank
+Given that there is yet
+to be a CBDC in an advanced economy which can be analysed, precisely how a CBDC
+will contribute to eradicating
+financial exclusion is not entirely clear, and
+more research is needed.
+III CENTRAL BANK MANDATES: A BRAVE NEW
+Early central banks tended to be private entities that funded governments as
+well as conducted private banking
+activities.
+central banks began providing credit to other banks, facilitating interbank
+transactions and acting as lenders of last
+In the wake of the
+economic uncertainty caused by the world wars, central banks shifted their focus
+to ensuring financial
+underpinned contemporary central bank mandates, which tend to focus primarily on
+ensuring financial and price stability,
+and safe and efficient
+A typical central
+bank mandate today tends to focus on monetary policy, a field in which
+today’s central banks have developed
+deep expertise over many decades. In
+recent times, however, central bank objectives have been extended beyond
+monetary policy to
+areas in which central banks are not traditionally experts,
+including the promotion of sustainability and financial
+Bearing this in
+mind, it is reasonable that central banks tend to consider the decision to issue
+a CBDC largely through a monetary
+policy prism. As such, whether full and proper
+consideration is given to factors that fall outside this prism is an important
+In most instances, for example, enhancing financial inclusion will not be an
+express element of a typical central bank statutory mandate;
+however, it is
+arguable that as financial inclusion promotes economic growth, this objective is
+adjacent to the central bank mandate
+of ensuring financial
+Some central
+banks, including the BoE, have acknowledged that enhancing financial inclusion
+falls outside the scope of their mandates.
+Nonetheless, the BoE has stipulated
+that financial inclusion should be considered when deciding whether to issue a
+CBDC, bearing
+in mind its significance for society as a
+Importantly, the
+National Bank of Denmark stated that the opportunities presented by distributed
+ledger technology bring with it
+both opportunities and challenges, some of which
+fall outside central bank mandates and thus require wider societal
+conversations.
+The debate in both advanced and developing economies regarding the role that
+central banks should play in promoting social issues
+more broadly is quite
+Some have argued, for
+example, that central bank mandates are evolving based on new risks presented by
+technological developments
+and climate change, and the threats they pose to
+financial stability.
+Intergovernmental Group of Twenty-Four roundtable in 2023, the governors of the
+central banks of several developing economies
+highlighted central banks’
+role in responding to social and environmental issues. This includes enhancing
+financial inclusion,
+promoting gender equity and advancing green
+The Executive
+Director of the Alliance for Financial Inclusion noted that central banks’
+policy responses to social and environmental
+issues are aligned with their
+monetary mandates, and that such responses should therefore not be viewed as
+‘mission creep’.
+Governments around the world, including Australia, are now acting to strengthen
+and modernise central bank
+While we acknowledge that central bank mandates are evolving as new risks and
+challenges arise, central banks are not necessarily
+well-equipped with the
+requisite expertise and experience to holistically consider the significance of
+the broad range of factors
+that will bear upon the decision on whether to issue
+Bearing this in mind,
+decisions concerning a potential CBDC – including whether there is an
+need for one – should be treated as a society-wide matter,
+not as a process driven solely or principally by central banks,
+which almost
+inevitably tend to view the issue of a CBDC through the prism of their main
+concern with monetary policy.
+IV WHERE TO FROM HERE?
+If the decision to issue a CBDC is taken solely or principally by a central
+bank, the grounds for, and consequences of, the issue
+of a CBDC that fall
+outside the narrow primary mandate of that central bank may not be considered
+fully or at all. In an effort to
+counter this challenge, we suggest: (i)
+adopting a needs- and effects-focused approach be taken to answer the question
+to issue a CBDC, including a rigorous assessment of all the
+consequences of doing so and in particular the impact upon the elderly,
+low-income households and those living in remote communities; and (ii) ensuring
+broad public engagement and participation, potentially
+facilitated by the state,
+in deciding whether there is an
+need for a CBDC and more broadly
+in the design of the CBDC. A traditional widespread consultation and other
+well-suited mechanisms
+may well be used to achieve this engagement.
+A A Needs- and Effects-Focused Approach
+As already mentioned, most analyses of the grounds for issuing a CBDC focus
+on the furtherance of the traditional policy aims of central
+banks, as reflected
+in their primary mandates. These grounds tend to be based on how existing
+payment systems can be enhanced or
+improved through the use of a
+This approach tends to
+neglect the full potential impacts of a CBDC on diverse members of society. The
+need for a CBDC will vary
+among jurisdictions based on their different societal
+need for a CBDC should be based on addressing an
+existing problem or likely future problem, rather than seeking solutions that
+technology may provide but that may not actually be
+As discussed further
+below, only a handful of central banks appear to be giving priority to this
+specific line of thought. Policymakers
+need to resist the bright shiny nature
+and accompanying allure of powerful new technology. Otherwise, they may fall
+into the trap
+that the Australian Stock Exchange (‘ASX’) did in 2016
+when it apparently decided that distributed ledgers and blockchain
+would be at
+the heart of the project to replace the ageing Clearing House Electronic
+Subregister System (‘CHESS’), rather
+than starting with the problem
+that needed to be solved and with a rigorous enquiry into how best to solve
+For example, the need for a retail CBDC may well be less in advanced
+economies whose payment systems have few existing pain points.
+In Australia, the
+RBA has stated that there is presently no clear public interest case for a
+retail CBDC, particularly as it believes
+that Australians are well-served by an
+existing retail payments system that is, by international standards, efficient,
+have however stated that there may well be a case for the issuance of a
+wholesale CBDC in the near future, particularly to support
+tokenised asset
+The US Federal
+Reserve considers the existing US domestic payments system to be safe and
+efficient, although one senses that many
+Americans, especially those with
+experience of payment systems in Australia or Europe, might disagree with
+respect to the ease of
+use of the US
+The Federal Reserve
+has said that improvements that could be achieved by a CBDC could be effected
+using existing payment
+Similar sentiments
+have been echoed in Japan, where the central bank has indicated no plans to
+issue a CBDC on the ground that it
+is not needed to enhance the efficiency and
+stability of its payment and settlement
+While no decision
+has been taken yet to issue a CBDC in Japan, since 2021 the Bank of Japan has
+carried out CBDC technical experiments
+through proofs of concept and a pilot
+Additional work has
+also been undertaken by the Japanese Government and the Bank of Japan on the
+potential design for a CBDC.
+The National Bank of Denmark has also said it is not clear how a digital Danish
+krone could provide safer and more efficient payments
+than Denmark’s
+existing well-functioning financial infrastructure, or otherwise create better
+solutions for society.
+broadly, questions have been raised as to whether the decline in cash usage in
+advanced economies necessarily warrants the issue
+of a CBDC to maintain the
+public’s trust in central bank
+However, these arguments around efficiency tend to neglect the vital monetary
+anchor role performed by central bank money. The ability
+of people to convert
+their commercial bank digital money into central bank money ensures the
+singleness of money: the vital characteristic
+that every unit of money is worth
+the same as every other unit.
+Cash currently serves as this monetary anchor. The decline in cash usage thus
+threatens the holding power of the anchor, especially,
+one is tempted to muse,
+upon a dark and stormy night.
+Of course, cash withdrawals are strictly limited in amount at most bank
+branches, so it is perhaps more the prospect of being able
+one’s digital commercial bank money into cash by withdrawing the cash from
+the bank, rather than the reality of
+being able to do so in sizeable amounts.
+Nonetheless, economists are broadly in agreement that the singleness of money is
+system-wide economic efficiency – without it, parties to
+transactions would not only be specifying a price, but also specifying
+specific commercial banks that will be acceptable in providing the means of
+paying the price.
+On efficiency grounds, there is typically a much stronger case for a retail
+CBDC in developing economies, where payment infrastructure
+can be patchy and
+inefficient. Some jurisdictions have developed innovative and pioneering mobile
+money payment systems, such as
+Kenya, where the ‘need’ for a CBDC to
+improve existing systems is thus less compelling. Kenya has noted that the issue
+of a CBDC ‘should not be a race to be
+and that the
+issue of a digital Kenyan shilling is not a priority in the short-to-medium
+Indeed, in general
+terms, the issuance of a retail CBDC is such a fundamental change in the nature
+of money that many jurisdictions
+are positioning themselves to be ‘fast
+followers’ and are not seeking to be the first to make the
+The exception in this
+regard is China, which has forged far ahead with issuing a
+motivated by its
+government’s rather unique desires to diminish the dominance of some
+private sector payments platforms such
+as Alipay and have even more oversight,
+and potential control, over its citizens’ spending habits.
+In most developing countries the need for an improved payments system is
+pressing. Whether a CBDC is the best solution for this challenge
+remains up for
+debate, and the answer will likely vary across countries.
+There have been attempts by central banks to place the people at the centre
+of their decisions to issue a CBDC, at least in principle.
+These attempts also
+consider the potential effects of a CBDC on society as a whole. One pressing
+issue is the potential for a CBDC
+to effectively make access to cash more
+expensive or difficult, particularly for communities that remain reliant on
+cash. This is
+highly relevant in Australia, where real challenges exist around
+the distribution of cash, from the subsidiary of the RBA that prints
+bank branches, major retailers and other outlets that disburse and collect
+As cash usage falls, the
+cost of distributing each bundle increases as efficiencies of scale diminish. A
+CBDC could worsen these
+challenges as it further diminishes the demand for cash.
+Faced with declining levels of cash usage and the emergence of new payment
+instruments, the RBA has indicated that a core policy question is how
+Australia’s monetary and payment arrangements should
+adapt to the changes
+in preferences and technology to best serve the Australian
+The Central Bank of
+Kenya, in adopting its ‘people centricity’ approach, has noted this
+potential of CBDC to deepen financial
+exclusion as digital funds are less
+accessible and less inclusive than
+Similar sentiments have
+been echoed by the UK Parliament that has warned that a digital pound should not
+worsen financial exclusion
+for those who rely on cash, and that the
+‘digitisation of money can’t, in any way, leave those people
+To ensure that everyone has continued access to cash, the issue of any CBDC
+must consider its impact on the elderly, the vulnerable
+and low-income
+households in particular. To this end, the Bank for International Settlements
+has noted that CBDC should be user-friendly
+for school children, seniors and
+every age group.
+CBDC should
+have the same ease of use and accessibility as banknotes and coins. The RBA has
+designed Australian dollar bank notes
+specifically with the visually impaired in
+mind, through tactile features and different
+In deciding to issue
+a CBDC, central banks should take into account how those affected by the reduced
+use and access to cash will
+be affected, which will require a range of
+government departments’ collaboration and deep public engagement.
+The skill set required to assess these broader societal impacts of a CBDC is
+substantially broader than that typically held by central
+bank staff, and may
+well require the skills of sociologists, historians, psychologists and a whole
+range of social scientists. A
+central bank can, of course, hire such people
+– and possibly should. Another way to tap into these skill sets, short of
+people who hold them, is to engage with university academics in
+structured settings which allow them the opportunity to share their
+At least in Australia, such calls are rarely made upon members of the academy
+and are likely to meet with an enthusiastic
+As can be seen, the need for, and impact of, a CBDC is more nuanced than the
+broad grounds cited by many central banks which focus
+largely on payments
+efficiency and monetary policy. While some central banks have considered the
+fuller dimensions of the need for
+a CBDC, they appear to be the exception rather
+than the rule. As of July 2025, 137 countries and currency unions, which
+98% of the world’s gross domestic product, are exploring a
+Overall, the usefulness
+of a CBDC will vary depending on where people live. It is important that this
+usefulness is built into the
+grounds put forth by central banks for the issue of
+a CBDC. The focus on grounds related to central banks’ primary mandates
+may steer the analysis away from broader societal needs and the effects of a
+CBDC, which should ultimately be given considerable
+B Broad Public Engagement and Participation
+When central banks have decided not to issue a CBDC, in some cases this
+decision appears to have been made without any extensive public
+consultation.
+Equally, in
+many cases, when deciding whether there is a need for a CBDC, some central banks
+have ‘jumped the gun’ and
+considered that there is such a need
+without proper public input. Some central banks have opened up discussion on the
+possibility
+of issuing a CBDC, such as through pilot projects and consultations.
+However, without a thorough needs and effects assessment, CBDCs
+may be issued
+based predominantly on central bank preferences and the views of a narrow set of
+industry stakeholders. In doing so,
+the decision may well fail to account for
+the overarching requirements and needs of diverse groups across society. In some
+consultations appear to be more concerned with a CBDC’s potential
+form and function (as discussed below). Even in these cases,
+important that the full range of needs for, and effects of, a CBDC is
+considered, as these factors will be built into
+the CBDC’s design,
+ultimately impacting its utility and rate of adoption. Broadly, the stakeholders
+which should be consulted
+in making the decision to issue a CBDC should reflect
+a wide cross-section of society. They should include: (i) political stakeholders
+(ie, government authorities and public
+institutions);
+(ii) industry
+stakeholders (ie, businesses and other commercial organisations with a vested
+interest in CBDC issuance); and (iii)
+the general public, especially including
+people from vulnerable groups (elderly, less-abled and low-income households),
+cultural communities, and those who are
+Governments will
+face many practical challenges in managing a large pool of stakeholders, notably
+the means used to engage with stakeholders
+and how to process the receipt of
+approach recommended
+by the International Monetary Fund (‘IMF’) in
+managing CBDC issuance stakeholders. This approach includes identifying
+mapping all relevant stakeholders and developing a strategy to engage with them
+from the inception of the CBDC project until
+completion.
+Ordinarily, public consultation typically captures wider public sentiment on
+the likely impact on society of the introduction of new
+laws, policies and other
+government decisions. Australia has well settled practices in government for
+seeking and conducting this
+consultation. Departments of the Australian
+Government, such as the Treasury and the Department of Finance, and bodies such
+RBA often conduct public consultations on proposed initiatives alongside
+the Australian Law Reform Commission
+Government departments typically issue a consultation or discussion paper and
+provide a time period – ideally up to 60 days,
+with 30 days considered the
+minimum – within which interested parties are invited to make submissions
+on the proposal.
+As a part of
+the law reform process, the ALRC typically travels widely and consults with a
+broad range of stakeholders around Australia,
+including those with the expertise
+and experience in the laws under review, as well as those likely to be impacted
+by those laws.
+The ALRC appoints an advisory committee or panel of experts for
+each reform project to identify core issues and provide quality assurance
+consultation and research process. At the end of this process, the Commission
+formulates a final report incorporating its
+key reform recommendations based on
+submissions, face-to-face consultations and academic and industry research.
+Overall, Australia’s
+existing consultation mechanisms are well-established
+and wide-ranging, forming an integral component of the accepted government
+decision-making process. As a recent example of consultation in Australia, the
+RBA and the DFCRC through their joint Project Acacia
+called for industry
+could be used for settlements of
+transactions on wholesale tokenised asset
+Although the project
+does not relate to the issue of a retail CBDC, which is of wider import for the
+general public, the call for
+industry feedback illustrates the Australian
+Government’s traditional willingness to engage in consultation to inform
+its decision-making.
+In a similar manner to our settled practices, some other central banks have
+elicited the public’s view on the possible issue
+of a CBDC through a
+consultation process. For example, in February 2023, the BoE and the HM Treasury
+published their consultation
+paper seeking the views of the public around the
+proposed design
+of a digital
+consultation paper represented a concerted effort by the UK Government to engage
+with the public, the focus appeared to
+be more on how a digital pound could
+support the BoE’s mandate, and its potential design, rather than actual
+public need. As
+such, the focus of this consultation was not whether the public
+believed there was an actual need for a digital pound, but predominantly
+design. The responses to the consultation paper, however, highlighted the
+public’s concerns and wider societal implications
+of issuing a retail CBDC
+in the UK, including those related to privacy, the future use of cash and the
+rights of users of a digital
+As of January 2025,
+the BoE has stated that it has not made a decision on whether to issue a digital
+pound, but, with HM Treasury,
+has entered into a design phase to develop a
+detailed policy and technology framework for a potential digital
+consultations appears to have been on gathering
+the public’s view on the
+design of a CBDC, not whether the central bank should actually issue
+The Bank of Canada, for example, has expressly declared that the decision to
+issue a CBDC falls solely within the remit of Parliament
+and the Canadian
+Government.
+As such, its
+public consultation was primarily concerned with the potential design features
+of a digital Canadian dollar. The Bank
+of Canada has since announced that it
+will be scaling back its work on issuing a CBDC and will be focusing instead on
+the broader
+Canadian payments
+A similar approach
+to public engagement has been taken in other jurisdictions, where no extensive
+public consultation appears to
+have been undertaken regarding the decision to
+issue a CBDC, or even with respect to its potential design. In China, the e-CNY
+to have been developed principally through pilot programs connected to
+domestic payment services platforms launched in selected Chinese
+cities, with
+the People’s Bank of China publishing an e-CNY project white paper seeking
+public comments.
+Bahamas, while targeted baseline surveys on the levels of digitisation,
+financial inclusion and the willingness of the public
+to use new forms of
+digital payments were conducted before the Sand Dollar’s pilot projects,
+there appears to have been no
+extensive public consultation specifically
+concerning the need for a
+The Sand Dollar was
+launched in October 2020, but low adoption rates have meant that the digital
+currency represented only 0.013%
+of the money supply by the end of February
+This low adoption can
+be attributed to several factors, including the impact of
+However, the
+public’s lack of knowledge concerning the different forms of money, also
+appears to have been a significant contributing
+Even though non-monetary policy aims such as innovation, financial inclusion
+and competition may be aligned with traditional central
+bank mandates, central
+banks may not be the best public institution to consider how these factors will
+be impacted by a CBDC.
+this end, in deciding to issue a CBDC, central banks should be supported by
+multiple arms of government and associated entities
+that have the necessary
+subject-matter expertise and resources, such as welfare departments, legal
+departments, trade organisations,
+etc. The central bank should collaborate with
+other government entities in deciding to issue a CBDC to ensure that the broader
+of society and the effects of a CBDC are considered.
+Indeed, the ultimate decision as to whether to issue a CBDC, in our view, is
+rightly one for the state, not the central bank alone.
+This approach has been
+echoed by the RBA, which recently expressed that the ‘[g]overnment,
+Treasury and RBA would closely consult
+ahead of any decision to issue a CBDC,
+should a public policy case for doing so emerge in the years
+It is thus for
+the people’s elected and accountable representatives to decide upon such a
+fundamental reconfiguring of the
+form of money. Serving a core sovereign
+function, the creation of money seems somehow to embody elements of the
+relationship between
+the government and its citizens. There are strong emotive
+and symbolic aspects of money that are society-specific and, as yet, poorly
+understood. Accordingly, the decision to issue a retail CBDC should be one
+ultimately for Parliament.
+While governments should take full responsibility for the decision to issue a
+CBDC, central banks will naturally bear some of the
+fallout from the decision
+due largely to the powers and functions conferred on central banks by their
+founding statutes, which typically
+include the sole and exclusive authority to
+issue currency.
+Furthermore,
+central banks will play a significant practical role in the issuance of a CBDC.
+Where central banks lack specific legal
+authority to issue a CBDC, legislation
+conferring such authority will most likely be passed by Parliament. However,
+central banks
+should not fulfil the all-encompassing role of ‘operator,
+catalyst and overseer’ of a new CBDC payments system, and the
+state should
+play the larger initiating
+Contemporary central
+banks are provided with broad, sweeping powers to set interest rates, manage the
+money supply and regulate the
+They are meant to act
+independently and free from political
+It is precisely for
+this reason that any decision to issue a retail CBDC, which will greatly impact
+society as a whole, should be
+made by Parliament.
+The discourse on CBDCs and their impact on people’s lives illustrates
+how important it is to place public participation at the
+heart of the decision
+to issue any digital form of retail central bank money. In the UK, the BoE
+received over 50,000 responses to
+New Forms of Digital Money
+consultation paper, published in February
+The respondents
+expressed their concerns regarding the impact of a CBDC on privacy, access to
+cash and freedom of choice, thus evidencing
+how significant widespread
+consultation is for the decision to issue a CBDC. The topics of cash and CBDC
+elicit a broad range of
+responses, often emotive, on a topic that few in society
+deeply understand. Although we all think we understand money as we use it
+day, many citizens do not understand, for instance, that the money they use is
+almost exclusively merely the promises of commercial
+banks and not in any way
+minted by their nation’s central bank. Accordingly, Australia’s
+traditional methods of consultation,
+including possibly ALRC consultation, may
+well be desirable to ensure a broad cross-section of society is heard from
+before a decision
+is taken to issue a CBDC – ideally a decision based on
+actual need and a fuller understanding of its effects and consequences.
+In addition to traditional consultation, there are of course alternative
+mechanisms that exist to engage with the public’s wisdom
+and the diverse
+expertise and knowledge residing in our universities on these matters.
+Structured assemblies of academics, well-briefed
+on the matter at hand and
+carefully chosen for their relevant expertise, have proven to be fertile sources
+of new ideas and deeper
+understandings. In Australia, the RBA has announced its
+plan to convene regular CBDC advisory forums with academia and industry to
+upon their relevant expertise. These planned advisory forums underscore the
+RBA’s past efforts to engage with experts
+from academia. This includes,
+for example, a roundtable meeting held in February 2024, which brought together
+academics from a diverse
+range of disciplines to discuss the economic, legal and
+social implications of introducing a CBDC in Australia, particularly its
+on vulnerable communities and different cultural
+traditional consultation to ensure broad public engagement and participation may
+not, however, be well-suited for all
+decisions related to the issue of a CBDC.
+For example, the decision as to which design features should be built into a
+CBDC may require
+an approach which solicits more nuanced views, particularly
+from members of society who may be seriously impacted by its issue. Alternative
+mechanisms of public engagement targeting these specific members should
+therefore be used, and could include, for example, citizen
+This involves a
+deliberative process where a panel of citizens participates in government
+decision-making.
+members may be selected from the general public, or from specific groups drawn
+from demographics relevant to the issue under
+consideration. Once a citizen jury
+is formed, the panel discusses a particular issue for a predetermined number of
+meetings of set
+duration. These deliberations are overseen by a skilled
+facilitator, and information on the issue is typically provided in advance
+in real time by independent expert
+The use of citizen
+juries is not a new concept, and they have been used in Australia, New Zealand,
+the US and other parts of the
+world. While more research is required to measure
+the usefulness of citizen juries, particularly in Australia, they do provide an
+avenue for public engagement well-suited to capturing the views of specific
+demographic groups who stand to be significantly affected
+by government
+It may well be that, on decisions concerning a potential CBDC –
+including whether there is an
+need for a CBDC, and if so its
+potential design – wise central banks will engage carefully and
+strategically with these sources
+of wisdom and expertise through a process
+entailing broad public engagement and participation.
+V CONCLUSION
+We have analysed the grounds cited by central banks in deciding to issue a
+CBDC and considered whether the cited grounds include factors
+beyond those that
+support the primary mandates of central banks. Our analysis reveals that, while
+central banks serve the public
+as a whole in carrying out their mandates, their
+perceptions on the need for a CBDC may be restricted by the scope of their
+mandates, which are traditionally concerned with monetary policy and
+financial stability. This is problematic, as the grounds for
+and consequences of
+a CBDC issuance that fall outside this scope may not be fully considered.
+Furthermore, while central banks have amassed considerable expertise and
+experience in executing their traditional monetary policy
+mandates, this will
+not typically be the case for the full breadth of issues raised by the decision
+to issue a CBDC. On this basis,
+we make two suggestions. First, a needs- and
+effects-focused approach is required, as the need for, and likely impact of, a
+has many more dimensions than those encompassed by monetary policy. Second,
+the state, in collaboration with the central bank, should
+facilitate broad
+engagement with the public and with other diverse sources of expertise –
+such as those that reside in our
+universities – in deciding whether there
+need for a CBDC and its impact on society. Our analysis has
+also revealed that CBDC issuance is justified largely on the grounds
+could support the objectives of central bank mandates. We argue the decision to
+issue a CBDC should be treated as an undertaking
+with society-wide implications
+and one that should therefore involve Parliament and broad public, as well as
+expert engagement led
+by the state.
+* Australian Research Council
+ARC’) Laureate Fellow and Scientia
+Professor, School of Private and Commercial Law, Faculty of Law & Justice,
+of New South Wales.
+** Postdoctoral Research Fellow, School of Private and Commercial Law,
+Faculty of Law & Justice, University of New South Wales.
+The authors
+gratefully acknowledge the support of the Australian Laureate Fellowship
+(FL200100007) for this research. We also extend
+our gratitude to Brad Jones and
+Scott Farrell for their thoughtful comments. The views herein are solely the
+authors and not necessarily
+the views of the ARC, the Australian Government, the
+Reserve Bank of Australia, or its Payments System Board. All responsibility
+errors rests with the authors.
+Aleski Grym, ‘Lessons Learned from the World’s First
+CBDC’ (BoF Economics Review No 8/2020, Bank of Finland, 2020)
+Andrew Stanley, ‘The
+Ascent of CBDCs’
+(2022) 59(3)
+Finance and Development
+Grym (n 1) 17.
+Hiep Ngoc Luu et al,
+‘Cultural Values and the Adoption of Central Bank Digital Currency’
+(2023) 30(15)
+Applied Economics Letters
+<https://doi.org/10.1080/13504851.2022.2089342>.
+See, eg, Raffaele Felicetti,
+‘A Study on Central Banks and Social Responsibility: The Case of the
+ESCB’ (2024) 10(1)
+Journal of Financial Regulation
+<https://doi.org/10.1093/jfr/fjad010>, which examines whether the European
+Central Bank should use its mandate to address
+economic inequality even though
+it would not be necessary in its pursuit of price stability.
+See Ross P Buckley and Mia
+Trzecinski, ‘Central Bank Digital Currencies and the Global Financial
+System: The Dollar Dethroned?’
+(2023) 18(2)
+Capital Markets Law
+, 152 <https://doi.org/10.1093/cmlj/kmad007>. See also
+Emilios Avgouleas and William Blair, ‘A Critical Evaluation of
+Bank Digital Currencies (CBDCs): Payments’ Final Frontier?’
+Capital Markets Law Journal
+<https://doi.org/10.1093/cmlj/kmae002>.
+Reserve Bank of Australia and
+Treasury (Cth),
+Central Bank Digital Currency and the Future of Digital Money
+in Australia
+(Report, September 2024) 5–8
+<https://www.rba.gov.au/payments-and-infrastructure/central-bank-digital-currency/pdf/cbdc-and-the-future-of-digital-money-in-australia.pdf>
+Future of Digital Money
+See Primavera De Filippi and
+Aaron Wright,
+Blockchain and the Law: The Rule of Code
+University Press, 2018) ch 1.
+Grym (n 1) 1.
+See Douglas W Arner et al,
+‘The Financialisation of Crypto: Designing an International Regulatory
+Consensus’ (2024) 53
+Computer Law and Security Review
+1–18 <https://doi.org/10.1016/j.clsr.2024.105970>; Policy 4.0,
+Interdependencies in Crypto Ecosystems: Drivers, Implications and Policy
+(Report, February 2023)
+<https://policyfourpointo.com/wp-content/uploads/2025/05/Interdependencies-report-on-systemic-asset-linkages-in-crypto-ecosystems.pdf>.
+See generally Ross P Buckley
+et al, ‘Sovereign Digital Currencies: Reshaping the Design of Money and
+Payments Systems’
+(2021) 15(1)
+Journal of Payments Strategy and
+7 (‘Sovereign Digital Currencies’) .
+Libra Association, ‘An
+Introduction to Libra’ (White Paper, June 2019), 1
+<https://www.allcryptowhitepapers.com/wp-content/uploads/2019/06/LibraWhitePaper_en_US.pdf>.
+See also Dirk A Zetzsche, Ross P Buckley and Douglas W Arner, ‘Regulating
+(2021) 41(1)
+Oxford Journal of Legal Studies
+<https://doi.org/10.1093/ojls/gqaa036>.
+Libra Association,
+‘White Paper v2.0’ (White Paper, April 2020)
+<https://www.accc.gov.au/system/files/public-registers/documents/54.%20Libra%20Whitepaper%20v2.0%2C%20April%202020.pdf>.
+Diem Association,
+‘Statement by Diem CEO Stuart Levey on the Sale of the Diem Group’s
+Assets to Silvergate’ (Press
+Release, 31 January 2022)
+<https://www.diem.com/en-us/updates/stuart-levey-statement-diem-asset-sale/>.
+Gabriel Soderberg et al,
+‘How Should Central Banks Explore Central Bank Digital Currency: A Dynamic
+Decision-Making Framework?’
+(Fintech Note No 2023/008, International
+Monetary Fund, September 2023) 8.
+Corinne Zellweger-Gutknecht,
+Benjamin Geva and Seraina Neva Grunewald, ‘The ECB and €
+E-Banknotes: Could the ECB Issue
+an Electronic Equivalent of Paper-Based Euro
+Banknotes? Under Which Conditions Might Such “Electronic Banknotes”
+Legal Tender Status?’ (Draft Research Paper, ECB Legal Research
+Programme, 31 July 2020) 61–3
+<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3667057>.
+discussion on the data and privacy risks presented by CBDCs, see Patrick
+Schueffel, ‘CBDCs: Pros and Cons’ (2023)
+Journal of Digital
+Biagio Bossone et al, World
+Central Bank Digital Currency: Background Technical Note
+November 2021) 8
+<https://documents1.worldbank.org/curated/en/603451638869243764/pdf/Central-Bank-Digital-Currency-Background-Technical-Note.pdf>;
+Amber Wadsworth, ‘The Pros and Cons of Issuing a Central Bank Digital
+Currency’ (2018) 81(7)
+Reserve Bank of New Zealand Bulletin
+<https://www.rbnz.govt.nz/-/media/4ee8fb7526804ed2924ad2d4c108fe3a.ashx>.
+Schueffel (n 17) 52.
+Bossone et al (n 18) 8.
+Avgouleas and Blair (n 6)
+Bossone et al (n 18) 8.
+Wadsworth (n 18) 16.
+Strengthening American
+Leadership in Digital Financial Technology
+, Executive Order No 14178, 90 Fed
+Reg 8647 (31 January 2025) s 1(a)(v)
+<https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02123.pdf>.
+For a technical discussion
+and proposal for CBDC reference architecture, see Architecture, Interoperability
+Requirements and Use
+Cases Working Group, Digital Currency Global Initiative,
+Central Bank Digital Currency Reference Architecture
+(Technical Report,
+January 2025)
+<https://www.itu.int/en/ITU-T/extcoop/dcgi/Documents/DCGI%20CBDC%20Reference%20Architecture%20Report-20-01-2025.pdf>.
+Buckley et al,
+‘Sovereign Digital Currencies’ (n 11) 14.
+Stefano Leucci,
+‘Central Bank Digital Currency’,
+European Data Protection
+<https://www.edps.europa.eu/press-publications/publications/techsonar/central-bank-digital-currency_en>.
+Buckley et al,
+‘Sovereign Digital Currencies’ (n 11) 14.
+Ibid 14–15.
+Applications for Digital Euro Component Providers’,
+European Central
+(Web Page, 3 January 2024)
+<https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews240103_1.en.html>;
+Letter from Christine
+Lagarde to Auke Zijlstra, 15 November 2024, 3 n 10
+<https://www.ecb.europa.eu/pub/pdf/other/ecb.mepletter241115_Zijlstra~344bb2c155.en.pdf>.
+Wadsworth (n 18) 30.
+For a discussion on the
+distributional effects of central bank monetary policy, see Felicetti (n 5)
+Reserve Bank Act
+Reserve Bank Act
+’) in respect to
+the duties of the Payments System Board and the
+Bank of England Act
+s 9A in respect to the Bank of England’s financial stability strategy
+which includes providing secure and reliable payments
+infrastructure. The Bank
+of Canada also has a similar core function of promoting safe, sound and
+efficient financial systems:
+Bank of Canada Act
+, RSC 1985, c B-2,
+Preamble (‘
+Bank of Canada Act
+’); ‘Financial
+Bank of Canada
+(Web Page, 2024)
+<https://www.bankofcanada.ca/core-functions/financial-system/>. See also
+Alberto Di Iorio, Anneke Kosse and
+Ilaria Mattei, ‘Embracing Diversity,
+Advancing Together: Results of the 2023 BIS Survey on Central Bank Digital
+and Crypto’ (BIS Paper No 147, Bank for International
+Settlements, June 2024) 7 <https://www.bis.org/publ/bppdf/bispap147.pdf>;
+Bossone et al (n 18) 6; Bank for International Settlements,
+Annual Economic
+Report 2020
+(Report, June 2020) ch 3
+<https://www.bis.org/publ/arpdf/ar2020e.pdf> (‘
+Annual Report
+’); Zellweger-Gutknecht, Geva and Grunewald (n 17) 57.
+Treasury (Cth),
+Strategic Plan for the Payments System
+(Consultation Paper, December 2022)
+<https://treasury.gov.au/sites/default/files/2022-12/c2022-343663-final.pdf>;
+Tanai Khiaonarong, Harry Leinonen and Ryan Rizaldy, ‘Operational
+Resilience in Digital Payments: Experiences and Issues’
+(IMF Working Paper
+No WP/21/288, International Monetary Fund, 10 December 2021)
+<https://doi.org/10.5089/9781616355913.001>.
+Future of Digital
+(n 7) 6–7, 15–17.
+Annual Report 2020
+Future of Digital
+Reserve Bank of Australia
+and Digital Finance Cooperative Research Centre,
+Australian CBDC Pilot for
+Digital Finance Innovation
+(Project Report, August 2023) 9
+<https://dfcrc.com.au/wp-content/uploads/2023/08/australian-cbdc-pilot-for-digital-finance-innovation-project-report.pdf>
+Australian CBDC Pilot
+Ibid 20. For more
+information, see Reserve Bank of Australia and Digital Finance Cooperative
+Research Centre, ‘Australian CBDC
+Pilot for Digital Finance
+Innovation’ (White Paper, 26 September 2022)
+<https://www.rba.gov.au/payments-and-infrastructure/central-bank-digital-currency/pdf/australian-cbdc-pilot-for-digital-finance-innovation-white-paper.pdf>.
+See Tessa Satherley and
+Daniel May, ‘Natural Disasters and Climate Risk’ (Briefing Book
+Article, Parliamentary Library,
+Parliament of Australia, 20 June 2022)
+<https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/Research/Briefing_Book/47th_Parliament/NaturalDisastersClimateRisk>.
+Opinion of the European
+Central Bank of 31 October 2023 on the Digital Euro
+[2024] OJ C C/2024/669,
+2 <https://www.ecb.europa.eu/pub/pdf/legal/ecb.leg_con_2023_34.en.pdf>
+Opinion on the Digital Euro
+’). For more on the EU’s
+‘strategic autonomy’, see Mario Damen, ‘EU Strategic Autonomy
+From Concept to Capacity’ (Briefing, Strategic Foresight
+and Capabilities Unit, European Parliamentary Research Service, July
+<https://www.europarl.europa.eu/RegData/etudes/BRIE/2022/733589/EPRS_BRI(2022)733589_EN.pdf>.
+Central Bank of Nigeria,
+‘Design Paper for the eNaira’ (Paper) 9
+<https://enaira.gov.ng//wp-content/uploads/2023/06/Design-Paper-for-Nigerias-CBDC-02_Oct-2021.pdf>.
+Soderberg et al (n 16).
+Di Iorio, Kosse and Mattei
+(n 34) 6; Zellweger-Gutknecht, Geva and Grunewald (n 17) 48.
+Zellweger-Gutknecht, Geva
+and Grunewald (n 17) 48.
+Soderberg et al (n 16)
+See generally Tanai
+Khiaonarong and David Humphrey, ‘Measurement and Use of Cash by Half the
+World’s Population’
+(IMF Working Paper No WP/23/62, International
+Monetary Fund, March 2023).
+Zellweger-Gutknecht, Geva
+and Grunewald (n 17) 9–13.
+Bank of England and HM
+The Digital Pound: A New Form of Money for Households and
+Businesses?
+(Consultation Paper No 767, February 2023) 28
+<https://www.bankofengland.co.uk/-/media/boe/files/paper/2023/the-digital-pound-consultation-working-paper.pdf>
+New Form of Money
+Opinion on the Digital
+Board of Governors of the
+Federal Reserve System, ‘Money and Payments: The US Dollar in the Age of
+Digital Transformation’
+(Research Paper, January 2022) 14
+<https://www.federalreserve.gov/publications/files/money-and-payments-20220120.pdf>
+US Dollar’).
+See ‘The Digital
+Bank of England
+<https://www.bankofengland.co.uk/the-digital-pound>. See also Dong He,
+‘Monetary Policy in the Digital Age’
+[2018] (June)
+Finance and
+Development Magazine
+13, 16; Vivien Lee and David Wessel, ‘Digital
+Currencies: Five Big Implications for Central Banks’,
+(online, 21 May 2018)
+<https://www.brookings.edu/articles/digital-currencies-five-big-implications-for-central-banks/>.
+Working Group on E-CNY
+Research and Development of the People’s Bank of China, ‘Progress of
+Research and Development
+of E-CNY in China’ (White Paper, July 2021),
+http://www.pbc.gov.cn/en/3688110/3688172/4157443/4293696/2021071614584691871.pdf
+(‘E-CNY in China’).
+Soderberg et al (n 16)
+See, eg, Isaiah O Ajibola et
+al, ‘Currency Substitution and Exchange Rate Volatility in Nigeria: An
+Autoregressive Distributed
+Lag Approach’ (2020) 11(2)
+CBN Journal of
+Applied Statistics
+1 <https://doi.org/10.33429/Cjas.11220.1/8>; Sani I
+Doguwa, ‘Currency Substitution: Evidence from Nigeria’ (2014)
+CBN Journal of Applied Statistics
+‘Design Paper for the
+eNaira’ (n 42) iv.
+Bossone et al (n 18) 6;
+Future of Digital Money
+(n 7) 21–2.
+Kieran Murphy, ‘How
+Training and Advice Can Speed Cross-Border Payments and Cut Costs’,
+(Blog Post, 3 January 2024)
+<https://www.imf.org/en/Blogs/Articles/2024/01/03/how-training-and-advice-can-speed-cross-border-payments-and-cut-costs>.
+FXC Intelligence,
+‘Cross‑Border Payments Market Sizing Data’ (Web Page)
+<https://www.fxcintel.com/cross-border-payments-market-sizing-data>,
+in Fabio Panetta, ‘Extending the Benefits of Digital Technologies to
+Cross-Border Payments’,
+The ECB Blog
+(Blog Post, 31 October 2023)
+<https://www.ecb.europa.eu/press/blog/date/2023/html/ecb.blog231031~85a4bcdee0.en.html>.
+Douglas W Arner et al,
+‘Building Regional Payment Areas: The Single Rule Book Approach’
+(BIS Working Paper No 1016, Bank
+for International Settlements, May 2022) 1
+<https://www.bis.org/publ/work1016.pdf>.
+Panetta (n 60).
+Codruta Boar et al,
+‘Interoperability between Payment Systems across Borders’ (BIS
+Bulletin No 49, 10 December 2021)
+<https://www.bis.org/publ/bisbull49.pdf>.
+Soderberg et al (n 16).
+Bank for International
+Settlements, International Monetary Fund and World Bank,
+Central Bank Digital
+Currencies for Cross-Border Payments: Report to the G20
+(Report, July 2021)
+13 <https://www.bis.org/publ/othp38.pdf> (‘
+Report to the
+Anthony Ralphs,
+‘Simplifying Cross-Border Payments through CBDC Technology’,
+(Web Page, 18 December 2023)
+<https://www.omfif.org/2023/12/simplifying-cross-border-payments-through-cbdc-technology/>.
+Report to the G20
+Australian CBDC Pilot
+‘The US Dollar’
+‘E-CNY in China’
+(n 54) 4–5.
+‘Design Paper for the
+eNaira’ (n 42) 7–8.
+See generally Bank of
+England, ‘The Bank of England’s Approach to Innovation in Money and
+Payments’ (Discussion
+Paper, 30 July 2024)
+<https://www.bankofengland.co.uk/-/media/boe/files/paper/2024/the-boes-approach-to-innovation-in-money-and-payments.pdf>;
+Di Iorio, Kosse and Mattei (n 34) 7.
+Dorothee Delort and Jose
+Antonio Garcia, ‘Central Banks and Innovation’,
+(Blog Post, 19 April 2023)
+<https://blogs.worldbank.org/en/psd/central-banks-and-innovation>.
+See Signe Krogstrup,
+‘Perspectives on Central Bank Mandates, Instruments and Policy
+Trade-Offs’ (Speech, National Bank
+of Belgium, 31 March 2022)
+<https://www.bis.org/review/r220426g.pdf> (‘Perspectives on Central
+Bank Mandates’).
+Delort and Garcia (n 73).
+Ibid; Agustín
+Carstens, ‘Innovation and the Future of the Monetary System’
+(Speech, Monetary Authority of Singapore,
+22 February 2022)
+<https://www.bis.org/speeches/sp230222.htm>.
+‘Central Bank Digital
+Reserve Bank of Australia
+<https://www.rba.gov.au/payments-and-infrastructure/central-bank-digital-currency/>.
+See generally George
+Iddenden, ‘Atomic Settlements: The Next Regulatory Challenge?’,
+Payments Association
+(Web Page, 12 September 2023)
+<https://thepaymentsassociation.org/article/atomic-settlements-the-next-regulatory-challenge/>.
+Australian CBDC Pilot
+(n 38) 9, 11.
+‘The Digital
+Pound’ (n 53) 28.
+‘The US Dollar’
+(n 52) 14; ‘Design Paper for the eNaira’ (n 42) 9.
+Annual Report 2020
+Ibid 67. See also Tony
+Richards and Andreas Furche, Digital Finance Cooperative Research Centre,
+Central Bank Digital Currencies: An Update on Rationales for Issuance and
+Systemic Design Considerations
+(Report, December 2022) 4
+<https://dfcrc.com.au/wp-content/uploads/2022/12/Central-Bank-Digital-Currencies-CBDCs-An-update-on-rationales-for-issuance-and-systemic-design-considerations.pdf>.
+Philip Lowe, ‘An
+Efficient, Competitive and Safe Payments System’ (Speech, Australian
+Payments Network Summit, 14 December
+<https://www.rba.gov.au/speeches/2022/sp-gov-2022-12-14.html>.
+Australian CBDC Pilot
+(n 38) 9, 11.
+China’ (n 54) 5.
+Bank of England,
+‘Central Bank Digital Currency: Opportunities, Challenges, and
+Design’ (Discussion Paper, 12 March 2020)
+<https://www.bankofengland.co.uk/-/media/boe/files/paper/2020/central-bank-digital-currency-opportunities-challenges-and-design.pdf>
+(‘Opportunities, Challenges, and Design’).
+‘Design Paper for the
+eNaira’ (n 42) 9.
+Felicetti (n 5) 79–82;
+Di Iorio, Kosse and Mattei (n 34) 7. For more on how FinTech can support the
+policy goal of financial
+inclusion, see Douglas W Arner et al,
+Sustainability, FinTech and Financial Inclusion
+(2019) (Law Working Paper
+No 006-2019, Faculty of Law, Economics and Finance, University of Luxembourg, 16
+May 2019) <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3387359>.
+Future of Digital Money
+(n 7) 17–18.
+See eg, Vijay Kumar, Sujani
+Thrikawala and Sanjeev Acharya, ‘Financial Inclusion and Bank
+Profitability: Evidence from a Developed
+Market’ (2022) 53
+Finance Journal
+100609: 1–12
+<https://doi.org/10.1016/j.gfj.2021.100609>.
+Soderberg et al (n 16). See
+also Raphael Auer et al, ‘Central Bank Digital Currencies: A New Tool in
+the Financial Inclusion
+Toolkit?’ (FSI Insights No 41, Bank for
+International Settlements, 12 April 2022)
+<https://www.bis.org/fsi/publ/insights41.pdf>.
+Ashley Lannquist and Brandon
+Tan, ‘Central Bank Digital Currency’s Role in Promoting Financial
+Inclusion’ (FinTech
+Note No 2023/011, International Monetary Fund,
+September 2023) <https://doi.org/10.5089/9798400253331.063>.
+Brandon Joel Tan,
+‘Central Bank Digital Currency and Financial Inclusion’ (IMF Working
+Paper No 23/69, International
+Monetary Fund, March 2023) 3
+<https://doi.org/10.5089/9798400238277.001>.
+‘Design Paper for the
+eNaira’ (n 42) 6.
+Australian CBDC Pilot
+(n 38) 4–6.
+‘Opportunities,
+Challenges, and Design’ (n 88) 19.
+Felicetti (n 5)
+Andrew Dahdal,
+Currencies and Public Law: History, Constitutionalism and the Revolutionary
+Nature of Money
+(Routledge, 2025) 60
+<https://doi.org/10.4324/9781003478362>.
+Ibid. See also Michael D
+Bordo, ‘The Evolution of Central Banks’,
+Hoover Institution
+(Web Page, 14 November 2022)
+<https://www.hoover.org/research/evolution-central-banks>.
+Michael D Bordo, ‘A
+Brief History of Central Banks’ (Economic Commentary, Federal Reserve Bank
+of Cleveland, December
+For a study setting out
+the primary, and other, objectives of central bank mandates, see Simon Dikau and
+Ulrich Volz, ‘Central
+Bank Mandates, Sustainability Objectives and the
+Promotion of Green Finance’ (2021) 184
+Ecological Economics
+107022:1–20 <https://doi.org/10.1016/j.ecolecon.2021.107022>.
+See ‘How Are
+Central Bank Mandates Evolving?’,
+Alliance for Financial Inclusion
+(Web Page, 7 November 2023)
+<https://www.afi-global.org/newsroom/news/how-are-central-bank-mandates-evolving/>
+Evolving’); Jerome H Powell, ‘Panel on
+“Central Bank Independence and the Mandate”: Evolving Views’
+(Speech, Symposium on Central Bank Independence, 10 January 2023)
+<https://www.bis.org/review/r230111a.pdf>.
+Advisory Group on APEC
+Financial System Capacity Building et al,
+Promoting Financial Inclusion
+through Innovative Policies
+(Report, 2010) 60
+<https://www.adb.org/sites/default/files/publication/159344/adbi-financial-inclusion-innovative-policies.pdf>.
+‘Opportunities,
+Challenges, and Design’ (n 88) 19.
+‘Perspectives on
+Central Bank Mandates’ (n 74).
+Felicetti (n 5) 70.
+See Charles Goodhart and
+Rosa Lastra, ‘The Changing and Growing Roles of Independent Central Banks
+Now Do Require a Reconsideration
+of Their Mandate’ (2023) 14(4)
+of Accounting, Economics, and Law: A Convivium
+<https://doi.org/10.1515/ael-2022-0097>.
+Evolving’ (n 104).
+See, eg, Jim Chalmers,
+‘Strengthening and Modernising the Reserve Bank’ (Media Release,
+Treasury Ministers, 27 November
+<https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/strengthening-and-modernising-reserve-bank>.
+See Ross P Buckley,
+Douglas W Arner and Dirk A Zetzsche,
+FinTech: Finance, Technology and
+(Cambridge University Press, 2024) 228–9
+<https://doi.org/10.1017/9781009086943>; Ross P Buckley et al,
+Fintech and Innovation Ecosystems’ (2024) 59
+Financial Transformation
+Soderberg et al (n 16)
+See Christopher J Waller,
+‘CBDC: A Solution in Search of a Problem?’ (Speech, American
+Enterprise Institute, 5 August
+<https://www.bis.org/review/r210806a.htm>.
+Issues with the ASX CHESS
+Replacement Project and its governance arrangements were a significant focus of
+a recent parliamentary
+inquiry: Parliamentary Joint Committee on Corporations
+and Financial Services, Parliament of Australia,
+Statutory Inquiry into ASIC,
+the Takeovers Panel, and the Corporations Legislation
+(Report, April 2024)
+<https://parlinfo.aph.gov.au/parlInfo/download/committees/reportjnt/RB000185/toc_pdf/StatutoryinquiryintoASIC,theTakeoversPanel,andthecorporationslegislation.pdf>.
+See also Reserve Bank of Australia,
+Assessment of ASX Clearing and Settlement
+(Report, September 2022) ch 4
+<https://www.rba.gov.au/payments-and-infrastructure/financial-market-infrastructure/clearing-and-settlement-facilities/assessments/2021-2022/pdf/report-2021-2022.pdf>;
+Lucas Baird, ‘ASX Ignored Warnings, Made Unworkable Demands on CHESS,
+Inquiry Hears’,
+Australian Financial Review
+(online, 8 June 2023)
+<https://www.afr.com/companies/financial-services/asx-ignored-warnings-made-unworkable-demands-on-chess-inquiry-hears-20230608-p5dezh>.
+Future of Digital
+‘Central Bank
+Digital Currency’,
+Board of Governors of the Federal Reserve System
+(Web Page, 2 August 2024)
+<https://www.federalreserve.gov/central-bank-digital-currency.htm>.
+Jean Flemming and Ruth
+Judson, ‘Implications of a US CBDC for International Payments and the Role
+of the Dollar’,
+Board of Governors of the Federal Reserve System
+(Web Page, 16 February 2024)
+<https://www.federalreserve.gov/econres/notes/feds-notes/implications-of-a-u-s-cbdc-for-international-payments-and-the-role-of-the-dollar-20240216.html>.
+Bank of Japan,
+Bank of Japan’s Approach to Central Bank Digital Currency
+October 2020) 1
+<https://www.boj.or.jp/en/about/release_2020/data/rel201009e1.pdf>.
+Relevant Ministries and
+Bank of Japan,
+Relevant Ministries and the Bank of Japan Liaison Meeting on
+Central Bank Digital Currency (CBDC)
+(Interim Report, 17 April 2024) 2
+<https://www.mof.go.jp/english/about_mof/councils/meeting_of_cbdcli/20240612chuukanseirien.pdf>.
+Danmarks Nationalbank,
+‘New Types of Digital Money’ (Analysis No 8, 23 June 2022) 3
+<https://www.nationalbanken.dk/media/z12aimyo/analysis-no-8-new-types-of-digital-money.pdf>
+(‘New Types Analysis’).
+‘Perspectives on
+Central Bank Mandates’ (n 74) 5.
+Brad Jones, ‘The
+Economics of a Central Bank Digital Currency in Australia’ (Speech,
+Central Bank Conference on the Microstructure
+of Financial Markets, 8 December
+2022) 2 <https://www.rba.gov.au/speeches/2022/pdf/sp-ag-2022-12-08.pdf>;
+Markus K Brunnermeier,
+Harold James and Jean-Pierre Landau, ‘The
+Digitisation of Money’ (BIS Working Paper No 941, Bank for International
+Settlements,
+May 2021) 3 <https://www.bis.org/publ/work941.pdf>; Jon
+Cunliffe, ‘Do We Need “Public Money”?’ (Speech,
+Digital Money Institute, 13 May 2021)
+<https://www.bankofengland.co.uk/speech/2021/may/jon-cunliffe-omfif-digital-monetary-institute-meeting>.
+For a discussion on the
+decline of cash usage, see Khiaonarong and Humphrey (n 48).
+Francisco Rivadeneyra,
+Scott Hendry and Alejandro García, ‘The Role of Public Money in the
+Digital Age’ (Staff
+Discussion Paper No 2024–11, Bank of Canada, 10
+July 2024) 8
+<https://www.bankofcanada.ca/wp-content/uploads/2024/07/sdp2024-11.pdf>;
+Hanna Armelius, Carl Andreas Claussen and Scott Hendry, ‘Is Central Bank
+Digital Currency Fundamental to the Monetary System?’
+Sveriges Riksbank Economic Review
+Central Bank of Kenya,
+‘Discussion Paper on Central Bank Digital Currency: Comments from the
+Public’ (Paper, May 2023)
+<https://www.centralbank.go.ke/wp-content/uploads/2023/06/Discussion-Paper-on-Central-Bank-Digital-Currency-Comments-from-the-Public.pdf>
+(‘Comments from the Public’).
+See Tony Richards,
+‘Retail Central Bank Digital Currency: Design Considerations and
+Rationales’ (Speech, UWA Blockchain,
+Cryptocurrency and Fintech
+Conference, 14 October 2020)
+<https://www.rba.gov.au/speeches/2020/sp-so-2020-10-14.html>. For a
+on the likely timing of central banks issuing a CBDC, see Di Iorio, Kosse and
+Mattei (n 34) 8.
+Heng Wang and Ross
+Buckley, ‘The Coming Central Bank Digital Currency Revolution and the
+e-CNY’ [2023] (March)
+Singapore Journal of Legal Studies
+See Tom McIlroy and James
+Eyers, ‘Chalmers Reassures on Cash Supplies after Armaguard
+Australian Financial Review
+(online, 5 April 2024)
+<https://www.afr.com/companies/financial-services/chalmers-reassures-on-cash-supplies-after-armaguard-meeting-20240405-p5fhpw>;
+Lucas Baird, ‘Why It’s So Hard to Keep Cash Alive in
+Australia’,
+Australian Financial Review
+(online, 26 March 2024)
+<https://www.afr.com/companies/financial-services/aba-says-australia-s-geography-makes-keep-cash-alive-particularly-hard-20240326-p5ffb2>;
+James Eyers, ‘Last-Minute Lifeline to Keep Cash Afloat’,
+Australian Financial Review
+(online, 25 March 2024)
+<https://www.afr.com/companies/financial-services/banks-retailers-offer-last-minute-lifeline-to-keep-cash-afloat-20240319-p5fdgr>.
+Future of Digital
+‘Comments from the
+Public’ (n 129) 31.
+‘Development of a
+Bank of England Retail Digital Pound Should “Proceed with Caution”,
+UK Parliament
+(online, 2 December 2023)
+<https://committees.parliament.uk/committee/158/treasury-committee/news/198770/development-of-a-bank-of-england-retail-digital-pound-should-proceed-with-caution-mps-warn/>.
+Annual Report 2020
+‘Accessibility
+Reserve Bank of Australia Banknotes
+<https://banknotes.rba.gov.au/resources/for-people-with-vision-impairment/accessibility-features/>.
+‘Central Bank
+Digital Currency Tracker’,
+Atlantic Council
+<https://www.atlanticcouncil.org/cbdctracker/>.
+For example, in Denmark,
+the decision not to issue a CBDC appears to have been made by its central bank
+without any public debate.
+See ‘New Types Analysis’ (n 124) 3; Signe
+Krogstrup, ‘New Types of Digital Money’ (Speech, Danmarks
+Nationalbank,
+9 March 2023)
+<https://www.nationalbanken.dk/media/zh3n2jbu/skro-keynote-cbdc.pdf>.
+Soderberg et al (n 16)
+‘Law Reform
+Australian Law Reform Commission
+(Web Page, 2024)
+<https://www.alrc.gov.au/about/law-reform-process/>.
+Office of Impact
+Analysis, Department of the Prime Minister and Cabinet (Cth), ‘Best
+Practice Consultation’ (Guidance
+Note, July 2023) 7
+<https://oia.pmc.gov.au/sites/default/files/2023-08/best-practice-consultation.pdf>.
+Reserve Bank of
+Australia and Digital Finance Cooperative Research Centre,
+Project Acacia:
+Exploring the Role of Digital Money in Wholesale Tokenised Asset Markets
+(Consultation Paper, November 2024)
+<https://www.rba.gov.au/payments-and-infrastructure/central-bank-digital-currency/pdf/project-acacia-consultation-paper-2024-11.pdf>.
+New Form of Money
+Bank of England and HM
+Treasury, ‘Response to the Bank of England and HM Treasury Consultation
+Paper: The Digital Pound’
+(Consultation Response, January 2024)
+<https://www.bankofengland.co.uk/-/media/boe/files/paper/2024/responses-to-the-digital-pound-consultation-paper.pdf>.
+‘Progress Update:
+The Digital Pound and the Payments Landscape’,
+Bank of England
+Page, 14 January 2025)
+<https://www.bankofengland.co.uk/report/2025/digital-pound-progress-update>.
+See also the European
+Central Bank, where the consultation process concerned gathering views on the
+benefits and challenges of issuing
+a digital euro and its possible design:
+‘Digital Euro: Listening to the Public’,
+European Central
+<https://www.ecb.europa.eu/euro/digital_euro/html/pubcon.en.html>.
+Media Relations,
+‘Bank of Canada Launches Public Consultations on a Digital Dollar’
+(Press Release, Bank of Canada, 8
+<https://www.bankofcanada.ca/2023/05/bank-canada-launches-public-consultations-digital-dollar/>.
+‘Digital Canadian
+Bank of Canada
+<https://www.bankofcanada.ca/digitaldollar/>. See also Kyle Bakx and
+Meegan Read, ‘Bank of Canada Shelves
+Idea for Digital Loonie’,
+(online, 18 September 2024)
+<https://www.cbc.ca/news/business/bakx-boc-cbdc-digital-currency-1.7326887>.
+See generally Huosong
+Xia, Yangmei Gao, and Justin Zuopeng Zhang, ‘Understanding the Adoption
+Context of China’s Digital
+Currency Electronic Payment’ (2023) 9(1)
+Financial Innovation
+<https://doi.org/10.1186/s40854-023-00467-5>; ‘E-CNY in China’
+See ‘History: The
+Bahamian Payments Systems Modernisation Initiative’,
+(Web Page) <https://www.sanddollar.bs/history>; Central Bank of the
+Project Sand Dollar: A Bahamas Payments System Modernisation
+(Report, 24 December 2019) 6
+<https://www.centralbankbahamas.com/viewPDF/documents/2019-12-25-02-18-11-Project-Sanddollar.pdf>;
+Soderberg et al (n 16) 18.
+Digital Euro Association,
+‘Lessons from the First Implemented CBDC: The Sand Dollar’,
+Digital Euro Association Blog
+(Blog Post, 23 June 2023)
+<https://blog.digital-euro-association.de/lessons-from-the-sand-dollar?>.
+See Andréa M
+Maechler, ‘Technology and Inclusion in Central Banking’ (Speech, BIS
+Innovation Summit, 7 May 2024)
+<https://www.bis.org/speeches/sp240507.htm>
+for a discussion on the need for central banks to build diverse teams with the
+necessary experience.
+Future of Digital
+See Mihai Niţoi and
+Maria-Miruna Pochea, ‘Trust in the Central Bank, Financial Literacy, and
+Personal Beliefs’ (2024)
+Journal of International Money and
+103066: 1–20
+<https://doi.org/10.1016/j.jimonfin.2024.103066>; Claudio Borio, ‘On
+Money, Debt, Trust and Central
+Banking’ (Speech, Annual Monetary
+Conference, 15 November 2018) <https://www.bis.org/speeches/sp181115.pdf>;
+Braun, ‘Speaking to the People? Money, Trust, and Central Bank
+Legitimacy in the Age of Quantitative Easing’ (2016) 23(6)
+International Political Economy
+<https://doi.org/10.1080/09692290.2016.1252415>. See also Dahdal (n
+Committee on Payment and
+Settlement Systems, Bank for International Settlements,
+The Role of Central
+Money in Payment Systems
+(Report, August 2003) 43. See, eg,
+Reserve Bank
+(n 34) s 34;
+Bank of Canada Act
+(n 34) s 25(1);
+Bank Charter
+, 7 & 8 Vict, c 32, ss 10–11.
+Annual Report 2020
+Dahdal (n 100) 159.
+‘The Digital
+Bank of England
+<https://www.bankofengland.co.uk/the-digital-pound>;
+New Form of
+Future of Digital
+(n 7) 32–3.
+For discussion on citizen
+juries and their role in deliberative democracy, see Graham Smith and Corinne
+Wales, ‘Citizens’
+Juries and Deliberative Democracy’
+Political Studies
+<https://doi.org/10.1111/1467-9248.00250>.
+‘What is a Citizen
+newDemocracy
+<https://www.newdemocracy.com.au/what-is-a-citizens-jury/>; Kyle Bozentko
+et al, ‘The Wisdom of Small Crowds:
+The Case for Using Citizens’
+Juries to Shape Policy’,
+(online, 11 June 2021)
+<https://www.brookings.edu/articles/the-wisdom-of-small-crowds-the-case-for-using-citizens-juries-to-shape-policy/>.
+Print (pretty)
+Print (eco-friendly)
+RTF format (191 KB)
+PDF format (329 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

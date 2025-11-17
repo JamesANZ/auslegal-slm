@@ -1,0 +1,1601 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/LawTechHum/2025/5.html
+Scraped: 2025-11-17 15:13:15
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Nguyen, Anh --- "Export Controls as Innovation Marketing? Sociotechnical Imaginaries in the Ringfencing of Quantum Technologies" [2025] LawTechHum 5; (2025) 7(1) Law, Technology and Humans 68
+Export Controls as Innovation
+Sociotechnical Imaginaries in the Ringfencing
+of Quantum Technologies
+University of Amsterdam, The Netherlands
+Export controls; quantum technologies;
+innovation marketing; sociotechnical imaginaries.
+Here is the essence of mankind’s creative genius: not
+the edifices of civilization nor the bang-flash weapons which can end
+the words which fertilize new concepts ...
+Dan Simmons,
+1. Introduction: Export Controls as a ‘Go-to’ Legal Instrument
+to Ringfence Quantum Technologies
+The saliency of quantum technologies (QT) cuts
+across all domains of science, industry and the state. In an era of
+Wars’, state involvement in quantum innovation to reach
+‘quantum supremacy’ seems like a foregone
+conclusion.
+The United States has
+already ‘blacklisted’ QT transfers to almost all major Chinese
+quantum actors.
+Amidst the sense of
+urgency for states to ringfence their quantum innovation spaces, in the past
+years the governments of
+Netherlands
+have announced virtually identical export controls on quantum computers
+operating with up to 2000 quantum bits (‘qubits’).
+Similar export
+control restrictions were imposed in South
+with further restrictions
+planned in Japan.
+Strangely, the greatest number of qubits ever achieved was 1121 qubits
+by IBM’s Condor quantum processor in December
+No quantum players in any of the jurisdictions imposing export controls on
+quantum computers have come close to surpassing IBM, let
+alone the ambitious
+parameter of ‘2000 qubits’. Are these export controls with
+hypothetical qubit capacity a deliberate
+measure of ‘innovation
+marketing’ to signal states’ quantum ambitions and preparedness to
+protect any technological
+breakthroughs that will eventually emerge from their
+respective ecosystems? Are these measures pre-emptive or premature?
+This article interrogates why export controls are imposed on QT, particularly
+with technical specifications (e.g. 2000 qubits) that
+are not yet realisable. To
+answer this question, the article proceeds in three steps: first demystifying
+the nature of QT and their
+sociotechnical assemblage (Section 2); second
+examining current QT export controls (Section 3); and third, presenting three
+imaginaries that have coproduced narratives, in which QT export controls
+are grounded (Section 4). The imaginaries and narratives
+section will further
+touch upon why the recent wave of export controls has not restricted other QT,
+such as quantum sensing or quantum
+communication technologies, but instead only
+zeroed in on quantum computers, which typically conjure up powerful
+sociotechnical imaginaries
+that animate policy action and permeate regulatory
+choices in the export control space.
+The imposition of export controls on emerging and cutting-edge technologies
+with dual-use potential is by no means unique to quantum
+innovation. The chase
+after a technology’s potential and the subsequent ringfencing through
+export controls can be seen in
+export restrictions on other promising
+technologies, such as advanced semiconductor chips and manufacturing equipment
+crucial for
+developing next generations of
+This article explores the
+dynamics of export control law and policy at a specific moment in time when a
+technology, such as QT, has
+yet to materialise with any viable (commercial)
+utility, yet because of its (borderline) fantastical hype inspires regulatory
+to ringfence access to technology that is still condemned to always be
+five or ten or even 20 years
+By adopting the concept of sociotechnical imaginaries to understand the
+ringfencing performed by export controls on QT, this article
+contributes to
+ongoing export control discussions, which until now have been contextualised and
+historicised by the literature and
+perspectives of international relations,
+geopolitics and geoeconomics.
+Considering the sociotechnical imaginaries shaping export control law-making
+adds new contours and dimensions to our current understanding
+of the geopolitics
+of technology, showing that it is not merely pure power politics (between
+nations, corporations and scientific
+institutions) that moves the grand projects
+of crossing technological frontiers but also the imaginaries of frontier
+technologies
+constructed and believed by the actors
+2. Demystifying the ‘Frontier-ness’ of Quantum Technologies
+The hype surrounding QT – especially its poster child, the quantum
+computer – tends to border on the fantastical. Quantum
+computers have been
+hailed as being able to simulate and find new materials and chemical compounds
+that can help solve climate change
+Simultaneously quantum
+computers are believed to be able to crack all existing encryption, opening the
+floodgates to cyberattacks
+that could ‘break the internet’
+Quantum sensors could sense objects underground, beyond walls and what is out of
+vision. They promise perfect transparency of the
+world, materials, the human
+body and the Earth.
+communication technologies could alter the idea of online communication, provide
+unhackable communication, bend time and
+This section
+demystifies these claims to put our feet back on the ground and understand what
+kind of QT are subject to export controls.
+The QT discussed in this article are the so-called
+‘second-generation’ QT – as opposed to first-generation QT
+on the manipulation of the interaction between quantum particles
+(photons, atoms, electrons)
+as nuclear power, semiconductors and
+Second-generation QT are
+premised on the direct manipulation and control of the quantum states of these
+particles to exploit their
+quantum mechanical
+properties.
+Fundamental to understanding QT – particularly quantum computers
+– is its building block, the quantum bit (‘qubit’).
+quantum mechanical systems that can be generated by manipulating atoms, ions,
+electrons, photons, molecules or quasiparticles
+so they enter into a quantum
+state. In this state, quantum mechanical properties such as superposition,
+interference or entanglement
+There are five major
+challenges to harnessing the computational and information processing powers
+from these quantum mechanical properties
+The difficulty in creating conditions for quantum states
+Qubits are fragile. Any interaction between qubits and the outside
+(‘classical’) world will make them lose their desired
+quantum state
+(‘decohere’). Thus, there is a substantial engineering barrier to
+building the hardware to perfectly isolate
+qubits from ‘noise’,
+which includes light, sound, air, heat, electromagnetic interferences and cosmic
+The current state of
+quantum computing is referred to as the noisy intermediate-scale quantum (NISQ)
+era, in which quantum computers
+are still prone to noise and thus have no
+‘quantum advantage’ over classical
+The difficulty in creating ‘error free’ qubits
+Qubits are also error prone. Thus, a large proportion of qubits must be
+dedicated to error-correction routines that keep a computation
+Currently a ratio of about 30–10,000 physical (‘redundant’)
+qubits is needed to error-correct for one
+a logical (‘useful’)
+The difficulty of interacting with qubits
+. To harness the
+computational powers of qubits, we must be able to input commands and controls
+to ‘tell’ a qubit what
+to do. This, however, is greatly complicated
+because the qubit is prone to decoherence upon interacting with the
+‘classical’
+The difficulty of scaling up qubits.
+Adding more qubits
+complicates the control over how all qubits may interact with each
+The increased coherence
+of qubits seems to be only possible at the cost of qubit speed. Protecting a
+qubit from its noisy surroundings
+also limits control over it. This is referred
+to as the qubit speed-coherence dilemma: qubits are either coherent but slow or
+but short-lived.
+The difficulty in designing quantum algorithms.
+computers are often said to be revolutionary because qubits being in
+‘superpositions’ (instead of binary 0 or
+1) can calculate ‘all
+possibilities all at once’. This is a skewed understanding, as we would
+still need to figure out
+which one of presumably thousands of millions of
+possibilities is the correct answer. Thus, quantum algorithms must be designed
+properly ‘read out’ the correct answer – otherwise, upon
+‘reading out’ information from a qubit system,
+one would merely get
+a random (incorrect) answer from all possible
+Consequently, taking these engineering challenges seriously will sober up our
+evaluation of the hype surrounding QT. The mathematical
+and quantum mechanical
+foundations of QT are theoretically sound and have been experimentally
+As such, QT is not a
+speculative technology; however, because of these engineering hurdles, the field
+is still exploratory and uncertain.
+article puts into
+perspective: ‘Even with 2 million qubits, some quantum chemistry
+calculations might take a century ... breaking
+state-of-the-art cryptography in
+8 hours would require 20 million
+While there may be hope that QT is already at the cusp of commercialisation,
+most QT firms are still in the R&D phase, and few
+have reached the phase of
+full-fledged commercial scale-up. There is no QT with (commercial) utility.
+However, there are sites of
+QT labs, where proofs-of-concept, prototypes and
+demonstrators are built and reported on in prestigious journals such as
+Nature, Science
+Physical Review
+These quantum
+R&D artefacts are taken as proxies and reported as ‘quantum
+technologies’. Consequently, the relevant
+sites to study QT are in fact
+the ‘quantum labs’ across all sectors of government, industry and
+academic R&D.
+This article borrows the concept of ‘sociotechnical assemblage’
+from Jarrahi and Sawyer, who theorised it within the context
+of tabletop
+computing as a ‘heterogonous network of people, visions, concepts,
+technological artifacts, and organizations that
+come together to enable
+innovation’.
+In this vein, the ‘sociotechnical assemblages’ of quantum
+innovation encompass not only the artefacts of proofs-of-concept,
+prototypes and
+experimental setups but the entire innovation value chain. This includes the
+‘value-adding’ activities
+and interactions of physicists, engineers,
+computer scientists, technologists and technicians across the innovation value
+well as the material supply chains of highly advanced equipment for
+quantum labs. Thus, devices such as cryogenics (dilution refrigerator,
+cryogenic cables), nanofabrication systems (superconducting materials,
+lithography equipment), photonic sources (lasers,
+modulators, interferometers),
+vacuum equipment (vacuum pumps, chambers, isolators), precision electronics
+(photon detectors, control,
+measurement equipment) and ion and atom dispensers
+(strontium, rubidium, iodine are common elements used in quantum labs) could
+within the purview of technological ringfencing of quantum
+innovation.
+As a result, the ‘sociotechnical assemblages’ of quantum
+innovation is a means of understanding what is even there and
+what is even real
+to the material reality of current
+QT developments, this article concretises the
+regulatory object of QT export controls as not QT
+, but rather the
+broader ‘sociotechnical assemblages’ of quantum innovation.
+While the regulatory object of QT export controls is the
+‘sociotechnical assemblages’ of quantum innovation, this article
+contends that these assemblages are not the driving force behind QT export
+controls. To understand why export controls are imposed
+early in the
+R&D phase, when QT is still mired in engineering challenges and
+prophesied to always be five to ten to 20 years
+away, this article relies on
+Jasanoff and Kim’s concept of ‘sociotechnical imaginaries’.
+These are ‘collectively
+held and performed visions of desirable futures
+(or of resistance against the undesirable), and they are also animated by shared
+understandings of forms of social life and social order attainable through, and
+supportive of, advances in science and
+technology’.
+Imaginaries surrounding QT, which are fuelled by the hype of utopia (solving
+climate change and curing cancer) and premonition of
+dystopia (breaking all
+public key encryption), link up to the central inquiry of this article about the
+seemingly ‘performative’
+nature – that is, the
+‘innovation marketing’ aspect of export controls on quantum
+computers with hypothetical ‘2000
+qubit’ capacity that is not yet
+realisable. As Jasanoff points out, ‘The performative dimension of
+sociotechnical imaginaries,
+however, also relates this term to concepts more
+closely linked to instrumental political action – in other words, to
+Quantum imaginaries help to reconcile why current QT export controls set out
+to regulate quantum computers of their hypothetical ‘2000
+capacity, which is far removed from the current state of the art. Despite the
+major engineering challenges of creating
+(error-free) qubits, interacting with
+them, scaling them up and designing algorithms to obtain the correct answers
+from their calculations,
+quantum imaginaries serve as a muse for the law and
+policy-making process, which defies the often lustreless and convoluted reality
+of quantum innovation.
+The Law of Export Controls on Quantum Technologies
+This section presents three ways in which export controls are designed to
+sink their regulatory hooks into the transfer of QT outside
+the territory of the
+regulating state: (1) through restrictions on QT as such; (2) through
+restrictions on the material supply chains
+of QT; and (3) through restrictions
+on the ‘intangibles’ (software, IP, algorithms) and knowledge
+exchange in the R&D
+and production of QT.
+3.1 Export Controls on QT as
+Export controls impose restrictions – for example, a licensing or
+authorisation requirement – on the transfer of certain
+technologies
+outside the territory of the regulating state. These controlled technologies are
+either military or dual-use technologies.
+Export controls can set up a list of
+entities to whom the technology export is restricted, or regulate according to
+technical specifications
+of a controlled technology.
+In May 2024, the US Export Administration Regulation added 37 Chinese quantum
+industry and research institutions to its Entity
+These are deemed to be
+‘acquiring and attempting to acquire US-origin items in support of
+advancing China's quantum technology
+capabilities, which has serious
+ramifications for US national security given the military applications of
+quantum technologies’.
+Spain, France, Denmark, Italy, Germany, Finland and the Netherlands made use
+of the Article 9 EU Dual-Use
+Regulation,
+which allows EU
+states to prohibit or impose an authorisation requirement on the export of
+dual-use items not included in the Regulation’s
+Annex I (at the time of
+writing this Article does not include QT). Between 2023 and 2024, the
+governments of Spain (May 2023), France
+(February 2024), the United Kingdom
+(April 2024), Denmark (June 2024), Canada (June 2024), Germany (July 2024),
+Italy (July 2024),
+Finland (August 2024), Norway (October 2024), the United
+States (September 2024) and the Netherlands (October
+have all adopted export
+restrictions on quantum computers (a QT
+product’) with virtually identical technical specifications:
+Quantum computers and related electronic assemblies and components therefor,
+as follows:
+a) Quantum computers, in accordance with the following requirements:
+1. Quantum computers supporting
+34 or more, but fewer than 100
+controlled, connected and working
+physical qubits
+, and having a C-NOT
+error of less than or equal to 10
+2. Quantum computers supporting
+100 or more, but fewer than 200
+controlled, connected and working
+physical qubits
+, and having a C-NOT
+error of less than or equal to 10
+3. Quantum computers supporting
+200 or more, but fewer than 350
+controlled, connected and working
+physical qubits
+, and having a C-NOT
+error of less than or equal to 2x10
+4. Quantum computers supporting
+350 or more, but fewer than 500
+controlled, connected and working
+physical qubits
+, and having a C-NOT
+error of less than or equal to 3x10
+5. Quantum computers supporting
+500 or more, but fewer than 700
+controlled, connected and working
+physical qubits
+, and having a C-NOT
+error of less than or equal to 4x10
+6. Quantum computers supporting
+700 or more, but fewer than 1100
+fully controlled, connected and working
+physical qubits
+, and having a
+C-NOT error of less than or equal to 5x10
+7. Quantum computers supporting
+1100 or more, but fewer than 2000
+fully controlled, connected and working
+physical qubits
+, and having a
+C-NOT error of less than or equal to 6x10
+8. Quantum computers supporting
+2000 or more
+fully controlled,
+connected and working
+physical qubits
+These export restrictions define in their accompanying Technical Notes that a
+‘physical qubit’ is ‘a two-level quantum
+system used to
+represent the elementary unit of quantum logic by means of manipulations and
+measurements that are not error
+corrected’.
+These rules
+cover different forms of qubit models including ‘semiconductor,
+superconducting, and photonic qubit chips and chip
+arrays; surface ion trap
+arrays; other qubit confinement technologies; and coherent interconnects between
+such items’.
+As explained in Section 2, qubits are error prone and thus need to undergo
+error-correcting routines in order to become a ‘logical’
+(‘useful’) qubit. ‘Logical qubits’ are ‘physical
+qubits’ that have been ‘error corrected’.
+Therefore, the
+technical specifications also include a ‘C-NOT error’ rate, which
+the rules define as ‘the average
+physical gate error for the
+nearest-neighbour two- “physical qubit” Controlled-NOT (C-NOT)
+Essentially, a
+C-NOT gate is a two-qubit operation and acts as one of the basic building blocks
+of a quantum circuit.
+Between February and October 2024, when multiple European governments
+announced these identical export restrictions on quantum computers,
+were not accompanied by specific scientific or technical explanations of the
+specific thresholds for the qubit number and
+C-NOT error rate. For instance, the
+Dutch Minister for Foreign Trade and Development noted in an Explanation
+accompanying the new
+export control rules that quantum computers, being part of
+the controlled technology, ‘make a crucial contribution to certain
+advanced military applications and thus have a significant impact on national
+and international security
+The scientific community’s reaction was reserved and sceptical. These
+identical restrictions were deemed as ‘mysterious’,
+with concerns
+expressed about the lack of ‘scientific reason’ or even lack of
+‘basis in science’ for these
+restrictions as well as the
+‘secret international discussions’ in which these technical
+specifications had been
+negotiated.
+Quantum computing
+experts were reportedly ‘baffled’ by specifications, which were
+perceived as ‘pointless’
+or making ‘no
+‘secret’ negotiations refer to confidential talks under the
+Wassenaar Arrangement, a non-binding multilateral export
+control regime that
+allows participating member states to better coordinate export restrictions on
+military and dual-use technologies.
+Then, on 9 September 2024, the US Bureau of Industry and Security handed down
+an Interim Decision on Commerce Control List Additions
+and Revisions, which
+included the restrictions on quantum
+The Interim Decision
+explains that the qubit number is a measure of ‘engineering advances in
+component design and system integration
+that will enable scaling of quantum
+computers to very large
+whereas the
+‘C-NOT error’ rate is a ‘measure of the quality of the
+These two metrics
+combined are intended to indicate certain technological advances in the
+development of quantum computers. As such,
+the metrics for the qubit number and
+C-NOT error must be assessed together to form a certain threshold reflecting
+incremental technological
+advances. This seems to suggest pre-emptive
+ringfencing of specific ranges of piecemeal advances in varying degrees of
+quantum computing
+performance to ‘future-proof’ the necessary
+material (and knowledge) resources, ensuring that such advances in computational
+power do not fall into the wrong hands.
+The Interim Decision does not include explanations for the numerical choice
+of each of the eight thresholds set out in the export
+control rules. It explains
+that the uppermost threshold of 2000 qubits was set because this is the point of
+Concretely, the necessary error rate increases with
+increased qubit count but plateaus around 2000 qubit (with an error rate at
+). The lower threshold of 34 qubits was chosen because it
+‘represents a high level of technological sophistication warranting
+national security, regional stability, and antiterrorism
+Most likely,
+these rationales would also be applicable to the identical technical
+specifications adopted by the United States’
+European counterparts.
+Crucially, however, the Interim Decision does not make any concrete reference
+to scientific studies, research or publications that
+further substantiate and
+justify the claims made about the upper and lower thresholds – that is,
+the point of ‘plateau’
+and the minimum ‘high level’ of
+‘sophistication’ warranting national security protective measures.
+The decision
+does not further reference or indicate any scientific expert
+(bodies) that have been consulted during the drafting of these export
+restrictions.
+3.2 Export Controls on the Material Supply Chains of QT
+Beyond the restrictions on QT as such, restrictions can also be placed on
+equipment, devices and component parts of the QT material
+supply chain. The
+above-mentioned export restrictions regulate these supply chains, as reflected
+in the text’s inclusion of
+‘Qubit devices and qubit circuits
+containing or supporting arrays of physical qubits’, ‘Quantum
+control components
+and quantum measurement devices’ and ‘Technology
+for the development or production’ of quantum computers and their
+Previously, the US Commerce Control List (CCL) had already regulated
+categories of technologies that are part of the QT supply chain:
+superconductive
+microelectronics,
+dispensers.
+Overall, these
+devices can also be found in any (generic) material sciences or experimental
+physics labs and are not quantum
+However, with the new
+wave of export restrictions on quantum computers, these specific pieces of
+equipment can be regarded as ‘qubit
+devices’, ‘qubit control
+components and quantum measurement devices’, enabling technologies
+‘for the development
+or production’ of quantum computers.
+Some export control legislation explicitly restricts vital equipment for the
+QT supply chain, namely ‘cryogenic cooling systems
+and components ...
+cryogenic wafer probing equipment and advanced
+materials’.
+Finland has imposed export controls on
+cryogenics,
+in which the Finish company Bluefors is an industry leader, supplying to major
+players such as IBM and burgeoning quantum computing
+start-ups such as Alice
+Cryogenics have also
+been included in the US CCL under their Export Administration Regulation. The
+CCL includes ‘Cryogenic
+refrigeration
+‘Helium refrigeration
+3.3 Export Controls on ‘Intangibles’ and Knowledge Exchange
+It has been noted that export controls on the technology as such and their
+supply chains may not be enough to effectively hamper the
+indigenisation of
+controlled technologies in the rival state. For instance, only three weeks after
+the US blacklisting of Chinese
+quantum actors, a Chinese research team announced
+a breakthrough, achieving the largest ever quantum computation with trapped-ion
+qubits. This breakthrough was achieved under the leadership of a US-trained
+Chinese scientist, which further fuels fears of technology
+leakage due to open
+international scientific
+collaboration.
+To effectively
+prevent such technology leakages, ‘intangible’ aspects (e.g.
+intellectual property, expertise and know-how)
+related to the R&D and
+manufacturing of a controlled technology must also be
+Within the US export control regime, Daniels and Krige have (re)considered
+technology export restrictions as a means of ‘knowledge
+regulation’.
+Natural persons working in cross-border scientific research would be considered
+‘data exporters’ of
+not only ‘technical data’ but also
+their general expertise, know-how and implicit knowledge gained by virtue of
+with US-based technology
+In this light, US
+export control implementation is carried out according to the ‘mosaic
+theory’, which assumes that export
+controls should extend to any kind of
+‘knowledge’ related to the material technological artifact because
+unrelated and
+innocuous pieces of information could in combination yield a
+bigger picture.
+This is a line
+of reasoning that the US export control authorities have adopted to characterise
+any comingling of foreign technical
+data or knowledge with US-origin data or
+knowledge as a ‘deemed export’ under the ambit of US export control
+administration.
+The extension of export controls to regulating any form of knowledge exchange
+is also reflected in Article 2 (2) of the EU Dual-Use
+Regulation. In addition to
+defining ‘(re)export’ as the movement of goods from the Union
+customs territory into that
+of third states, it also covers various means of
+‘knowledge exchange’:
+(d). transmission of software or technology by electronic media, including by
+fax, telephone, electronic mail or any other electronic
+means to a destination
+... making available in an electronic form ... oral transmission of technology
+when the technology is described
+over a voice transmission
+The 2009 Dual-Use Regulation excluded from its scope the ‘the supply of
+services or the transmission of technology if that supply
+or transmission
+involves cross-border movement of
+For instance,
+this could have excluded any knowledge exchanged between scientists at a
+conference outside of the European Union.
+Instead, these cases were covered by
+Article 1 of the Joint Action CFSP/401/2000 under the term of
+‘technical assistance’,
+which has now also been incorporated into
+the scope of Article 1 of the 2021 Dual-Use
+Article 8 provides
+that member states must require authorisation for such providers of
+‘technical assistance’ related
+to controlled technologies under the
+Regulation. Article 2(9) defines ‘technical assistance’ as:
+any technical support related to repairs, development, manufacture, assembly,
+testing, maintenance, or any other technical service,
+and may take forms such as
+instruction, advice, training, transmission of working knowledge or skills or
+consulting services, including
+by electronic means as well as by telephone or
+any other verbal forms of assistance.
+Article 2(10) widely defines the scope of ‘technical assistance’,
+which encompasses transfers from natural or legal person
+or partnership
+‘from’ or ‘resident’ or ‘established’ in the
+EU ‘into’ or ‘within’
+the territory of a third state or
+‘to a resident of a third state temporarily present’ in the EU
+customs territory. This
+last case covers instances of third-country citizens
+following courses at universities, research centres or participating in industry
+research and development programs in the EU. Previously, such cases were neither
+covered by Article 7 of the 2009 Dual-Use Regulation
+nor Article 1 Joint Action
+CFSP/401/2000.
+Given that the main challenge of QT is one of acquisition and bringing
+together of engineering ingenuity from a collectively skilled
+workforce, export
+controls critically serve as a tool of knowledge regulation. This could have
+major implications for open international
+academic and scientific exchange in
+QT, with institutions, entities, individuals, scientists, engineers and
+technicians from foreign
+(non-US/non-EU) states constituting a sizeable part of
+the pool of talent in the high-tech sector. The US Bureau of Industry and
+Security observed in its Interim Decision to impose export restrictions on
+quantum computing:
+Quantum computing research and development is substantially a
+, with major innovation occurring in academic labs, small companies,
+large companies, and national laboratories distributed throughout
+the world. Key
+foundational concepts, capabilities, and discoveries from one side of the globe
+are often borrowed, improved, and/or
+incorporated to advance efforts on the
+other side of the world ... At the same time, there is a global shortage of
+quantum computing
+expertise, with demand currently outstripping supply. This has
+a substantial world-wide competition to attract the top talent.
+Academia and industry have described the talent bottleneck as one
+of the largest
+impediments to acceleration.
+The domestic development of quantum information science and technology (QIST)
+experts, including in quantum computing, is insufficient
+to fill the United
+States’ QIST strategic goals. The United States will continue to rely on
+foreign talent to fill critical
+workforce gaps. Currently, much of the QIST
+talent developed in the U.S. are foreign persons. Foreign persons are subject to
+requirements as administered by the Department of State. More than half of
+QIST-related degrees conferred in the U.S. are awarded
+to temporary U.S.
+Given that certain parameters are still technically unrealised and currently
+unrealisable, there is no ‘real’ quantum
+device that can demonstrate
+such hypothetical performance. However, what are real and can be ringfenced are
+the ‘knowledge’
+communities of quantum scientists in university and
+company (start-up) R&D labs working on realising such ambitious hypothetical
+parameters such as 2000 qubits.
+Export control regulating knowledge exchange over a controlled technology
+does not merely give effect to those provisions restricting
+the controlled
+technology as such (Section 3.1) and their material supply chains of enabling
+technologies (Section 3.2). If current
+export controls are to be enforced as
+knowledge-regulation tools, they could indeed sink their regulatory teeth into
+the people –
+that is, ‘knowledge’ that make the
+‘sociotechnical assemblage’ of quantum innovation possible. As
+in Section 2, this assemblage does not just encompass the material
+artefacts and resources of quantum innovation but the activities
+interactions of physicists, engineers, computer scientists, technologists and
+technicians which make this endeavour to innovate
+Following this logic, the non-existence of a quantum computer with
+‘hypothetical’ not yet realisable ‘2000 qubit’
+is immaterial for the
+raison d’être
+of export controls. What
+is relevant is the existence of communities of scientists, engineers and
+innovators within sociotechnical
+assemblages of quantum innovation, striving for
+the elusive ‘2000 qubit’ – of which there are currently plenty
+for export control ringfencing to sink their teeth into.
+The Narratives Underlying the Ringfencing of Quantum Technologies
+Export controls on quantum computers with hypothetical ‘2000
+qubit’ capacity are rooted in different narratives co-produced
+specific sociotechnical imaginaries of quantum computers. These narratives
+around quantum imaginaries have fed into the
+export controls’ different
+rationales for ringfencing. This section discusses the imaginary of (1) the
+universal quantum computer
+(UQC) within the (quantum) ‘sovereignty’
+narrative; (2) the cryptographically relevant quantum computer (CRQC) within
+‘security’ narrative; and (3) the fault-tolerant quantum
+computer (FTQC) within the ‘Sputnik’ narrative.
+4.1 The Sovereignty Narrative
+The cutting-edge and transformative nature of QT has become the driving force
+behind export controls’ ringfencing rationale
+to promote and protect a
+state’s ‘sovereignty’ over innovation resources vital to
+states’ technological
+For the EU,
+‘technological sovereignty’ means to ‘[avoid] situations where
+the EU is reliant on a sole, or limited
+number of, third country suppliers for
+technologies which are critical to startups and to the EU’s economic and
+societal wellbeing’.
+reflects the effort to protect material and human resources vital for
+maintaining the ‘technological lead time’,
+which is taken as a proxy
+for both ‘technological predominance’ and ‘technological
+sovereignty’ – a
+rationale particularly evident in US export
+Within the context of QT, the term ‘quantum
+sovereignty’
+has emerged.
+It similarly implores the need for Europe’s self-sufficiency and mastery
+of quantum capabilities at various stages
+of the supply chain and levels of the
+technology stack, which is expected to impact a broad range of sectors such as
+aerospace, defence,
+pharma, material sciences and finance. This has manifested
+in R&D and industry investments into quantum projects such as the
+European Quantum Communication Infrastructure
+Initiative,
+the ‘Quantum
+Valley’ R&D ecosystem
+and the recently proposed EU ‘Quantum Chips
+Similar investments
+into the quantum industry are also seen in the Division B funding under the US
+CHIPS and Science Act.
+Quantum imaginaries are strong drivers of the ‘quantum
+sovereignty’ narrative, which is contingent on policy makers’
+perception of the promises, potentials and prospects of QT. Quantum imaginaries
+relate to the (un)desirable futures attached to the
+possession, lack of or
+belated possession of quantum capabilities. A powerful imaginary which
+encapsulates the cutting-edge and transformative
+nature of QT is that of the
+universal quantum computer
+Also referred to as a
+general-purpose quantum computer, the UQC is believed to be capable of executing
+all quantum algorithms, despite
+their creation still being one of the main
+challenges in quantum computing. The possibilities provided by a UQC have been
+as being a game-changer across all fields such as automotive, logistics,
+finance, pharma and chemicals,
+as well as paving the way for all types of ‘quantum use case’
+supporting the Sustainable Development Goals and bridging
+the digital
+The imaginary of a UQC goes hand in hand with the sovereignty narrative
+because of the universalising and totalising ‘grand’
+visions evoked
+by both concepts. The potential of having state-of-the-art computational
+resources that could supercharge and unlock
+all innovation potentials across
+industries fires up the desire of states to claim technological sovereignty.
+Despite such quantum
+export controls’ protectionist spirit undermining
+states’ free trade commitments under the Global Agreement on Tariffs
+Trade (GATT),
+the imaginary of
+the UQC’s boundless potential animates policy action to ringfence the
+necessary innovation resources to elevate
+states’ respective industrial
+and technological bases such that a state can stake a claim to being
+technologically ‘sovereign’
+– whether that means
+‘independent’, ‘competitive’ or
+‘predominant’.
+4.2 The Security Narrative
+A common understanding of the rationale behind export controls relates to
+their national (military) security implications. In this
+context, QT, as the
+controlled technology, is viewed as both a security asset and a liability.
+Export controls are imposed on advanced
+technologies because of their presumed
+dual-use nature (for military and/or civilian applications) to protect national
+security and
+international peace and security by preventing the
+non-proliferation and transfer of such dual-use technologies in weapons and arms
+Indeed, quantum sensing and quantum communication technologies have been a
+fixture of defence technology
+of all leading
+‘quantum’ state players and
+Quantum sensors’
+ability to produce precise information about an electric signal and magnetic
+anomalies, and for inertial navigation,
+could have important applications such
+as anti-drone surveillance radar, anti-stealth technology, detection of
+submarines or underwater
+mines and surveillance technology. Quantum
+communication technologies are envisioned to facilitate secure information
+exchange between
+quantum computers with the help of quantum key-distribution via
+a quantum network that uses optical fibre or free-space channels.
+Importantly,
+quantum communication could offer secure communication alternatives in the
+advent of a quantum computer capable of breaking
+current standard encryption
+Given the major military, information and cybersecurity implications of both
+quantum sensing and communication technologies, it is
+peculiar that these
+technologies have not been featured in recent QT export control. The discussed
+export controls have lengthy technical
+specifications for quantum computers but
+make no mention of quantum sensing or communication technologies. This is
+particularly questionable
+given that quantum sensors have been assessed with a
+higher technological maturity than quantum
+Further, experts are
+working on quantum communication network solutions that could provide secure
+digital infrastructure that is
+resilient against potential cyberattacks by
+quantum computers.
+are only quantum computers such a prominent feature in export control
+legislation?
+It is worth considering that quantum sensors and quantum communication
+technologies may already be covered by technical specifications
+provided in
+states’ export control lists, which adopt and are aligned with the
+specifications in the Dual-Use List under the
+Wassenaar Arrangement. For
+instance, Category 5 of the Dual-Use List covers Telecommunications and
+Information Security, while Category
+6 covers Lasers and Sensors. However,
+recent export restrictions on quantum computers have been added under Category 3
+and 4 cover
+Electronics and Computers
+respectively.
+Had regulators
+intended to include new and more specific export restrictions for quantum
+sensors or communication technologies under
+specific categories of their export
+control lists, such an inclusion could have been coupled and rolled out with
+restrictions on
+quantum computers.
+The non-inclusion of quantum sensors and communication technology in recent
+export restrictions and the single-minded focus on quantum
+computers could be
+explained by the powerful imaginaries or imagined threat conjured up by a
+quantum computer. A quantum computer
+that is able to break current encryption
+protocols – a cryptographically relevant quantum computer (CRQC) –
+if realisable,
+could constitute a major security threat. However, breaking
+state-of-the-art cryptography would require 20 million qubits and could
+to eight hours,
+still five orders of magnitude away from the current state-of-the-art quantum
+computer with around 1000 qubits. Given the
+major engineering challenges in QT,
+a threat of a CRQC is not non-existent, but it is not imminent. To fully
+appraise the cybersecurity
+threat of a CRQC, two factors need to be borne in
+mind. There is the threat of ‘harvest now, decrypt later’, in which
+state or other actors gather troves of encrypted data, which they hope can be
+decrypted with a CRQC in the
+This is particularly
+relevant for certain data, which are ‘crown jewels’ (e.g. state
+secrets, military sensitive data)
+and thus will still be high-value data in the
+not-so-distant future. However, states are now also shifting towards adopting
+‘post-quantum
+cryptography’ protocols that are developed to be safe
+against CRQC attacks. Post-quantum cryptography algorithms have been
+many export control
+The complex on-the-ground reality of assessing the CRQC risks does not
+directly drive the security narrative for ringfencing quantum
+Instead, it is the imaginary of the CRQC with its spectre of ‘Q-Day’
+that fuels the policy urgency to protect
+our digital society from CRQC malicious
+attacks. The CRQC imaginary seems to have animated a Hobbesian-like reflex of
+as a sovereign, to protect the interests of society at large by
+guarding us from threats of CRQC-wielding ‘barbarians at the
+who threaten the cybersecurity architecture of our digital society.
+In fact, interest in quantum computing grew in 1994 after mathematician Peter
+Shor devised his eponymous Shor’s algorithm, a
+quantum algorithm for
+exponentially fast factoring of large primes (of more than 100 digits) – a
+crucial step in cracking public
+Shor himself
+recounted that he had initially described his work as ‘solving discrete
+logarithms’ – without mentioning
+factoring, quantum computing or
+cryptography. However, like the ‘children’s game of
+Telephone’, his work was reported
+as a solution for
+‘factoring’ large numbers – that is, with application for
+cryptography – which eventually
+caught the attention of NSA
+Shor’s algorithm has consequently added to the perception of what
+threats are posed by a CRQC that hypothetically has qubits
+stable and powerful
+enough to run Shor’s algorithm. The diffusion of Shor’s algorithm as
+scientific knowledge across
+communities, according to Latour, can be attributed
+to the production of inscriptions that simplify and ‘flatten’ the
+world, and their subsequent distribution by ‘centers of calculation’
+that enable these representations (Shor’s
+algorithm as representing CRQC
+– that is, cybersecurity, risks) to draw together actors and actions far
+outside (cryptography
+and NSA communities) the initial loci of production
+(solving discrete
+logarithms).
+Without the
+diffusion of Shor’s algorithm, the CRQC imaginary would not exist in its
+current form. The anxiety that a CRQC
+could execute Shor’s algorithm
+remains a powerful fixture in the narrative of quantum computers, and QT more
+broadly, as security
+threats, which underlies the ringfencing rationale of
+export controls on these devices.
+4.3 The ‘Sputnik’ Narrative
+Moving away from UQC and CRQC imaginaries, the fault tolerant quantum
+computer (FTQC) is a quantum computer with relatively ‘error
+and ‘coherent’ qubit states, and is thus considered one of the most
+realistic but still moderately ambitious
+milestones for the quantum computing
+The goal of building a
+FTQC has fed into the rationale of ringfencing quantum innovation to guard those
+resources in order for a
+state to become ‘the first’ in the race to
+demonstrate large scale ‘quantum coherence’ – the key
+engineering
+challenge in quantum computing representing the field’s
+‘Sputnik moment’.
+The ‘Sputnik moment’ rhetoric has often been invoked to describe
+quantum R&D efforts.
+Thinking beyond the superficial meaning of this turn of phrase referring to a
+disruptive technology entering the world stage, the
+launch of the Sputnik was in
+a fact a technological demonstration – a prototype put together to
+demonstrate the ability to
+launch objects into
+In the same vein, any
+resulting FTQC would also be a protype demonstrating the successful
+implementation of error-correction routines
+for logical (error-free and useful)
+qubits. The Sputnik mission
+did not have any immediate
+military-defence, commercial or economic ‘utility’. Its significance
+was rather the demonstration
+of a state’s scientific technological and
+engineering power – or, more romantically put, ‘human
+– making the potential of space travel more real. The
+Sputnik moment refers to a technological achievement that unlocks myriad
+possible futures in terms of military, geopolitical, industrial, economic and
+scientific ambition and powers.
+In this light the FTQC imaginary represents an engineering triumph, a
+first-of-its-kind quantum computer. The successful construction
+of a FTQC would
+be a breakthrough feat of demonstrating quantum coherence, essentially defying
+the laws of quantum mechanics. Achieving
+the FTQC milestone could make
+imaginaries of more ambitious quantum computers such as the CRQC or UQC a more
+possible reality. Fostering,
+safeguarding and controlling the entire
+sociotechnical assemblage of quantum innovation that goes into building a FTQC
+lends meaning
+to a state’s identity, value and ambition of being
+‘the first’ in achieving quantum fault-tolerance.
+The innovative capabilities and potentials surrounding the imaginary of a
+FTQC become the leitmotif of state’s technology
+Particularly in the
+European Union, policy-makers have recognised that Europe has lost out in the
+semiconductor industry market share
+and thus also the attendant export control
+race. Thus, there has been increased emphasis for the European Union and its
+member states
+to facilitate ‘first movers’ in
+which makes the FTQC
+imaginary all the more powerful in these discourses.
+While it may be easy to impose export controls on any prized QT, such as
+quantum computers, the performative nature of policy posturing
+only goes so far.
+Export controls should be critically considered upon a transparent basis upon
+which technical considerations for
+export control parameters have been decided.
+Thus far, explanations have only made vague references to the cutting-edge or
+nature of QT and have yet to garner wide (public) support from the
+scientific community. Restrictions on cross-border R&D and
+exchange must be considered in terms of how these could backfire on R&D
+efforts to foster a quantum innovation ecosystem
+worth protecting before a
+too-high export control fence is constructed. This could result in an innovation
+culture fractured along
+geopolitical fault lines, thus keeping out material and
+knowledge exchange that may be vital to achieving the quantum ‘Sputnik
+Conclusion: Is it the Qubits or the Story We Tell About Them That
+Given that no full-fledged ‘useful’ QT exist, export controls
+become tools of knowledge regulation. They sink their regulatory
+teeth into the
+‘sociotechnical assemblage’ of quantum innovation to ringfence the
+site where critical knowledge and R&D
+exchanges are at work to overcome the
+major engineering challenges standing between quantum ambition and reality.
+Regardless of whether QT export controls are fit for purpose or whether their
+parameters make technical sense or are adequate for
+effective enforcement, the
+mere invocation of export controls lends the state an air of regulatory
+authority over prized QT. A state
+attempting to ringfence the assemblage of
+quantum innovation has its policies, ambitions and identity tied up in all
+possible imaginaries
+of QT, specifically those conjured up by quantum computers.
+The technical (non)feasibility or (non)realisability of ‘2000
+qubits’ is secondary. What is decisive for understanding
+controls’ performance of ringfencing is the imaginaries that inspire
+visions of power and possibilities of ‘2000
+qubits’. Export controls
+offer the veneer of control over QT. Even if states cannot ringfence the
+amorphous assemblage of quantum
+innovation, export controls provide a conduit
+through which states can ultimately stake claims to potential futures
+represented by
+all possible quantum imaginaries.
+Acknowledgement
+Special thanks go to the journal’s editorial board and reviewers for
+their thoughtful critiques as well as engagement from the
+participants and
+organisers of the ‘Narratives, Frontier Technologies & the Law’
+Conference (Maastricht University,
+30 October–1 November 2024), where a
+draft version of this article was presented. Research for this paper is part of
+the author’s
+PhD project, which is funded by Quantum Delta Netherlands
+(QDNL), a National Growth Fund programme, an initiative of the Ministry
+Economic Affairs and Climate Policy and the Ministry of Finance.
+Bibliography
+Primary Sources
+Additions of Entities to the Entity List, Document no.
+89 FR 41886 (Rule
+the US Bureau of Industry and Security, effective 9 May 2024).
+Amendment to the German Foreign Trade Ordinance, Federal Law Gazette 2024,
+No. 243 (22 July 2024).
+Canadian Order Amending the Export Control List: SOR/2024-112 (31 May
+Department of Commerce, ‘Hydrocarbon Research Inc., et al: Consent
+Denial and Probation Order’ (1963)
+Finnish Act on the Export Control of Dual-Use Items (500/2024) (16 August
+Regulation (EU) 2021/821 of the European Parliament and of the Council
+of 20 May 2021, Setting Up a Union Regime for the Control of
+Brokering, Technical Assistance, Transit and Transfer of Dual-Use Items
+Regulation of the Netherlands Minister for Foreign Trade and Development Aid
+of 11 October 2024, nr. BZ2405833.
+UK Export Control (Amendment) Regulations 2024 (SI 2024 No. 346) (1 April
+US Bureau of Industry and Security Rule
+2024-19633 (89 FR 72926)
+September 2024.
+US Commerce Control List in Export Administration Regulation
+61 FR 12937
+March 1996).
+Defense Primer: Quantum Technology (Congressional Research Service, 25
+October 2023)
+https://crsreports.congress.gov/product/pdf/IF/IF11836
+“The European Quantum Communication Infrastructure (EuroQCI)
+Initiative.” European Commission, April 18, 2024.
+https://digital-strategy.ec.europa.eu/en/policies/european-quantum-communication-infrastructure-euroqci
+Farley Davia, Urayama, Junji, “Survey of the Worldwide Supply Chain of
+Commodities Needed for a Quantum,” Sandia National
+Laboratories, September
+https://www.osti.gov/servlets/purl/1898243
+“IBM’s Quantum Development & Innovation Roadmap Aims to Build
+a FTQC by 2029.”
+https://www.ibm.com/roadmaps/quantum/
+“Key Enabling Technologies for Europe’s Technological
+Sovereignty.” Study of the Panel for the Future of Science
+and Technology,
+European Parliamentary Research Service, December 2021.
+https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2021)697184
+“New Roadmap to Position Europe as the ‘Quantum Valley’ of
+the World.”
+Quantum Flagship
+, February 14, 2024.
+https://qt.eu/news/2024/2024-02-14_new-roadmap-to-position-europe-as-the-quantum-valley-of-the-world
+National Technology Strategy
+The Netherlands Ministry of Economic
+Affairs and Climate, January 19, 2024.
+https://open.overheid.nl/documenten/67b0a9e1-135b-483f-9ed9-3aade270dbce/file
+“Statement on Technological Sovereignty of the European Pilot Advisory
+Board at the Launch of the European Innovation Council.”
+EIC, March 18,
+https://eic.ec.europa.eu/system/files/2021-03/EIC%20Advisory%20Board%20statement%20at%20launch%20of%20EIC_1.pdf
+“Strategic Research and Industry Agenda.”
+, November 2022.
+https://qt.eu/media/pdf/Quantum-Flagship_SRIA_2022_0.pdf
+South Korean Amendment of 24 February 2023 to the Public Notice of Special
+Measures on Trade to Undertake Obligations for International
+Peace and Security
+Maintenance.
+Spanish Order ICT/534/2023 of 26 May 2023.
+French Order ECOI2401482A
+of 2 February 2024.
+Italian Decree of 1 July 2024 Establishing the National Control List for
+Dual-Use Goods and Technology Not Listed in Annex I to Regulation
+“Summary of NATO’s Quantum Technologies Strategy.” NATO,
+January 16, 2024.
+https://www.nato.int/cps/en/natohq/official_texts_221777.htm
+Amendment to the Danish Export Control Act by Act No. 641 (11 June 2024).
+Amendment to the Norwegian Export Control Regulations (3 October 2024).
+Secondary Sources
+Aaronson, Scott. “Above My Pay Grade: Jensen Huang and the Quantum
+Computing Stock Market Crash,”
+Shtetl-Optimized
+(personal blog),
+January 13, 2025.
+https://scottaaronson.blog/?p=8567
+Aaronson, Scott. “What Makes Quantum Computing So Hard to
+, June 8, 2021.
+https://www.quantamagazine.org/why-is-quantum-computing-so-hard-to-explain-20210608
+“Accelerating Applications for Humanity.” Open Quantum Institute.
+https://oqi.gesda.global/applications
+Aspect, Alain. “The Second Quantum Revolution: From Basic Concepts to
+Quantum Technologies.” in
+Photonic Quantum Technologies: Science
+and Applications
+, edited by Mohamed Benyoucef. Chichester: Wiley, 2023.
+Bluefors Homepage.
+https://bluefors.com
+Brooks, Michael. “Quantum Computers: What are They Good For?”
+Nature Spotlight
+, May 24, 2023.
+https://www.nature.com/articles/d41586-023-01692-9#ref-CR3
+Cain, Frank. “Computers and the Cold War: United States Restrictions on
+the Export of Computers to the Soviet Union and Communist
+Journal of Contemporary History
+40, no 1 (2005): 131–147.
+https://doi.org/
+10.1177/0022009405049270
+Carballido, Miguel et al. “Compromise-Free Scaling of Qubit Speed and
+Coherence.” arXiv:2402.07313v2 (2024).
+https://arxiv.org/pdf/2402.07313
+Choi, Charles. “How Many Qubits Are Needed for Quantum Supremacy?
+Whether Google Achieved Quantum Supremacy Depends on Perspective.”
+, May 21, 2020.
+https://spectrum.ieee.org/qubit-supremacy
+Conover, Emily. “Quantum Computers Could Break the Internet.
+Here’s How to Save It.”
+Science News
+, June 28, 2023.
+https://www.sciencenews.org/article/quantum-computers-break-internet-save
+Daniels, Mario, and John Krige.
+Knowledge Regulation and National Security
+in Postwar America
+. Chicago: University of Chicago Press, 2022.
+Dowling Jonathan and Gerald Milburn. “Quantum Technology: The Second
+Quantum Revolution.”
+Philosophical Transactions of the Royal Society of
+London. Series A: Mathematical, Physical and Engineering Sciences
+1809 (2003): 1655–1674.
+https://dspace.cuni.cz/bitstream/handle/20.500.11956/177254/120370266.pdf?sequence=1&isAllowed=y
+Ezratty, Olivier.
+Understanding Quantum Technologies
+(6th ed.). Paris:
+Le lab quantique, 2023.
+Finnish public consultation available at
+https://valtioneuvosto.fi/hanke?tunnus=UM008:00/2019
+France 2030. “Point d’étapes trois ans après le
+lancement de la stratégie nationale des technologies
+quantiques et
+lancement du programme PROQCIMA.” French Government Media Release, March
+https://www.info.gouv.fr/actualite/france-2030-point-detapes-trois-ans-apres-le-lancement-de-la-strategie-nationale-des-technologiques-quantiques-et-lancement-du-programme-proqcima
+Furukawa, Yuki. “Japan Tightens Export Controls on More Chip and
+Quantum Tech.”
+, April 26, 2024.
+https://www.bloomberg.com/news/articles/2024-04-26/japan-tightens-export-controls-on-more-chip-and-quantum-tech
+“Future Quantum Computers Could Offer Possibilities for Cancer
+Detection.” TNO.
+https://www.tno.nl/en/digital/digital-innovations/trusted-ict/quantum-computers-cancer-detection
+“How Quantum Computing Can Help Tackle Global Warming.” McKinsey,
+May 27, 2022.
+https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/how-quantum-computing-can-help-tackle-global-warming
+Gambetta, Jay. “The Hardware and Software for the Era of Quantum
+Utility is Here.”
+IBM Quantum Research
+, December 4, 2023.
+https://www.ibm.com/quantum/blog/quantum-roadmap-2033
+“Government Bans on Quantum Computer Exports Have No Basis in
+New Scientist
+, July 10, 2024.
+https://www.newscientist.com/article/mg26334993-100-governments-bans-on-quantum-computer-exports-have-no-basis-in-science.
+Haeck, Pieter. “Europe is Ring-Fencing the Next Critical Tech:
+, February 27, 2024.
+https://www.politico.eu/article/how-europe-ring-fencing-quantum-computing-technology-defense
+Hamlin, James and Brian Zhou. “Extreme Diamond-Based Quantum
+366 (2019): 1312–1313.
+https://doi.org/10.1126/science.aaz4982
+Harford, James.
+Reconsidering Sputnik
+. London: Routledge,
+Hrynkiv, “Legal and Policy Responses to National Security Measures in
+International Economic Law.”
+Georgetown Journal of International
+54, no 2 (2023).
+https://www.law.georgetown.edu/international-law-journal/in-print/volume-54/volume-54-number-2-winter-2023/legal-and-policy-responses-to-national-security-measures-in-international-economic-law
+Hrynkiv, Olga and Saskia Lavrijssen. “Not Trading with the Enemy: The
+Case of Computer Chips.”
+Journal of World Trade
+58, no 1 (2024):
+https://doi.org/10.54648/trad2024003
+IBM Scientists Cool Down the World’s Largest Quantum-Ready Cryogenic
+Concept System.”
+IBM Quantum Research Blog
+https://www.ibm.com/quantum/blog/goldeneye-cryogenic-concept-system
+Jarrahi, Mohammad Hossein and Steve Sawyer. “Networks of Innovation:
+The Sociotechnical Assemblage of Tabletop Computing.”
+https://doi.org/10.1016/j.repolx.2018.100001
+Jasanoff, Sheila, and Sang-Hyun Kim (eds).
+Dreamscapes of Modernity:
+Sociotechnical Imaginaries and the Fabrication of Power
+. Chicago: University
+of Chicago Press, 2015.
+Kim, Youngseok et al. “Evidence for the Utility of Quantum Computing
+Before Fault Tolerance.”
+618 (2023): 500–505.
+https://www.nature.com/articles/s41586-023-06096-3
+Krelina, Michal. “Quantum Technology for Military Applications”.
+EPJ Quantum Technology
+8: art 24 (2021).
+https://doi.org/10.1140/epjqt/s40507-021-00113-y
+Krige, John and Mario Daniels. “Change and Continuity in US Export
+Control Policy.”
+Issues in Science and Technology
+39, no 2 (2023):
+https://issues.org/us-export-control-policy-krige-daniels
+Latour, Bruno. “Visualisation and Cognition: Drawing Things
+Together.” In
+Knowledge and Society Studies in the Sociology of
+Culture Past and Present
+, edited by Henrika Kuklick (pp. 1–40).
+Bingley: JAI Press, 1986.
+Leclerc, Nina. “A Quantum Sputnik Moment.”
+https://www.justsecurity.org/81539/a-quantum-sputnik-moment
+Liao, Sheng-Kai et al. “Satellite-Relayed Intercontinental Quantum
+Physical Review Letters
+120, no 3 (2018): 030501.
+https://doi.org/10.1103/PhysRevLett.120.030501
+Matthews, David. “Commissioner Designate Virkkunen Moots EU
+Science|Business
+, November 14, 2024.
+https://sciencebusiness.net/news/quantum-computing/commissioner-designate-virkkunen-moots-eu-quantum-act
+Michel, Quentin, Lia Caponetti and Ilaria Anna Colussi.
+The European Union
+Dual-Use Items Control Regime Comment of the Legislation Article-by-Article
+Brussels: European Union, 2014.
+Miller, Chris.
+Chip War: The Fight for the World’s Most Critical
+. New York: Simon & Schuster, 2022.
+Noone, Greg. “Are Harvest Now, Decrypt Later Cyberattacks Actually
+Happening?”
+Tech Monitor
+, October 30, 2023.
+https://techmonitor.ai/hardware/quantum/harvest-now-decrypt-later-cyberattack-quantum-computer
+Paulsen, Mona. “The Past, Present, and Potential of Economic
+Yale Journal of International Law
+http://dx.doi.org/10.2139/ssrn.4604958
+Peng, Danie. “US-returned Chinese Physicist Duan Luming and Team Build
+World’s Most Powerful Ion-Based Quantum Computing
+China Morning Post
+, May 31, 2024.
+https://www.scmp.com/news/china/science/article/3264742/us-returned-chinese-physicist-duan-luming-and-team-build-worlds-most-powerful-ion-based-quantum
+Pfotenhauer, Sebastian and Sheila Jasanoff. “Panacea or Diagnosis?
+Imaginaries of Innovation and the ‘MIT Model’
+in Three Political
+Social Studies of Science
+47, no 6 (2017):
+https://www.jstor.org/stable/48568896
+Quantum Computers: Computing the Impossible
+. YouTube, March 22, 2017.
+https://youtu.be/8qcn4edJuag?si=dc6-6FOiV_QYpQd-&t=48
+“Quantum Computing: How Can It Serve Your Organisation?” TNO.
+https://www.tno.nl/en/digital/digital-innovations/trusted-ict/quantum-computing
+“Quantum in the CHIPS and Science Act of 2022.”
+quantum|gov
+, August 9, 2022.
+https://www.quantum.gov/quantum-in-the-chips-and-science-act-of-2022
+“Quantum Key Distribution (QKD) and Quantum Cryptography (QC).”
+National Security Agency.
+https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC.
+“Quantum: The Tech Race Europe Can’t Afford to Lose.” BCG,
+August 25, 2022.
+https://www.bcg.com/press/25august2022-quantum-tech-race-europe-cant-afford-to-lose
+Rajput, Trisha. “Restricting International Trade Through Export Control
+Laws: National Security in Perspective.” in
+Regulation of Risk
+edited by Abhinayan Basu Bal, Trisha Rajput, Gabriela Argüello and David
+Langlet. Leiden: Brill Nijhoff, 2022.
+Shor, Peter. “Shor’s Algorithm: The Algorithm That Changed
+Everything.”
+40th Anniversary of the Physics of Computation Conference
+https://www.youtube.com/watch?v=dONacVnW1Ng
+Simmons, Dan.
+. New York: Bantam, 1995.
+Sparkes, Matthew, “UK Ban on Quantum Computer Exports is Pointless, Say
+Researchers.”
+New Scientist
+, June 10, 2024.
+https://www.newscientist.com/article/2431853-uk-ban-on-quantum-computer-exports-is-pointless-say-researchers.
+Sparkes, Matthew. “Multiple Nations Enact Mysterious Export Controls on
+Quantum Computers.”
+New Scientist
+, July 3, 2024.
+https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers
+Stamper-Kurn, Dan, et al. “Topical: Quantum Technologies in
+Space.” NASA.
+https://smd-cms.nasa.gov/wp-content/uploads/2023/05/194_d48f1fb875c016f97021c15addadb1ab_Stamper_KurnDanM.pdf
+Stewart, Ian. “The Contribution of Intangible Technology Controls in
+Controlling the Spread of Strategic Technologies.”
+Journal of Strategic
+Technologies
+1, no 1 (2015): 48–55.
+http://www.str.ulg.ac.be/wp-content/uploads/2016/01/4_The_Contribution_of_Intangible_Technology_Controls_in_Controlling_the_Spread-of-Strategic-Technologies.pdf
+Swayne, Matt. “Practical Quantum Computing Five to Ten Years
+Quantum Insider
+, February 13, 2025.
+https://thequantuminsider.com/2025/02/13/practical-quantum-computing-five-to-ten-years-away-google-ceo.
+Whang, Cindy. “Undermining the Consensus-Building and List-Based
+Standards in Export Controls: What the US Export Controls Act
+Means to the
+Global Export Control Regime.”
+Journal of International Economic
+22, no 4 (2019).
+“Would You Put Your Cat in a Fridge?”
+, April 24,
+https://bluefors.com/stories/would-you-put-your-cat-in-a-fridge
+Wu, Chien-Huei.
+Law and Politics of Export Restrictions
+. Cambridge:
+Cambridge University Press, 2021.
+Zeilinger, Anton.
+Dance of the Photons: Einstein, Entanglement and Quantum
+Teleportation
+. Harmondsworth: Penguin, 2023.
+Zhang, Hongyong. “The US–China Trade War: Implications for
+Japan’s Global Value Chains.” In
+Geopolitics, Supply Chains,
+and International Relations in East Asia
+, edited by Etol Solingen.
+Cambridge: Cambridge University Press, 2021.
+Simmons, Hyperion, 191.
+Choi, “Quantum
+Supremacy.”
+Additions of Entities to the
+Entity List, Document no.
+89 FR 41886 (Rule
+of the Bureau of Industry and
+Security, effective 9 May 2024).
+Spanish Order ICT/534/2023 of
+26 May 2023.
+French Order ECOI2401482A
+of 2 February 2024
+Amendment to the Danish Export
+Control Act by Act No. 641(11 June 2024).
+UK Export Control (Amendment)
+Regulations 2024 (SI 2024 No. 346)
+Canadian Order Amending the
+Export Control List: SOR/2024-112
+Italian Decree of 1 July 2024
+establishing the National Control List for dual-use goods and technology not
+listed in Annex I to Regulation
+(EU) 2021/821
+Amendment to the German
+Foreign Trade Ordinance,
+Federal Law Gazette
+2024, No. 243 (22 July
+Finnish Act on the Export
+Control of Dual-Use Items (500/2024) (16 August 2024)
+Amendment to the Norwegian
+Export Control Regulations (3 October 2024).
+US Bureau of Industry and
+Security Rule
+2024-19633 (89 FR 72926)
+of 6 September 2024
+Regulation of the
+Netherlands Minister for Foreign Trade and Development Aid of 11 October 2024,
+nr. BZ2405833.
+South Korean Amendment of 24
+February 2023 to the Public Notice of Special Measures on Trade to Undertake
+Obligations for International
+Peace and Security Maintenance
+Furukawa, “Japan
+Gambetta, “Hardware
+See, for instance, Hrynkiv,
+“Not Trading with the Enemy,” 63ff or more popularised accounts in
+Miller, Chip Wars, 201,
+For instance, voiced by
+Google CEO Sundar Pichai and Microsoft founder Bill Gates. Similarly, when
+Nvidia CEO Jensen Huang voiced
+the ‘20 years’ assessment for the
+development of a useful quantum computer, stocks of publicly listed quantum
+plummeted: see Swayne, “Practical Quantum Computing” and
+Aaronson, “Quantum Stock Crash.” Google and Microsoft
+are involved
+in full-stack quantum computing development, while Nvidia is involved in cloud
+provision for quantum computing services.
+Cain, “Computers Cold
+War,” 131–147; Wu, Export Restrictions, 172–178; Zhang,
+“US–China Trade
+War,” 41–59; Hrynkiv, “Not Trading
+with the Enemy,” 63ff; Paulsen, “Economic Security,”
+Jasanoff, Dreamscapes,
+TNO, “Future
+Quantum”; McKinsey, “Quantum Computing.”
+Conover, “Quantum
+Computers.”
+Ezratty, Understanding
+Quantum, 781ff.
+Ezratty, Understanding
+Quantum, 686ff.
+Dowling, “Quantum
+Technology.”
+Krelina, “Quantum
+Technology.”
+Aspect, “Second
+Quantum Revolution.”
+Aspect, “Second
+Quantum Revolution.”
+Brooks, “Quantum
+Computers.”
+Ezratty, Understanding
+Quantum, 226.
+Ezratty, Understanding
+Quantum, 164.
+Aaronson, “Quantum
+Computing.”
+Nature Videos,
+“Quantum Computers,” 0:48.
+Carballido,
+“Compromise-Free Scaling.”
+Aaronson, “Quantum
+Computing.”
+Zeilinger, Dance of
+Brooks, “Quantum
+Computers.”
+Kim, “Evidence for
+Utility”; Hamlin, “Extreme Diamond”; Lia,
+“Satellite-Relayed.”
+Jarrahi, “Networks of
+Innovation.”
+draws on more extensive supply chain mapping of QT R&D labs conducted as
+part of the author’s empirical research within
+a PhD project, ‘Legal
+Dynamics in the governance of quantum technologies innovation value
+chains’ at the University of
+Amsterdam (Netherlands). The technical
+veracity of the mapping has been externally verified by a quantum technology and
+supply chain
+specialist based at the Netherlands Organisation for Applied
+Scientific Research (TNO), an independent statutory research organisation.
+Jasanoff, Dreamscapes, 19.
+Jasanoff, Dreamscapes,
+In this analysis, ‘QT
+as such’ refers to also QT prototypes, proof-of-concepts and
+demonstrators.
+Additions of Entities to the
+Entity List, Document no.
+89 FR 41886.
+Dual-Use Regulation (EU)
+See legislative text of UK,
+Canada and US export control rules, notes
+(emphasis added).
+For example, US export
+control rules, note
+explained above in Section 2.
+For example, US export
+control rules, note
+For example, US export
+control rules, note
+Explanation to Regulation of
+the Netherlands Minister for Foreign Trade and Development Aid of
+11 October 2024, nr. BZ2405833.
+Sparkes, “Multiple
+Nations Enact Mysterious Export Controls”; “UK Ban on Quantum
+Computer Exports.”
+Sparkes, “UK Ban on
+Quantum Computer Exports.”
+US Bureau of Industry and
+Security (BIS) Rule
+2024-19633 (89 FR 72926)
+of 6 September 2024.
+US BIS Rule 2024-19633 (89
+FE 72926), 72935
+US BIS Rule 2024-19633 (89
+FE 72926), 72935
+US BIS Rule 2024-19633 (89
+FE 72926), 72935.
+Sub-sections (b), (c) and
+(e) in each respective export restrictions discussed.
+CCL Index, code 1C005.
+Category 6 of the CCL.
+CCL Index, code 2B231.
+CCL Index, code 3E003.a.
+CCL Index, code 6A005.e.2.
+Category 6 of the CCL.
+Farley, Sandia Report, 3.
+For example, UK Amendment SI
+2024 No. 346: see entry PL9013 in Schedule 3.
+Finnish Act on the Export
+Control of Dual-Use Items (500/2024) (16 August 2024)
+Blufors Homepage,
+https://bluefors.com
+; IBM Quantum, “IBM
+Scientists”; Blufors, “Cat in Fridge?”
+See Alphabetical Index to
+controlled items of the US Commerce Control List, code 0B001.d.7.b.
+CCL Index, code 1B231.b.1.
+CCL Index, code
+3A001.b.1.a.4.
+Peng, “US-returned
+Stewart, “Contribution
+of Intangible.”
+Daniels, Krige, Knowledge
+Regulation, 11–13.
+Daniels, Krige, Knowledge
+Regulation, 3.
+“Hydrocarbon Research
+Inc., et al: Consent Denial and Probation Order,” 12487.
+Article 2 (2) Dual-Use
+Regulation (emphasis added).
+Article 7 Dual-Use
+Regulation.
+Article 1 Dual-Use
+Regulation.
+Michel, “European
+Union Dual-Use,” 21–22.
+See US Bureau of Industry
+and Security Rule
+2024-19633 (89 FR 72926)
+of 6 September 2024, 72929.
+European Parliamentary
+Research Service, “Key Enabling Technologies.”
+EIC, “Statement on
+Technological Sovereignty,” 6.
+Krige, “Change and
+Continuity.”
+BCQ, “Quantum: Tech
+Quantum Flagship, “New
+“Commissioner Designate Virkkunen.”
+quantum|gov,
+Ezratty, Understanding
+Quantum, 225
+TNO, “Quantum
+Computing.”
+OQI, “Accelerating
+Applications.”
+See discussions by
+international trade scholars – for example, Rajput, “Restricting
+International Trade,” 603;
+Whang, “Undermining the Consensus,”
+Export Restrictions,
+172–78; Hrynkiv, “Legal and
+Policy,” 169; Paulsen, “Economic Security,” 10–11.
+Congressional Research
+Service, “Defense Primer”; Krelina, “Quantum
+Technology,” 11, 15, 37.
+Krelina, “Quantum
+Technology.”
+National Security Agency,
+“Quantum Key Distribution.”
+See, for instance, the
+export control classification code of ‘4A906 Quantum computers and related
+‘‘electronic
+assemblies’’ and
+‘‘components’’ therefor.’ The first 4 of the code
+indicates Category 4.
+Brooks, “Quantum
+Computers.”
+Noone, “Are Harvest
+Now, Decrypt Later Cyberattacks.”
+Such as in Annex I, EU
+Dual-Use Regulation, Dual-Use List, Wassenaar Arrangement (5.A.2.c) US CCL
+(5A002.c), Export control lists
+of Japan, South Korea and Australia.
+Aaronson, “Quantum
+Computing.”
+Shor, “Shor’s
+Algorithm,” 2:28.
+Jasanoff, Dreamscapes, 17
+citing Latour, “Drawing Things Together,” 30.
+Quantum Flagship’s
+Strategic Research Agenda aims to build a FTQC by 2027–2030;
+France’s national QC Programme,
+“PROQCIMA,” aims to build two
+FTQC prototypes by 2032 and 2035; IBM’s Quantum Development &
+Innovation Roadmap
+aims to build a FTQC by 2029.
+Leclerc, “Quantum
+Sputnik Moment”; Stamper-Kurn et al, “Topical: Quantum
+Technologies.”
+Harford, Reconsidering
+Sputnik, 22ff.
+Pfotenhauer, Jasanoff,
+“Panacea or Diagnosis?” 783, 784.
+Haeck, “Europe is
+Ring-fencing.”
+Print (pretty)
+Print (eco-friendly)
+RTF format (283 KB)
+PDF format (508 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

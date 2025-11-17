@@ -1,0 +1,129 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/MonashBusRw/2008/49.html
+Scraped: 2025-11-17 15:18:52
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Asher, Anthony; Webb, Simon; Doughman, Andrew --- "Liquidity risks" [2008] MonashBusRw 49; (2008) 4(3) Monash Business Review 26
+Liquidity risks
+Anthony Asher, Simon Webb, Andrew Doughman
+Recent credit crises have demonstrated that liquidity is a fundamental cause of economic shocks, say
+Anthony Asher
+Andrew Doughman
+, who suggest that actuaries can play a vital role in finding solutions for liquidity risk.
+This is an edited extract of a paper that was prepared for the Institute of Actuaries of Australia’s (Institute) 4
+Financial Services Forum 2008.
+Recent events have once again demonstrated that liquidity is a fundamental cause of economic shocks. We suggest that actuaries can
+play a vital role in the development and maintenance of solutions that deal with liquidity risk. Actuaries are well placed to contribute
+1. Modelling the underlying risks
+2. Designing appropriate instruments that properly charge for liquidity
+3. Modelling customer behaviour.
+We use the 2007 liquidity crunch in the market for various innovative loan instruments to examine the causes and effects of a liquidity
+crisis. Our paper then considers current liquidity issues and the role of central banks, regulators and markets. It goes on to identify
+groups of long-term investors and borrowers, who do not necessarily require immediate liquidity. While it may not always be the case,
+the current environment shows that there can be cost savings and yield gains if investors are prepared to surrender immediate liquidity.
+Matching these groups and obtaining these gains requires innovative approaches that actuaries are well equipped to consider. We describe
+a few possibilities.
+Credit crises as experienced in 2007 have been a regular feature of financial markets, but do not have to recur with the same force.
+Proper liquidity management firstly requires that investors have a deep understanding of the instruments in which they invest in
+order to prevent uncertainty about credit risks spilling over into a liquidity crisis.
+Secondly, institutions should limit their exposure to short-term withdrawals through the use of appropriately designed instruments
+that offer a reasonable price for liquidity and duration.
+Finally, there is a need for financial institutions to understand their assets and liabilities and their likely behaviour in times
+Avoiding liquidity crises
+The Senior Supervisors Group (2008) looked at how 11 large institutions fared during the liquidity crisis in 2007. They found that
+the firms that lost less in the crisis did have more effective risk identification, assessment and management systems.
+They used a wider range of risk measures, were more able to adapt them as conditions changed – and had “charged business
+lines appropriately for building contingent liquidity exposures to reflect the cost of obtaining liquidity in a more difficult market
+environment.”
+In reading their report, the thought emerges that firms that are more successful are those that panic first and the system as a whole
+remains vulnerable to discontinuities. There are, however, a variety of ways of improving the robustness of all companies within
+the financial system:
+Create sources of liquidity:
+The Financial Services Authority (FSA) 2008 report describes how banks can create new sources of liquidity by having agreements in
+place with each other – and the central bank – that allow them to access liquidity in times of stress.
+Preparations to implement such agreements may include the securitisation of some illiquid assets so that they are transferable at
+no notice. Such agreements should be tested in practice from time to time to ensure that they are ready.
+These agreements do not guarantee that the counterparty will necessarily provide the liquidity. They, however, should include the
+necessary due diligence so that the counterparty can readily compute the value of the underlying assets at the time. Given that superannuation
+and life insurers may well have spare liquidity in times of crisis, they might consider entering into such agreements in advance.
+The advantage might arise from banks that are prepared to pay something for the privilege, or from gains that would arise from an
+ability to buy assets at a discount at the time of the crisis.
+Match investors and borrowers by term:
+There is currently limited demand for the actuarial skills of matching assets and liabilities by term. There are, however, a number
+of natural matches between the long-term savers and borrowers.
+The most significant of the natural matches is that which sits between the need for inflation-protected retirement income and the
+instalments that young home owners can most naturally afford. This could be done using a salary-linked mortgage with instalments
+set at a predefined percentage of income. The borrower is protected against both interest rate increases and salary increases that
+are lower than expected. Investors gain an asset that returns the average salary increase of the borrower. This will include promotional
+increase, which will be larger than average if borrowers are younger. If the expected return is inadequate, instalments can be loaded
+to match demand and supply of funds.
+Retirement income could also provide finance for infrastructure projects, particularly those where the charges are regulated and can
+be designed to increase in line with inflation.
+Avoid making liquidity promises:
+In this respect, hedge funds have provided the lead in ensuring that their solvency is not threatened by unwise liquidity promises.
+The Corporations Act also has specific provisions (in Part 5C.6) that require Australian Managed Investment Schemes to maintain sufficient
+liquid assets and gives rules of how to ration liquidity should this prove necessary.
+It would appear appropriate for all financial institutions to make it clear to their investors that they are unable to guarantee unlimited
+liquidity. Contracts and product disclosure statements should provide for some limits to tradability and for the suspension of withdrawals
+or payments in specie under conditions where the solvency of the institution is threatened.
+Charging for liquidity:
+While we have observed that the cost of liquidity appears to be artificially reduced in the current market, it is not entirely free
+– even for banks as is being demonstrated in the current market. The Senior Supervisors Group (2008) commended firms that had
+measures in place to charge internal business lines for the costs of maintaining adequate liquidity. Failure of some firms to do
+so (and this survey covered only the largest firms), suggests that liquidity may still be under-priced in some parts of the market.
+Illiquid liabilities have lower value:
+In particular, we may have underestimated the value of the illiquidity of defined benefit liabilities and insurance policies that
+do not allow for surrender or trading. By not giving this ‘real’ option to trade, the insurer must be gaining some value,
+which might allow it to reduce the size of its liability. It would seem acceptable if there are illiquid, but otherwise riskless,
+stocks in the insurer’s portfolio that match the liability and are valued at a higher discount rate than the risk-free rate.
+Building better models:
+One way to begin to understand financial structures and their inherent risk is to develop models that show how cash flows emerge,
+and the main drivers of their volatility. This is where actuaries can have an important role.
+A model enables the investor to gain an in-depth understanding of the structure or instrument and to develop a best-estimate outcome,
+as well as to perform scenario and sensitivity testing. Deutsche Bank, for instance, reports in the FMG Review (April 2008) that
+it was able to “securitise part of their mid-cap portfolio during a time when the markets were allegedly closed for securitisations”
+because of the clear information available.
+In the case of securitisation structures, models must incorporate two key dynamics: the expected cash flows of the underlying assets
+themselves, and the resulting cash flows through the structured finance vehicle.
+We have found that readily available actuarial software is capable of monthly projections over many years and has easily been adapted
+to model these cash flows.
+Bank rules to manage liquidity
+Banks are normally required to have liquidity sufficient to meet various stress scenarios. Typical scenarios would be:
+Retail call deposits
+• 5% of balances run-off over 5 days
+• 7.5% of balances run-off over 5 days
+• Greater of 5% run-off or 3 standard deviations of historic withdrawal rates over 5 days
+• 5% run-off of remaining balances per day over 5 days
+Other deposits
+• 15% of “quasi-retail” balances run-off over 5 days
+• 50% of “quasi-wholesale” balances run-off over 5 days
+• 100% of maturing “wholesale deposits” run-off over 5 days
+• 20% of “corporate deposit” balances run-off over 5 days
+Undrawn commitments
+• 5% of unutilised facilities are drawn down over 5 days
+• 15% of unutilised facilities are drawn down over 5 days
+• $xxmillion are drawn down over 5 days
+http://www.apra.gov.au/Policy/upload/2a-Colleen-Cassidy-Issues-for- regulators-in-supervising liquidity-risk-Australia-s-perspective.pdf
+To view this paper in full, see
+www.mbr.monash.edu.au
+Cite this article as
+Asher, Anthony; Webb, Simon; Doughman, Andrew. 'Liquidity risks'. Monash Business Review. 2008.; Monash University ePress: Victoria,
+http://www.epress.monash.edu.au/
+. : 26–29. DOI:10.2104/mbr08049
+Anthony Asher
+Deloitte Actuaries and Consultants
+Deloitte Actuaries and Consultants
+Andrew Doughman
+Deloitte Actuaries and Consultants
+Print (pretty)
+Print (eco-friendly)
+No downloadable files available
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

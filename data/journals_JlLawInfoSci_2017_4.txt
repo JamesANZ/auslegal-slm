@@ -1,0 +1,875 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/JlLawInfoSci/2017/4.html
+Scraped: 2025-11-17 15:11:25
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Hargreaves, Stuart; Tsui, Lokman --- "IP Addresses as Personal Data Under Hong Kong's Privacy Law: An Introduction to the Access My Info HK Project" [2017] JlLawInfoSci 4; (2017) 25(1) Journal of Law, Information and Science 68
+Introduction
+1 IP addresses and privacy
+2 IP addresses under European law
+3 IP addresses under Hong Kong law
+4 An attempt to bring clarity – the AMI:HK project
+IP Addresses as Personal Data Under Hong Kong’s
+IP addresses have significant implications for personal privacy: if
+connected to a particular subscriber, they can reveal a vast range
+behaviour. The question of whether IP addresses are ‘personal data’
+under a data protection regime is therefore
+critical, as such a classification
+greatly limits the usage to which those addresses can be put absent user
+This paper critically reviews the approaches taken to the question of
+whether IP addresses ought to be classified in this way in Hong
+Kong and in the
+European Union (‘EU’). Jurisprudence related to the EU
+Protection Directive
+and the forthcoming
+General Data Protection
+both treat IP addresses as ‘personal information’.
+This results in robust protection for IP addresses under European law.
+Kong, however, the jurisprudence is limited to two lower court decisions that
+are inconsistent with one another, and neither
+show a deep appreciation for the
+importance IP addresses may have in revealing the behaviour and activities of
+Hong Kong residents
+online. The Privacy Commissioner for Personal Data has
+likewise not shown an interest in challenging the approach taken by the courts
+thus far regarding this issue.
+Noting this relative lack of attention, this paper introduces the Access
+My Info: Hong Kong (‘AMI:HK’) project. AMI:HK
+is a platform for
+users to make data access requests to telecommunications service providers in
+Hong Kong. The project should reveal
+if there is consistency in the Hong Kong
+providers’ approach to their access obligations under the
+Data (Privacy) Ordinance,
+in particular the question of whether they treat IP
+addresses as personal data within the meaning of the law.
+Introduction
+Every networked device is assigned an Internet Protocol (‘IP’)
+address that identifies it and that allows for communication
+networked devices. An Internet Service Provider (‘ISP’) has the
+ability to connect a home broadband subscriber
+to a particular IP address, and
+the same is true of a mobile communications provider that delivers internet
+connectivity to a smartphone.
+If third parties can obtain this connection, then the implications for
+personal privacy are profound, since theoretically IP addresses
+can be used to
+log all kinds of online behaviour, whether it is participating in political or
+religious activism online, sharing
+family recipes, accessing pornography,
+infringing copyright by sharing music, or teenagers seeking information about
+human sexuality.
+A study conducted by the Office of the Privacy Commissioner of
+Canada, for instance, found that an IP address allowed them to determine
+the individual assigned that address had visited websites related to:
+community; web governance; identity management; privacy
+issues; legal advice
+related to insurance law and personal injury litigation; a specific religious
+group; fitness; online photo sharing;
+the revision history of a Wikipedia entry;
+and specific entertainers which, in turn, exposed a variety of
+A search for information related to the IP address of one Wikipedia
+contributor
+revealed that they
+edited hundreds of pages on Wikipedia about television shows, both North
+American and international ... [showing an] interest in TV
+shows [that] was
+extensive and specific; edited dozens of pages on Wikipedia related to history
+topics; participated in a discussion
+board about a television channel; and
+visited a site devoted to sexual preferences following an online search for a
+specific type
+Consequently, European privacy law treats IP addresses as ‘personal
+data’ within the meaning of its data protection regimes,
+meaning they
+cannot be transmitted by ISPs to third parties absent circumstances such as the
+consent of the data subject or a court
+Though Hong Kong’s privacy regime, the
+Personal Data (Privacy)
+modelled on the European Union’s
+Data Protection
+treatment of IP
+addresses under it is not well developed. There is limited judicial commentary
+on the issue and no clarity as to whether
+Hong Kong ISPs consider the IP
+addresses of their subscribers to be ‘personal data’ and thus
+protected by Hong Kong’s
+This paper outlines the importance of IP addresses to personal privacy,
+compares the way in which they are treated under European
+and Hong Kong law, and
+then introduces the Access My Info: Hong Kong (‘AMI:HK’)
+AMI:HK is a joint
+initiative of members of the Chinese University of Hong Kong’s School of
+Journalism & Communication, InMediaHK,
+Keyboard Frontline, Open Effect, and
+the Citizen Lab (developers of the original AMI
+in Canada). It includes an
+easy-to-use website that assists Hong Kong residents in making data access
+requests to their telecommunications
+providers. A key goal of the project is to
+learn whether Hong Kong ISPs and mobile phone service providers treat IP
+addresses as
+personal data within the meaning of the
+, and to help
+justify regulatory reform where necessary.
+1 IP addresses and privacy
+Simply put, IP addresses are unique identifiers assigned to every networked
+device connected to the internet. An IP address may be
+either static or dynamic.
+A static IP address is usually assigned by a network administrator to a specific
+device and, as the name
+suggests, does not change. An office computer may, for
+example, be assigned a static IP address that does not change, regardless
+is using the machine. In contrast, a dynamic IP address
+sometimes at pre-set intervals and sometimes in response to network events.
+Dynamic IP addresses are commonly used by ISPs to provide internet services
+to home users. An ISP, for instance, might control a block
+of IP addresses from
+which it then assigns temporary addresses to users, rather than assigning each
+subscriber a permanent static
+address. This would allow an ISP to minimise the
+overall number of IP addresses they must maintain. A home broadband user’s
+IP address might be different from one day to the next, or one month to the
+next, depending on how often their ISP rotates the addresses.
+It might also
+change every time they restart their modem or router.
+However, the fact that the IP addresses of home broadband users change over
+time offers no meaningful privacy protection. An ISP knows
+exactly who was
+assigned any given IP address at any given moment. In other words, PCCW (an ISP
+that provides home broadband services)
+knows that IP address 10.7.44.214 was
+assigned to broadband subscriber Cynthia Chung from 6:34 am 9 January 2016 to
+9:12 pm 11 January
+means that PCCW knows that any website
+that was accessed by IP address 10.7.44.214 in that timeframe was almost
+certainly accessed
+by Cynthia or someone in her household.
+This implicates significant privacy issues: message boards log the IP
+addresses of the authors of every single comment, search engines
+know the IP
+address behind each query, online newspapers know which IP addresses clicked on
+which links, and every pornography website
+knows the IP addresses of its most
+common visitors. If approached by a third party seeking the identity of the
+individual who posted
+a politically sensitive comment from IP address
+10.7.44.214 on the ‘Golden Forum’ message board at 8:03 pm on 10
+2016, PCCW has the technical means to provide that information and
+thereby unmask Cynthia’s political beliefs. In short, if
+website logs of
+the IP addresses of visitors can be connected to the IP address subscriber
+information logs held by ISPs, then anonymity
+on the web is virtually impossible
+to maintain (assuming a user takes no steps to intentionally mask their IP
+address by use of a
+Virtual Private Network (‘VPN’)). Only if PCCW
+considers their IP address logs to be ‘personal information’
+Hong Kong’s privacy law regulate when they can provide assistance to a
+third party seeking to make such a connection.
+2 IP addresses under European law
+As a result, the importance of IP addresses to individual privacy is now well
+recognised in European law. As far back as 2007 the
+Article 29 Working Party
+argued that
+unless an ISP is in a position to distinguish with absolute certainty that
+the data corresponds to users that cannot be identified,
+it will have to treat
+all IP information as personal data, to be on the safe
+In a subsequent paper, the Article 29 Working Party confirmed that this basic
+approach ought to also be followed by search
+The relevant jurisprudence coming out of the Court of Justice of the European
+Union (‘ECJ’) has been consistent with this
+approach. In
+Extended SA v Société belge des auteurs, compositeurs et
+éditeurs SCRL (SABAM)
+SABAM, a collective of copyright owners and publishers, sought an order
+requiring Scarlet, an ISP, to prevent individuals from using
+its system to send
+or receive musical works within SABAM’s portfolio through the use of a
+systematic filter that would analyse
+the content of all data shared by
+subscribers. The ECJ found that such a mandatory filter failed to strike a fair
+balance ‘between
+the right to intellectual property, on the one hand, and
+the freedom to conduct business, the right to protection of personal data
+the freedom to receive or impart information, on the
+In reaching this
+conclusion, the Court argued that all parties had accepted that IP addresses are
+‘protected personal data
+because they allow users to be precisely
+identified’.
+The addresses in
+Scarlet Extended
+allowed users to be identified, of
+course, because they were held by an ISP that could directly connect them to
+their subscriber
+data. However, what if the data controller were not an ISP, but
+rather a website operator? Should a website’s logs of the IP
+addresses of
+its visitors still be classed as personal data, even though the website acting
+alone does not have the mechanism to
+directly connect them to an identifiable
+individual?
+Patrick Breyer v Bundesrepublik Deutschland
+the ECJ answered this
+in the affirmative.
+brought an action seeking to prevent websites run by the federal German
+government from storing IP addresses of visitors. As
+the IP addresses were
+dynamic, the only way the website operators could identify individuals would be
+to approach the relevant ISP
+and ask it to connect them to a subscriber. The
+Court found that even dynamic IP addresses of visitors to websites were properly
+classed as personal data when held by website operators with the
+to obtain information from a third party (such as an ISP), that would
+then allow them to connect the address to a given
+individual.
+Since the law did
+allow that ‘in the event of cyber-attacks ... [a competent authority
+could] take the steps necessary to obtain
+that information from the ISP and to
+bring criminal
+proceedings’,
+threshold was met.
+The approach taken in
+Patrick Breyer
+also seems consistent with
+recital 26 of the EU
+Data Protection Directive
+, which states that when
+answering the question of identifiability, ‘account should be taken of all
+the means likely reasonably
+to be used either by the controller or by any other
+person to identify the said
+This implies that
+it is not necessary under the
+Data Protection Directive
+that the data
+controller be able to
+immediately
+identify the individual through her IP
+address in order that the information be treated as ‘personal data’;
+rather, there
+simply must be a reasonable chance of them doing so given the
+means at their disposal.
+This reflects a relatively expansive interpretation given to personal data in
+the EU, an interpretation that will be further solidified
+with the replacement
+Data Protection Directive
+in May 2018 with the
+General Data
+Protection Regulation
+Recital 30 of the
+explicitly uses IP addresses as an example of an
+online identifier that ‘may be used to create profiles of natural persons
+and identify them’.
+it remains to be seen how the ECJ will interpret the
+, given the
+jurisprudence under the
+and the direct inclusion of IP
+addresses into the recital, it is difficult to imagine the Court suddenly
+embracing a more restrictive
+approach to the treatment of IP addresses as
+personal data.
+3 IP addresses under Hong Kong law
+In Hong Kong, the legal protection of privacy is obtained in several ways.
+quasi-constitution that grew out of the agreement between the United Kingdom and
+China regarding the restoration of Chinese sovereignty
+provides for the
+physical, territorial and communications privacy of residents of Hong Kong
+vis-à-vis the state. Article 28
+‘arbitrary or unlawful search of the body’, article 29 prohibits
+‘arbitrary or unlawful search of, or
+intrusion into [the home]’, and
+article 30 protects the ‘freedom and privacy of communication’.
+Though judicial interpretation of these provisions by the courts has been
+relatively narrow in scope,
+article 39 of the
+also requires the incorporation of the
+International Covenant on Civil and Political
+into domestic
+legislation. This incorporation is achieved through the
+Hong Kong Bill of
+Rights Ordinance,
+where article 14 ensures the ‘protection of privacy, family, home,
+correspondence, honour, and
+reputation’.
+Of course, both the
+relate to the
+relationship between the individual and the state, and so it falls to the
+to generally govern the privacy rights of individuals in Hong Kong
+in other circumstances. The
+is a comprehensive data protection
+regime, and (coming into effect in 1995) was the first of its kind in Asia. Like
+other comprehensive
+traces its conceptual roots to the ‘fair information principles’ of
+Organisation for Economic Co-operation and Development Guidelines on the
+Protection of Privacy and Transborder Flows of Personal
+which form the
+substantive core of the law: the six ‘Data Protection Principles’
+DPP3, the data use principle, requires that personal data collected about a
+data subject cannot be used for a new purpose without
+the explicit consent of
+the data subject, subject to certain
+exemptions.
+Generally, this has
+been taken to mean that data cannot be transferred by a data controller to a
+third party without such consent
+(or where there is a relevant exemption).
+However, for IP addresses to benefit from this protection, they must first reach
+the threshold
+of being ‘personal data’, defined under the
+as ‘data relating directly or indirectly to a living
+individual, from which it is practicable for the identity of the individual
+be directly or indirectly
+ascertained’.
+also defines ‘practicable’ as meaning ‘reasonably
+practicable’,
+to be answered by taking into account ‘all relevant data controlled by the
+It is also worth noting that General Condition 6 of the Services-Based
+Operator Licence, which all ISPs and mobile internet providers
+are required to
+obtain by the Telecommunications Authority under the
+Telecommunications
+obliges licensees
+to not disclose the ‘information’ of customers without their consent
+or unless it is needed for the
+prevention or detection of
+‘information’ is not defined in either the Licence or the
+Telecommunications Ordinance
+, and so for the purposes of this paper we
+continue to query the meaning of ‘personal data’ under the
+as it relates to IP
+In comparison to European law, the question of whether IP addresses reach the
+legal standard of being ‘personal data’
+under Hong Kong law is far
+from settled; judicial consideration is both less conclusive and less coherent.
+Cinepoly Records v Hong Kong Broadband
+was the earliest
+case to touch upon this issue. A group of plaintiff music companies sought
+Norwich Pharmacal
+against the defendant internet service provider for the names, Hong Kong
+identity card numbers, and other information relating
+to 22 subscribers whom the
+plaintiff believed were infringing its copyright through peer-to-peer
+‘torrent’ software.
+Cinepoly already had the IP addresses of the
+subscribers, and argued that since Hong Kong Broadband Network
+had assigned the subscribers those addresses, HKBN could
+also use them to provide Cinepoly with the other information (name, identity
+card number, address, etc) that they required to proceed with their main action.
+Norwich Pharmacal
+relief was required because that information was
+arguably ‘personal data’ under the
+, and therefore could
+not be handed over by HKBN to Cinepoly absent the consent of the 22 subscribers
+(which obviously they would
+not provide) or a court order.
+Poon Dep J granted the relief, finding that the necessary elements were met.
+The applicant was able to establish that serious tortious
+or wrongful activities
+had been occurring (heavy copyright infringement), the applicant had a bona fide
+belief that the alleged wrongdoers
+were infringing its rights, and that HKBN was
+facilitating this infringement.
+In deciding to exercise the Court’s discretion to make the order,
+Poon Dep J noted that section 58 of the
+provides an exemption to
+DPP3 (the use limitation principle that would otherwise prevent an ISP from
+handing over personal information
+without consent) where the new use of the data
+is for the prevention or detection of crime or unlawful or seriously improper
+if it can be shown that applying DPP3 in such circumstances would
+prejudice the ability to remedy that conduct. Poon Dep J concluded
+prejudice would in fact occur if the
+Norwich Pharmacal
+order were not
+granted, and therefore ordered HKBN to provide Cinepoly with the subscriber
+information.
+However, at no point did Poon Dep J argue or conclude that the IP addresses
+were personal data within the meaning of the
+Rather, the IP addresses were simply the mechanism by which the personal data
+(name, ID card number, billing address, etc) of the
+subscribers could be
+obtained. In dicta, however, Poon Dep J nonetheless acknowledged that the use of
+IP addresses was connected
+to individual privacy:
+Some online copyright infringers may well think that they will never be
+caught because of the cloak of anonymity created by the P2P
+programs. They are
+wrong. And from now on, they should think twice. ... The court can and will,
+upon a successful application, pull
+back the cloak and expose their true
+However, Poon Dep J also went on to argue that for the Court to order a
+connection of their IP addresses to their subscribers’
+identity would not
+be ‘an intrusion into their privacy, [because the] protection of privacy
+is never and cannot be used as
+a shield to enable them to commit civil wrongs
+with impunity’.
+evinces some muddled thinking. On the one hand, Poon Dep J appears to accept
+that IP addresses can be used to eliminate the anonymity
+of internet users in
+Hong Kong if an ISP connects them to a particular user, a decision that
+necessarily reduces the privacy of the
+individual whose identity is disclosed.
+This makes sense. However, Poon Dep J then goes on to argue that this is not an
+of privacy because privacy cannot be a shield to commit wrongdoing.
+Respectfully, this is an illogical approach to the very fair
+‘balancing’ question of when privacy ought to be justifiably
+in order to protect other rights. A more sensible approach would be to simply
+acknowledge that privacy is not an absolute
+right, and there are circumstances
+in which it is legitimate for the state to order an intrusion into that privacy;
+and court orders are examples where individual privacy loses out
+to other interests. Indeed, this is explicitly provided for by the
+The issuance of a search warrant does not, however, imply that there is no
+relevant privacy interest; rather it means that, on balance,
+a judicial officer
+has deemed it necessary and justifiable to pierce that interest.
+Now, it is fair to argue that the Court did not feel the need to treat IP
+addresses as ‘personal data’ in
+because it was not
+necessary on the facts of the case. Recall that the applicants
+the IP address information and sought to use it to obtain other
+personal data. But this seems inconsistent with the recognition by
+that the IP addresses were ultimately the key to unlocking the online activities
+of the alleged copyright infringers. Inclusion
+of IP addresses within the
+category of ‘personal data’ would not have altered a result based on
+section 58.
+The second significant case in the Hong Kong courts touching on this issue
+related to the conviction of a mainland-based journalist
+in 2006 by the Changsa
+Intermediate People’s Court for transferring state secrets to foreign
+entities. He had used a Yahoo!
+email account to send notes on secret files from
+his office computer and his conviction was obtained in part thanks to the
+of related personal data by Yahoo! Holdings (Hong Kong) Ltd
+(‘YHHK’) to the relevant authorities in
+This data included user
+registration details associated with the email account in question, associated
+IP addresses, login metadata
+and certain email content. The appellant lodged a
+complaint with the Office of the Privacy Commissioner for Personal Data
+arguing that this was a breach of DPP3. The PCPD concluded
+in its Report that IP addresses were not personal data within the meaning
+law, because they are ‘information about an inanimate computer, not an
+individual. ... [A]n IP address cannot alone
+reveal the exact location of the
+computer concerned or the identity of the computer
+The PCPD also determined that YHHK was not a ‘data user’ within
+the meaning of the law, since although it was the legal
+owner of the Beijing
+subsidiary and thus may have had control of the information
+it had no control
+of the information in question because it was
+compelled to disclose it under the
+Criminal Procedure Law of the
+People’s Republic of
+Furthermore, there
+was no contravention of DPP3 in the PCPD’s view thanks to terms of service
+and privacy policies that stated
+that YHHK might share certain information in
+response to court orders and legal
+As a result, the
+Commissioner concluded, the disclosure was a ‘use’ for a purpose
+consistent with the original purpose
+of collection and therefore there was no
+violation of DPP3.
+Unsatisfied with this outcome, the appellant brought the case,
+Administrative Appeals Board (‘AAB’) as was his right under the
+. He argued, inter alia, that the correct approach to the question of
+whether IP addresses constituted personal data was not about
+whether they
+themselves were data per se, but whether they were when combined with other
+relevant data.
+The PCPD argued
+in response that personal data itself had to have ‘biological
+significance’ in relation to the individual.
+The AAB split the difference between these two positions, concluding that
+‘IP information ... even when coupled with other information
+does not constitute personal data within the meaning of the
+particular set of facts, the AAB concluded, there was no evidence that the user
+information related to the IP address revealed
+the applicant’s identity
+(that information was an anonymous Yahoo! email address, the business address
+where the computer sending
+the email was located, and the time and date the
+message was sent).
+therefore concluded that
+of the information (not just the IP
+addresses) transmitted by YHHK to the state authorities in China was
+‘personal data’
+within the meaning of the
+Though not necessary given their conclusion that there was no ‘personal
+data’ at issue, the AAB went on to consider whether
+DPP3 had been
+breached, in case they were wrong on their conclusion about the nature of the
+data. They disagreed with the PCPD’s
+Report in part, finding that YHHK
+a data user within the meaning of the
+, because it had
+control over the information in question as a matter of course. The fact that it
+was compelled by a government entity
+to transfer the information did not strip
+the company of that status
+The AAB agreed with the PCPD, however, that the appellant had given his
+consent to the transfer of his information in the contemplated
+circumstances
+thanks to the terms of service and privacy policy associated with his email
+account. It disagreed with the PCPD that
+conceptually the transfer was therefore
+a use ‘consistent with’ the purpose of the original collection.
+Instead, it was
+better understood simply as consent to that particular purpose:
+compliance with a legal process.
+Reliance on consent to the terms of service rather than the section 58
+exemption was necessary, concluded the AAB, since the requested
+transfer was an
+out-of-jurisdiction legal process.
+Returning to the critical question of the nature of IP addresses, the AAB in
+appeared to reject the treatment of IP addresses in
+. The AAB suggested that because the user information sought by
+the applicants in
+was ‘reliably personal’ (names, ID
+card numbers, and addresses), then in that context IP addresses
+constitute personal data when coupled with that information. However, the
+AAB’s application of this principle to the facts before
+seems unsatisfying. As noted, the AAB found that the IP address
+information transferred by YHHK could not identify an individual
+without being
+coupled with more information, and thus did not satisfy the definition of
+personal data under the
+. Yet the identity of the appellant was
+relatively easily determined once the Security Bureau had the locational
+information associated
+with that IP address, since it was trivial for them to
+determine who had access to the computer in question at the relevant time.
+seems little justification for holding that the existence of an additional step
+(even one out of the hands of the data user)
+that must occur before the
+‘biographical’ level of personal data is revealed somehow strips
+away the ability of IP address
+data to be ‘personal data’.
+Regrettably, the PCPD has not indicated any disagreement with the conclusion of
+, citing it in 2010 in its own document explaining the
+proper interpretation of the
+In any event, what we are left with is that the legal status of IP addresses
+as ‘personal’ data within the meaning of
+is unclear.
+The jurisprudence provides us with only two somewhat conflicting court
+decisions, neither of which is from an appellate
+level court.
+It was with this legal background that the Access My Info: Hong Kong
+(‘AMI:HK’) project was launched in 2016 in the hopes
+understanding generally how data users in the telecommunications sector
+interpret their obligations regarding a data subject’s
+‘personal data’ under the
+, and specifically whether they
+consider IP addresses to fall within that concept.
+4 An attempt to bring clarity – the AMI:HK
+DPP6 contains a series of ‘access rights’, allowing data subjects
+to ascertain if a data user holds their personal data,
+a right to access it
+within a reasonable time, at a reasonable cost, in a reasonable manner and in an
+intelligible form, and to correct
+the data if it is
+inaccurate.
+Sections 18–21
+provide further detail on the operation of this principle
+(including exemptions, timeframes, circumstances under which requests for
+may legitimately be refused, etc), and the PCPD has published a set of
+(non-binding) ‘best practice’ procedural
+guidelines for data users
+subject to an access request.
+However, the general way in which the right is framed still leaves great scope
+for how DPP6 is interpreted in practice. This, combined
+with the aforementioned
+uncertainty surrounding the status of IP addresses under Hong Kong law, is a
+driving force behind the AMI:HK
+The project provides an easy-to-use web portal allowing Hong Kong residents
+to submit data access requests in either English or Chinese
+to eight different
+mobile phone and internet service providers. It is written in simple language,
+with an easy to use interface,
+requiring a minimal number of steps. AMI:HK does
+not act as agent of the data subject, but rather assists them in generating a
+that they can then submit via email, or print and submit through the
+post. At the time of writing, the site had been used to generate
+1603 requests.
+AMI:HK does not log any user data on the server side; the process is handled
+on the client side. Participants can request call logs,
+geolocation data, IP
+address logs, subscriber info, etc, but cannot make a blanket request for
+‘all personal data’, since
+under both the
+and the relevant
+Guidance Note data users can reject requests that are ‘too
+requires that data access requests be made using a
+prescribed form,
+the automated
+nature of AMI:HK means this form is not used. However, the relevant Guidance
+Note ‘strongly advises’ data
+users against denying access requests
+for such technical reasons;
+PCPD also indicated in discussion with project members that they expect
+recipients of access requests to comply with any request
+that adheres to the
+spirit of the form, even if the form itself is not used.
+Early responses to access requests made through AMI:HK suggest there is no
+standardisation amongst telecommunications service providers
+• fees for processing data access requests
+• the classification of ‘personal data’
+• how to deal with data access requests
+• retention periods.
+The results also reveal that though providers are aware of and adhere to the
+’s guidelines regarding response timelines, the overall process
+remains extremely lengthy. Most significantly for our purposes,
+up to the time
+of writing not a single telecommunications provider presented with a data access
+request through AMI:HK has provided
+the IP addresses assigned to the subscriber
+as part of its response.
+While a subsequent paper will provide a full analysis of the results of the
+project once completed and provide a detailed set of policy
+recommendations in
+response, these preliminary results reveal a certain amount of inconsistency
+amongst Hong Kong’s telecommunications
+providers regarding their approach
+to the procedural requirements of DPP6. However, there is no reason to suppose
+at this stage that
+any of the eight telecommunications organisations subject to
+requests through AMI:HK view IP addresses as personal data within the
+. If this proves accurate as the project continues and IP
+addresses are not viewed as personal data, then this suggests a need for
+PCPD to address a clear gap in Hong Kong’s privacy framework, given the
+importance of IP addresses to the personal privacy
+of Hong Kong’s
+We are rapidly entering a world of the ‘internet of things’, in
+which we wear fitness trackers that store our sensitive
+health information in
+the cloud, drive internet-enabled cars that maintain logs of our driving habits
+and destinations, and fill
+our houses with ‘smart’ devices equipped
+with cameras and microphones. Together, they can paint an incredibly detailed
+portrait of our daily lives. They are also subject to the same kind of legal
+requests identified herein. As this project continues
+to evolve, it may
+therefore expand beyond internet and telecommunications service providers to
+include content providers and internet-enabled
+hardware manufacturers of all
+kinds. Given the current results, however, it is reasonable to assume that such
+an expanded project
+would reveal essentially the same as we have uncovered so
+far. The governing law is the same and there is little reason to assume
+content providers voluntarily adopt more stringent privacy protections than ISPs
+and telecommunications providers. What is required,
+then, is to give proper
+recognition to IP addresses as a critical piece of the personal data of Hong
+Kongers. This means reform that
+goes beyond issuance of a Guidance Note by the
+PCPD; the protection must become a clear and enforceable part of the
+itself. The
+offers a model for how this could be done and, in our
+view, the Hong Kong government would be wise to give serious consideration
+similar changes. The
+has undergone only one significant amendment
+since its introduction (a series of reforms in 2012 related primarily to direct
+marketing),
+and it is critical that Hong Kong not be saddled with an outdated
+data protection regime as the rest of the world moves forward.
+Assistant Professor, Assistant
+Dean (Undergraduate Studies), LLB Programme Director, Faculty of Law, the
+Chinese University of Hong
+Assistant Professor, School
+of Journalism & Communication, the Chinese University of Hong Kong.
+Office of the Privacy
+Commissioner of Canada,
+What an IP address can reveal about you
+https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2013/ip_201305/
+Wikipedia logs the IP
+addresses of all contributors.
+Office of the Privacy
+Commissioner of Canada, above n 1.
+Personal Data (Privacy)
+(Hong Kong), cap 486 (‘
+Directive 95/46/EC of the
+European Parliament and of the Council of 24 October 1995 on the protection of
+individuals with regard to
+the processing of personal data and on the free
+movement of such data
+[1995] OJ L 281/31 (‘
+Data Protection
+Welcome to Access My
+, Access My Info Hong Kong <
+https://accessmyinfo.hk
+Welcome to Access My
+, Access My Info Canada <
+https://accessmyinfo.org
+Article 29 Working Party,
+‘Opinion 4/2007 on the concept of personal data, 01248/07/EN WP 136’
+(Opinion 4/2007, European
+Union, 20 June 2007).
+Article 29 Working Party,
+‘Opinion 1/2008 on data protection issues related to search engines,
+00737/EN WP 148’ (Opinion
+1/2008, European Union, 4 April 2008).
+(C-70/10) [2011] ECR
+I–11959 (24 November 2011) (‘
+Scarlet Extended’
+Patrick Breyer v
+Bundesrepublik Deutschland
+(Court of Justice of the European Communities
+(Second Chamber), C-582/14, 16 October 2016).
+Data Protection
+[1995] OJ L 281/31, recital 26.
+Regulation (EU) 2016/679
+of the European Parliament and of the Council of 27 April 2016 on the protection
+of natural persons with
+regard to the processing of personal data and on the
+free movement of such data, and repealing Directive 95/46/EC (General Data
+Regulation)
+[2016] OJ L 119/1.
+Ibid recital 30.
+Basic Law of the Hong
+Kong Special Administrative Region of the People’s Republic of China
+Joint Declaration of the
+Government of the United Kingdom of Great Britain and Northern Ireland and the
+Government of the People’s
+Republic of China on the Question of Hong
+, opened for signature 19 December 1984,
+[1985] UKTS 26
+(entered into
+force 29 May 1985) (‘
+Joint Sino-British Declaration’
+Party v Secretary for Justice
+[2007] 2 HKLRD 807, 819 where Hartmann J
+argued that ‘Art 30 of the Basic Law does not seek to protect privacy
+simpliciter’.
+International Covenant
+on Civil and Political Rights
+, opened for signature 19 December
+(entered into force 23 March 1976) (‘
+Hong Kong Bill of Rights
+(Hong Kong), cap 383 (‘
+This language mirrors art
+See Stuart Hargreaves,
+‘Data Protection Regimes’ in Christopher Anglim (ed)
+Rights in the Digital Age
+(Grey House Publishing, 2016).
+Organisation for Economic
+Co-operation and Development,
+OECD Guidelines on the Protection of Privacy
+and Transborder Flows of Personal Data
+(23 September 1980)
+http://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm
+OECD Guidelines’
+(Hong Kong),
+cap 486, s 4;
+(Hong Kong), cap 486, sch 1. The six DPPs are the data
+collection principle, the accuracy and retention principle, the data use
+the data security principle, the openness principle, and the data
+access and correction principle.
+(Hong Kong),
+cap 486, Part 8.
+(Hong Kong),
+cap 486, s 2(1).
+Also referred to as
+‘the totality test’: Office of the Privacy Commissioner for Personal
+Data Protection Principles in the Personal Data (Privacy) Ordinance
+– from the Privacy Commissioner’s perspective (2
+(2010) 2.19
+<https://www.pcpd.org.hk/tc_chi/publications/files/Perspective_2nd.pdf>.
+Telecommunications
+(Hong Kong), cap 106, s 7; See Hong Kong Communications Authority,
+Guidelines for the Application of Services-Based Operator (‘SBO’)
+(5 March 2013)
+http://www.coms-auth.hk/filemanager/statement/tc/upload/127/gn32013e.pdf
+See Hong Kong
+Communications Authority,
+Telecommunications Ordinance (Chapter 106)
+Services-Based Operator Licence
+(19 May 2016)
+http://www.coms-auth.hk/filemanager/common/licensing/SBO_form_conditions_e.pdf
+The government relied on an
+earlier version of this licence to deflect a query from a LegCo member as to
+whether IP addresses constitute
+personal data under the
+Constitutional & Mainland Affairs Bureau, ‘LCQ17: IP addresses as
+personal data’
+Constitutional & Mainland Affairs Bureau
+Release, 3 May 2006)
+http://www.info.gov.hk/gia/general/200605/03/P200605030211.htm
+[2006] 1 HKLRD 255
+Such relief, if granted,
+can compel an innocent third party who has facilitated the perpetration or
+continuation of wrongdoing by
+the alleged wrongdoer to comply with a request
+from an applicant to disclose information that will assist the applicant in
+case against the alleged wrongdoer: See
+Norwich Pharmacal Co & Ors
+v Commissioners of Customs and Excise
+[1973] UKHL 6
+[1974] AC 133
+A Co v C Co
+[2002] 3 HKLRD 111.
+, [18]–[19], [24]–[33]. Later the same year, Chan Dep J
+applied an identical approach and came to the same conclusion
+in another action
+Norwich Pharmacal
+relief by a group of 10 plaintiff music companies
+against four ISPs regarding 49 individual subscribers suspected of copyright
+infringement:
+Cinepoly v Hong Kong Broadband Network
+[2006] HKCU 1500.
+, [41]–[57].
+Though the applicant was
+based in the mainland and used a Yahoo! account registered through a
+Beijing-based Yahoo! subsidiary, YHHK
+was the legal entity that owned that
+subsidiary and was therefore responsible for it.
+Roderick B Woo, ‘The
+Disclosure of Email Subscriber’s Personal Data by Email Service Provider
+to PRC Law Enforcement Agency’
+(Report No R07-3619, Office of the Privacy
+Commissioner for Personal Data, Hong Kong, 14 March 2007) [8.10]
+<https://www.pcpd.org.hk/english/enforcement/commissioners_findings/investigation_reports/files/Yahoo_e.pdf>.
+Ibid [8.22].
+National People’s
+Congress, 1 July 1979; Ibid [8.25]–[8.26].
+Woo, above n 42,
+[8.38]–[8.40].
+Ibid [8.41].
+Shi Tao v Privacy
+Commissioner for Personal Data
+[2008] 1 HKC 287
+Ibid [63]–[67].
+Office of the Privacy
+Commissioner for Personal Data, above n 31.
+(Hong Kong),
+cap 486, sch 1(6).
+Personal Data, Hong Kong,
+Guidance Note: Proper Handling of Data Access
+Request and Charging of Data Access Request Fee by Data Users
+(June 2016)
+<https://www.pcpd.org.hk/english/publications/files/DAR_e.pdf>.
+(Hong Kong),
+cap 486, s 20(3)(b).
+Personal Data, Hong Kong, above n 55.
+(Hong Kong),
+cap 486, s 20(3).
+Print (pretty)
+Print (eco-friendly)
+RTF format (282 KB)
+PDF format (362 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

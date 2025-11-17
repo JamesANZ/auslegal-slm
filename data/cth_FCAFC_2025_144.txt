@@ -1,0 +1,1875 @@
+Bakers Delight Holdings Ltd v Fair Work Ombudsman [2025] FCAFC 144 (16 October 2025)
+FEDERAL COURT OF AUSTRALIA
+Bakers Delight Holdings Ltd v Fair Work
+[2025] FCAFC 144
+Appeal from:
+Fair Work Ombudsman v Make Dough Enterprises (in liquidation
+File number(s):
+TAD 1 of 2025
+Judgment of:
+MORTIMER CJ
+, HATCHER AND DOWLING
+Date of judgment:
+Catchwords:
+INDUSTRIAL LAW
+franchisor liability –interaction of ss 557C and
+Work Act 2009
+(Cth) – whether primary judge erred in finding applicant
+can rely on the reverse onus provision in
+as against an
+employer/franchisee to establish the liability of a franchisor under
+– appeal dismissed
+STATUTORY INTERPRETATION
+– appeal – whether primary judge erred in construction of
+impugned provisions of the
+Fair Work Act 2009
+(Cth) – use of
+Parliamentary debates – appeal dismissed
+Legislation:
+Acts Interpretation Act 1901
+Competition and Consumer Act 2010
+, Sch 2 (Australian
+Consumer Law)
+Conciliation and Arbitration Act 1904
+Corporations Act 2001
+Fair Work Act 2009
+Fair Work Amendment (Protecting Vulnerable Workers) Act 2017
+Federal Court of Australia Act 1976
+Federal Court Rules 2011
+(Cth) r 9.06
+Trade Practices Act 1974
+Workplace Relations Act 1996
+Workplace Relations Amendment (Work Choices) Act 2005
+Cases cited:
+Pty Ltd v H
+Lundbeck A/S
+[2014] HCA 42
+254 CLR 247
+Australian Municipal, Administrative, Clerical and Services Union v
+Federal Commissioner of Taxation
+[2022] FCA 1225
+Australian Red Cross Society v Queensland Nurses' Union of Employees
+[2019] FCAFC 215
+273 FCR 332
+Bass v Permanent Trustee Co Ltd
+[1999] HCA 9
+198 CLR 334
+CIC Insurance Ltd v Bankstown Football Club Ltd
+(1997) 187 CLR
+Commissioner of Police v Tanos
+[1958] HCA 6
+(1958) 98 CLR 383
+Communications, Electrical, Electronic, Energy, Information, Postal,
+Plumbing and Allied Services Union of Australia v Qantas Airways
+[2020] FCAFC 205
+282 FCR 130
+Construction, Forestry, Mining and Energy Union
+v BHP Coal Pty
+[2017] FCAFC 50
+Fair Work Ombudsman v Foot & Thai Massage Pty Ltd (in liquidation)
+[2021] FCA 1242
+Fair Work Ombudsman v Grouped Property Services Pty Ltd
+152 ALD 209
+Fair Work Ombudsman v Woolworths Group Ltd
+[2025] FCA 1092
+Ghimire v Karriview Management Pty Ltd (No 2)
+[2019] FCA 1627
+Ilumba Pty Ltd v Malouf
+[2019] FCA 2095
+Oceanic Life Ltd v Chief Commissioner of Stamp
+[1999] NSWCA 416
+154 FLR 129
+Port Kembla Coal Terminal Ltd v Construction, Forestry, Mining and
+Energy Union
+[2016] FCAFC 99
+Productivity Partners
+Pty Ltd v Australian Competition and
+Consumer Commission
+[2024] HCA 27
+[2024] HCA 3
+280 CLR 288
+Ravbar v Commonwealth
+[2025] HCA 25
+SZTAL v Minister for Immigration and Border Protection
+262 CLR 362
+Tepko Pty Ltd v Water Board
+[2001] HCA 19
+Yorke v Lucas
+(1985) 158 CLR 661
+Fair Work Division
+National Practice Area:
+Employment and Industrial Relations
+Number of paragraphs:
+Date of hearing:
+Counsel for the Applicant:
+Mr C B O’Grady KC with Mr A Aleksov
+Solicitor for the Applicant:
+MST Lawyers
+Counsel for the First Respondent:
+Mr M Felman KC with Mr J Zeeman
+Solicitor for the First Respondent:
+Fair Work Ombudsman
+Counsel for the Second Respondent:
+The Second Respondent did not appear.
+Counsel for the Third Respondent:
+The Third Respondent did not appear.
+Counsel for the Fourth Respondent:
+The Fourth Respondent did not appear.
+TAD 1 of 2025
+BAKERS DELIGHT HOLDINGS LTD (ACN 052 528
+FAIR WORK OMBUDSMAN
+MAKE DOUGH ENTERPRISES PTY LTD (ACN 122 520
+Second Respondent
+JOHN VINCE PUGLISI
+(and another
+named in the Schedule)
+Third Respondent
+MORTIMER CJ, HATCHER AND DOWLING JJ
+DATE OF ORDER:
+THE COURT ORDERS THAT:
+to appeal from the Court’s orders made on 12 December 2024 be
+applicant’s draft notice of appeal dated 20 January 2025 stand as the
+notice of appeal against the Court’s orders
+made on 12 December 2024.
+appeal be dismissed.
+Note: Entry of
+orders is dealt with in
+Federal Court Rules 2011
+REASONS FOR JUDGMENT
+oldings Ltd, the fourth respondent to this proceeding,
+seeks leave to appeal from orders made on 12 December 2024 giving answers to
+separate question.
+underlying proceeding is an application by the
+mbudsman for civil penalties and other relief against
+Enterprises Pty Ltd (in liq), BDH and two individuals. At the relevant times,
+Make Dough operated a retail bakery business under
+the brand “Bakers
+Delight” from three locations in Tasmania: Eastlands, Kingston and
+Lindisfarne. Make Dough is now in
+liquidation and the primary judge observed at
+[10] that the liquidators have not engaged with the proceeding. The Directors of
+Dough, John Vince Puglisi and Lisa Kay Puglisi, are respondents to the
+proceeding and relief is also sought against them personally
+under s 550 of the
+(Cth). However, they were
+said by the primary judge to have not actively participated in the separate
+easons at [10].
+the civil remedy provisions in issue in the proceeding concern either the wages
+and entitlements of workers employed by Make
+Dough, or the obligations of Make
+Dough under the FWA, such as keeping proper records about payments made to
+workers. The FWO also
+proceeds against BDH as the franchisor, alleging a
+contravention of s 558B of the FWA.
+is not in dispute that Make Dough operated its bakery business pursuant to a
+franchise agreement with BDH, although BDH does dispute
+“responsible franchisor entity” for the purpose of Div 4A of the
+primary judge gave a helpful description of the civil remedy provisions in issue
+in his Honour’s reasons at [11], which
+we set out below at paragraph [
+separate question came about because of a disagreement between the parties about
+how s 558B operated against BDH; in particular
+what the FWO needed to prove
+disagreement centres on
+the operation and effect of s 557C(1), which imposes a
+reverse onus of proof on an employer in certain circumstances. In circumstances
+where a franchisor (BDH) is alleged to have contravened s 558B of the FWA, can
+the FWO as applicant in the proceeding rely on the
+operation of s 557C in
+establishing the employer/franchisee contravention, such contravention being the
+first element of franchisor
+liability under s 558B?
+RELEVANT PROVISIONS AND SUMMARY OF DECISION
+basis for BDH’s liability is alleged to be s 558B of the FWA, which
+provides [emphasis added]:
+Responsibility of responsible franchisor entities
+and holding companies for certain contraventions
+Responsible franchisor entities
+A person contravenes this subsection if:
+an employer who is a franchisee entity of a franchise contravenes a
+civil remedy provision referred to in subsection (7);
+(b) the person is a responsible franchisor entity for the franchisee entity;
+(c) the contravention by the franchisee entity occurs in the franchisee
+entity’s capacity as a franchisee entity; and
+(d) either:
+(i) the responsible franchisor entity or an officer (within the meaning of the
+Corporations Act 2001
+) of the responsible franchisor entity knew or could
+reasonably be expected to have known that the contravention by the franchisee
+entity would occur; or
+(ii) at the time of the contravention by the franchisee entity, the responsible
+franchisor entity or an officer (within the meaning
+Corporations Act
+) of the responsible franchisor entity knew or could reasonably be
+expected to have known that a contravention by the franchisee entity
+of the same
+or a similar character was likely to occur.
+Note: This subsection is a civil remedy provision (see this Part).
+Holding companies
+(2) A person contravenes this subsection if:
+(a) the person is a body corporate; and
+(b) a subsidiary (within the meaning of the
+Corporations Act 2001
+body corporate who is an employer contravenes a civil remedy provision referred
+to in subsection (7); and
+(c) either:
+(i) the body corporate or an officer (within the meaning of the
+Corporations
+) of the body corporate knew or could reasonably be expected to have
+known that the contravention by the subsidiary would occur; or
+(ii) at the time of the contravention by the subsidiary, the body corporate or
+an officer (within the meaning of the
+Corporations Act 2001
+) of the body
+corporate knew or could reasonably be expected to have known that a
+contravention by the subsidiary of the same or a
+similar character was likely to
+Note: This subsection is a civil remedy provision (see this Part).
+Reasonable steps to prevent a contravention of the same or a similar
+(3) A person does not contravene subsection (1) or (2) if, as at the time
+of the contravention referred to in paragraph (1)(a) or
+(2)(b), the person
+had taken reasonable steps to prevent a contravention by the franchisee entity
+or subsidiary of the same or a
+similar character.
+(4) For the purposes of subsection (3), in determining whether a person
+took reasonable steps to prevent a contravention by a franchisee
+subsidiary (the
+contravening employer
+) of the same or a similar
+character, a court may have regard to all relevant matters, including the
+(a) the size and resources of the franchise or body corporate (as the case may
+(b) the extent to which the person had the ability to influence or control the
+contravening employer’s conduct in relation
+to the contravention referred
+to in paragraph (1)(a) or (2)(b) or a contravention of the same or a
+similar character;
+(c) any action the person took directed towards ensuring that the contravening
+employer had a reasonable knowledge and understanding
+of the requirements under
+the applicable provisions referred to in subsection (7);
+(d) the person’s arrangements (if any) for assessing the contravening
+employer’s compliance with the applicable provisions
+referred to in
+subsection (7);
+(e) the person’s arrangements (if any) for receiving and addressing
+possible complaints about alleged underpayments or other
+alleged contraventions
+of this Act within:
+(i) the franchise; or
+(ii) the body corporate or any subsidiary (within the meaning of the
+Corporations Act 2001
+) of the body corporate;
+as the case may be;
+(f) the extent to which the person’s arrangements (whether legal or
+otherwise) with the contravening employer encourage or
+require the contravening
+employer to comply with this Act or any other workplace law.
+(5) Subsection (4) does not limit subsection (3).
+Civil proceedings in relation to contravention by franchisee entity or
+subsidiary not required
+(6) To avoid doubt, a reference in paragraph (1)(a) or (2)(b) to a
+contravention by a franchisee entity or subsidiary includes any
+contravention
+whether or not an order has been sought or made against the franchisee entity or
+subsidiary under Division 2 for the
+contravention.
+Relevant civil remedy provisions
+(7) The civil remedy provisions are the following:
+(a) section 44 (which deals with contraventions of the National Employment
+Standards);
+(b) section 45 (which deals with contraventions of modern awards);
+(c) section 50 (which deals with contraventions of enterprise agreements);
+(d) section 280 (which deals with contraventions of workplace
+determinations);
+(e) section 293 (which deals with contraventions of national minimum wage
+(f) section 305 (which deals with contraventions of equal remuneration
+(g) subsection 323(1) (which deals with methods and frequency of
+(h) subsection 323(3) (which deals with methods of payment specified in
+modern awards or enterprise agreements);
+(i) subsection 325(1) (which deals with unreasonable requirements on
+employees to spend or pay amounts);
+(ia) subsection 325(1A) (which deals with unreasonable requirements on
+prospective employees to spend or pay amounts);
+(j) subsection 328(1), (2) or (3) (which deal with employer obligations in
+relation to guarantees of annual earnings);
+(k) subsection 357(1) (which deals with misrepresenting employment as an
+independent contracting arrangement);
+(l) section 358 (which deals with dismissing an employee to engage as an
+independent contractor);
+(m) section 359 (which deals with misrepresentations to engage an
+individual as an independent contractor);
+(n) subsection 535(1), (2) or (4) (which deal with employer obligations in
+relation to employee records);
+(o) subsection 536(1), (2) or (3) (which deal with employer obligations in
+relation to pay slips).
+s 558B, s 557C was introduced in 2017, as part of a suite of amendments to the
+FWA made by the
+(Protecting Vulnerable Workers)
+which dealt with the circumstances facing workers who had been
+employed by franchise operators and who claimed they had not received
+wages and entitlements.
+557C is a “reverse onus provision”. It provides:
+Presumption where records not provided
+(a) in proceedings relating to a contravention by an employer of a civil remedy
+provision referred to in subsection (3), an applicant
+makes an allegation
+in relation to a matter; and
+(b) the employer was required:
+(i) by subsection 535(1) or (2) to make and keep a record; or
+(ii) by regulations made for the purposes of subsection 535(3) to make
+available for inspection a record; or
+(iii) by subsection 536(1) or (2) to give a pay slip;
+in relation to the matter;
+(c) the employer failed to comply with the requirement;
+the employer has the burden of disproving the allegation.
+(2) Subsection (1) does not apply if the employer provides a reasonable
+excuse as to why there has not been compliance with
+557C(1)(b).
+(3) The civil remedy provisions are the following:
+(a) section 44 (which deals with contraventions of the National Employment
+Standards);
+(b) section 45 (which deals with contraventions of modern awards);
+(c) section 50 (which deals with contraventions of enterprise
+agreements);
+(d) section 280 (which deals with contraventions of workplace
+determinations);
+(e) section 293 (which deals with contraventions of national minimum wage
+(f) section 305 (which deals with contraventions of equal remuneration
+(g) subsection 323(1) (which deals with methods and frequency of
+(h) subsection 323(3) (which deals with methods of payment specified in
+modern awards or enterprise agreements);
+(i) subsection 325(1) (which deals with unreasonable requirements to spend
+or pay amounts);
+(j) any other civil remedy provisions prescribed by the regulations.
+we explain, the real issue in the separate question, and on this appeal, is the
+operation of s 558B(1)(a): in a proceeding against
+a franchisor,
+an applicant (here, the FWO) establish that an employer/franchisee has
+contravened a civil remedy provision in s 558B(7)? If
+it has relied on s 557C
+against the employer/franchisee and a contravention of a civil remedy provision
+has been established, is
+that sufficient as against the franchisor?
+the reasons set out below, s 558B should be approached no differently to the
+accessorial liability provision at s 550 of the FWA,
+and so the answer is that
+an applicant such as the FWO can rely on s 557C against an employer, and if the
+contravention has been
+established by this process, it is capable of satisfying
+subsection (1)(a). The primary judge was to that extent correct in the answer
+his Honour gave.
+to appeal should be granted but the appeal should be dismissed.
+LEAVE TO APPEAL
+FWO opposes the grant of leave to appeal. We consider leave should be granted.
+The operation of s 558B, and the role of s 557C,
+are issues with ramifications
+beyond this proceeding. As the primary judge’s decision, and the
+submissions of the parties,
+demonstrated, the issue is not an easy one. The
+issue is also of significance in the conduct of this proceeding and certainty
+be given to the correct approach about the allegations made against
+THE ALLEGED CONTRAVENTIONS
+PJR [11], his Honour summarised the civil remedy provision contravention
+allegations made against Make Dough by the FWO:
+The FWO alleges that Make Dough:
+(a) breached the record keeping obligations in the FW Act and Regulations;
+(b) provided false information to a Fair Work Inspector and hindered or
+obstructed a Fair Work Inspector in the exercise of his
+(c) contravened a substantial number of clauses in the Bakers Delight (TAS)
+Enterprise Agreement 2012, thereby breaching s 50;
+(d) failed to comply with various annual leave obligations and carers’
+leave obligations in contravention of the National
+Employment Standards (thereby
+contravening s 44(1));
+(e) breached s 323(1), by failing to pay employees in full in relation to the
+performance of work and by deducting amounts payable
+for annual leave on
+termination of employment;
+(f) breached s 325(1), by requiring employees to pay a bond for a uniform on
+commencement of employment; and
+(g) breached s 712(3), by failing to comply with two notices to produce records
+or documents.
+its allegations against BDH in respect of a contravention of s 558B(1) of the
+FWA, the FWO relies on the civil remedy provisions
+in s 50 of the FWA; namely
+breaches by Make Dough of the
+Bakers Delight (TAS)
+BDH knew or could reasonably be expected to have known that each of the
+Franchisee Contraventions would occur; and further, or alternatively,
+could reasonably be expected to have known that contraventions by Make Dough of
+the same or a similar character to each of
+the Franchisee Contraventions were
+likely to occur
+“Franchisee Contraventions” are set out in paragraphs [82] to [84],
+[85] to [87], [88] to [90], [91] to [93], [94]
+to [96], [97] to [99], [100] to
+[102], [103] to [105], [110] to [115] and [116] to [121] of the SOC. Broadly, as
+the Particulars
+to [216] in the SOC state, these alleged contraventions relate
+to payments made to workers employed by Make Dough to perform work
+“Bakers Delight” stores operated by Make Dough.
+example, from [82] of the SOC, is underpayments to workers who were 21 years and
+over or who were apprentices of any age. The
+SOC sets out what the Enterprise
+Agreement stipulated as the ordinary wage rate per hour. The FWO alleges that
+these workers were
+entitled to be paid a total of $901,521.62 by Make Dough, but
+were not paid the applicable rates and were only paid a total of $817,564.93
+Make Dough, resulting in a collective underpayment of $83,956.74 by Make Dough
+(SOC [83]).
+total, the FWO alleged (SOC [226]) that BDH is liable as responsible franchisor
+for the sum of $642,162.66, being the total employee
+underpayments during the
+nominated period (after the introduction of s 558B). In its application for
+leave to appeal, BDH contends
+that the proceeding relates to 88 separate
+employees of Make Dough.
+taking this underpayment example in [82]-[84] of the SOC, if the applicant/FWO
+can establish this collective underpayment and
+contravention of s 50 of the FWA
+as against Make Dough, including by relying on s 557C, is that sufficient to
+establish the first
+element in s 558B(1)(a), or does the FWO have to prove all
+those contraventions separately against BDH, without relying on the reverse
+for the purposes of the separate question there are no admissions made by BDH
+themselves, limited
+admissions were made by BDH about contraventions of the record keeping
+provisions in ss 535(1) and 535(2) of
+the FWA. Those admissions were made in
+relation to two employees of Make Dough. The purpose of those admissions in
+BDH’s Defence
+was to establish, for the purposes of the separate question,
+that the preconditions to the reverse onus in s 557C were engaged, because
+could be agreed Make Dough had failed to adhere to its record keeping
+obligations. See PJR at [13].
+THE SEPARATE QUESTION AND ANSWER
+separate question (as amended by orders made on 1 July 2024) was:
+“In the circumstances set out in paragraphs [49] to [57], [80] to [81],
+[83] and [216] of the Statement of Claim and paragraphs
+1 to 4 of the Reply, and
+paragraphs [49], [80] to [81], [83], [118] to [119], [216] and [225] of the
+Further Amended Defence of the
+fourth respondent, does
+Work Act 2009
+(Cth) apply as against the fourth respondent, and if so,
+answer given by the primary judge, in orders made on 12 December 2024
+Section 557C
+Fair Work Act 2009
+applies to establish the
+contravention referred to at s 588B(1)(a) and it is open to a responsible
+franchisor to discharge the burden
+of disproving the relevant allegations.
+in framing the question, the parties may have invited the primary judge to focus
+, as his Honour’s answer reveals, the more appropriate focus
+and how the element in subsection (1)(a) can be established. That
+is the focus we adopt in these reasons.
+PRIMARY JUDGE’S REASONS
+primary judge held (at PJR [39]) that
+It is not correct to compartmentalise and confine
+in its operation only
+to allegations made in a proceeding against the employer. To do so is to ignore
+that the first element of liability
+of the responsible franchisor is derivative
+on establishing a contravention by a franchisee.
+primary judge pointed out that
+involved, as its first step, a derivative
+liability imposed on the responsible franchisor from the contravention by an
+the legislative history, on which both parties at first instance and on appeal
+placed some reliance, the primary judge said (at
+The legislative history does not reveal an intent to confine the reverse onus
+only to proceedings against an employer. Parliament
+simply did not address the
+interplay between the reverse onus and first requirement to establish the
+derivative liability of the
+responsible franchisor. It may be inferred that by
+requiring a contravention by the employer as the first element of the derivative
+liability of a responsible franchisor, it was assumed that the proof mechanism
+would apply.
+[52] his Honour added:
+The construction of the Ombudsman is supported by other considerations. It
+avoids the possibility of inconsistent findings on the
+same factual question. It
+harmoniously connects the provisions which have as their core purpose the
+protection of vulnerable workers
+from exploitation where the employer fails in
+the obligation to keep employment records, which makes proof of underpayment and
+at [11]-[14].
+reference to Colvin J’s decision in
+v Karriview
+Management Pty Ltd (No 2)
+[2019] FCA 1627
+; 290 IR 331
+is a refence to
+the following passages:
+[11] Record keeping obligations are an important part of the protections
+afforded by the
+Fair Work Act
+. As stated by Reithmuller FM in
+Fair Work Ombudsman v Taj Palace Tandoori Indian Restaurant Pty Ltd
+[2012] FMCA 258
+‑[67] in dealing, prior to the enactment
+, with the importance of compliance with the obligation under the
+Regulations to issue pay slips to employees:
+The need to ensure compliance, particularly with respect to vulnerable workers,
+such as those on work visas, those who come to Australia
+without strong language
+skills, and those with little education is crucial to a just society, and the
+avoidance of exploitation.
+Whilst the record keeping obligation with respect to pay slips only appears in
+the Regulations, its central importance in industrial
+matters cannot be
+underestimated. Proper pay slips allow employees to understand how their pay is
+calculated and therefore easily
+obtain advice. Pay slips provide the most
+practical check on false record keeping and underpayments, and allow for genuine
+or misunderstandings to quickly be identified. Without proper pay slips
+employees are significantly disempowered, creating a structure
+within which
+breaches of the industrial laws can easily be perpetrated.
+[12] These statements have been cited with approval in this Court:
+Ombudsman v Grouped Property Services Pty Ltd (No 2)
+[2017] FCA 557
+(Katzmann J) and
+Fair Work Ombudsman v South Jin Pty Ltd
+[2016] FCA 832
+Section 557C
+Fair Work Act
+states in terms that where in
+proceedings relating to a contravention by an employer of a civil remedy
+provision an applicant makes
+an allegation in relation to a matter and the
+employer was required (by specified provisions) to keep a record in relation to
+matter and the employer failed to comply with the requirement (and there is
+no reasonable excuse as to why there has not been compliance)
+then 'the employer
+has the burden of disproving the allegation'. The civil remedy provisions
+which provides that a person must not contravene a term of a
+modern award.
+Section 557C
+provides for more than an evidentiary burden on the
+defaulting employer when it comes to an absence of records. It is not a mere
+reversal of the evidentiary onus. Further, it is not a provision, for example,
+that operates to deem a matter to be proved in the
+absence of evidence to the
+contrary. In such cases, an issue may arise as to whether the obligation is to
+adduce some evidence which
+raises a genuine issue as to whether the matter
+occurred or whether the burden of disproving the matter falls on the party who
+the matter. Rather,
+states expressly that the defaulting
+employer bears the burden of disproving the allegation. It is a provision
+concerned with the
+overall burden of proof.
+Colvin J went on to observe at [16], to displace the effect of
+employer must “affirmatively prove” that a worker did not work the
+hours that they claimed. In
+Fair Work Ombudsman v
+Woolworths Group
+[2025] FCA 1092
+, Perram J expressed his agreement with
+Colvin J. We also respectfully agree.
+BDH’S ARGUMENT
+contends the primary judge erred because
+can only be engaged in a
+proceeding against an employer/franchisee, whether or not the proceeding
+includes – as a separate
+allegation – contraventions against a
+franchisor under
+BDH contends an applicant (here, the FWO) bears the
+ordinary legal burden of proof of the contravention of the civil remedy
+by the franchisor, without reliance on
+, and irrespective of
+whether a contravention might be separately established against an
+employer/franchisee, invoking
+and the reverse onus.
+submits that, for example, even if an employer/franchisee has made admissions
+and in that sense agreed to findings of contravention
+(for example of
+that admission cannot be used to establish
+s 558B(1)(a)
+has been met, nor can
+any declaratory or other relief granted against an employer/franchisee be relied
+upon against a franchisor
+s 558(1)(a).
+BDH submits the applicant
+(here the FWO), must prove the employer/franchisee contraventions afresh, for
+the purposes of establishing
+franchisor liability under
+interpretation, BDH contends, is consistent with the legislative history of
+being limited to employers, it affords procedural fairness to franchisors
+(who may not have been a party to earlier proceedings against
+employers and may
+not have had an opportunity to be heard), and recognises that a “blameless
+franchisor” cannot take
+advantage of the “reasonable excuse”
+exception in
+As to the legislative history, BDH says neither the
+Explanatory Memorandum or Second Reading Speech for the Amendment Act
+suggest the Parliament intended the reverse onus in s 557C to apply to the
+franchisor.
+response to a submission made by the FWO, that on the construction advanced by
+BDH the Court might need to consider twice whether
+a contravention of a civil
+remedy provision is established (once in relation to the employer, and again in
+relation to the franchisor),
+BDH submitted:
+If the BDH construction is accepted, the FWO will not be required to prove
+anything twice. There will be only one hearing where the
+evidence of all parties
+is adduced, once only. What the Court would then do is to work through the
+allegations made by the FWO and
+the orders that are sought as against each
+party, having regard to the evidence before the Court and the submissions of
+each party.
+In the case made as against the employer, the Court would apply s
+557C where applicable, whereas in the case made against BDH, the
+Court would
+not. The Court would be determining the case only once but applying different
+evidentiary rules in relation to different
+other words, while BDH accepted that under s 550, the contravention by the
+employer does not separately have to be proved against
+the accessory, its case
+on appeal rested on a distinction being drawn, and intended by Parliament to be
+drawn, between ss 550 and
+THE CONTEXT OF THE PROVISIONS IN ISSUE
+558B is located in Div 4A of Part 4-1, entitled “Responsibility of
+responsible franchisor entities and holding companies
+for certain
+contraventions”. Section 557C is located in Ch 4, Part 4-1, Div 4 –
+entitled “General provisions relating
+to civil remedies”.
+whole of Ch 4 is concerned with “Compliance and Enforcement”, and s
+537 describes Part 4-1 as being about civil remedies.
+general accessorial liability provision is s 550, located in Div 4. It
+Involvement in contravention treated in same way as actual contravention
+(1) A person who is involved in a contravention of a civil remedy provision is
+taken to have contravened that provision.
+Note: If a person (the
+involved person
+) is taken under this
+subsection to have contravened a civil remedy provision, the involved
+person’s contravention may be a
+serious contravention (see
+subsection 557A(5A)). Serious contraventions attract higher maximum
+penalties (see subsection 539(2)).
+(2) A person is
+involved in
+a contravention of a civil remedy
+provision if, and only if, the person:
+(a) has aided, abetted, counselled or procured the contravention; or
+(b) has induced the contravention, whether by threats or promises or otherwise;
+(c) has been in any way, by act or omission, directly or indirectly, knowingly
+concerned in or party to the contravention; or
+(d) has conspired with others to effect the contravention.
+is s 550 which is alleged to be the basis of liability for Mr and Mrs Puglisi in
+this proceeding.
+550 has been in effect since the introduction of the FWA in 2009. A
+substantially similar provision was introduced into the
+Relations Act 1996
+(Cth) in March 2006 by the
+Workplace Relations
+Amendment (Work Choices) Act 2005
+(Cth). The section mirrors in substance
+and form other accessorial liability provisions: s 75B
+Competition and
+Consumer Act 2010
+Australian Consumer Law
+in Sch 2 of the
+Competition and Consumer Act 2010
+Corporations Act 2001
+(Cth). Thus,
+was not intended by Parliament
+to introduce any new approach to accessorial liability. The words of the section
+are drawn from the
+long history of accessorial liability in the criminal law and
+their application in other legislation: see Brennan J in
+(1985) 158 CLR 661
+at 673-4 considering
+Practices Act 1974
+Court has held that s 550 should be construed in the same way as those similar
+regulatory provisions:
+Fair Work Ombudsman v Grouped Property Services Pty
+[2016] FCA 1034
+152 ALD 209
+(Katzmann J).
+unlike the provision considered in
+Yorke v Lucas
+, s 550 operates as a
+deeming provision, imposing liability on accessories for a contravention by
+another of a primary civil remedy
+provision where the requisite level of
+“involvement” is established. The accessorial nature is confirmed by
+of s 557A (which deals with a person’s involvement in a
+“serious contravention” by reference to “involved
+defined by s 550), where the primary contravener is described as “the
+principal”.
+contrast, s 558B creates a stand-alone civil remedy provision. BDH contended
+this meant its operation should not be approached
+in the same way as s 550. We
+550 applies to a wide range of civil remedy provisions: see s 539(2). This
+includes the civil remedy provisions contained
+in the general protections
+provisions of the FWA, in
+of Ch 3 of the FWA, including for example s
+340, the adverse action provision. This part of the legislative scheme also
+a reverse onus provision: s 361. Section 361 provides:
+Reason for action to be presumed unless proved
+(a) in an application in relation to a contravention of this Part, it is alleged
+that a person took, or is taking, action for a particular
+reason or with a
+particular intent; and
+(b) taking that action for that reason or with that intent would constitute a
+contravention of this Part;
+it is presumed that the action was, or is being, taken for that reason or with
+that intent, unless the person proves otherwise.
+(2) Subsection (1) does not apply in relation to orders for an interim
+injunction.
+reverse onus provision has existed, in various forms and contexts, in the FWA
+and its predecessors since the original
+Conciliation and Arbitration Act
+has been held that the reverse onus in s 361 does not apply to claims against
+accessories under s 550. In
+Port Kembla Coal Terminal Ltd v Construction,
+Forestry, Mining and Energy Union
+[2016] FCAFC 99
+, Rangiah J
+stated at [448]:
+The primary judge correctly held that
+Fair Work Act
+did not apply
+to the allegations against Mr Green [the accessory], and that the applicants
+(the present respondents) were required
+to prove that he was knowingly concerned
+in PKCT’s contraventions. The respondents were required to establish that
+had knowledge of each essential element of the contravention:
+(1985) 158 CLR 661
+at 670 (Mason ACJ, Wilson, Deane and Dawson JJ).
+They were required to prove that Mr Giddings’ Union roles or industrial
+were among the substantial and operative reasons for Mr Green’s
+decision to terminate Mr Giddings’ employment. They were
+required to prove
+that matter in accordance with the
+Construction, Forestry, Mining and Energy Union
+v BHP Coal Pty Ltd
+[2017] FCAFC 50
+Greenwood, Flick and Rangiah JJ stated at [59]:
+The effect of
+of the FWA is that in an adverse action case where it is
+alleged that a respondent took action for a particular reason or with a
+particular intent, it is presumed that the action was taken for that reason or
+with that intent, unless the respondent proves otherwise.
+Section 361(1)
+not usually apply to an allegation of contravention of
+through the
+operation of
+Port Kembla Coal Terminal Ltd v Construction,
+Forestry, Mining and Energy Union
+[2016] FCAFC 99
+Automotive,
+Food, Metals, Engineering, Printing and Kindred Industries Union v Visy
+Packaging Pty Ltd (No 3)
+[2013] FCA 525
+(2013) 216 FCR 70
+. The applicant alleges
+“knowing involvement” within the meaning of
+of the FWA against
+the Downer entities. To be knowingly involved, those respondents must have
+intentionally participated in the contravening
+conduct, with actual knowledge of
+the essential facts which constituted the contravention: see
+Yorke v Lucas
+(1985) 158 CLR 661
+at 667. It may be that
+of the FWA has
+application to the question of whether the respondents intentionally
+participated in the contravening conduct, but
+the point was not argued before
+the primary judge or in the appeal and it is unnecessary to decide it. The
+immediate point in respect
+of paragraph 28B of the ASOC is that the applicant
+carries the onus of proving that the Downer entities had the requisite
+case presents more analysis. Those cases pre-date the introduction of
+. Those decisions have been applied a number of times, including;
+Australian Municipal, Administrative, Clerical and Services Union v
+Commissioner of Taxation
+[2022] FCA 1225
+and [485] (Jagot J);
+Fair Work Ombudsman v Foot & Thai Massage Pty Ltd (in liquidation) (No
+[2021] FCA 1242
+(Katzmann J); and
+Australian Red Cross
+Society v Queensland Nurses' Union of Employees
+[2019] FCAFC 215
+(Greenwood, Besanko and Rangiah JJ).
+authorities are consistent with the proposition that the reverse onus in
+is directed at
+the primary contravener’s reason for acting
+is directed at the accessory’s conduct and knowledge of the
+essential elements of the primary contravention, by the principal
+whose conduct the reverse onus applies).
+our view, the same approach should be taken to the relationship between
+The latter is directed towards the proof of a contravention by an
+employer/franchisee, not a franchisor. That said, as we will explain,
+remains in its character an accessorial liability provision. Therefore, for a
+moving party to satisfy the requirements of
+s 558B(1)(a)
+, it is not necessary
+for that moving party separately to prove a contravention by the
+employer/franchisee without the assistance
+As against the
+employer/franchisee,
+is in play, just as
+is in play against a
+primary respondent in an adverse action proceeding.
+both circumstances, there must be a principal, or primary actor, who contravenes
+a civil remedy provision.
+the primary contravention or liability is established (including by reliance on
+any reverse onus), the focus of the accessorial
+liability provisions is on the
+nature and character of the involvement of the party said to be liable under the
+accessorial provisions.
+THE ENACTMENT OF
+SECTION 558B
+SECTION 557C
+were part of a suite of amendments to the FWA introduced by the
+Amendment Act.
+the Second Reading speech for the Amendment Act, the Minister stated:
+We know that the majority of employers do the right thing, but it is also
+apparent that there are some cases of widespread underpayment
+or coercion of
+workers, such as the well-publicised exploitation of workers by some 7-Eleven
+franchisees. These are the instances
+this bill seeks to address.
+noted the increased penalties introduced, and the prohibition on employers
+asking for cash payments back from their employees,
+the Minister said:
+The bill will also clarify the accessorial liability provisions to make them
+more effective. These changes will ensure that franchisors
+and holding companies
+that exercise significant control over their franchisees or subsidiaries will be
+responsible for underpayments
+where they turned a blind eye or were complicit in
+such a breach.
+Where the franchisor or holding company should have known of the breach, or a
+similar breach, but did not take reasonable steps to
+try to prevent it then they
+may be liable for the underpayments.
+Minister then noted the qualifications in the Amendment Act around the need to
+establish franchisors had a sufficient level of
+control over the employment
+practices of employers/franchisees before liability for employer/franchisee
+contraventions would be imposed.
+He then stated:
+The bill will not absolve franchisees or subsidiaries of their responsibility
+under workplace laws. These employers will remain liable
+for any breach of the
+Fair Work Act
+under existing laws.
+in a passage emphasised by BDH, the Minister noted the strengthening of the
+evidence gathering powers of the Fair Work Ombudsman
+to assist in investigating
+contraventions “even if there is no paper trail”. Relatedly, BDH
+submitted the focus, at least
+at that time, was on the Ombudsman having
+additional powers, without any suggestion that a reverse onus would be imposed
+franchisor.
+Previous reports and inquiries
+Minister’s reference to the 7-Eleven franchise situation is reflected in a
+report issued in April 2016 by the Fair Work
+Ombudsman about the outcomes of an
+inquiry into the 7-Eleven franchise network:
+Identifying and addressing the
+drivers of non-compliance in the 7-Eleven network
+inquiry had been initiated in 2014, and related to allegations that significant
+underpayment of wages and falsification of employment
+records were occurring
+across much of the 7-Eleven franchisee network. The Executive Summary
+The Inquiry found 7-Eleven’s approach to workplace matters, while
+ostensibly promoting compliance, did not adequately detect
+or address deliberate
+non-compliance and as a consequence compounded it. In particular, instances
+where franchisees created false
+and misleading records to satisfy
+7-Eleven’s auditing and payroll regime while continuing to underpay
+section 4.7
+of the report, the Fair Work Ombudsman discussed the importance of
+employment record keeping, and its fundamental role in the enforcement
+workplace rights and obligations:
+The failure to keep proper records and to issue payslips: disempowers employees,
+undermines the effectiveness of workplace inspectors,
+and creates a structure
+where breaches of workplace laws may be easily perpetrated.
+Making false records, particularly if intended to mislead a Fair Work Inspector
+that a business is compliant with its obligations,
+is of serious concern to us
+for several reasons:
+it frustrates an employee’s capacity to
+know, and hold an employer accountable, for their minimum entitlements
+impedes our ability as a regulator to properly and promptly investigate
+whether an employer is compliant with the law
+deprives us of crucial evidence, leading to the use of significant public
+funds to undertake extensive investigation and analysis
+of multiple sources of
+evidence that wouldn’t otherwise be required
+can prevent us from assessing underpaid entitlements and taking enforcement
+action when necessary.
+Court has also recognised the importance of record-keeping: see
+at [11]-[12].
+the recommendations in the report were recommendations that the Fair Work
+to maximise use of accessorial liability to ensure those involved in serious
+breaches of workplace laws are held accountable,
+noting the evidentiary
+requirements and our lack of capacity to require any person to answer questions
+on the record in relation
+to alleged contraventions of workplace laws.
+in 2016, the Senate Education and Employment References Committee published a
+report entitled “
+A National Disgrace: The Exploitation of Temporary
+Work Visa Holders
+”. As the FWO submitted to the primary judge, this
+report considered the effects of the absence or fabrication of wages records
+franchisees, including 7-Eleven. While the report had a focus on a number of
+immigration related issues, the Senate Education
+and Employment References
+Committee also recommended that there be an independent review of the
+“penalty, accessory liability,
+and sham contracting provisions under the
+Fair Work Act 2009
+” and the review should, amongst other matters, make
+“recommendations on the utility of the accessory liability provisions
+Fair Work Act 2009
+Course of the Fair Work Amendment (Protecting Vulnerable
+Workers) Bill
+on from these inquiries and reports, the Fair Work Amendment (Protecting
+Vulnerable Workers)
+2017 was introduced into the House of
+Representatives on 1 March 2017.
+23 March 2017, the Senate referred an inquiry into the provisions of the Bill to
+Senate Education and Employment Legislation
+Committee for inquiry and report by 9 May 2017.
+Senate Education and Employment Legislation Committee’s report
+acknowledged (at [3.5]) that:
+Under the Fair Work Act's current accessorial liability provisions, franchisors
+and holding companies with no knowledge of contraventions
+within their networks
+cannot be found to have been 'involved in' the contraventions.
+noting that the new provisions did not displace or reduce the obligations of
+employers/franchisees, the Committee emphasised
+that the criterion in the Bill
+for franchisor liability rested on the concept of a “significant degree of
+influence or control”
+over the relevant employer/franchisee's affairs,
+while also providing a “reasonable steps” defence. The Committee
+the view it was “appropriate that the bill seek to supplement
+the existing accessorial liability provisions in the
+Fair Work Act
+relation to the proposed increase in penalties for failures in record keeping,
+the Senate Education and Employment Legislation
+Committee expressed the view
+that (at [5.33]):
+The committee believes that stronger penalties for breaches relating to
+record-keeping requirements are necessary to deter a small
+minority of employers
+who deliberately fail to keep appropriate records as part of a systematic plan
+to underpay workers and disguise
+their wrongdoing.
+Senate Education and Employment Legislation Committee’s overall view was
+expressed at [2.12] of its report:
+The committee is of the opinion that the bill addresses a growing body of
+evidence that indicates that the
+Fair Work Act
+needs to be strengthened in order
+to better protect vulnerable workers, and appropriately punish those who
+deliberately and systematically
+break the law.
+Recommendation
+6 of the Labor Senator’s Additional Comments on the report related to a
+reverse onus of the kind enacted in
+1.23 Labor senators recommend that the government amend the bill to include a
+failure to address complaints about alleged underpayments
+to the list of conduct
+in proposed
+subsection 557A(2)
+to be considered when assessing whether conduct
+constitutes a serious contravention.
+Increased penalties for record-keeping failures
+1.24 Labor senators support the increased penalties for record-keeping failures
+proposed in the bill.
+1.25 However, in addition to increased penalties, Labor senators consider that a
+reverse onus of proof in wage disputes where an
+employer fails to keep or
+provide employee records is also necessary to encourage compliance with
+record-keeping obligations.
+1.26 As the WEstjustice submission detailed:
+In order to eliminate the incentive for employers to avoid keeping employee
+records, and create a culture of compliance, we propose
+that a reverse onus of
+proof be imposed on employers who are respondents to claims for unpaid wages and
+have failed to keep or produce
+employee records where required by law. Employers
+who had not kept records could still discharge the onus in another way, for
+via us of CCTA footage or rosters.
+To achieve this we suggest including a new provision in Division 4 of
+to reverse the onus of proof in respect of civil remedy provisions concerning
+payment of wages where the employer had not kept and/or
+provided employee
+records as required by
+sections 535
+Fair Work Act
+or regulation 3.42
+of the Fair Work Regulations.
+[Footnotes removed]
+Greens members of the Senate Education and Employment Legislation Committee made
+a similar point at 1.7 of their Additional Comments:
+The failure of an employer to keep records can result in the burden of proof
+falling to vulnerable workers when attempting to prove
+wage theft. In these
+instances, as WEstjustice points out, the current legislative framework rewards
+employers who fail to keep employee
+records. It is also apparent that penalties
+do not always act as an adequate deterrent to exploiting workers, particularly
+penalties can be easily absorbed by the franchisor. The Greens support
+the increase of penalties, however the bill should be amended
+to reverse the
+onus of proof when employees make claims and the employer has failed to keep
+records in accordance with the law. This
+will incentivise employers to maintain
+adequate records.
+The introduction of s 557C
+the Bill was introduced into the House of Representatives, s 558B was present
+but s 557C was not.
+Consistently
+with the position of the Greens members of the Senate Education and Employment
+Legislation Committee’s Report,
+a reverse onus provision was introduced by
+Adam Bandt MP, for the Greens Party. The proposal was voted down in the House of
+Representatives.
+Bill proceeded to the Senate, was read a first time, and debate resumed about
+appropriate amendments to the Bill, including the
+first version of what would
+become s 557C. Through several days in mid-August 2017 and early September, the
+Bill (including a newly
+proposed s 557C, introduced by Senator Cameron on
+behalf of the then-opposition Labor Party) was debated in the Senate. The debate
+included references to government reservations about the potential for
+unscrupulous workers to exploit the provision, and the government
+prepared to endorse the reverse onus. Other speakers recounted accounts of
+employers/franchisees not keeping or producing
+accurate pay records, and the
+terms of the “reasonable steps” exception in sub-section (2). There
+was no real debate
+following reference by Senator Cameron on 14 August 2017 (emphasis
+This bill purports to make franchisors and holding companies responsible for
+underpayments by franchisees or subsidiaries. This is
+aimed at responding to the
+7-Eleven scandal, but there are flaws with the new civil liability offence in
+this bill, which shows that
+the government's response is weak.
+government's offence will not reverse the onus of proof, which means that it
+will remain very hard for workers and the Fair Work
+Ombudsman to successfully
+prosecute franchisors
+. Many large businesses do not use a franchise model
+and will therefore not be liable, and businesses that use a franchise model are
+likely to move out of that model or design their business relationships in order
+to escape prospective liability under the offence.
+Labor's amendments address
+all of these flaws. They are essential to giving this bill real teeth. The
+government must support them
+if it truly wants to stamp out underpayments across
+our economy.
+4 September 2017 Senator Marshall, for the Opposition, stated:
+I support the position that we support these amendments and what's been
+discussed and negotiated with Senator Xenophon, even though
+the government's not
+pursuing it, because I think it is important to move forward. If an employee or
+alleged employee can establish
+that they did work for a business or an employer,
+and the employer either has deliberately not kept the records or doesn't want to
+show the records because they will prove that they were underpaying, it ought to
+be a reverse onus of proof because the employee
+is in such a vulnerable
+position. How do they establish those facts? They can't establish those facts.
+They're being ripped off in
+the first place. As if the employer is going to make
+it easy for them to come and prove that they were going to be ripped off! I
+some people say cases where this business model's in place are rare. Well, I'm
+telling you: they're not rare. They're across
+industry, and in hospitality in
+particular.
+government maintained its position that it would not support the provisions.
+support of the version of s 557C (including changes to sub-section (2)) that he
+had introduced, Senator Cameron stated:
+We don't believe that where an employer has failed to deliver on what is an
+obligation under the existing act to provide a pay slip
+there should be any
+impediments put before an employee to actually prove that they haven't been
+paid. It really is a problem created
+by the employer in not providing a pay
+slip, which is their legal obligation to provide, and then hiding behind that
+and indicating
+to a worker that the worker needs to provide the proof. We
+understand that you don't reverse the onus of proof easily, but when an
+is breaching the act as it stands then there is, in my view, an obligation on
+parliament to make sure that that employee
+doesn't have unnecessary hurdles to
+jump before they can undertake a case to get what is their legitimate right. If
+an employer is
+not complying by providing a pay slip then there should be a
+reverse onus of proof.
+So, we are very clear that this is another protection for vulnerable workers, by
+having a reverse onus of proof. In actually bringing
+a case against a powerful
+employer—an employer who has all the facts, an employer who may have been
+exploiting the worker—the
+worker may have some difficulties if they don't
+have a pay slip. So, the employer has an obligation under law to provide the pay
+slip, and you can't have noncompliance with legal obligations making it harder
+for a vulnerable worker, a worker in an exposed position,
+to actually make a
+claim for their rights under the law and their rights to get paid for what
+they've worked. A 'reasonable excuse'
+has to be reasonable, and the employee
+cannot be put in a position with the employer because of an omission, either
+deliberate or
+non-deliberate, by the employer, where they cannot get a fair
+day's pay for a fair day's work.
+4 September 2017, the Senate transmitted all of its proposed amendments back to
+the House of Representatives, and the Bill was
+passed with those amendments on 5
+September 2017.
+Explanatory Memorandum to the Amendment Act stated (at [35]-[39]):
+Part 2 of Schedule 1 amends the
+Fair Work Act
+to insert new provisions to
+hold ‘responsible franchisor entities’ (referred to as franchisors)
+and ‘holding companies’
+responsible for certain contraventions of
+the Act by businesses in their networks. The new provisions supplement and do
+not override
+the existing accessorial liability provisions (section 550).
+Some franchisors and holding companies have established franchise agreements and
+subsidiaries in their corporate structure that operate
+on a business model based
+on underpaying workers. Some have either been blind to the problem or not taken
+sufficient action to deal
+with it once it was brought to their attention.
+Recent highly publicised cases of exploitation of vulnerable workers, including
+7-Eleven franchisees, demonstrate more needs to be done by franchisors
+and holding companies to protect vulnerable workers employed
+in their business
+networks. A number of case studies are provided in the Senate Education and
+Employment References Committee’s
+report entitled
+A National Disgrace:
+The Exploitation of Temporary Work Visa Holders
+, March 2016 and reports of
+the Fair Work Ombudsman.
+Under the existing laws a person may be held responsible for being
+‘involved in’ a contravention, even if they are not
+employer (section 550). This is known as accessorial liability. There is no
+accessorial liability if a person genuinely
+‘did not know’.
+The provisions only apply to responsible franchisor entities which have a
+significant degree of influence or control over the relevant
+franchisee’s
+affairs. By definition, holding companies have control over the affairs of their
+subsidiaries. Control relates
+to the affairs of the franchisee or subsidiary
+broadly, not only as to minor matters that would not have any impact on the
+and operational decisions of the business.
+terms of the intended relationship to the existing accessorial liability
+provisions in the FWA, the Explanatory Memorandum stated
+at [35] that:
+the new provisions supplement and do not override the existing accessorial
+liability provisions (section 550).
+Conclusion on the legislative history
+the Explanatory Memorandum predates the introduction of s 557C after the debate
+in the Senate, it nevertheless provides important
+context for the
+Parliament’s objectives in introducing liability for franchisors.
+legislative history clearly demonstrates that the Parliament recognised,
+consistently with the inquiries and reports which led
+to the Amendment Act, that
+the terms of the accessorial liability in s 550 were not adequate to capture the
+circumstances where workers
+were employed by franchisees. Parliament recognised
+that there was a sufficient factual basis to suggest that some franchisors were
+not undertaking appropriate supervision of the way franchisees were treating
+workers, and were not adequately supervising franchisees’
+compliance with
+employment and industrial laws. Parliament recognised that, with legislative
+safeguards, it was appropriate to impose
+a new form of accessorial liability on
+franchisors, where contraventions by employers/franchisees had been established,
+the franchisors
+likely being the entities more likely with capacity to
+compensate workers and pay appropriate penalties.
+context is critical to the correct interpretation of s 558B, and the role of s
+557C. Nevertheless, it is true that the legislative
+history does not squarely
+explain what Parliament intended to be the operational relationship between the
+two provisions.
+APPLICABLE INTERPRETATION PRINCIPLES AND THE USE OF EXTRINSIC
+parties agreed the current general approach to statutory interpretation was set
+out by Kiefel CJ, Nettle and Gordon JJ in
+SZTAL v Minister for Immigration
+and Border Protection
+[2017] HCA 34
+262 CLR 362
+(cited recently by
+Gageler CJ, Gordon and Edelman JJ in
+[2024] HCA 3
+280 CLR 288
+The starting point for the ascertainment of the meaning of a statutory provision
+is the text of the statute whilst, at the same time,
+regard is had to its
+context and purpose. Context should be regarded at this first stage and not at
+some later stage and it should
+be regarded in its widest sense.
+[Citations removed]
+having regard to the context of s 558B, it is appropriate to take into account
+the pre-existing law. This relevantly includes s
+550 and how that provision
+applies to principals and accessories. In
+H Lundbeck A/S
+[2014] HCA 42
+254 CLR 247
+Crennan, Bell and Gageler
+JJ explained:
+The pre-existing law and the legislative history should not deflect the Court
+from its duty to resolve an issue of statutory construction,
+text-based activity.
+However, both parties recognised that the task of
+statutory construction in this case required some appreciation of the
+pre-existing
+law and the legislative history of relevant provisions
+Undoubtedly, questions of policy can inform the Court’s task of statutory
+construction.
+[Citations removed, emphasis added]
+Communications, Electrical, Electronic, Energy, Information, Postal, Plumbing
+and Allied Services Union of Australia v
+Airways Limited
+[2020] FCAFC 205
+282 FCR 130
+, Rares and Colvin JJ applied this passage in
+in the context of industrial law at [35]:
+Particularly in a field like industrial law where there is a history of
+legislative provisions that deploy concepts that have their
+origins in earlier
+statutes the terms of which have been interpreted by the Courts to form a body
+of associated law, the pre-existing
+law may provide part of the
+context in which to consider the statutory provisions:
+Electrolux Home
+Products Pty Ltd v Australian Workers' Union
+[2004] HCA 40
+(Gummow, Hayne and Heydon JJ); and
+Pty Ltd v H Lundbeck A/S
+[2014] HCA 42
+(2014) 254 CLR 247
+. Terms may be carried into legislation on the basis that they have
+acquired a particular meaning through past usage within the particular
+being addressed by the legislation or may be adopted to change or alter the
+effect of past approaches. In either case, the
+context may be important in
+determining the intended meaning.
+, and the extrinsic material excerpted
+above, we consider that Parliament, in creating s 558B, did so expressly in the
+the pre-existing law in s 550 and intended to add to it to provide a
+consistent, but more tailored, mechanism to address the situation
+of franchisors
+and franchisees.
+Acts Interpretation Act 1901
+(Cth) provides that recourse
+may be had to “material not forming part of the Act [which] is capable of
+assisting in the ascertainment
+of the meaning of the provision”, in
+circumstances including where “the provision is ambiguous or
+obscure”. This
+material includes “any relevant material ... in any
+official record of debates in the Parliament or either House of the
+Parliament”:
+s 15AB(2)(h). Section 15AB “supplements, but [does] not
+displace, the common law” (
+v Commonwealth
+[2025] HCA 25
+(Gordon J).
+as Gordon J explained in
+(at [137]-[138]), reliance on statements
+in Parliamentary debates may only be of assistance in ascertaining
+Parliament’s intention
+where there is a link between what is in the
+debates and the text of the legislation as enacted. That is what supplies an
+of objective Parliamentary intention. That link is present here, as
+we have outlined above.
+at [377], Jagot J made these observations about the use of
+statements from individual members of Parliament:
+It may be accepted that legislative purposes are not to be divined from private
+communications. Parliamentary debates, however, occur
+in the public domain.
+Further, once it is accepted that the objective circumstances which called forth
+the legislation are relevant
+to the ascertainment of legislative purpose, it
+must also be accepted that ensuring that, for the period of the administration,
+C&G Division would not engage in political activities, including
+political communications, formed part of those objective circumstances.
+characterise this objective as a mere subjective reason that some individual
+legislators or the legislature as a collective wanted
+to enact Pt 2A may be
+convenient but is not convincing. There is no justification to accept one
+publicly stated legislative purpose
+– to restore functionality to the
+C&G Division – and yet to ignore another publicly stated legislative
+to ensure that the C&G Division would be prevented from
+political activity including political communications during the period
+administration. No doubt individual legislators may have had different reasons
+or motives for wanting to achieve this objective.
+It is those reasons and
+motives which are to be disregarded, not the objective itself.
+the present circumstances, the Senate debates inform why, and explain how, s
+557C came to be introduced. They also inform its perceived
+role in remedying
+what Parliament saw, based on the many instances given in the reports and
+inquiries which preceded the Amendment
+Act, as an imbalance and unfairness
+imposed on workers seeking to recover what they alleged they were due, where
+employers/franchisees
+failed to keep, or supply, accurate pay and entitlement
+debates and the extrinsic material all demonstrate that Parliament viewed s 558B
+as a form of accessorial liability, supplementing
+the existing forms already in
+the FWA such as s 550, and providing a more tailored mechanism to address the
+situation of franchisors
+and franchisees. Parliament did not see s 558B as any
+different in character and purpose to s 550, but did recognise the need for
+specific approach.
+of the extrinsic material provides any support for BDH’s contended
+approach that s 558B creates some new and different
+form of liability, and
+should be approached differently from s 550 in terms of what has to be
+established about the contravening
+conduct of a primary actor. BDH accepted
+that, under s 550, the primary contravention by the employer does not separately
+be proved against the accessory. We consider s 558B should be approached
+in the same way.
+common law principle that apart from any reliance upon s 15AB, a court may have
+regard to extrinsic materials to “ascertain
+the mischief which a statute
+is intended to cure” (
+CIC Insurance Ltd v Bankstown Football Club
+(1997) 187 CLR 384
+at 408 (Brennan CJ, Dawson, Toohey and Gummow JJ)) is
+also applicable. One of the mischiefs to which s 558B was directed was the
+perceived role of franchisors in the exploitation of workers employed by
+franchisees, and the unsuitability of s 550 to address this.
+The Amendment Act
+provisions were intended to cure this by imposing a more appropriate form of
+direct legal responsibility on franchisors.
+Parliament’s legislative
+judgment about when such imposition was appropriate centred on a
+franchisor’s level of influence
+or control over a franchisee’s
+affairs, while also recognising in the amendments that a defaulting franchisee
+was often unlikely
+to supply the documentary evidence needed to establish
+underpayments and other contraventions of workers’ entitlements.
+CONCLUSION ON THE LEGISLATIVE SCHEME
+558B was intended by Parliament to be a further form of accessorial liability,
+to strengthen the enforcement of the civil
+remedy provisions in the FWA in
+circumstances where an employer was also in a franchisee arrangement, and it was
+objectively appropriate
+to sheet home to a franchisor legal responsibility for
+the failure of the employer/franchisee to meet its obligations under the FWA,
+especially as to record keeping, and payment of wages and provision of
+entitlements. The clear history of default demonstrated by
+the inquiries and
+reports which preceded the Amendment Act was the mischief Parliament sought to
+remedy by the introduction of a
+series of provisions in 2017, including but not
+limited to s 558B.
+550 was regarded as inadequate to cover the circumstances of the
+franchisee/franchisor relationship, and a more tailored form
+of accessorial
+liability was seen by Parliament to be necessary.
+is no basis in the text, context or purpose of s 558B and the other provisions
+of the Amendment Act which accompanied it to
+see s 558B as somehow distinct or
+different in purpose from s 550. It was intended to supplement the liability
+imposed by s 550 and,
+as we have explained, tailor it more specifically to what
+Parliament considered appropriate where there was a franchisee/franchisor
+arrangement.
+reject the heavy focus BDH sought to impose on the other provisions in the
+Amendment Act which strengthened the role of the FWO
+and gave the FWO more
+investigative powers. While that is undoubtedly a policy component of the
+Amendment Act, an applicant in respect
+of a contravention of s 558B might well
+than the FWO. Under the terms of ss 539 and 540 of the
+FWA, a range of persons can apply for orders in relation to contraventions
+civil remedy provisions: including inspectors, employees, and employee and
+employer organisations (as defined in s 12 of the FWA).
+Section 558B must
+accordingly be construed in a manner which gives the provision a consistent
+operation, as an accessorial liability
+provision, no matter who the authorised
+applicant is in respect of alleged contraventions by employers/franchisees and
+franchisors.
+OPERATION OF SECTION 558B, READ WITH SECTION 557C
+Accessorial
+liability as a concept has been drawn from the criminal law, as
+makes clear: at 666-7 (Mason ACJ, Wilson, Deane and Dawson JJ) and 673
+(Brennan J). Liability is derived from the conduct of a principal
+more is needed. Accessorial liability always turns upon proof of some kind of
+independent conduct or state of mind of
+the accessory as well; the attribution
+of liability to an accessory is generally not automatic. In the way the civil
+law, and especially
+statutory and regulatory law, has sought to use accessorial
+liability, different legislative judgments are made about what level
+knowledge or involvement is required in a given circumstance.
+Productivity Partners
+Pty Ltd v Australian Competition and Consumer
+[2024] HCA 27
+Edelman J said:
+An accessory is a person to whom the liability of a principal for a crime or
+civil wrong is attributed. The accessory did not commit
+the crime or other wrong
+but will have attributed to them the liability of the person who did. Since the
+focus is upon attribution
+of liability for a wrong found to have been committed
+by another, it has rightly been said that "[t]he very basis of secondary
+is different from that of a principal".
+subsection (1)(a) expresses the wrong of
+another – the employer/franchisee – as a precondition to any
+liability for a
+franchisor arising. There is no doubt the liability is
+accessorial: it would not arise without the underlying contravention by an
+employer/franchisee. Of course, more must be established against the franchisor
+– in particular, control or supervision of
+the franchisee’s affairs
+(including its compliance with FWA requirements), and at least constructive
+knowledge of the employer/franchisee
+contraventions.
+the extrinsic material demonstrates, the standard in s 550, interpreted in the
+Yorke v Lucas
+, was seen by the Parliament as inappropriate for
+the franchisor/franchisee situation. Instead Parliament focussed on what kind of
+conduct by a franchisor should lead to legal responsibility for FWA
+contraventions by a franchisee. In doing so, Parliament settled
+precondition which is expressed as a fact that must be established: a
+contravention by an employer/franchisee.
+Satisfaction
+of the subsection (1)(a) precondition might occur in a number of ways. In terms
+of determining the correct operation
+of s 558B, the operation of the provision
+needs to be considered in a range of scenarios.
+might have been an admission provided by an employer/franchisee for the purposes
+of avoiding contested civil proceedings against
+it, and the employer/franchisee
+may have consented to certain relief being granted against it. In that situation
+s 558B(1)(a) may
+be satisfied upon proof of the admission and any relief
+an employer/franchisee might also be a respondent party to the civil proceeding
+brought against the franchisor. In that situation,
+unless there is a finding of
+contravention against the employer/franchisee in the proceeding, the
+precondition in s 558B(1)(a) will
+not be met and no liability could attach to
+the franchisor. If an employer/franchisee successfully defends the contravention
+allegations
+against it, by (amongst other matters) discharging the reverse onus
+in s 557C, s 558B cannot operate.
+third possible scenario is where an employer/franchisee is also a respondent
+party but is placed in liquidation, as Make Dough was
+here, and (again as here)
+the liquidators elect not to participate in a proceeding against the
+employer/franchisee company, leaving
+the allegations against the company
+essentially undefended.
+our view, s 557C may be engaged in this third scenario and is available to a
+moving party such as the FWO. That proposition is
+no more than an application of
+the terms of s 557C, which are engaged in “proceedings
+a contravention by an employer”.
+phrase “relating to” is of wide import, but does require a
+connection to or between subject matter, and the nature
+of the relationship or
+connection may vary depending on the context and purpose in which the phrase is
+used , see generally:
+Oceanic Life Ltd v Chief Commissioner of Stamp
+[1999] NSWCA 416
+154 FLR 129
+(Fitzgerald JA) and the cases
+cited therein. Considering the context and purpose of s 558B in the legislative
+scheme, and the interdependence
+between franchisee and franchisor liabilities, a
+sufficient connection exists because the employer/franchisee contravention is
+first element of s 558B. In our view, neither party’s submissions
+adequately recognised that as a matter of construction, a
+proceeding under s
+558B against a franchisor could be a proceeding “relating to” a
+contravention by an employer.
+purpose and effect of s 557C is to impose a burden of proof
+. It does so by moving the burden in relation to the underlying
+facts alleged to constitute a contravention from an employee to an
+employer: see
+Woolworths Group
+at [129]-[130] (Perram J). The exclusion in s 557C(2)
+again operates in its terms on the provision
+by an employer
+“reasonable excuse”. There is no reason to apply its terms any
+differently when the employer is also a franchisee,
+and the franchisor liability
+provisions of the FWA are also in issue in a proceeding. Nor is there any
+objective basis in the legislative
+scheme to distinguish between solvent and
+insolvent employers/franchisees, or participating or non-participating
+employers/franchisees,
+bearing in mind active participation as a respondent
+party will be a forensic choice.
+that extent, BDH is correct in its submissions that in a s 558B proceeding, s
+557C does not contemplate that a franchisor can assume
+the burden imposed on the
+employer/franchisee, nor that a franchisor can provide a “reasonable
+excuse” on behalf of the
+employer/franchisee for the purposes of s 557C(2)
+and the restoration of the ordinary legal burden of proof on the moving party
+contraventions of civil remedy provisions listed in s 557C(3).
+fourth scenario is that the employer/franchisee is not a party at all. BDH
+contends this is addressed by s 558B(6). BDH submitted
+that this provision
+makes it plain that a contravention of s 558B(1) does not require the
+“employer” to be a party to any litigation as against
+a responsible
+franchisor under s 558B, nor is it necessary for any orders be sought against
+the employer to seek orders as against
+a responsible franchisor.
+558B(6) provides:
+To avoid doubt, a reference in paragraph (1)(a) or (2)(b) to a contravention by
+a franchisee entity or subsidiary includes any contravention
+whether or not an
+order has been sought or made against the franchisee entity or subsidiary under
+Division 2 for the contravention.
+effect of that provision is not quite as BDH contends. The provision clarifies
+need not be relief sought or granted
+employer/franchisee. For example, if leave to proceed against the
+employer/franchisee here (Make Dough) had
+been granted, then the fact
+Make Dough was in liquidation would have prevented any relief being granted
+against it, but the effect
+of s 558B(6) is that this would
+prevented the proceeding against BDH. The same reasoning applies to the
+circumstances of Mr and Mrs Puglisi. There might be
+any number of other forensic
+reasons why a moving party (whether the FWO or another person) might choose not
+to seek relief against
+an employer/franchisee, but seek relief against a
+franchisor. Including, but not limited to, a forensic judgment about which
+is more likely to be able to satisfy orders made by the Court.
+the other hand, an employer/franchisee might seek to be joined to a proceeding,
+even if no relief is sought against them, in order
+to be heard about the
+contraventions of civil remedy provisions alleged against it for the purposes of
+s 558B, but that again is
+a forensic decision in a given case, which does not
+affect the construction and operation of s 558B. In contrast, an
+employer/franchisee
+may elect not to participate in a proceeding, even if relief
+is sought against them. The operation and engagement of the provision
+depend on the various forensic choices that might be made in any given piece of
+litigation.
+do not accept BDH’s contention that the policy and purpose behind s 557C
+cannot be intended to extend to franchisors in an
+alleged contravention of s
+558B, because franchisors are not the persons with the record keeping
+obligations. First, as we have explained
+above, the whole point of s 558B was to
+impose liability on those franchisors which had the capacity to supervise and
+performance of their franchisees in terms of their FWA obligations.
+The list of civil remedy provisions in s 558B(7) includes the
+record keeping
+obligations: see ss 558B(7)(n) and (o). There is nothing incompatible with the
+purpose of these provisions for s 557C
+to be given its express effect for the
+purpose of proving an employer/franchisee contravention as the first (but only
+element of franchisor liability under s 558B. While BDH’s
+contentions described the policy and purpose of the provisions as
+“a defaulting employer should not profit from their default”, when s
+558B is properly characterised as an
+accessorial liability provision, it is
+evidence that a
+purpose of the provisions is to impose legal
+responsibility to franchisors for the defaults of employers/franchisees, where
+the franchisor
+(paraphrasing the key element) knew or could reasonably be
+expected to have known that the contravention by the franchisee entity
+its submissions BDH invites the Court to gloss over the potentially inconsistent
+outcomes in a trial where an applicant such as
+the FWO seeks to prove primary
+contraventions against an employer/franchisee and accessorial contraventions
+against a franchisor.
+However as soon as the context and purpose of s 558B is
+understood, it is apparent that this purpose would be undermined by giving
+557C no operation in a proceeding against a franchisor. In the franchisor
+proceeding, the focus is not on the primary contravention
+but on whether the
+preconditions set by Parliament for accessorial liability have been met: a
+significant degree of influence or
+control over the franchisee’s affairs,
+and an objective basis to know the franchisee contravention might occur.
+Contrary to
+BDH’s submissions, to set up a different burden of proof for
+an applicant (who may or may not be the FWO) in respect of the
+contravention from that which applies against an employer/franchisee itself
+(possibly in the same proceeding) would not give
+effect to the role of s 558B as
+an accessorial liability provision.
+this sense, it is also incorrect to describe a franchisor as
+“blameless”: see BDH reply submissions at [4]. Parliament
+impose legal responsibility on a franchisor for a franchisee’s
+contraventions if all the statutory conditions are
+met. If “blame”
+be a relevant concept (which we doubt) and if all statutory conditions in s 558B
+are met, then a franchisor
+is liable because the franchisor has failed to
+exercise appropriate supervision and control over the franchisee’s
+leading to the civil remedy contraventions. To BDH’s contention
+that it would be open to a franchisor to seek a separate trial
+under r 9.06(b)
+Federal Court Rules 2011
+(Cth) and thus avoid the operation of the
+reverse onus, it can be accepted that an application for separate trials is a
+option available to a respondent party where an applicant is proceeding
+against more than one party. Here, we infer BDH means against
+employer/franchisee and the franchisor. It will be a matter for the Court
+whether any such application should be granted.
+Whether or not such a forensic
+decision would avoid the operation of s 557C in a separate proceeding would
+depend on the construction
+given to the phrase “in proceedings
+to a contravention by an employer
+of a civil remedy provision referred to in
+subsection (3)”. We have explained above that the phrase “relating
+requires a connection, but the authorities suggest the connection may
+arise in various ways. It is not appropriate to say more in
+these reasons about
+what is, for the moment, a hypothetical issue. Suffice to say that even if
+separate trials were ordered, there
+would remain a question whether the separate
+trial (against the franchisor) was nevertheless a “proceeding[s] relating
+contravention by an employer of a civil remedy provision referred to in
+subsection (3)”, because of the terms of s 558B(1)(a).
+THE PRIMARY JUDGE’S REASONING ABOUT THE FRANCHISOR
+ASSUMING THE BURDEN OF DISPROVING THE ALLEGATIONS AGAINST THE EMPLOYER
+primary judge found that, if s 557C is engaged in respect of the first element
+in s 558B(1)(a), its effect can be
+by the franchisor
+discharging the reverse onus imposed on the employer: see [42]-[47].
+primary judge relied upon the authorities and processes dealing with the rights
+of third parties to contest findings in a proceeding
+where their liability is
+affected by or may depend upon those findings.
+primary judge observed that basic principles of procedural fairness suggest that
+a franchisor would need to be able to contest
+the allegations about
+employer/franchisee contraventions (here, of an enterprise agreement, relying on
+s 50 of the FWA). His Honour
+referred to the reasons of Dixon CJ and Webb J in
+Commissioner of Police v
+[1958] HCA 6
+(1958) 98 CLR 383
+at 395-396. His
+Honour also drew on the third party procedures available in this
+[45] In multi-party proceedings it is elementary that respondents with the same
+or similar interests may each contest the applicant’s
+claim. A close
+analogy for present purposes is the third-party procedure, in this Court by a
+cross-claim commenced by a respondent
+against a cross-respondent by invoking the
+procedure at r 15.01 of the Rules. The liability of a third-party
+(cross-respondent) is
+derivative. A party to a cross-claim may apply for an
+order permitting a cross-respondent to defend the claim of the applicant, or
+other cross-claim, either alone or with another party: r 15.13. It is common for
+orders to be made in cross-claims to the effect
+that a cross-respondent has the
+right to cross-examine the applicant’s witnesses, to call evidence and to
+make submissions
+for the purpose of defending the primary claim. The whole point
+of the procedure is to bind the third-party to the outcome of the
+claim and to ensure that the third-party has full participation rights:
+Barclays Bank v Tom
+[1923] 1 KB 221
+at 223-224, Scrutton LJ.
+[46] The third-party is entitled to “full procedural fairness” in
+defence of the primary claim:
+Insurance Exchange v Dooley
+(2000) 50 NSWLR
+[2000] NSWCA 159
+, Handley JA.
+we understand it, the primary judge’s reasoning is that s 557C should not
+be construed as depriving the franchisor of a forensic
+choice to attempt to
+disprove the employer/franchisee contravention, irrespective of the position
+adopted by the employer/franchisee,
+and irrespective of whether the
+employer/franchisee is a party, or an active party, to the proceeding. His
+Honour then explains further,
+by reference to the Court’s powers in s 23
+(Cth), being a “broad power to make orders which are just and
+efficient in the administration of justice”, and citing
+Ilumba Pty Ltd
+[2019] FCA 2095
+(Derrington J).
+take the alleged contraventions which we have set out at [17] above as an
+example. To recall, the FWO alleges underpayments to
+workers who were 21 years
+and over or who were apprentices of any age, contending these workers were
+entitled to be paid a total
+of $901,521.62 by Make Dough, but were not paid the
+applicable rates under the enterprise agreement and were only paid a total of
+$817,564.93, resulting in a collective underpayment of $83,956.74 by Make Dough
+(SOC [83]). On the primary judge’s reasoning,
+one forensic choice open to
+BDH as franchisor in defending the case against it under s 558B would be, in
+substance or effect, to
+assume the burden cast by s 557C on Make Dough and seek
+to prove that this group of workers were not underpaid by the amount alleged
+(or, on one forensic choice) by any amount.
+parties did not address this aspect of his Honour’s reasoning on the
+appeal, focussing instead on the anterior question
+engaged at all in allegations made against a franchisor. However, in other
+submissions BDH certainly
+did emphasise what it described as the potential
+denial of procedural fairness to franchisors if s 557C were engaged. His
+analysis seeks to address that very issue. However care must be
+taken in invoking the observations in
+in relation to s 558B,
+because on the central aspect of this contravention – the conduct and
+position of the franchisor –
+a franchisor of course would be heard fully.
+Indeed, BDH’s defence in this proceeding illustrates the kinds of
+contentions
+that might be made.
+the parties did not engage with this aspect of the primary judge’s
+reasoning, we do not consider it is appropriate to
+express a final opinion on
+whether and if so how a franchisor might seek to disprove allegations made
+against an employee/franchisee,
+adopting the burden imposed by s 557C(1).
+Suffice to say that we respectfully agree with the primary judge that s 557C
+be construed as
+this course, and that s 23 of the
+FCA Act may well be a source of power by which the Court can make orders
+permitting a franchisor
+to assume this burden, if in its forensic decision
+making it chooses to apply to do so.
+the realities of alleged underpayments and FWA contraventions of the kind under
+consideration in this proceeding, one might wonder
+how often that forensic
+choice would be made, rather than concentrating on the aspects of s 558B which
+are about franchisor liability.
+Especially given there may be inaccurate,
+incomplete or perhaps even fraudulent records that have been kept by an
+employer, being
+the premise for s 557C to operate. Nevertheless, circumstances
+in individual proceedings vary enormously and it is not for the Court
+speculate about when such a forensic decision might be made. To go further
+would, in our respectful opinion, be to enter into
+a realm of speculation that
+is unnecessary to determine the appeal.
+THE SEPARATE QUESTION AND ITS ANSWER
+questions often pose challenges not always apparent in the initial enthusiasm of
+the parties and the court to try to save
+time and resources by separating out an
+issue. There is no doubt that the separate question process can be of great
+utility and maintain
+a cost-effective approach to litigation: see
+Permanent Trustee Co Ltd
+[1999] HCA 9
+198 CLR 334
+there are also risks in fragmentation. In
+Tepko Pty Ltd v Water Board
+[2001] HCA 19
+, Kirby and Callinan JJ (Gaudron J
+agreeing at [52], at least in relation to tort claims) said:
+[168] The appeal should be allowed. However, we should not leave this case
+without making four comments. Both Mason P and Fitzgerald
+JA were critical of
+the course of limiting the issues to be tried that the primary judge adopted. In
+Perre v Apand Pty Ltd
+[1999] HCA 36
+198 CLR 180]
+attention was drawn to
+difficulties that can be caused when that course is adopted. In light of the
+experience in this case, what
+was there said should be restated with emphasis.
+The attractions of trials of issues rather than of cases in their totality, are
+often more chimerical than real. Common experience demonstrates that savings in
+time and expense are often illusory, particularly
+when the parties have, as
+here, had the necessity of making full preparation and the factual matters
+relevant to one issue are relevant
+to others, and they all overlap.
+[170] Thirdly, there is an additional potential for further appeals to which the
+course of the trial on separate issues may give
+rise. Indeed, that could occur
+here were this appeal to be allowed and a retrial had in which the remaining
+issues of causation and
+damages were decided. Single-issue trials should, in our
+opinion, only be embarked upon when their utility, economy, and fairness
+parties are beyond question.
+[Citations removed]
+the FWO submitted, the separate question was framed by reference to particular
+allegations in the statement of claim, which focused
+on what was alleged against
+BDH, but also what was alleged against Make Dough in relation to contraventions
+by it of various civil
+remedy provisions, including record keeping. However the
+question then asked:
+Fair Work Act 2009
+(Cth) apply as against
+the fourth respondent, and if so, how?”
+we have explained, since
+is an accessorial liability provision, of the
+same character as
+, the contravention of the principal actor (or
+contravener) must be proven by the moving party. With the benefit of hindsight,
+question might have been better framed as:
+Fair Work Act 2009
+(Cth) apply in a
+proceeding against the fourth respondent for contravention of
+, and if so,
+Nevertheless,
+as the question was framed, and read in the context of his Honour’s
+reasons, the answer given by the primary judge
+in the orders is correct. His
+Honour was correct in finding that
+“applies to establish the
+contravention referred to at s 588B(1)(a)”.
+to the second part of the answer given by the primary judge, as we have stated
+above, since the parties did not address the Court
+on this issue specifically,
+we do not consider it is necessary for the Court on appeal to express any
+concluded views. These matters
+should await trial, and a full forensic context.
+rejection of the contentions advanced by BDH about the operation of
+proceeding where allegations under
+are made against a franchisor means
+that the appeal must be dismissed.
+orders as to costs were sought, or would be appropriate, given the terms of
+of the FWA.
+I certify that the preceding one hundred and
+thirty-two (132) numbered paragraphs are a true copy of the Reasons for Judgment
+Honourable Chief Justice Mortimer and Justices Hatcher and Dowling.
+Dated: 16 October 2025
+TAD 1 of 2025
+Respondents
+Fourth Respondent:
+LISA KAY PUGLISI
+RTF format (693 KB)
+Signed PDF/A format

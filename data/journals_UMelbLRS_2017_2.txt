@@ -1,0 +1,1663 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/UMelbLRS/2017/2.html
+Scraped: 2025-11-17 15:41:33
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Levy, I --- "Simplifying Legal Decisions: Factor Overload in Civil Procedure Rule" [2017] UMelbLRS 2
+SIMPLIFYING LEGAL DECISIONS: FACTOR OVERLOAD IN CIVIL
+PROCEDURE RULES
+INBAR LEV Y
+This contribution examines the need to simplify legal decisions. More
+specifically, this article tackles a situation I refer to as
+Factor Overload
+Legal rules are sometimes set in
+the form of ‘Laundry Lists’; that is, long sets of stipulated
+considerations that the
+judge must weigh. However, judges may encounter
+difficulty when trying to implement these checklist clauses. This difficulty is
+to our human cognitive limitations. Behavioural studies demonstrate that
+people struggle with the task of integrating a large number
+of factors. In order
+to test this phenomenon in the legal context, the article presents an
+investigation based on theoretical discussion,
+doctrinal analysis and the
+findings of an original experiment — a preliminary vignette study
+performed using the factual framework
+of a real case in which judges had to
+implement a Laundry List rule. The study uses
+r 3.9 in England and
+Wales to demonstrate the unproductive complexity of checklist rules by comparing
+decisions that have been made
+when taking into account nine factors, three
+factors and no factors at all.
+CONT E NT S
+ntroduction 728
+he Importance of Simple Procedural Rules 731
+rocedural Rules Are Addressed to Judges 731
+rocedure and Substance 733
+ules v Standards 734
+ervasive Application of Procedural Rules 738
+octrinal Analysis:
+Rule 3.9 738
+mpirical Study 743
+ackground 743
+LLB (Hons), LLM (Hons) (Hebrew University of
+Jerusalem), DPhil (Oxon); Lecturer, Melbourne Law School. I would like to thank
+Zuckerman, Andrew Higgins, Hazel Genn, Issi Rosen-Zvi, Raymond Duch, Eyal
+Zamir, Nigel Balmer, Avishalom Tor and Maya Bar-Hillel
+for their very helpful
+comments on earlier drafts of this project. I am also grateful to the
+participants of the Oxford Procedural
+Justice Discussion Group, the members of
+the Harvard Law School Visiting Scholars Program, and the participants of the
+Annual Conference on Empirical Legal Studies, for their
+comments on this project.
+BBBEExperiment Description 746
+iscussion 751
+onclusion 757
+I INTRODUCTION
+Procedural rules are sometimes set in the form of ‘Laundry
+Lists’; that is, long sets of stipulated considerations that
+a judge must
+weigh. This article will argue that judges may encounter difficulty when trying
+to implement these checklist exercises.
+This difficulty is directly related to a
+psychological aspect of the human mind. Human behaviour experiments show that
+too much information,
+too much choice or too many decision factors might do more
+harm than good. Product-marketing experiments demonstrate that limited
+facilitate the consumer’s purchase decisions: studies showed that people
+were more likely to purchase jam or chocolate
+when offered a limited array of
+choices; for example, when they were presented with a display of only 6 flavours
+of jam rather than
+24. People were also more willing to undertake optional class
+essay assignments with a limited range of choice and were more likely
+an essay for extra credit when they were provided with a list of only 6
+potential essay topics, rather than 30.
+Clearly, there is a difference between choosing a jam or essay topic and
+integrating relevant considerations in legal decision-making.
+But, it has also
+been shown that even people who are established experts in their field are only
+the relevant considerations to reach a decision, and are
+quite poor at then
+integrating
+the relevant considerations; that is,
+giving the most appropriate weight to each factor in the decision-making
+heena S Iyengar and Mark R Lepper, ‘When Choice Is Demotivating: Can
+One Desire Too Much of a Good Thing?’ (2000) 79
+Journal of Personality
+and Social Psychology
+995, 997–9. In another study, subjects were
+asked to make a decision ‘concern[ing] the selection of a candi- date for
+a job opening of an associate professor’ where the complexity of the
+problem ‘was manipulated in terms of the number
+of alternatives and
+attributes’: Danielle Timmermans, ‘The Impact of Task Complexity on
+Information Use in Multi-Attribute
+Decision Making’ (1993) 6
+Behavioral Decision Making
+obyn M Dawes, ‘The Robust Beauty of Improper Linear Models in Decision
+Making’ (1979) 34
+American Psychologist
+571, 573. See also Donald A
+Redelmeier and Eldar Shafir, ‘Medical Decision Making in Situations That
+Offer Multiple Alternatives’
+Journal of the American Medical
+Association
+According to human behaviour theories a judge will recognise the relevant
+factors in the Laundry List but having done so will fail
+to give the optimal
+weight to each factor in the integration process. The more considerations, the
+more confusion caused. This problem
+exists in the instance of long checklist
+rules in civil procedure, where the considerations in a rule might be relevant
+but are simply
+too numerous for a non-rational decision maker to weigh and
+integrate. I will use the term ‘Factor Overload’ to describe
+situations where procedural rules include too many considerations, which leads
+to cognitive overload.
+More generally, this article deals with the question of rule complexity and
+calls for the simplification of procedural rules. Indeed,
+sometimes the
+complexity in the rules is unavoidable since certain life situations require a
+more complex legal treatment. However,
+in other situations there are proce-
+dural rules that are unnecessarily complex. In those situations, the complexity
+leads to an
+unhelpful exercise that does not contribute to the goal of reaching
+the best result in a certain legal case, nor does it contribute
+to reducing the
+administrative costs of the legal system as a whole. When the complexity is
+counterproductive, there are ways to
+simplify the rule or the decision-making
+process in order to reach a better and a more efficient result.
+Not only that, it could be argued that simple procedure should be promot- ed,
+even at the price of having less sophisticated rules,
+since judges may be
+limited in implementing complex rules due to their human cognitive architec-
+ture, as will be shown in the case
+of Laundry List rules.
+The article will examine cases from England and Wales in which r 3.9 of the
+Civil Procedure Rules 1998
+(UK) SI 1998/3132 (‘
+was implemented.
+r 3.9 is a good example of a potential situation of
+information overload since before it was amended it included a non-exhaustive
+list of nine different factors that the judge had to weigh in order to reach a
+decision. The analysis of the amendment of r 3.9 is
+important since the rule is
+an example of a more general phenomenon of legal rules that include many
+factors. To illustrate the general
+phenomenon, an experiment I performed will be
+presented in order to demonstrate the cognitive outcomes of Factor Overload. The
+will simulate a case that utilises r 3.9 and will then compare
+decisions made under three different possible forms of the rule structure:
+list that consists of nine factors, a list that consists of a limited number of
+factors (three), and a form with no factors at
+all, namely full judicial
+discretion.
+urther elaboration on this argument can be found in the following paper:
+Inbar Levy, ‘Lightening the Overload of CPR Rule 3.9’
+Civil Justice Quarterly
+Since the phenomenon described in this article is general in terms of hu- man
+behaviour, the assumption will be that the analysis
+is relevant for other rules
+that are structured in a similar form, including rules that belong to other
+legal systems. As observed
+by Cass Sunstein, the ‘open-ended multifactor
+test’ is a common phenomenon in the American legal system.
+There are other instances of legal rules that include many factors, while
+the effects of cognitive overload are derived from general
+insights about the
+human mind. Rule 3.9 is therefore used here merely as one example out of a whole
+range of rules in order to demonstrate
+a wide psychological phenomenon. In other
+words, my argument is not limited to a specific rule or a certain legal system;
+it is universal.
+In his book
+Simple Rules for a Complex World
+, Richard Epstein observes
+that the world has become more complex, and that there has been a vast
+‘increase in the frequency
+and complexity of the legal rules that govern
+Epstein presents the crucial but often overlooked
+point that the proper response to a more complex world ‘should be an ever
+greater reliance on simple legal rules’.
+This idea could not
+be emphasised enough.
+Interestingly, Epstein specifically mentions rules that are structured in the
+form of a Laundry List while discussing the nature of
+legal complexity. He
+explains that the simplest rules by the test of
+uncertainty
+(one of the
+variables of complexity) are those in which the answer to a single question of
+fact determines the legal outcome.
+On the other side of the spectrum
+are ‘those rules that are ever so much more common today: in order to
+decide whether a given
+product has a defective design, it is necessary to review
+a list of 6, 10, or 15 factors, all of which are relevant to the decision
+none of which is decisive’.
+Epstein criticises the form of
+inquiry that results from these multi- factor rules and calls it
+‘massive’ and ‘costly’.
+This article will
+confirm this insight and will present an analysis in support of the thesis that
+legal policy makers should avoid
+Laundry List rules when possible, as well as
+present a preliminary experiment that demonstrates the effect of these types of
+It should be mentioned that one of the reasons that complexity occurs is the
+commitment to treating like cases alike, which
+increasingly
+ass R Sunstein, ‘Problems with Rules’ (1995) 83
+California Law
+w 953, 998.
+ichard A Epstein,
+Simple Rules for a Complex World
+(Harvard University
+Press, 1995) 21.
+nuanced rules or to a growing body of precedent or both. And indeed, Epstein
+does not argue that simplicity is the most important
+thing. As explained by
+Epstein, the objective of a sound system of legal rules is to maximise social
+utility. In establishing ideal
+legal rules there is a trade-off between social
+incentives and administrative costs. Administrative costs include all costs
+to run the legal system, and the more complicated the legal rules, the
+greater the administrative costs are likely to be. The administrative
+should be balanced against the beneficial effects of the rule on human action.
+For that reason, simplicity cannot be the sole
+goal — ‘[s]imple
+legal rules should ... [be] a presumption that can be overcome for [a] good
+Lastly, it is interesting that the need to simplify procedural rules has
+arisen recently in relation to the issue of litigants
+in person. Recent changes
+to legal aid and litigation funding in England and Wales have resulted in many
+people no longer being in
+a position to secure legal representation.
+Self-representation is therefore likely to increase over time and to present
+significant
+challenges to the litigants in person and to the courts. One
+of the proposals made to enable litigants in person to litigate
+effectively con-
+cerned the simplification of procedure and litigation.
+This recent
+debate demonstrates the importance of the simplicity discussion in relation to
+the law and to procedural rules in particular.
+Even though complexity is some-
+times inevitable, simplifying Laundry List rules may be a step towards the
+desired simplicity.
+II THE IMPORTA NCE OF SIMPLE PRO C E DU R A L RULES
+Procedural Rules Are Addressed to Judges
+Historically, rules of procedure were considered to be rules by which courts
+or other adjudicatory bodies resolved legal disputes.
+Procedural rules were
+distinguished from substantive rules, which directed how citizens were supposed
+to conduct themselves outside
+of the court room.
+This traditional
+distinction places the emphasis of procedure on helping the judges to reach
+decisions while the substantive law is
+targeted to influence the behaviour of
+all citizens. According to this classification, the procedural law and the
+Litigants in Person: What Can Courts Do?’ (Background Papers,
+University College London Judicial Institute and the University
+London Centre for Access to Justice Special Event, 18 June 2014).
+ay Tidmarsh, ‘Procedure, Substance, and
+Vanderbilt Law Review
+tive law address different recipients. Therefore, when phrasing procedural
+rules, one should put the emphasis on setting rules that
+will ‘talk’
+to judges and help them make the best possible decisions. Psychological
+scholarship could provide useful
+information on how to phrase rules of procedure
+that will enable judges to best perform their judicial roles.
+Today, it is clear that procedural rules are not only addressed to judges but
+to the litigants as well. As explained by Crifò:
+Of the various functions that the rules of court as formalities addressed to
+liti- gants and litigants’ behaviour could have,
+the most important in
+this context is the standardizing function, or ‘channelling’
+function in Fuller’s words.
+The rules provide a channel that facilitates
+the identification, investigation and reso- lution of a dispute or of law-given
+Even after the ‘recipients’ classification of procedural law for
+judges and substantive law for everyone had faded, procedural
+law was considered
+to be a tool to enforce the substantive law and was described as ‘the
+handmaid of justice’.
+The purpose of procedure as perceived
+today is to enforce substan- tive rights ‘with as little friction as
+possible’ and
+to ensure that the rights of individuals are respected in
+fair process.
+This purpose is represented in
+that explicitly states: ‘These Rules are a new procedural code with the
+overriding objective of enabling the court
+to deal with cases justly and at
+appropriate cost.’ In this respect, procedural rules that are set in a way
+that does not allow
+their implementation by judges undermine the very goal
+sing psychological research in order to improve the communication between
+judges and the procedural rules under which they operate
+should not be an alien
+idea for the judiciary, since psychology has long been a natural part of the
+judicial work: Jerome Frank,
+Courts on Trial: Myth and Reality in American
+(Princeton University Press, 1950) 157.
+arla Crifò, ‘Enforcement of Process Requirements: A Search for
+Solid Grounds’
+Oxford Journal of Legal Studies
+(citations omitted). Crifò’s explanation is even more prominent
+considering the fact that most civil cases end
+without trial (and without the
+involvement of a judge). For statistics relating to civil cases, see generally
+Ministry of Justice,
+‘Civil Justice Statistics Quarterly’,
+(Web Page, 1 September 2016)
+government/collections/civil-justice-statistics-quarterly>, archived at
+<https://perma.cc/ D9FL-XXMR>.
+idmarsh (n 12) 882, citing
+Re Coles and Ravenshear
+[1906] UKLawRpKQB 137
+[1907] 1 KB 1
+See also Thomas O Main, ‘The Procedural Foundation of Substantive
+Washington University Law Review
+, 810, citing
+Sir John Salmond and JL Parker,
+Jurisprudence
+ed, 1937) 648 § 172: ‘Substantive law is
+concerned with the ends which the administration of justice seeks; procedural
+law deals with the means and instruments by which those ends are to be
+idmarsh (n 12) 883.
+procedure: to be a helpful tool in enforcing the substantive law and to
+provide a mechanism for redress.
+Procedure and Substance
+Historically, rules of civil procedure were treated as a pure mechanism to
+facilitate the application of substantive rules; procedural
+considered to be ‘secondary, ancillary and devoid of any interest beyond
+the merely instrumental’.
+However, although ‘[r]ules of
+procedure represent the
+of evaluating entitlements and valuing
+the claims that implicate them’,
+in fact procedure
+‘changes entitlements and the values of the claims’,
+and directly ‘affects the nature and structure’ of the
+substantive law.
+In reality, procedural rules have a significant
+impact on the result of the litigation.
+Moreover, since procedure generally imposes costs and affects the proba-
+bility or amount of recovery,
+a rule of procedure used in
+adjudication affects the value of the claim on which it operates and ‘also
+exercises a prospective
+effect on the expected values of future
+Even a typical procedural requirement that
+applications be submitted on a certain type of paper could change the substance
+parties’ entitlements if, for example, this type of paper were too
+costly for normal litigants to obtain.
+Not only that, there are legal scholars who argue that the distinction be-
+tween procedural law and substantive law is context dependant.
+These scholars emphasise that procedures can interfere with important
+human rights. Therefore, they conclude that ‘[w]here procedure
+important as substance, procedural change requires the same degree of political
+accounta- bility and economic and social foresight
+as reform of an equivalent
+Crifò (n 14) 327.
+idmarsh (n 12) 884 (emphasis added).
+s explained by Crifò (n 14) 328, ‘[t]he violation of mere
+procedural rules can effectively put substantive rights out
+of the reach of one
+or the other litigant’.
+or example, a system that permits broad discovery might change the amount of
+recovery, as it ‘might lead to the uncovering of
+information that allows a
+litigant to pursue a new theory of recovery’: Tidmarsh (n 12) 889.
+Ibid 891–2.
+bid 904; see especially at 904 n 112. See also Adrian Zuckerman,
+on Civil Procedure: Principles of Practice
+ed, 2013) 53–4 [2.7]–[2.9].
+substantive law’.
+Considering the possible negative
+effects of complex procedural rules on substantive rights, it is necessary to
+aspire to simplify
+the rules as much as possible.
+Other legal scholars take a more extreme approach and argue that the classic
+distinction between substantive law and procedural law
+should be abandoned
+Either way, under any of the current common percep- tions
+of the relationship between substantive law and procedural law, there is
+doubt that civil procedure rules are inherently and intrinsically significant.
+It is therefore important to pay attention to the
+way rules of procedure are
+designed and applied. For example, Crifò objects to the idea that judges
+should be given almost
+unlimited discretion to decide when to apply rules of
+procedure (while they have very little leeway to diverge from substantive
+and suggests ‘a formalist approach to civil procedure ... whereby
+the rules [of procedure] bind’ the judge in the same
+manner as any other
+state regulation.
+This criticism is directly related to our debate
+discretion,
+which may be counterproductive in the context of procedure, as will
+be explained in the following discussion.
+Rules v Standards
+In the field of procedure, the common perception is that certainty and
+predictability are even more important than in substantive
+law, since proce-
+dural rules ought to bring the parties to the realisation of their substantive
+rights. This role of procedure has
+led to the common view that procedure should
+usually be promulgated in the form of rules, while standards in procedure should
+used only in special cases.
+According to the definition adopted by Kaplow, the ‘distinction between
+rules and standards is the extent to which efforts to
+give content to the law
+are undertaken before or after’ the action occurs that is the subject of
+the legal case.
+That is to say, rules are
+example prohibiting driving in
+S Dockray, ‘The Inherent Jurisdiction to Regulate Civil
+Proceedings’
+Law Quarterly Review
+or a critique of this approach, see Jennifer S Hendricks, ‘In Defense
+of the Substance– Procedure Dichotomy’
+University Law Review
+Crifò (n 14) 326.
+ssachar Rosen-Zvi,
+The Civil Process
+(Nevo Publishing, 2015) 59.
+ouis Kaplow, ‘Rules versus Standards: An Economic Analysis’
+Duke Law Journal
+excess of 100 km/h on a highway), and standards are
+example prohibiting driving at excessive speed on highways).
+Julia Black explains the distinction between rules and standards as a repre-
+sentation of competing models of bureaucratic rationality.
+According to Black, while rules are ‘associated with
+“formalism” ... and rigidity on the one hand, ... [and] certainty
+and uniformity on the other’, standards allow flexibility in their
+application and greater discretion.
+By allowing individual- ised
+decisions, standards also entail uncertainty and risk of
+partiality.
+There is an intuitive connection between the ‘Factor Overload’
+debate and the ‘Rules v Standards’ debate,
+since the structure of
+Laundry List legal commands is presumably more similar to the usual structure of
+standards than to the usual
+structure of rules: intuitively, rules are perceived
+to be more simple and straightforward than standards. However, according to
+Kaplow, a rule could be structured as a long list of factors as well since there
+is no necessary connection between the number of
+factors and the classification
+of the legal command as a ‘rule’ or a ‘standard’.
+That is to say, the question of ‘Rules v Standards’ is
+separate from the question of the complexity of the legal command.
+A rule could
+be structured in a way that includes an extensive number of factors, and so
+could a standard.
+It is also important to stress that a short rule is not necessarily a simple
+rule. Consider Epstein’s following example: ‘A
+legal rule that
+allows an employer to fire a worker only for “just cause” is not a
+simple rule, because ... the list
+of relevant considerations that helps
+determine which firings are for cause and which are not is almost
+The distinction between the complexity of the law
+and whether it is
+has practi- cal
+importance.
+The choice between rules and standards depends on the environment in which
+the law is applied. Rules are considered to be ‘more
+costly to promul-
+Ibid 559–60.
+ulia Black,
+Rules and Regulators
+(Oxford University Press, 1997)
+Kaplow (n 30) 568.
+pstein (n 5) 28.
+aplow (n 30) 566. ‘[A] standard (implicitly complex) that one dispose
+of toxic substances “appropriately” may be
+preferable to a rule that
+simply prohibits the dumping of petroleum byproducts into bodies of water. But,
+at least for substances
+frequently used in common settings — such as dry
+cleaning and automotive fluids — a complex rule detailing the appro-
+priate manner of disposal for different substances may be even better’: at
+gate than standards because rules involve advance determinations of the
+law’s content’.
+Respectively, standards are considered
+to be more costly to predict or apply since they ‘require later
+determinations of the
+law’s content’.
+preferable in settings with common characteristics and frequent behaviour,
+because, as explained by Kaplow, it is more efficient.
+The reason a rule is more
+efficient in an environment with common characteristics and frequent behaviour
+is that if there were to
+be many enforcement actions, it would cost less to
+resolve the issue on a wholesale basis at the rule promulgation stage than to
+repeatedly give content to a standard on a retail basis. In contrast, a standard
+is preferable in less frequent and less predictable
+environments.
+This is because ‘[d]esigning a rule that accounts for every relevant
+[situation is] wasteful, as most [situations] would never
+The ‘Rules v Standards’ debate relates to a more general debate
+formation. Rules are
+generalisa- tions: that is, ‘simplifications of complex
+It is impossible to make rules that address the
+contingencies of all specific cases.
+The process of making rules
+involves several dimensions other than the ‘Rules v Standards’
+distinction, including what
+Black identifies as the ‘linguistic structure
+of the rule’.
+The rule’s linguistic structure
+‘has three aspects: precision or vague- ness, simplicity or complexity,
+and clarity or
+Precision or vagueness ‘refers to the degree to which the operative
+facts of the rule are specified’;
+for example, the meaning of
+a word could be ‘vague in that it is evaluative
+(“reasonable”, “fair”,
+“suitable”)’.
+The simplicity of a rule’s
+structure ‘refers to the number of factual situations or assessments
+involved in a determination
+of the rule’s applicability’ and
+‘the clarity of a rule ... refers to the extent to which the rule is
+by those applying the rule’.
+The issue of Laundry
+List rules discussed in this article is located mainly within the linguistic
+structure of rules debate. My argument
+Ibid 562–3.
+lack (n 32) 7.
+bid (citations omitted).
+example for a case in which greater precision in a rule may lead to
+complexity and, as a result, to uncertainty in the application
+Even though the common perception with regards to procedure is that procedure
+should, generally, be promulgated in the form of rules
+rather than
+it is possible to adopt a more nuanced approach. The
+differentia- tion between rules that apply to frequent situations and standards
+that are desirable for rare situations could be made in the procedural context
+as well. For example, in the context of
+r 3.9, a rule may be
+preferable assuming there are many delays and a problem of noncompliance. In its
+previous form, r 3.9 was a standard,
+not a rule, because judges did not treat
+the list of factors as a checklist; they were required to consider ‘all
+the circumstances’
+and, more generally, r 3.9 gave judges wide
+discretion.
+Lastly, while it is said that ‘detailed rules lead to more predictable
+and more just outcomes’ than broad principles,
+this assumption has hardly
+been empirically examined.
+In an experiment conducted by Fred
+Ellinghaus and Ted Wright, law students and non-law students were given the
+facts of contract disputes
+and a statement of the relevant law, either in the
+form of a broad principle or a detailed rule, and were asked to decide the
+Predictability was measured according to the level of
+agreement between participants.
+It was found that decisions
+applying a detailed ruled are no more predictable than decisions applying broad
+principles — on
+the contrary, ‘decisions applying broad principles
+were ... more predictable in easier cases’ used in the
+According to the argument presented in this article, rules of procedure
+should usually be formed as simple rules rather than complex
+standards (let
+alone principles), due to the unique purpose of procedure. While Ellinghaus and
+Wright assume rules are detailed,
+as previously explained the
+or explanation and critique, see, eg, Duncan Kennedy, ‘Form and
+Substance in Private Law Adjudication’
+Harvard Law Review
+, 1697–1701.
+red Ellinghaus and Ted Wright, ‘The Common Law of Contracts: Are Broad
+Principles Better than Detailed Ones? An Empirical
+Investigation’
+(Legal Studies Research Paper No 122, Melbourne Law School) 3.
+Ibid 3, 14–15, 18, 28.
+bid 28. Ellinghaus and Wright also found that broad principles are more
+likely to lead to just outcomes (based on the researchers’
+assessment of
+how accurately participants applied the relevant statement of law), are more
+efficient (based on the time taken to
+arrive a decision) and are more accessible
+(less technical): at 21–2, 26–8.
+detail of the legal command and whether it is a rule, a standard or a
+principle (principles are even less constraining than standards)
+separate characteristics. However, the results of their study go along with the
+argument presented here, as these results
+demonstrate that a simple principle is
+prefera- ble to a complex rule. Ellinghaus and Wright’s data show that
+princi- ples make it easier to agree on the outcome, while detailed
+rules have a tendency to complicate even easier cases’.
+To conclude, Laundry List rules such as r 3.9 unfold two problems in the
+context of procedure. Firstly, their complexity makes the
+application of these
+rules unpredictable and unjust. Secondly, the fact that they are standards and
+not rules creates uncertainty
+and undermines important goals of procedure.
+Pervasive Application of Procedural Rules
+Another important point in relation to civil procedure is that procedural
+rules control and affect the majority of civil disputes.
+This is significant
+because complex rules are considered to be more undesirable when they affect a
+wide range of social activities.
+According to Epstein,
+‘[l]egal complexity is not merely a simple measure of the inherent or
+formal properties of legal rules.
+It is also a function of how deeply [rules]
+cut into the fabric of ordinary life.’
+For example, while the
+legal rules that regulate homicide are directed to the destructive activities of
+a very small portion of the
+population, ‘the rules regulating the use of
+property or the hiring and firing of workers ... routinely intrude into the
+lives of ordinary ... people’.
+Epstein’s definition, it is especially vital to regulate simple procedural
+rules and to avoid Laundry List civil procedure
+rules when possible, as
+procedural rules control many different civil disputes.
+III DOC TR I NA L ANA LYSI S :
+Prior to April 2013,
+r 3.9 ‘listed nine factors that the
+court must to take into consideration [when adjudicating] an application for
+relief from
+sanc- tions’.
+Judges struggled to apply r
+3.9, as it required scrutinising all the
+bid 21 (citations omitted).
+pstein (n 5) 28–9.
+bid. Epstein gives the rules that regulate homicide as an example for complex
+rules that are unavoidable and not necessarily undesirable:
+Levy (n 3) 139.
+factors on the list and ‘demanded examination of all the circumstances
+of a particular case’.
+Therefore, r 3.9 ‘did not offer
+sufficient protection against the problem of delays and noncompliance with
+procedural requirements
+in the civil justice system’.
+Under the old r 3.9 the judge was obligated to consider ‘all the
+circum- stances’ in order to decide whether to grant
+‘relief from
+any sanction imposed for a failure to comply with any rule, practice direction
+or court order’, including
+the factors explicitly mentioned in r
+he interests of the administration of justice;
+hether the application for relief has been made promptly;
+hether the failure to comply was intentional;
+hether there is a good explanation for the failure;
+he extent to which the party in default has complied with other rules,
+practice directions, court orders and any relevant pre-action
+whether the failure to comply was caused by the party or his legal
+representa- tive;
+hether the trial date or the likely trial date can still be met if relief is
+he effect which the failure to comply had on each party; and
+he effect which the granting of relief would have on each party.
+In response to Lord Justice Jackson’s
+Review of Civil Litigation
+, the Civil Procedure Rules Committee approved an amendment to r
+n an application for relief from any sanction imposed for a failure to comply
+with any rule, practice direction or court order, the
+court will consider all
+the circumstances of the case, so as to enable it to deal justly with the
+application, including the need
+or litigation to be conducted efficiently and at proportionate cost; and
+o enforce compliance with rules, practice directions and
+bid. See also Rupert Jackson,
+Review of Civil Litigation Costs
+Report, December 2009) 386–7 [2.1], 397 [6.5].
+ivil Procedure Rule Committee, Ministry of Justice, ‘Amendment of CPR
+3.9’ (CPR Paper No 11(23), 8 July 2011) 2. The amendment
+was explored in
+greater detail in Levy (n 3).
+I will begin by discussing a few cases in which the court implemented
+r 3.9 and will then move on to describe my experiment. In regard to the old
+r 3.9, which required the court to consider all of the
+circumstances including
+nine factors, the court adopted the ‘stand back’ approach, whereby
+the application of r 3.9 is
+not performed using a ‘checklist’
+exercise but rather by an estimation of the weight of all the factors overall.
+case, Mance LJ said: ‘Indeed, at the end of the day,
+the right approach is to stand back and assess the significance and weight
+all relevant circumstances overall, rather than to engage in some form of
+“head-counting” of circum- stances.’
+3.9 gave judges expansive discretion, as explained by Zuckerman: ‘the
+longer the list of considerations that must
+be taken into account, the less each
+of them is likely to count and the more open ended the court’s freedom of
+choice is likely
+Just before the new r 3.9 came into force, the Court of Appeal articulated
+its strong approach towards changing the culture of delays
+and noncompli- ance
+by noting that the amended r 3.9 includes fewer factors than its prede-
+case, Jackson LJ stated that after the
+new rule came into force ‘litigants who substantially disregard court
+orders or the requirements
+would] receive significantly
+less’ tolerance than before.
+Shortly after the new rule became effective (in April 2013) the Court of
+Appeal gave another decision, in the
+case, in which it gave
+guidance about the correct approach towards the revised version of
+In the context of the Jackson reforms and the general
+requirement that courts adopt a more robust approach to granting relief to
+who default on court rules, practice directions and court orders, the
+Court of Appeal ruled that relief from sanctions would not
+be granted where
+deadlines were over- looked, so solicitors should not take on so much work that
+they were unable to meet them.
+The Court of Appeal in the
+case acknowledged that the new
+ver- sion of
+r 3.9, which includes ‘the need (i) for litigation
+to be conducted efficiently and at proportionate cost and (ii) to enforce
+compliance with rules,
+ansom v E Rex Makin
+[2003] EWCA Civ 1801
+, [20]. See also
+[2013] 2 Costs LO 364, 369 [18].
+Zuckerman on Civil Procedure
+(n 25) 576.
+red Perry (Holdings) Ltd v Brands Plaza Trading Ltd
+[2012] EWCA Civ 224
+[2012] 6 Costs LR
+, 1021 [49] (‘
+Ibid 1022 [50].
+Mitchell v News Group Newspapers Ltd
+[2013] EWCA Civ 1537
+[2013] 6 Costs LR
+Ibid 1023 [41], 1025–6 [46].
+practice directions and court orders, ... reflect[s] a deliberate shift of
+empha- sis’.
+The Court determined that the new
+3.9 considerations ‘should ... be regarded as of paramount importance and
+be given great weight’ and that it was ‘significant
+that they [were]
+the only considerations which [were] singled out for specific mention in the
+The Court of Appeal also recognised the requirement to consider ‘all
+the circumstances of the case, so as to enable it to deal
+justly with the
+application’ that is mentioned in the new
+It stressed that the two considera- tions specifically mentioned in the
+r 3.9 should be given more weight than the other circumstances:
+‘The reference to “all the circumstances of the case”
+3.9 might suggest that a broad approach should be adopted ... But ...
+the other circumstances should be given less weight than the
+two considerations
+which are specifically mentioned.’
+But is the change of approach in the
+case a result of the new
+rule? Is the rule indeed clearer now that it does not include nine factors?
+Regretta- bly, the answer is
+no. In itself, the new rule does not add much to
+the current rules of procedure.
+The interpretation of r 3.9 in the
+case seems to be a result of a change in the Court of
+Appeal’s approach at the time, one that possessed the potential to lead
+a change in the general judicial culture towards noncompliance. Furthermore, in
+case the Court of Appeal mentioned that the considerations
+listed in the old rule could still be relevant but that now the primary
+consideration is enforcement.
+This means the Court of Appeal
+defined a dominant consideration and in that way avoided the complex
+multi-factor calculation that
+existed before. Singling out enforcement as the
+prominent consideration could have been accomplished in the wording of the rule
+but because the rule does not say that, it was left for the Court of
+Appeal to set the tone of the new rule. Overall, the Court’s
+interpretation in the
+case was desirable, as enforcing
+compliance was the purpose of the amendment to r 3.9 to begin with.
+However, the guidance that was given by the Court of Appeal in the
+case in relation to the new r 3.9 did not survive very long. Only eight
+months after the
+decision, the Court of Appeal revised its
+Ibid 1021 [36].
+Ibid 1021 [37].
+drian Zuckerman, ‘The Revised CPR 3.9: A Coded Message Demanding
+Articulation’
+Civil Justice Quarterly
+(n 68) 1027 [49].
+towards the new r 3.9 in the
+giving more
+leeway to litigants, against the purpose of preventing noncompliance with
+process require- ments.
+As Higgins argues, this experience
+demonstrates the failure of the drafters of the amended
+It shows that the rule itself needs to give clear guidance to courts
+exercising their discretion. The ‘revised rule is virtually
+content free,
+doing little more than repeating the overriding objec- tive, and yet it is still
+as open ended as the previous (heavily
+criticised) rule it was designed to
+Unfortunately, the current legal state is unlikely
+to lead to clarity:
+The nine factors have been replaced by two factors but all of them and more
+may find their way back into the frame when the court
+considers ‘all the
+cir- cumstances’ of the case during the ‘third stage’ of the
+guidance. The purpose of the reforms to
+r 3.9 was not
+to save words, but to provide better guidance to the courts in how to exercise
+their discretion. However, the
+guidance provides only limited
+assistance to lower courts.
+Higgins explains that, while the courts now know to normally grant relief if
+the breach was not significant or if there was a good
+reason for it, ‘if
+the breach is significant, and there is no good reason for it, they still have
+to weigh up all the circumstances’.
+This means the courts are
+provided with consider- able discretion and little guidance.
+As mentioned previously, certainty and simplicity are two important vir- tues
+when it comes to procedure. Even though the revised
+r 3.9 is shorter in length
+it is not necessarily simpler, as the court still has to consider ‘all the
+circumstances’.
+In addition, the revised r 3.9 is still closer to a
+standard than to a rule, despite the common perception that procedure
+should usually be
+Denton v TH White Ltd
+[2014] EWCA Civ 906
+[2014] 1 WLR 3926.
+See also Andrew
+Higgins, ‘CPR 3.9: The
+Guidance, the
+Revision, and Why Coded Messages Don’t Make for Good Case Man-
+Civil Justice Quarterly
+Higgins (n 76) 388–91.
+bid. See generally Stuart Sime, ‘Sanctions after Mitchell’
+Civil Justice Quarterly
+; Jack R Williams, ‘“Well,
+That’s a Relief (from Sanctions)!” Time to Pause and Take Stock of
+CPR r 3.9 Developments
+within a General Theory of Case Management’
+Civil Justice Quarterly
+promulgated in the form of rules rather than standards. It is therefore not
+surprising that legal academics criticised the revised
+rule and its
+application.
+Another interesting point in relation to the
+application of r 3.9 is that standards can be transformed into rules once they
+are applied,
+through the creation of precedents.
+It may be the
+case that ‘the first enforcement pro-
+ceeding essentially transforms the standard into a rule’: that is,
+in subsequent enforcement proceedings, courts simply apply the precedent
+rather than engaging in an inquiry concerning appropriate
+legal treatment
+— an access to this precedent costs no more than if the law had been
+promulgat- ed as a rule in the first place.
+It seems that this is exactly what the Court of Appeal tried to do in
+, as Jackson LJ’s opinion draws attention to the amendment of
+r 3.9 and to the concern that ‘relief against sanctions
+is being granted
+too readily’.
+Jackson LJ then moves on to emphasise that,
+after the amendment, the Court will be less tolerant towards litigants who did
+with any rule, practice direction or court order.
+is to say, the Court was declaring that it will use its discretion in order to
+enforce compliance, and in that respect it made
+the legal command closer to a
+rule than to a standard. This classification of r 3.9 depends on how later
+decisions interpreted the
+new r 3.9 and, as mentioned above, the Court does not
+seem to be continuing this development.
+IV EMPIR IC AL STUDY
+As mentioned above, I use the term Factor Overload to describe a cognitive
+phenomenon that occurs when judges attempt to implement
+legal rules that include
+more than a few factors. In order to demonstrate the effects of Factor
+ee, eg, Higgins (n 76) 391.
+aplow (n 30) 577–9. See also Frederick Schauer, ‘The Convergence
+of Rules and Standards’
+New Zealand Law Review
+Kaplow (n 30) 577.
+(n 66) 1021 [49].
+bid 1021–2 [49]–[50]. The Court here refers to a previous version
+of the rule amendment: ‘On an application for
+relief from any sanction
+imposed for a failure to comply with any rule, practice direction or court
+order, the court will consider
+the circumstances of the case, so as to enable it
+to deal justly with the application including the need — (a) for
+to be conducted efficiently and at proportionate cost; and (b) to
+enforce compliance with rules, practice directions and court orders’:
+Overload, I performed a preliminary experiment using a real case in which
+the court applied the old r 3.9 of the
+. The previous
+exemplifies information overload since it included at least nine different
+factors that the judge must weigh in order to reach
+a decision. And, as formerly
+explained, despite the amendment of the rule the nine factors may find their way
+back into the assessment
+when the court considers ‘all the
+circumstances’. It is therefore a suitable case study to examine the
+phenomenon of
+cognitive overload due to a large number of considerations in the
+legal context. The purpose of the experiment was to show that having
+large number of factors is detrimental to the decision-making process by
+creating difficulties in applying legal rules.
+Previous studies demonstrated that, while certain decision makers claim to
+consider a large number of factors, their decisions can
+be predicted from only a
+few of those considerations, making the rest practically irrelevant to the final
+For example, in a study performed by Barton Beebe which
+examined multi-factor tests for the likelihood of consumer confusion in
+infringement cases, it was found that when judges use the multi-
+factor test, usually only two or three factors are sufficient to
+determine the
+Therefore, the study concludes that ‘judges tend to
+short-circuit the multifactor test’.
+The study examined ‘all reported federal district court opinions [in
+the United States] for [a] five-year period ... in which
+a multifactor test for
+the likelihood of consumer confusion was used’.
+results showed that only ‘[a] few factors prove to be decisive’ and
+that the rest of the factors are redundant or
+even irrelevant:
+‘in practice, a limited number of core factors determine the outcome
+of the test’.
+Not only that, but Beebe found that
+‘[j]udges tend to “stampede” these remaining factors to
+conform to the test
+ee, eg, Barton Beebe, ‘An Empirical Study of the Multifactor Tests for
+Trademark Infringe- ment’
+California Law Review
+Ibid 1581, 1600.
+bid 1582. Beebe also found significant variation among the district court
+circuits in the application and outcome of their respective
+tests. Each circuit
+has developed its own formula- tion of the test, and the different tests consist
+of either 6, 7, 8, 10 or 13
+factors: at 1581–4.
+The results of this study match the results of previous studies.
+However, Beebe goes a step further and asks the question: ‘But in
+relying only on certain leading factors, are judges making
+decisions?’
+His answer to this question is as follows:
+If recent research in human decision making is any guide, then the answer is
+very likely no. Like any human decision makers, district
+judges attempt to de-
+cide both efficiently and accurately. In pursuit of efficiency, they consider
+only a few factors. In pursuit
+of accuracy, they consider the most decisive
+Not only that, but Beebe refers to this judicial decision-making process as
+successful and even rational:
+In essence, as consummate pragmatists, they ‘take the best’, a
+strategy which empirical work suggests is an altogether
+successful — and
+rational — approach to decision making.
+Thus, Beebe argues that the heuristic that judges employ when taking into
+account only a few factors ‘is evidence ... of human
+ingenuity rather than
+human fallibility’.
+As will be shown later, Beebe’s
+conclusion may be too simplistic considering the wide range of psychological
+theories regarding
+the nature of heuristics and human decision-making.
+Beebe’s optimistic approach is consistent with the ‘fast and
+school of thought, whose scholars believe that people have adopted
+strategies that work well for them;
+scholars from the
+‘heuristics and biases’ school would be more concerned with errors
+caused by the use of heuristics.
+Beebe assumes that the judges’ tendency to consider only two or three
+factors is an indicator of their efficient behaviour.
+But in order to make this
+statement he presumes that the factors the judges have chosen to consider are
+indeed the most relevant
+and important ones.
+However, the mere
+ee, eg, Monica Shapira and Rami Benbenishty, ‘Modeling Judgments and
+Decisions in Cases of Alleged Child Abuse and Neglect’
+(1993) 29(2)
+Social Work Research and Abstracts
+14, 18; Theodore Eisenberg and
+Geoffrey P Miller, ‘Attorney Fees in Class Action Settlements: An
+Empirical Study’
+Journal of Empirical Legal Studies
+Beebe (n 88) 1614.
+bid (citations omitted).
+bid (citations omitted).
+Ibid 1586 n 25, 1602, 1649.
+See, eg, Mark Kelman,
+The Heuristics Debate
+University Press, 2011) 6–7.
+Beebe (n 88) 1614.
+the judges in this case study chose two or three specific considerations out
+of a long list of factors does not necessarily mean that
+they made the right
+choices; for example, they might have chosen these considerations because they
+were the easiest to take into
+account. Beebe assumes that the remaining
+considera- tions are irrelevant, but he may be wrong. The question becomes: Who
+which considerations are relevant and which are not?
+Simply assuming that decisions made under multi-factor tests are not flawed
+is not enough. Therefore, this article presents a different
+methodology, the
+purpose of which is to address the quality of decisions made under multi- factor
+rules and not to merely address
+the question of whether judges ignore some of
+the considerations on the list. I do this by comparing decisions made under
+rule structures and examining which of these rule structures leads to
+an optimum decision. More specifically, I identified a case
+in which there is
+wide legal agreement regarding the correct result, and I examined whether there
+is a deviation from this desirable
+result when a long list of factors is used.
+This provided means by which I could evaluate whether the decisions made under a
+multi-factor
+rule are indeed accurate.
+Experiment Description
+My hypothesis was that given the same case facts, judicial decisions would be
+similar both when participants used a large number of
+factors and when they used
+no factors at all to decide a case. Once there became too many factors to
+consider the judge would encounter
+cognitive difficulty processing all of the
+information and would unconsciously omit some of the factors during the
+decision-making
+process. Due to the cognitive effects of information overload
+and the human tendency to simplify complex decisions, the list of factors
+become practically meaningless when it was too long to implement. Therefore,
+instituting a rule with a long list of considerations
+would result in decisions
+that are not derived from the rules; rather, they would be closer to decisions
+made under maximal judicial
+discretion, without any clear direc- tion.
+Thus, I anticipated that the decisions would be more consistent under the
+limited-number-of-factors scenario than under the long-list-of-factors
+Multi-factor rules could intentionally be standards that give
+the judge wide discretion (in fact, this is usually the case). The point
+that using a long list of factors, even if the purpose were to give the judge a
+wide discretion, does not add anything to
+the decision, since, in cases in
+which the list is too long, judges cannot use it as a helpful tool in their
+decision-making process.
+Moreover, at least in the context of procedural rules
+such as r 3.9, I argue that limiting judicial discretion or using a rule instead
+of a standard is preferable.
+scenario. I also expected that applying the rule to the facts of the case
+would be easier under the limited-number-of-factors case.
+As previously mentioned, in order to support my theory I chose a real case
+that both utilised
+r 3.9 and had wide legal agreement regarding the
+correct result. In the case I chose (
+), the Court of Appeal decided
+unanimously that relief from sanctions should not be granted and that the case
+provided an example
+of situations in which the court should enforce compliance
+and not grant relief.
+Not only that, Jackson LJ, who gave one of
+the opinions (the appeal was heard before Maurice Kay, Jackson and Lew- ison
+involved in the amendment of r 3.9 as part of his review of civil
+litigation costs in England and Wales.
+He is therefore an expert
+on the subject.
+Lastly, the decision received positive treatment
+in later cases and in the legal literature. The method I chose examines the
+from the optimum. I expected that when using the long list of factors
+participants would be more willing to grant relief from sanctions
+even though
+the correct decision should be not to grant relief.
+In the experiment, 148 subjects read a vignette describing the
+case. I took the basic description of the factual chronology of the case
+from the decision given by the Court of Appeal. I then slightly
+modified the
+presenta- tion of the case in order to ensure that other factors would not
+influence the premise which the experiment
+was attempting to examine. Firstly, I
+tried to keep the description of the facts as simple as possible without
+omitting any relevant
+details in order to make sure the facts of the case were
+clear to the participants who took part in the survey.
+(n 66) 1021–2 [48]–[50].
+ee Jackson (n 62).
+he following quote from Jackson LJ’s opinion shows that the Court was
+convinced that in this case the relief from sanctions
+should not be granted.
+‘Non-compliance with the Civil Procedure Rules and orders of the court on
+the scale that has occurred
+in this case cannot possibly be tolerated. Any
+further grant of indulgence to the defendants in this case would be a denial of
+to the claimants and a denial of justice to other litigants whose cases
+await resolution by the court’:
+(n 66) 1021 [48].
+t could be argued that, although in the
+case the Court was
+dealing with the unre- formed r 3.9, it was in essence deciding as if r 3.9 had
+already been reformed, meaning
+that the decision would not have gone that way
+had it not already been decided that r 3.9 must be amended. However, this is not
+reasoning given by the Court at
+(n 66) 1022 [50]: ‘It is
+currently anticipated that this revised rule will come into force on 1 April
+2013. After that date
+litigants who substantially disregard court orders or the
+requirements of the Civil Proce- dure Rules will receive significantly
+indulgence than hitherto. As I say, that rule amend- ment lies in the future. In
+the present case, on the rules as they stand,
+relief from sanction must be
+Secondly, I presented both the plaintiff and defendant as companies, and I
+avoided presenting the plaintiff as a big company versus
+the defendant as a
+‘weak’ small company, since I did not want the participants to rule
+in favour of the defendant simply
+because they felt more empathetic towards it.
+In fact, r 3.9 already touches on the sensitive issue of the right to present a
+(since the result of not granting relief from sanctions is that the
+defendant cannot submit a defence), and I suspected that even
+modifications participants would tend to give relief from sanctions despite the
+fact that in the case used in the survey
+the defendant did not comply with six
+court orders. Being too lenient with violations of process requirements was part
+of the problem
+of the old r 3.9, which did not put enough emphasis on enforcing
+compliance.
+For that reason, although I used a real case, I
+presented the facts of the case in a balanced way and avoided placing the
+on specific aspects of r 3.9. I am interested in examining the
+influence of the number of factors and not the specific goal of the
+therefore presented the parties as approximately equal entities.
+Because the optimum decision in the case is to
+grant relief in
+favour of the defendant, presenting the defendant as equal to the plaintiff (as
+opposed to a ‘weak’ litigant)
+should only encourage more optimum
+decisions. In any event, the case was presented in an identical way between all
+groups, the only
+difference being the number of considerations, which is the
+variable I wanted to investigate.
+The experiment was performed on Amazon’s Mechanical Turk
+(‘MTurk’) using ‘Qualtrics’ online survey
+Participants were given a descrip-
+See, eg, ibid 1021 [49].
+Turk is an online crowdsourcing system that allows easy access to online
+research participants. MTurk workers were mostly from the
+United States and
+India. For more about the demographics of the participants at the relevant time,
+see Joel Ross et al, ‘Who
+Are the Crowdworkers? Shifting Demographics in
+Mechanical Turk’ (Conference Paper, CHI 2010: ACM Conference on Human
+in Computing Systems, 10–15 April 2010) 2863. De- spite
+differences between MTurk participants and traditional samples, it
+that generally ‘MTurk participants produce reliable results’ and
+that ‘MTurk offers a highly valua- ble
+opportunity for data
+collection’: Joseph K Goodman, Cynthia E Cryder and Amar Chee- ma,
+‘Data Collection in a Flat World:
+The Strengths and Weaknesses of
+Mechanical Turk Samples’ (2013) 26
+Journal of Behavioral Decision
+213, 213. The participants were given the following instructions:
+‘We are conducting an academic survey about legal decision
+making. We need
+you to perform as the judge in a legal case that will be presented to you and
+then answer a few questions. Select
+the link below to complete the survey. At
+tion of the modified
+case, as mentioned above, and were divided
+into three groups (a between-subjects design).
+The first group was
+given the full list of factors in the former
+r 3.9 and was asked to
+reach a decision according to these factors; the second group was asked to reach
+a decision without any factors
+at all, according to their discretion, and given
+only the following quote from r 3.9: ‘On an application for relief from
+sanction imposed for a failure to comply with any rule, practice direction
+or court order the court will consider all the circumstances’;
+third group was asked to reach a decision given only three of the factors from r
+3.9. To avoid a state in which specific
+factors affect the results, I randomised
+the factors so that different subjects in this group received different factors.
+The results
+of the three different conditions (a long list of nine factors, a
+short list of three factors and full judicial discretion) were
+The experiment was followed by a questionnaire in which participants were
+asked to provide some information about themselves and to
+explain how they had
+reached their decisions, as a tool to understanding their decision- making
+process. Participants were required
+to provide the following infor- mation: age,
+gender, native language, occupation, legal background, reason for granting or
+the application, explanation of how they applied the legal rule that
+was mentioned in the survey, level of confidence in their decision,
+and level of
+difficulty in performing the task. I then used the answers to these questions to
+check whether any other factors influenced
+the participants’ decisions and
+to make sure that the participants indeed read the case and understood it. I
+also measured
+the time it took each subject to answer the survey as another tool
+to ensure that the case was read by the participant.
+The results showed that under the 3-factors condition subjects were more
+likely to make the optimal decision; that is, not to grant
+relief from
+sanctions, more than in any of the other groups. This difference was
+shown to be
+the survey, you will receive a code to paste into the box below to receive
+credit for taking our survey.’
+Turk participants do not possess a legal background. I chose to perform the
+experiment on MTurk for the following reason: I performed
+a pilot of this
+experiment with law students and they were influenced by their previous
+familiarity with the case and by their specific
+legal education (for example,
+students of Professor Zuckerman, who had influenced the amend- ment of r 3.9,
+tended not to grant relief
+in comparison to other students). By using MTurk, I
+could ensure that the participants were not familiar with the case or the
+of r 3.9 and that they were only affected by the number of
+statistically significant. The Chi Square test showed a significant result in
+relation to groups A (9 factors) and B (3 factors):
+P=0.035, as well as in
+relation to groups B (3 factors) and C (0 factors): P=0.02. The results are
+shown in Table 1.
+Table 1: Results
+TTCC11,,11
+9 factors (n=SO)
+3 factors (n=48)
+O factors (n=SO)
+TTCC,,11
+Refuse relief from sanctions (optimum result)
+50% 71% 48%
+TTCC11,,11
+These preliminary results demonstrate not only that the long list of factors
+(group A) did not change the participants’ decisions
+in comparison to the
+condition of no factors at all (group C), but also that in this case having a
+long list of factors actually
+prevented participants from reaching the optimal
+result. As mentioned above, I identified the optimal result by using the
+decision of the Court of Appeal in this case, accompanied by a wide
+acceptance of the Court’s decision in following legal cases
+legal scholarship.
+As shown in the table, when given only three randomised factors to con- sider
+from r 3.9 (group B), 71% of the participants decided
+to grant relief
+from sanctions (n=48), the same decision given by the Court of Appeal (the
+optimal result). In contrast, when given
+nine factors, only 50% of the partici-
+pants decided not to grant relief from sanctions (n=50). This result is despite
+the fact that
+the Court of Appeal ruled that the case presented in the survey is
+an example of a case in which the relief from sanctions should
+granted. As anticipated, the results of group A (the 9-factors condition) were
+similar to the results of group C (0-factors), as
+48% of the participants in
+group C decided not to grant relief from sanctions (n=50).
+The results of the experiment show that when subjects
+experienced Factor Overload they defaulted to a coin flip. In contrast, when
+they were led gently, they moved towards the optimal decision. Previous studies
+with real judges in real cases
+showed that judges ignore the majority of the considerations when presented with
+a long list.
+Not only that, earlier findings have shown that other
+experts do not manage the exercise of integrating factors well.
+This article therefore argues that it should not be assumed that judges
+perform optimally in Factor Overload situations. In order
+to show that judges
+differ from other experts by being able to identify the most relevant
+considerations on a long list, it would
+be necessary to conduct further
+empirical examination and to test whether judges use helpful intuition in Factor
+Overload situations
+or merely experi- ence decision fatigue due to cognitive
+More generally, it has already been demonstrated that
+judges, like everyone else, use their intuition and that this use of intuition
+may lead to erroneous and unjust outcomes. It was therefore suggested that the
+justice system take steps to increase more deliberate
+and systematic judicial
+decision-making.
+The purpose of the current analysis was to show that, as
+opposed to previ- ous claims, a long list of factors might have detrimental
+effects in legal decision-making. As mentioned previously, it has been suggested
+that in relying only on certain factors out of a
+large number of factors, judges
+ee, eg, Beebe (n 88).
+ee, eg, Dawes (n 2) 573. For example, in the context of a
+medical decision, it was shown that physicians were less likely to prescribe
+medication when deciding between two medications than when deciding about only
+one medication, meaning the difficulty in deciding
+between the two medications
+led some physicians to recommend not starting either. This study shows that the
+introduction of additional
+options can increase decision-making difficulty even
+in the case of experts. Adding new options can increase the probability of
+a previously available alternative or maintaining the status quo:
+Redelmeier and Shafir (n 2). This is not to say that judicial expertise
+exist: Daniel Kahneman,
+Thinking, Fast and Slow
+(Farrar, Straus and
+Giroux, 2011) 240–1; Doron Teichman and Eyal Zamir, ‘Judicial
+Decision- Making: A Behavioral Perspective’
+in Eyal Zamir and Doron
+Teichman (eds),
+The Oxford Handbook of Behavioral Economics and the Law
+(Oxford University Press, 2014) 664, 690.
+or empirical findings in the field of sentencing in England
+and Wales, see generally Julian V Roberts and Mike Hough, ‘Empirical
+Sentencing Research: Options and Opportunities’ in Julian V Roberts (ed),
+Exploring Sentencing Practice in England and Wales
+(Palgrave Macmil- lan,
+ee Chris Guthrie, Jeffrey J Rachlinski and Andrew J Wistrich,
+‘Blinking on the Bench: How Judges Decide Cases’
+Cornell Law Review
+making flawed decisions.
+The results of the current experiment
+suggest that simply assuming that decisions made under multi-factor tests are
+not flawed is
+not enough and that a long list of factors may prevent judges from
+reaching the optimal result.
+As for the definition of the ‘optimal’ decision, it was
+determined here ac- cording to the wide agreement of legal experts
+correct result in the case study used in the experiment. The method of
+determining the optimal result according to consensus
+between experts was
+previously suggested in the psychological literature.
+were unable to identify the ‘optimal’ result in this case, the mere
+finding that a long list of factors does
+not add anything to the decision-making
+process is in itself significant. As the results showed, decisions were similar
+9-factors condition and under the 0- factors condition, where subjects
+were equally divided. Subjects produced decisions that were
+closer to the
+decision of the Court of Appeal only under the 3-factors condition. Meaning, the
+only environment that led subjects
+decision was the limited
+number of factors environment.
+This should be taken into
+consideration by drafters of rules of procedure in order to promote the desired
+implementation of these
+Lastly, this article calls for the simplification of procedural rules. But,
+as was stressed at the very beginning, complexity is sometimes
+required in order
+to allow adjustment for different, or more complicated, legal cases. The
+argument made in this article is
+that procedure should always be
+simpli- fied, but that sometimes rules are complex without merit. This ought to
+be a concern of policymakers
+who are responsible for phrasing the rules.
+Drafters of procedural rules must take into account not only the content of the
+but also the way the human decision-maker would apply them.
+What are the practical conclusions from here onwards? Generally, there is a
+consensus that ‘it is often easier or preferable
+to change the environment
+in which decision makers function or to delegate decisions from a badly
+positioned to a well-positioned
+decision maker than to try to change how
+Beebe (n 88) 1614.
+or a more detailed account and critique, see David J Weiss and James
+Shanteau, ‘Empirical Assessment of Expertise’ (2003)
+n additional possible explanation for these results, other than
+‘cognitive overload’, could be the ‘coherence effect’.
+The coherence effect is manifested in a cognitive process in which the decision
+maker perceives the chosen alternative to be supported
+by strong considerations,
+despite high levels of ambiguity. It is possible that under the 3-factors
+condition, the reason for the
+decision was made clearer and therefore it was
+easier for the subjects to determine the result, see Dan Simon, ‘A Third
+of the Black Box: Cognitive Coherence in Legal Deci- sion Making’
+University of Chicago Law Review
+each individual processes’ information.
+In the legal
+environment, it could be argued that improving judges’ decision-making
+processes (by, for example, using ‘debiasing’
+techniques) should be
+a part of their professional training, as judges are required to make complex
+decisions on a regular basis.
+In any event, changing the environment in which
+judges make their decisions can certainly be helpful, and therefore the
+possible solutions could be considered alongside judicial
+Firstly, linear models could be used in order to help judges implement
+Laundry List rules. Generally speaking, a linear model is a
+statistical predic-
+tion based on input variables. Linear models are needed since ‘experts ...
+are much better at selecting
+and coding information than they are at integrating
+People are good at choosing the ‘right
+predictor variables’, but they ‘are bad at integrating
+information’,
+especially information ‘from diverse and
+incomparable sources’.
+The purpose of the linear model
+is therefore to integrate the information in an optimal manner, using a
+computation- al
+There are several possible formulae for a linear model in the context of
+Laundry List rules. For instance, it is possible to build
+a model that requires
+the judge to rate each factor on a scale of 0–10. Taking the old
+r 3.9 as an example, each consideration in r 3.9 with regards to granting
+relief from sanctions would receive a number: if ‘the
+failure to comply
+was intentional’ (r 3.9(c)), the judge would rate it ‘0’ (the
+lowest rating possible), but if
+‘the application for relief has been made
+promptly’ (r 3.9(b)), the judge would rate it ‘10’ (the
+rating). If the answer was somewhere in the middle, the judge would rate
+it ‘5’, and so on. The model would set a numerical
+threshold for
+granting relief from sanctions that should be in accordance with the rules of
+evidence and the balance of probabilities.
+In the latter example, 51% of the
+90-points rating range is 45.9 points and therefore any sum beyond this number
+would suggest that
+the judge should grant relief from sanctions. This
+calculation would of course only serve the judges as a tool, and they could
+from the result as long as they gave reasons for doing so.
+elman (n 101) 4. For example, if patients are more likely to understand
+medical information when it is ‘presented in one form
+rather than another,
+it might be better to present it in the fashion that most people typically
+understand rather than to attempt
+to train them’ to under- stand the other
+form: at 4 (citations omitted).
+awes (n 2) 573. See also Paul E Meehl,
+Clinical versus Statistical
+Prediction: A Theoretical Analysis and a Review of the Evidence
+(University
+of Minnesota Press, 1954) ch 4; William M Grove et al, ‘Clinical versus
+Mechanical Prediction: A Meta-Analysis’
+Psychological
+Dawes (n 2) 574.
+It should be stressed that ‘linear model[s] cannot replace the
+expert[s]’.
+It is the expert who chooses the variables and
+determines what to look for, while the linear model is merely aimed towards
+integrating
+the information.
+The advantage of linear models over
+intuitive clinical judgment was shown in a variety of contexts, such as faculty
+rating of graduate
+the diagnosis of psychosis versus
+neurosis by clinical psychologists,
+bank loan officials’
+prediction of bankruptcies,
+and even decisions about what type of
+bullet should be used by the police.
+One possible way of building a linear model is to use an expert’s
+judgment, a court judge’s for instance, about an outcome
+criterion and
+then to use the model in place of the expert.
+Even though the
+models make use of the weights derived from the judges, they consistently
+perform better than the judges from whom
+they were derived. The models perform
+better in the sense of better correlation between predicted and actual values.
+Linear models
+work because they catch the essence of the judge’s valid
+expertise while eliminating unreliability. That is to say, ‘a
+model distills underlying policy ... from ... otherwise variable behaviour
+(eg, judgements affected by context effects
+or extraneous
+variables)’.
+For example, if a statistical examination of
+cases that apply r 3.9 shows that applications for relief from sanctions that
+were submitted
+more than 10 days after the failure to comply were considered to
+be applications that were not made ‘promptly’ according
+to r 3.9(b),
+then the linear model would imitate the judges and grant a low score to that
+particular element and consequently a lower
+success rate to applications that
+were submitted after ten days from the failure to comply. The linear models
+therefore attempt to
+separate the human unreliability from the valid judgmen-
+tal strategy.
+It should be emphasised that the mathematical models are not aimed to- wards
+dehumanising legal decisions but rather at serving as
+a helpful tool in
+Ibid 576–7.
+Lewis R Goldberg, ‘Man versus Model of Man: A Rationale,
+Plus Some Evidence, for a Method of Improving on Clinical Inferences’
+Psychological Bulletin
+Dawes (n 2) 579.
+Ibid 577–8.
+Goldberg (n 124) 422, 423.
+the complicated decision-making process.
+individuals tend to have great difficulty incorporating quantified
+variables’; they tend to ‘base their
+decisions on less information
+... than do mathematical models, and apply their decision policies
+inconsistently’.
+Mathematical models recognise the
+limitations of human information processing and are merely used as additional
+tools for decision-making
+and not as a substitute for human beings.
+Unlike the option of diminishing the number of considerations in Laundry
+List rules, the possible use of mathematical models would
+enable preservation of
+a relatively high number of considerations in a certain legal rule, while the
+integration would be accomplished
+with the assistance of a computerised
+mathematical model.
+A second possible solution is to simply limit the number of factors. Ac-
+cording to the psychological studies mentioned above, decision
+makers have
+difficulty managing a large number of considerations. The most obvious solution
+for this problem is to simply reduce
+the number of factors in legal rules. By
+limiting the number of factors, judges would be able to weigh the factors in an
+way: that is, fully taking into account every factor.
+However, limiting the number of factors could raise a serious difficulty,
+since it could be argued that there is a large number of
+relevant factors that
+be taken into account by the court. If indeed it were the case
+that there are more than a few important considerations, simply ignoring
+them seems to be unjust. The court should take into account relevant
+considerations and not take into account irrelevant
+considerations. Reducing the
+number of factors might have the effect of changing the legal question by
+removing important considerations
+that a court should be asking itself.
+This may be true in a perfect world. But what if judges were not able to take
+into account all the relevant considerations? Should
+we still include all the
+relevant considerations in the legal rule even though we know the rule is
+impossible to implement? It could
+be argued that the number of factors should be
+reduced even with the price of relinquishing some of the relevant
+considerations,
+because this way judges at least would consider
+n addition, the use of linear models could encourage judges to use a more
+deliberate attitude instead of relying on their intuition,
+by requiring them to
+engage in a methodological deci- sion-making process. According to Guthrie,
+Rachlinski and Wistrich, ‘[a]
+judge who must review a script or checklist
+at each step in the decision-making process is less likely to rely on intuition
+doing so is inadvisable’: Guthrie, Rachlinski and Wistrich (n 114)
+ichael J Saks and Robert F Kidd, ‘Human Information Processing and
+Adjudication: Trial by Heuristics’
+Law and Society Review
+, 147, citing Robyn M Dawes and Ber- nard Corrigan, ‘Linear Models
+in Decision Making’ (1974) 81
+Psychological Bulletin
+aks and Kidd (n 131) 147–8.
+relevant considerations (when the alternative is ignoring the long list of
+and making an intuitive decision).
+One of the enemies of simplicity is the wish to achieve perfect justice in an
+individual case. Simple rules (such as rules with one
+or two determinate
+factors) do not meet this aspiration since they are tests that work most of the
+time but are known to fail some
+of the time. However, as Epstein explains,
+‘the gains from seeking perfection [through complex rules] are an
+Therefore, the comparison between simple rules
+and complex rules should be conducted in the ‘language of realizable
+achievement[s]’
+and not in the ‘language of aspiration’, and
+in the ‘language of realizable achievements’, simple rules have
+advantage over complex rules.
+This approach would support
+reduction of the number of factors in legal rules for the sake of
+simplicity.
+A third solution would be to use ‘chunks’ (factors sorted into
+groups) to help judges process the large number of considerations.
+well-known paper, George A Miller proposed that the capacity of short-term
+memory is limited to a ‘magical number’
+of seven (plus or minus two)
+This limit is usually expressed in terms of
+‘chunks’, namely groups of items that have been collected together
+and treated
+as a single unit. For example, the following sequences of single
+letters may serve as three individual chunks, rather than as nine
+separate items
+(these combinations would help people memorise the letters): USA, YYY, BBQ. The
+limit of the number of chunks a person
+can process ‘appears to be about 3
+or 4 distinct chunks, consistent with many modern studies, but also equivalent
+7 uncompressed items of typical compressibility, [which is] consistent
+with Miller’s famous magical number’.
+psychological studies regarding chunking offer another solution for the Laundry
+List problem other than simply reducing the number
+of factors. This solution is
+to arrange the factors in chunks so they will be easier for a human decision
+maker to process. For example,
+in the case of the old
+following considerations could be expressed in one chunk: r 3.9(h) (‘the
+effect which the failure to comply had on
+each party’) and r 3.9(i)
+(‘the effect which the granting of relief would have on each party’)
+as they both refer
+to the effect on the parties. In addition, r 3.9(c)
+(‘whether the failure to
+pstein (n 5) 38.
+eorge A Miller, ‘The Magical Number Seven, Plus or Minus Two: Some
+Limits on Our Capacity for Processing Information’
+Psychological Review
+abien Mathy and Jacob Feldman, ‘What’s Magic about Magic Numbers?
+Chunking and Data Compression in Short-Term Memory’
+comply was intentional’), r 3.9(d) (‘whether there is a good
+explanation for the failure’) and r 3.9(f ) (‘whether
+the failure to
+comply was caused by the party or his legal representative’) could become
+one chunk as they all refer to the
+reason of the failure to comply.
+Theoretically, the advantage of the chunking technique is that it could allow
+judges to ‘have their cake and eat it too’
+— expressing a
+large number of factors in chunks lets them keep all of the considerations with
+a simpler decision-making mechanism.
+Lastly, another similar, helpful solution would be to provide clear guidance
+on how to implement the long list of factors. For example,
+improvements could
+include identifying factors as primary or secondary, suggesting judges apply the
+rule in several stages, setting
+a unique threshold (for instance, granting
+relief from sanctions only when the party was not responsible for the delay),
+the weight that should be given to each factor, highlighting the most
+important factor on the list and so on.
+ONC LU SION
+Complex procedural rules such as Laundry List rules impose a heavy cost on
+the civil legal process, while the benefit of these rules
+is questionable. This
+article has suggested applying cognitive psychological research to the debate
+regarding Laundry List procedural
+rules and examined the need to improve the
+structure of certain legal commands. People, including judges, have difficulty
+manipulating
+a large number of factors. This cognitive phenomenon referred to as
+Factor Overload raises a unique problem in the context of civil
+procedure. Even
+though simplicity is not always desirable, legal policymakers should consider
+not only the substance of procedural
+rules, but also how human decision makers
+would implement these rules. In situations of Factor Overload, a long list of
+factors might
+disrupt the judicial decision-making process. A detailed account
+of the possible solutions is beyond the scope of this article. However,
+following options could be considered: (a) limiting the number of considerations
+in legal rules to a maximum of three to four
+factors; (b) chunking factors into
+groups so that they are easier for a decision maker to process; and (c) using
+computerised mathematical
+models to help judges give the appropriate weight to
+CFGESMIIIIIDKAFSSDIISIIISIKSIIIIIFZHItfOttw)twwwtIIEIIIIFFIIIIIIIBIIIKEIIJLIFMIIFAIITTTIIIIRCSCDRMDPRPPTI
+Print (pretty)
+Print (eco-friendly)
+RTF format (449 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

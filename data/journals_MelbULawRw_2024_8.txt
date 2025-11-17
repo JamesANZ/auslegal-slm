@@ -1,0 +1,2576 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/MelbULawRw/2024/8.html
+Scraped: 2025-11-17 15:18:20
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Hildenbrand, Serena Syme --- "Public Sector Data Sharing: Applying State-Based Human Rights Laws to Minimise Privacy Harms" [2024] MelbULawRw 8; (2024) 47(2) Melbourne University Law Review 386
+PUBLIC SECTOR DATA SHARING:
+APPLYING STATE-BASED HUMAN RIGHTS LAWS TO MINIMISE PRIVACY HARMS
+I Introduction
+II Public Sector Data Sharing: The Need for Additional Protection
+A The Importance of Data to the Public Sector
+B Potential Harms to Data Subjects
+C Gaps in Legal Protection
+III The Victorian Legal Framework for Data Sharing
+A Information Privacy Legislation
+B The Victorian Charter
+IV A Normative Framework: The Underlying Values
+A Privacy: Theoretical and Legal Origins
+B Privacy and Data Protection: Opacity and Transparency
+C Social and Democratic Contribution
+D The Role of ‘Social Licence’
+E Digital Surveillance and Other Novel Technologies
+V Applying the Victorian Charter Privacy Right
+A ‘Arbitrarily’ Internal Limitation
+B ‘Unlawfully’ Internal Limitation
+C Applying the Privacy Right
+VI Concluding Recommendations
+PUBLIC SECTOR DATA SHARING:
+APPLYING STATE-BASED HUMAN RIGHTS LAWS TO MINIMISE PRIVACY
+Serena Syme Hildenbrand
+Public sector data sharing offers public benefit but raises risks of privacy
+harm. This article considers the Victorian legal framework
+for such data
+sharing, highlighting risks to privacy (individual and social) and describing
+additional protection offered by the
+Human Rights and
+Responsibilities Act 2006
+Victorian Charter
+including by reference to the varied origins of privacy and data protection
+legislation. It argues that Victorian courts
+have taken a wrong turn in applying
+Victorian Charter
+and the principle of legality and weakening its protection. Drawing parallels
+Queensland and the Australian Capital Territory, this article identifies
+remedies, explaining how appropriately applied human rights
+based privacy rights
+could uphold social value, maximise social licence and minimise privacy
+Introduction
+Imagine a future world of ideal government-promoted convenience. Each
+government department you approach has your personal data to
+can quickly respond based on your other dealings with government. Your
+location is known due to travel data, so advice is tailored. Private
+companies allocate you to a demographic segment, understand each
+segment deeply
+using de-identified government data, and microtarget their pricing and marketing
+to you. Government predicts your
+future activities, nudging your behaviour and
+assessing your regulatory risk profile accordingly. Law enforcement efficiently
+its resourcing and intervention to each person’s likely future
+actions. In reality, most people are likely to consider this
+world a significant and alarming intrusion into their personal privacy and
+autonomy. But new data technologies
+and a drive for government efficiency are
+leading Australians in this direction, with current information privacy
+legislation unlikely
+to provide much impediment to these developments.
+Data sharing by public sector agencies offers benefits but can also generate
+risks and potential harms. The 21
+century has been described as the
+‘era of big
+demand for government data increasing.
+many governments, the Victorian government is conscious of the potential social
+and efficiency benefits offered by data, and
+imposes a ‘clear
+responsibility on Victorian government agencies to share
+Data analytics offer significant
+promise to public and private sectors alike, with some estimates placing the
+value of public sector
+data to Australia at as much as $64 billion per
+techniques such as machine learning and artificial intelligence have the
+potential to expand the use of public sector data
+But data analytics are not benign from the point of view of individuals whose
+data are being collected, used, disclosed and shared.
+Those individuals may
+experience harm if their data are misused such as through financial fraud,
+identity theft and family violence,
+and such individuals may be at risk of other
+physical harm.
+Public sector agencies may also experience harm if they are involved in or
+contribute to such misuse, principally through reputational
+damage and loss of trust.
+Such harm can
+spread across agencies: a significant mistake by one agency is likely to affect
+trust across the government.
+The harms flowing from interferences with privacy are commonly viewed through
+an individualistic
+necessary but insufficient; a focus on individual harms and self-protection made
+sense in the 20
+century context
+of the misuse of individual records, but this lens is too narrow for big
+Collective harms caused by data practices arguably include undermining the
+social value of privacy and violating social licence.
+Existing Australian legal protections are largely founded on information
+collection and
+use. This legislation generally protects ‘personal information’
+(information which may allow identification of a data
+Federal and state information privacy statutes such as the
+Protection Act 2014
+’) lack some of the
+protections found in contemporary European data protection
+continue to rely on data subjects making their own privacy decisions via the
+processes of notice and
+this and other reasons, statutory information privacy frameworks appear
+inadequate in the face of 21
+century data
+challenges.
+Victoria has been selected as a jurisdictional case study because its human
+rights framework may provide additional protections for
+data subjects. In
+Victoria, information privacy regulation is complemented and enhanced
+by broader human rights legislation, namely the
+Charter of Human Rights
+and Responsibilities Act 2006
+’). Because specific human rights legislation operates at a
+higher ‘principles’ level, it may have a valuable role
+futureproofing more granular information privacy frameworks. Both Queensland and
+the Australian Capital Territory (‘ACT’)
+have similar
+legislation — the
+Human Rights Act 2019
+Human Rights Act 2004
+’) respectively — so an approach developed by
+reference to Victoria’s legal framework could be applied in those
+is regularly
+arguments would provide strong support for the adoption of such a model in
+the federal
+This article argues that in a big data context it is appropriate to strike a
+fine balance between data use and privacy. Consistent
+with the common law
+principle of legality, this requires an appropriately limited approach to
+exceptions from the protection of privacy rights. This article will point out
+how Victorian courts have taken a wrong turn in this
+regard, disregarding
+foreign jurisprudence and broadening the scope of exceptions applicable to the
+Victorian Charter
+Part II of this article describes some of the risks and personal,
+institutional and social harms of public sector data sharing and
+summarises existing gaps in the legal framework. Part III outlines the Victorian
+legal framework for data sharing, including
+Victorian Charter
+IV sets out to develop a
+normative framework for legal protection, describing ‘opaque’ and
+‘transparent’ modes of protection and the
+social value of privacy
+and social licence. Part V explores the practical application of the relevant
+human rights legislation and
+identifies how Victorian courts have taken a wrong
+turn. Part VI concludes with recommendations to protect data subjects.
+Public Sector Data Sharing: The Need for Additional Protection
+The Importance of Data to the Public Sector
+century, information privacy legislation focused on
+the collection and disclosure of written information, the interception of
+communications and the computerised exchange of information between
+century’s artificial intelligence driven big data
+analytics present a new challenge to privacy law, enabling predictions and
+inferences to be drawn based on vast volumes of digital data, exposing new
+aspects of data subjects’ lives, attitudes, interactions
+In this context, the general term ‘data analytics’ refers to
+‘processes or activities which are designed to obtain
+and evaluate data to
+extract useful
+information’,
+usually by providing insights or making
+predictions.
+The more specific term ‘big data analytics’ refers to the use of
+artificial intelligence and machine learning techniques
+to process ‘big
+data’ (characterised by high
+volumes, velocity and variety of data)
+to identify correlations and
+the name suggests, big data analytics require vast volumes of data to train an
+algorithm and allow it scope to locate patterns
+of interest. I use the term
+‘data subjects’, following the terminology used in the European
+General Data Protection Regulation
+to refer to individuals whose data are being shared and used, while
+acknowledging that this term is imperfect given its
+implication that individuals are merely passive subjects. In this article,
+‘data sharing’ refers to the sharing of personal
+information with a
+specified recipient under legal protection (such as a data sharing agreement)
+and does not cover public data release
+or open data.
+A 2015 Organization for Economic Co-Operation and Development
+(‘OECD’) report titled
+Data-Driven Innovation: Big Data for
+Growth and Well-Being
+assessed the economic potential of data driven
+innovation, concluding that it had huge potential to address economic and
+distribution
+challenges.
+The Australian Productivity Commission’s 2017
+Data Availability and Use
+Inquiry Report
+Productivity Report
+’) also identified a
+range of benefits to individuals and governments of increased public sector data
+sharing, including: improved
+service delivery; assisted decision-making; better
+utilisation of resources; and more effective risk
+management.
+Potential Harms to Data Subjects
+The collection and use of data may also cause harm to data subjects. While
+not specifically focused on human rights, the OECD has
+highlighted the potential
+infringements of privacy and human rights arising from every step in the data
+value chain, including: over
+collection of personal information; threats
+to stored data; intrusive inferences with personal information; information
+asymmetry; and real-world discrimination due to data driven
+There is some evidence that Australians expect public sector data sharing to
+occur but are uncomfortable with aspects of it. The Australian
+Information
+Commissioner’s
+Australian Community Attitudes to Privacy Survey
+revealed that only 36% of Australians are comfortable with intra-government
+data sharing (up from 30% in 2017), while 40% are
+uncomfortable.
+Australians are even less
+comfortable with government sharing their data with
+private businesses (15% comfortable, 70%
+uncomfortable).
+Further, 59% of Australians
+experienced ‘problems’ in the handling of their personal
+information over the previous year.
+problems are not exhaustively defined and range from transparency related issues
+(such as missing privacy policies), through
+processing of personal information
+without explicit consent, to a
+variety of cyber harms.
+Consumer harms arising from data sharing and data use were also explored by
+the Australian Competition and Consumer Commission (‘ACCC’)
+Digital Platforms Inquiry
+, which identified harms including the
+collection of location data, online tracking and the non-transparent sharing of
+personal data
+with third parties, leading to decreased consumer welfare through
+reduced trust and privacy, profiling, discrimination, reduced competition
+impacts on vulnerable
+While not all these harms will attach to public
+sector data sharing, the act of sharing personal information heightens the
+risk of such damage.
+Importantly, privacy harm is not only triggered by unauthorised disclosure;
+the use of personal data can cause harm even if data are
+used as intended.
+Daniel J Solove’s taxonomy of privacy problems illustrates how common
+uses of personal information can cause dignitary harms
+(impacting reputation or
+causing angst) and architectural harms (increasing risks of harm or undesirably
+shifting power), even without
+any clear misuse or theft of
+outlines how architectural harms in particular can harm society as well as
+individuals: by ‘chilling’ behaviour,
+creating power imbalances and
+impeding activities that contribute to social goods such as political
+participation and free expression.
+uses of big data technologies can create such architectural harms. Data
+integration and data matching involve augmenting
+personal data with data from
+other sources to create a more complete picture of an individual, and data
+mining can highlight patterns
+in the data which expose sensitive personal
+While such practices offer considerable opportunity for businesses and public
+sector agencies, they may exceed the data subject’s
+intention in
+sharing their data. There are examples in the literature of retailers using
+correlations in purchase data to draw accurate yet intrusive conclusions
+information
+which shoppers had no intention or awareness of
+There is no suggestion that
+similar practices are currently in use in the Australian public sector, but the
+drive within government
+to improve customer experience and streamline customer
+service resourcing may promote such
+approaches.
+The significant 2022 Optus data breach in Australia highlighted the public
+anxiety triggered by the exposure of government identifiers
+and the harm of
+stress and inconvenience to individuals who were attempting to understand the
+exposure and block or replace compromised
+Organisations implicated in such
+significant data incidents can suffer lasting reputational and financial
+Public sector data activities may increase privacy risks and harms. In any
+given jurisdiction, multiple public sector agencies each
+hold some personal
+data, but such siloed data may offer relatively low utility to agencies using
+big data analytics.
+Public sector data
+sharing allows the incorporation of limited and discrete sources of personal
+information into more comprehensive
+public and private databases by means of
+data integration and data matching.
+generates the volumes of rich data necessary for big data analytics and may
+allow levels of surveillance and intrusion that would not otherwise be
+In this way, public sector data
+sharing may increase the value of the data for analytics but generate new
+agencies are also bound by public records
+legislation,
+which can require personal
+customer data to be retained for long
+meaning that rich and extensive
+public sector data reserves also cover decades of information, increasing the
+risk of misuse and
+Public sector data matching is not new. Relying on the
+Data-Matching
+Program (Assistance and Tax) Act 1990
+federal government agencies such as
+the Australian Tax Office (‘ATO’) and Services Australia commonly
+match customer
+data among themselves and other federal agencies to ensure
+compliance and prevent fraud.
+The risks of
+such an approach were vividly
+illustrated by the Australian Government’s ‘Robodebt’
+scheme, which
+incorrectly matched Centrelink data against ATO records to recoup
+overpayments and led to a Royal Commission, a class action and reparations
+exceeding $1 billion.
+It has parallels to
+the Dutch System Risk Indication (‘SyRI’) program, developed to
+detect welfare fraud using data linkage
+decision-making.
+The Hague District Court overturned the law
+establishing SyRI in 2020 on the basis that it contravened human rights
+obligations.
+Public sector data collection developed further during the COVID-19
+All Australian states and
+territories required citizens to provide personal contact tracing data via
+tracing apps, with assurances that it would only
+be used for public health purposes.
+freedom of information requests to the Victorian Department of Health revealed
+that it denied multiple data requests for contact
+tracing data, including two
+requests by Victorian Police.
+Victoria has
+since amended its legislation to limit these secondary
+Gaps in Legal Protection
+Given such seismic developments in data technology and big data analytics,
+pressure on the legal framework is to be expected. As the
+Productivity
+noted: ‘[t]he legal and policy frameworks under which public
+and private sector data is collected, stored and used (or traded)
+in Australia
+are ad hoc and not contemporary’.
+This dated legal framework gives rise to certain gaps in legal protection of
+data subjects.
+In assessing the effectiveness of Australia’s information privacy
+framework in light of developments in data and technology,
+the Australian Law
+Reform Commission (‘ALRC’) stated in its 2014 report
+Invasions of Privacy in the Digital Era
+that ‘[a]lthough the existing
+law provides protection against some invasions of privacy, there are significant
+uncertainties’.
+The gaps identified by the ALRC included piecemeal state-based protections, the
+restriction of the
+to information privacy and inadequate
+These findings highlight the
+inconsistent coverage of the Australian information privacy framework, which
+consists of a patchwork
+of federal, state and territory laws that do not
+necessarily cohere well or cover all relevant privacy harms or data users.
+In its 2021
+Human Rights and Technology
+report, the Australian Human
+Rights Commission (‘AHRC’) described the potential for gaps in
+information privacy law in the light of data-rich new technologies such as
+intelligence.
+Additional gaps identified by the AHRC included the pressure that big data
+technologies place on the
+’s reliance on
+consent, de-identification of personal
+information
+and narrow interpretations of
+‘personal information’.
+ACCC also expressed concern that the legal framework in Australian jurisdictions
+may be ill-equipped to protect
+Australians, noting in its
+Digital Platforms Inquiry
+existing regulatory frameworks for the collection and use of data have not held
+up well to the challenges of
+digitalisation’.
+In her 2020 article on the use of artificial intelligence in government,
+Moira Paterson also identified numerous deficiencies in the
+in the context of big data analytics, including: an overly narrow definition of
+‘personal information’; a failure to
+protect groups and not just
+individuals;
+an outdated focus on the
+‘purpose’ of data use; and the need to limit legislative overrides
+of privacy legislation.
+Attorney-General’s Department’s recently completed review of the
+appears to address only one of these identified
+deficiencies,
+and while it is appropriately regarded as a ‘landmark blueprint for
+improvements it offers will not be immediate — the federal government
+released its response to the review in September
+2023, with plans for additional
+consultation on proposed legislative amendments to take place in
+So the gaps identified above in
+Commonwealth legislation will endure, and as that framework is mirrored by state
+and territory legislation,
+one can expect similar gaps to be present in the
+Victorian, Queensland and ACT information privacy frameworks.
+The Victorian Legal Framework for Data Sharing
+In Victoria, data sharing relies principally on a statutory framework of
+information privacy laws. This reflects the lack of any common law right to
+Victoria Park
+Racing & Recreation Grounds Co Ltd v
+That position endured until
+2001, when Callinan J suggested in
+Australian Broadcasting Corporation v
+Lenah Game Meats Pty Ltd
+that ‘the time is ripe for consideration
+whether a tort of invasion of privacy should be recognised in this
+There has been some
+willingness in inferior courts to follow this approach and identify a common law
+right of privacy,
+‘right’ remains underdeveloped.
+Accordingly, information privacy protection in Australia has tended to be a
+creature of
+Information Privacy Legislation
+Information privacy protection was introduced at the Commonwealth level by
+, implementing elements of the 1980 OECD
+Guidelines on
+the Protection of Privacy and Transborder Flows of Data
+Guidelines on the
+Protection of
+now applies to any Australian private sector entity with
+a turnover of more than $3 million per financial year,
+including state government
+contractors.
+turn, Victoria enacted the
+Information Privacy Act 2000
+Information Privacy
+’), which was replaced in 2014 by the
+Following the Commonwealth’s specific
+Information Privacy Act
+only covered, and the
+continues to only cover, the Victorian
+public sector to limit regulatory burden on the private
+Both Victorian statutes contained
+Information Privacy Principles
+designed to protect personal information, similar to the
+summarise, the
+allow public sector agencies to collect the data they
+need by lawful and fair means, and with
+transparent privacy policies and collection
+Data collected should not be used
+for a secondary purpose distinct from the primary purpose of
+collection unless one of the specific criteria listed in cl 2.1 are
+also require the data
+to be accurate and complete, safely stored, transparently managed, for access to
+be available for correction
+and for sensitive information to be treated with
+special care.
+provisions regulating
+information security, including by introducing the Victorian protective data
+security standards.
+requires an organisation to comply with the
+in relation to any personal information it collects or uses and
+sets out the organisations to which the
+applies — essentially
+Victorian public sector agencies. Many such agencies are emanations of the Crown
+with no separate legal
+identity, but the combined effect of
+each Victorian public sector agency is viewed as a separate unit for the
+purposes of compliance with the
+and therefore for data
+only applies to ‘personal
+information’, defined as ‘information ... about an individual whose
+identity is apparent,
+or can reasonably be ascertained, from the
+information’.
+The Victorian
+information privacy framework also includes other legislation such as the
+Health Records Act 2001
+Victorian Data Sharing Act 2017
+Surveillance Devices Act 1999
+(Vic), sector-specific data
+various secrecy
+provisions.
+In practice, this gives rise to a somewhat piecemeal approach to information
+sharing provided by
+some combination of sector-specific legislation and the
+context, overarching human rights legislation like the
+Victorian Charter
+and equivalent ACT and Queensland
+legislation
+potentially fills a valuable role by adding a layer of
+‘principles-based’ protection to address gaps in the more granular
+information privacy framework. Paterson notes that the
+[a] human right, which arguably fills a
+Victorian Charter
+In 2006, Victoria was the first Australian state to introduce specific human
+legislation,
+comprising 20 human rights which ‘primarily derive from’ the 1966
+United Nations
+International Covenant on Civil and Political Rights
+Importantly, the
+Victorian Charter
+was intended to have its greatest
+impact within the public service, enshrining a culture of human
+Victorian Charter
+is intended to protect the rights of individuals,
+it also has a broader social purpose, arising from this cultural emphasis
+with a key principle in its preamble: ‘human rights are essential
+in a democratic and inclusive
+Section 13 of the
+Victorian Charter
+contains the privacy right, the most relevant right for
+our purposes.
+Table 1 compares the relevant privacy rights in Australia and
+internationally, demonstrating that the s 13
+Victorian Charter
+right closely mirrors
+art 17(1) of the
+; the two provisions have tended to be treated
+Section 13 is less similar to the equivalent European Union right, art 8 of the
+Convention for the Protection of Human Rights and Fundamental Freedoms
+which is nevertheless important due to its extensive body of jurisprudence.
+Table 1 also shows strong similarities between s 13 and
+relevant provisions in Queensland and the ACT. Note that the Australian
+provisions are considered to have ‘internal limitations’, in that
+proscribe interferences with privacy which are arbitrary or
+: Privacy Protections
+Victorian Charter
+, Comparable State and Territory Legislation,
+Victorian Charter
+A person has the right—
+(a) not to have that person’s privacy, family, home or correspondence
+unlawfully or arbitrarily interfered with; and
+(b) not to have that person’s reputation unlawfully
+No one shall be subjected to arbitrary or unlawful interference with his
+unlawful attacks on his honour and reputation.
+(1) Everyone has the right to respect for his private and
+family life, his home and his correspondence.
+(2) There shall be no interference by a public authority with the exercise
+of this right except such as is in accordance with the
+law and is necessary in a
+democratic society ...
+A person has the right—
+(a) not to have the person’s privacy, family, home or correspondence
+unlawfully or arbitrarily interfered with; and
+(b) not to have the person’s reputation unlawfully
+Everyone has the right—
+(a) not to have his or her privacy, family, home or
+correspondence interfered with unlawfully or
+arbitrarily; and
+(b) not to have his or her reputation unlawfully
+In addition to s 13, there are several key operative provisions of the
+Victorian Charter
+relevant to the application of the privacy right. This
+article will now briefly explore the general limitations clause (s 7(2)),
+legislative override
+(s 31), the interpretive obligation (s 32), and the conduct obligation (s
+The s 7(2) general limitations clause indicates that a human right may be
+subject to reasonable limitations and sets out the approach
+to assessing whether
+a limitation is reasonable and demonstrably justified. The
+such explicit clause, but similar clauses can be found in s 13 of the
+and s 28 of the
+. The interaction between the general
+limitations clause and the
+Victorian Charter
+s 13 internal limitations
+has made it hard for applicants to establish an unjustified limitation of
+Commentators have noted that
+‘[i]f an individual who claims that their rights under s 13(a) have been
+breached must establish
+that the interference was unlawful or arbitrary, there
+would seem to be no work for s 7(2) to
+the applicant is successful in establishing this, the onus will rest on the
+public authority to establish that the limitation
+is justified within the
+meaning of s 7(2).
+I will briefly touch on the s 31 legislative override, which allows the
+Victorian Parliament to specifically override
+Victorian Charter
+‘exceptional
+circumstances’,
+with each such override sunsetting after five
+Parliament has only used this mechanism in three scenarios, two of which were to
+prevent named prisoners and ‘police-killers’
+and the other was to address issues
+in uniform legal practice across
+Section 32 contains the interpretive obligation, which applies to anyone
+interpreting the
+Victorian Charter
+, including public servants and
+(1) So far as it is possible to do so consistently with their purpose, all
+statutory provisions must be interpreted in a way that
+is compatible with human
+(2) International law and the judgments of domestic, foreign and
+international courts and tribunals relevant to a human right may
+be considered
+in interpreting a statutory provision.
+Similar interpretive obligations are contained in s 48 of the
+ss 30–1 of the
+. Note that s 32(1) of the
+does not allow a provision to be interpreted so that it has no
+effect; any interpretation of provisions must not ‘displace
+Parliament’s
+intended purpose ... in a manner which avoids achieving the
+object of the legislation’.
+The leading authority on s 32(1) is the High Court decision in
+Momcilovic v The Queen
+which resulted in six disparate judgments offering varied guidance. Chief
+Justice French compared s 32(1) to the common law principle
+of legality, stating
+that ‘[s] 32(1) applies to the interpretation of statutes in the same way
+as the principle of legality
+but with a wider field of
+application’.
+The common law principle of legality is the presumption that
+‘Parliament does not intend to interfere with common law rights
+freedoms except by clear and unequivocal language for which Parliament may be
+accountable to the electorate’.
+Where the principle of legality applies, a court may potentially ‘read
+down’ a statutory provision to prevent it from
+interfering with common law
+In the High Court case of
+Coco v The Queen
+, a majority held that to interfere with fundamental
+common law rights, the principle of legality
+requires ‘a clear expression of an unmistakable and unambiguous
+intention’.
+Their Honours referred
+with approval to this concise summary of the principle of legality given by
+Brennan J in
+Re Bolton; Ex parte Beane
+: ‘Unless the
+Parliament makes unmistakably clear its intention to abrogate or suspend a
+fundamental freedom, the courts will not construe a statute
+that operation.’
+In Australia, the rationale for the principle of legality has tended to be
+based on legislative
+But in a subtly different approach, the ‘quintessential statement of the
+was delivered in the
+United Kingdom (‘UK’) by Lord Hoffmann in
+R v Secretary of State
+for the Home Department; Ex parte Simms
+: ‘But the principle of
+legality means that Parliament must squarely
+confront what it is doing and accept the political cost. Fundamental rights
+cannot be overridden by general or ambiguous
+, Victorian courts have tended to view s 32(1) as
+a codification of the principle of
+Bruce Chen notes that this
+approach may not be accurate or useful, as there are good reasons to give
+normative force and scope to s 32(1) than to the principle of
+yet courts are currently construing it to provide ‘unjustifiably
+weak’ protection.
+also offered some commentary on s 32(2) of the
+, with French CJ expressing caution about the application of
+foreign jurisprudence:
+Section 32(2) does not authorise a court to do anything which it cannot already
+do. ... If such a judgment concerns a term
+identical to or substantially the
+that in the statutory provision being interpreted, then its
+potential logical or analogical relevance is apparent. ... Nevertheless,
+international and foreign
+domestic judgments should be consulted with
+discrimination and
+Justice Gummow
+expressed similar cautions, noting the importance of situating statutory human
+rights within their specific constitutional
+In the Victorian Court of
+Appeal case of
+Bare v Independent Broad-Based Anti-Corruption Commission
+Warren CJ referenced this reasoning in relation to the application of s 32(2),
+noting she would ‘consider some of the foreign
+international jurisprudence, but ... with the caution urged by French CJ and
+Gummow J in
+In relation to the s 13 privacy right, it will be most defensible to apply
+overseas jurisprudence if the wording of the comparative
+provision is similar
+(such as art 17 of the
+Section 38(1) of the
+Victorian Charter
+imposes conduct obligations
+requiring public authorities (including public servants) to act compatibly
+with human rights and to give proper consideration to human
+rights in making any
+Similar conduct obligations
+can be found in s 58 of the
+and s 40B of the
+Castles v Secretary,
+Department of Justice
+’), Emerton J indicated
+that this is a practical task and not a legal one, noting that
+proper consideration of human rights should not be a sophisticated legal
+exercise. Proper consideration need not involve formally
+identifying the
+‘correct’ rights or explaining their content by reference to legal
+principles or
+jurisprudence.
+It follows that public servants are not required to undertake a
+legal exercise or apply current jurisprudence in order to fulfil their
+obligations to give proper consideration.
+As a matter of policy and procedure, public sector agencies usually prepare
+an assessment to demonstrate giving proper consideration
+to relevant human
+rights in respect of a decision and acting in accordance with such
+a data sharing proposal, such an analysis would usually involve identifying the
+engagement of the privacy right, including by
+considering whether the conduct is
+unlawful or arbitrary and (if arbitrary) assessing under s 7(2) whether any
+resulting limitation
+is reasonable and
+In Victoria, such an
+assessment would ideally be prepared alongside a privacy impact assessment with
+each informing the other.
+For a richer analysis of the s 13 privacy right, it is helpful to turn to the
+normative basis and origins of privacy rights more broadly.
+A Normative Framework: The Underlying Values
+This Part examines the normative and social values of privacy and data
+protection. Although the recognition of both privacy and data protection
+rights is not uniform across jurisdictions, the values underpinning
+those rights
+have relevance to all liberal democracies. This Part explores and expands on the
+following values, which I consider critical to effectively applying privacy
+and data sharing protection in the public sector:
+1 Privacy and data sharing protection have distinct but complementary
+foundations, offering versions of ‘opacity’ and
+‘transparency’ protection which are arguably both needed for
+adequate protection of private life.
+2 Democracy depends upon such protection — citizens need private
+free from both state interference and surveillance, to discover their own moral
+autonomy or
+personhood.
+3 A liberal state and its public authorities have a strong interest in
+supporting and upholding these elements of democracy, which
+are essential to the
+ongoing health of the
+it is necessary to limit privacy to enable the use of personal data by public
+authorities, democratic transparency and accountability
+are required — in
+reliance both on the transparency principles of data protection and also on
+theories of social licence.
+4 In adopting new privacy-impacting technologies, liberal states carry a
+special obligation to carefully consider and provide for
+the application of
+century and generally developed in parallel with (or in response to)
+technological advancement.
+formulations of privacy were around the value of ‘private
+the prevention of
+‘unreasonable searches and seizures’ reflected in the Fourth
+Amendment to the
+United States
+Constitution
+‘general right of the individual to be let alone’ as highlighted by
+Warren and Brandeis in their seminal 1890
+article ‘The Right to
+Such approaches reflected a
+growing sense of the importance of the liberty of citizens from the power of
+There has been considerable debate on the theoretical underpinnings of
+It has been described as a ‘concept in
+multidimensional, multi-faceted concept, the complexity of which is therefore
+hard to grasp within a single conceptual
+Theorists have focused on privacy as an essential component of
+individuals’ ability to develop social
+relationships,
+exercise self-determination
+over personal information
+or sustain a
+There are also critiques of privacy, ranging from the reductionist view that
+is nothing morally or legally distinctive about
+through to feminist
+critiques that privacy can be used as a shield to cover bad or criminal
+behaviour, particularly in the domestic
+in relation to a variety of fields of privacy, including bodily, spatial,
+communicational, proprietary,
+intellectual, informational, decisional,
+associational and behavioural.
+The traditional concept of privacy is concerned with protection of an
+intimate private life,
+reflective of
+the origins of privacy in the opacity,
+protection and secrecy of private information. We see this thread running
+through Prince Albert’s early 19
+century English legal action
+to protect his and Queen Victoria’s private
+Warren and Brandeis’
+article in the United States
+and recent UK
+decisions penalising a newspaper publisher for disclosure of the Duchess of
+Sussex’s private
+correspondence.
+century, privacy developed in a legal sense as a human
+under international law, such as the 1948
+Universal Declaration of Human
+formulation of these human rights focuses on
+private life and reputation.
+While privacy and data protection share some common ground, they emerge from
+distinct normative foundations. Data protection laws
+have tended
+to be based not on opacity but on transparency; namely an understanding
+that personal information can be legitimately processed and shared in
+The non-binding 1980 OECD
+on the Protection of
+provide one of the earliest examples of such an approach, seeking to
+establish a firm basis for the commercial use of data across
+Justice Michael Kirby, chair of the OECD expert group that developed these
+guidelines, later noted:
+The concern which propelled the OECD into the issues of privacy was the fear
+that its member states would introduce incompatible
+and conflicting laws for the
+defence of privacy in the newly established databases of the interlinked
+information technologies.
+In that sense, these OECD guidelines were intended to pre-empt
+Drawing a contrast between the two approaches, De Hert and Gutwirth identify
+transparency’,
+stating ‘[o]pacity tools embody normative choices about the limits of
+power; transparency tools come into play after these
+normative choices have been
+made in order still to channel the normatively accepted exercise of
+Transparency tools are
+procedural, specifying
+information
+may be handled, while opacity tools challenge
+it should be
+disclosed at all.
+The relationship between opacity and transparency tools can be visualised
+much like the protection of a house. A house offers opacity
+protection (walls, a
+roof, window coverings) essential to keep out the elements and prying eyes, but
+it also offers transparency
+protection (glass windows and open doors) to allow
+the inhabitants to experience the outdoors and venture outside. Just as both a
+transparent greenhouse and a highly protective but opaque bomb shelter
+are inadequate for comfortable housing, so the balance between opacity and
+transparency protection is arguably key to the design of
+an effective
+information privacy framework in the age of big data.
+The Australian
+, strongly influenced by the OECD
+Guidelines on the Protection of
+is reflective of the
+transparent normative foundation of data protection; subsequent state-based
+legislation follows a similar
+approach. Consequently, so-called ‘privacy legislation’ in
+Australia may be
+better characterised as data protection legislation and a tool of
+transparency. The legislation does contain limited opacity elements
+higher degree of protection it applies to narrowly defined ‘sensitive
+information’, such as
+personal information about racial or ethnic origin, sexual preference,
+religious beliefs, political opinions and criminal
+it is instructive to apply the house analogy to this framework and consider
+whether one of its
+weaknesses is its excessive transparency — additional opacity
+protection seems warranted.
+instruments, but it can be challenging to apply because
+has been described as ‘a relatively weak fundamental right’ on the
+basis that ‘not a single aspect of privacy
+takes absolute precedence over
+other rights and interests’.
+protection was recognised by the European Union as a fundamental right in
+art 8 privacy
+right has also been taken to encompass data
+protection,
+at least for ‘essentially private’
+But even in the commonly more rights-protective European environment, data
+protection may be treated in practice as a procedural right
+rather than as an
+inviolable right. Article 8 of the
+arguably includes both a
+transparency tool (‘in accordance with the law’) focusing on whether
+an interference with rights
+is appropriately authorised, and an opacity tool
+(whether the use of the data is ‘necessary in a democratic
+In their 2006 article, De Hert and Gutwirth argued that, in
+practice, the European Court of Human Rights was overly focused on the
+procedural requirement that the intervention be ‘in
+accordance with the law’, turning art 8 of the
+‘transparency-promoting
+De Hert and Gutwirth also consider it important that any law restricting privacy
+rights be authorised by a Parliament, noting that
+where this is not the case
+[d]emocratically there is a loss. Insisting on the content of law, rather than
+on the formal basis of law, has allowed the Court
+to declare certain regulations
+‘in accordance with the law’ that have not even been debated and
+approved by a
+parliament.
+The existence
+of a right to data protection is less clear outside Europe, including under the
+Victorian Charter
+. It is broadly assumed that the
+date there is little judicial precedent on this
+Social and Democratic Contribution
+Much of the academic discussion of privacy concerns its role as an individual
+benefit, but with an emerging parallel focus on privacy’s
+importance.
+For example, Cohen argues
+that information privacy is a ‘constitutive element of a civil
+Gellert and Gutwirth characterise it as ‘the ultimate defence line of
+liberty’, due to its role in filling the gaps left
+by more classical human
+rights in defending the boundary between citizen and
+describes this boundary as follows: ‘Privacy in this context represents
+“breathing room” that allows us to be ourselves,
+guided by our
+social interactions and value systems, and free to become engaged citizens away
+from the gaze of the
+An understanding of privacy’s social value is helpful because it counters
+the narrowing of information privacy to the status
+of individual choices and
+strengthens the argument for state protection against harms.
+the autonomy of
+which is central to democracy.
+Mokrosinksa
+considers that the autonomy afforded by privacy is both social and political:
+‘privacy preserves the conditions of individual
+autonomy by preserving the
+integrity of political
+practices’.
+Big data technologies and surveillance (fuelled by public sector data sharing)
+arguably threaten autonomy due to the vast
+reserves of personal data collected, amalgamated and analysed, and the lack
+of any form of genuine informed consent from data subjects
+to most of these
+activities.
+Social arguments have also been made for the importance of data
+protection. Rodotà comments that ‘the strong protection of
+personal data
+continues to be a “necessary utopia” if one wishes to safeguard
+the democratic nature of our political
+Rouvroy and Poullet argue that both privacy and data protection rights
+‘are necessary, in a democratic society, to sustain
+democracy’.
+Gellert and Gutwirth
+go further, positing that a reliance only on transparency tools (data protection
+rights) will be inadequate
+‘to keep intact the political private sphere of
+liberty’, and that it is essential to include opaque privacy rights,
+especially as a threshold test regarding the acceptance of new data
+Another strong argument for a social framing of privacy and data protection
+is that increasingly, the harms posed by privacy infringements
+incidents are not individual harms, but collective
+This follows from the scope and
+impact of big data analytics practices which carry societal
+impacts exceeding the harm to any individual. As Graef and van der Sloot
+note, ‘no individual can fully protect herself against
+collective harms
+considering the interdependent nature of privacy protection and the competitive
+harm data technologies cause’.
+It remains important to address individual harms, but a broader normative
+framing assists in making the case for legislative protection
+that extends to
+collective harms.
+The Role of ‘Social Licence’
+‘Social licence’ is a term used to represent the basis for an
+activity’s legitimacy as a form of social contract
+concept of social licence first arose in relation to extractive industries, such
+as forestry and mining: industries which carried
+benefits and risks and where
+there was a perceived need for community cooperation and
+acceptance.
+It is now common to see it
+raised in the context of data sharing — another activity with benefits and
+risks — to underpin
+or challenge the legitimacy of the
+A key concern of the
+Productivity Report
+was ‘putting at the
+front and centre of any data use the requirement to maintain a social
+considered of particular relevance to public sector data, given that public
+sector agencies operate under social licence — essentially
+a compact of
+credibility with the public.
+social licence can easily be broken if governments act in a way that is not
+transparent and trustworthy and fail to communicate
+the value of their
+activities to the public. Despite the fact that data sharing may be legal,
+‘legal authority does not necessarily
+command social
+legitimacy’.
+Productivity Report
+identified the following factors as important
+the maintenance of social licence for data sharing: shared public value;
+citizen control of participation; trust, through the use of data safeguards;
+and genuine accountability.
+In a recent review of the sharing of health data in the Australian public
+sector, Richards and Schneiber also identified the importance of social
+licence in data sharing, commenting that ‘[t]he key
+to appropriate
+governance in this area has consistently been identified as transparency,
+creation of trust and
+identification of the parameters of the social
+They add: ‘If an
+activity (such as data-sharing) occurs outside that licence, then the legitimacy
+activity is open to challenge even if it takes place within an established
+legal framework.’
+Digital Surveillance and Other Novel Technologies
+I have already noted that with the adoption by the public sector of big data
+techniques and other new data technologies, the impacts
+on privacy are
+dynamic and changing.
+An activity that receives special attention in the privacy literature is
+surveillance, which can be defined as a systematic, focused
+and routine pursuit
+of a person or their data in order to manage, protect, direct or influence
+Surveillance strongly engages the social value of privacy because its harms may
+extend beyond the individual to have a chilling effect
+Surveillance is generally presented as a security measure but depending on the
+mechanism, it may interfere with the intellectual
+and informational privacy of
+individuals and the power of free
+Given that the focus of this article is public sector data sharing,
+references to surveillance include but are not limited to the
+common use of the
+term to describe tracking or monitoring people’s movements or
+communications. As described above, public
+sector data sharing can facilitate
+the development of a full digital picture of an
+individual.
+Such data amalgamation
+‘collapses the divides that all people create between different areas of
+their lives ... [and]
+represents a loss of control of our carefully managed
+identities’.
+The bringing together
+of multiple public sector datasets may allow insight into a data
+subject’s conduct and preferences and may facilitate predictive
+analytics around future behaviour. It does not seem far-fetched
+to describe this
+as a form of
+digital surveillance.
+In adopting such new privacy-impacting technologies, states arguably have an
+obligation to carefully consider and provide for the
+application of privacy
+rights including by appropriately balancing opacity and transparency elements.
+The European Court of Human
+Rights considered that a particular duty applied to
+European jurisdictions in such cases: ‘any state claiming a pioneer role
+in the development of new technologies bears special responsibility for striking
+the right balance in this
+With this normative framework in mind, I move now to consider
+application of the legal framework in Victoria.
+Applying the
+Victorian Charter
+Assessing Victorian information privacy law through the lens of transparency
+and opacity tools, almost all of the legislative protection
+appears closely
+aligned to transparent data protection, rather than to opaque privacy
+protection. Like the
+is best characterised
+as a transparency tool, allowing the sharing of personal information if certain
+requirements are met.
+Records Act 2001
+Victorian Data Sharing Act 2017
+sector-specific data sharing provisions have a similar
+offer some opacity protection to ‘sensitive
+information’, as defined.
+protection can also be found in: the
+Surveillance Devices Act 1999
+which prevents the use of surveillance devices in private
+various secrecy provisions;
+potentially in
+Victorian Charter
+To return to the house analogy, Victorian information privacy legislation
+is largely a transparent greenhouse, with some isolated opaque sections
+provided by the legislative protection of sensitive information, restrictions
+on the use of surveillance devices in private spaces
+and secrecy
+provisions.
+This means that relevant
+legal arguments generally concern the transparency question of
+relevant information should be used or disclosed, rather than the opacity
+question of
+it should be used or disclosed.
+In this context,
+Victorian Charter
+has potential to offer
+considerable utility as a principles-level overlay in relation to privacy
+interferences, especially those
+arising from new data technologies. In essence,
+it could provide an opaque roof on the greenhouse, prohibiting or significantly
+certain novel uses of personal and private information, including the
+burgeoning use of artificial intelligence tools and applications.
+However, in the 15 years since it became fully operational,
+Victorian Charter
+has had a minimal impact on protecting privacy rights
+in Victoria. Paterson comments that the
+right is one of the most frequently
+Victorian Charter
+rights, but ‘it has not had a
+substantial impact because of the very small number of cases where it has played
+a determinative
+role in relation to the outcome of
+litigation’.
+She explains that this is frequently because the relevant conduct is not
+considered unlawful or arbitrary.
+internal limitations (‘unlawfully’ and ‘arbitrarily’)
+are effectively carve-outs in protection, weakening
+the opacity protection of
+the privacy right — if an interference is considered to be both
+non-arbitrary and lawful,
+has no real operation. In addition, the applicant
+bears the onus of proving that the relevant conduct was arbitrary or unlawful
+this is often a difficult task, especially given that pertinent evidence
+may be in the sole possession of the public
+The application and practical
+impact of these limitations is an important element of the balance between
+opacity and transparency.
+‘Arbitrarily’ Internal Limitation
+In relation to the ‘arbitrarily’ limitation, the
+Explanatory Memorandum expressed an intention that
+interpreted consistently with ‘the existing information privacy and health
+records framework in Victoria to the extent that
+it protects against arbitrary
+interferences’.
+The intention
+seems to be that an interference permitted by the existing transparency-focused
+data protection framework would not be considered arbitrary within the
+The recent Victorian Court of Appeal case of
+Thompson v Minogue
+’) concerned an application brought against prison
+authorities by a Victorian prisoner for urine testing and strip
+The Court confirmed that
+‘arbitrarily’ has a broad meaning, taken from international human
+rights law, such that an arbitrary
+interference is ‘one which is
+capricious, or has resulted from conduct which is unpredictable, unjust or
+unreasonable in the
+of not being proportionate to the legitimate aim
+strip searches were found to be arbitrary because even though they were not
+capricious, unpredictable or unjust, they were not
+proportionate to a legitimate
+aim and were ultimately incompatible with the applicant’s privacy
+‘Unlawfully’ Internal Limitation
+In relation to the construction of ‘unlawfully’ in
+United Nations
+Human Rights Committee noted in its commentary on the very similar art 17 of
+that a law limiting the privacy right should ideally meet
+certain minimum requirements of precision and clarity: ‘relevant
+legislation must specify in detail the precise circumstances in which such
+interferences may be
+permitted’.
+However, such an
+approach has not been clearly adopted by the Victorian judiciary.
+Re Kracke and Mental Health Review Board
+was an early Victorian Civil and Administrative Tribunal case in which Bell J
+sought to apply relevant international jurisprudence
+to construe
+‘unlawfully’ in the
+Victorian Charter
+focused most heavily on the ‘under law’ requirement of the general
+limitations clause in
+Victorian Charter
+, Bell J drew a
+parallel between that requirement and the references to unlawfulness elsewhere
+Victorian Charter
+, indicating that the same
+considerations applied in each case.
+Honour summarised the applicable European cases on art 8 of the
+Malone v United
+Olsson v Sweden
+Having regard to
+, it should be noted that these cases relate
+to a textually different provision and a different jurisprudential framework,
+potentially
+giving them lower weight in a Victorian
+concerned the application of art 8 of the
+wiretapping.
+In considering whether the
+wiretapping was ‘in accordance with the law’, the
+European Court of Human Rights held that ‘the law must indicate the
+scope of any such discretion conferred on the competent
+authorities and the
+manner of its exercise with sufficient clarity ... to give the individual
+adequate protection against arbitrary
+interference’
+also considered art 8 of the
+with approval and summarising the requirements of ‘in
+accordance with the law’ as requiring precision, quality of law
+clarity of scope of any discretion.
+These European authorities cited in
+are now relatively dated, but
+their approach to lawfulness remains current. The 2021 case of
+concerned a complaint about state
+surveillance.
+On the question of lawfulness in art 8 of the
+, the European Court of
+Human Rights reiterated its ‘settled’ case law, applying the same
+requirements outlined
+Turning to New Zealand, Bell J cited the approach to lawfulness taken by
+McGrath J in applying the
+New Zealand Bill of Rights Act 1990
+’) in the Supreme Court of New Zealand case of
+To be prescribed by law, limits must be identifiable and expressed with
+sufficient precision ... The limits must be neither ad hoc
+nor arbitrary and
+their nature and consequences must be clear, although the consequences need not
+be foreseeable with absolute
+This approach
+also remains settled law in New Zealand. The High Court of New Zealand case of
+Borrowdale v Director-General of Health
+concerned the legality of the
+exercise of public health powers during the COVID-19
+a joint judgment, the Court accepted that the restrictive measures imposed by
+government interfered with human rights under
+but inquired whether
+they were ‘prescribed by law’; applying the above passage from
+, the Court established the measures were not ‘prescribed by
+, Bell J summarised these principles as follows: ‘the
+law concerned must be adequately accessible, not uncertain or vague and
+sufficiently precise to enable people to predict its application and foresee its
+consequences to a reasonable
+For several years, this
+approach was considered by
+Victorian Charter
+commentators to form part of
+the applicable Victorian jurisprudence around s 13
+unlawfulness.
+But broader judicial support for this approach is rather thin, and recent
+decisions appear to have diverged from
+In the 2021 case of
+HJ v Independent Broad-Based Anti-Corruption
+’), the Victorian Court of Appeal
+addressed the construction of
+‘unlawfully’ by simply stating that it means infringing an
+applicable law.
+The case concerned
+Independent Broad-Based Anti-Corruption
+Commission (‘IBAC’) under
+specific legislative provisions and search
+The applicants conceded that
+IBAC had not acted unlawfully and the s 13 submissions turned instead on whether
+the action was arbitrary.
+Accordingly,
+the Court’s discussion of lawfulness was
+This narrow approach to unlawfulness was followed in
+relation to the ‘unlawfully’ limitation in s 13, the
+Court cited
+and indicated that the test for whether a restriction was
+unlawful was simply this: ‘An “unlawful” interference
+person’s privacy for the purposes of s 13(a) of the [
+] is one which infringes an applicable
+was no discussion of the
+approach or the international and
+comparative jurisprudence around the need for a positive law of adequate
+quality. The
+prisoner respondent conceded that the urine testing was lawful, but argued
+that the strip searching was not.
+Court rejected this argument, finding that the respondent had not discharged his
+onus of proof in demonstrating that the strip
+The effect of this failure to engage with the international and comparative
+jurisprudence around the adequacy of laws is to significantly
+restrict the scope
+of protection offered by s 13. The implication of
+is that there
+is no need for Parliament to have considered the issue and supplied a legal
+of adequate quality; the mere absence of an ‘applicable law’
+prohibiting the
+interference is adequate. This approach greatly expands the scope of the s 13
+‘unlawfully’ limitation, without any of
+the usual transparency
+requirements of procedural protection or parliamentary accountability. It also
+increases the
+difficulty of an applicant’s task in discharging the onus of proof
+— to prove that the conduct is unlawful they must identify
+a specific law
+prohibiting it, rather than simply establishing that the respondent’s
+legislative basis is of inadequate quality
+to limit the right. I have already
+indicated that there are relatively few legislative provisions prohibiting the
+use of personal
+information;
+is that an applicant would most likely need to prove a
+contravention of the
+or an opacity law before the conduct would be
+considered unlawful for the purposes of s 13. This is such a challenging task
+most applicants seeking to apply s 13 would be forced to prove instead that
+the conduct
+is arbitrary.
+It is worth mentioning that this is not about statutory vagueness. The High
+Court clearly established in
+Brown v Tasmania
+that, unlike in the US,
+there is no doctrine of vagueness in Australian law that would invalidate a law
+for lack of clarity alone.
+argument under s 32(1) and
+is not that a
+law permitting interference with privacy might be invalidated for lack of
+clarity, but that it might not be adequately clear and transparent
+to restrict a
+statutory right. In any event,
+allows a statutory right to be
+restricted by the mere absence of a law prohibiting the interference, which
+accords the right very
+little value. This approach is difficult to square with
+the principle of legality’s operation at common law (which requires
+clear expression of intention to
+interfere with the right) and as codified by s 32(1) of the
+approach also seems inconsistent with the
+well-accepted view that human rights drafting is entitled to more generous
+interpretation
+than other legislation, in order to give full meaning to the
+Applying the Privacy Right
+Given the risks posed by new data uses and the duty of the public sector and
+the courts to maintain a careful balance between opacity
+and transparency
+approaches, Victorian courts have taken a wrong turn, greatly undermining the
+opacity protection of s 13. Without serious consideration
+of the consequences of
+such an approach, the
+Court departed from the settled
+‘human rights’ approach to lawfulness taken in comparable
+that Victorian courts grapple with the practical
+implications of this departure, especially given the accepted approach of
+human rights in the ‘broadest possible
+This is also true for
+Queensland and ACT courts, where there is sparse jurisprudence on the meaning of
+‘unlawfully’ and
+Victorian authorities are likely to be highly
+persuasive.
+In discharging their s 38 obligation, I have already noted that
+encourages public servants to take a pragmatic approach which need not be
+closely tied to the latest
+jurisprudence.
+So it remains open in
+their assessment of lawfulness to follow
+rather than
+and require a clear
+legislative basis of adequate clarity and parliamentary
+accountability.
+This would more clearly
+demonstrate a proper consideration of the privacy right than following
+and would assist in upholding the government’s
+social licence for data sharing. Such an approach would be particularly
+appropriate when considering new data technologies associated with data
+sharing, such as public sector digital surveillance of various kinds and big
+data technologies including artificial intelligence initiatives.
+Arguably, this
+higher level of care is required to discharge the normative obligations
+connected with the introduction of novel data
+technologies.
+Concluding Recommendations
+Gellert and Gutwirth argue persuasively that one cannot assume that privacy
+and its associated social goods will be adequately protected
+solely by data
+protection legislation focused on
+transparency.
+This has particular
+relevance for Australian information privacy laws with their strong focus on
+transparency tools. For Australians
+to be protected against some of the harms
+associated with new data technologies, a level of opacity protection will be
+In Victoria and other jurisdictions with statutory human rights
+protection, including at the federal level under a future Bill of
+rights, this
+could be supplied by an appropriately construed and applied statutory privacy
+The meaning of ‘unlawfully’ in s 13 of the
+appears not
+to have been fully argued in
+by reference to
+international jurisprudence. That meant the Court in
+did not clearly weigh the consequences of its approach, which
+has the practical effect of reducing s 13 privacy protection by greatly
+expanding the impact of its
+internal limitations. I have already noted Paterson’s comment that the
+practice, partly due to the courts’ approaches
+to its internal
+limitations.
+In this age of big data
+technologies, it would be unfortunate for these internal
+limitations to be construed so broadly that the privacy right cannot provide
+a necessary overlay of opacity protection.
+The analysis of this article confirms Paterson’s observation that
+‘it is time
+to impose limitations on the extent to which other laws can override’
+Her useful suggestion
+is to emulate art 22(2)(b) of the
+, which only allows such an
+override where the overriding law provides suitable
+protections.
+Following that model would
+require legislative amendment to the
+Victorian Charter
+, for which there
+seems to be little appetite.
+without such amendment, courts have considerable latitude to apply existing
+principles of interpretation and avoid expanding
+the internal limitations of s
+13 such that they swallow up the right itself. Courts should also be alert to
+giving effect to s 32(1)
+Victorian Charter
+by applying a codified
+principle of
+legality and not allowing statutory rights to be overridden by the broader
+legislative framework, except where Parliament evinces clear intent to do so,
+and accordingly takes democratic accountability for
+the outcome.
+I have already noted that s 31 of the
+Victorian Charter
+specific mechanism (with in-built protections) to override
+In the absence of an
+art 22(2)(b)
+-style amendment, a s 31 override would be a more
+transparent and democratic method to enable a new public sector data technology
+or pattern of data sharing than the much less transparent use of expanded
+‘lawfulness’ — provided ‘exceptional
+circumstances’ exist within the meaning of s 31. But wherever possible,
+clear articulation of an adequate legislative basis
+for data use (with
+appropriate protections) is preferable to any s 31 override. While the override
+power may ensure data use does
+not contravene the
+Victorian Charter
+articulation of a coherent legislative foundation ensures any data use complies
+Victorian Charter
+in a substantive sense, which is surely
+preferable. It is also likely to be more palatable in a political sense than an
+of human rights protections.
+Public servants also have a duty to uphold democratic accountability and
+social licence in their assessment of data sharing proposals.
+They can most
+readily achieve this outcome by seeking (wherever possible) to advocate for or
+identify a clear legislative basis for
+public sector data practices, especially
+for data sharing arising from new data technologies such as artificial
+intelligence.
+Given the risk of harms to data subjects, courts and public servants in
+Victoria, Queensland and the ACT would be well advised to be mindful of the
+balance between opacity and transparency as they construe
+constrained approach to the s 13 internal limitations will better protect the
+residents of those jurisdictions
+in an age of big data and intrusive data
+practices, require more democratic accountability from Parliament, and assist
+in supporting the social value of privacy and the social
+licence around data
+sharing. This would allow human rights legislation to truly act as an extra
+layer of protection, potentially
+filling existing gaps in the information
+legislative framework and futureproofing it against other deficits.
+* PhD candidate at Deakin University and Head of Data Sharing at the
+Department of Transport and Planning, Victoria, overseeing driver
+and vehicle
+data. The views expressed in this article are my own and not necessarily those
+of the Department. I wish to thank my
+supervisory
+team of Shiri Krebs, Matthew Groves and Bruce Chen for their ongoing support
+and valuable input, and Dan Meagher, Ben Saunders, Jake
+Goldenfein and the
+anonymous reviewers for their helpful comments.
+See generally Brad Brown, Michael Chui
+and James Manyika, ‘Are You Ready for the Era of “Big
+Data”?’ [2011]
+McKinsey Quarterly
+Department of the Prime Minister and
+Australian Data Strategy: The Australian
+Government’s Whole-of-Economy Vision for Data
+(Report, 2021) 17
+<https://www.finance.gov.au/sites/default/files/2022-10/australian-data-strategy.pdf>.
+Victorian Government, ‘Victorian
+Public Sector Data Sharing Policy’,
+(Web Page, 14 September
+<https://www.data.vic.gov.au/victorian-public-sector-data-sharing-policy>,
+archived at <https://perma.cc/AJS6-L3D8>.
+Productivity Commission (Cth),
+Availability and Use
+(Inquiry Report No 82, 31 March 2017) 117–18
+https://www.pc.gov.au/inquiries/completed/data-access/report/data-access.p‌df
+archived at <https://perma.cc/XC3J-ZX8P>.
+See Moira Paterson and Maeve McDonagh,
+‘Data Protection in an Era of Big Data: The Challenges Posed by Big
+Personal Data’
+[2018] MonashULawRw 1
+(2018) 44(1)
+Monash University Law Review
+Office of the Australian Information
+Commissioner,
+Data Breach Preparation and Response: A Guide to Managing Data
+Breaches in Accordance with the
+July 2019) 8 <
+https://www.oaic.gov.au/__data/assets/pdf_file/0017/1691/data-breach-preparation-and-response.pdf
+archived at <https://perma.cc/QQ3A-E6DR>.
+See, eg, Kate Galloway, ‘Big Data,
+Government, Privacy and Human Rights’ in Paula Gerber and Melissa Castan
+Critical Perspectives on Human Rights Law in Australia
+Reuters, 2021) vol 2, 357, 359–61.
+Australian Privacy Principles
+Protection Act 2014
+(Vic) sch 1 (‘
+Information Privacy
+(definition of ‘personal information’) (‘
+(definition of ‘personal information’) (‘
+See Moira Paterson, ‘The Uses of
+AI in Government Decision-Making: Identifying the Legal Gaps in Australia’
+(2020) 89(4)
+Mississippi Law Journal
+, 660–1 (‘The Uses of
+See Inge Graef and Bart van der Sloot,
+‘Collective Data Harms at the Crossroads of Data
+Protection and Competition Law: Moving beyond Individual Empowerment’
+(2022) 33(4)
+European Business Law Review
+Paterson, ‘The Uses of AI’
+) 658–61, 664–5.
+See generally Australian Human Rights
+Commission,
+Free & Equal: A
+Human Rights Act
+for Australia
+Paper, December 2022). In March 2023, the Commonwealth Attorney-General
+initiated a parliamentary inquiry into the adequacy
+of the Australian human
+rights framework, to be reported by March 2024: ‘Inquiry into
+Australia’s Human Rights Framework’,
+Parliament of Australia
+<https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Human_Rights/HumanRightsFramework>,
+<http‌s:/‌‌‌/‌‌perma.‌‌‌‌‌‌cc/8K‌X9-V9KG>.
+Galloway (n
+) argues that a legal right to privacy is
+essential to protect Australians against harms from government use of big data,
+that such legislation could provide a foundational privacy standard
+which would be a ‘technology-neutral approach to upholding
+rights to data protection, and therefore protection of individuals
+themselves’: at 378. See also at 357–8.
+See Priscilla M Regan,
+Legislating
+(University of North
+Carolina Press, 1995) 5–7 (‘
+Legislating Privacy
+Paterson and McDonagh (n
+Office of the Australian Information
+Commissioner,
+Guide to Data Analytics and the Australian Privacy
+(Guide, March 2018) 6 <
+https://www.oaic.gov.au/privacy/guidance-and-advice?a=3086
+archived at <https://perma.cc/JG4T-ALFE> (‘
+Guide to Data
+David Gewirtz, ‘Volume,
+Velocity, and Variety: Understanding the Three V’s of Big Data’,
+(Web Page, 21 March 2018)
+<https://www.zdnet.com/article/volume-velocity-and-vari‌ety‌-understanding-the-three-vs-of-big-data/>,
+archived at <https://perma.cc/S2MQ-XLYC>.
+Paterson and McDonagh (n
+Regulation (EU) 2016/679 of the
+European Parliament and of the Council of 27 April 2016 on the Protection of
+Natural Persons with
+Regard to the Processing of Personal Data and on the
+Free Movement of Such Data, and Repealing Directive 95/46/EC (General Data
+Regulation)
+[2016] OJ L 119/1 art 4(1) (‘
+) refers to a
+‘data subject’ as ‘an identified or identifiable natural
+person’ to whom any information relates.
+Organization for Economic Co-Operation
+and Development,
+Data-Driven Innovation:
+Big Data for Growth and Well-Being
+(Report, 2015) 17
+<https://read.oecd-ilibrary.org/science-and-technology/data-driven-innovation_9789264229358-en#page1>,
+https://per‌ma‌‌.cc/Y35X-5ZSS
+Data-Driven Innovation
+Productivity Commission (Cth) (n
+) 108–14. It is worth noting that
+the Australian Productivity Commission’s methodology depended heavily on
+stakeholder
+submissions and interviews, not original inquiry: at 393.
+Data-Driven Innovation
+Office of the Australian Information
+Commissioner,
+Australian Community Attitudes to Privacy Survey 2020
+(Report, September 2020) 27–8
+<https://www.oaic.gov.au/engage-with-us/research/australian-community-attitudes-to-privacy-survey-2020-landing-page>,
+archived at <https:‌‌/‌‌/perma.cc/N8PU-8DMH>.
+Australian Competition and Consumer
+Commission,
+Digital Platforms Inquiry
+(Final Report, June 2019)
+384–93, 442–8
+<https://www.accc.gov.au/system/files/Digital%20platforms%20inquiry%20-%20final%20report.pdf>,
+archived at <https://perma.cc/SM3T-AUB7>.
+Daniel J Solove, ‘A Taxonomy of
+(2006) 154(3)
+University of Pennsylvania Law Review
+Ibid 488–9.
+Paterson and McDonagh (n
+) 3–4. See also
+) s 6 (definition of
+information’ paras (a)–(b)). For definitions of ‘data
+integration’, ‘data matching’ and ‘data
+Guide to Data Analytics
+One notorious example concerns the
+chain store Target, which accurately determined that a teenage girl was pregnant
+based on her
+purchase of certain products and then proceeded to send her coupons
+for baby products. Her father was incensed and complained, but
+later discovered
+that Target was aware of her condition before he was: Charles Duhigg, ‘How
+Companies Learn Your Secrets’
+(16 February 2012)
+The New York Times
+Guide to Data Analytics
+See, eg, Department of the Prime
+Minister and Cabinet (n 2) 8; Services Australia,
+Modernising Our Services
+(Report, 23 November 2022) 4 <
+https://www.servicesaustralia. gov.au/sites/default/files/2022-09/modernising-our-services.pdf
+In relation to the United States public sector, it is said that
+‘[c]itizens are accustomed to the experiences offered
+by companies from
+Amazon to Zillow and now want the same from governments’: Tony
+D’Emidio et al, ‘The Public Sector
+Gets Serious about Customer
+Experience: 8 Things You Should Know about Customer Experience in the Public
+Sector’ [2019] (3)
+McKinsey Quarterly
+See generally Bruce Baer Arnold,
+‘I’ve Given Out My Medicare Number: How Worried Should I Be about
+the Latest Optus Data
+The Conversation
+(online, 29
+September 2022)
+<https://theconversation.com/ive-given-out-my-medicare-number-how-worried-sho uld-i-be-about-the-latest-optus-data-breach-191575>,
+archived at <https://perma.cc/X337-GENF>.
+Clancy Yeates, ‘“A Gift to
+Telstra”: Cyberattack To Hit Optus’ Reputation’,
+(online, 30 September 2022)
+<https://www.theage.com.au/business/companies/a-gift-to-telstra-cyberattack-to-hit-optus-reputation-20220928-p5blmq.html>,
+archived at <https://perma.cc/N3HS-YY7W>.
+See Galloway (n 8) 372.
+Galloway (n 8) discusses these risks
+in the context of aggregation of government data and elimination of silos: at
+Public Records Act
+(definition of ‘public office’),
+For example, Victorian driver licence
+records are required to be retained for 85 years: Keeper of Public Records
+Retention and Disposal Authority for Records of Vehicle Registration
+and Driver Licensing
+(PROS 09/08 VAR 3, 23 December 2009) 14.
+Data-Matching Program (Assistance
+and Tax) Act 1990
+‘Centrelink Data Matching
+Activities’,
+Services Australia
+(Web Page, 23 October 2023) <
+https://www.servicesaustralia.gov.au/centrelink-data-matching-activities
+archived at <https://perma.cc/ST3P-674Z>.
+Royal Commission into the Robodebt
+(Report, 7 July 2023) vol 1, v, xxiv, xxix. See also David Braue,
+‘Robodebt a “Massive Failure” of Government Automation:
+Federal Court Slams Shameful Chapter in Welfare Legacy’,
+Information Age
+(online, 15 June 2021)
+<https:‌‌‌‌//ia.acs.org.au/article/2021/robodebt-a--massive-failure--of-government-automation.html>.
+The letters patent establishing the Royal Commission into the Robodebt Scheme
+identifies the establishment, design and implementation
+of the scheme as an
+appropriate subject of the inquiry: Letters Patent for the Royal Commission into
+the Robodebt Scheme from Mark
+Dreyfus, Attorney-General to Catherine Ena Holmes,
+18 August 2022, 2
+<https://robodebt.royalcommission.gov.au/publications/letters-patent>,
+archived at <https://perma.cc/R‌67L-JCYL>.
+Adamantia Rachovitsa and Niclas
+Johann, ‘The Human Rights Implications of the Use of AI in the Digital
+Welfare State: Lessons
+Learned from the Dutch
+Human Rights Law Review
+Netherlands Juristen Comité
+voor de Mensenrechten v Netherlands
+(Hague District Court,
+No C/09/550982 / HA ZA 18-388, 5 February 2020) [6.7] <
+https://uitspraken.rechtspraak.n‌l/#!/details?id=ECLI:NL:RBDHA:2020:1878
+archived at <https://perma.cc/W2ST-H7SZ>, citing
+Wet structuur
+uitvoeringsorganisatie werk en inkomen
+[Work and Income Implementation
+Organisation Structure Act] (Netherlands) 29 November 2001, art 65, as at 9
+October 2013. See generally
+ibid for an explanation of the case and its
+consequences.
+Michael K McCall, Margaret M Skutsch
+and Jordi Honey-Roses, ‘Surveillance in the COVID-19 Normal: Tracking,
+Tracing, and Snooping’
+(2021) 10(2)
+International Journal of E-Planning
+See, eg, Serena Seyfort,
+‘Victorian Government Assures Public COVID-19 Contact Tracing Data Can
+Only Be Shared in “Life
+or Death Matters”’,
+(online, 28 December 2021) <
+https://www.9news.com.au/national/coronavirus-victoria-update-state-government-assure‌s-public-covid-19-contact-tracing-data-can-only-be-shared-in-life-or-death-matters/ae18c5a‌5‌-25ec-42ec-abcf-ef9b21ebd027
+archived at <https://perma.cc/BGW4-YTX2>. See also ‘COVID-19
+Check-In Apps and Privacy’,
+Office of the Australian Information
+Commissioner
+<https://www.oaic.gov.au/privacy/your-privacy-rights/more-privacy-rights/cov‌id-19/covid-19-check-in-apps-and-privacy>,
+archived at <https://perma.cc/8MZJ-F3N8>.
+Jeremy Nadel, ‘AFP, Vic Police
+and Illion Requested Victorian QR Code Data’,
+(online, 13
+December 2021)
+<https://www.itnews.com.au/news/afp-vic-police-and-illion-request-victorian-qr-code-data-573905>,
+archived at <https://perma.cc/V49Y-7EX8>.
+Public Health and Wellbeing Act
+div 8, as inserted by
+Public Health and Wellbeing
+Amendment (Pandemic Management) Act 2021
+This amendment was made
+as part of the Victorian government’s commitment to parliamentary
+cross-benchers in securing an extension
+of the pandemic state of emergency:
+Daniel Andrews, Premier of Victoria, ‘Laws To Enshrine Safe and Clear
+Pandemic Responses’
+(Media Release, 26 October 2021)
+<htt‌ps://www.premier.vic.gov.au/laws-enshrine-safe-and-clear-pandemic-respon‌ses>‌,
+archived at <https://perma.cc/3DZH-2TUM>.
+Productivity Commission (Cth) (n
+Australian Law Reform Commission,
+Serious Invasions of Privacy in the Digital Era
+Report No 123, June 2014) 51 [3.50]
+<https://www.alrc.gov.au/wp-content/uploads/2019/08‌/final_report_123_whole_report.pdf>,
+archived at <https://perma.cc/7MB8-XE2V> (‘
+Serious Invasions of
+Ibid 51–3 [3.50].
+Australian Human Rights Commission,
+Human Rights and Technology
+(Final Report, 1 March 2021) 119–20
+<https://humanrights.gov.au/our-work/rights-and-freedoms/publications/hum‌a‌n-rights-and-technology-final-report-2021>,
+archived at <https://perma.cc/2PQN-HJW‌8>.
+Ibid 121–3.
+Ibid 122 n 673, quoting
+Commissioner v Telstra Corporation Ltd
+[2017] FCAFC 4
+(2017) 249 FCR 24
+36 [63] (Kenny and Edelman JJ, Dowsett J agreeing at 25 [3]).
+Australian Competition and Consumer
+Commission (n
+Taylor argues that extending privacy
+protection to groups is essential to effectively protect
+people from harm within a modern information society in which data relating
+to multiple persons (group data) will be the data ‘that
+fundamentally
+reshapes the conditions under which future generations live and work’:
+Mark J Taylor, ‘“Personal
+Information” and Group Data under
+(2020) 94(10)
+Australian Law Journal
+Paterson, ‘The Uses of AI’
+) 658–60, 665.
+Attorney-General’s Department
+(Report, 2022) <
+https://www.a‌g.gov.au/sites/default/files/2023-02/privacy-act-review-report_0.pdf
+’). Recommendations include a proposed
+broader definition of ‘personal information’ in s 6 of the
+), replacing the
+restrictive ‘about an identified individual’ with the broader
+‘relates to an identified individual’:
+) 23–7. However, the
+) appears to contain
+no proposals to extend privacy protection to groups rather than individuals,
+move away from the focus on ‘purpose’
+of use or limit legislative
+overrides of privacy protection.
+Maria O’Sullivan, ‘The
+Review Report 2022: A Radical Review or Just a Re-Imagining?’
+(2023) 51(1)
+Australian Business Law Review
+Australian Government,
+Review Report
+(Report, 28 September 2023) 2, 4
+<https://www.ag.gov.au/sites/default/files/2023-09/government-response-pr‌ivacy-act-review-report.PDF>.
+See also ibid 52.
+[1937] HCA 45
+(1937) 58 CLR 479
+, 495–6 (Latham
+CJ), 508 (Dixon J), 526–7 (McTiernan J).
+(2001) 208 CLR 199
+, 328 [335]. See
+also at 248–9 [106]–[107] (Gummow and Hayne JJ, Gaudron J agreeing
+at 231 [58]).
+In the County Court of Victoria, Judge
+Hampel found that the publication of the complainant’s personal
+information by the Australian
+Broadcasting Company constituted a tortious action
+of invasion of privacy:
+Doe v Australian Broadcasting Corporation
+, [157]. A common law right of privacy was also identified in the
+Queensland District Court case
+Grosse v Purvis
+(2003) Aust Torts Reports 81–706, 64187
+[446] (Skoien J).
+Farm Transparency International Ltd
+v New South Wales
+(2022) 403 ALR 1, 11 [39] (Kiefel CJ and Keane J),
+22–3 [90] (Gageler J), 37–8 [159] (Gordon J), 55–6
+[233]–[238]
+(Edelman J).
+See also Warren CJ’s comment that ‘the question of whether such a
+[privacy] right exists at common law, and if so, its
+scope, is yet to be settled
+by the High Court or a superior court of record’:
+WBM v Chief
+Commissioner of Police
+[2012] VSCA 159
+(2012) 43 VR 446
+, 465 [81] (Hansen JA agreeing at 475
+[133]). For a brief discussion of the common law right, see Victorian Law Reform
+Commission,
+Surveillance in Public Places
+(Final Report No 18, May 2010)
+128–30 [7.7]–[7.15]; Australian Law Reform Commission,
+Information: Australian Privacy Law and
+(Final Report No 108, May 2008) vol 3, 2250–2
+[74.61]–[74.69] <
+https://www.a‌lrc.gov.au/wp-content/uploads/2019/08/108_vol3.pdf
+archived at <https://perma.cc/9D77-EQHE>.
+) 37 [4.4.1] n 207; Organization for
+Economic Co-Operation and Development,
+Guidelines on
+the Protection of
+(Guidelines, 23 September 1980)
+<https://www.oecd-ilibrary.org/oecd-guidelines-on-t‌he-protection-of-privacy-and-transborder-flows-of-personal-data_5lmqcr2k94s8.pdf?>,
+archived at <https://perma.cc/YK2V-DAWY> (‘
+Guidelines on the
+Protection of Privacy
+) ss 6 (definitions of ‘APP
+entity’ and ‘contracted service provider’), 6A(2), 6C(1), (3),
+6D(1), (4)(e),
+13(1), (3), 15. If a state government contractor is operating
+under an outsourcing arrangement, it will usually be covered by the
+) to the extent of that
+arrangement, and by the
+) for its internal business activities:
+) ss 3 (definitions of
+‘contracted service provider’ and ‘State contract’),
+Information Privacy Act 2000
+Information Privacy Act
+’), as repealed by
+s 126. See also Victoria,
+Parliamentary Debates
+, Legislative Assembly,
+12 June 2014, 2106–9 (Robert Clark, Attorney-General). The data security
+protections were added in part
+to address issues identified by the Victorian
+Auditor-General in a highly critical 2009 report which found that public sector
+information
+in Victoria was poorly protected with inadequate data sharing
+practices: Victorian Auditor-General’s Office,
+Maintaining the
+Integrity and Confidentiality of Personal Information
+(Parliamentary Paper
+No 258 of 2006–09, November 2009)
+vii–viii, 22–4
+<https://www.audit.vic.gov.au/sites/default/files/20091125-Data-Integrity-Full-Report.pdf?>,
+at <https://perma.cc/U4QS-CPH8>.
+See John Howard, Prime Minister,
+‘Privacy Legislation’ (Media Release, 21 March 1997)
+<https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010278.pdf>.
+Information Privacy Act
+) ss 5, 9(1);
+) ss 1(a), (d), 13.
+Information Privacy Act
+Information Privacy
+Information Privacy Principles
+Information Privacy
+) sch 1 cl 1.
+Information Privacy Principles
+Information Privacy
+) sch 1 cl 2.
+Information Privacy Principles
+) cls 2.1(a)(i), 3, 4, 6, 10;
+Information Privacy Act
+sch 1 cls 2.1(a)(i), 3, 4, 6, 10.
+) ss 84(1), 86.
+See Office of the Victorian
+Information Commissioner,
+IPP 2: Use and Disclosure
+(Guidelines,
+ed, 14 November 2019) 4–5 [2.11]–[2.14]
+<https://ovic.vic.gov.au/wp-content/uploads/20‌19/11/IPP-2-2019.B.pdf>,
+archived at <https://perma.cc/7W6R-N3TM>.
+) s 3 (definition of ‘personal
+information’).
+Mental Health and
+Wellbeing Act 2022
+Road Safety Act 1986
+Marine Safety Act 2010
+Judicial Proceedings
+Reports Act 1958
+Gambling Regulation Act 2003
+Health Records Act 2001
+Independent Broad-Based Anti-Corruption Commission Act 2011
+Human Rights Act 2004
+Human Rights Act 2019
+Moira Paterson, ‘Privacy Rights
+and Charter Rights’ in Matthew Groves and Colin Campbell (eds),
+Australian Charters of Rights a Decade on
+(Federation Press, 2017) 203,
+Charter of Human Rights and
+Responsibilities Act 2006
+Victorian Charter
+commenced in 2004, provided a legislative model for human rights legislation in
+Australian jurisdictions: see endnote 3.
+Explanatory Memorandum,
+Human Rights and Responsibilities Bill 2006
+(Vic) 1, 7 (‘Charter
+Explanatory Memorandum’), discussing
+International Covenant on Civil
+and Political Rights
+, opened for signature 16 December
+1966, 999 UNTS 171
+(entered into force 23 March 1976) (‘
+Victorian Charter
+Michael Brett Young,
+Commitment to Culture: The 2015 Review of the Victorian
+Charter of Human
+Rights and Responsibilities Act 2006 (Parliamentary Paper No 77 of
+September 2015) 22–3 (‘
+2015 Review of the Victorian
+’). The second reading speech stated that ‘[t]his bill
+seeks to achieve a rights respecting culture across government
+community’: Victoria,
+Parliamentary Debates
+, Legislative Assembly,
+4 May 2006, 1295 (Rob Hulls, Attorney-General).
+Victorian Charter
+) Preamble.
+Re Kracke and Mental
+Health Review Board
+(2009) 29 VAR 1, 125 [590]–[591] (Bell J)
+Convention for the Protection of
+Human Rights and Fundamental Freedoms
+, opened for
+signature 4 November
+1950, 213 UNTS 221
+(entered into force 3 September 1953)
+Thompson v Minogue
+[2021] VSCA 358
+, 316 [44] (Kyrou, McLeish and Niall JJA)
+’). The unlawfulness must be independent of the
+Victorian Charter
+merely because of s 38:
+Burgess v Director of Housing
+[2014] VSC 648
+[219] (Macaulay J).
+Paterson, ‘Privacy Rights and
+Charter Rights’ (n
+Alistair Pound and Kylie Evans,
+Annotated Victorian Charter of Rights
+(Lawbook, 2
+115 [13.40].
+) 321 [74] (Kyrou, McLeish and Niall
+Victorian Charter
+) ss 31(3)–(4).
+Ibid s 31(7). See also ss 43–5
+), but note
+that no such override provision exists in the
+Julie Debeljak, ‘Of Parole and
+Public Emergencies: Why the Victorian
+Override Provision Should
+Be Repealed’
+[2022] UNSWLawJl 19
+(2022) 45(2)
+University of New South Wales Law Journal
+Ibid 571 n 3. It is worth noting that
+the two prisoner overrides arguably did not meet the
+‘exceptional circumstances’ threshold and the sunset provision
+was disapplied in both cases: at 593–4, 606, 610–11.
+Review of the Victorian Charter
+) recommended the repeal of s 31: at
+Charter Explanatory Memorandum (n
+(2011) 245 CLR 1
+Ibid 50 [51].
+Ibid 46 [43].
+Bruce Chen, ‘Revisiting
+Section 32(1) of the Victorian
+: Strained Constructions and
+Legislative Intention’
+[2020] MonashULawRw 6
+(2020) 46(1)
+Monash University Law Review
+[1994] HCA 15
+(1994) 179 CLR 427
+, 437 (Mason CJ,
+Brennan, Gaudron and McHugh JJ, Deane and
+Dawson JJ agreeing at 446).
+[1987] HCA 12
+(1987) 162 CLR 514
+, 523, quoted in
+Bruce Chen, ‘The Principle of
+Legality and s 32(1) of the Victorian Charter: Is the Latter a Codification of
+the Former?’
+(2020) 31(4)
+Public Law Review
+, 448 (‘The
+Principle of
+Legality’); Robert French, ‘The Principle of Legality and
+Legislative Intention’
+(2019) 40(1)
+Statute Law Review
+Dan Meagher, ‘The Common Law
+Principle of Legality in the Age of Rights’ (2011) 35(2)
+Melbourne University Law Review
+[1999] UKHL 33
+[2000] 2 AC 115
+Chen, ‘The Principle of
+Legality’ (n
+) 445. See, eg,
+Nigro v Secretary
+Department of Justice
+[2013] VSCA 213
+(2013) 41 VR 359
+[85] (Redlich, Osborn and Priest JJA).
+Chen, ‘The Principle of
+Legality’ (n
+) 450, 453.
+) 36–7 [18]–[19] (emphasis
+Ibid 89–90 [155]–[159].
+Justice Gummow raised particular reservations about the application in Australia
+of House of
+Lords decisions under the
+Human Rights Act 1998
+(UK), given
+the UK’s distinctly different legal framework: at 84 [146], 88 [151], 90
+[2015] VSCA 197
+(2015) 48 VR 129
+, 189 [186]
+’), discussing
+) 37–8 [19]–[20]
+(French CJ), 83–9 [146], 90 [159] (Gummow J).
+) 36–7 [18] (French CJ).
+‘Public authority’ is
+defined in the
+Victorian Charter
+) to include any Victorian public servant
+and a range of other bodies encompassing the Victorian public sector: at s
+Note that under s 58(1) of the
+), the obligation to
+proceed compatibly with human rights applies to both acts and decisions. Under
+Victorian Charter
+applies only to actions; the conduct obligation for decisions is to ‘give
+proper consideration to a
+relevant human right’: at s 38(1).
+[2010] VSC 310
+(2010) 28 VR 141
+, 184 [185].
+See Paul Barnes et al, ‘The
+Victorian Charter of Human Rights and Public Policy: An Exploration of
+Decision-Making Processes’
+(ANZSOG Work-Based Project Reports No 2,
+November 2023) 12–16
+<https://anzsog.edu.au/app/uploads/2023/11/WPB2-Barnes-et-al-2022-FINA​L.pdf>,
+archived at <https://perma.cc/5974-JLJU>. No particular format is required
+Victorian Charter
+assessment; agencies may develop it as a memo, a briefing note, or a legal
+advice: see
+PJB v Melbourne Health
+[2011] VSC 327
+(2011) 39 VR 373
+, 442 [311] (Bell J)
+If the conduct is unlawful, it
+cannot be excused on the basis that it is reasonable; the balancing under s 7(2)
+only applies if the
+318–19 [58] (Kyrou, McLeish and Niall JJA).
+There is a guide and template for
+(Guide, April 2021)
+<https://ovic.vic.gov.au/privacy/privacy-impact-assessment/>,
+archived at <https://perma.cc/92L2-WKS3>.
+Galloway (n
+) 365, citing Julie E Cohen, ‘What
+(2013) 126(7)
+Harvard Law Review
+Neil M Richards, ‘The Dangers
+of Surveillance’
+(2013) 126(7)
+Harvard Law Review
+1945–6; Volker Boehme-Neßler, ‘Privacy: A Matter of
+Democracy’ (2016) 6(3)
+International Data Privacy Law
+227–8; Jeffrey H Reiman, ‘Privacy, Intimacy, and Personhood’
+(1976) 6(1)
+Philosophy and Public Affairs
+Helen Nissenbaum,
+Context: Technology, Policy, and the Integrity of Social Life
+(Stanford Law Books, 2009) 86–7, citing Regan,
+Legislating
+). An example of state
+support for privacy protection is the secret ballot, which was initially
+controversial but is now accepted
+as a key element of citizen participation in
+democracy: Annabelle Lever,
+(Routledge, 2012) 23–4.
+Urs Gasser, ‘Recoding Privacy
+Law: Reflections on the Future Relationship among Law, Technology, and
+(2016) 130(2)
+Harvard Law Review Forum
+Oliver Diggelmann and Maria Nicole
+Cleis, ‘How the Right to Privacy Became a Human Right’
+(2014) 14(3)
+Human Rights Law Review
+Samuel D Warren and Louis D
+Brandeis, ‘The Right to Privacy’ (1890) 4(5)
+Harvard Law
+As an example, the Fourth Amendment
+United States
+Constitution
+emerged in response to the impacts of
+‘general warrants’ in England and the new American colonies, which
+allowed the
+state to search private property without probable cause or
+specificity: Priscilla H Machado Zotti,
+Injustice for All: Mapp vs Ohio and
+the Fourth Amendment
+, ed David A Shultz (Peter Lang, 2005) 50–60.
+Megan Richardson,
+Introduction to Privacy Law
+(Edward Elgar Publishing, 2020) 12.
+Solove, ‘A Taxonomy of
+Raphaël Gellert and Serge
+Gutwirth, ‘Beyond Accountability, the Return to Privacy?’ in Daniel
+Guagnin et al (eds),
+Managing Privacy through Accountability
+Macmillan, 2012) 261, 261.
+James Rachels, ‘Why Privacy
+Is Important’ (1975) 4(4)
+Philosophy and Public Affairs
+Robert S Gerstein, ‘Intimacy
+and Privacy’ (1978) 89(1)
+Alan F Westin,
+(Atheneum, 1967) 7.
+Roger Clarke, ‘Privacy and
+Social Media: An Analytical Framework’ (2014) 23(1)
+Journal of Law,
+Information and Science
+See, eg, Judith Jarvis Thomson,
+‘The Right to Privacy’ (1975) 4(4)
+Philosophy and Public
+Catharine A MacKinnon,
+Feminist Theory of the State
+(Harvard University Press, 1989)
+Bert-Jaap Koops et al, ‘A
+Typology of Privacy’
+(2017) 38(2)
+University of Pennsylvania Journal of
+International Law
+Megan Richardson, ‘A Common
+Law of Privacy?’ [2021] (March)
+Singapore Journal of Legal Studies
+Prince Albert v Strange
+[1849] EngR 669
+(1849) 1 Mac & G 25
+; 41 ER 1171, 1178 (Cottenham LC).
+Warren and Brandeis (n
+of Sussex v Associated Newspapers Ltd
+[2021] EWHC 273
+[2021] 4 WLR 35
+, [170] (Warby J), affd
+Duchess of Sussex v Associated Newspapers Ltd
+[2022] 4 WLR 81
+[104]–[106] (Vos MR, Sharp P agreeing at [107], Bean LJ agreeing at
+Universal Declaration of Human
+, GA Res 217A (III), UN GAOR, UN Doc A/810 (10 December 1948).
+Ibid art 12;
+Paul De Hert and Serge Gutwirth,
+‘Privacy, Data Protection and Law Enforcement: Opacity of the Individual
+and Transparency
+of Power’ in Erik Claes, Antony Duff and Serge Gutwirth
+(Intersentia, 2006) 61,
+Guidelines on the Protection of
+Justice Michael Kirby,
+‘Privacy Protection, a New Beginning: OECD Principles 20 Years on’
+(1999) 6(3)
+De Hert and Gutwirth (n
+See above n
+and accompanying text.
+) s 6 (definition of ‘sensitive
+information’);
+Australian Privacy Principles
+Information Privacy
+) cl 10.1. The
+definition of ‘sensitive information’ is set out at the beginning of
+Information Privacy Principles
+Serious Invasions of Privacy
+) 30 [2.7];
+Director, Transport Safety Victoria
+[2016] VSC 285
+(2016) 260 IR 327
+, 345 [67] (Bell J)
+De Hert and Gutwirth (n
+Charter of Fundamental Rights of
+the European Union
+[2000] OJ C 364/1, art 8. Within the European Union, data
+protection was legislated in the
+Directive 95/46/EC of the European
+Parliament and of the Council of 24 October 1995 on the Protection of
+Individuals with Regard to the Processing of Personal Data and
+on the Free
+Movement of Such Data
+[1995] OJ L 281/31. This was replaced by the
+) for all European
+Union member states effective on 25 May 2018: at art 94.
+European Court of Human Rights,
+Guide to the Case-Law of the European Court of
+Human Rights: Data Protection
+(Report, 31 August 2022) 31 [123]
+<https://echr.coe.int/Docum‌e‌‌nts/‌‌‌Guide_Data_protection_ENG.pdf>,
+archived at <https://perma.cc/Y4T2-4X6K>.
+Gellert and Gutwirth (n
+) 268. In the UK, the courts consider it
+settled law that art 8
+application where ‘the person in question had a reasonable
+expectation of privacy’:
+Catt v Commissioner of Police of the
+[2012] HRLR 23
+605 [24] (Gross LJ, Irwin J agreeing at 615 [68]), quoting
+Campbell v MGN
+[2004] UKHL 22
+[2004] 2 AC 457
+, 466 [21] (Lord Nicholls). See also
+R v Association
+of Chief Police Officers of England, Wales and Northern Ireland
+[2015] UKSC 9
+, 1078 [4] (Lord Sumption JSC, Lord Neuberger PSC agreeing).
+De Hert and Gutwirth (n
+) 86–9. It is not clear that this
+critique continues to hold as strongly, given more recent cases in which the
+Court has recognised
+a contravention of art 8
+) because a given use was not necessary
+in a democratic society. For example,
+Catt v United Kingdom
+(2019) 69 EHRR 7
+concerned the retention of footage of
+the nonagenarian applicant at various peace protests: at 181–2
+[5]–[6]. The Strasbourg Court
+recognised the police had a legitimate aim for the collection of the footage
+(though it expressed concern about the ambiguity of the
+legal basis), but went
+on to hold that the retention of the footage was not ‘necessary in a
+democratic society’ and violated
+art 8 of the
+) 200 [107], 200–4
+[109]–[128].
+De Hert and Gutwirth (n
+) may be considered to give some support
+for the application of the privacy right to personal data, but this is
+complicated by the
+fact that neither party filed to bring the matter under the
+Victorian Charter
+— the case was ultimately decided by reference to the
+Information Privacy Act
+344 [62], 345 [65], 364 [174]
+(Bell J). See also Victorian Equal Opportunity and Human Rights Commission,
+The Charter of Human Rights and Responsibilities: A Guide for Victorian
+Public Sector Workers
+ed, June 2019) 30
+<https://www.humanrights.vic.gov.au/static/e5f7d882b4ac4082403ad0f57606369c/Resource-Responsibilities-VPS_Charter_Guide.pdf>,
+archived at <https://perma.cc/A97H-N8B2>. This guide for public sector
+workers indicates a range of matters that would be covered
+Victorian Charter
+See, eg, Ferdinand David Schoeman,
+, ed Douglas MacLean (Cambridge University
+Press, 1992) 1–2; Regan,
+Legislating Privacy
+) 1–5. Schoeman and Regan were
+among the first to focus specifically on the social elements of privacy:
+Priscilla M Regan, ‘Privacy
+and the Common Good: Revisited’ in Beate
+Roessler and Dorota Mokrosinska (eds),
+Social Dimensions of Privacy:
+Interdisciplinary Perspectives
+(Cambridge University Press, 2015) 50,
+Julie E Cohen, ‘Examined
+Lives: Informational Privacy and the Subject as Object’
+(2000) 52(5)
+Stanford Law Review
+, 1427–8 (‘Examined
+Gellert and Gutwirth (n
+Galloway (n
+) 365, citing Cohen, ‘What Privacy
+) 1906. See also
+comment that ‘at the heart of concerns about government use of big data
+is the intrusion of government into the lives of the
+individual beyond
+boundaries traditionally accepted in a
+liberal democracy’: Galloway (n
+See Daniel J Solove,
+Understanding Privacy
+(Harvard University Press, 2009) 99; Nissenbaum (n
+) 81–2, 176–7.
+Dorota Mokrosinska, ‘Privacy
+and Autonomy: On Some Misconceptions concerning the
+Political Dimensions of Privacy’
+(2018) 37(2)
+Law and Philosophy
+Paterson and McDonagh (n
+) 7, 14–15.
+Stefano Rodotà, ‘Data
+Protection as a Fundamental Right’ in Serge Gutwirth et al (eds),
+Reinventing Data Protection?
+(Springer, 2009) 77, 78 (citations
+Antoinette Rouvroy and Yves
+Poullet, ‘The Right to Informational Self-Determination and the Value of
+Self-Development: Reassessing
+the Importance of Privacy for Democracy’ in
+Serge Gutwirth et al (eds),
+Reinventing Data Protection?
+(Springer, 2009)
+Gellert and Gutwirth (n
+Graef and van der Sloot (n
+Social contract theory has a long
+history, focusing on the hypothetical agreement between citizens in a
+well-ordered society around
+the kind of society they wish to live in: Fred
+D’Agostino, Gerald Gaus and John Thrasher, ‘Contemporary Approaches
+the Social Contract’,
+Stanford Encyclopedia of Philosophy
+Page, 27 September 2021)
+<https://plato.stanford.edu/entries/contractarianism-contemporary/>,
+archived at <https://perma.cc/K8B4-J7PB>.
+Melanie Davies,
+‘Understanding the Social Licence To Operate’,
+University Law Futures Centre Blog
+(Blog Post, 3 August 2021)
+<https://blogs.griffith.edu.au/law-futures-centre/2021/08/03/understanding-the-social-licence-to-operate/>,
+archived at
+<http‌s‍‍‌:/‌‍‌/‌‍per‌ma.c‌‌c/97RB-45VV>.
+See, eg, Productivity Commission
+) for a discussion of social
+licence in connection with public sector data sharing: at 177–80.
+Ibid 177–80.
+Pam Carter, Graeme T Laurie and
+Mary Dixon-Woods, ‘The Social Licence for Research:
+Ran into Trouble’ (2015) 41(5)
+Medical Ethics
+Productivity Commission (Cth) (n
+Bernadette Richards and James
+Scheibner, ‘Health Technology and Big Data: Social Licence, Trust and the
+(2022) 29(2)
+Journal of Law and Medicine
+Ibid 389–90.
+See above Part II(B).
+Melissa de Zwart, Sal Humphreys and
+Beatrix van Dissel, ‘Surveillance, Big Data and Democracy: Lessons for
+Australia from the
+[2014] UNSWLawJl 27
+(2014) 37(2)
+University of New South
+Wales Law Journal
+, 714, quoting David Lyon,
+Surveillance Studies: An
+(Polity Press, 2007) 14.
+Solove, ‘A Taxonomy of
+) 488. See generally
+Jonathon W Penney, ‘Chilling Effects: Online Surveillance and Wikipedia
+(2016) 31(1)
+Berkeley Technology Law Journal
+Richards (n
+) 1944–6; Cohen, ‘Examined
+See above Part II(A).
+de Zwart, Humphreys and van Dissel
+S v United Kingdom
+Eur Court HR 167, 205 [112]. The Court made these comments in relation to the
+novel use of DNA technologies by UK law enforcement
+Information Privacy
+) cl 2.1(g);
+Australian Privacy Principles
+See above n
+and accompanying text.
+See above n
+Surveillance Devices Act 1999
+Surveillance Devices Act
+See above n
+Surveillance Devices Act
+Secrecy provisions tend to have a
+very narrow scope and apply criminal penalties to the
+disclosure of specific information: see, eg,
+Judicial Proceedings Reports
+Gambling Regulation Act 2003
+Health Records Act 2001
+Independent
+Broad-Based Anti-Corruption Commission Act 2011
+Paterson, ‘Privacy Rights and
+Charter Rights’ (n
+also at 213, 222, discussing
+) 395 [85] (Bell J), and
+DPP (Vic) v
+[2014] VSC 52
+(2014) 44 VR 526
+, 564 [132] (Bell J) (‘
+Paterson, ‘Privacy Rights and
+Charter Rights’ (n
+) 318 [57] (Kyrou, McLeish and Niall
+JJA). The Victorian Court of Appeal noted that the evidence necessary to
+establish that an interference
+is arbitrary or unlawful may be in the sole
+knowledge of the public authority, in which case the applicant may discharge the
+by pointing to objective circumstances which give rise to such an
+inference: at 316 [47].
+Charter Explanatory Memorandum (n
+) 306 [1]–[5] (Kyrou, McLeish and
+Niall JJA).
+Ibid 318 [55]. The Court added that
+an assessment of whether the conduct was arbitrary does not require
+consideration of the
+elements, just a ‘broad and general
+assessment’ of whether the interference goes beyond what is reasonably
+to achieve the legitimate purpose: at 318 [56].
+Ibid 387–8 [317]–[318],
+Human Rights Committee,
+‘General Comment Number 16: Article 17
+(Right to Privacy)’ in
+Compilation of General Comments and General Recommendations Adopted by Human
+Rights Treaty Bodies
+, UN Doc HRI/GEN/1/Rev.9 (27 May 2008) vol 1, 192
+) 154 [746].
+[178]–[181].
+(1984) 82 Eur Court HR (ser A)
+(1988) 130 Eur Court HR (ser A)
+) 36–7 [18]–[19] (French CJ),
+89 [155] (Gummow J).
+) 10–11 [12]–[18], 30
+Ibid 33 [68].
+) 30 [61], citing ibid 32 [67].
+(European Court of Human Rights,
+Chamber, Application No 58361/12, 20 July 2021)
+2–4 [5]–[17].
+30 [151]. This approach
+was affirmed in
+Haščák v Slovakia
+(European Court of
+Human Rights, Chamber, Application No
+23 June 2022) 17
+[87], [89].
+[2007] 3 NZLR 1
+62 [180], cited in
+[2020] NZHC 2090
+[2020] 2 NZLR 864
+[5]–[7] (Thomas, Venning and Ellis JJ) (‘
+Health Act 1956
+) 908 [200], 912 [225]. Mr Borrowdale
+was unsuccessful with several causes of action and appealed the decision, but
+the Crown did
+not cross-appeal on this point:
+Borrowdale v Director-General of Health
+[2021] NZCA 520
+[2022] 2 NZLR 356
+(Collins J).
+) 154 [744].
+Paterson observes that ‘[i]n
+order to qualify as law, however, a rule must be both accessible and
+sufficiently precise “to
+enable an individual to regulate his or her
+conduct accordingly”’:
+Paterson, ‘Privacy Rights and Charter Rights’ (n
+) 211, quoting Human Rights Committee,
+General Comment No 34: Article 19 (Freedoms of Opinion and Expression)
+sess, UN Doc CCPR/C/GC/34 (12 September 2011) 6–7 [25].
+See also Pound and Evans (n
+[13.40]. It is relevant to note the consistent language used in relation to the
+s 13 privacy right in many statements of compatibility
+submitted to Victorian
+Parliament that an interference ‘will be lawful if it is permitted by a
+law which is precise and appropriately
+circumscribed’: see, eg, Victoria,
+Parliamentary Debates
+, Legislative Assembly, 6 March 2024, 716 (Lily
+D’Ambrosio); Victoria,
+Parliamentary Debates
+, Legislative Council,
+22 February 2024, 524–5 (Ingrid Stitt); Victoria,
+Parliamentary
+, Legislative Assembly, 8 February 2024, 224 (Anthony Carbines);
+Parliamentary Debates
+, Legislative Assembly, 7 February 2024,
+114 (Ben Carroll).
+Most citations of Bell J’s
+comments on lawfulness in
+) are by Bell J himself: see, eg,
+Director of Housing and Sudi
+[2010] VCAT 328
+(2010) 33 VAR 139
+[63]–[68] (Bell J);
+396 [91] (Bell J);
+) 570 [152] (Bell J). But see
+Children v Minister for Families and Children [No 2]
+[2017] VSC 251
+(2017) 52 VR 441
+[201] (John Dixon J).
+[2021] VSCA 200
+(2021) 64 VR 270
+, 305 [152] (Beach,
+Kyrou and Kaye JJA).
+Ibid 272 [2].
+Ibid 302 [139], 311 [177].
+Ibid 308 [165].
+) 317 [49] (Kyrou, McLeish and Niall
+JJA), citing ibid 305 [152].
+) 360 [214] (Kyrou, McLeish and Niall
+Ibid 392 [332]–[333].
+Part III(A).
+(2017) 261 CLR 328, 373 [149]
+(Kiefel CJ, Bell and Keane JJ).
+Certain Children v Minister for
+Families and Children
+[2016] VSC 796
+(2016) 51 VR 473
+, 496 [143] (Garde J), quoting
+Application under the Major Crimes (Investigative Powers) Act 2004
+[2009] VSC 381
+, 434 [80] (Warren CJ), and
+De Bruyn v Victorian Institute of Forensic
+Mental Health
+[2016] VSC 111
+(2016) 48 VR 647
+, 691 [126] (Riordan J).
+See, eg, the recent Queensland
+Industrial Relations Commission case where O’Connor V-P cited only
+Victorian authorities on
+lawfulness and concluded there was no unlawful
+interference:
+Hunt v Department of Agriculture and Fisheries
+[2022] QIRC 162
+, [168]–[171].
+See above n
+and accompanying text.
+It appears that some Victorian
+public servants are already following this approach when drafting statements of
+compatibility under
+s 28 of the
+Victorian Charter
+), because it is
+common for the wording in relation to the privacy right to reference the
+adequacy of the legal basis: see above n
+Gellert and Gutwirth (n
+See above n
+and accompanying text.
+Paterson, ‘The Uses of
+Ibid. Under the
+), the overriding law must be one
+‘to which the controller is subject and which also lays down suitable
+measures to safeguard
+the data subject’s rights and freedoms and
+legitimate interests’: at art 22(2)(b).
+Apart from some minor amendments to
+definitions, notes, pronouns and process, the
+Victorian Charter
+) has not yet had any significant
+amendment — not even to implement the recommendations of the mandated
+2015 Review of the
+Victorian Charter
+Victorian Charter
+) endnote 2.
+See above nn 94–5 and
+accompanying text.
+Print (pretty)
+Print (eco-friendly)
+RTF format (385 KB)
+PDF format (413 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

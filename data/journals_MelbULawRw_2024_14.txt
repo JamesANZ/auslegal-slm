@@ -1,0 +1,2775 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/MelbULawRw/2024/14.html
+Scraped: 2025-11-17 15:18:31
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Jha, Pranay --- "A 'Clearer' Accounts Rule: Challenging the Inflexible Application of the Clear Accounts Rule" [2024] MelbULawRw 14; (2024) 47(3) Melbourne University Law Review 635
+A ‘CLEARER’ ACCOUNTS RULE: CHALLENGING THE INFLEXIBLE APPLICATION OF THE CLEAR ACCOUNTS RULE
+I Introduction
+II Context and Foundational Principles
+A The Nature of a Trustee’s Liabilities to Trust Creditors and the Role of the Indemnity
+B The Impacts of Insolvency
+C Subrogation, Clear Accounts Rule and Prejudice to Creditors
+D Circumventing the Prejudice: The Existing Debate
+III Historical Justification for the Clear Accounts Rule
+A Development of the Clear Accounts Rule in Australia
+1 Origins in the English Cases
+B Identifying the Underlying Principle
+C The Presumptive Basis for the Rule in Cherry v Boultbee
+IV Discretionary Approach to the Clear Accounts Rule
+A The Mandate for Flexibility in Accounts
+V How the Discretion Should Be Exercised
+A Equity’s Consideration of Third-Party Interests
+B Just Allowances Doctrine
+C Application of Principles to Trust Creditors
+VI Implications of the Discretion: The Role of Equity in Insolvency Law?
+VII Two Final Exceptions to the Clear Accounts Rule
+A Statutory Intervention into the Right of Indemnity
+B Exclusion of the Clear Accounts Rule through the Trust Deed
+VIII Conclusion
+A ‘CLEARER’ ACCOUNTS RULE: CHALLENGING THE
+INFLEXIBLE APPLICATION OF THE CLEAR ACCOUNTS RULE
+The clear accounts rule, as applied in a trusts setting, reduces the value of
+a trustee’s right of indemnity by the value of
+their obligation to restore
+trust funds. The rule has often frustrated unsecured trust creditors subrogating
+to a trustee’s
+right of indemnity as the creditors may be unable to have
+the debts owed to them satisfied as a result of the rule’s operation.
+of the case law and academic writing on the clear accounts rule seems to assume
+that it is a rule of fixed application, applying
+automatically wherever an
+errant trustee seeks recourse to their rights of indemnity. This article
+challenges that understanding
+of the clear accounts rule by suggesting two
+alternative bases on which its inflexible application may be avoided. First, the
+accounts rule is examined from a historical perspective, which reveals
+that the rule and its antecedents were intended to be applied
+on a presumptive
+rather than fixed basis. Second, the rule is examined from a
+normative perspective. It is suggested that, given equity’s mandate
+achieve practical justice in the taking of accounts, a flexible and
+discretionary approach to the clear accounts rule that is
+sensitive to the
+interests of unsecured trust creditors is justified. Recognising the
+possibility of circumventing the clear accounts rule has significant
+implications for unsecured trust creditors. It possibly removes a key obstacle
+from their only (indirect) route to accessing trust
+assets in satisfaction of
+the debts owed to them by the
+I Introduction
+The so-called ‘clear accounts rule’ has been applied in Australia
+on numerous occasions to reduce the value of an errant
+trustee’s right of
+authorities to date appear to have assumed that the clear accounts rule has
+fixed application wherever a trustee seeking to exercise
+their right of
+indemnity has caused a loss to the trust estate which the trustee is obliged to
+make good. Contrary to that assumption,
+this article argues that an inflexible
+application of the clear accounts rule is unjustified. It does so on two bases.
+considers the historical antecedents of the modern clear accounts rule
+and suggests that the cases from which the rule emanates were
+intending to lay
+down rules of presumptive rather than fixed application. In particular, the
+cases were presuming an errant trustee’s
+intention to pay their indemnity
+‘by anticipation’ through the funds they had misappropriated. That
+presumption is a
+weak one, which is
+capable of displacement by evidence of the trustee’s actual intention
+nature and circumstances in which the breach of trust occurred. Second,
+recognising that the clear accounts rule need not be tethered
+to its historical
+origins and may instead be treated as a freestanding principle of modern equity,
+this article also challenges the
+rule from a normative perspective. It is
+suggested that in light of equity’s general mandate to achieve practical
+justice when
+taking accounts, a flexible and discretionary approach to the clear
+accounts rule is justified. That discretion is said to be capable
+of considering
+the interests of unsecured trust creditors and their contributions to the state
+of the trust assets.
+This article proceeds in
+five substantive Parts.
+Part II frames the discussion by explaining some of the fundamental concepts
+in this article. It begins by briefly outlining what
+the clear accounts rule is,
+before providing the wider context of trustee insolvency, which grants relevance
+to debates about the
+application of the rule. This Part explains the position of
+trust creditors in Australia, who are only able to indirectly access
+assets in satisfaction of their claims by standing in the shoes of an insolvent
+trustee and receiving the proceeds of their
+indemnity (ie subrogation). It then
+shows how those trust creditors are prejudiced by the clear accounts rule, which
+creates an obstacle
+in their only path to accessing trust assets.
+Part III considers the clear accounts rule from a historical perspective and
+suggests that the historical foundations of the rule
+lie in matters of
+presumption. The Part begins by providing an overview of the clear accounts
+development in Australia across the 20
+century. It shows how the
+accounts rule moved from being expressed as a broad, principled limitation on
+the trustee’s right of indemnity to a more formulaic
+and mathematical
+rule. What becomes apparent is that many of the Australian cases justify the
+clear accounts rule on a historical
+basis by suggesting the rule is premised on
+a series of 19
+century English cases. An examination of those
+century cases reveals that the foundation of the clear accounts
+rule was in presumption — that is,
+a presumption that the trustee intended to pay their right of indemnity
+in anticipation through the funds they had earlier misappropriated. The
+Part also recognises that, independently of such cases, the rule in
+Cherry v Boultbee
+is also cited
+as the historical foundation for the clear accounts
+It suggests,
+however, that this alternative historical explanation for the clear accounts
+rule does not advance matters any further,
+because the rule in
+itself emanated from rules of presumption. Specifically, the rule in
+is traced back to cases applying the presumptive doctrine of
+satisfaction in the context of the administration of deceased estates.
+follows that, regardless of which historical account for the clear accounts rule
+one adopts, the rule’s origins lies in
+presumption. Therefore, there is no
+historical reason to treat the rule as one of fixed application.
+Recognising that the clear accounts rule may now be treated as a freestanding
+principle of modern equity no longer constrained by
+its historical origins, Part
+IV examines the rule from a normative perspective. It considers the function of
+the clear accounts rule
+as a technique used by courts of equity in the
+administration of complex accounts. This Part suggests that in taking accounts,
+is guided by a mandate to achieve practical justice between the parties.
+This mandate necessitates a flexible and discretionary approach
+to the clear
+accounts rule. While the discretion is no longer exercised by reference to
+abstract notions of justice, this article suggests that two lines of
+equitable principle provide guidance on how the discretion may
+be exercised. The
+equity’s general concern for third-party interests, as evidenced in
+cases involving constructive trusts, rescission and rectification.
+The second is
+equity’s willingness to ensure that parties seeking equitable relief
+account for all the benefits they have received,
+as evidenced through the
+‘just allowances’ doctrine applied when ordering an account of
+profits, occupation rent to co-owners
+or rescission. It is argued by analogy
+that beneficiaries seeking equitable relief ought to account for the
+contributions made by
+trust creditors to the trust fund.
+Part V then considers the broader practical implications of equity exercising
+its discretion not to apply the clear accounts rule.
+It notes that, in effect,
+by not applying the clear accounts rule, courts would be prioritising the
+position of trust creditors over
+that of beneficiaries. It also addresses
+broader debates about the role of equity in insolvency settings. The conclusion
+notwithstanding these concerns, the discretionary non-application of the
+clear accounts rule is justified.
+Finally, in Part VI, this article concludes by briefly raising two further
+exceptions to the clear accounts rule that could be explored in the future.
+The first is the notion that the operation of the clear
+accounts rule may be
+inconsistent with the statutory right of indemnity in certain Australian
+a trust deed has been drafted specifically to
+exclude the operation of the clear accounts rule. It is argued that there is
+no reason to hold such deeds unenforceable, and thus
+a well-drafted trust deed
+should be capable of ousting the clear accounts rule.
+II Context and Foundational
+This article is primarily concerned with how the clear accounts rule may be
+circumvented in light of its prejudicial implications
+on trust creditors.
+However, before diving into an analysis of the clear accounts rule, it is useful
+address two questions that are foundational to the remainder of this article:
+(a) what is the clear accounts rule?; and (b) how exactly is it said to
+prejudice trust creditors?
+The first question can be answered immediately. The clear accounts rule
+provides that the value of an indemnity that a trustee may
+recover from the
+trust fund is subject to
+liability that the trustee has incurred to
+increase the trust fund, either by making good a loss or by disgorging an
+unauthorised
+terms, the rule suggests that the court will subtract the value of the
+trustee’s liability to increase the trust
+fund from the value of the
+trustee’s liability to increase the trust fund need not be
+connected with the liability giving rise to the trustee’s right of
+liability incurred by the trustee to restore trust funds will attract the
+operation of the rule.
+The second question requires some further context. For those unfamiliar with
+trusts and insolvency law, it would be entirely reasonable
+to query how such a
+rule, which on its face appears to settle the state of the account between
+trustees and beneficiaries, could
+impact trust creditors at all. To appreciate
+the prejudice of the clear accounts rule on trust creditors, it is necessary to
+something of the nature of a trustee’s liability to trust
+creditors, the function of the trustee’s right of indemnity,
+happens to those liabilities and indemnity rights when a trustee is made
+insolvent. Each of those matters is
+addressed below.
+The Nature of a
+Trustee’s Liabilities to Trust Creditors and the Role of the
+While trusts, particularly those that engage in trading, business and other
+commercial activities, are often thought of as distinct
+Anglo-Australian law they have no separate legal
+personality.
+trustee has legal title to the assets that are held on trust for others (or for
+a purpose), and the trustee is the legal entity
+that enters into contracts with
+third parties as principal and not as agent.
+It follows that the trustee is personally liable to creditors for debts incurred
+in the administration of the
+conventional, throughout this article, debts incurred by the trustee in the
+proper administration of the trust are described
+as ‘trust debts’,
+and ‘trust creditors’ are parties to whom such debts are
+Although trustees are personally liable for trust debts, equity assists them
+by conferring on trustees a right to an indemnity out
+right to an indemnity, which allows the trustee to use trust assets to discharge
+trust debts,
+has been described as being
+‘in the nature of the office of a
+The right of indemnity can
+be exercised in two alternative ways — reimbursement or
+exoneration.
+The right of reimbursement allows a trustee who has discharged a trust debt out
+of their personal funds to recoup that amount out
+of the trust assets. However,
+usually the trustee is not obliged to use its
+own funds like this. Thus, the right of exoneration arises where a trustee
+has incurred a trust debt that has not yet been discharged.
+circumstances, the trustee can resort to the trust fund directly to pay trust
+Carter Holt Harvey Woodproducts Australia Pty Ltd v Commonwealth
+’), the High Court of Australia
+recognised that the right of indemnity also confers on the trustee a correlative
+proprietary
+interest in the trust assets that takes priority over the interests
+beneficiaries.
+That proprietary interest has been likened to a lien over trust
+should be noted that while the trustee’s right of indemnity was originally
+recognised in general law, it has now been enshrined
+The implications of the statutory
+recognition of the
+trustee’s right of indemnity are considered further in Part VI.
+Because the trustee is personally liable for trust debts, they are obliged to
+pay trust debts regardless of the state of the trust
+Therefore, it is useful to think of two pools of assets from which trust debts
+may be satisfied: the assets subject to the trust
+relationship and the
+trustee’s personal
+Ordinarily, the trustee will seek to discharge trust debts by resorting to the
+trust assets via their right of
+exoneration.
+However, because the trust is not a separate legal entity, where the trust
+assets are insufficient to meet trust debts, ‘the
+cannot be made insolvent or wound up.
+Instead, two scenarios may arise.
+First, the trustee may have managed to successfully protect their personal
+assets from trust debts by including a limitation of liability
+clause directly
+into its contracts with trust
+Under a limitation of liability clause, the trustee’s personal liability
+for trust debts may be limited to the extent of their
+ability to discharge the
+debt out of the trust assets.
+limitation of liability is effective, the insufficiency of the trust assets to
+satisfy the trust debts cannot push the trustee
+into insolvency because, as a
+matter of contract, the trustee will not be personally liable for the shortfall.
+Accordingly, a scenario
+where a trustee benefits from a limitation of liability
+falls outside of the scope of this article.
+However, trustees will not always be able to shield their personal assets
+from trust creditors through a limitation of liability
+Australian courts construe attempts
+to limit liability strictly against
+Thus, a defect in the drafting of
+the limitation of liability clause may render it ineffective. Additionally, in
+some situations,
+a trust creditor may be in a superior bargaining position to
+the trustee and refuse to include a limitation of liability clause in
+or it may not have occurred to
+the parties to include a limitation of liability clause in their agreements.
+Accordingly, it is relevant
+to consider the second scenario — that is,
+where the trust fund is insufficient and where the trustee must resort to their
+personal assets to satisfy trust debts. In the second scenario, if the trustee
+is solvent, they may pay the trust creditors out of
+their own assets and
+subsequently seek reimbursement from the trust assets as and when that becomes
+possible (if ever). However,
+if the trustee’s personal assets are
+insufficient to meet trust debts after the trust fund is exhausted (or if it is
+the trustee will be insolvent, and the trust creditors can seek
+judgment against the trustee and push them into formal insolvent
+administration.
+This second scenario is at
+the heart of discussions concerning the operation of the clear accounts
+The Impacts of
+As the High Court recognised in
+, it is an established
+principle of bankruptcy law that ‘rights held by a bankrupt on trust do
+not generally form part of the
+bankrupt’s estate that is available for
+general distribution amongst
+creditors’.
+While Australian
+bankruptcy legislation has explicitly adopted
+the exclusion of trust property from a trustee’s estate in
+bankruptcy,
+exclusion does not appear in the
+Corporations Act 2001
+Corporations Act
+’) which governs the insolvency of
+Nonetheless, the High Court has held that the same principle of bankruptcy law
+applies, so trust assets held by corporate trustees
+are not available for
+distribution amongst a corporate trustee’s personal
+Unlike trust assets, however, a trustee’s right of indemnity forms part
+of the bankrupt or insolvent trustee’s
+Therefore, the trustee in
+bankruptcy or liquidator who takes control of the insolvent trustee’s
+estate also takes control of
+their right of indemnity against the trust assets.
+Historically, there was some debate as to whether the proceeds from the
+right of indemnity could only be distributed amongst trust
+creditors, or whether they were also available to the trustee’s
+However, in
+the High Court settled that debate, endorsing the view that
+the proceeds from the trustee’s right of exoneration are only to
+distributed amongst trust creditors.
+Therefore, the trust creditors (and not the trustee’s personal creditors)
+are said to be ‘subrogated’ to the trustee’s
+In simple terms, this means that
+the trustee’s creditors ‘stand in the shoes’ of the trustee
+and take the proceeds
+from the realised right of
+exoneration.
+Subrogation, Clear
+Accounts Rule and Prejudice to Creditors
+Although upon insolvency, it is the trust creditors in whose pockets the
+proceeds of the right of exoneration end up (rather than trustees), the
+ordinary limitations on the trustee’s right of indemnity
+subsist. The
+subrogating trust creditors do not enjoy a ‘better right’ of
+indemnity than the trustees did.
+Accordingly, the clear accounts rule continues to apply to the exoneration
+limb of the trustee’s right of indemnity even once
+the trust creditors
+have stepped into the trustee’s shoes through
+subrogation.
+Thus, returning to the
+question posed at the beginning of
+, the upshot is that the clear
+accounts rule, which operates prima facie between trustees and beneficiaries,
+can also impact trust
+creditors when a trustee is insolvent. The outstanding
+point to address then is how that impact is prejudicial. That is a point that
+has been made by various
+commentators
+and can be illustrated using a simple example.
+Imagine a trustee incurs a trust debt to a trust creditor worth $100,000.
+Their right of indemnity confers on the trustee a right
+under the exoneration
+limb to apply trust funds towards the repayment of that debt. However, before
+meeting that debt, the trustee
+becomes insolvent. Accordingly, the trust
+creditor is subrogated to the trustee’s right of indemnity. Imagine
+further that
+the trustee also expends $100,000 in an unrelated transaction found
+to be in breach of trust. In that situation, the trustee would
+be liable to
+increase (or restore) the trust funds by $100,000. Under the clear accounts
+rule, this amount would be netted off against
+the trustee’s right of
+indemnity, such that the value of the
+indemnity would be reduced to $0. The trust creditor, subrogated to the right
+of indemnity, would be unable to recover the debt owed
+through the right of
+exoneration; instead, they would be left with a personal claim against an
+insolvent trustee.
+The prejudice suffered
+by the trust creditor is manifest — their ability to satisfy the debt owed
+to them is undermined by
+the trustee committing a breach of duty completely
+unrelated to their transaction with the trust creditor.
+Before proceeding, it is worth noting two points of qualification on the
+prejudice suffered by unsecured trust creditors. First, the
+right of unsecured
+creditors is always vulnerable to the presence of claims by other unsecured
+trust creditors. While that may be
+true, it does not necessarily stand in the
+way of attempting to avoid the distinct impact of the clear accounts rule.
+least in some circumstances, the trust creditors may be able to avail
+themselves of the benefits conferred by
+Corporations Act
+, directors of a corporate trustee are personally liable for debts
+incurred by the trustee provided the corporation cannot discharge
+the liability
+or any part of it and is not entitled to be indemnified against the liability
+out of the trust assets.
+discussion of the circumstances in which
+will apply is unnecessary for
+present purposes. Instead, it suffices to note that while there are certainly
+situations in which
+will allow trust creditors to avoid the prejudice
+described above, the provision is far from a universal solution. Most
+notably, where the directors of the corporate trustee are themselves
+impecunious
+or uninsured,
+will not assist trust creditors in satisfying the debts
+Circumventing the
+Prejudice: The Existing Debate
+In light of the prejudicial effect of the clear accounts rule on trust
+creditors, there have been calls to limit its operation, at
+least insofar as it
+applies to the trustee’s right of
+exoneration.
+The arguments in favour of limiting the application of the clear accounts rule
+have often focused on the nature and purpose of the
+trustee’s right of
+exoneration. They have noted that the exercise of the right of exoneration is in
+effect an exercise of the
+power to apply trust assets towards the discharge of
+the trust debt.
+As D’Angelo puts it,
+the right of exoneration never confers on the trustee beneficial ownership of
+trust assets.
+The trustee is merely a
+‘conduit’ through whom trust assets are passed on to trust creditors
+to discharge trust debts.
+As the right of
+exoneration does not result in the beneficial ownership of any trust funds being
+passed onto trustees (as distinguished
+from the right of reimbursement), it is
+argued that the value of a right of exoneration should not be ‘netted
+off’ against
+the trustee’s outstanding liabilities to increase the
+trust fund because it appears (economically at least) to ‘punish’
+innocent parties that are external to the trust, that is, trust creditors.
+However, the foregoing view does not necessarily reflect academic
+example, Silink argues in favour of the right of exoneration being subject to
+the clear accounts rule.
+In her view, the
+benefit to creditors from the trustee exercising their right of exoneration is
+merely an incidental one.
+Instead, the purpose of the right of exoneration is to relieve the trustee
+from their personal liability to trust
+Although the right of
+exoneration does not confer ‘beneficial ownership’ of the trust
+assets on trustees,
+they are entitled to
+any of the trust assets to meet their liabilities incurred qua
+and are able to do so regardless of any existing proprietary rights of
+beneficiaries in those assets.
+this way, it seems reasonable for the trustee’s right of exoneration to be
+characterised as ‘for the trustee’s
+benefit’ such that it is
+subject to the clear accounts rule or that its impact on trust creditors should
+be disregarded as
+merely incidental.
+The foregoing debates seem to presuppose the fixed application of the clear
+accounts rule, and then consider whether it is appropriate
+to subject the
+trustee’s right of exoneration to that rule. That in turn leads to an
+analysis of the nature and purpose of
+the trustee’s right of exoneration.
+Indeed, to some extent, shades of this debate were also apparent in the divide
+the majority and minority positions in the Privy Council’s
+decision in
+Equity Trust (Jersey)
+Ltd v Halabi
+Equity Trust
+There, the Privy Council was concerned with, inter alia, the distinct question
+of whether ‘a former trustee’s proprietary
+interest in the trust
+assets [should] take priority over the equivalent interests of successor
+trustees’ (rather than considering
+whether the clear accounts rule should
+extend to the right of exoneration).
+However, a key point of distinction between the majority and minority positions
+in that case was whether the right of indemnity was
+conferred onto trustees not
+only for their personal benefit but also for the benefit of trust creditors
+(which in turn affected whether
+the interests of trust creditors should affect
+the formulation of priority rules regarding the respective trustees’
+Lord Briggs JSC of the majority considered that ‘[p]art of the
+purpose of the trustees’ lien is to provide a mechanism
+by which trust
+creditors get paid’.
+By contrast,
+Lord Richards JSC and Sir Nicholas Patten of the minority considered ‘the
+purpose of the indemnity as being protection
+of the trustee, not of its trust or
+indeed personal creditors’.
+Notwithstanding this difference of opinion, it was accepted by both sides that
+accounts rule applied so as to reduce the value of a trustee’s right of
+indemnity and by extension the trust creditor’s
+subrogation.
+The relevance of trust creditors’ interests in
+Equity Trust
+will be considered further
+With respect, while there is certainly value in having such debates, in the
+following Parts, this article will aim to resolve the
+issues posed by the
+operation of the clear accounts rule by taking a different approach. Instead of
+attempting to determine whether
+the trustee’s right of exoneration fits
+within the ambit of the clear accounts rule, this article will examine the
+the rule itself. It will suggest that there is neither a historical
+nor normative basis for applying the clear accounts rule inflexibly.
+III Historical
+Justification for the Clear Accounts Rule
+Starting with the historical justification for the clear accounts rule,
+Australian cases have suggested that the rule is rooted in history, citing a
+series of 19
+and early 20
+century cases in its
+However, an examination of the clear accounts rule’s history reveals that
+the rule is grounded in presumption, rather than
+inflexible application.
+Accordingly, if one is to justify the clear accounts rule on the basis that it
+is historically entrenched,
+fidelity to the rule’s history would require
+recognising the presumptive, rather than fixed, nature of the rule. It should
+noted from the outset that the argument here is not that the clear accounts rule
+be justified by reference to history — indeed
+considers normative arguments against a fixed application of the
+clear accounts rule that are not grounded in history.
+To illustrate the point, this Part will begin with a historical overview of
+the clear accounts rule’s development in Australia.
+It will then consider
+century (and early 20
+century) cases which are
+often cited as a historical justification for the clear accounts rule. Those
+earlier cases disclose two
+bases on which the clear accounts rule was being
+applied: (a) as a presumption that the trustee was paying out their indemnity by
+anticipation through the trust funds they had misappropriated; or (b) as an
+extension of the rule in
+. However, further historical analysis of
+the rule in
+will reveal that the rule emanated from cases applying
+the doctrine of satisfaction, which itself turned on the presumed intention
+testators. Accordingly, the conclusion reached is that on either view of the
+clear accounts rule’s history, the rule appears
+to be grounded in
+presumption. Thus, if courts are indeed applying the historical
+version of the clear accounts rule, trust creditors subrogated to the
+trustee’s right of indemnity should be able to circumvent
+operation by
+adducing evidence that displaces the presumed intention behind the
+trustee’s breach of trust.
+Development of the
+Clear Accounts Rule in Australia
+In Australia, one of the first judicial endorsements of what resembles the
+clear accounts rule (though not described as such) came
+from the Full Court of
+the Supreme Court of Victoria in
+Cumming v Austin
+Holroyd J (for the Court) observed that ‘a defaulting trustee who has a
+beneficial interest in the trust estate cannot claim
+anything against it without
+making good his
+defalcations’.
+A few years later, Barton J of the High Court
+expressed a similar principle in
+Savage v Union Bank of Australia Ltd
+There, his Honour relied on Kennedy J’s judgment in
+Jennings (QB)
+’), which in turn quoted
+Re Evans; Evans
+that a creditor could subrogate to the right of indemnity belonging to the
+administrator of an estate, provided they had ‘
+not lost such right
+by being a debtor to the
+A similar exposition of the principle was also put forward by Dixon J of the
+High Court in
+Vacuum Oil Co Pty Ltd v Wiltshire
+In that case, his Honour
+observed that creditors must depend on the rights of the executor and may lose
+their subrogated right to
+an indemnity where the executor is
+required to make good a loss caused to the
+were subsequently cited with approval by the High Court in
+Investments Pty Ltd v Knight
+where it discussed trust creditors’
+rights of subrogation.
+Notably, however,
+those cases referred to the trustee losing their right of indemnity rather than
+describing the mathematical process
+of netting off obligations discussed
+The more formulaic approach to the clear accounts rule was expressed by
+Brooking J in
+RWG Management Ltd v Commissioner for Corporate Affairs
+RWG Management
+that case, his Honour clarified that Dixon J’s statement in
+was not intended to suggest that the trustee absolutely loses their right of
+indemnity upon causing a loss to the trust
+Rather, Brooking J suggested
+‘that a balance is to be struck between what is due by way of compensation
+and what is due by
+way of indemnity and that if the balance is in favour of the
+trustee he may recover from the estate to that
+RWG Management
+followed by Gordon J in
+Australian Securities Investments Commission v Letten
+where her Honour stated that ‘the clear accounts rule
+is essentially a mathematical exercise setting off the trustee’s
+indemnity against its liability with respect to previous breaches of
+Additionally, there are numerous examples of modern cases citing
+when discussing the clear accounts rule such as
+Zohs Properties Pty Ltd v
+Park v Whyte [No 3]
+Park [No 3]
+Lane v Deputy Commissioner of Taxation
+Lin; Re Gold Stone
+Capital Pty Ltd (Trial
+Indeed, the method of
+‘striking a balance’ described by Brooking J accords with the High
+Court’s articulation of
+the clear accounts rule in
+which cited
+as a relevant authority for
+that proposition.
+Origins in the English
+The preponderance of the Australian authorities cite Jessel MR’s speech
+as the historical basis for the clear accounts
+Jennings (QB)
+cited by the High Court of Australia in
+Kennedy J noted that the
+‘clearest exposition’ of the rule was by Jessel MR in
+, Peter Johnson appointed the defendant as an executor
+under his will.
+The defendant’s
+instructions were to call in the debts of two businesses (in Cambridge and
+London) run by Johnson and convert
+all stock (except for that of the London
+business) to money.
+A quarter of the
+proceeds were then to be divided amongst the two children of Johnson’s
+deceased sister.
+However, the will allowed
+for one of these children, John Neill, to carry on the Cambridge business in his
+own name until he reached
+the age of 21; at that point, John Neill would have an
+option to take the stock in accordance with an earlier valuation or bring
+proceeds from selling the stock into
+Contrary to Johnson’s instructions under the will, the defendant
+carried on the Cambridge business in his own name and failed
+to call in the
+debts. He also used money advanced from John Neill’s share of the estate
+to carry on the business but never
+kept separate
+The defendant subsequently became
+insolvent and the creditors of the Cambridge business who had supplied goods to
+the defendant sought
+access to the trust assets to pay their
+In what has been described as one of the first judgments to discuss the right
+of creditors in the language we use today,
+Jessel MR held that although they could not directly access the trust assets,
+the creditors had a right to be ‘put in [the]
+place’ of the trustee
+against the trust estate.
+Therefore, the
+had a right to enjoy the benefit of the trustee’s indemnity. Crucially
+Jessel MR qualified this right of the creditors by noting:
+But if the trustee has wronged the trust estate, that is, if he has taken money
+out of the assets more than sufficient to pay the
+debts, and instead of applying
+them to the payment of the debts has put them into his own pocket, then it
+appears to me there is
+’), a case predating
+and cited in
+Jessel MR explained the rationale for applying the limitation on the
+trustee’s right of indemnity:
+[T]he trustee, who is indebted to the estate in a sum largely exceeding this
+fund, must be taken to have paid himself all that he
+can claim out of the moneys
+which have come to his hands, and for which he has not
+The Master of the
+Rolls went on to note that this was not an instance of
+‘impounding a trust fund’.
+Rather, the trustee already had all that he could claim and had ‘paid
+Doering v Doering
+’) (cited in
+Stirling J followed
+that the answer to any claim by a trustee was
+that the trustee had already received their share — they had in their
+they claimed.
+Dowse v Gorton
+Cotton LJ reached a similar conclusion, stating that a defaulting executor
+had gotten ‘in their pocket the money out of which
+the indemnity to which
+they are entitled ought to be
+There are various other 19
+century cases which appear to apply a
+principle consistent with what is now called the clear accounts rule. In
+Lewis v Trask
+North J held that a defaulting executor could only
+be paid their costs out
+of the estate once they had made good their
+Bowyer v Griffin
+Malins V-C noted that the costs of a trustee’s suit for the execution
+of the trust could be set-off against a debt he owed to
+McEwan v Crombie
+held that the costs a trustee was seeking to recoup could be ‘set
+off’ against the amount he owed to the trust
+estate (which exceeded his
+Taylor v Popham
+held that where there were sums to be paid from each party to the other, a
+solicitor’s lien for their costs only
+extended to the
+balance once all the costs were considered as a
+Re Frith; Newton v Rolfe
+, another case cited in
+Kekewich J used the language of ‘clearing ...
+accounts’ to explain the foregoing
+principles.
+his Honour stated the
+[T]here may be some money owing by the trustees to the estate, and the creditors
+may be willing to pay that in order to make the
+trustees’ account clear;
+and in that case the creditors are entitled to an assignment of the equity to
+which the trustees succeed
+on clearing their
+Identifying the
+Underlying Principle
+One explanation for the rule expressed in the 19
+century cases discussed above is that there is a presumption
+that the trustee had already paid themselves their indemnity through
+misappropriated funds (‘the presumption
+That certainly appears
+to be the rationale expressed in
+where the courts variously expressed the view that the trustee had already
+taken what was owed to them through the funds they had
+misappropriated.
+Relying on these cases,
+Australian courts have, on occasion, similarly endorsed the presumption theory
+underlying the clear accounts
+rule. For example, in
+Full Court of the Supreme Court of Victoria noted that a defaulting trustee was
+to be considered as having paid themselves what
+would come to them ‘by
+anticipation’.
+Walters J similarly explained that the ‘theory
+underlying the rule’ was based on the
+trustee having paid themselves by
+anticipation.
+Brooking J stated that ‘it is clear’ that the
+clear accounts rule was founded on the principle that a trustee must be
+have paid themselves the amount due to
+More recently, in
+, Jackson J recognised the historical support for the presumption
+before commenting that modern
+authorities ‘do not gainsay those
+propositions’.
+As White has observed extra-curially, the presumption that the trustee has
+paid out their indemnity through misappropriated funds
+problematic.
+If, indeed, the courts were
+presuming the trustee’s intention to pay their indemnity through
+misappropriated funds, there is
+no reason why the actual facts of the case could
+not displace that presumption. An example that immediately comes to mind is
+the trustee’s default preceded the expense giving rise to the right
+of exoneration. In that case, it could not be said that
+a trustee was attempting
+to pay off an expense they had incurred through misappropriated funds given the
+expense in question did
+not exist at the time of their default. Moreover, in
+circumstances where the trustee has made an unauthorised investment that becomes
+valueless, or the trustee has paid funds to someone not entitled to them, there
+would be no misappropriated funds in the trustee’s
+hands which could be
+presumed to have been taken in payment of the indemnity.
+Proponents of a fixed application of the clear accounts rule may reject the
+presumption theory of the clear accounts rule and instead
+suggest that its
+historical origins lie in the rule in
+. There is certainly a
+significant body of authority that refers to the rule in
+basis for the application of the clear accounts
+For example, in
+, Derrington J stated that
+clear accounts rule) was in fact an application of the rule in
+Similar explanations of
+the clear accounts rule have been proffered in
+JD & KJ Zohs
+Whyte [No 5]
+Authoritative texts such as
+Derham on the Law of Set-Off
+Jacobs’ Law of Trusts in
+referred to
+as the basis for the clear accounts rule. While
+support for the view that the clear accounts rule is an application of the rule
+is not universal,
+unnecessary to digress into the debate here. For present purposes, it suffices
+to note that pointing to the rule in
+as the historical origin for
+the clear accounts rule provides little support for the view that the rule
+should be applied inflexibly.
+As will be shown below, the rule in
+itself emanated from cases applying the doctrine of satisfaction, which turned
+on presumptions regarding a testator’s intent
+when granting a legacy to
+their creditors.
+, Thomas Boultbee owed money to his sister, Catherine, who
+subsequently made a will leaving him an amount greater than the debt he
+During Catherine’s life,
+Thomas became bankrupt and the plaintiff, his assignee, sued the executors of
+Catherine’s will
+for the legacy.
+The executors of Catherine’s estate sought to set-off the
+plaintiff’s claim against the debts owed by Thomas. Lord Chancellor
+Cottenham rejected the right of the executors to ‘set-off’ the
+plaintiff’s claim as, strictly speaking, the right
+‘set-off’ only applies to mutual
+This case concerned the right
+of an executor of a creditor to pay out of the fund in hand. The relevant right
+was ‘[t]he right
+of an executor of a creditor to retain a sufficient part
+of a legacy given by the creditor to the debtor, to pay a debt due from
+the creditor’s estate’.
+ultimately as Thomas had become bankrupt during Catherine’s life, there
+was never any single person in whom both the right to receive the legacy
+and the obligation to pay the debt were vested, and the right to retain had
+no application.
+Cases that have subsequently applied the rule in
+have described
+it as setting down the conditions under which entitlement to a fund may be
+claimed. For example, in
+Re Akerman; Akerman v Akerman
+, Kekewich J
+described the rule as follows: ‘A person who owes an estate money ...
+cannot claim an aliquot share given to him
+out of that mass without first making
+the contribution which completes
+Re Peruvian Railway
+Construction Co Ltd
+Re Peruvian
+Railway Construction
+’), Sargant J similarly stated that the rule
+precludes a person from participating in a fund until they have fulfilled their
+duty to contribute to that
+Justice Sargant’s formulation was also quoted by Palmer J in
+Otis Elevator Co Pty Ltd v Guide Rails Pty Ltd (in
+The Presumptive Basis
+for the Rule in
+Cherry v Boultbee
+While the presumed intention of the trustee and the rule in
+be thought of as separate historical bases for the clear accounts rule, arguably
+the two rationales are closely connected. As
+has been noted in academic
+commentary and case law alike, in
+Cottenham LC
+not divine any new principles of law.
+Rather his Lordship was applying more general principles that are said to be
+traced back to
+Jeffs v Woods
+observed below, the principles discussed in
+were themselves
+premised on the presumed intention of the testator and were not intended to
+operate as fixed, equitable rules.
+a testator left a £500 legacy to the
+The plaintiff executor of the
+testator’s estate advanced credit for goods to the defendant before
+disbursing the £500
+legacy to the defendant. In response to a suit brought
+by the defendant to enforce payment, the executor of the testator’s
+retain out of the legacy the money which the defendant owed to the
+testator’s estate.
+Master of the
+Rolls Jekyll held that ‘it is very just and equitable’ for the
+executor to say that the legatee has the
+testator’s assets in their own
+hands and the debt is consequently satisfied
+At least occasionally,
+is cited as a case concerning set-off by
+That view appears to be
+premised on Jekyll MR’s comments that although
+stoppage is no payment at law, nor is it, of itself, a payment in equity, but
+then a very slender agreement for discounting or allowing
+the one debt out of
+the other, will make it a payment ... equity will take hold of a very slight
+thing to do both parties right.
+However, for the same reasons provided above regarding
+it is inapposite to speak of the rights of the executor in
+that case as a right of ‘set-off’. Instead, as Derham suggests,
+right described in both cases is ‘a right to appropriate a particular
+asset as payment’.
+To that extent,
+the principle described in
+and applied in
+closely resembles the doctrine of satisfaction of a debt by a legacy, under
+which equity will presume that where a person owes
+a debt and gives a legacy to
+their creditor, the legacy is in satisfaction of the
+is, the legacy is appropriated as substantially equivalent to the payment of the
+Various contemporary secondary sources which refer to
+case as an application of the doctrine of satisfaction. For example,
+Commentaries on Equity Jurisprudence: As Administered in
+England and America
+as an application of the doctrine of
+satisfaction.
+Likewise, Toller, Whitmarsh and Ingraham’s
+The Law of Executors and
+Administrators
+as a case concerning the doctrine of
+satisfaction, being an example of money lent by the executor to a legatee being
+held as part
+payment of the legacy.
+The Principles of Equity Jurisprudence: Embracing the Concurrent,
+Exclusive and Auxiliary Jurisdiction of Courts of Equity
+as a part of a class of cases ‘connected with the doctrine of
+satisfaction’.
+While Roper and
+A Treatise on the Law of Legacies
+discusses the case as an
+example of the executor’s right to retain a legacy ‘by way of
+set-off’, the term ‘set-off’
+appears to be used
+multiple references are subsequently made to the use of the legacy in
+‘satisfaction of the legatee’s
+Finally, in Lowndes’
+Treatise on the Law of Legacies
+is again cited in a
+chapter concerning the satisfaction of debt by
+While the foregoing texts are by no means intended to be an exhaustive list
+of the sources considering
+, they demonstrate substantial support
+across the 19
+century for a reading of
+application of the doctrine of satisfaction. Indeed, support for this reading
+can be found in Jekyll MR’s comments in
+the case itself: ‘[I]f a man
+gives a legacy to his creditor to the amount of his debt, this has been
+construed a payment or
+satisfaction of the debt
+, because a man must be
+supposed to be just before he is
+bountiful’.
+The principle described there by Jekyll MR was one arising out of the
+presumed intention of the testator. Parenthetically, Jekyll
+‘Notwithstanding this general doctrine, yet where the testator has left
+wherewithal, and shewed his intentions so
+to be, he has been construed to be
+both just and bountiful.’
+suggests that the principle was one of presumptive application, which could be
+displaced by evidence of the actual intentions
+of the testator. The contemporary
+sources discussed above take a similar view. For example, Story observed that
+the doctrine of satisfaction,
+as applied in this context, was a mere presumption
+that could be displaced even by the slightest of
+circumstances.
+Accordingly, he noted
+that the rule would not apply in various scenarios, such as where the legacy was
+less than the amount of the
+debt, where a particular motive was assigned for the
+gift or where the debt was incurred subsequent to the
+Adams and Ralston similarly
+referred to the presumption described in
+as being a weak one that
+was capable of displacement where the legacy was ‘less than the
+debt’ or ‘payable at a
+Roper and White observed
+that the presumptive payment of legacies must be read subject to the actual
+intention of the testator.
+Similarly, in
+Snell and Griffith’s
+The Principles of Equity: Intended for the Use of
+Students and the Profession
+, the basis for the treatment of a debt to be
+out of a legacy was said to be, inter alia, the
+‘presumed intention of the
+Additionally, Lowndes
+observed that the ‘implication’ of the testator’s intention
+to treat the legacy as satisfaction of a debt would
+not arise in circumstances
+similar to those
+described by Story.
+The status of the presumptive application of the rule was also affirmed in
+various cases in the 17
+centuries. In
+Goodfellow v Burchett
+a case considering whether a testamentary
+devise of land could be used in satisfaction of a bond owed to the legatee, the
+Court noted
+that the principle turns on the circumstances of the case and relies
+on a presumption of the testator’s
+Talbott v Duke of
+, another case concerning a legacy granted to a creditor of the
+deceased, the Court noted that the particular circumstances evincing
+testator’s intention, that the legacy should not be used in satisfaction
+of the debt, could displace the application of
+Richardson v Greese
+Court found that the particular circumstances in which the legacy was granted,
+as well as the specific terms on which it was
+granted, displaced the presumption
+that it should be used in satisfaction of the
+Fowler v Fowler
+although no circumstances were found to displace the presumption, the Court
+similarly recognised the ‘rule’ as being
+one of presumption rather
+than fixed application.
+Even in cases
+that did not concern testamentary legacies, courts found that the application of
+the rule as extended turned on the
+intention of the parties. For example, in
+Downam v Matthews
+a case concerning the administration of the
+estate of a deceased dryer, the Court held that the interactions between the
+and the plaintiff clothier over the course of the years evinced an
+intention to set-off the debts they each owed to one
+The treatment of the doctrine of satisfaction as a rule of presumption
+continued beyond the 17
+centuries. In
+Hassell v Hawkins
+a case from the mid 19
+Kindersley V-C observed that courts will ‘rely on the minutest shade of
+difference’ to escape from the presumption
+satisfaction.
+To a similar effect, in
+Lambert v Waters
+century case, the Full Court
+Supreme Court of Queensland held that the presumption of satisfaction was
+displaced by the fact that the legacy was smaller than the
+While various modern cases
+continue to note that
+is the basis for the rule in
+the cases applying the rule very rarely speak of any presumed intention of the
+little regard was given to the presumed
+intention of the parties, or the surrounding facts which could displace that
+Instead, Cottenham LC
+spoke of the ‘
+of an executor’ to retain a sufficient
+part of the legacy in payment of a debt.
+Early cases referring to
+seemed to assume that they were dealing
+with a fixed and established equitable principle, rather than a mere
+displaceable presumption.
+So much seems clear from the exposition of the rule in
+Turner v Turner
+Re Peruvian Railway
+Construction
+The modern Australian
+authorities similarly make scant reference (if any) to a
+‘presumption’, instead treating the rule
+established principle. Thus, for example in
+Gray v Gray
+Young CJ in Eq referred to the rule as constituting a ‘general
+that was an illustration of the more fundamental maxim that ‘he who seeks
+equity must do equity’.
+made no reference to the presumed intention of the parties. More recently, in
+Re Hawden Property Group Pty Ltd (in liq)
+, Gleeson JA provided a detailed
+account of the rule in
+While his Honour acknowledged the rule’s origins in cases concerning
+the administration of deceased estates,
+no reference was made to the rule being a presumption. Instead, his Honour spoke
+of a ‘principle’ in equity and the
+of a party to
+appropriate a particular asset as
+If indeed the rule in
+is an application of the principle
+discussed in
+then its treatment as some sort of inflexible,
+established rule of equity
+appears to be a misstep. Moreover, insofar as the rule in
+invoked as a
+basis for the clear accounts rule, it seems
+inappropriate to disregard the former rule’s history. Therefore, if one is
+to apply the clear
+accounts rule as some sort of historically entrenched principle, it seems
+necessary to recognise the presumptive nature of the rule.
+Of course, as
+foreshadowed earlier, one may argue that the rule in
+, and indeed,
+accounts rule, has taken a modern form that is no longer tied to its
+historical origins. That argument may now be addressed.
+IV Discretionary Approach
+to the Clear Accounts Rule
+If the clear accounts rule was treated as a freestanding principle of modern
+equity, pointing to the historical basis on which the rule was applied would
+not stand in the way of treating the modern rule as a
+rule of fixed application.
+However, this Part will suggest that even if such a characterisation of the
+clear accounts rule were accepted, the rule should (as
+is characteristic of
+equitable principles) be subject to discretionary considerations rather than
+applied inflexibly.
+Importantly, it is not suggested that such a discretion should be an
+unstructured or absolute one. Instead, this Part suggests that
+the discretion
+should be grounded in equity’s conscience as understood in the modern
+context — that is, it should be
+exercised with reference to established
+equitable principles. Specifically, the principles this Part draws on are
+concern for third-party interests when granting remedies and the
+allowances equity makes when taking accounts. Having regard to those
+principles,
+as well as the function of the clear accounts rule as a tool used by courts of
+equity to administer complex accounts,
+this Part suggests that there is a strong
+normative basis for the clear accounts rule to be applied in a manner that is
+to the interests of trust creditors.
+The Mandate for
+Flexibility in Accounts
+Before considering the equitable principles that should guide the
+approach when applying the clear accounts rule, it is necessary to briefly
+set out why a discretionary approach is needed to begin
+with. As has long been
+recognised, in taking accounts, equity is guided by a mandate to achieve
+justice between the
+There are various circumstances in which equity may be called upon to take
+accounts and, especially in the case of commercial trustees,
+there will often be
+a complex array of transactions and interests that courts must consider. In
+those circumstances, to fulfil its
+mandate to achieve practical justice between
+the parties, equity cannot tie its hands behind its
+Instead, it must apply accounting principles in a manner that is sufficiently
+discretionary and flexible so as to be adaptable to
+the particularities of the
+cases before it.
+Thus, for example, in
+Huang v Wei [No 3]
+Kunc J observed that ‘[t]he remedy of
+account is a flexible one, intended ultimately to achieve a fair and just result
+the parties’.
+accounts rule should be no exception to that position — an inflexible
+application of the rule would be
+unjustifiably contrary to equity’s general approach when taking
+accounts. Insofar as the clear accounts rule is functionally
+an accounting
+principle applied by equity in the examination of a trustee’s
+it too should be applied in a
+flexible and discretionary manner so as to achieve practical justice.
+V How the Discretion
+Should Be Exercised
+The notion that equity should administer accounts in a flexible manner is
+certainly not novel. As Watson has noted, historically,
+the taking of accounts
+was to be done according to the requirements of equity and good
+Indeed, early cases concerning
+the remedy of account noted that the account was to be taken according to the
+dictates of equity and
+justice rather than the rigour of the
+However, as has been observed in case law and academia alike, equity no longer
+resolves cases at a high level of abstraction by reference
+to vague notions of
+Instead, modern equity’s discretion is ‘rules-based’ in that
+it is exercised by reference to an established body
+of equitable
+principles.
+That view accords with the
+manner in which the concept of ‘conscience’ has evolved in equity as
+the source of equitable
+obligations. While in medieval times, chancellors were
+concerned with ‘prevent[ing] peril to the soul by
+in the modern context
+‘conscience’ invokes a set of well-established principles developed
+by the courts of equity over
+one cannot simply rely on the invocation of notions of ‘good faith’
+or ‘justice’ in medieval cases
+to assert that similar notions will
+operate at such a high level today to dictate the operation of the clear
+accounts rule.
+Instead, any argument
+that the clear accounts rule should not apply where its operation would be
+‘unconscionable’ should
+generally be made through an inductive approach by reference to established
+equitable principles.
+Consistently with that approach, there are two established lines of equitable
+principle on which trust creditors could rely when attempting
+to resist the
+application of the clear accounts rule. First, in formulating appropriate
+remedies, courts of equity are sensitive to the interests
+While prejudice to third
+parties is not necessarily determinative of equity’s discretion, it is
+useful to examine the circumstances
+in which third-party interests have guided
+the court’s decision to award a particular remedy. Second, in various
+modern contexts,
+equity has made ‘just allowances’ when determining
+the amount payable from one party to another. In making such allowances,
+has been minded to making the party seeking equitable relief account for the
+benefits that they have received (drawing on
+the maxim that one who seeks equity
+must do equity). In making parties account for the benefit they have received,
+has been willing to prioritise the achievement of practical justice between
+parties rather than being bound by stringent accounting procedures.
+Consideration of Third-Party Interests
+Starting with the consideration of third-party interests generally, Wright
+has observed that equity is willing to consider third-party
+interests in a range
+circumstances
+such as when imposing constructive
+awarding injunctions.
+An examination of
+how third-party interests are considered in these contexts may inform how courts
+should treat the interests of
+trust creditors who are functionally ‘third
+parties’ so far as the trustee-beneficiary relationship is concerned.
+In the sphere of constructive trusts, numerous cases have acknowledged the
+importance of considering third-party interests before
+a remedy is awarded. In
+Giumelli v Giumelli
+, a majority of the High Court recognised that when
+determining whether a constructive trust ought to be imposed, the court is
+obliged to consider ‘all the circumstances of the
+including the implications of the remedy on third
+That decision was cited with
+approval in
+John Alexander’s Clubs Pty Ltd v White City Tennis Club
+where the High Court noted that before deciding whether to declare a
+constructive trust, the interests of third parties must be ‘borne
+To a similar effect, the
+High Court in
+Bathurst City Council v PWC Properties Pty Ltd
+unanimously
+noted the need to avoid a ‘result whereby the plaintiff gains a beneficial
+proprietary interest which gives an unfair
+priority over other equally deserving
+creditors of the
+defendant’.
+In the context of rectifying mistakes, courts have refused relief where it
+would prejudice the interests of an innocent third party
+who has acquired
+interests under the document for
+Similar circumstances have also
+justified the refusal to rescind a contract. For example, in
+Finance Ltd v C G Maloney Pty Ltd
+, Giles J suggested that equity would
+consider whether undoing the contract would prejudicially affect the interests
+innocent third party who had in good faith and for value acquired rights
+under the relevant
+His Honour noted that equity’s rationale was to avoid unduly punishing the
+innocent third party for conduct in which they had
+His Honour observed that
+notwithstanding the fact that there were two innocent parties (the party
+subjected to a misrepresentation
+and the innocent third party), it was the
+prejudice to the innocent third party that was to be
+A similar rationale has also
+been applied to the protections afforded to bona fide purchasers for value of
+real property
+and personal
+One apparent distinction between the position of trust creditors and the
+third parties referred to above is that trust creditors have
+not acquired an
+interest in the trust property. For example, in the context of rectification and
+rescission, the relevant third parties
+have acquired interests under the
+instrument with which equity would be interfering. However, this distinction
+appear to be material to the exercise of equity’s discretion. What is
+relevant is that a third party has acquired rights for
+value (rather than as a
+volunteer) and that the equitable remedy sought would directly and prejudicially
+interfere with those rights.
+Understood this way, it is unclear why the rights
+of trust creditors should not be considered by equity when deciding whether to
+apply the clear accounts rule. They too have acquired rights for value against
+the trustee (acting in performance of the trust).
+And, as explained above, their
+ability to satisfy those rights too is directly and prejudicially affected by
+the invocation of the
+clear accounts
+Perhaps the better objection to equity accounting for the interests of trust
+creditors is the ‘acceptance of risk
+The acceptance of risk
+theory has been applied when courts have considered whether to impose a
+constructive trust upon property owned
+by an insolvent
+In such circumstances, a
+constructive trust would prejudice the constructive trustee’s general
+creditors who would lose recourse
+to the property subject to the constructive
+trust. However, the acceptance of risk theory suggests that the general
+creditors of
+the constructive trustee should be taken to have accepted the risk
+that they may cease to be the owner of the property because by
+failing to take
+security the general creditors have accepted the
+The same could be said of
+unsecured trust creditors — in dealing with the trustee they have accepted
+the risk that the trustee
+may become insolvent and failed to secure their debts
+against the trust property.
+Accordingly,
+unsecured creditors should not be given priority over the beneficiaries in order
+to satisfy their claims against the
+As Paciocco notes, although the acceptance of risk theory is compelling, it
+does not always justify giving preference to
+beneficiaries.
+The theory turns on the assumption that only the trustee’s creditors, and
+not the beneficiaries, have had the opportunity to
+deal with the trustee in the
+past. However, where beneficiaries have had an opportunity to deal with the
+trustees, there is ‘nothing
+of substance’ to distinguish their
+position from that of the creditors.
+far as commercial trusts are concerned, the beneficiaries of the trusts have
+often dealt with the trustees (eg when purchasing
+units in a unit
+They also have rights with
+regards to the administration of the trust. For example, the trust deed may
+confer on beneficiaries a
+power to replace the
+Alternatively, the
+beneficiaries may apply to the court for it to exercise its inherent
+deciding whether to remove a trustee, the court will consider the welfare of
+beneficiaries and the preservation of the
+trust estate.
+Finally, it is worth noting that support for considering the interests of
+trust creditors was also expressed by Lord Briggs JSC and
+Lady Arden in
+Equity Trust (Jersey)
+. Lord Briggs JSC considered the prejudice suffered
+by trust creditors as being material to how the priorities between the liens of
+initial and successor trustees should be
+determined.
+His Lordship recognised the
+invidious position of trust creditors who are ‘exposed to the unknowable
+state of account
+between the trustee with whom they deal and the
+To similar effect, Lady
+Arden emphasised the need to consider the effect of a trustee’s insolvency
+on the ability of trust
+creditors to enforce the debts owed to
+Her Ladyship went on to note that
+courts of equity have ‘sought to uphold creditors’ rights which
+[may] have already
+already observed, in
+Equity Trust (Jersey)
+all members of the
+Privy Council seemed to presuppose the
+application of the clear accounts rule, and a consideration of the
+rule’s application was not in
+Nonetheless, the majority’s
+concern for the prejudice suffered by trust creditors, and its direct impact on
+how priority rules
+were formulated, remains illuminating.
+Just Allowances
+The second line of principle that justifies consideration of trust
+creditors’ interests is the rationale underpinning the ‘just
+allowances’ doctrine. The just allowances doctrine allows a fiduciary who
+is subject to an order to account for profits or
+an order declaring a
+constructive trust to invoke the discretionary power of the court to make
+deductions from the amount owing to
+The court has wide latitude
+to exercise its discretion, being able to make allowances for any matter that it
+might think is ‘just
+Thus, for example, it was
+held that a trustee liable to account for profits made from a trust was entitled
+to make allowances for
+the time, energy and skill the trustee expended in
+generating that profit.
+As the learned authors of
+Meagher, Gummow and Lehane’s Equity:
+Doctrines and Remedies
+note, there are various justifications for the just
+allowances doctrine.
+justification is that without the relevant allowance, the beneficiaries seeking
+an account of profits would be able to
+retain benefits for which they have not
+For example, in
+Re Berkeley
+Applegate (Investment Consultants) Ltd (in liq); Harris v Conway
+Edward Nugee QC (sitting as a deputy judge for the High Court) noted that
+the fact that ‘work ha[d] been of substantial benefit
+to the trust
+property and to the persons interested in it in equity’ was a key factor
+in the award of just allowances for the
+value of that
+similar effect in
+Phipps v Boardman
+Wilberforce J explained that
+it would be ‘inequitable’ for beneficiaries seeking an account of
+profits ‘to step
+in and take the profit without paying for the skill and
+labour which has produced it’.
+Additionally, in
+O’Sullivan v Management Agency & Music
+Dunn LJ noted that in assessing the advantage gained by a wrongdoer, equity
+will look at the ‘whole
+situation’.
+At a more fundamental
+level, this explanation for the just allowances doctrine in the foregoing cases
+is consistent with the maxim
+‘he who seeks equity must do
+In other words, the
+principal seeking an account of profits is seeking equity and must therefore do
+equity by submitting to
+allowances made on ‘just
+A similar explanation has been proffered for the ‘just
+allowances’ that equity makes in other circumstances. For example,
+ordering rescission, courts of equity have not been constrained by any stringent
+requirement to restore the parties precisely
+to the state they were in before
+the contract.
+Instead, equity has sought
+to achieve practical justice between the parties by making allowances for
+improvements or deteriorations
+of the property to be
+The basis for making such
+allowances has also been explained as turning on the maxim ‘he who seeks
+equity must do equity’,
+have been wary of the injustice arising from a party taking possession of
+property without
+accounting for the benefits they may have
+When considering
+equity’s discretion to rescind a contract for unconscionable conduct,
+the High Court in
+Vadasz v Pioneer Concrete (SA) Pty Ltd
+discussed at some length equity’s mandate to achieve ‘practical
+There, the Court
+approved Lord Wright’s comments in
+where his Lordship
+noted the importance of not ‘ty[ing] the hands of the court by attempting
+to form any rigid rules’.
+noted that a party seeking equitable rescission was
+seeking the court of equity’s assistance and was therefore bound to do
+It followed that the
+Court’s mandate was to look at what was practically just for both parties
+and not just the appellant.
+To a similar effect, when taking the accounts of a co-owner, equity has
+granted the co-owner, liable to pay occupation fees, an allowance
+improvements made to the property.
+Again, the basis for making such allowances has also been recognised as the
+maxim of one who seeks equity must do
+In other words, a co-owner
+seeking equitable relief in the form of
+occupation fees must do equity by accounting for improvements made to the
+property. The courts have noted that they do not wish to
+allow a party to be
+unfairly benefited under an order in
+Application of
+Principles to Trust Creditors
+Pulling these threads together, the two principles to be abstracted from the
+foregoing analysis are that: (a) equity will generally
+consider the prejudice to
+third parties when exercising its remedial discretion; and (b) the maxim of
+‘one who seeks equity
+must do equity’ requires parties seeking
+equitable relief to account for the benefits that have been conferred on
+As third parties to the trustee-beneficiary relationship, trust creditors can
+rely on these principles to justify a discretionary
+refusal to apply the clear
+accounts rule. As already observed, the application of the clear accounts
+rule is prejudicial to their position — it is capable
+of rendering their
+only avenue to access trust assets, in the execution of their claims, valueless.
+Additionally, trust creditors
+can also call upon beneficiaries seeking equitable
+relief for breach of trust to ‘do equity’. Take, for example, a
+creditor who provides a banking facility to the trustee, which in turn
+enables the trustee to acquire a trust asset or carry out
+some profitable
+enterprise for the benefit of the trust. Assume also that the trustee has
+engaged in some other breach of trust unrelated
+to their transaction with this
+trust creditor. The trust creditor can certainly assert that the finance they
+provided enabled the
+trustee to acquire a trust asset or engage in a profitable
+enterprise, which in turn increased the value of the trust fund. That
+material benefit enjoyed by the beneficiaries of the trust. As with
+co-owners, parties seeking rescission of a contract or principals seeking an
+account of profits, the beneficiaries seeking the intervention of equity
+should do equity by accounting for the benefit they have
+received as a result of
+the trust creditors’ contributions. That is, they should be required to
+allow the subrogating trust
+creditors to recover the full value of their
+indemnity rather than seeking to net that indemnity off against an unrelated
+of trust committed by the trustees. This view of the clear accounts rule
+also seems consistent with the exception recognised in
+the end of Jessel MR’s judgment.
+The Master of the Rolls noted that a possible exception to the clear accounts
+rule would exist if the creditors could demonstrate
+that there was a profit to
+the carrying on of the business which exceeded the deficit owed by the trustee,
+thereby showing that ‘something
+was gained by the use’ of the
+creditors’ contributions.
+least where the ‘credit’ provided by a trust creditor has profitably
+contributed to the state of the trust fund,
+there is a strong argument in favour
+of not applying the clear accounts rule to the creditors’
+disadvantage.
+VI Implications of the
+Discretion: The Role of Equity in Insolvency Law?
+Before proceeding to a discussion of the other grounds on which the clear
+accounts rule may be resisted, it is worth briefly commenting on the broader
+implications of the argument made in
+If accepted, the argument would
+not only affect how the clear accounts rule is understood academically but would
+also have significant
+practical consequences for trust creditors in insolvency
+settings. As will be recalled from
+, unsecured trust creditors do not
+have a prima facie right to resort directly to trust assets in the execution of
+their claims. Instead,
+their means of accessing trust assets is the indirect
+route provided to them by their right to subrogate to the trustee’s right
+of exoneration.
+As the law currently
+stands, the clear accounts rule is a major practical obstacle in that indirect
+route to trust assets. However,
+if the argument in
+is accepted, it opens the possibility of having that obstacle
+removed. That is, the trust creditors can finally detach the value
+right of subrogation from other breaches the trustee may have committed.
+The benefit to trust creditors does, however, come at the expense of letting
+beneficiaries’ claims against trustees go unsatisfied.
+discretionary consideration of trust creditors’ interests is found to be
+determinative, the court would make separate
+orders for the trustee to restore
+the trust funds and for the trust assets to be realised in satisfaction of the
+right of indemnity.
+Insofar as the trustee is insolvent, they would not be able to meet their
+obligation to restore the trust funds. Thus, in effect,
+advocates for
+shifting the burden of the trustee’s insolvency from the trust
+creditors to the beneficiaries.
+already raised arguments as to why, from
+an acceptance of risk perspective, it is justifiable for beneficiaries to bear
+this burden.
+However, it is also worthwhile considering the recourse to equity’s
+discretion in light of broader debates regarding the role
+of equity in
+insolvency settings.
+Concerns have been raised about equity unduly adjusting priorities between
+equally deserving creditors in the context of courts imposing
+constructive trusts,
+such concerns may also be cautious of equity exercising its discretion to adjust
+priorities between trust creditors and
+beneficiaries.
+In response, however, it should be observed that it is the clear accounts
+rule, and not its discretionary non-application, that constitutes
+intervention to effectively adjust priorities between the parties. Absent the
+application of the clear accounts rule,
+the trustee’s right of indemnity
+would take priority over the rights of beneficiaries in the trust fund. It is
+through the
+clear accounts rule that equity intervenes and puts the trust
+creditors in a worse position than they otherwise would have been.
+that a desire for equity to take a conservative approach to the rights of
+parties in insolvency would support the non-application
+of the clear accounts
+Moreover, if accepted, the argument in the preceding Part would not have the
+effect of all trust creditors automatically avoiding
+the operation of the rule.
+Instead, the trust creditor would need to demonstrate that they contributed
+assets that benefited the trust fund. Thus, for example, a plaintiff entitled
+to damages against the trustee qua
+trustee would struggle to demonstrate
+a beneficial contribution to the trust assets. Similarly, the principle would
+not extend to
+trust creditors whose credit was never converted into a profit for
+the trust. The court’s discretion would turn on questions
+determined on a
+case-by-case basis. However, ultimately there would be certain deserving
+creditors who contributed valuably to the trust assets and
+as such would be
+entitled to have their right of subrogation take priority over the claims of the
+beneficiaries against the trustees.
+VII Two Final Exceptions
+to the Clear Accounts Rule
+Beyond the bases for resisting the clear accounts rule outlined above, there
+are two further circumstances in which the operation
+of the clear accounts rule
+could be avoided: (a) where the clear accounts rule is found to be contrary to
+statute; and (b) where
+its application is ousted by the trust deed. Each
+circumstance is considered below (although in the interests of brevity, the
+raised are not intended to be exhaustive).
+Intervention into the Right of Indemnity
+While an account of the general law right of a trustee’s indemnity has
+already been provided in
+of this article, the intervention of statute
+into a trustee’s right of indemnity also poses interesting questions
+the operation of the clear accounts rule.
+Statutory provisions that confer on trustees a right of indemnity are not
+uniform across all Australian jurisdictions. While a detailed
+analysis of each
+least in some jurisdictions, a trustee’s
+statutory right of indemnity is
+cast in wide terms and without reference to general law
+restrictions.
+For example,
+Trustee Act 1925
+Trustee Act
+provides that ‘[a] trustee may
+reimburse himself or herself, or pay or discharge out of the trust property
+all expenses incurred in or about execution of the trustee’s
+powers’. In
+Free Serbian Orthodox Church Diocese for Australia and New Zealand
+Property Trust v Dobrijevic [No 3]
+Payne JA noted that
+an ‘embodiment’ of the general law principle concerning a
+trustee’s right to indemnity.
+However, a question remains as to whether this ‘embodiment’ of the
+general law principle also embraces general law exceptions
+or limitations on
+that right of indemnity, such as the clear accounts rule.
+On one view, the absence of any reference to the clear accounts rule in
+suggests that there was no statutory intention to incorporate the
+rule as a qualification on the trustee’s statutory right
+of indemnity.
+Elsewhere, the
+Trustee Act
+is not silent on the role of law and
+equity in regulating the rights of indemnity conferred by the Act. For example,
+s 14B(3) of the
+Trustee Act
+explicitly enshrines the continued
+application of ‘[a]ny rules and principles of law or equity that relate to
+a provision in
+an instrument creating a trust that purports to exempt, limit the
+liability of, or indemnify a trustee in respect of a breach of
+preserves ‘[a]ny rules and principles of law or equity
+that impose a duty on a trustee exercising a power of investment ...
+the extent that they are inconsistent’ with the
+Trustee Act
+any instrument creating the trust. Arguably then, the absence of any express
+preservation of general law limitations on the trustee’s
+indemnity (beyond the limitations recognised in
+leaves little room for
+the continued application of the clear accounts rule on the statutory right of
+indemnity. That view would
+appear to be consistent with Spigelman CJ’s
+judgment in
+Holdings v Kritharas Holdings (in liq)
+where his Honour noted that the historical general
+law test for indemnifiable expenses to be ‘proper’ and
+‘reasonable’
+must now be understood in light of the statutory
+Ultimately, in that case, the New South Wales Court of Appeal concluded that the
+‘proper’ and ‘reasonable’
+expenses test, which had been
+recognised historically at general law, was no longer determinative on whether
+an expense incurred
+by a trustee was
+indemnifiable.
+It should be noted that the conclusion reached by the Court of Appeal in
+was doubted by the
+Victorian Court of Appeal in
+Additionally, in
+Gatsios Holdings
+, Spiegelman CJ expressly noted that the
+‘statutory provision itself must be understood in light of the
+pre-existing law, which it did not purport to
+Gatsios Holdings
+should not be relied on as authority for the proposition that
+completely displaces the general law. However, it is unnecessary to digress into
+a detailed discussion of the positions set out in
+Gastios Holdings
+for the purposes of this
+Rather, it is simply relevant
+to observe that the statutory right is a distinct source of the trustee’s
+right of indemnity.
+While the clear
+accounts rule has traditionally applied to the general law right of
+indemnity, a question remains as to whether the rule can also
+be applied in
+circumstances where a party invokes the statutory right of indemnity given the
+absence of any reference to the rule
+in the Act.
+Exclusion of the
+Clear Accounts Rule through the Trust Deed
+The second possible exception to the clear accounts rule occurs when it is
+contrary to the agreement of the parties. As the foregoing
+analysis has
+demonstrated, there is no reason to believe that the ‘clear accounts
+rule’ is a mandatory rule of trusts
+Instead, as noted above, it should
+be considered a discretionary accounting technique available to the courts of
+equity. It follows
+that the rule can be displaced by specific drafting of the
+instrument.
+While the exact combination of words to be used is a question for transactional
+in theory it is possible that a
+trust deed could explicitly provide that the value of a trustee’s right of
+exoneration is not
+to be netted off or otherwise
+affected by the value of any obligation of the trustee to restore trust
+Additionally, the trust deed
+could provide that beneficiaries may only bring claims against an insolvent
+trustee once the trustee’s
+right of exoneration has been satisfied out of
+the trust assets.
+There does not appear to be any case law to date on attempts to modify the
+operation of the clear accounts rule through the trust
+instrument. However, at
+least in principle, there is no reason why such drafting should be rendered
+ineffective by courts of equity. To appreciate that point, it is important to
+recall that there are few fixed rights with general
+characteristics that are
+universally enjoyed by all
+beneficiaries.
+Instead, the trust
+instrument, as given effect by equity, is the source of a beneficiary’s
+While trust law recognises an
+‘irreducible core’ of a trustee’s duties that cannot be ousted
+by the trust instrument,
+aforementioned drafting does not purport to exclude the operation of a
+trustee’s duties or the corresponding rights of
+beneficiaries. Instead,
+it simply sets an order of priority as to when the beneficiaries’
+rights can be
+exercised and how the value of those rights will be calculated.
+VIII Conclusion
+The clear accounts rule has significant implications for trust creditors. It
+impacts their only route to accessing trust assets in satisfaction of the
+debts owed to them. This article has examined the clear
+accounts rule from both
+a historical and modern doctrinal perspective. It has suggested that a fidelity
+to history would require
+the clear accounts rule to be applied on a presumptive
+basis, such that its application could be circumvented by adducing evidence
+trustee’s actual intentions when misappropriating trust funds.
+Alternatively, it has suggested that from a modern perspective,
+a discretionary
+approach to the clear accounts rule is justifiable. Such a discretion ought to
+be exercised in a manner that is sensitive
+to the prejudice suffered by trust
+creditors and their beneficial contributions to the state of the trust assets.
+Finally, this article
+has observed that one further possibility to explore for
+transactional lawyers is the way in which a trust deed or governing rules
+trust can be drafted so as to avoid the clear accounts rule entirely.
+* BA, LLB (Hons I) (Sydney); BCL candidate (Oxon). I am grateful to the Hon
+Joseph Campbell KC FAAL, Dr Nuncio
+Angelo, Professor Matthew Conaglen and Dr
+Jeevan Hariharan for their insightful comments and feedback on earlier drafts.
+remain my own.
+Relatively recent examples include:
+Staatz (as liquidator of Wollumbin Horizons Pty Ltd
+(in liq)) v Berry [No 3]
+[2019] FCA 924
+(2019) 138 ACSR 231
+[204]–[206] (Derrington J);
+Park v Whyte [No 3]
+[2017] QSC 230
+[2018] 2 Qd R 475
+504–7 [125]–[144] (Jackson J) (‘
+Park [No 3]
+Lane v Deputy
+Commissioner of Taxation
+[2017] FCA 953
+(2017) 253 FCR 46
+, 52 [5], 68–9
+[54]–[59] (Derrington J) (‘
+De Santis v
+[2014] FCA 1243
+(2014) 227 FCR 404
+, 424–5 [74]–[77], 426 [82], 432
+[106] (Farrell J);
+Chu v Lin; Re Gold Stone Capital Pty Ltd (Trial Judgment)
+, [246] (Jackman J) (‘
+Re Gold Stone Capital
+The term ‘trust creditor’ is
+defined below in
+Part II(A).
+Put simply, a ‘trust creditor’ is a
+party to whom a trustee has incurred a debt in their capacity as a trustee. The
+issues apply only in relation to unsecured trust creditors; those that
+are secured do not access trust assets via subrogation to
+the trustee’s
+indemnity but rather do so directly via their security. From here on,
+‘trust creditor’ refers only
+to those that are unsecured, unless
+otherwise stated.
+[1839] EngR 1099
+(1839) 4 My & Cr 442
+’). See below nn 110–24 and accompanying
+Carter Holt Harvey Woodproducts
+Australia Pty Ltd v Commonwealth
+(2019) 268 CLR
+524, 543–4 [31] (Kiefel CJ, Keane and Edelman JJ) (‘
+(Derrington J), citing
+Australian Securities and Investments
+Commission v Letten [No 17]
+[2011] FCA 1420
+(2011) 286 ALR 346
+353 [20] (Gordon J) (‘
+RWG Management Ltd v Commissioner for
+Corporate Affairs
+[1985] VicRp 42
+[1985] 1 VR 385
+(Brooking J) (‘
+RWG Management
+) 68 [55] (Derrington J).
+Provident Capital Ltd v Zone
+Development Pty Ltd
+(2001) 10 BPR 19133, 19140–1 [49] (Young CJ in
+Kelly v Mina
+[2014] NSWCA 9
+, [103] (Leeming JA, Ward JA agreeing
+at [100]) (‘
+’); Nuncio D’Angelo, ‘The
+Trust as a Surrogate Company: The Challenge of
+Insolvency’
+(2014) 8(3)
+Journal of Equity
+) 540 [24] (Kiefel CJ, Keane and Edelman
+JJ), 577 [129] (Gordon J);
+Equity Trust (Jersey) Ltd v Halabi
+[2022] UKPC 36
+, 893 [58] (Lord Richards JSC and Sir Nicholas Patten, Lord Stephens JSC
+agreeing), 934 [256] (Lord Briggs JSC, Lord Reed PSC and
+Lady Rose JSC
+agreeing), 941 [281] (Lady Arden) (‘
+Equity Trust (Jersey)
+Octavo Investments Pty
+Ltd v Knight
+[1979] HCA 61
+(1979) 144 CLR 360
+, 367 (Stephen, Mason, Aickin and
+Wilson JJ) (‘
+Investments
+[24] (Kiefel CJ, Keane and
+Edelman JJ), 560–1 [82] (Bell, Gageler and Nettle JJ), 577 [129] (Gordon
+) [103] (Leeming
+JA, Ward JA agreeing at [100]).
+Re Johnson; Shearman v
+[1880] UKLawRpCh 214
+(1880) 15 Ch D 548
+, 552 (Jessel MR) (‘
+Vacuum Oil Company Pty Ltd v Wiltshire
+[1945] HCA 37
+(1945) 72 CLR
+, 324 (Latham CJ) (‘
+Language to a similar effect was used
+by the High Court of Australia in
+see, eg, at 585 [156] (Gordon J).
+Chief Commissioner of Stamp Duties
+(NSW) v Buckle
+[1998] HCA 4
+(1998) 192 CLR 226
+, 245–6 [47] (Brennan CJ, Toohey,
+Gaudron, McHugh and Gummow JJ) (‘
+’); JD Heydon and MJ
+Jacobs’ Law of Trusts in Australia
+(LexisNexis Butterworths,
+ed, 2016) 510–11 [21-02].
+Re Blundell; Blundell v
+[1888] UKLawRpCh 84
+(1888) 40 Ch D 370
+, 376–7 (Stirling J).
+Worrall v Harford
+[1802] EngR 342
+(1802) 8 Ves
+, 252 (Lord Eldon LC).
+) 245 [47] (Brennan CJ, Toohey, Gaudron,
+McHugh and Gummow JJ), quoting Austin Wakeman Scott and William Franklin
+The Law of Trusts
+(Little, Brown and Company, 4
+ed, 1988) vol 3A, 345.
+See above n
+) 544 [32] (Kiefel CJ, Keane and Edelman
+JJ), 561–2 [83]–[85] (Bell, Gageler and Nettle JJ), 582 [142]
+(Gordon J).
+Jennings v Mather
+[1901] UKLawRpKQB 176
+[1902] 1 KB 1
+, 6 (Collins MR) (‘
+Jennings (KB)
+’), cited in
+544 [32] n 70 (Kiefel CJ, Keane and Edelman JJ). For further discussion, see
+generally RW White, ‘Insolvent Trusts: Implications
+CPT Custodian
+(2017) 44(1)
+Australian Bar Review
+Trustee Act 1925
+Trusts Act 1973
+Trustee Act 1958
+) 552 (Jessel MR);
+) 324 (Latham CJ), 335 (Dixon J).
+See especially, Nuncio D’Angelo,
+Transacting with Trusts and Trustees
+(LexisNexis, 2020)
+415–16 [10.98]–[10.99].
+Nuncio D’Angelo,
+(LexisNexis Butterworths, 2014) 299–300
+[6.60]–[6.62].
+Horwath Corporate Pty Ltd v
+[1999] NSWSC 583
+(1999) 32 ACSR 413
+, 414–15 [8]–[17] (Young J);
+Park & Muller (liquidators of LM Investment Management Ltd) v Whyte
+(receiver of the LM First Mortgage Investment Fund)
+[2015] QSC 283
+[18]–[19] (Jackson J);
+Re Austec Wagga Wagga Pty Ltd (in liq)
+[2018] NSWSC 1476
+, [13], [18] (Brereton J).
+Elders Trustee & Executor Co
+Ltd v E G Reeves Pty Ltd
+[1987] FCA 332
+(1987) 78 ALR 193
+, 253 (Gummow J) (‘
+Trustee & Executor
+’); Heydon and Leeming (n
+) 511–12 [21-03]. See generally
+Transacting with Trusts and Trustees
+) ch 3, 416 [10.102]. Trustees may also
+attempt to embed a limitation of liability clause into the trust instrument
+itself. However,
+such a provision is unlikely to be effective where trust
+creditors do not have notice of the clause:
+Austrust Ltd v Astley
+[1996] SASC 5681
+(1996) 67 SASR 207
+, 228 (Doyle CJ and Olsson J,
+Duggan J agreeing at 243), affd
+(1999) 197 CLR 1
+, 38 [89]–[90] (Gleeson
+CJ, McHugh, Gummow and Hayne JJ). The position where trust creditors have notice
+of such a clause is
+less settled: D’Angelo,
+Transacting with Trusts and
+Muir v City of Glasgow Bank
+(1879) 4 App Cas 337
+, 355 (Earl Cairns LC) (‘
+Trustee & Executor
+253 (Gummow J).
+This may either be due to commercial
+realities or because the clause is held unenforceable.
+For further discussion, see D’Angelo,
+Transacting with Trusts and
+) 149 [3.13],
+417 [10.103].
+Helvetic Investment
+Corporation Pty Ltd v Knight
+(1984) 9 ACLR 773
+(Mahoney JA) (‘
+Helvetic Investment
+Elders Trustee
+) 253 (Gummow
+Transacting with
+Trusts and Trustees
+) 552 (Jessel MR).
+(Kiefel CJ, Keane and
+Edelman JJ), citing
+Scott v Surman
+(1742) Willes 400
+125 ER 1235
+(Willes CJ),
+Winch v Keeley
+(1787) 1 Term R 619;
+[1787] EngR 38
+, 1286 (Buller
+Boddington v Castelli
+[1853] EngR 515
+(1853) 1 El & Bl 879
+Bankruptcy Act 1966
+Bankruptcy Act 1924
+(Cth) s 91(a), as at 30 July
+(Kiefel CJ, Keane and Edelman JJ), discussing
+Corporations Act
+(definition of ‘property’)
+Corporations Act
+) 541–2 [26]–[27], 546 [36]
+(Kiefel CJ, Keane and Edelman JJ), 567–8
+[94]–[95] (Bell, Gageler and Nettle JJ).
+Ibid 542 [28] (Kiefel CJ, Keane and
+Edelman JJ).
+Re Enhill Pty Ltd
+[1983] VicRp 52
+[1983] 1 VR 561
+, 564 (Young CJ). See generally Justice James Allsop,
+‘The Intersection of Companies and Trusts’
+[2020] MelbULawRw 18
+(2020) 43(3)
+University Law Review
+) 549 [44] (Kiefel CJ, Keane and Edelman
+JJ), 565–6 [92] (Bell, Gageler
+and Nettle JJ), 585 [156]–[158] (Gordon J). Proceeds from the right of
+reimbursement are
+available for distribution amongst all the trustee’s creditors: at 549
+[43] (Kiefel CJ, Keane and
+Edelman JJ), 565–6 [92] (Bell, Gageler and Nettle JJ), 584–5
+[155] (Gordon J).
+Ibid 545 [34] (Kiefel CJ, Keane and
+Edelman JJ), 578 [132] (Gordon J).
+JD Heydon, MJ Leeming and PG Turner,
+Meagher, Gummow and Lehane’s Equity: Doctrines and Remedies
+(LexisNexis Butterworths, 5
+ed, 2015) 365 [9-005], quoting Denis
+Ashburner’s Principles of Equity
+(Butterworth, 2
+ed, 1933) 243.
+) 555 (Jessel MR).
+) 543–4 [31], 545 [34] (Kiefel CJ,
+Keane and Edelman JJ).
+See, eg, D’Angelo,
+Transacting with Trusts and Trustees
+) 253 [5.129]; White (n
+) 18–22; Nuncio D’Angelo,
+‘The Unsecured Creditor’s Perilous Path to a Trust’s Assets:
+Is a Safer, More
+Direct US-Style Route Available?’
+(2010) 84(12)
+Australian Law Journal
+, 833 (‘The Unsecured Creditor’s
+Perilous Path to a Trust’s Assets’); Harlan F Stone, ‘A Theory
+of Liability
+of Trust Estates for the Contracts and Torts of the Trustee’
+(1922) 22(6)
+Columbia Law Review
+, 528; Diccon Loxton and Nuncio
+D’Angelo, ‘Trustees’ Limitation of Liability: Myths,
+Mysteries and a Model Clause’
+(2013) 41(3)
+Australian Business Law
+, 145. But see Bajul Shah, ‘Trustee’s Indemnity and
+Creditors’ Rights’
+(2013) 19(1)
+Trusts and Trustees
+) 361 [43] (Gordon J); D’Angelo,
+Transacting with Trusts and Trustees
+249–50 [5.117]–[5.118].
+Corporations Act
+) s 197(1).
+Transacting with
+Trusts and Trustees
+See, eg, D’Angelo,
+) 268–9 [5.125].
+See also HAJ Ford, ‘Trading Trusts and Creditors’ Rights’
+[1981] MelbULawRw 1
+(1981) 13(1)
+Melbourne University Law Review
+, 29–30; Stone (n
+) 528, 535–6; Ronald Sackville,
+‘The Trustee’s Right of Indemnity and the Creditor’s Right of
+Subrogation:
+The Hardening of Equity’
+(2013) 7(1)
+Journal of Equity
+) 4, 20; D’Angelo,
+) 268 [5.124]. But see
+Diccon Loxton, ‘In with the Old, out with the New? The Rights of a
+Replaced Trustee against Its Successor,
+and the Characterisation of
+Trustees’ Proprietary Rights of Indemnity’
+(2017) 45(4)
+Australian Business Law Review
+, 290. See also White (n
+Commercial Trusts
+) 267 [5.123], 270
+See, eg, Allison Silink,
+‘Trustee Exoneration from Trust Assets: Out on a Limb?’
+(2018) 12(1)
+Journal of Equity
+, 60–1; Shah (n
+Commercial Trusts
+) 270 [5.128].
+See above nn
+and accompanying text.
+Equity Trust (Jersey)
+) 882–3 [2], [4] (Lord Reed
+Ibid 882 [2].
+Ibid 939 [275] (Lord Briggs JSC, Lord
+Reed PSC and Lady Rose JSC agreeing). See also at
+948 [295] (Lady Arden).
+Ibid 895 [66] (Lord Richards JSC and
+Sir Nicholas Patten, Lord Stephens JSC agreeing).
+Ibid 895 [66] (Lord Richards JSC and
+Sir Nicholas Patten, Lord Stephens JSC agreeing),
+939 [276] (Lord Briggs JSC, Lord Reed PSC and Lady Rose JSC agreeing).
+RWG Management
+) 397 (Brooking J) (citations omitted);
+JD & KJ Zohs Properties Pty Ltd v Ferme
+(2015) 16 ASTLR 167, 183 [71]
+(Stanley J) (‘
+JD & KJ Zohs Properties
+’) (citations
+HBSY Pty Ltd v Lewis
+[2022] NSWSC 841
+(2022) 108 NSWLR 558
+[47]–[50] (Kunc J) (‘
+’) (citations omitted).
+(1902) 28 VLR 622
+ing v Doering
+[1889] UKLawRpCh 74
+(1889) 42 Ch D 203
+207–8 (Stirling J) (‘
+[1906] HCA 37
+(1906) 3 CLR 1170
+, 1192 (Barton J)
+Ibid 1191 (emphasis added), quoting
+Jennings v Mather
+[1900] UKLawRpKQB 164
+[1901] 1 QB 108
+, 113 (Lawrance J agreeing at 117)
+Jennings (QB)
+’), which in turn quoted
+Re Evans; Evans v
+[1887] UKLawRpCh 17
+34 Ch D 597
+, 601 (Cotton LJ). Note that
+) erroneously cites
+Jennings (QB)
+) as having been reported in the
+King’s Bench Division Reports
+when in fact it was reported in the
+Queen’s Bench Division Reports
+: ibid 1191 n 1. The citation has
+been corrected here.
+Octavo Investments
+) 367–8 (Stephen, Mason, Aickin and
+Wilson JJ), citing
+1186, 1188 (Griffiths CJ), and
+) 1191 (Barton J);
+) 336 (Dixon J).
+RWG Management
+Ibid, discussing
+) 336 (Dixon J).
+RWG Management
+) 353 [20], citing ibid 397 (Brooking
+JD & KJ Zohs Properties
+) 183 [70] (Stanley J), citing
+(Brooking J).
+Park [No 3]
+) 506 [139] (Jackson J), citing
+(Brooking J).
+) 68 [55] (Derrington J), citing
+) 397 (Brooking
+Re Gold Stone Capital
+) [246] (Jackman J), citing
+(Brooking J).
+) 544 [31] n 68 (Kiefel CJ, Keane and
+Edelman JJ), citing
+68 [54] (Derrington J).
+RWG Management
+) 398 (Brooking J);
+) 336 (Dixon J);
+) 68 [54] (Derrington J);
+Amerind Pty Ltd; Commonwealth v Byrnes
+[2018] VSCA 41
+(2018) 54 VR 230
+, 238 [29] (Ferguson
+CJ, Whelan, Kyrou, McLeish and Dodds-Streeton JJA).
+) 1187 (Griffiths CJ), 1190–1
+(Barton J), citing
+Jennings (QB)
+). Note that
+) erroneously cites
+Jennings (QB)
+) as having been reported in the
+King’s Bench Division Reports
+when in fact it was reported in the
+Queen’s Bench Division Reports
+) 1187 n 2 (Griffiths CJ), 1191
+n 1 (Barton J). The citation has been corrected here.
+Jennings (QB)
+) 114 (Lawrance J agreeing at 117),
+) 548 (headnote).
+Ibid 548–9.
+Ibid. See also at 556 (Jessel MR).
+Ibid 556 (Jessel MR).
+Ibid 550–1 (headnote).
+Aleksi Ollikainen, ‘Asset
+Partitioning in the Trust’ (DPhil Thesis, University of Oxford, 2018) 27,
+[1874] UKLawRpEq 15
+(1874) LR 17 Eq 341
+’), cited in
+RWG Management
+) 398 (Brooking J).
+) 628–9 (Holroyd J for the Court),
+) 208, citing
+) 342 (Jessel MR).
+[1889] UKLawRpCh 22
+(1889) 40 Ch D 536
+, 540–1 (Lopes
+LJ agreeing at 543) (‘
+’). See also at 541–2
+(Lindley LJ, Lopes LJ agreeing at 543).
+[1882] UKLawRpCh 101
+(1882) 21 Ch D 862
+[1869] UKLawRpEq 235
+(1869) LR 9 Eq 340
+[1883] UKLawRpCh 227
+(1883) 25 Ch D 175
+, 178. The use of
+‘set off’ in this instance does not appear to have been invoking the
+doctrine of set-off.
+[1808] EngR 153
+(1808) 15 Ves Jun 72
+[1902] UKLawRpCh 8
+[1902] 1 Ch 342
+’), cited in
+RWG Management
+) 399 (Brooking J).
+) 345, citing
+) 553, 555 (Jessel MR), and
+See, eg, Aleksi Ollikainen-Read,
+‘Creditors’ Claims against Trustees and Trust Funds’
+Trusts and Trustees
+, 184, 188–9, citing
+); Silink (n
+) 86–7, citing
+Re Dacre; Whitaker v Dacre
+[1916] 1 Ch 344
+, 347 (Lord Cozens-Hardy MR)
+’); Thomson Reuters,
+Ford and Lee: The Law of
+(online at 22 July 2024) [14.3910], citing
+RWG Management
+) 398 (Brooking J).
+See above nn
+and accompanying text.
+) 629 (Holroyd J for the Court).
+(1972) 5 SASR 466
+RWG Management
+) 398 (Brooking J).
+Park [No 3]
+) 506 [138] n 70, citing
+[1723] EngR 25
+(1723) 2 P Wms 128
+Park [No 3]
+) 506 [138], citing
+Re Kaupthing
+Singer & Friedlander Ltd (in admin) [No 2]
+[2011] UKSC 48
+[2012] 1 AC 804
+[13]–[53] (Lord Walker JSC, Baroness Hale, Lord Clarke JJSC and Lord
+Collins agreeing, Lord Hope DPSC agreeing
+at 826 [55]). Some other more modern
+examples (which were not referred to by Jackson J in
+Park [No 3]
+)) include:
+Hunters Beach Investments
+Pty Ltd v Braams
+[2001] NSWSC 577
+(2001) 38 ACSR 701
+, 712–13 [94]–[95] (Young CJ
+(citations omitted);
+) 566–7 [47]–[48] (Kunc J)
+(citations omitted). The presumption theory has also been referred to in English
+Selangor United Rubber Estates Ltd v Cradock [No 4]
+[1969] 1 WLR 1773
+, 1778–9 (Ungoed-Thomas J).
+This recently occurred in
+[54]–[59] (Derrington J). See also Heydon and Leeming (n
+) 514 [21-04], citing
+); Loxton and D’Angelo (n
+) 144 n 10, citing
+68 [54], discussing
+) 552–3 (Jessel
+JD & KJ Zohs Properties
+) 183–4 [72] (Stanley
+(2020) 3 QR 409
+[18]–[19] (Jackson J).
+Rory Derham,
+Derham on the Law
+(Oxford University Press, 4
+664–5 [14.88], citing
+Heydon and Leeming (n
+) 514 [21-04], citing
+See, eg, White (n
+) 173 (Cottenham LC).
+[1891] UKLawRpCh 118
+[1891] 3 Ch 212
+, 219, discussing
+[1915] 2 Ch 144
+Re Peruvian Railway
+Construction
+(2004) 49 ACSR 531
+Otis Elevator
+’), quoting
+Re Peruvian Railway
+Construction
+See, eg, Lee Aitken, ‘Recent
+Applications of the Rule in Cherry v Boultbee (or Jeffs v
+Wood)’ (2010) 84(3)
+Australian Law Journal
+(Palmer J); Derham,
+Derham on the Law of Set-Off
+) 615–16 [14.03].
+See below n
+and accompanying text.
+) 669 (Jekyll MR).
+See, eg, Derham,
+Derham on the
+Law of Set-Off
+) 10 [2.01],
+) 669 (Jekyll MR).
+Derham on the Law of
+) 616 [14.03].
+Hassell v Hawkins
+(1859) 4 Drewry 468;
+[1859] EngR 356
+, 181 (Kindersley V-C)
+Heydon, Leeming and Turner (n
+) 1016 [32-005].
+Joseph Story,
+Commentaries on
+Equity Jurisprudence: As Administered in England and America
+Little & James Brown, 3
+ed, 1843) vol 2, 472 [1119], citing
+(Jekyll MR).
+Sir Samuel Toller and Francis
+The Law of Executors and Administrators
+, ed Edward D Ingraham
+(John Grigg, 3
+ed, 1829) 338, citing
+The Editors of the Law
+Students’ Magazine,
+The Principles of Equity Jurisprudence: Embracing
+the Concurrent, Exclusive and Auxiliary Jurisdiction of Courts of Equity
+(Robert Hastings, 1848) 325, citing
+RS Donnison Roper,
+A Treatise on
+the Law of Legacies
+, ed Henry Hopley White
+Butterworth and Son, 3
+ed, 1828) vol 1, 789–90, discussing
+Roper and White (n
+William Lowndes,
+A Treatise on
+the Law of Legacies
+(Joseph Butterworth and Son, 1824) 313, citing
+) 670 (emphasis added).
+) 474–5 [1122].
+John Adams and Robert Ralston,
+The Doctrine of Equity: A Commentary on the Law as Administered by the Court of
+(T & JW Johnson, 8
+ed, 1890) 105, citing
+Roper and White (n
+Edmund Henry Turner Snell and JR
+The Principles of Equity: Intended for the Use of Students and the
+(Stevens & Haynes, 2
+ed, 1872) 428.
+) 313. See also Story (n
+) 474–5 [1122].
+[1693] EngR 28
+(1693) 2 Vern 298
+(1714) Prec Ch 394;
+[1743] EngR 42
+(1743) 3 Atk 65
+[1735] EngR 9
+(1735) 3 P Wms 353
+1098 (Talbot LC).
+(1721) Prec Ch 580;
+[1954] St R Qd 212
+(Macrossan CJ), 228 (Philp J). For further examples of 20
+cases applying the doctrine as a ‘presumption’, see Heydon, Leeming
+and Turner (n
+Steiner v Strang
+[2014] NSWSC 1250
+, [44] (Sackar J);
+Ansett Australia Ltd v Travel
+Software Solutions Pty Ltd
+[2007] VSC 326
+(2007) 214 FLR 203
+, 224 [96] (Hargrave J),
+Otis Elevator
+) 536 [33] (Palmer J);
+Perpetual Trustees (WA) Ltd v Equus Corp Pty Ltd
+(Supreme Court of New
+South Wales, Young J, 5 March 1998) 4–5 (‘
+Perpetual Trustees
+) 173 (Cottenham LC).
+Ibid (emphasis added).
+[1911] UKLawRpCh 44
+[1911] 1 Ch 716
+, 721 (Cozens-Hardy
+MR, Fletcher Moulton LJ agreeing at 722).
+Re Peruvian Railway Construction
+) 150 (Sargant J).
+(2004) 12 BPR 22755, 22767 [97]
+(Sheller JA agreeing at 22755 [1], Bryson JA agreeing at
+22755 [2]) (‘
+’). See also Austin J’s first
+instance judgment in
+Gray v Guardian Trust
+[2002] NSWSC 1218
+) 22767 [91], quoting Rory Derham,
+The Law of Set-Off
+(Oxford University Press, 3
+ed, 2003) 585
+[2018] NSWSC 481
+(2018) 125 ACSR 355
+[36]–[50] (‘
+Re Hawden Property Group
+’), discussing
+Re Hawden Property Group
+) 361–2 [37].
+Ibid 362 [43].
+The Duty To Account:
+Development and Principles
+(Federation Press, 2016) 69–70
+[188]–[191]. See especially at 69–70 [191] n 43, citing
+Provost of Edinburgh v The Lord Advocate; Ex parte M’Laren
+(1879) LR 4
+App Cas 823
+, 838–9 (Lord Hatherley) (‘
+Lord Provost of
+National Commercial Banking Corporation of
+Australia Ltd v Batty
+[1986] HCA 21
+(1986) 160 CLR 251
+, 268 (Gibbs CJ).
+Spence v Crawford
+, 288 (Lord Wright, Lord MacMillan agreeing at 286)
+Heydon, Leeming and Turner (n
+) 901 [25-065].
+[2022] NSWSC 662
+) 345 (Kekewich J).
+) 69 [189].
+Ibid, citing RM Jackson,
+History of Quasi-Contract in English Law
+(Cambridge University Press, 1936)
+36 n 4. See also at 35–6.
+See, eg, Sackville (n
+Tanwar Enterprises Pty
+Ltd v Cauchi
+[2003] HCA 57
+(2003) 217 CLR 315
+, 324 [20] (Gleeson CJ, McHugh, Gummow, Hayne
+and Heydon JJ) (‘
+Tanwar Enterprises
+James Edelman, ‘Judicial
+Discretion in Australia’ (2000) 19(3)
+Australian Bar Review
+285, 296–7.
+Rohan Havelock, ‘The
+Evolution of Equitable “Conscience”’
+(2014) 8(2)
+Richard Hedlund, ‘Conscience
+and Unconscionability in English Equity’ (PhD Thesis, University of York,
+February 2016)
+Tanwar Enterprises
+) 324 [20] (Gleeson CJ, McHugh,
+Gummow, Hayne and Heydon JJ). See generally Joe Campbell, ‘
+The Duty To
+Account: Development and Principles
+by JA Watson’
+[2017] SydLawRw 18
+(2017) 39(3)
+Sydney Law Review
+See, eg, Elise Bant and Michael
+Bryan, ‘Defences, Bars and Discretionary Factors’ in Elise
+Bant and Michael Bryan (eds),
+Principles of Proprietary Remedies
+(Lawbook, 2013) 185,
+201–2 [11.100]; Keith Mason, ‘Deconstructing Constructive Trusts
+in Australia’
+(2010) 4(2)
+Journal of Equity
+David Wright, ‘Third Parties
+and the Australian Remedial Constructive Trust’
+[2014] UWALawRw 2
+(2013) 37(2)
+of Western Australia Law Review
+Muschinski v Dodds
+[1985] HCA 78
+160 CLR 583
+, 623 (Deane J), cited in ibid 54–5.
+CMG Equity Investments Pty Ltd v
+Australia & New Zealand Banking Group Ltd
+[2008] FCA 455
+(2008) 65 ACSR 650
+(Finkelstein J) (‘
+CMG Equity Investments
+quoted in Wright (n
+40–1. See also
+Re Clarke; Ex parte the Debtor v S Aston & Son
+[1967] 1 Ch 1121
+(Cross J for the Court).
+Equity Investments
+(Finkelstein J), cited in Wright (n
+Patrick Stevedores Operations No
+2 Pty Ltd v Maritime Union of Australia
+(1998) 195 CLR 1
+, 42–3 [66]
+(Brennan CJ, McHugh, Gummow, Kirby and Hayne JJ), cited in Wright (n
+(1999) 196 CLR 101
+(Gleeson CJ, McHugh, Gummow and Callinan JJ)
+Ibid 113–14 [10], 125
+[49]–[50]. But see Ying Khai Liew, ‘Constructive Trusts and
+Discretion in Australia: Taking
+[2021] MelbULawRw 6
+(2021) 44(3)
+University Law Review
+discussing ibid.
+[2010] HCA 19
+(2010) 241 CLR 1
+, 44–5 [126]
+(French CJ, Gummow, Hayne, Heydon and Kiefel JJ) (‘
+Alexander’s Clubs
+) 113–14 [10], 125
+[49]–[50] (Gleeson CJ, McHugh, Gummow and Callinan JJ).
+John Alexander’s Clubs
+) 44 [126], 46 [129] (French CJ,
+Gummow, Hayne, Heydon and Kiefel JJ). See also at 44–6
+[126]–[130].
+[1998] HCA 59
+(1998) 195 CLR 566
+(Gaudron, McHugh, Gummow, Hayne and Callinan JJ)
+Bathurst City Council
+Smith v Jones
+[1954] 1 WLR 1089
+, 1092–3 (Upjohn J);
+CMG Equity Investments
+) 657 [24]–[26]
+(Finkelstein J).
+(1988) 18 NSWLR 420
+Hunter BNZ Finance
+Ibid 434, quoting George Spencer
+The Law of Actionable Misrepresentation: Stated in the Form of a
+(Butterworth, 2
+ed, 1927) 280 [307].
+Hunter BNZ Finance
+Redman v Permanent
+Trustee Co of New South Wales Ltd
+[1916] HCA 47
+(1916) 22 CLR 84
+(Griffiths CJ and Barton J).
+Joseph v Lyons
+[1884] UKLawRpKQB 189
+(1884) 15 QBD 280
+, 286 (Cotton LJ). On one view, the prioritisation of
+third-party interests is not a matter of discretion and will apply wherever
+interests of third parties are impacted. However, an acceptance of that view
+does not detract from the position taken in this
+Part — if anything, it
+elevates the status of third-party interests.
+See above Part II(C).
+See generally Wright (n
+Stephenson Nominees Pty
+Ltd v Official Receiver
+(1987) 16 FCR 536
+(Gummow J);
+Australian Securities Commission v Melbourne Asset Management
+Nominees Pty Ltd (rec and mgr apptd)
+[1994] FCA 1031
+(1994) 49 FCR 334
+(Northrop J).
+Space Investments Ltd v Canadian
+Imperial Bank of Commerce Trust Co (Bahamas) Ltd
+[1986] UKPC 1
+[1986] 1 WLR 1072
+(Lord Templeman for the Court); Wright (n
+Elements of this theory also appear
+extent that there is discussion of the fact that the creditors did not take
+security: see at 552–3 (Jessel MR).
+David M Paciocco, ‘The
+Remedial Constructive Trust: A Principled Basis for Priorities over
+(1989) 68(2)
+Canadian Bar Review
+Fitzwood Pty Ltd v
+Unique Goal Pty Ltd (in liq)
+[2001] FCA 1628
+(2001) 188 ALR 566
+(Finkelstein J).
+See, eg, ibid 593 [94];
+Letterstedt v
+(1884) 9 App Cas 371
+, 385–6 (Lord Blackburn for the Court)
+Letterstedt
+Miller v Cameron
+[1936] HCA 13
+(1936) 54 CLR 572
+575, 578 (Latham CJ), 579 (Starke J), 580–1 (Dixon J, Evatt J agreeing at
+582, McTiernan J agreeing at 582) (‘
+Letterstedt
+) 387, 389 (Lord Blackburn for the
+(Latham CJ), 579 (Starke J), 580 (Dixon J, Evatt J agreeing at 582, McTiernan
+J agreeing at 582).
+Equity Trust (Jersey)
+) 939 [276] (Lord Briggs JSC, Lord Reed
+PSC and Lady Rose JSC agreeing).
+Ibid 944 [295].
+Ibid 948 [311].
+See above n
+and accompanying text.
+Warman International
+Ltd v Dwyer
+[1995] HCA 18
+(1995) 182 CLR 544
+, 562 (Mason CJ, Brennan, Deane, Dawson and
+Gaudron JJ);
+Harris v Digital Pulse Pty Ltd
+[2003] NSWCA 10
+(2003) 56 NSWLR 298
+310–11 [48]–[53] (Spigelman J), 371–84 [312]–[336]
+(Heydon JA);
+Lord Provost of Edinburgh
+) 839 (Lord Hatherley);
+Chameleon Mining NL [No 2]
+[2012] FCAFC 6
+(2012) 200 FCR 296
+[529]–[530] (Finn, Stone and Perram JJ).
+Lord Provost of Edinburgh
+) 839 (Lord Hatherley). See
+generally Heydon, Leeming and Turner (n
+) 190–7 [5-280].
+Re Jarvis (deceased); Edge v
+[1958] 1 WLR 815
+, 820 (Upjohn J).
+Heydon, Leeming and Turner (n
+) 190–7 [5-280].
+Ibid 196 [5-280].
+[1989] 1 Ch 32
+Berkeley Applegate
+’). See also at 50.
+[1964] 1 WLR 993
+, 1018, affd
+, 1021 (Lord Denning MR), 1031 (Pearson LJ), 1031 (Russell LJ). The
+approach of Wilberforce J in relation to the allowance for skill
+and labour was
+also cited with approval in the Privy Council appeal:
+Boardman v Phipps
+[1966] UKHL 2
+[1967] 2 AC 46
+, 104 (Lord Cohen), 112 (Lord Hodson).
+[1985] 1 QB 428
+Re Berkeley Applegate
+50 (Edward Nugee QC);
+Hagan v Waterhouse
+(1991) 34 NSWLR 308
+(Kearney J). See also
+Heydon, Leeming and Turner (n
+195–6 [5-280].
+Heydon, Leeming and Turner (n
+) 195–6 [5-280].
+Brown v Smitt
+[1924] HCA 11
+(1924) 34 CLR
+, 164 (Knox CJ, Gavan Duffy and Starke JJ), 169 (Isaacs and Rich JJ)
+Ibid 172 (Isaacs and Rich JJ).
+Erlanger v New Sombrero
+Phosphate Co
+3 App Cas 1218
+, 1278–9 (Lord Blackburn)
+(1995) 184 CLR 102, 109–11
+(Deane, Dawson, Toohey, Gaudron and McHugh JJ)
+Ibid 113. See also at
+114, quoting
+(Lord MacMillan agreeing at 286).
+) 288 (Lord MacMillan agreeing at 286),
+1278–9 (Lord Blackburn).
+) 115 (Deane, Dawson, Toohey, Gaudron
+and McHugh JJ).
+Ryan v Dries
+(2002) 10 BPR
+19497, 19498 [2] (Sheller JA), 19500 [12] (Giles JA), 19510 [61] (Hodgson
+Forgeard v Shanahan
+(1994) 35 NSWLR 206
+, 223 (Meagher JA, Mahoney JA agreeing
+at 219). See generally
+Myers v Clark
+[2018] NSWSC 1029
+[95]–[109] (Ward CJ in Eq).
+Squire v Rogers
+[1979] FCA 48
+, 125 (Deane J, Forster J agreeing at 108, Brennan J agreeing at
+D’Angelo, ‘The
+Unsecured Creditor’s Perilous Path to a Trust’s Assets’ (n
+Bathurst City
+) 585 [42] (Gaudron,
+McHugh, Gummow, Hayne and Callinan JJ); Paciocco (n
+See, eg, Rohan Balani,
+‘Abandoning the
+Trust in Insolvency’
+[2021] AdelLawRw 9
+(2021) 42(1)
+Adelaide Law Review
+Trustee Act 1925
+Trusts Act 1973
+Trustees Act 1962
+Trustee Act 1958
+[2017] NSWCA 109
+, [28] (Ward JA
+agreeing at [1], Gleeson JA agreeing at [2]).
+[2002] NSWCA 29
+(2002) ATPR 41-864
+, 44798 [9]
+Gatsios Holdings
+Ibid 44798 [8], 44799 [17]. See
+also at 44802 [47] (Meagher JA).
+[2003] VSCA 39
+(2003) 7 VR 287
+, 306 (Ormiston JA).
+See also at 303–5 [44]–[46].
+Gatsios Holdings
+) 44798 [9].
+Although, in the author’s
+view, the approach taken by the Victorian Court of Appeal, in
+Di Benedetto v Kilton Grange Pty Ltd
+(2017) 16 ASTLR 463, is
+preferable — the Court held that the inquiry turns on the nature of the
+duty with which the trustee
+was required to comply or the power they were
+exercising: at 479 [64] (Ferguson and McLeish JJA and Cameron AJA).
+Perpetual Trustees (WA)
+) 7–8 (Young J), the Court
+noted that the application of
+could be displaced by the
+agreement of the parties.
+See Richard C Nolan, ‘Some
+Particular and Some General Reflections on Trustee Contracts’ in Hans Tjio
+The Regulation of Wealth Management
+(National University of
+Singapore, 2008) 247, 250–1.
+See generally D’Angelo,
+Transacting with Trusts and Trustees
+) 310–12 [7.80]–[7.87].
+The situation is complicated where
+the right of indemnity relied on is the statutory right. There, a question will
+arise as to the
+extent to which the statutory right can be modified by the trust
+deed. Campbell provides a useful list of cases that set out the
+positions in
+various states: JC Campbell, ‘Some Aspects of the Civil Liability Arising
+from a Breach of Duty by a Superannuation
+(2017) 44(1)
+Australian Bar Review
+, 34–5 n 44 (citations omitted). However,
+the issue may be avoided if, as this author suggests may be the case, the clear
+rule does not apply to the statutory right of indemnity to begin
+CPT Custodian Pty Ltd v
+Commissioner of State Revenue (Vic)
+[2005] HCA 53
+(2005) 224 CLR 98
+109–10 [15] (Gleeson CJ, McHugh, Gummow, Callinan and Heydon JJ).
+David Fox, ‘Definition and
+Classification of Trusts’ in John McGhee and Steven Elliott (eds),
+Snell’s Equity
+(Sweet & Maxwell, 34
+ed, 2020) 635,
+636–7 [21-004].
+Armitage v Nurse
+241, 253 (Millett LJ, Hutchison LJ agreeing at 264, Hirst LJ
+agreeing at 264).
+Print (pretty)
+Print (eco-friendly)
+RTF format (373 KB)
+PDF format (362 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

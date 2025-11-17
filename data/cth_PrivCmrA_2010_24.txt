@@ -1,0 +1,53 @@
+Own Motion Investigation v Information Technology Company [2010] PrivCmrA 24 (24 December 2010)
+Case Citation:
+Own Motion Investigation v Information Technology Company
+PrivCmrA 24
+Subject Heading:
+Meaning of ‘personal information’
+National Privacy Principle 1.2 in Schedule 3 of the
+The following case was decided by the Privacy Commissioner prior to 1
+November 2010. On 1 November 2010 all the powers of the Privacy
+Commissioner under the
+were conferred on the Australian Information
+Commissioner.
+The Commissioner received information that suggested that an information
+technology company was collecting geographical location data
+customers who used its location-based services.
+‘Personal information’ is defined in
+section 6(1)
+information or an opinion (including information or an opinion forming part
+of a database), whether true or not, and whether recorded
+in a material form or
+not, about an individual whose identity is apparent, or can reasonably be
+ascertained, from the information
+or opinion.
+NPP 1.2 says an organisation must collect personal information only by lawful
+and fair means and not in an unreasonably intrusive
+The Commissioner commenced an own motion investigation
+into the activities of the information technology company under
+section 40(2)
+The investigation revealed that the information technology company was not
+collecting personal information through the use of its
+location-based services,
+as defined in the
+Instead, when the information technology company received a customer request
+for data about their current location from a mobile device,
+it collected
+information about nearby cell towers and Wi-Fi access points, and then sent this
+information back to the customer’s
+device. The customer’s device
+then used this information to determine the customer’s exact location.
+Neither the exact
+location of the device nor identifying information about the
+customer was sent back to the information technology company.
+The Commissioner considered that individuals could not be identified from the
+information collected by the information technology
+company through its
+location-based services. As the information did not meet the definition of
+‘personal information’,
+the information technology company’s
+activities in relation to this matter were not subject to the
+Therefore the Commissioner ceased the own motion investigation into the
+Office of the Australian Information Commissioner
+RTF format (122 KB)
+Signed PDF/A format

@@ -1,0 +1,1001 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/IntJlCrimJustSocDem/2025/22.html
+Scraped: 2025-11-17 15:02:54
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Garofalo, Matteo --- "Singular Purpose: Calculating the Degree of Ethno-Religious Over-Representation in the US No-Fly List" [2025] IntJlCrimJustSocDem 22; (2025) 14(3) International Journal for Crime, Justice and Social Democracy 1
+Singular Purpose:
+Calculating the Degree of Ethno-Religious Over-representation in the
+US No-Fly List
+Matteo Garofalo
+University of Maryland, United States
+9/11, Islam; racial discrimination; religious
+discrimination; Terrorist Screening Center; US No-Fly List.
+Introduction
+US No-Fly List, while inherently linked to the 9/11 terrorist attacks, remains a
+pertinent issue more than two decades after its
+creation. Alongside topics such
+as the Patriot Act and the Guantanamo Bay detention facility, the No-Fly List
+seems to represent
+a permanent change to the American legal and political
+landscape, having remained in place long after the exigencies that birthed
+are no longer of significant public concern. As a result of this permanence,
+critiques made of the List 20 years ago remain relevant
+and are accentuated as
+new information is slowly released over time.
+One of the most common critiques of the No-Fly List is that it
+disproportionately targets individuals of Arab, Middle-Eastern and
+ethno-religious identity (ACLU 2021; Nagra and Maurutto 2020; Roe 2019). In the
+absence of direct data from the No-Fly list,
+substantiating these claims becomes
+difficult. However, since the List’s inception in 2001, a small handful of
+data leaks have
+occurred, providing limited tools to the public with which to
+either critique or defend the List. The most recent and significant
+leaks occurred in 2023 (Crimew 2023) and provides academics with the most
+complete glimpse yet into the contents of the
+List. With this data, it is
+possible to provide key insights that may be of value in the ongoing national
+discussion surrounding
+the No-Fly List and its merits.
+History of the No-Fly List
+Prior to the events of 9/11, it has been reported that the Federal Bureau of
+Investigation (FBI) maintained a list of 16 individuals
+who were not permitted
+to fly on commercial aviation. However, the full nature and structure of this
+list is not well-known to the
+public (Donohue 2008). What is known today as the
+U.S. No-Fly List is a database administered by the Terrorist Screening Center
+an executive office multi-agency organisation run jointly by the FBI, the
+Department of State, the Department of Justice, the Department
+of Homeland
+Security, the Department of Defense and the US Postal Service. The TSC is
+organised under the FBI National Security Branch
+and is commanded by FBI
+Executive Assistant Director Larissa L. Knapp (FBI 2023). The Transportation
+Security Administration (TSA)
+and major airlines are provided limited access to
+the No-Fly List to prevent those listed in the database from accessing
+air travel. Those listed in the No-Fly List database are not notified
+of their inclusion and are not provided with an official channel
+to challenge it
+(Sharkey 2008).
+The No-Fly List is a separate database from the reportedly larger and less
+restrictive Terrorist Screening Database (TSDB), also administered
+by the TSC,
+although names from the TSDB are used to populate the No-Fly List (US Department
+of Justice 2007). On 19 July 2021, security
+Researcher Volodymyr
+‘Bob’ Diachenko uncovered a security flaw that allowed him to access
+the full TSDB. Diachenko did
+not share data from the TSDB with any third parties
+and instead reported the security vulnerability to the Department of Homeland
+Security, which subsequently closed it (Diachenko 2021).
+The only significant leak of the No-Fly List prior to 2023 occurred in 2006
+when the producers of the CBS program
+received a then-current
+copy of the List from a third-party organisation referred to as the National
+Security News Service. Neither
+CBS nor the National Security News Service
+published the contents of the List publicly, although CBS did divulge limited
+information.
+Notably, the leak confirmed that the names of approximately 44,000
+individuals were present on the List at that time (Croft 2006).
+limited releases of information, both academic researchers and the broader
+public have remained significantly constrained
+in their ability to analyse the
+No-Fly List. Interested parties would have to wait until 2023 to gain access to
+anything resembling
+the complete database.
+Maia Arson Crimew Hacking Event
+The individual known as Maia Arson Crimew was born as Tillie Kottmann on
+7August 1999 in Lucerne, Switzerland. Kottmann/Crimew has
+expressed on its
+website a desire to be referred to by ‘it’ pronouns (Crimew 2021),
+so this article will interchangeably
+refer to it by its preferred terms as
+either ‘Maia Arson Crimew’ or ‘it’.
+Crimew is a well-known figure among hacking and cybersecurity circles. It has
+either taken credit for or been attributed to hacks
+from several major
+multinational corporations, including Nintendo, Intel, Nissan and Verkada
+(Harwell 2021). In March 2021, Crimew
+was indicted by a US grand jury for its
+role in several of these hacking events and arrested by Swiss police at the
+behest of US
+authorities, who subsequently seized many of Crimew’s
+physical and digital assets. Swiss authorities ultimately chose to neither
+extradite Crimew to the United States nor prosecute it under Swiss law, leading
+to Crimew’s release from detention with charges
+against it dropped (Rusch
+On 19 January 2023, Crimew gained access to a version of the US No-Fly List
+dated 2019. This version of the List belonged to US regional
+airline CommuteAir
+and was discovered by Crimew while searching for unsecured databases on the
+Amazon Web Services cloud computing
+platform. Crimew noted what it believed to
+be an explicitly ethnic character to the No-Fly List, stating that
+crazy to me how big that database is and yet there is
+(sic) still very clear trends towards almost exclusively Arabic and Russian
+sounding names throughout the million entries’ (Crimew 2023).
+Crimew did not release this copy of the No-Fly List to the general public,
+but instead provided it to the third-party organisation
+Distributed Denial of
+Secrets (DDoSecrets) with instructions that the List be provided to
+“journalist(s), researcher(s), or
+other part(ies) with legitimate
+interest” (Crimew 2023). This paper is written using a copy of the
+partially redated 2019 No-Fly
+List provided by DDoSecrets (2023).
+Academic Context
+Prior Literature
+The No-Fly List features occasionally in peer-reviewed studies and other
+academic literature. Much of this literature focuses on legal
+and constitutional
+issues surrounding the List, with some focusing on issues of demographic
+discrimination. Florence (2006) argues
+that the No-Fly List illegally
+circumvents the due process rights of individuals listed on it. Moreover,
+Florence contends that the
+removal of these due process rights is particularly
+egregious due to the lack of tools (if they exist at all) available for
+individuals
+to discover whether they are on the List and have their names
+removed. Hamner (2009) extrapolates how the case of
+Ibrahim v. Department of
+opens the doors for potential legal challenges to the
+No-Fly List. Creta (2016) largely reinforces the findings of Florence (2006).
+Furthermore, Creta emphasises potential constitutional challenges against the
+No-Fly List, as well as a lack of systems for redress.
+The primary academic literature that specifically addresses issues of
+ethno-religious discrimination in the No-Fly List is Nagra and
+Maurutto (2020).
+This article collects testimony from Muslim community leaders in Canada,
+expressing anecdotal evidence of ethno-religious
+discrimination faced by
+community members regarding the Canadian No-Fly List. According to documents
+obtained by
+The Guardian
+, Canadian border crossings and airports prevent
+access using a large database of names provided by US authorities. This database
+appears to be either the US No-Fly List or the TSDB (Ling 2018). Therefore,
+accusations of ethno-religious discrimination made by
+Canadian Muslims should be
+seen as nearly – if not entirely – equivalent to those made by US
+Muslims. Nagra and Maurutto
+(2020) report a consistent belief among study
+participants that their ethno-religious community is overrepresented in the
+Canadian/US
+No-Fly List and that the presence of community members on this
+list leads to negative economic and social impacts.
+Legal Challenges
+The work of journalistic, legal and advocacy organisations concerning the
+No-Fly List is heavily focused on issues of ethno-religious
+discrimination.
+Notably, the American Civil Liberties Union (ACLU) has charged that the No-Fly
+List is explicitly racial in nature,
+stating that ‘lists like these fail
+to make us safer, lack procedural protections for the rights of those listed,
+and disproportionately
+target people of color’ (Roe 2019). For these
+reasons and others, the ACLU has been active in legal attacks against the No-Fly
+List, such as its funding of the 2019 case
+Kashem et al. v. Barr et al.
+which led to limited redress concerning plaintiffs’ requests for
+notification of their placement on the List (ACLU 2021).
+The partial success of
+Kashem at al.
+came in the wake of 2018’s
+Baz v. U.S. Department
+of Homeland Security
+, which argued on similar grounds but was dismissed for
+lack of standing (Nichols 2019).
+The single most successful legal action against the No-Fly List thus far has
+been 2020’s
+Tanzin v. Tanvir
+(Justia Law 2020). In this case, three
+petitioners (whose names have been sealed by the court) alleged that the FBI
+threatened to
+place their names on the No-Fly List if they refused to act as
+confidential informants against their Islamic communities. The men
+refused and
+the FBI followed through on its threat in 2013. The US Supreme Court ultimately
+ruled in favour of the petitioners, determining
+that the FBI had violated the
+Religious Freedom Restoration Act of 1993 (Justia Law 2020). While the
+petitioners received monetary
+damages in their case, it remains to be seen
+whether and to what extent this ruling will impact the No-Fly List in the
+Legal and Ethical Considerations for the Use of Hacked Data
+The use of hacked data by this article may raise important concerns among
+readers regarding legality and ethics. Although this author
+stands by the use of
+such data, he welcomes discussion on its merits. As this author is a US citizen
+and is using US government materials
+hacked from a US corporation, the legality
+of this article is determined by US court precedent. While several higher court
+and Supreme
+Court cases have addressed this topic, the most frequently cited is
+Bartnicki v. Vopper
+(Justia Law
+2019), which broadly upheld First Amendment freedoms regarding the publication
+of illegally seized information. Under
+the precedent set by
+individuals and organisations may publish information that was originally
+obtained illegally by a third party so long as three criteria
+are met: 1) the
+publisher played no role in the illegal acquisition; 2) the publisher received
+the information lawfully;, and 3)
+the information relates to a matter of public
+concern (Justia Law 2019). This author contends that all three criteria have
+here. This author was not involved in the No-Fly List’s
+acquisition and he obtained it through legal means.
+This author also holds the firm belief that publishing data from the List is
+of significant public concern. While this article is
+not the first to raise
+questions of ethno-religious discrimination in the No-Fly List, it is the first
+to offer empirical, primary
+source evidence supporting such claims. Providing
+such evidence would be impossible without use of the hacked data. This data may
+provide support for individuals bringing lawsuits related to the List in the
+have done previously. These data may
+be of use to academic researchers on a wide range of topics, from government
+policy and surveillance
+to anti-terrorism techniques and civil liberties. They
+may be valuable for civil rights campaigners seeking to challenge the existence
+of the List, or they may alternatively be valuable for supporters of the
+Terrorism Screening Center to build arguments in favour
+of the List. In short,
+there are many parties who may be impacted positively by the publication of this
+data, so the ‘public
+concern’ criteria of
+Bartnicki v. Vopper
+While the legality of using this data can be ruled on conclusively, the
+morality of doing so is a much more subjective topic. A fair
+amount has been
+written by academics on this issue, with two notable examples being Ienca and
+Vayena (2021) and Boustead and Herr
+(2020). While the exact arguments laid out
+in these two articles differ, they ultimately reach similar conclusions that the
+publication
+of hacked or leaked data is morally permissible by academics so long
+as: 1) there exists a compelling public concern, and 2) efforts
+by the publisher to minimise harm that may be done to individuals by the
+publication. This author has already addressed
+the question of public concern,
+and efforts have been made by this author to protect individuals whose names are
+found on the List.
+First, this article does not publish the full No-Fly List
+dataset; researchers who are interested in obtaining it are directed to
+DDoSecrets, where they may acquire it legally. Second, the small handful of
+individuals mentioned by this article (Darren Anthony
+Byrnes, Azar Amani and so
+on) are public figures and acknowledged terrorists. In light of these measures,
+this author feels that
+the moral standard for publishing data from the No-Fly
+List has been met.
+Content of the No-Fly List
+The copy of the US No-Fly List provided by DDoSecrets for use in this article
+is not fully complete or current, but it is the most
+extensive version of the
+List that has yet been made available to public researchers (DDoSecrets 2023).
+The List is dated as a 2019
+version, although no month or day is stated. In
+total, the database includes 1,048,575 entries. It should be noted that one
+does not indicate one individual, but rather one potential name or
+pseudonym. Seemingly, every individual included in the database
+has several
+alternate names listed, including prior names and alternate spellings. For
+example, the well-known Russian arms dealer
+Viktor Bout has approximately 70
+entries encompassing alternate names. As a result, it cannot be stated with
+certainty exactly how
+many individuals are found on the List. Based on the
+frequency of alternate names, this article estimates that the number of
+individuals
+on the List is in the vicinity of 80,000–120,000. This
+estimate is in line with statements made by US Senator Diane Feinstein,
+revealed on 23 June 2016 that the No-Fly List contained 81,000 individuals at
+that point in time (Feinstein 2016).
+In the same statement, Feinstein claimed that
+only 1,000 of the 81,000 individuals in the database were US citizens (Feinstein
+Frustratingly, the contents of the List appear to be partially redacted
+in such a way that it is impossible to test Feinstein’s
+claim. The list as
+provided contains 11 columns: ID, CLEARED, LASTNAME, FIRSTNAME, MIDDLENAME,
+and MISC. Of these categories,
+data are only included for ID, first name, last name, and date of birth.
+Therefore, researchers cannot
+directly determine the citizenship of a listed
+name, nor their place of birth or passport country of issue. In direct
+correspondence
+with the author of this article, DDoSecrets claimed the redaction
+was not made by either Crimew or DDoSecrets; rather, the organisation
+that the redaction was completed either by CommuteAir or by the TSC prior to
+providing the List to CommuteAir.
+Methodology
+As it is the intention of this article to analyse potential ethno-religious
+discrimination in the No-Fly List, the redaction of place
+of birth and
+citizenship data presents methodological difficulties. The data as presented
+provides only limited options for classifying
+entrants into ethno-religious
+categories. In light of this limitation, this article utilises a more
+time-consuming – and ultimately
+less accurate – methodology to
+categorise names found in the No-Fly List. For the small number of names that
+correlate to well-known
+public figures, ethno-religious identity is determined
+based on information known about the individual. For the names that do not
+this standard (the vast majority of those on the List), ethno-religious identity
+is determined based on the historical/linguistic
+identity of the name. For
+instance, the last name ‘Al Juburi’ is historically/linguistically
+derived from the Jubur tribe
+of Iraq. Therefore, instances of ‘Al
+Juburi’ or alternate spellings of this name are counted by this article as
+to the ‘Broadly Islamic/Middle Eastern’ ethno-religious
+categorisation. These categorisations may be prone to human error
+as they were
+conducted ‘by hand’ without the use of an algorithm or specialised
+software. The categorisations were completed
+– rather laboriously –
+by this article’s author alone, although he encourages future researchers
+to work collaboratively
+if conducting similar work.
+This article sorts names in the No-Fly List into one of seven ethno-religious
+categories: Broadly Islamic/Middle Eastern, African,
+East Asian, Subcontinent
+Asian, Western European, Russian/Eastern European and Latin American. These
+categories – like the
+methodology of this paper – are imperfect but
+represent the best available method of research in light of redacted No-Fly List
+Likewise, the terminology ‘ethno-religious’ is imperfect but is
+used deliberately by this article to best capture the
+exigencies of the data.
+While many of the names on the List can be categorised by ties to ethnicities or
+locations, many are instead
+tied to religious affiliation, namely Islam. For
+instance, the single most common name on the List is Muhammad (including
+spellings such as Mohammed and Mohammad). This speaks to the common
+misunderstanding in American culture that Arab or Middle Eastern
+peoples are
+inherently Islamic and that Muslims are inherently of Middle Eastern origin (PBS
+2002). So prevalent is this perception
+that the literature surrounding the
+No-Fly List often describes alleged discrimination within the List
+interchangeably in either
+ethnic or religious terms (Roe 2019). Therefore, to
+account for the broadest possible interpretation of discrimination, this article
+sorts all names of Islamic, Arab, Turkish, Saudi, Persian or other Middle
+Eastern origin into the intentionally broad ethno-religious
+category of
+‘Broadly Islamic/Middle Eastern’. This decision is practical in
+light of Islam’s significant presence
+in the Middle East, but it is
+particularly practical in light of the nature of the No-Fly List, which is
+alleged to target Islamic
+terrorism specifically. A preliminary investigation of
+the most publicly known names on the List found that all the most significant
+names of non-Islamic Middle Eastern heritage correlate with individuals
+identified as Islamic terrorists.
+However, it must be noted that Islam is not a religion that is inherently
+tied to race/ethnicity, and that individuals of all genealogical
+backgrounds are
+capable of converting. Often these converts will adopt Islamic names to
+represent their faith. For instance, British-born
+al-Shabab terrorist Darren
+Anthony Byrnes is included in the No-Fly List under alternate names ‘Assim
+Byrnes’, ‘Aleem
+Byrnes’ and ‘Aymah Byrnes’. By
+including all Islamic or Middle Eastern names in one category, this article
+to most accurately establish the degree to which discrimination exists
+towards either group in the No-Fly List.
+Demographics of the No-Fly List
+This article can confirm the belief of Maia Arson Crimew that the No-Fly List
+trends ‘towards almost exclusively Arabic sounding
+names’. The top
+20 most frequently found last names in the dataset can all be categorised as
+Broadly Islamic/Middle Eastern,
+as shown in Table 1.
+Table 1. Top 20 most common last names on the No-Fly List
+Al Shammari
+The distribution of names on the No-Fly List based on ethno-religious origin
+is shown in Table 2.
+Table 2. Ethno-religious breakdown of names on the No-Fly List
+Ethno-religious category
+Broadly Islamic/Middle Eastern
+Subcontinent Asian
+Western European
+Russian/Eastern European
+Latin American
+The distribution of ages within the No-Fly List is shown in Table 3.
+Table 3. No-Fly List age statistics
+Date of birth
+Age as of 2019
+The oldest individual listed in the database is Azar Amani, born 8 June 1910.
+Given that public information cannot be found for a
+terrorist suspect by this
+name – and given that this individual would have been 109 years old as of
+2019 – this entry
+likely reflects a pseudonym.
+The youngest individual listed in the database is Quodama Ahram Perez, born
+25 January 2009, making him 10 years old as of 2019. Quodama
+Ahram Perez appears
+to be either a pseudonym for – or perhaps even a child of – Islamic
+State member Muhammad Ahram Pérez.
+If the name Quodama does in fact refer
+to the son of Muhammad, it would make him the third generation in his family to
+be included
+on the No-Fly List, which also includes his grandfather Abdelah
+Ahram (Puentes 2017).
+Degrees of Over- and Under-representation: Federal Statistics
+Racial and ethnic categories within the US Census are quite wide and tend to
+be imperfect at capturing the heritage of respondents,
+as even the US Census
+Bureau will admit (US Census Bureau 2021). This presents particular difficulties
+in assessing issues of over-
+and under-representation for those within the
+Broadly Islamic/Middle Eastern category, as no well-defined option exists that
+them at a national level. The Census instructs individuals in this
+category to place themselves under the ‘white’ classification
+Census Bureau 2021), so when discussing federal statistics, this article will
+utilise categories as laid out in in Table 4 (US
+Census Bureau 2022).
+Conversion key between Census and study categories
+Census category
+Study categories
+Broadly Islamic/Middle Eastern
+Western European
+Russian/Eastern European
+Black or African American
+Subcontinent Asian
+Hispanic, Latino or Spanish
+Latin American
+Note that the Census categories of ‘American Indian or Alaska
+Native’ and ‘Native Hawaiian or Other Pacific Islander’
+been removed from calculations as there appear to be no names on the No-Fly List
+with ethno-linguistic origins from either group.
+Additionally, the Census
+categories of ‘Other’ and ‘Two or More Races’ have been
+removed due to an inability
+to accurately match these categories to the No-Fly
+List data. The category ‘Hispanic, Latino, or Spanish’ is treated
+the Census as a category separate from race but it will be treated as equitable
+to the study’s category of ‘Latin
+Bearing in mind these classifications, this article finds that the category
+of ‘White’, which contains those classified
+Islamic/Middle Eastern, is significantly over-represented within the No-Fly List
+compared with their percentage of the
+US population. Moreover, this degree of
+over-representation is due exclusively to the presence of Broadly Islamic/Middle
+names within the category, rather than names of Western or Eastern
+European descent. All other racial categories are significantly
+under-represented in the No-Fly List, most significantly those names of African
+descent. This discrepancy is likely the result of
+African Americans largely
+utilising names of European, rather than African, descent and the population of
+native-born African Americans
+exceeding the population of African-born
+individuals in the United States. The full degree of general population over-
+and under-representation
+is shown in Table 5.
+Table 5. US population vs No-Fly List names
+% of population
+% of No-Fly List
+Degree of representation
+60.40% over-represented
+Black or African American
+84,799.59% under-represented
+3,329.34% under-represented
+Hispanic, Latino, or Spanish
+672.90% under-represented
+Of course, over- or under-representation within a dataset measured against
+the total population is not inherently an indicator of
+bias or discrimination.
+Indeed, very few datasets are perfectly balanced compared with the wider
+population, as groups naturally
+display differences. Rather, this significant
+disparity between the No-Fly List and the general population is an indication
+the No-Fly List likely is not meant to be equally representative, but
+instead is meant to serve as a counter-terrorism tool. If certain
+categories of
+people engage in terrorism more frequently than their percentage of the broader
+population, then the No-Fly List may
+not feature genuine over-representation for
+these groups.
+The US federal government does not maintain a singular, publicly accessible
+closest that can be
+found to such a database is the FBI Unified Crime Report (UCR), which compiles
+an extensive list of all crimes
+– especially violent crimes –
+reported by local, state and federal law enforcement agencies for any given
+year. Violent
+crime is not directly equitable to terrorism but, given the
+breadth of the Unified Crime Report and given that both are administered
+FBI, it may be valuable to compare degrees of ethic representation between the
+UCR and the No-Fly List. The values in Table
+6 are calculated using the
+combination of UCR values for Murder and Non-Murder Violent Crime for which the
+race of the offender is
+known. The data is of 2018, the last full year prior to
+the 2019 dated version of the No-Fly List (Federal Bureau of Investigations
+2019; US Department of Justice 2021).
+Table 6. Violent crime rate vs No-Fly List names
+% of violent criminals
+% of No-Fly List
+Degree of representation
+112.53% over-represented
+Black or African American
+222,907.35% under-represented
+1,607.91% under-represented
+Hispanic, Latino or Spanish
+590.00% under-represented
+Similar results are seen when comparing the No-Fly List to both the general
+population and the population of violent criminals. ‘White’
+(inclusive of Broadly Islamic/Middle Eastern) is significantly over-represented,
+while all other ethnic groups are significantly
+under-represented. The degree of
+over-representation for the ‘White’ category is noticeably higher
+here, caused by the
+relatively low share of criminality for this population
+compared with their percentage of the population. Much like the general
+values, it is important to note that the ‘White’ category
+cannot be broken down between those of European and Middle
+Eastern ancestry, and
+the ‘Black’ category is difficult to compare with the No-Fly List
+due to the limited nature of
+Degrees of Over- and Under-representation: Terrorism
+The use of federal statistics is valuable insofar as datasets like the US.
+Census and UCR are large and well maintained. However,
+neither database can
+address the key question of whether Muslims and/or those of Middle Eastern
+descent are overrepresented in the
+No-Fly List relative to their propensity to
+engage in terrorism. To determine this, the most comprehensive publicly
+available tool
+is the University of Maryland’s Global Terrorism Database
+(GTD). The GTD lists 209,707 terrorist attacks globally since 1970.
+3,121 have been recorded in the United States, of which 694 have taken place on
+or since 10 September 2001. The GDT is
+designed to be intentionally broad in an
+effort to be inclusive of a wide range of definitions of terrorism (University
+of Maryland
+2023). For the purposes of this article, the definition of terrorism
+will be more narrowly defined, and must include all the following
+1) The attack must have been committed by a non-state actor.
+2) The attack must feature a clear social/political intention.
+3) The attack must feature clear intent to instil terror or harm to one or
+more groups or to society at large, rather than being narrowly
+aimed against an
+individual.
+4) The ethno-religious status of the perpetrator(s) must be known.
+Inclusive of these factors, the GTD lists a total of 206 terrorist attacks
+that have occurred in the United States since 10 September
+2001. Thankfully
+– unlike federal statistics – GTD data can be broken down in a way
+that more closely matches the ethno-religious
+categories of this article. This
+allows researchers to separate individuals of Islamic/Broadly Middle Eastern
+heritage from the overly
+broad Census category of ‘White’. For the
+purposes of GTD data, the categories of Western European and Russian/Eastern
+European have been combined as ‘White’. Additionally, the categories
+of ‘East Asian’ and ‘Subcontinent
+Asian’ have been
+combined as ‘Asian’. The number of terrorist attacks attributable to
+each ethno-religious group
+can be seen in Table 7 and the comparison of
+frequency between the GTD and No-Fly List Data can be seen in Table 8.
+Table 7. US terror attacks since 10 September 2001 by ethno-religious
+identity of perpetrator(s)
+Ethno-religious identity
+Broadly Islamic/Middle Eastern
+African/African American
+Latin American
+Table 8. Percentage of terrorist attack perpetrators since 10 September
+2001 vs No-Fly List names
+% of terrorists
+% of No-Fly List
+Degree of Representation
+Broadly Islamic/Middle Eastern
+319.50% over-represented
+1,439.30% under-represented
+African/African American
+71,684.38% under-represented
+1,538.21% under-represented
+Latin American
+243.99% under-represented
+As shown in Table 8, individuals of Broadly Islamic/Middle Eastern heritage
+have committed 22.33 per cent of terrorist attacks in
+the United States
+since 10 September 2001. This value is higher than their percentage of the
+general population, meaning that members
+of this group commit terrorism at a
+disproportionately high rate. However, the percentage of the No-Fly List that is
+Broadly Islamic/Middle
+Eastern (93.67%) is significantly larger than the
+percentage of US terrorist attacks committed by Broadly Islamic/Middle Eastern
+peoples (22.33%). Therefore, members of this group are over-represented on the
+No-Fly List relative to their likelihood of committing
+terrorist attacks. By
+contrast, all other ethno-religious categories are under-represented on the
+No-Fly List to a significant degree.
+Therefore, it cannot be said that the
+No-Fly List includes different ethnicities in proportion to the terrorist threat
+pose. If a defender of the Terrorist Screening Center and its policies
+were to argue that the large number of Broadly Islamic/Middle
+Eastern names on
+the No-Fly List is justified by the group’s propensity to commit terrorist
+acts, the data would not support
+this conclusion. If the purpose of the List
+were to accurately track potential/active terrorists, then it has failed to do
+However, as the exact purpose of the No-Fly List has never been conveyed by
+US authorities, there is room to question whether tracking
+potential/active
+terrorists by raw numbers is in fact the intention of the List. One alternate
+explanation might be that the List
+places more significant weight on tracking
+individuals and groups based on the severity of their terrorist attacks rather
+than simply
+the number of attacks in which they engage. If terrorist attacks
+committed by Broadly Islamic/Middle Eastern peoples are on average
+more lethal,
+then the No-Fly List may not over-represent them in a discriminatory way. To
+determine this, the GTD data are used to
+chart the number of people killed in
+terrorist attacks perpetuated by individuals of different ethno-religious
+categories, as not
+all terrorist attacks result in fatalities. Of the
+206 attacks included in this study, the vast majority feature either zero
+death (excluding the perpetrator), and only a small fraction feature
+death totals exceeding 10.
+This test of the data is run in two sets. The first set – demonstrated
+in Table 9 – excludes the Al-Qaeda terrorist attacks
+that occurred on 11
+September 2001. The second set – demonstrated in Table 10 – includes
+these attacks. The reason for
+this separation is due to the nature of the 9/11
+attacks as inordinately large outliers to the data. For reference, the three
+terrorist attacks killed an average of 987 people each, while the fourth
+most lethal attack in the dataset (the Pulse Nightclub Shooting)
+killed 49. (The
+more lethal 2017 Las Vegas Shooting is not counted in this dataset as
+authorities never identified any social/political
+intentions related to the
+Table 9. Number killed in terrorist attacks by category of perpetrator
+(not including 9/11) vs No-Fly List names
+% of terrorists
+% of No-Fly List
+Degree of Representation
+Broadly Islamic/Middle Eastern
+110.57% over-represented
+100.66% under-represented
+African/African American
+53,570.80% under-represented
+633.24% under-represented
+Latin American
+154.47% under-represented
+Table 10. Number killed in terrorist attacks by category of perpetrator
+(including 9/11) vs No-Fly List names
+% of terrorists
+% of No-Fly List
+Degree of representation
+Broadly Islamic/Middle Eastern
+1.98% under-represented
+11.95% over-represented
+African/African American
+4,220.61% Under-represented
+69.41% over-represented
+Latin American
+388.15% over-represented
+As seen in Table 9, those in the Broadly Islamic/Middle Eastern category have
+a relatively high degree of lethality when committing
+terror attacks. Excluding
+9/11, terrorists in this category have killed 44.49 per cent of US terror
+victims while having committed
+‘only’ 22.33 per cent of terror
+attacks. This means that terror attacks by those of Broadly Islamic/Middle
+Eastern origin
+are more lethal on average than those committed by White,
+African/African American, Asian or Latin American terrorists in the United
+States. However – crucially – this high level of lethality is still
+not commensurate with the group’s representation
+on the No-Fly List. When
+accounting for the lethality of terrorist attacks
+9/11, Broadly
+Islamic/Middle Eastern peoples are placed on the No-Fly List at a rate that is
+still orders of magnitude above what
+is appropriate given their lethality. This
+finding continues to imply that members of this group have been unduly targeted
+However, this conclusion changes when discussing the lethality of attacks
+since September 2001,
+inclusive of
+the 9/11 attacks. So significant was
+the death toll of the 9/11 attacks that – for the first and only time
+in this article –
+Broadly Islamic/Middle Eastern peoples are actually
+under-represented in the No-Fly List. Under these conditions, the percentage
+deaths caused by terror attacks committed by Broadly Islamic/Middle Eastern
+peoples in the United States is roughly equal to the
+presence of these peoples
+on the No-Fly List. Thus, proponents of the List could argue that the high
+presence of Broadly Islamic/Middle
+Eastern peoples is justified under this
+single, particularly narrow interpretation of the List’s purpose. Of
+course, making
+this argument would require seeing the 9/11 attacks not as
+outliers but instead as a fair indicator of the lethality of Islamic terror.
+Conclusions
+Ethno-Religious Over- and Under-representation on the No-Fly
+Upon releasing the 2019 No-Fly List to press and researchers, Maia Arson
+Crimew stated that the List contains ‘very clear trends
+towards almost
+exclusively Arabic and Russian sounding names’ (Crimew 2023). While this
+article finds that ‘Russian sounding
+names’ are the third largest
+category in the No-Fly List, their representation is still relatively low, at
+only 1.313 per cent.
+By contrast, there exists a tremendous gulf between
+the representation of ‘Arab sounding names’ and those in any other
+category. Names of Broadly Islamic/Middle Eastern origin account for an
+overwhelming 93.674 per cent of the database.
+The question must then be asked: is there truth to the claims made by
+academics and civil society organisations that the No-Fly List
+discriminates
+against Muslims and people of Middle Eastern origin? Rather than looking at the
+presence of this group in terms of
+raw numbers, answering this question instead
+requires comparing their prevalence to other factors in order to tease out
+whether they
+are over-represented, to what degree they are over-represented and
+in what circumstances they are over-represented. The analysis
+of this article
+finds the following:
+• The combined category of White/Broadly Islamic/Middle Eastern is
+over-represented on the No-Fly List relative to its proportion
+population by 60.40 per cent.
+• The combined category of White/Broadly Islamic/Middle Eastern is
+over-represented on the No-Fly List relative to its proportion
+criminals by 112.53 per cent.
+• The category of Broadly Islamic/Middle Eastern is over-represented on
+the No-Fly List relative to its proportion of terror
+attack perpetrators in the
+United States by 319.50 per cent.
+• Discounting the 9/11 attacks, the category of Broadly Islamic/Middle
+Eastern is over-represented on the No-Fly List relative
+to the number of victims
+killed in terror attacks committed by this group by 110.57 per cent.
+• Including the 9/11 attacks, the category of Broadly Islamic/Middle
+Eastern is under-represented on the No-Fly List relative
+to the number of
+victims killed in terror attacks committed by this group by 1.98 per cent.
+Singular Purpose
+In the absence of these findings, a wide range of answers can be given to the
+question ‘What is the purpose of the US No-Fly
+List?’ Highly placed
+proponents of the program – such as Senator Diane Feinstein – have
+argued that its purpose
+it to protect against current and future terrorists
+living in the United States. In Mrs Feinstein’s words, “It’s
+clear we’re facing a new kind of attacker, who’s already here, able
+to hide in plain sight, and we need to think about
+new defenses ... the no-fly
+list itself is one of our best lines of defense’ (Shane 2010). With access
+to data from the List,
+however, Mrs Feinstein’s conclusion appears likely
+to be incorrect. Were the purpose of the No-Fly List to accurately guard
+domestic terrorists, then the proportion of Broadly Islamic/Middle Eastern names
+would be decreased by 319.50 per cent and
+the proportion of White,
+African/African American, Asian and Latin American names would be increased by
+1,439.30 per cent, 71,684.38
+per cent, 1,538.21 per cent and 243.99 per cent
+respectively.
+These findings may not support the List’s advocates, but they also do
+not necessarily support the List’s detractors. For
+instance, the ACLU has
+fought the No-Fly List on the grounds that it ‘disproportionately target
+people of color’ (Roe
+2019). Were this statement true, then the List would
+not so significantly under-represent individuals of African/African American,
+Asian or Latin American heritage. Indeed, under nearly every measure, the degree
+of under-representation is greater among people
+of color than it is among Whites
+(excluding the Broadly Islamic/Middle Eastern category).
+Based on this data, it can be determined that the No-Fly List does not
+accurately reflect US population statistics, nor the likelihood
+ethno-religious groups will commit violent crimes, nor the likelihood that
+ethno-religious groups will commit terrorist attacks,
+nor the average lethality
+of terrorist attacks committed by different ethno-religious groups. This author
+actively encourages further
+research on this topic to discover other possible
+explanations, but in the context of this analysis, only one explanation for the
+purpose of the No-Fly List appears likely.
+The only measure by which the composition of the No-Fly List approximates
+reality is that of average lethality of terror attacks committed
+by different
+ethno-religious groups,
+inclusive of
+the 9/11 attacks. In short, when
+asking the question ‘What is the purpose of the U.S. No-Fly List’,
+the most obvious
+answer is also the most accurate: the No-Fly List is a direct
+reaction to the 9/11 attacks. The contents of the No-Fly List only
+make sense if
+one assumes that the massive death toll of the 9/11 attacks and the
+ethno-religious origins of the attackers are the
+new norm of terrorism, rather
+than a unique outlier. If the trends of US terror attacks post-9/11 indeed
+continued this astronomical
+level of lethality caused by Islamic terrorism, then
+the No-Fly List would accurately reflect reality and would be a useful national
+security tool. Therefore, it is the belief of this author that the US No-Fly
+List was created with only a singular purpose in mind:
+as a tool to counter not
+terrorism broadly, but exclusively 9/11-style Islamic terrorism.
+Unfortunately for the TSC – and for those wrongly placed on the List
+– two decades later, the existing data do not support
+the validity of this
+singular purpose. When observing US terror attacks following 9/11, no attack has
+ever approached anything even
+remotely near the death toll of that day. The
+combined death total of all US terror attacks since 9/11 under the definition
+in this article is 263, equal to only 8.75 per cent of the death
+total of the 9/11 attacks alone. The 9/11 attacks represent outliers,
+outliers skew the data of terror attack lethality by ethno-religious groups in
+such a way as to improperly and negatively
+impact Islamic and Middle Eastern
+peoples. If the FBI/TSC seeks to use the No-Fly List as a correctly
+proportionate tool against
+potential terrorists, then the presence of Broadly
+Islamic/Middle Eastern people needs to be lessened by a significant margin.
+Significance of Findings
+The significance of these findings lies not in this article’s analysis
+so much as in the fact that this analysis is the first
+conducted using primary
+source data from the US No-Fly List. To this author’s knowledge, no such
+academic study has been conducted
+with similar data prior to this point. It is
+hoped that these findings can serve as a starting point for future study of the
+List specifically, and government anti-terrorism policies more broadly.
+As evidenced by the lawsuits filed by those improperly placed in this
+abstract and into
+the daily lives of real people. Decisions made in the halls of power –
+often hastily and shortsightedly –
+will cause knock-on repercussions for
+decades. It is the responsibility of individuals in democratic societies not
+only to encourage
+wise decision-making from their leaders, but also to guard
+against their leaders’ worst impulses. Research, open discussion
+open flow of information are key tools to make these aspirations a reality.
+Data Availability Statement
+The US No-Fly List dataset is available by special request through DDoSecrets
+https://ddosecrets.com/wiki/No_Fly_List
+The Global Terrorism Database is available by special request through the
+University of Maryland at:
+https://www.start.umd.edu/gtd/contact/download
+Correspondence:
+Matteo Garofalo, University of Maryland, United States
+Naval Air Systems Command, United States.
+matteo.garofalo@outlook.com
+ACLU (2021, 7 April)
+Kashem, et al. v. Barr et al.:
+ACLU challenge to government No-Fly List.
+American Civil Liberties Union. https://www.aclu.org/cases/kashem-et-al-v-barr-et-al-aclu-challenge-government-no-fly-list.
+Boustead A and Herr T (2020) Analyzing the ethical implications of research
+using leaked data.
+PS Political Science & Politics
+https://doi.org/10.1017/s1049096520000323
+Creta C (2016) The No-Fly List: The new redress procedures, criminal
+treatment, and the blanket of ‘national security’.
+Washington and
+Lee Journal of Civil Rights and Social Justice
+Crimew M (2021) Home page. maia.crimew.gay.
+Crimew M (2023) How to completely own an airline in 3 easy steps.
+https://maia.crimew.gay/posts/how-to-hack-an-airline
+Croft S (2006, 5 October) Unlikely terrorists on No Fly List.
+https://www.cbsnews.com/news/unlikely-terrorists-on-no-fly-list
+Diachenko V (2021, 16 August) America’s secret terrorist watchlist
+exposed on the web without a password: Report. LinkedIn.
+https://www.linkedin.com/pulse/americas-secret-terrorist-watchlist-exposed-web-report-diachenko/?_ga=2.68694546.2038757569.1673977369-402314082.1673977369
+Distributed Denial of Secrets (DDoSecrets) (2023)
+No Fly List
+https://ddosecrets.com/wiki/No_Fly_List
+Donohue LK (2008)
+The Cost of Counterterrorism: Power, Politics, and
+. Cambridge: Cambridge University Press.
+Federal Bureau of Investigations (FBI) (2019) Expanded homicide data. Uniform
+Crime Reporting.
+https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/topic-pages/tables/expanded-homicide-data-table-3.xls
+Federal Bureau of Investigation (FBI) (2023) About the Terrorist Screening
+https://ucr.fbi.gov/nsb/tsc/about-the-terrorist-screening-center
+Feinstein D (2016, 23 June) Feinstein statement on Collins Amendment.
+https://www.feinstein.senate.gov/public/index.cfm/press-releases?ID=F02871C5-A023-4DEF-AEC3-EDAF34BEA2BF
+Florence J (2006) Making the No Fly List fly: A due process model for
+terrorist watchlists.
+The Yale Law Journal
+115(8): 2148–2181.
+https://doi.org/10.2307/20455686
+Hamner J (2009) No-Fly List: The Ninth Circuit misapplies Congressional
+49 U.S.C. Sec. 46110
+, a decision that opens the doors of District
+Courts to No-Fly List challenges.
+Journal of Air Law and Commerce
+https://scholar.smu.edu/jalc/vol74/iss1/4/
+Harwell D (2021, 10 March) Massive camera hack exposes the growing reach and
+intimacy of American surveillance.
+Washington Post.
+https://www.washingtonpost.com/technology/2021/03/10/verkada-hack-surveillance-risk
+Ienca M and Vayena E (2021) Ethical requirements for responsible research
+with hacked data.
+Nature Machine Intelligence
+3(9): 744–748.
+https://doi.org/10.1038/s42256-021-00389-w
+Justia Law (2019)
+Bartnicki v. Vopper
+[2001] USSC 32
+532 U.S. 514.
+https://supreme.justia.com/cases/federal/us/532/514.
+Justia Law (2020)
+Tanzin v. Tanvir, 592
+. https://supreme.justia.com/cases/federal/us/592/19-71.
+Ling J (2018, 21 June) Revealed: Canada uses secretive anti-terrorist
+The Guardian
+https://www.theguardian.com/world/2018/jun/21/canada-us-tuscan-anti-terrorist-database-at-borders
+Nagra B and Maurutto P (2019) No-fly lists, national security and race: The
+experiences of Canadian Muslims.
+The British Journal of Criminology
+60(3): 600–619.
+https://doi.org/10.1093/bjc/azz066
+Nichols C (2019, 11 October)
+Baz v. U.S. Department of Homeland
+https://www.leagle.com/decision/infdco20191011s24
+PBS (2002) Global connections: Stereotypes.
+https://www.pbs.org/wgbh/globalconnections/mideast/questions/types/index.html
+Puentes P (2017, 25 August)
+El Cordobés, the Spanish face of
+Islamic State
+https://english.elpais.com/elpais/2017/08/25/inenglish/1503659430_853709.html
+Roe A (2019, 19 July) Airline ‘no-fly’ lists trample the rights
+of people of color. ACLU Washington.
+https://aclu-wa.org/story/airline-“no-fly”-lists-trample-rights-people-color-seattle-should-not-allow-hotels-create--0
+Rusch M (2021, 20 October) Hackerin Tillie Kottmann: Tillie gegen die
+Vereinigten Staaten.
+Zeit Magazin.
+https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fzeit-magazin%2F2021%2F43%2Fhackerin-tillie-kottmann-usa-justizministerium-klage-aktivismus-schweiz
+Shane S (2010, 11 May) Senators demand tighter rules on No-Fly List and
+addition to Terror Group List.
+New York Times
+https://www.nytimes.com/2010/05/12/world/americas/12investigate.html
+Sharkey J (2008, 30 September) Not too small to appear on a big no-fly watch
+New York Times
+https://www.nytimes.com/2008/09/30/business/30road.html?_r=1
+University of Maryland (2023) Global Terrorism Database.
+https://www.start.umd.edu/gtd
+US Census Bureau (2021, 1 March) About the topic of race.
+https://www.census.gov/topics/population/race/about.html
+US Census Bureau (2022, 6 December)
+https://www.census.gov/data.html
+US Department of Justice (2021, January)
+Race and ethnicity of violent
+crime offenders and arrestees, 2018
+https://bjs.ojp.gov/content/pub/pdf/revcoa18.pdf
+US Department of Justice – Office of the Inspector General –
+Audit Division (2007, September).
+Follow-up audit of the Terrorist Screening
+https://oig.justice.gov/reports/FBI/a0741/final.pdf
+Print (pretty)
+Print (eco-friendly)
+RTF format (829 KB)
+PDF format (498 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

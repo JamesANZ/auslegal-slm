@@ -1,0 +1,2492 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/DTLJ/2004/1.html
+Scraped: 2025-11-17 14:54:56
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Averill, Morris --- "The Spider's Stratagem on the Web: Hunting and Collecting Web Users" [2004] DigTechLawJl 1; (2004) 5(1) Digital Technology Law Journal 1
+The Spider’s Stratagem on the
+Web: Hunting and Collecting Web
+Visiting Lecturer University of Western
+Sydney This article discusses: the traps for consumers browsing the
+World Wide Web or engaging
+in electronic commerce (ecommerce),
+including the privacy implications on being on the Web; the possible
+responses available
+to Web users or government regulators are
+considered; as well as Web site operators who consider that some Web
+techniques are damaging
+Introduction
+The so-called ‘tech-wreck’ of April 2000, (the
+‘correction’ in share values of technology
+companies listed
+on the NASDAQ, and other stock
+exchanges), can be attributed to investors realising that profitable
+would be more difficult
+that many had imagined. Several commentators
+suggested that e-commerce business models based on the premise
+Web site and users will come’ were
+little more than a
+modern day cargo cult mentality.
+The difficulty of attracting visitors to Web sites, has resulted in
+World Wide Web technology
+evolving sophisticated techniques of
+attracting, even capturing, Web
+development of sophisticated Web site design techniques may have
+been pioneered by the developers of adult content and gambling
+however mainstream e-commerce sites are adopting the techniques. At the
+benign end of the spectrum (but still irritating for
+some Web users) is
+use of ‘pop-up ads’ - at the more aggressive end of
+spectrum, is the use of ‘spawning’
+and ‘mouse-trapping’ being used to capture Web
+at a Web site.
+Some techniques are criminally motivated scams to extract money from
+unsuspecting Web users by causing the Web user to incur an
+astronomically high telephone bill by re-routing their connection to an
+Internet Service Provider (
+via an international call rather than a local call or to send computer
+programs to the user’s computer in order to search
+other banking information.
+The legal implications of the exchange of
+data between the computers of the Web users and Web sites are
+considered in this article.
+In particular, the consumer privacy
+implications of the
+exchange of data between a Web user and a Web site.
+difference between ‘data’ and ‘personal
+information’
+should be acknowledged when considering the exchange
+between the
+computer of a
+Web user and a Web site.
+“Data” is defined
+as “information output by a sensing device or organ that
+both useful and irrelevant
+or redundant information and must be
+processed to be meaningful.”
+In the context of an exchange between the computer of a Web user and a
+Web site, there is an
+exchange of digital data which is processed
+by the computer programs
+operating each computer resulting in the presentation of Web pages and
+interactive changes to screen display
+on the Web user’s
+computer as the user navigates through the Web site.
+information”, as defined in the
+is information or
+opinion that can identify a person. The exchange of data between the
+computer of the Web users and a Web site may
+not, of itself, identify
+an individual. However the Web
+technology has created the ability of Web sites to track users and
+their browsing behaviour.
+‘Spawning’ and
+‘mouse trapping’
+‘Spawning’ is the use of HTML code to control what
+presented to a Web user. ‘Mouse trapping’ is
+use of HTML code to
+trap a user at a particular Web site.
+‘Page jacking’,
+‘redirecting’
+and ‘spoof pages’
+Copying pages of Web sites (so that ‘key
+words’ a picked up in
+a search) in order for the fake or ‘spoof pages’
+appears with the
+same description as the ‘real site’ in search
+engines results and
+thereby divert Web traffic to the
+‘spoof pages’ at
+which the user
+may become trapped – as in (1).
+Misleading links
+Mislabelled links lead the user to some place they do not
+want to be and
+the user may become trapped – as in (1).
+‘Home-jacking’ - Changing
+‘home pages’
+or ‘favourites’
+Software can automatically change the ‘home
+page’ selected by
+the user of a computer or alter the ‘favourites’
+list in the Web
+Spyware - Unauthorised or unknown software downloads
+The automated downloading of computer programs to the Web
+computer, done without seeking consent of the Web user; as
+programs that are supplied free to the Web user, but which may have
+‘add on’ or ‘plug-in’
+to a primary
+software program, which the Web user is not aware of at the time of
+downloading.
+‘Pop-Up Ads’ or
+Using HTML code to provide advertising messages.
+‘Cookies’ and ‘Web
+The use of computer programs to track Web users.
+‘Identity theft’ and
+‘phishing’ for
+information
+The unauthorised access to computers or the interception of
+communications
+or searching databases accessible in the Internet for the
+discovering
+information about a person for the purpose of fraudulently acquiring
+and incurring debt in that assumed
+‘Internet dumping’
+‘Internet dumping’ occurs when the
+telephone link from the
+user’s computer is switched, without their knowledge,
+(or without their full
+knowledge of the
+consequences of clicking on a button), into
+calling a more costly Internet access connection than
+provided through the
+user’s usual ISP.
+The automated delivery of bulk e-mail.
+In the study by Cyveillance, Inc
+dated December 2001, many of the techniques listed about are described
+in their list of 10 objectionable Web techniques.
+Spawning & Mouse
+‘Spawning’ is a way of programming a Web site so
+that the new browser windows are automatically launched,
+faster than
+the user can close them, when a user attempts to exit a
+Poor Web design and coding can result in a re-directed page entering
+the browser history
+in the user being unable to retrace their recent browsing history.
+However, ‘mouse trapping’ is a deliberate
+programmer. ‘Mouse trapping’ is a way of
+programming a Web site so
+that the ‘Go To’ command
+shows only the URL of that
+every click on the ‘Back’ button and
+‘Close’ command,
+still leaves the
+Web user at the same site.
+The consequence of which the Web
+user is trapped at the Web site. The usual buttons to escape from a Web
+site do not function so
+that the Web user is
+prevented from leaving – except by shutting down the
+connection to the Internet.
+‘Spawning’ and ‘mouse trapping’
+can be combined with the launch of advertisements
+that do not have visible
+controls so that the only way to exit, apart
+from shutting down the computer, is to click on the advertisement.
+are often associated with ‘page jacking’
+product of the online pornography industry.
+In 2001 the
+US Federal Trade Commission (
+obtained injunctions against John
+in respect of his practice of ‘domain name
+mimicry’ (obtaining domain name registrations for
+misspellings of well
+names) and setting up Web sites using those domain names which
+‘mouse trapping’ to force viewers to see endless
+pages. The basis of the injunction being the practices of John
+Zuccarini amounting to
+unfair competition and unfair business practices
+Commission Act
+2. Page-Jacking, Redirecting &
+‘Page-jacking’ results in users of World Wide Web
+sites being re-directed to other sites chosen by the
+page-jacker.
+The reason ‘page-jacking’ is carried
+out is to increase the number of Web users
+‘hitting’ the site to
+the Web users are re-directed. This will have the effect of
+artificially
+inflating the number of ‘hits’ on the site with
+advertising being
+sold at a higher rate based on the false perception that the Web site
+high number of voluntary users.
+Web site owners may pay the page-jacker
+for re-directing Web users to a Web site.
+The page–jacker
+copies pages from a popular site and posts the copied pages on their
+own computer server. The copied pages
+are re-programmed to re- direct
+to specific sites. The copied pages continue to be indexed on search
+same key words as used in the original site. A Web user
+user ‘clicks’ to that site they are re-directed to
+the site chosen
+by the page-jacker.
+The consequence of ‘page-jacking’ is
+that the owner of the legitimate site loses the potential customers and
+reputation suffers as the kidnapped Web user assumes the content at the
+re-directed site is that of the owner of the legitimate
+‘Page jacking’ is a technique primarily used to
+increase traffic to the Web site to which the Web users are redirected.
+more sophisticated Web design techniques have been developed with the
+use of ‘spoof pages’ which are
+marks (‘metatagging’) for the purpose of maximising
+likelihood that the ‘spoof page’ will
+appear high
+on a search engine’s list of results
+. The ‘spoof
+page’ being combined with the use of
+‘doorway’ or ‘re-
+direct’ techniques to take
+the user to some other site, often
+pornographic site.
+16. The FTC, together
+with the Australian
+Competition and Consumer Commission (
+action against persons involved in ‘page
+jacking’ in
+Periera d/b/a/ atariz.com
+Final settlement with one
+defendant, and default judgments against two others, were obtained on
+February 2000.
+17. Techniques related to
+‘page-jacking’ can be
+used to make a political statement; an example being the report by
+Mr. Racine, the defendant, admitted to tricking VeriSign subsidiary
+Network Solutions into giving him ownership of the aljazeera.net
+domain. Racine then redirected visitors from that Internet address to
+another site. Technically known as a ‘redirect’,
+the Web users that wanted to go to www.aljazeera.net - as well as the
+English- language site, english.aljazeera.net - to be redirected
+NetWorld's servers where the US flag was displayed.
+18. Mislabelling links is the false
+labelling of hyper links
+that send the Web user to an unintended destination.
+misleading link may be the result of poor Web design and coding.
+However if the
+mislabelling is intentional, liability may arise
+Practices Act 1974
+(Cth) for ‘misleading or
+conduct or under fair trading legislation.
+Changing Home Pages or Favourites List
+‘Home-jacking’
+is the result of Web design techniques which allow the unauthorised
+substitution of the ‘home
+page’ so that when the
+launches their browser, instead of the user’s selected home
+page coming up
+the selected Web site appears.
+A digital file can also
+be inserted into the user’s computer so that the selected Web
+page appears
+in the ‘favourites’
+list in the Web browser
+The unauthorised inserting of data may be a
+criminal offence under sections 477 (1) or (2) of the
+section 308D
+Crimes Act 1900
+That is, provided there
+is no consent of the Web user so that the insertion of the data which
+changes the ‘home page’
+‘favourites’ is
+clearly unauthorised, with the necessary intention or recklessness as
+impairment of the functioning
+of the Web user’s computer
+software. Some Web sites overtly ask the Web user if they wish to
+change their home page,
+if this option is selected the user is clearly
+consenting to the change. However with a covert change it can be argued
+the unauthorised
+inserting of a digital file into the Web
+user’s computer
+is a criminal
+21. However the
+level of ‘impairment’ of functioning of the
+computer may be disputed, with a
+that changes to the ‘home page’ or
+‘favourites’ falls below what could be considered
+to be damage
+to the functioning of the
+need of the Web user to replace the ‘home
+page’ setting or remove files inserted into the
+‘favourites’
+file can be argued to be ‘damage’ to the computer.
+Causing damage when computer programs are removed from a computer
+interfered with has been considered in
+Cox v Riley
+R v Whitley
+R v Whitley
+involves the prosecution of a
+‘hacker’ under the
+Criminal Damage Act
+(UK). The prosecution had to establish that
+the defendant had caused damage
+to tangible property contained on the computer disc. Counsel
+argued that there was no damage to tangible property. However, in
+considering that argument, Lord Lane CJ stated
+that it contained a
+fallacy: “What the Act requires to be proved is that tangible
+property has been damaged, not necessarily
+that the damage itself
+‘should be tangible’… The fact that the
+alternation [to the metallic particles on the disk]
+could only be
+perceived by operating
+the computer did not make the alternations any the less real, for the
+if the alternation
+amounted to damage, any the less within the ambit of
+5. Spyware -
+unauthorised, or unknown, software
+The development of ‘parasite’ business
+results in software programs being supplied as an
+‘add on’ or ‘plug-in’ to a
+primary software
+The developer of the primary software program (usually
+made available to the user without cost) has a business model of
+money from parasite software or generating income from advertising
+from ‘pop-up ads’. The users of such a business
+model would
+naturally choose other descriptive phrases to describe their technology
+be aggrieved at the use of pejorative
+terms to describe their
+technology. The
+Gator Corporation, a developer of ‘pop-up’ widow
+technology,
+has alleged trade libel, false advertising and tortuous
+interference claims, against others using the term "spyware" to
+the Gator technology.
+The Gator Corporation prefer to
+describe their technology as providing “contextually relevant
+advertisement[s]”.
+Legislatures are beginning to respond to public concern about intrusive
+Web techniques, with commentators suggesting that the
+legislatures are
+also responding to the conflicting results of litigation in US federal
+courts over whether Web techniques, such
+ad’ software infringes intellectual property rights or unfair
+trade practice legislation.
+The State of Utah enacted the
+Spyware Control
+(2004) which, as stated in the general description of
+Prohibits spyware from
+delivering advertisements to a
+computer under certain circumstances;
+Requires spyware to provide
+removal procedures;
+Allows a website,
+trademark, or copyright
+owner to bring an action to enforce the requirements.
+Spyware Control Act
+defines ‘spyware’ in a
+Subsection 4 beginning the extensive definition describing the ambit of
+the software techniques
+that are being regulated: monitoring
+that reports back to a remote computer or delivers
+obtrusive ‘pop-up ads’ (without making appropriate
+disclosure to
+“Except as provided in Subsection (5),
+"spyware" means software residing on a computer that: (a) monitors the
+computer's usage;
+(b) (i) sends information about the computer's usage
+a remote computer or server; or (ii) displays or causes to be displayed
+advertisement in response to the computer's usage if the
+advertisement: (A) does not clearly identify the full legal name of the
+entity responsible for delivering the advertisement; (B) uses a
+registered trademark as a trigger for the display of the
+advertisement
+person other than: (I) the trademark owner; (II) an authorized
+agent or licensee of the trademark owner; or (III)
+recognized Internet search engine; (C) uses a triggering mechanism to
+display the advertisement according to the Internet websites
+or (D) uses a context based triggering mechanism to display the
+advertisement that partially or wholly covers
+or obscures paid
+advertising or
+other content on an Internet website in a way that interferes with a
+ability to view the
+definition of spyware going on to describe the triggering mechanism for
+the spyware and describes categories of software which
+do not fall
+within this definition of spyware. The Act also has the definition:
+"Context based triggering mechanism" means a software
+based trigger or
+program residing on a consumer's computer that displays an
+advertisement
+according to: (a) the current Internet
+website accessed by a user;
+or (b) the contents or characteristics of the current Internet website
+accessed by a user.”
+The key provision of the
+Spyware Control Act
+(2004) is § 13-39-201,
+which states the
+prohibited conduct as being that. “(1) A person may
+not: (a) install spyware on
+another person's computer; (b) cause
+spyware to be installed on another person's computer; or (c) use a
+context based triggering
+mechanism to display an advertisement that
+partially or
+wholly covers or obscures paid advertising or other content on an
+website in a way that interferes with a user's ability to view the
+website. (2) It is not a defense to a violation of this
+section that a
+user may remove or hide an advertisement.”
+In response to the
+Spyware Control Act
+(2004), WhenU,
+a supplier of
+‘pop-up ad’ technology, is claiming that that the
+unconstitutional attempt to regulate Internet
+advertising on various
+including that it is in violation of the First Amendment of the US
+Constitution
+– which describes the right of free
+On 22 June 2004 Judge Joseph C Fratto Jr. of the
+Third Judicial District Court in Salt Lake City granted WhenU a
+preliminary
+that will prevent the Act coming into effect until such time
+argument on the issues is heard.
+31. First Amendment
+arguments have been successful in protecting other Web technology and
+techniques from legal action, such as the
+litigation over changes to
+the algorithms of Google’s search engine considered in
+Inc v Google Technology, Inc
+2003, federal judge, Vicki Miles-
+LaGrange granted Google's motion to dismiss the preliminary
+injunction, accepting that the allocation of ranking to a Web site is
+‘protected free speech’, so that the First Amendment of the
+Constitution
+protected Google from tort liability for the way it
+allocated a ranking to the Search King’s Web site.
+State of California is also actively
+pursuing legislation.
+Federal legislation is also being
+considered.
+33. The California
+Assembly Bill 2787, amended June 23, 2004, would enact the Protection
+Against Computer
+purpose of which is described as:
+would enact the Protection Against Computer
+Spyware Act
+. The act would
+a person or entity conducting business in this state from knowingly
+computer program to be copied
+onto the computer of a California
+consumer, as
+defined, and using the program to perform certain acts relating to
+control of, or damaging, the computer or the consumer's Internet
+access or use. Bill 2787 in § 22581.2. prohibits specific
+techniques and actions, including: (a) Take control, through
+intentionally deceptive means, of the consumer's computer; (b) Modify,
+through intentionally deceptive means, any of the settings related to
+computer's access to, or use of, the Internet; (c) Collect,
+intentionally deceptive means, personally identifiable information
+through the
+use of a keystroke logging function that records
+all key strokes made
+authorized user who uses the computer and transferring that information
+computer to another person;
+(d) Prevent, through intentionally
+means, an authorized user's reasonable efforts to block the
+installation of, or
+to disable,
+software; (e) Intentionally misrepresent that software will be
+uninstalled or disabled by an authorized user's action, with knowledge
+the software will not be so uninstalled or disabled; (f) Induce,
+through deceptive means, an authorized user to install a
+component onto the computer, including, but not limited to,
+deceptively
+misrepresenting that installing software is necessary for
+security or
+reasons or in order to open, view, or play a particular type of
+content; (g) Deceptively install and execute
+on the computer one or
+additional computer software components with the intent of causing an
+user to use the components
+in a way that violates any other provision
+section; (h) Through intentionally deceptive means, remove, disable, or
+inoperative a security, antispyware, or antivirus technology
+installed on
+the computer.”
+The question can be asked as to whether the Web
+user is in a position to give an informed consent as to what
+software programs are downloaded with
+the primary software program and what changes those programs will make
+Spyware Control Act
+(2004) of Utah
+is clearly designed to force disclosure from the supplier of the
+software to
+give a level of informed consent by the
+Web user downloading the
+and to force the supplier of the software to provide for mechanisms to
+enable the Web user to disable
+or remove the software at any time after
+downloading.
+Act continues the definition of
+‘spyware’ by referring the software having the
+functions, (discussed
+in 5.1 above),
+where the software:
+“(4) (c) does
+not: (i) obtain the consent of the user, at the time of, or after
+installation of the software but before the
+software does any of the
+described in Subsection (4)(b): (A) to a license
+agreement: (I) presented in full; and (II) written
+language; (B) to a notice of the collection of each specific type of
+information to be transmitted as a result of the software
+installation; (C) to a clear and representative full-size example of
+of the frequency with which each type of advertisement may be
+and (E) for each type of advertisement delivered
+by the software, a
+description of a method by which a user may distinguish the
+advertisement by its
+appearance from an advertisement
+generated by other software services;
+and (ii) provide
+a method: (A) by which a user may quickly and easily disable and remove
+software from the user's computer; (B) that does not have other
+effects on the non-affiliated parts of the user's computer; and (C)
+uses obvious, standard, usual, and ordinary methods for removal of
+The WhenU litigation against the State of Utah raises the general
+policy question of whether legislation is the appropriate response
+the various technologies that are described as
+spyware given that Web users, wishing to avoid having spyware on their
+can adopt one of the existing software solutions, such as selection
+preferences
+on Web browsers so that the browser blocks pop-up
+ads from appearing or
+warnings that the Web site wants to deliver a
+‘cookie’ to the
+user’s computer.
+Control Act
+(2004) of Utah goes on to specifically
+exclude benign software such as operating systems and diagnostic
+software, however the exclusion
+of ‘cookies’ in
+subsection (5)
+(b) (ii) potentially creates a flaw in this legislation. “(5)
+Notwithstanding Subsection
+(4), "spyware" does not include: (a)
+designed and installed solely to diagnose or resolve technical
+difficulties; (b) software
+or data that solely report to an Internet
+website information previously stored by the Internet website on the
+computer, including:
+(i) cookies; (ii) HTML code;
+or (iii) Java Scripts; or (c) an operating
+may have a benign
+function of managing the browser (by retaining information related to
+the user’s previous visits to the site)
+or for a more
+intrusive purpose with the downloading of the cookie being triggered
+moving the cursor over a link or by
+the user clicking on mislabeled
+‘Cookies’ can be programmed with more
+sophisticated tracking functions that can track the users web surfing
+information being returned to the server so that the
+‘pop-up’ advertisements and banner advertisements
+user are focused on what the computer server, to which the
+transmitted data from the Web user’s computer, has analysed
+be advertisements relevant to the Web user’s choice of terms
+used in the search engine.
+While subsection (5) (b) (ii) does start with the qualifying
+description of “
+software or data that
+to an Internet website information
+previously stored by the Internet website on the user's
+however this may be insufficient to
+distinguish, in this statutory definition, between benign
+sophisticated
+tracking ‘cookies’, and malignant
+Spyware Control Act
+Utah can be criticised for:
+Failing to provide a function definition of what is
+‘spy-ware’, by not adequately defining malignant
+as spyware, (which may have personal
+discussed later in Section 7);
+to be a practical solution
+as the user of the computer who consents to the downloading of the
+‘spyware’ may be
+a child using a parent’s
+computer. So that no
+real informed consent is given;
+While the title of
+the Act refers to ‘spyware’ control, the Act would
+focus on ‘pop-up ad’ software,
+which is arguably an
+irritation, to
+some, but does not address the types of malignant software the
+Californian statute addresses.
+The ad-serving software, or ‘adware’, is
+downloaded with Peer-to-Peer (
+file trading software or other free
+software, such a screen savers. The software examines keywords, URLs
+terms in use
+on the user's browser and then selects which
+advertisements to present the Web user.
+Pop-up advertisements may be an
+irritating advertising tactic, which if taken to extremes, can be
+described as ‘spawning’.
+The FTC obtained an
+injunction in November 2003 against D Squared Solutions over software
+exploit a feature of the Windows
+Messenger Service.
+The software creates pop-up windows that appear every ten minutes,
+advertising a D Squared Solutions product that stops the pop-up
+windows. However the interim injunction was not continued in December
+hearing to determine whether a permanent should be
+issued in set down
+for hearing in March 2003.
+Beales, Director of the FTC’s Bureau of Consumer Protection,
+scheme, “nothing more than a high-tech
+version of a classic
+scam. The defendants created the problem that they proposed to solve
+Their pop-up spam
+computer users’ time and caused them needless
+frustration.”
+Litigation has occurred in
+the US courts over whether the operator of a Web site can control the
+information that appears of a
+Web user’s screen when the user
+is accessing a Web site. The user of ‘pop-up ad’
+technology raise a number of legal
+issues, including:
+(1) Copyright
+infringement & contributory copyright infringement. In the US
+this is argued on the basis that the presentation
+‘pop-up ads’ incorporates the plaintiffs’
+Web site into a new “derivative work” (as defined
+in 17 USC §101). In Australia the claim would be that an
+“adaptation” of the Web site has been
+(2) Trade mark infringement & trade mark
+dilution argued to be created by simultaneous appearance of the
+‘pop-up ad’
+and the plaintiff’s trade
+marks; (3) The use of the pop-up ads suggested a (non-existent)
+relationship between the advertiser
+promoted on the ‘pop-up
+the commercial entity operating the Web site (that Web site
+operator’s own
+are being obscured by the ‘pop-up ad’)
+‘misrepresentation’ potentially actionable under
+‘passing off’ or actionable, in Australia, under
+Practices Act 1974
+(Cth). In the US this issue being claimed
+as being in
+breach of the Lanham Act; and (4) The economic effect of pop-up ads is
+a dilution of the commercial value of the advertising. In the
+US this issue being claimed as unfair competition and unfair business
+practices under the Lanham Act.
+However, despite the pleading of these multiple causes of action,
+litigants attempting to stop the use of
+‘pop-up ads’
+have been unsuccessful in the US
+courts, with the developers of ‘pop-up ad’ software
+successfully arguing that
+operating in the public interest in bringing advertisements to
+the attention of Web users.
+Corporation
+Gator Corporation, a developer of pop-up ad software
+has been the defendant in legal actions from the Washington
+United Parcel Service
+has now become a plaintiff in an action against Extended Stay America,
+Corp argued, in its action against Extended Stay America, that the
+company could not block the ‘pop-up ads’ as
+users had agreed to accept them in return for the
+use of Gator’s free software.
+Gator Corporation
+settled the legal action commenced by the Washington Post and other
+in February 2002, however the
+legal action commenced by United Parcel
+Plaintiffs, like United Parcel Service, can put unfair competition
+arguments when ads for their competitors appear when users
+accessing the United Parcel Service Web site.
+However, these arguments have been unsuccessful in
+International
+Wells Fargo & Co. & Quicken
+Loans, Inc v WhenU.com, Inc
+response of the
+defendant companies creating the pop-up advertisements is that the ads
+legitimate form of comparative
+advertising. This defence has been
+successful in
+striking out the plaintiff’s claim in
+WhenU.com v
+International
+and to deny a preliminary injunction in
+Wells Fargo &
+Co. & Quicken Loans, Inc v WhenU.com,
+not accepted in
+1-800 CONTACTS v WhenU.com and
+Vision Direct
+when a preliminary injunction was
+6.2 WhenU.com v U-haul
+International
+U-haul International objected to the pop-up ads, created by WhenU.com
+on its Web site as they directed its visitors
+to the sites of competing
+hire businesses.
+52. The causes of
+action asserted by U-haul International were copyright infringement and
+contributory
+mark infringement and trade mark
+misappropriation, unfair competition and interference with prospective
+unjust enrichment and a violation of the
+Conspiracy Act
+of Virginia.
+WhenU argued that their ads appear in clearly
+differentiated windows and that Internet users have the choice to
+control the
+September 2003, Judge Lee, in the Eastern District Court of Virginia,
+granted WhenU's motion to dismiss the trade mark and
+arguments and the unfair competition claim. Lee J held that even if the
+simultaneous appearance of the pop-up advertisement
+plaintiff’s trade marks was a ‘use’ under
+the Lanham Act it was still immune from liability as a legitimate
+of comparative
+advertising.
+6.3 Wells Fargo & Co. &
+Loans, Inc v WhenU.com, Inc
+Wells Fargo & Co. & Quicken Loans, Inc v
+WhenU.com, Inc.,
+Edmunds denied the plaintiffs’ application for an preliminary
+to stop the defendant creating pop-up windows
+plaintiffs’ Web sites.
+WhenU designed their pop-up
+advertisements to include a ‘disclaimer’ to reduce
+the possibility that Web users’
+would be confused about any
+connection between the pop-up advertisements and the Web page being
+viewed by the Web
+user. The defendant’s
+pop-up windows stated,
+is not sponsored or displayed by the Web
+site you are
+57. Judge Edmunds
+opined that the plaintiffs had not demonstrated a strong likelihood of
+success on their trade mark infringement
+and had not
+demonstrated a strong likelihood of success on their copyright claim,
+finding that:
+The defendant did not ‘use’ the
+plaintiffs’ trade marks ‘in
+The defendant does not hinder
+access by Web users to the plaintiffs’ Web sites by causing
+annoyance to
+users that other courts
+have accepted can amount to a
+‘use’ under
+the Lanham Act;
+The fact that WhenU pop-up
+advertisements appear on a Web user’s screen at the same time
+the plaintiffs’ Web page appears
+on another window does not
+constitute of ‘use’ of the plaintiff’s
+trade marks
+as there is no ‘framing’ that other courts have
+accepted can amount to a ‘use’ under the Lanham
+The simultaneous appearance of
+the WhenU’s pop-up
+advertisement and
+the plaintiff’s trade marks is a legitimate form
+comparative
+advertising;
+The inclusion of URLs that included a
+portion of the plaintiffs’ trade marks in a scrambled
+is not a ‘use’ in
+The plaintiffs’ have not shown a ‘likelihood of
+confusion’ of Web users believing that the pop-up windows
+from the Web site of the plaintiffs.
+In reaching these
+conclusions, Judge Edmunds concluded that:
+The defendant’s
+pop-up windows did not ‘use’ any of the
+plaintiffs’ trade
+That due to the way Internet technology
+works to present images appearing on Web user’s computer
+screen; pop-up windows do
+not: appear ‘on’ the
+plaintiffs’ Web
+‘modify’ the plaintiffs’ Web
+‘frame’ the plaintiffs’ Web
+There was no evidence of a ‘likelihood of
+confusion’ of Web users believing that the pop-up windows
+emanated from the
+Web site of the plaintiffs.
+1-800 CONTACTS v WhenU.com & Vision
+On 22 December 2003, Judge Batts of the Southern District Court of New
+granted 1-800 Contacts a preliminary injunction, prohibiting WhenU from
+sending pop-ups windows, and requiring that trade marked
+removed from its search terms
+‘free’ software downloads
+with other programs such
+as P2P file trading software. Where a Web user has the SaveNow software
+installed on
+their computer, entering
+a URL into the search engine will trigger the
+software to deliver to the Web user a pop-up advertisement in the same
+of goods or services as a key word search term. The SaveNow
+software included an extensive directory of URLs including the address
+of the plaintiff’s Web site
+<www.1800contacts.com>.
+Batts found the defendants had ‘used’ the
+plaintiff’s mark in
+commerce under the Lanham Act
+and that the necessary requirement
+of “a likelihood of confusion”
+“Defendants here use Plaintiff’s mark in two ways.
+First, in causing pop-up advertisements of Defendant
+Vision Direct
+to appear when SaveNow users
+have specifically attempted to access Plaintiff’s Website
+– on which the Plaintiff’s
+trade mark appears
+– Defendants are displaying Plaintiff’s mark
+“in the … advertising of” Defendant
+Vision Direct’s services. …. Second, Defendant
+WhenU includes Plaintiff’s URL,
+<www.1800contacts.com>, in
+the proprietary WhenU
+directory of terms that triggers pop-up advertisements on SaveNow users
+computers. In so doing Defendant When
+Plaintiff’s mark by
+including a version of Plaintiffs 1-800 CONTACTS mark, to advertise and
+companies that are in direct competition with
+Plaintiff. Accordingly the Court finds that the Defendants have
+Plaintiff’s mark in
+61. Consequently the
+Judge found that there
+was trade mark confusion: “The fact that Defendants' pop-up
+advertisement for competing
+internet contact lenses retailers appears
+after a consumer types into the browser bar Plaintiff's trademarked
+and accesses
+Plaintiff's homepage increases the likelihood that a
+might assume Defendants' pop-up advertisements are endorsed or licensed
+Plaintiff.”
+62. Judge Batts stated
+conclusion: “On the Internet, online shoppers have a myriad
+competing retailers literally at their
+finger tips, are easily able to
+research preferences, and with very little time and effort are able to
+enact their preferences with
+purchases. In this context, the good will
+and reputation that Plaintiff and other online retailers have
+established is of extreme
+importance. Plaintiff has spent considerable
+sums to establish and maintain its marks' notoriety with online
+and is entitled
+to protect this investment from conduct that infringes
+marks. An online shopper who has knowledge of Plaintiff's marks and
+interest sufficient to choose to visit or find Plaintiff's Website is a
+potential buyer that Plaintiff is entitled to protect
+confusion.”
+63. Judge Batts
+dismissed a further claim
+that the ads infringed on 1-800 Contacts’ copyright by
+blocking access to
+but granted an injunction against Vision Direct in
+respect of a likely breach
+Anticybersquatting Consumer
+Protection Act 1999
+(15.USC.) by registering:
+www.www1800Contacts.com>.
+The SaveNow program did, at the time the litigation commenced, have a
+statement on the pop-up ad
+: “A WhenU offer - click ?
+with the “?” button
+opening a new window containing a notice explaining the software is
+provided by WhenU and the statement
+offers shown to you by SaveNow are not affiliated with the
+site you are visiting.”
+However, the
+Judge held that this disclaimer was not sufficient to alleviate the
+likelihood of consumer confusion.
+65. Judge Batts
+disagreed with the decisions of
+Wells Fargo v WhenU
+U-Haul International, Inc v When U
+and declined to follow
+those decisions, as they were not
+Comparative advertising
+argument that pop-up ads are a legitimate form of comparative
+advertising was successful in striking out the plaintiff’s
+WhenU.com v U-haul International
+and to deny a
+preliminary injunction in
+Wells Fargo & Co. &
+Quicken Loans, Inc v
+WhenU.com, Inc,
+but not accepted in
+v WhenU.com and Vision Direct
+The different
+decisions reached in these cases are explained by differences in the
+However the application
+of the ‘comparative advertising’ argument
+may need to be resolved by appellate courts.
+In other common law jurisdictions, the competing supplier, whose goods
+or services are
+being compared unfavourably have resorted
+to litigation under a number
+of causes of action depending on the content of the comparative
+advertisements. Comparative advertising
+of products and services
+have been variously claimed as the tort of malicious falsehood
+misleading or deceptive conduct or misrepresentations (or both),
+infringement of
+trade marks,
+and copyright
+infringement.
+68. Comparative
+advertising in Australia is
+not to be considered a disrespectable form of commercial conduct
+factual assertions
+are not untrue or misleading half-truths. An
+can lawfully compare a particular aspect of its product or services
+the same aspect of a competitor’s product or
+Provided the pop-up advertisements clearly
+‘disclaim’ any
+association with the Web site, it would appear that Australian
+litigants are unlikely to be successful under any of the causes of
+listed in the previous paragraph. The technical evidence
+operation of pop-up window technology accepted by Judge Edmunds in the
+Wells Fargo
+case would make
+difficult for an Australian litigant to sustain trade mark or copyright
+causes of action.
+7. Cookies and Web
+The ‘Cookies’ are the electronic files that many
+Web sites use to manage information about visitors to the site.
+a benign level, the cookie may record and store information so that
+subsequent visits to the Web site the stored information is
+visitor in gaining speedy access to the site. However, the technology
+be programmed with different levels
+of invasiveness to collect
+personal information such as name and e-mail address and to secretly
+Web users’ on-line
+travels to other Web sites.
+‘Web Bug’ is often used with Cookies on the
+Internet. Web Bugs are
+tools designed to monitor who is reading a Web
+They are often used for online profiling, advertising, marketing and to
+measure Website statistics.
+For many users of the Web the main practical difference between a
+Cookie and a Web Bug is that Web Bugs are much more difficult to
+neutralise.
+extreme level of invasion executable bugs can be
+inserted on the user’s computer that can:
+capture a Web
+site visitor’s Internet Protocol address; or
+install files
+to change settings in the computer of the Web site visitor; insert a
+bug which results in copies of e-mails being sent
+by a person, being
+copied to the person inserting the bug; take the visitor’s
+entire e- mail
+address book; or take any other
+document from a computer; and
+used to control a person’s computer from a remote computer.
+users and a Web site have become of concern to
+areas: (1) That the serial number, (Processor Serial Number (
+embedded in Intel's Pentium III processor, and subsequent Intel
+processors, could be misused to identify and collect data on Web
+and (2) The operation of online profiling
+of Web users through the use of
+technology which tracks and monitors of individuals' online
+7.1 Processor Serial Number
+Intel designed the PSN as an additional security feature
+allowing each computer to have a unique identifier.
+the PSN was not universally accepted as appropriate technology for Web
+users. The Centre for Democracy and Technology (CDT)
+have stated:
+“The PSN is a unique identifier. Due to Intel's market
+the PSN has the potential to become
+identifier for nearly everyone on the Internet -- fundamentally
+changing the Web experience from one where consumers can browse
+seek out information
+anonymously, to one where an individual's every move is
+74. In 1999 the CDT
+and other privacy
+organisations, filed a complaint and request for relief
+FTC, seeking immediate action to prevent harm to consumer privacy as
+a result of deployment of the Intel Pentium III PSN.
+CDT requested that
+enjoin the shipment of
+Intel Pentium III Processors equipped with a unique PSN; and
+commence an investigation into the privacy issues posed by the Intel
+Pentium III PSN.
+Intel responded by releasing software that
+allowed owners of computers with Intel chips to have the choice of
+or enable the ability of other computers to read the PSN, with
+default setting of the Intel chip set being that the PSN is
+76. However the online
+tracking and profiling of Web users does not operate through use of the
+PSN, instead Cookies, Web Bugs and
+other software
+can be activated to collect and return information about the habits of
+7.2 Online profiling of Web users
+77. What information a
+Web site can learn about visitors can be understood by
+visiting links from the Web site of the CDT:
+growing frequency, information about how you use the Web -- the sites
+online purchases, "click
+through" responses to advertisements -- is being captured by
+advertising networks
+or "profiling companies."
+With the permission of the Web site, but not
+permission, these companies place a tag on your computer. This tag --
+-- is then used to track your movements as you surf the Web.
+In addition to long lists of collected information, a profile may
+"inferential" or "psychographic" data -- information that the company
+infers about you based on your surfing habits. From this amassed
+elaborate inferences may be drawn, including your interests, habits,
+associations, and other traits.”
+78. The FTC
+has maintained self-regulatory approach to online
+However on 23 May 2000, the FTC issued a report
+to Congress requesting to
+regulate online privacy. While the report noted
+that an increasing number of Web sites now post privacy
+policies, it
+also noted that only 20% meet the FTC's fair information practices. The
+issued a two-part report in June
+2000 on online profiling and industry self-regulation. The July report
+asked Congress to enact baseline legislation to protect
+Litigation has occurred in the US in relation to the
+scope of privacy protection afforded Internet users under the
+Communications Privacy Act 1986
+re Pharmatrak, Inc Privacy Litigation
+a class action, raised
+questions related to the privacy protection provided by EPCA.
+Pharmatrak provided a Web service to the pharmaceutical
+companies that
+allowed them to access information about Internet users accessing the
+sites of the pharmaceutical companies. The
+pharmaceutical companies had
+sought, and received, assurances from Pharmatrak that personal and
+identifying information about their
+Web users would not be collected.
+Notwithstanding these assurances,
+Pharmatrak did collect personal and identifying information about
+Web users of the Web sites of the pharmaceutical companies. The
+First Circuit accepted that Pharmatrak
+‘intercepted’
+information (as described in the EPCA 18 U.S.C. §2511 (1) (a))
+returned the matter to the lower court to consider whether
+interception
+was ‘intentional’ with the meaning of
+Pharmatrak, Inc
+also discusses cases regarding
+‘consent’ to intercept under §2511 (2)(d)
+states, “where one of the
+parties to the communication has
+prior consent to such interception unless such communications is
+intercepted for the purpose
+of committing any criminal or tortuous
+act…”. The court rejected the argument that the
+DoubleClick
+established
+a rule that consent to interception can be inferred from the mere
+purchase of a
+service, regardless of circumstances.
+The court considered that neither
+pharmaceutical companies nor the Web users had given the requisite
+described in
+Griggs-Ryan
+While the court accepted that consent may be explicit or implied,
+however it must be actual consent rather than
+constructive consent,
+relying upon the
+Berry v Funk
+case, which held that “[w]ithout actual notice,
+consent can only be
+implied when the surrounding circumstances convincingly
+show that the
+party knew about and consented to the interception”
+relying upon Watkins v L.M. Berry & Co, which held that
+“[k]nowledge
+of the capacity of monitoring alone cannot be
+considered implied
+81. The same issues
+‘interception of a communication’ can arise under
+Telecommunications (Interception) Act 1979
+of the Act creating civil remedies in respect of unlawful interception
+or communication information passing over a telecommunication
+In respect the collection of ‘personal information’
+the Federal Privacy
+Commissioner has issued
+Information Sheet 18 - Taking
+Reasonable Steps to
+Make Individuals Aware That Personal Information About Them is Being
+(June 2003)
+to address the implications under the
+(Cth) in relation to the
+collection of
+‘personal information’ about Web
+European Union
+has been pro-active in regulating online activities. In December 2001
+the EU decided to move to regulate Cookies
+because their use
+is perceived to be an infringement on personal
+Convention for the Protection of Human Rights and Fundamental Freedoms
+The Directive on the Privacy and Electronic Communications
+) restricts the use of cookies and similar
+tracking devices
+on Web sites.
+of the DEPC requires that, when personal information stored on the
+terminal is accessed, or when personal information
+stored on a
+network (other than purely for technical reasons), the user must be
+clearly and
+fully informed about the
+purposes of such access or storage of his or
+personal information, and then be allowed to opt out of accepting the
+85. The DEPC
+is a controversial move as many Web sites,
+especially those offering e-commerce, only function if the user accepts
+and Electronic Communications (EU Directive) Regulations 2003
+(UK) implemented the DEPC which include a
+requirement to inform Web users that Cookies exist on a Web site and
+the opportunity
+to reject the Cookies.
+The UK Information
+Commissioner has issued guidance on these
+regulations.
+87. Software solutions
+are available to Web
+users as Web browsers usually provide for settings to regulate whether
+browser will
+down load Cookies (or warn the user so that the user can
+whether or not to download the Cookie). Software is available to
+user to gain knowledge of and manage programs, which may be downloaded
+through use of Web searching.
+8. Identity
+‘Phishing’ for Information
+Computer and Internet
+technology allows the access to information that is in publicly
+accessible databases. This ease of access
+that allows signification
+information about
+a person to be obtained by using search engines.
+This can lead to
+‘identity theft’
+where information trawled from
+Internet allows
+a person to
+assume the identity of another to obtain credit cards and proceed
+to incur debt under that stolen identity.
+The Australian Crime Commission (
+established to
+address the threats posed by nationally significant crime.
+estimates that identity theft costs Australia $2
+million each year.
+90. The Internet scams
+that have been
+practiced in Australia include the setting up of fake Web sites to
+appear to be the site of
+a legitimate Internet banking operation, and
+the scam known as 'phishing', where e-mails that appear to come from a
+legitimate business
+in an effort to obtain recipients' information,
+such as bank
+account, password and credit card details.
+91. The imperative to generate
+income from the Internet leads some Web businesses to engage in
+‘Internet dumping’.
+This is an issue related to the
+regulation of the telecommunications
+system, as an Internet user accesses the ISP via the telephone
+by the telephone company at which the user has an account.
+‘Internet dumping’ occurs when the user’s
+computer is
+without their knowledge
+into calling
+a more costly Internet access connection
+than the user’s
+usual ISP. The 'switch' occurs when Web users download
+dialler’ software unwittingly,
+by clicking on an icon or
+button on their
+November 2002 the Department of Communications, Information
+Technology and Arts (
+announced draft legislation to
+address the problem of ‘Internet dumping’. The
+draft proposals have not been accepted
+by interested parties, either
+the ‘190’ service providers or the telephone
+as providing a workable answer to the
+problem. In March 2003 DCITA directed the Australian Communications
+Authority (
+) to implement safeguards for
+consumers against unexpected
+high telephone bills and Internet dumping.
+The automated transmission of e-mails to multiple recipients, usually
+containing commercial advertisements or inducements is usually
+as ‘spamming’.
+Some US States have legislated in
+relation to the transmission of unsolicited e-mails.
+Federal Privacy Commissioner has expressed an opinion that spammers may
+breach the National Privacy Principles (
+(Cth) and raised the possibility
+of a test case
+in relation to the practice of anonymously harvesting e-mail addresses
+from the Web
+or newsgroups, which is suggested to be a breach of
+NPP 1.3 and 1.5.
+Australia has moved to regulate the
+practice, with the
+Spam Act 2003
+regulating the sending of ‘spam’
+and the collection and use of e-mail addresses by Australian based
+However as a majority of ‘spam’ originates from
+international sources, delivery of commercial advertisements or
+inducements
+and other unwanted spam is unlikely to be significantly
+94. Both the
+US and the UK have moved to regulate
+spamming. However the CAN-
+SPAM Act 2003
+(US) has be criticised by
+anti-spamming as being a licence for spammers to operate, as provided
+an ‘opt-out’ option is
+provided, the transmission
+of spam e-mails is lawful.
+Communications (EU Directive) Regulations 2003
+(UK) requires
+the sender of
+the spam to have the explicit consent of the individual recipient
+except where
+there is an existing customer
+relationship.
+However the
+legislation has been criticised for differentiating between 'private'
+'business' spam and thereby creating loopholes
+as spammers can assert
+they believed they were sending the e-mail to a
+95. Sending bulk
+unsolicited e-mails may be a
+criminal offence if it interferes with the operation of computers or if
+matter of the e-mail is contrary to law. In
+Steven G. Hourmouzis.
+The defendant posted information in 'chat rooms'
+and the charges filed against the defendant were:
+interference with, interruption of or obstruction of the lawful
+use of file server computers under section 76E of the
+(Cth), by sending over 3 million spam messages to
+named e-mail
+servers by means of a telephone facility operated by Telstra;
+an offence under the
+Corporations
+"making a statement or disseminating information that was false or
+misleading and likely to induce the purchase of securities
+way of transmission of electronic mail messages containing information
+relating to Rentech when he knew or ought to
+have known that the
+information was
+misleading" by posting information in ‘chat rooms’
+on the Internet
+touting the stock
+of Rentech Inc., a U.S. company. The defendant
+guilty and was sentenced to two years imprisonment.
+The FTC has been
+active against spammers:
+FTC v 30 Minute Mortgages, Inc,
+Roth & Stolz
+respect of violation of US banking and consumer- protection and privacy
+importance of compliance with the NPPs is exemplified in
+(Operations) Limited v Media Entertainment
+and Arts Alliance (MEAA) & Connect
+[2004] FCA 637
+which MEAA were found, in the context of conducting an industrial
+relations campaign, to have infringed copyright
+in Seven’s internal
+telephone directory and were held to have breached the
+(Cth). Connect, a telephone call centre, contacted
+Seven employee's in
+order to learn information about what those employees thought
+held that MEAA ‘collected’ personal
+information
+and that MEAA was in breach of Principle 1.1 in
+relation to the information received as a result of the telephone
+Connect were held to have breached NPP 1.3 in respect of
+the script for the telephone survey.
+The ancient
+tort of trespass to a computer server
+Commentators have argued that the sending of spam to a computer server
+constitutes the tort of
+trespass to a chattel,
+with the chattel being the
+computer server.
+Jeremy Malcolm suggests that the common law, as
+applied in Australia, does not support the proposition that trespass to
+be committed by a non-physical interference with the goods,
+referring to
+Penfolds Wines v Elliot
+Latham CJ (citing Halsbury's
+Laws of England): “Trespass to
+goods is any direct infringement of the possession by another of
+corporeal personal chattels by means of an asportation or other
+However, the understanding of what is understood by
+‘corporeal personal
+chattel’, ‘direct infringement of the
+possession’ and
+‘physical invasion’ must be considered. It is
+arguable that the
+‘corporeal personal chattel’
+is the computer server
+that there is
+‘direct infringement' by the deliberate transmission of data
+(the unsolicited e-mail)
+to the computer server with the consequence
+aspects of the ‘possession’ of the computer server
+are interfered with
+by a ‘physical
+poses the question of what is sufficient to amount to an
+‘infringement
+of the possession’ and ‘physical
+invasion’. Is it
+sufficient to prove that computer memory was used by the unwanted
+e-mail or to
+provide evidence of the lost
+time and unproductive effect needed to
+the unwanted e-mail? Or
+must ‘physical damage’ be established and whether
+spam, which creates
+unauthorised additions or changes to electronic information in a
+computer is
+a ‘physical invasion’?
+Certainly in the
+criminal law context of damage to goods, Lord Lane in
+rejected the argument that for there to be
+‘physical damage’ there must be ‘tangible
+damage’: “The
+that the alternation [to the metallic particles on the disk] could
+perceived by operating the computer did not make the alternations
+real, for the damage, if the alternation amounted to damage, any the
+less within
+the ambit of the Act.”
+103. In the context of
+the common law tort of trespass to chattels, Lord Lane's statements are
+consistent with the view of Australia
+courts. Latham CJ, in
+Penfolds Wines v Elliot,
+concluded that the reference to
+‘physical’ includes
+‘intangible’ as well as
+‘tangible’. That
+is, the deliberate transmission of
+data (the unsolicited e-mail) to the computer server is a
+‘physical invasion’ and
+that proof of damage to the
+chattel (the
+computer server) is not a requirement for the common law tort of
+trespass to chattels.
+Penfolds Wines v Elliot
+related to the use, by the
+defendant, of the plaintiff’s wine
+The claim being there was a trespass by the defendant
+to the plaintiff's goods when he filled the plaintiff's bottles with
+than Penfold's. However there was no assertion of physical
+to the bottles. Latham CJ was of the opinion that the unauthorised
+defendant of the plaintiff’s bottles was a trespass. On
+majority of the High Court (Starke, Dixon
+McTiernan and Williams JJ)
+answered the question "what wrong to
+possession or property on the part of the respondent do these facts
+The important fact being that the defendant was in lawful possession of
+bottles as a bailee".
+105. The tort of
+trespass is not a single tort, as it as this form of
+action includes
+trespass de bonis asportatis
+wrongful taking of chattels – at issue in
+trespass vi et armis
+of the form of action in trespass of
+relevance to
+spamming litigation).
+Russell Ashby Pargiter v Vincent Harley Alexander
+Zeeman J in
+the Supreme Court
+of Tasmania, compared the tort of trespass to chattels to the tort of
+relation of a dispute
+over a yacht, stating: “Trespass to
+is a wrong to possession (Penfolds Wines Pty Ltd v Elliott
+[1946] HCA 46
+at 224) committed by an act of the defendant and as a direct
+consequence thereof (Hutchins v Maughan
+[1947] VicLawRp 18
+(1947) VLR 131).
+The essence
+of the tort of detinue is the wrongful detention of a chattel to which
+plaintiff has the right to immediate possession
+which requires that
+demand and a wrongful refusal to comply with that demand. On one set of
+both torts may be established
+although there may be a trespass
+without detinue or detinue without a trespass. The different elements
+of the two torts assist in
+defining the nature of the damage which may
+flow from each. Damages in trespass are by way of compensation for the
+injury done to
+the chattel by reason of the wilful interference with
+although nominal damages may be awarded where no actual
+damage occurs
+(Kirk v Gregory (1876) 1 Ex D 55).”
+Courts have not
+reached a fixed view as to whether damage to the chattel is a
+requirement of the tort of trespass to a chattel.
+Cyberpromotions
+the Federal Court issued a injunction against the transmitter of spam
+on the basis that the applicant (as the owner of the computer
+was able to show damage
+both in terms of loss of customer goodwill and lost time and effort in
+spam. However, the
+Californian Supreme Court, in
+Intel Corp v
+Kourosh Kenneth Hamidi
+required proof of more than just
+distraction or loss of productivity due to employees reading
+messages to establish trespass
+to chattels (in the form of sending
+bulk e-mails to Intel’s internal mail system, criticising
+Intel’s employment
+policies). The Californian Supreme Court
+Californian
+Trespass Act
+it is necessary to prove
+damage to computers or their usefulness before an injunction will be
+issued to prohibit the sending of
+the e-mail.
+Compuserve v
+Cyberpromotions
+Compuserve v Cyberpromotions
+the trespass-to-chattels
+argument was
+used by Compuserve to obtain an injunction to block spammers.
+presented evidence
+of the number of complaints from customers upset by
+spam. Compuserve was able to show damage both in terms of loss of
+goodwill and lost time and effort in blocking spam.
+Intel Corp v Kourosh Kenneth Hamidi
+Intel Corp v Kourosh Kenneth Hamidi
+majority decision of the Court of Appeal affirmed the lower court
+decision, where an injunction was issued against the defendant
+prevent him from emailing up to 35,000 Intel employees at a time. Mr
+Hamidi’s employment with Intel had been terminated
+result of a dispute over work related injuries. He responded by urging
+Intel employees, in bulk e-mails, to join in class actions
+overtime and
+for injuries suffered. Intel sued under two courses of action: trespass
+chattels (the Intel e-mail system)
+and nuisance.
+The majority of the appellate court held that sending bulk e-mails via
+the Internet to
+Intel’s computer network amounted
+to trespassing on
+Intel’s private
+computer network. The court reviewed the history of trespass to
+chattels and
+Hamidi’s conduct was trespassory, as an
+electronic signal is sufficiently tangible to support a trespass cause
+the tangibility of the
+the harm caused as the e-mails caused disruption to Intel’s
+were drawn away from their jobs to deal with the messages.
+dissenting opinion considered that the mere receipt of an e-mail
+only damage from which consists of the time
+consumed to read it,
+assuming the recipient chooses to do so – did not establish
+the requisite
+injury for trespass to chattel.
+The dissenting opinion considered that
+appellate decisions that have applied trespass to chattel to computer
+transmittal of the unsolicited bulk e-mail burdened the
+computer equipment, thereby interfering with its operation and
+diminishing the
+chattel’s value
+the unauthorised search, and retrieval of information from,
+another party’s database reduced the computer
+capacity, slowing response times and reducing system
+performance.
+112. The decision was reviewed
+by the Californian Supreme Court with the
+Electronic Frontiers Foundation filing an
+in the case
+arguing that the lower court decision threatened ‘freedom of
+speech’ interests.
+113. The California
+a 4 –3 majority decided that Hamidi did not
+trespass on Intel's computers when he sent e-mail messages to thousands
+employees worldwide. The majority held that Intel could only rely upon
+Californian trespass law if the e-mail caused actual damage
+equipment or property. The court reasoning that the legal claim of
+trespass to chattels requires damage to Intel's computers or
+usefulness, not just
+distraction or loss of productivity due to employees reading messages
+criticised Intel.
+114. The bare majority
+in the California
+Supreme Court and the conflicting decision in
+Compuserve v
+Cyberpromotions
+in the US federal jurisdiction leaves room for
+further argument as to whether the tort of trespass to chattels, in the
+form of transmission
+of spam directed at a computer server managing
+e-mail, requires actual damage to equipment or property or whether
+terms of loss of customer goodwill and lost time and effort in
+spam or removing from e-mail accounts is sufficient.
+appear that there is a difference between the law of the United States,
+Australia in relation to the action for
+trespass to chattels,
+respect of a direct and intentional interference with a chattel in the
+possession of another. In Australia the tort is actionable
+without proof of actual damage or dispossession.
+the U.S. the tort is not actionable
+plaintiff has to establish damage or dispossession.
+116. Computer and
+Internet technology has
+created consumer privacy issues. These privacy issues are reflected in
+willingness to engage in e-commerce.
+Australia has moved to regulate many aspects of online activities,
+updating criminal statutes and statutes regulating
+to use of the
+telecommunications facilities on which the Internet and the World Wide
+Web operate. However the global nature of the
+Internet means that
+Australian initiatives
+to secure the protection of Australian Web users can be undermined by
+unregulated activities
+in other jurisdictions. International
+initiatives by Australian regulators can result in a reduction of
+harmful online practices.
+However, ultimately it is for the Web user to
+be on their
+guard against 'data miners' seeking to use Web user's personal
+information,
+for purposes of committing a fraud, or for those who wish
+to avoid being profiled, to avoid unintentionally providing information
+Web sites through automated profiling software.
+Information about
+the browsing habits of Web users is a commodity in itself, to be stored
+and analysed,
+and applied directly by the collector;
+or sold to other e-commerce operations. In the struggle to make
+e-commerce profitable Web
+site operators may employ techniques ranging
+from the frustrating to the fraudulent.
+Because the World Wide Web is evolving into an important medium for
+commerce and communication it is generating legislative responses
+litigation in other jurisdictions that can be of assistance in
+determining the
+appropriate Australian response to harmful or
+merely irritating Web
+techniques.
+The possible responses being new legislation regulating Web techniques;
+litigation based
+on existing common law or statutory causes of action
+asserting that they are harmed by the Web techniques; or software
+Web users can adopt to counter harmful or irritating Web
+techniques.
+* LLB (Victoria University, NZ) LLM (UNSW). Legal Practitioner (New
+South Wales). Visiting lecturer in Intellectual
+Property Law,
+Electronic Financial Transactions Law & Computer
+University of Western Sydney.
+Cargo cults: Ask
+not for whom the
+Internet bubble bursts, it burst for thee, Robert Cringely 27/4/01
+http://www.pbs.org/cringely/pulpit/pulpit20010426.html.
+Robert Cringely
+the link between the cargo cults that developed in the Pacific in the
+twentieth century and the rapid,
+sometimes irrational, investment into
+development during the 1990’s. John Fitzgerald in 1996 linked
+the cult of the computer in the US and other advanced
+societies: “Cargo cults supposedly originated in Melanesia
+ago, but the type of thinking which is the foundation of cargo
+has long been characteristic of what we like to consider the
+sophisticated
+society on the face of the earth. In fact, North America is currently
+cargo cults. The cargo cult is
+founded on a familiar, and popular, bit
+fallacious reasoning: post hoc ergo propter hoc. The residents of
+Yaliwan, Vanuatu
+and other places noticed that when the colonial
+built wharves and airstrips, the wharves and airstrips were soon
+ships and airplanes which delivered cargos of goods. They concluded
+ships and airplanes arrived as a consequence of the
+building of the
+and airstrips, so they built their own wharves and airstrips in the
+expectation
+of receiving their own cargoes.
+This reasoning seems naive to us, since
+already know that the correct chain of reasoning is the reverse: the
+wharves and
+were built because ships and airplanes were going to be
+However, in dealing with that which is new to us, just as wharves
+airstrips were new to Melanesians, we draw exactly the same conclusions
+it”:http://www.coolth.com/cargo.htm.
+Cyveillance, Inc
+dated December 2001 “Entangled on the Web –
+Aggressive Technology
+Tactics Go Mainstream”
+www.cyveillance.com lists their
+assessment of the
+top 10 objectionable Web techniques as: Spawning; Mouse-trapping;
+Unauthorised software downloads; Spoof pages; Typo-piracy
+& cyber-squatting; Changing home pages or favourites; Visible
+Misleading links; and Framing. This article discusses further
+techniques that
+annoy Web users or lead to fear and loathing of the
+technology. Those
+techniques being: ‘Pop-Up Ads’,
+‘Spamming’,
+‘Identity theft’, ‘Cookies’
+Discussed in
+section (8).
+Merriam-Webster
+http://www.m-w.com/home.htm
+Amendment (Private Sector) Act
+(Cth) sets out 10 National Privacy Principles (NPPs), which
+regulate the
+way in which private sector organisations collect, store
+information. See the Guidelines to the National Privacy Principles,
+available at www.privacy.gov.au
+See note 3. See
+'Competition on
+the Internet and the World Wide Web - The Schoolmasters’ of
+case in the 21st Century',
+Morris Averill
+(2004) 11 (3) Competition and
+Consumer Law Journal 300
+for a discussion of the competition law
+aspects of:
+‘deep linking’; ‘framing’;
+‘domain name
+& ‘typo piracy’ or
+‘domain name
+mimicry’; & search engine
+‘optimisation’
+& ‘metatags’
+or ‘invisible
+‘visible seeding’.
+Spawning - the
+automatic launch of new
+browser windows on entry to or exit from a site, including the launch
+"stealth" windows
+which appear behind the browser.
+http://ebizlogic.net/notes.php
+Usually found in
+the ‘Go To’
+command on the ‘View” menu of the Web browser.
+trapping - manipulation of the browser "Back" button to prevent exit
+site. http://ebizlogic.net/notes.php
+“The porning of the
+internet, - Sex sites’ slimeball tactics ease into
+mainstream”, by
+Marty Beard,
+www.mediaifemagazine.com/news2001/dec01/dec01/1_mon/news4monday.html
+and “Beware, sneaky sites can trap your mouse; some Web pages
+technological dirty tricks to grab, keep users”,
+by Danialle
+Florida Today,
+http://www.floridatoday.com/news/tech/stories/1999b/tt102799p.htm
+Federal Trade
+Commissioner v John Zuccarini (Civil Action 01 CV 4845) in the US
+District Court for the Eastern District of Pennsylvania)
+Restraining Order entered 26th September 2001.
+Under Section 5
+FTC Act (15 U.S.C.), which prohibits unfair or deceptive acts or
+in or affecting commerce. The Commission
+will find deception if there
+representation, omission, or practice that is likely to mislead the
+acting reasonably
+in the circumstances, to the consumer's detriment.
+See FTC Policy Statement on Deception, appended to Cliffdale
+Associates, Inc.,
+103 F.T.C. 110
+, 174 (1984). Note the similarity of s.
+Act (US) to s. 52
+Trade Practices Act
+(Cth) 1974.
+Spoof pages -
+including ‘doorway’ or
+‘redirect’ pages optimised
+specifically for search engines, ‘cloaking’
+actual site
+content by presenting to search engines an optimised page which is not
+which a visitor will see, and the ‘page-jacking’
+content from
+another site. http://ebizlogic.net/notes.php
+‘Seeding’ and
+‘mettatagging’ are discussed in
+“Competition on the Internet
+and the World Wide Web -
+The Schoolmasters’ of Gloucester
+case in the 21st
+Century”, Morris Averill
+(2004) 11 (3) Competition and
+Consumer Law
+Journal 300.
+“How the ‘Page Jacking’ and
+‘Mouse Trapping’ Web Scam
+Works” http://www.techlawjournal.com/internet/19990924b.htm
+obtained and executed search warrants in Australian. See “FTC
+Obtains Injunction of Page Jacking and Mouse Trapping
+http://www.techlawjournal.com/internet/19990924a.htm
+99-1367-A, Eastern District of Virginia) – Complaint filed on
+14 September
+1999. Preliminary Injunction issued on 21 September
+www.ftc.gov See also:
+http://www.techlawjournal.com/alert/2001/02/13.asp
+admits guilt, awaits sentence, 13/6/03 at www.silicon.com
+Mislabelling
+links - sending shopper to a destination other than indicated by the
+on which she or he clicks. http://ebizlogic.net/notes.php
+Page Guard Program from www.pjwalczak.com is a form of protection
+against this
+Changing home page or favourites -
+unauthorised alteration
+of the browser's homepage or unauthorised addition of a site to browser
+Favourites or Bookmarks. http://ebizlogic.net/notes.php
+Which inserted
+new sections 477 & 478 inserted into the
+Crimes Act 1914
+Computer Crime offences
+s.308, 308 A – 308 I - replacing the
+offences in ss. 309 & 310 of the
+Crimes Act 1900
+(1986) Cr App R
+[1993] FSR 168.
+parasite economy,
+Damien Cave 2 August 2001 www.salon.com ‘Spyware’
+piggybacks on
+Napster rivals, John Boland
+14 May 2001http://news.cnet.com Centre for
+Democracy & Technology (CDT) Report: "Ghosts in Our Machines:
+Background and
+Proposals on the "Spyware" Problem" November 2003
+http://www.cdt.org/
+“Spyware, adware, malware, thief: what's
+in a name?”, by Jerry Stern (2004), www.filetiger.com - also
+published by
+Masons Lawyers, 24/06/2004 at
+http://www.out-
+law.com/php/page.php?page_id=spywareadwaremal1088077115&area=news
+See Section 6.
+See you later,
+anti-Gators? Paul Festa, 22 October 2003,
+http://news.com.com/2100-1032- 5095051.html?tag=nl. Gator foe bitten,
+still not shy, Paul Fest, 1 December 2003,
+http://news.com.com/2100-1024-5112435.html
+Spyware law
+by pop-up ads firm, Masons Lawyers,
+http://www.out-law.com/php/page.php?page_id=spywarelawblocked1088077251&area=news
+http://www.le.state.ut.us/~2004/bills/hbillenr/hb0323.htm
+That is not
+‘diagnostic software’ – s (5) (a) of the
+definition.
+York-based company’s software exists
+on approximately 25 million computers, generated via WhenU’s
+software having been bundled with Kazaa’s P2P file
+A fuller description of the claims
+appears on the Web site of
+the Lawyers for WhenU: On April 12, 2004, Kronish Lieb Weiner &
+LLP filed a complaint on behalf of its client WhenU.com, Inc., a New
+based online contextual marketing company, seeking
+to enjoin the
+operation and
+effect of Utah’s recently enacted Spyware Control Act. The
+names as defendants the State
+of Utah and its Governor and Attorney
+General, and
+asserts that the Act violates the Dormant Commerce Clause and the First
+Amendments of the United States
+Constitution
+, the equal
+and freedom of expression provisions of the Utah
+Constitution
+preempted by the federal Copyright Act. The complaint seeks to enjoin
+as an unconstitutional effort to regulate Internet
+advertising;
+alternatively, it seeks damages from Utah on the ground that the Act
+constitutes
+an unconstitutional taking of property
+under the Utah
+Constitution
+http://www.kronishlieb.com/news.cfm?news_ID=111
+Spyware law
+pop-up ads firm, Masons Lawyers,
+http://www.out-law.com/php/page.php?page_id=spywarelawblocked1088077251&area=news
+District Court for the Western District of Oklahoma. See
+Competition on
+Internet and the World Wide Web - The Schoolmasters’ of
+Gloucester case in
+the 21st Century, Morris Averill
+(2004) 11 (3) Competition and Consumer
+Journal 300
+for a discussion of the Google case.
+http://www.leginfo.ca.gov/pub/bill/asm/ab_2751-
+2800/ab_2787_bill_20040623_amended_sen.html
+In June 2004, the U.S. House Subcommittee on Commerce, Trade and
+Protection approved a spyware bill called the Securely
+Protect Yourself
+Trespass Act
+(SPY ACT) that authorizes fines up to $3 million for
+companies that are found guilty of collecting personal information,
+Web browsers and delivering some pop-up advertisements to computer
+users without
+their consent. Senate Bill S.2145, Software Principles
+Yielding Better
+Consumer Knowledge (SPYBLOCK) Act, introduced in March2004, is "a bill
+regulate the unauthorized installation
+of computer software, to require
+disclosure to computer users of certain computer software features that
+pose a threat
+to user privacy, and for other purposes." It is
+cosponsored by
+senators Conrad Burns (R-Montana), Barbara Boxer (D-California),
+Clinton (D- New York) and Ron Wyden (D-Oregon).
+Spyware: The
+Spam? Jack M. Germain, TechNewsWorld , 06/26/04,
+http://www.technewsworld.com/story/34775.html
+Web users can
+also look to software solutions such as: The BHO Demon program (Browser
+Objects) from www.definitesolution.com
+to monitor programs in the BHO
+which may be benign or be ‘ad-ware’ or
+‘spy-ware’; The
+http://www.spybot.info/; The
+Ad-Aware program from www.lavasoft.nu
+further in Section
+Which would appear to be the
+intention of Subsection 5 (b) (i) of
+the Spyware Control Act of Utah.
+Unauthorized
+software downloads -
+unauthorized downloads of plug-ins, applets, embedded functions,
+advertising,
+etc., sometimes triggered
+simply by moving the cursor over a link.
+http://ebizlogic.net/notes.php
+Spyware: The
+Next Spam? Jack M.
+Germain, TechNewsWorld, 06/26/04,
+http://www.technewsworld.com/story/34775.html
+Gator-style
+'parasite on
+the Web' wins pop-up ad ruling, 03/07/03 Masons Lawyers,
+www.out- law.com
+FTC Obtains
+Order Barring Pop-up Spam Scam, Urges
+Consumers to Take Steps to Protect Themselves. Ads Tout Software to
+Pop-Ups – Like The Ones They’re Sending;
+Allegedly Exploited Microsoft Windows Messenger Service to Contact
+http://www.ftc.gov/opa/2003/11/dsquared.htm
+design of the Web site can be argued to be a compilation of literary
+artistic works. An Austrian court considered that the
+layout of a Web
+the result of creative work similar to the work of a graphic artist and
+the Web site design. Re: The layout of a Web
+Site [2003]
+ECC 3, p13, The Austrian Federal Supreme Court held that there was
+an infringement
+of copyright in the Web site design where the
+defendant’s Web designer created a Web site, which in all
+was the same as the plaintiffs. The court stated that
+protection is conditional on the work being individual and original.
+must stand out from the everyday. The creator of the work must show
+characteristics, particularly through the visual
+composition and
+working out
+of ideas and that graphics are copyright protected only if they are
+individual and original in that sense
+– That this applies to
+the layout of
+a Web site. Copyright protection depends on it being an individual
+is more likely to be available the more complex the
+construction of
+the Web site – at [15-18] & [22].
+publishers settle
+pop-up ads lawsuit 10 February 2003 and Gator-style 'parasite on the
+wins pop-up ad ruling, 03/07/03
+Masons Lawyers,
+www.out-law.com
+United Parcel
+Service, the world's biggest
+delivery company filed an action in September 2002 in Georgia, operates
+site that does
+not have third-party advertising. A particular objection
+pop-up ads was that ads for competitors were showing up on the UPS
+through the operation of the Gator software.
+Pop-up ads to
+court - Company files suit to prevent possible ban, Susan Decker
+and Katherine Reynolds Lewis 9/11/02 www.sanmateocountrytimes.com
+software allows Web users to store information and passwords to assist
+in the logging onto Web sites.
+publishers settle pop-up ads
+lawsuit 10/02/03 & Gator-style 'parasite on the Web' wins
+pop-up ad ruling,
+03/07/03 Masons
+Lawyers, www.out-law.com
+279 F Supp. 2d
+November 19, 2003 (03-cv-71906)
+United States District Court
+- Eastern District of Michigan.
+Civ. 8048 (DAB) (2003).
+The complaint
+is posted at:
+http://www.whenusucks.com/documents/uhaul_complaint.pdf
+Supp. 2d 723
+, 728 (E.D. Va., 2003).
+November 19,
+2003 (03-cv-71906)
+United States District Court - Eastern District of Michigan.
+defendant describes as ‘contextual marketing’ to
+consumers who have
+demonstrated some interest in a particular
+product or service by
+visiting a Web
+site. See [13] – [16].
+& Conclusion of Law II – at page 39.
+That WhenU has
+incorporated the plaintiffs’ Web site into a new
+“derivative
+work” (as defined in 17 U.S.C. §101).
+See Conclusion
+– A – at page 59.
+See Conclusion
+of Law II – A
+– at page 40.
+See Conclusion
+of Law II – A – 1
+– at page 41.
+See Conclusion
+of Law II – A – 2 a
+– at page 43 - 46.
+See Conclusion
+of Law II – A – 2 b
+– at page 46 – 47.
+identify the category of
+goods or services the Web user is interested in so that an appropriate
+“contextually relevant
+advertisement” can be sent
+user’s computer.
+See Conclusion
+of Law II – A – 2 c
+– at page 47.
+– [120] & See Conclusion of Law
+II – B- at page 51 – 59.
+(SDNY 02 Civ.
+At page 41. The Lanham Act
+prohibiting the use in commerce,
+without consent, of any “registered mark in connection with
+offering for sale, distribution or advertising of any goods,”
+that is likely to cause confusion - 15 USC §
+1114 (1) (1). The
+prohibits the infringement of any unregistered common law trademark -
+§ 1125 (a) (1)
+At pages 44,
+51, 52 & 59.
+pages 40 and 41.
+At page 73.
+At pages 85 and
+pages 34 – 35 and 38.
+At page 79.
+See Note 22,
+of Judgment. Note 23 describes a subsequent change of the wording of
+ad to state, “This is
+a WhenU offer and is not sponsored or
+displayed by
+the Web site you are visiting”.
+At page 75.
+(E.D. Mich.
+279 F Supp. 2d 723
+, 728 (E.D. Va.
+Note 43, at page 44.
+279 F Supp. 2d
+, 728 (E.D. Va., 2003).
+November 19,
+2003 (03-cv-71906) United States District Court - Eastern District
+of Michigan.
+(S.D.N.Y. 02
+Civ. 8048 (DAB) (2003).
+Abrasive Products Ltd v International General Electric Co
+[1975] 1 WLR
+Compaq Computer Corp v Dell Computer Corp
+[1992] FSR 93
+; Juniper Unit
+Managers Ltd v Johnson Fry Asset Managers plc (19/4/00) QBD
+(Unreported); DSG
+Retail v Comet Group plc
+[2002] FSR 58
+, 899 (HC Ch).
+Australia P/L v Gillette P/L (No 4) (2000) ATPR 41-751. (FCA) and on
+Gillette v Energiser Au P/L
+[2002] FCAFC 223
+(2002) 56 IPR 1.
+v Dyson Appliances Ltd (1999) Times LR, Feb 8. Trade libel and trade
+infringement - Dispute between rival vacuum cleaner
+manufacturers.
+Mitre 10 (NZ)
+Ltd v Benchmark Building Supplies Ltd (HC Auckland) 17/3/03,
+Rodney Hansen J: Trade Mark & copyright infringement
+breaches of the
+Fair Trading Act (NZ).
+Energiser Au P/L
+[2002] FCAFC 223
+(2002) 56 IPR 1
+– [22] Heerey J.
+protect spyware, Chris Wheham, 26/4/01, www.salon.com. The parasite
+Damien Cave, 2/8/01, www.salon.com. Spyware
+vs.anti-spyware, Damien
+26/4/02, www.salon.com.
+traffic through a Web site in order
+to detect which pages gets the most visitors.
+‘spammers’ to know whether an email has been opened
+confirming the address is valid in order
+to send future spam to that
+See “NAI Releases
+“Web Bug: Guidelines”,
+Brian Morrisey, November 26, 2000, www.internetnews.com The National
+Advertising
+Initiative (NAI) a coalition of US online as network
+operators and
+ad servers has issued voluntary guidelines for how Web sites and
+should use ‘Web bugs’ (or “Web
+beacons’ as described
+Trials set for Intel's embedded
+security, By Michael Kanellos
+& Tim Clark. 22/1/99,
+http://news.com.com/2100-1017-220536.html?legacy=cnet
+principal business of online profiling companies is "delivering
+advertising that can be tailored to consumers' declared
+or predicted
+characteristics or preferences." CDT’s Guide to online
+Getting Started: Online Tracking FAQ
+http://www.cdt.org/privacy/guide/start/track.html
+US Cases in
+dealing with Cookies & Web Bugs are summarised at
+http://profs.1p.findlaw.com/privacy/1f.html. See also Collier
+Scott, http://www.colshan.com/
+Serial Number Questions
+Answers: http://www.intel.com/support/processors/pentiumiii/psqa.htm
+Complaint to the Federal Trade Commission (FTC) In the matter of Intel
+III Processor Serial Number, February 26, 1999
+http://www.cdt.org/privacy/issues/pentium3/990226intelcomplaint.shtml,
+Supplemental Material, April 8, 1999,
+http://www.cdt.org/privacy/issues/pentium3/990408intelcomplaintsupp.shtml
+Complaint to the Federal Trade Commission (FTC) In the matter of Intel
+III Processor Serial Number, February 26, 1999
+http://www.cdt.org/privacy/issues/pentium3/990226intelcomplaint.shtml,
+Supplemental Material, April 8, 1999,
+http://www.cdt.org/privacy/issues/pentium3/990408intelcomplaintsupp.shtml
+The FTC subsequent held a public workshop considering online privacy in
+See http://www.cdt.org/privacy/FTC/profiling/
+Intel® processor serial number control utility is a
+Windows® program
+that enables or disables the reading of the
+Pentium III processor
+serial number
+by software. This allows users to control which software programs or
+have permission
+to read the processor's serial number and ensures that
+preference for the processor serial number setting is enforced. The
+default setting of the utility is to disable the reading of the
+processor serial
+http://www.intel.com/support/processors/pentiumiii/psover.htm
+http://www.cdt.org/resourcelibrary/Privacy/Tools/Browser_Test/ Snoop
+test: http://snoop.cdt.org/ Privacy.Net test: http://www.privacy.net/
+CDT’s Guide to online privacy – Getting Started:
+Online Tracking
+FAQ http://www.cdt.org/privacy/guide/start/track.html
+fair information practices www.ftc.gov. The practices of online
+companies were also the subject of a public
+workshop sponsored by the
+November 8, 1999 http://www.cdt.org/privacy/FTC/profiling/
+http://www.ftc.gov/reports/privacy2000/privacy2000.pdf
+http://www.ftc.gov/os/2000/06/onlineprofilingreportjune2000.pdf
+http://www.ftc.gov/os/2000/07/onlineprofiling.htm
+Noah Blumofe
+Pharmatrak, Inc; Global Communications, Inc; Pfizer, Inc (and other
+pharmaceutical companies)
+9, 18 (1st Cir. 2003) - on appeal
+F. Supp 2d 4
+, 12 (D. Mass. 2002).
+DirectTV, Inc v
+Tim Spokish, (Case No 6:03-cv-680-Orl-22DAB) US DC, Middle District of
+Florida, Orlando Division (19 February
+2004), which cites Pharmatrak
+analysis of
+the elements of 18 U.S.C. §2511 (1) (a) related to the
+interception of
+pay satellite
+television signals.
+DoubleClick, Inc Privacy
+154 F. Supp. 2d 479
+9S.D.N.Y. 2001. See also the Agreement
+the Attorneys General of the States of Arizona, California,
+Connecticut,
+Massachusetts,
+Michigan, New Jersey, New Mexico, New Your, Vermont
+Washington and Doubleclick, Inc (2002) www.findlaw.com
+165 F. Supp. 2d.
+1153 (W.D. Wash 2001).
+Griggs-Ryan
+[1990] USCA1 265
+(1st Cir. 1990).
+Berry v Funk
+[1998] USCADC 161
+146 F. 3d 1003 (D.C.
+1998) - Internal quotations omitted.
+case at page
+Berry v Funk
+[1998] USCADC 161
+146 F. 3d 1003
+1011 (D.C. Cir. 1998).
+L.M. Berry & Co
+[1983] USCA11 510
+704 F. 2d 577
+, 581 (11th Cir. 1983).
+‘Communication’ being defined in s. 6 to include
+“conversation
+and a message, and any part of a conversation or
+message, whether: (a)
+form of: … (ii) data …”
+107A – 107D
+Telecommunications (Interception) Act 1979
+(Cth), with
+Telecommunications Act 1997
+(Cth) also dealing with the use and
+disclosure of information intercepted while passing over a network or
+telecommunications facility
+regulated by that Act.
+http://www.privacy.gov.au/publications/is18_03_print.html
+http://europa.eu
+(2002/58/EC).
+Web bugs, hidden
+identifiers" and "other similar devices" that can enter the user's
+without the user's knowledge
+to access information, store hidden
+information or
+trace the user's activities (Recital 24).
+cookies law in
+force today in UK 11/12/03 Masons Lawyers http://www.out-
+law.com/php/page.php?page_id=spamandcookieslaw1071144231&area=news
+www.dataprotection.gov.uk
+sites, which allow
+‘hacking’ or ‘cracking’
+security measures, are an
+additional way in which credit
+card information and personal
+information can be
+obtained be obtained by people with the skill and the motivation to
+theft’ and subsequent fraudulent activity
+identity of other people.
+See the FTC
+information “ID Theft:
+When Bad Things Happen To Your Good Name”-
+http://www.consumer.gov/idtheft/ Identify
+Theft, Federal Reserve Bank
+Boston http://www.bos.frb.org/consumer/identity/idtheft.htm Department
+Justice – Identify
+Theft and Fraud information -
+http://www.privacyrights.org/identity.htm Privacy Rights Clearing House
+http://www.privacyrights.org/identity.htm
+Identity Theft Resource
+http://www.idtheftcenter.org/
+http://www.crimecommission.gov.au/
+See also the
+Joint Statutory
+Committee on the Australian Crime Commission (formerly the Joint
+Committee on
+the National Crime Authority)
+http://www.aph.gov.au/Senate/committee/acc_ctte/,
+which in 2003 reviewed recent trends and practices in Cybercrime.
+http://www.aph.gov.au/Senate/committee/acc_ctte/cybercrime/index.htm
+submission No. 23 to the Joint Statutory Committee on the Australian
+Crime Commission.
+http://www.aph.gov.au/Senate/committee/acc_ctte/cybercrime/submissions/sublist.htm
+Phishing protection for banks, Mark Sunner, Chief Technology Officer of
+MessageLabs, 15/04/2004, http://www.out-
+law.com/php/page.php?page_id=phishingprotection1082046132&area=news
+IDD dumping causing havoc for dial-up Internet users, Telephone
+Ombudsman 17/12/03
+http://www.tio.com.au/media_statements/RELEASES/2003/release_10.htm
+rebukes Australian Internet dumping prevention plan”
+& “Internet
+dumping burning unsuspected consumers”
+November 26, 2002
+www.zdnet.com.au
+charge a fee per minute for Internet
+access, otherwise the costs of the user’s access, the cost of
+the call to
+ISP (which may be an un-timed local call) and the cost ISP charges
+to user for access to the Internet.
+program, called an
+“auto-dialler” may be downloaded, without the
+knowledge, onto the user’s
+“auto-dialler” program may provide cause of
+window to appear asking if the user wants to continue
+However the
+users may remain ignorant as to the effect of clicking the
+‘yes’ button on the pop-up window.
+'190' number.
+Australian Communications Authority (ACA) is the
+regulator of the Australian telecommunications system under the
+Telecommunications Act 1997
+telephone companies
+– the “Carriers” (such as Telstra and
+Optus) and other
+telephone service providers licensed
+Telecommunications Act
+DCITA Media Release 13/3/03
+– Government Directs ACA on
+Internet Dumping www.dca.gov.au The new measures have been developed
+to consumer concern about the practice of Internet dumping and
+unexpected high
+bills for premium rate services. Premium
+rate services are content
+provided on the 190 number range or through 0011 (international)
+numbers. 'Internet dumping' occurs
+when, without the user's knowledge
+or consent,
+Internet dialler software transfers users from their current Internet
+(ISP) - which they have usually accessed using an untimed
+local call -
+to a premium rate telephone number. Most content services
+of this kind
+accessed in Australia through the 190 premium rate number range. The
+will require telecommunications
+carriers to bar access to premium rate
+provided through 190 numbers where the total premium rate bill exceeds
+per month. Consumers will be able to opt out of this scheme, but
+the first instance the call cap will apply to all residential
+Australia. The level of this cap will set by the ACA, subject to
+consultation. The ACA will also ensure telephone
+companies inform their
+customers about the risks associated with premium rate services, and
+pre-emptive action they can take
+to protect themselves from unexpected
+bills. The Government has also directed the ACA to investigate, as a
+other measures to address consumer concerns about unexpected
+bills and access to Internet diallers, including whether the premium
+service providers' self regulatory code of practice should be
+registered under
+Telecommunications Act 1997
+. Registration would allow the ACA to
+enforce the
+code through remedial directions. Premium rate service providers in
+already subject to a self- regulatory code of practice that deals
+supply and advertising of premium rate, telephone sex
+and Internet
+services using 190 numbers, as well as complaints handling
+procedures.”
+adopted from the Monty Python’s Flying
+Circus song (John Cleese, Michael Palin, et al), which is little more
+repartition of the word “Spam”, itself the brand
+name for canned
+meat owned by Hormel Foods of Austin, Minnesota. Extracts
+lyrics of the
+Monty Python song can be found at - Spam is luncheon meat, not e-mail,
+www.out- law.com
+And Professions Code, Section 17538.4 As amended by Assembly Bill 1676
+(approved by Governor September
+26, 1998) 17538.4. (a) No person or
+conducting business in this state shall facsimile (fax) or cause to be
+electronically
+mail (e-mail) or cause to be e-mailed, documents
+consisting of
+unsolicited advertising material for the lease, sale, rental, gift
+other disposition of any realty, goods, services, or extension of
+credit unless
+pursue spam case, 31/3/03
+www.zdnet.com.au
+http://scaleplus.law.gov.au/html/bills/0/2003/0/2003091906.htm
+Coalition Against Unsolicited Bulk Email, Australia
+http://www.caube.org.au/australia.htm
+States set to
+legalise spanning on 1 January
+2004 http://www.spamhaus.org/news.lasso?article=150
+cookies law in force today in UK 11/12/03 Masons Lawyers
+http://www.out-
+law.com/php/page.php?page_id=spamandcookieslaw1071144231&area=news
+Britain bungles anti-spam law
+http://www.spamhaus.org/news.lasso?article=11
+County Court,
+30 October 2000, Judge Schott (unreported). Discussed by Amin El-
+“Australian Spam Legislation”,
+University of
+Western Sydney 2003
+(unpublished).
+Mortgage Scam Halted
+http://www.ftc.gov/opa/2003/12/30mm2.htm In January 2003, the FTC filed
+complaint in U.S. District
+court charging that 30 Minute Mortgage Inc.
+and maintained Web sites where it advertised “3.95% 30 Year
+and described itself as a “national
+lender.” The FTC charged that the company urged potential
+customers to
+detailed online loan applications that included such
+information as
+social security numbers, income, and assets. The company assured
+consumers that
+their sensitive information would be protected because it would be
+transmitted using Secure Sockets Layer (SSL) technology.
+alleged that
+30 Minute Mortgage was not a “national mortgage
+lender” and did
+not offer 3.95% 30-year loans. Instead,
+the company allegedly sold or
+offered to sell thousands of completed applications to non-affiliated
+parties without consumers’
+consent. The FTC also alleged that
+consumers’ sensitive personal and financial information was
+not protected
+in transmission
+because the Web sites at times did not use SSL or other
+encryption technology."
+FTC Settles
+with Two Florida Spammers,
+Reuters, 9/12/03
+http://story.news.yahoo.com/news?tmpl=story&cid=582&e=2&u=/nm/20031209/wr_nm/tech_spa
+At [29] – [31]
+applying Desktop Marketing Systems Pty Ltd v
+Telstra Corporation Ltd (2002) 119 FCR 491.
+referring to
+Principle 1 of the NPPs.
+The Ancient Doctrine of Trespass
+to Web Sites, Trotter Hardy,
+1996 Online L. article 7.
+www.wm.edu/law/publications/jol/95_96/hardy.html
+through trespass to goods, Rollo T
+(2001) 8 PLPR 77.
+Developments
+in Australian Spam Law, Jeremy Malcolm http://www.isoc-
+au.org.au/Spam/SpamLaw.html
+[1946] HCA 46
+[1993] FSR 168.
+[1946] HCA 46
+[1946] HCA 46
+(1946) 74 CLR 204.
+The bottles
+had the words upon them, in raised
+letters moulded upon the glass: "This bottle is the property of
+Penfolds Wines
+or "This bottle always remains the property of Penfolds Wines
+Dixon J stating: “In
+English law what amounts to an
+infringement upon the possessory and proprietary rights of the owner of
+chattel personal is a question still governed by categories of specific
+wrong. Trespass was the wrong upon which reliance appeared
+to be placed
+in support of the appeal when it was opened, but, in the end, it seemed
+conceded that this cause of action was
+untenable. I think that it is
+quite clear
+that trespass would not lie for anything which the foregoing facts
+Trespass is
+a wrong to possession. But, on the part of the respondent,
+was never any invasion of possession. At the time he filled the
+bottles his
+brother left with him, he himself was in possession of them. If the
+bottles had
+been out of his own possession and
+in the possession of some other
+person, then
+to lift the bottles up against the will of that person and to fill them
+have amounted to trespasses. The reason is that the movement
+bottles and the use of them as receptacles are invasions of the
+possession of
+the second person. But they are things which the man possessed of the
+may do without committing trespass. The
+respondent came into possession
+bottles without trespass. For his brother delivered possession to him
+bottles specifically
+in question. In the same way, if any other
+customer ever
+left bottles of the appellant with him for wine to be poured into them,
+customers must have similarly delivered possession of the bottles to
+the respondent. His possession of the appellants' bottles
+never trespassory”.
+The tort of
+‘passing off’ was
+not a cause of action at issue in the appeal.
+recover damages from a person who has taken goods or property from its
+owner http://www.thefreedictionary.com/trespass
+“It is pointed out in Salmond on Torts, 10th ed. (1945), pp.
+279, 280, by
+W. T. S. Stallybrass, that there
+are three distinct methods in which
+may deprive another of his property. 1, by wrongly taking it; 2, by
+it; and 3, by wrongly disposing of it; and that corresponding
+three modes of wrongful deprivation there were three distinct
+provided by the law: —1, trespass de bonis asportatis, for
+taking; 2, detinue, for wrongful detention;
+and 3, trover, for wrongful
+conversion (that is to say disposal).”
+with force and
+arms resulting in injury to another’s person or
+property http://www.hyperdictionary.com/dictionary/trespass+viet+armis
+No. 1390/1987 Judgment No. A34/1995
+[1995] TASSC 62
+(1995) Aust Torts Reports 81-349
+(S.D. Ohio 1997) 962 F.
+Corporation v Ken Hamidi S103781 Superior Court No.
+1997) 962 F. Supp.1015.
+Super. Ct No
+98S05067 CofA State of California, 3rd Appellate District –
+Sacramento - 10 December 2001. Appeal heard in the
+Supreme Court of
+California on 2nd March 2003.
+1998) 24 F. Supp.
+, 550-551; AOL v LCGM (ED. Va
+1998) 46 F. Supp. 444
+, 449; Compuserve
+–v- Cyberpromotions (S.D. Ohio 1997) 962 F. Supp.1015.
+Bidder’s Edge (N. D. Cal.
+2000) 100 F. Supp. 2d 1058):
+Register.com
+v Verio (SDNY
+2000) 126 F. Supp. 2d 1058
+, 1066, 1071 The grant of an
+preliminary injunction was up-held on appeal to the 2nd U.S. Circuit
+Appeals: 2nd Circuit Upholds
+Injunction on Web Hosting Firm, Mark
+January 27, 2004, New York Law Journal
+http://biz.yahoo.com/law/040127/37279d61f112d3b96d1be8ef3b993aa5_1.html
+Arising under the First Amendment of the US
+Constitution
+See information
+at www.eff.org
+Corporation v Ken Hamidi S103781 Superior Court
+No. 98AS05067.
+Intel cannot
+use trespass law to block e-mail,
+01/07/2003 Masons Lawyers, www.out-law.com
+1997) 962 F.
+Derived from
+the writ of trespass vi et armis.
+Lathan CJ in
+Penfolds Wines v Elliott
+[1946] HCA 46
+(1946) 74 CLR 204
+stating, “[a] mere
+taking or asportation of a chattel may be a trespass without the
+of any material damage.”
+Zeeman J expressing the same opinion
+Russell Ashby Pargiter v Vincent Harley Alexander No. 1390/1987
+Judgment No.
+[1995] TASSC 62
+(1995) Aust Torts Reports 81-349
+(1995) 5 Tas R 158
+The terms ‘data
+warehousing’ and ‘data
+mining’ have emerged to describe the storage and analysis of
+in order to deduce valuable
+‘information’ from
+the database.
+Print (pretty)
+Print (eco-friendly)
+No downloadable files available
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

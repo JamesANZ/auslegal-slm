@@ -1,0 +1,196 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/ANZCompuLawJl/2022/11.html
+Scraped: 2025-11-17 14:14:02
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Di Marco, Benjamin; Kumar, Anthony --- "Dedicated Cyber Insurance or Bust Lessons from Inchcape" [2022] ANZCompuLawJl 11; (2022) 94 Computers & Law, Article 11
+I UNDERSTANDING THE KEY EXPOSURES
+II CYBER RISKS IMPACT INSURANCE PROGRAMS AS A WHOLE
+III WHY CYBER RISK AND INSURANCE EXPERTISE IS CRITICAL
+DEDICATED CYBER INSURANCE OR BUST –
+LESSONS FROM INCHCAPE
+BENJAMIN DI
+AND ANTHONY
+Blended insurance products commonly used to cover emerging specialist risks
+such as cyber are increasingly likely to leave insured
+organisations without
+adequate protection.
+The recent decision of
+Inchcape Australia Limited v Chubb Insurance
+Australia Limited
+[2022] FCA 883
+, demonstrates that organisations must
+purchase specialised cyber insurance policies, to effectively cover the losses
+and exposures
+caused by cyberattacks and ransomware threats.
+In this case Inchcape sought cover for ransomware losses under an Electronic
+and Computer Crime (ECC) policy. This blended insurance
+covers commonly found in
+crime policies for funds transfer, redirection, and push payment frauds,
+together with insuring clauses
+for direct financial loss arising from computer
+viruses and the modification of electronic data and electronic media.
+Unfortunately, the ECC policy did not include any of the core insurance
+clauses found in market standard cyber liability insurance
+policies. Because it
+lacked proper cyber insurance coverage, the court found that Inchcape was unable
+to use the policy to recover
+losses sustained after a major ransomware
+I UNDERSTANDING THE KEY
+Blended insurance products like Inchcape’s ECC policy are common in the
+market and often attempt to cover both traditional risks
+as well as emerging
+specialist risks such as cyber liability.
+By their nature, blended products contain narrower insuring clauses, when
+compared against comprehensive risk specific wordings. Despite
+this, blended
+products can be attractive to organisations, and in some cases are more
+cost-effective than pursuing specialist risk
+policies such as a cyber insurance
+policy. They may also be easier to obtain than specialist products, as they
+often require fewer
+underwriting questions to be answered.
+However, as the Inchcape decision demonstrates, blended products
+can leave significant uninsured gaps in insurance programs, unless
+carefully analysed against an organisation’s key exposures and matched to
+specific insurance needs.
+In this case, Inchcape sought coverage for financial loss sustained following
+a ransomware attack which included:
+1. repairs and/or replacement of hardware, software, and data, including
+investigation costs
+2. hardware and data recovery costs
+3. resource and additional staffing
+All of these would have been affirmatively covered under a specialist cyber
+liability insurance policy and are losses commonly sustained
+ransomware attacks. The court found that Inchcape, in relying on an ECC policy,
+was not covered for the ransomware
+Where other organisations have included blended wordings in their insurance
+programs or have failed to procure a specialist cyber
+insurance policy, they
+will be exposed to a similar uninsured fate. Given the Inchcape decision, each
+organisation should carefully
+investigate whether they hold sufficient insurance
+that appropriately addresses their realistic cyber exposures and consider the
+need for specialist cyber insurance.
+II CYBER RISKS IMPACT
+INSURANCE PROGRAMS AS A WHOLE
+The Inchcape decision
+also highlights the need to examine how an
+organisation’s entire insurance program collectively responds to cyber and
+risks. WTW’s recent Global Directors Liability Report
+identified that cyber-related issues were the top risk concerns for respondents
+for 2022 with 65% saying the risk of cyberattacks was “very
+significant” or “extremely significant,” and
+59% saying they
+fear a “very significant” or “extremely significant”
+exposure to cyber extortion
+In handing down the Inchcape
+decision, Justice Jagot highlighted that
+cover under the ECC policy was limited to the “direct financial
+loss” sustained
+While this language is
+common in crime policies, it is immediately problematic for claims caused by a
+cyber event, because the nature
+and extent of a cyber loss is determined by:
+• the intervening steps taken by the insured after the attack including
+how they investigate the suspected incident
+• any decisions taken to shut down and isolate parts of their IT
+environment
+• the extent of engagement with the malicious actor
+• the type of restoration work performed.
+These intervening acts reduce the proximate cause, and add an element of
+indirect or consequential losses, which make wordings like
+those under the ECC
+policy significantly less likely to respond.
+Some cyber events will however create direct financial losses, particularly
+where an authentication compromise or fraudulent instructions
+result in the
+organisation losing or transferring funds to an incorrect party.
+Similar tensions can also arise in situations where an organisation’s
+cyber and technology exposures may also create liabilities
+under Directors and
+Officers, Professional Indemnity, and Property Insurance. In some cases, covers
+may be impacted by specific cyber
+exclusions which are commonly being added to
+traditional wordings. This makes obtaining overall coverage for technology risk
+difficult, and often requires a higher level of expert advice so that the
+organisation is properly advised on best-in-class insurance
+options and
+potential areas of risk that are not insurable. Without this advice, it is
+difficult for the organisation to make an
+informed risk management decision.
+For large and complex organisations, there is often strong benefit to engage
+with your broker to examine how all the relevant wording
+interplays, and the
+extent to which technology exposures may require multiple insurance policies to
+address key exposures.
+III WHY CYBER RISK AND
+INSURANCE EXPERTISE IS CRITICAL
+The Inchcape judgment demonstrates that cyber risk management and cyber
+insurance are complex matters. Indeed, in parts of the ruling,
+it appears that
+even the Court struggled with the intricacies of cyber incident response
+management and misunderstood how certain
+triage tasks were conducted directly
+following the ransomware event.
+Cyber security and risk management is a new industry, and few experts know
+how to properly bridge these topics. Cyber insurance is
+particularly complex, as
+it requires knowledge of both the cyber risk landscape and rapidly evolving
+insurance products created to
+meet this risk.
+In the current market there is significant variance between the insurance
+policies offered by different carriers, and the underwriting
+information
+required to obtain cyber insurance. Those wordings which seem cheaper or easier
+to obtain, and often deliberately drafted
+to reduce the insurer’s
+exposure. These solutions may be suitable in some instances, but if they are not
+properly scrutinised,
+can result in the insurance program failing to meet cyber
+Had Inchcape obtained support from a dedicated cyber insurance expert it is
+unlikely an ECC policy would have been recommended as:
+1. It contained extremely narrow causation language requiring both that
+Inchcape suffered direct financial loss, and further that
+this must directly
+arise from a small numbered of covered incidents;
+2. The wording did not properly call out the incident response costs and
+steps which Inchcape would need to perform following a major
+cyber event, or the
+key ransomware losses that the organisation would suffer;
+3. The insuring clauses in the policy did not address the range of malicious
+acts which are commonly employed by modern ransomware
+and cyber threat
+4. Hurdles in the policy that required damaged or destroyed electronic data,
+electronic media, or electronic instruction, do not reflect
+how most modern
+cyberattacks and cyberextortions are performed. This created further coverage
+uncertainty; and
+5. General conditions in the wording imposed significant limitation of the
+covers in the policy relevant to cyber events.
+Technology Risk Specialist, WTW.
+Senior Associate, Cyber
+and Technology, WTW.
+Inchcape Australia
+Limited v Chubb Insurance Australia Limited
+[2022] FCA 883
+[15] (Jagot J) (‘
+Ibid 43 – 47.
+John Moran and Marc Voses,
+Directors’ Liability Survey 2022 April 2022
+(Report), p 33
+<https://www.wtwco.com/-/media/WTW/Insights/2022/04/directors-liability-survey-2022.pdf?modified=20220523170432>.
+(no 1) [41]
+Print (pretty)
+Print (eco-friendly)
+RTF format (178 KB)
+PDF format (164 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

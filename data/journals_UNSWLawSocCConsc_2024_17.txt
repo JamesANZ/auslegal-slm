@@ -1,0 +1,514 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/UNSWLawSocCConsc/2024/17.html
+Scraped: 2025-11-17 15:47:39
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Urbas, Gregor --- "Regulating Artificial Intelligence: the Challenge of Deepfake Imagery" [2024] UNSWLawSocCConsc 17; (2024) 18 UNSW Law Society Court of Conscience 121
+REGULATING ARTIFICIAL INTELLIGENCE:
+THE CHALLENGE OF DEEPFAKE IMAGERY
+Gregor Urbas
+I Introduction
+Regulating the use of artificial intelligence (‘AI’) poses
+challenges for legislators, policy makers and technicians.
+There is no single
+agreed approach, either across jurisdictions or industry sectors. For more
+sensitive and risk-laden applications
+of AI, such as in transport, health and
+security, a more prescriptive and centralised regulatory approach is required.
+However, in
+social or creative domains, greater latitude can be expected, and
+self-regulation may be sufficient to address potential misuses.
+Often, regulation follows technological development and commercialisation.
+This is evident in the rapid emergence into public consciousness
+of generative
+AI tools such as ChatGPT, released as a demo in late 2022 and gaining millions
+of users within months.
+similar AI tools, allowing the creation of not only text-based but also visual
+content, have been experimented with by children
+as well as adults, sometimes
+with unintended consequences. One such phenomenon is deepfakes.
+The terminology can be explained as
+deepfake AI is a type
+of artificial intelligence used to create convincing images, audio and
+video hoaxes. The term describes both
+the technology and the resulting bogus
+content, and is a portmanteau of deep learning and fake. Deepfakes
+often transform existing
+source content where one person is swapped for
+Particular concerns attach to the creation and distribution of deepfake
+pornographic images of children or non-consenting
+A recent example was widely
+reported in Australia:
+In a world of AI and deepfakes, there have been more and more distressing
+cases of fake pornographic images spreading on the internet.
+The latest incident
+has prompted a police investigation after at least 50 girls from a Victorian
+school had their pictures manipulated
+to make nude photos.
+To some extent, legislation addressing non-consensual distribution of
+intimate images enacted in the decade or so prior to the emergence
+pornographic deepfake AI may already
+but legislators have taken
+the step of introducing amendments to ensure that the phenomenon is
+This article examines
+recent Commonwealth amendments directed at this kind of
+II Commonwealth Criminal Code Offences
+Although under Australian law, criminal offences exist at national as well as
+state and territory levels, the dominant force in relation
+to online content
+offences is the
+Criminal Code Act 1995
+Commonwealth
+Criminal Code
+its expansion to cover computer offences and offences involving
+telecommunications, it has evolved to encompass a wide range
+generally referred to as
+cybercrime.
+The Commonwealth’s version of the non-consensual distribution of
+intimate images offence build on the general offence of using
+a carriage service
+to menace, harass or cause
+474.17 Using a carriage service to menace, harass or
+cause offence
+(1) A person commits an offence if:
+(a) the person uses a carriage service; and
+(b) the person does so in a way (whether by the method of
+use or the content of a communication, or both) that reasonable persons
+regard as being, in all the circumstances, menacing, harassing or offensive.
+Penalty: Imprisonment for 5 years.
+Where the offence involves the use of a carriage service to post
+‘private sexual material’ then an aggravated form
+474.17A Aggravated offences involving private sexual
+material--using a carriage service to menace, harass or cause offence
+(1) A person commits an offence against this subsection
+(a) the person commits an offence (the
+) against subsection 474.17(1); and
+(b) the commission of the underlying offence involves the
+transmission, making available, publication, distribution, advertisement
+promotion of material; and
+(c) the material is private sexual material.
+Penalty: Imprisonment for 6 years.
+The definition of ‘private sexual material’ was found in an
+introductory provision, and related to sexual depiction of
+activities, including material that ‘depicts a person who is, or appears
+to be, 18 years of age or older and who
+is engaged in, or appears to be engaged
+in, a sexual pose or sexual activity (whether or not in the presence of other
+persons); and
+... does so in circumstances that reasonable persons would regard
+as giving rise to an expectation of
+In order to ensure that these definitions and offences cover AI deepfakes,
+Criminal Code Amendment (Deepfake Sexual Material) Act 2024
+been enacted. This creates a new offence dispensing with the definition of
+‘private sexual material’ and substantially
+amending s 474.17A by
+more directly incorporating the text of that definition within the offence,
+replicated in subsection (1) and
+also adding a subsection clarifying that the
+offence applies to AI deepfake
+474.17A Using a carriage service to transmit sexual material
+without consent
+(1) A person (the
+first person
+) commits an offence if:
+(a) the first person uses a
+carriage service to transmit material of another person; and
+(b) the other person is, or
+appears to be, 18 years of age or older; and
+(c) the material depicts, or
+appears to depict:
+the other person engaging in a sexual pose or sexual activity (whether or not in
+the presence of other persons);
+a sexual organ or the anal region of the other person; or
+if the other person is female—the other person’s breasts; and
+(d) the first
+knows that the other person does not consent to the transmission of the
+material; or
+is reckless as to whether the other person consents to the transmission of the
+Note: For material that relates to a person who is, or appears to be,
+under 18 years of age, see:
+(a) the definition of
+child abuse
+(b) the offences relating to child abuse material in
+Subdivision D.
+Penalty: Imprisonment for 6 years.
+(2) For the purposes of subsection (1), it is irrelevant whether the material
+transmitted:
+(a) is in an unaltered form; or
+(b) has been created, or altered in any way, using technology.
+Note: Paragraph (b) includes images, videos or audio depicting a person that
+have been edited or entirely created using digital technology
+artificial intelligence), generating a realistic but false depiction of the
+person. Examples of such material are “deepfakes”.
+The Explanatory Memorandum to the Bill attempts to make clear that the
+offence can only apply where an AI deepfake depicts an actual
+person, as opposed
+to a purely fictitious creation. This is contrasted with the treatment of child
+abuse material under the Code,
+which does include purely fictitious, even
+cartoon-like representations of children in sexual
+The use of the phrase ‘appears to depict’ is intended to cover
+material where the depiction reasonably or closely resembles
+an individual to
+the point that it could be mistaken for them. It ensures that the offence
+applies where an image is obviously a
+representation of a real person, but for
+minor alterations to, for example, use AI or other technology to smooth the
+appearance of
+the person’s skin or edit out a mole.
+The Note under subsection 474.17A(2) make clear that material created or
+altered in any way using technology, includes images, videos
+or audio depicting
+a person that has been edited or entirely created using technology, generating a
+realistic but false depiction
+of the person. Examples of such material are
+‘deepfakes’ which can manipulate the movements or voices of an
+person. It is not the intention to capture manipulations of images,
+audio or videos that are entirely fake or depict people who do
+The mechanism that is relied on to ensure that the offence extends only to
+the depiction or AI-based manipulation of a depiction of
+a real person, and not
+’entirely fake’ depictions, is the requirement of lack of consent on
+the part of the person depicted
+for criminal liability to
+The Bill repeals previous offences in the Criminal Code dealing with
+non-consensual sharing of private sexual material. The new offences
+are based on
+a 'consent' model to better cover both artificial and real sexual material.
+Two aggravated offences are added in proposed s 474.17AA, the first involving
+repeated breaches of the offence found in s 474.17A(1),
+and the second where a
+person commits that base offence and ‘the person was responsible for the
+creation or alteration of the
+material’. Each aggravated offence carries a
+penalty of seven years’ imprisonment. This penalty is explained as
+This reflects the inclusion of the additional element in the aggravated
+offence that the person intentionally created the material
+before intentionally
+transmitting it, knowing or reckless as to the lack of consent. This is
+objectively more serious than a situation
+where a person transmits pre-existing
+material without consent. The maximum penalty will send a strong message that
+the creation
+and distribution of sexually explicit material without consent is a
+serious, malicious harm. The penalty is proportionate as it recognises
+creation of this material, particularly where they are false depictions such as
+deepfakes, can be used as tools for sexual
+exploitation, extortion and
+harassment.
+III Discussion
+There is a challenge for legislators addressing new technologies such as
+AI-generated visual content, arising partly from the societal
+permissiveness
+usually extended to adult pornography, contrasted with the general condemnation
+of child abuse material or other abusive
+Touchstones for
+demarcation between lawful and unlawful conduct are age, consent and
+offensiveness.
+Age-based demarcations are an unavoidable but blunt instrument and are not
+applied consistently. For example, the age limit for ‘child
+material’ as defined in Commonwealth legislation and some State or
+Territory jurisdictions is 18 years, while in others
+Moreover, the age limit
+for consensual sexual activity often diverges from that for recording or
+dissemination of a recording of
+Some jurisdictions
+have also created exemptions for teen ‘sexting’ and other online
+activity that does not amount to
+non-consensual
+distribution.
+As outlined above,
+the proposed new offence in s 474.17A explicitly adopts the age limit of 18
+years or older for subjects of transmitted
+material, leaving the existing child
+abuse material offences to cover sexual depictions of subjects under 18 years,
+and relies on
+recklessness as to non-consent as the main fault element.
+However, this approach is not without its difficulties. The first is, as the
+Explanatory Memorandum makes clear, that it is assumed
+that the offence will not
+apply to purely fictional sexual depictions of a person. The wording in s
+474.17A(1) is ‘another
+person’. However, the term
+‘person’ is not defined in the
+Commonwealth Criminal
+’s Dictionary to be restricted only to existing human beings, and
+the only definition found there extends it to bodies politic
+and corporate, via
+Acts Interpretation Act 1901
+In the case of
+McEwen v Simmons
+, the Magistrate and on appeal the
+Supreme Court judge dealing with the term ‘person’ as used in the
+Commonwealth Criminal Code
+’s then definition of ‘child
+pornography material’ also cited the
+Acts Interpretation Act 1901
+(Cth) and other material, and concluded that it extended to fictional
+representations, in that case crudely altered cartoon images
+Once it is accepted that the “person” may be fictional or
+imaginary and may be depicted by a drawing, it follows that
+a cartoon character
+might well constitute the depiction of such a “person”. This
+has the consequence, as I have endeavoured
+to show that the phrase
+“depicts a person” ... fall[s] within the statutory definition.
+This reasoning indicates the difficulty with any assumption that an
+AI-generated depiction will not be interpreted by courts to be
+a depiction of a
+‘person’ although not based on an image of a real person. For
+example, a former intimate partner of
+a real woman may seek to humiliate her by
+altering her image in consensually obtained intimate material and post it to a
+social media
+platform. This is the kind of activity often referred to as
+‘revenge porn’ and criminalised under s 474.17A. The offence
+to the superimposition of a real subject’s face onto unrelated
+pornographic imagery. However, the same former intimate
+partner can use AI to
+generate a fictitious image based on a few prompts as input, resulting in a
+pornographic product that may resemble
+his former partner. The Explanatory
+Memorandum suggests that criminal liability will only attach where the depiction
+is so similar
+to a person, who does not consent to its transmission, that
+‘it could be mistaken for
+This appears to rely on an objective test of visual similarity, not on a
+subjective factor of misuse of a real person’s image,
+which opens up the
+possibility that criminal liability might attach to a purely adventitious
+similarity which was not intended or
+contemplated by the person charged. It
+might be argued that such a scenario is negated by the consent provisions, but
+this far from
+clear. There is no requirement in proposed new s 474.17A that a
+person depicted in AI-generated material, or closely resembling a
+depicted, did not consent to its transmission. The requirement is only that the
+person charged knew or was reckless as
+to the absence of consent, which includes
+reckless inadvertence in the form of not turning his or her mind to the question
+of non-consent,
+due to s 474.17A(5). Where the knowledge limb is relied on, then
+by necessary implication there must have been a lack of consent,
+but this does
+not hold equally for the recklessness alternative, as it is possibly to be
+reckless to a circumstance or result which
+does not in fact
+Indeed, it appears that criminal liability may also attach in situations
+where a person depicted could not consent, as the person
+no longer exists.
+Transmission of AI-generated pornographic images of a deceased subject, such as
+a historical figure may suffice,
+despite the impossibility of getting consent.
+All that is required is that the person charged was reckless as to non-consent,
+did not turn a mind to the question of non-consent. This brings into focus a
+tension between seeking to prevent harm and maintenance
+of free speech. While
+the sexual objectification of historical figures may be in poor taste and might
+in some instances be regarded
+as offensive, that should not suffice on its own
+for criminalisation unless some more meaningful harm is caused or threatened, or
+at least if there is to be criminalisation, then this should be based more
+explicitly on considerations of obscenity or offensiveness
+rather than
+recklessness as to some hypothetical lack of consent.
+It should also be observed that the new s 474.17A offence differs from its
+predecessor in not building on the underlying s 474.17
+offence which
+incorporates the element of offensiveness. There is no such requirement in the
+new offence, presumably because the
+non-consensual transmission of sexual
+material would be considered harassing or offensive in many
+However, as noted
+above, there is no actual non-consent element of the new offence, only the
+element of knowing or being reckless
+as to lack of consent. Whether the
+departure from an offensiveness requirement in favour of a recklessness element
+in relation to
+non-consent is appropriate is open to question.
+Finally, the aggravated form of the offence for creation of the offensive
+content sits uncomfortably with the primary offence of transmission.
+content of the material is problematic, then its creation should be a separate
+offence rather than an aggravating factor in
+a transmission
+As the offence now
+stands, liability simply does not attach where a person knowingly creates
+non-consensual sexual imagery but for
+whatever reason does not transmit it to
+another person. Conversely, if the matter justifying criminalisation is
+non-consensual transmission,
+then the added step of content creation, including
+through the use of AI, is not clearly relevant to the harm caused.
+IV Conclusion
+Criminal Code Amendment (Deepfake Sexual Material) Act 2024
+illustrates the challenges of regulating AI-generated material appropriately.
+While this reform adds to the
+Commonwealth Criminal Code
+, it does so in a
+way that insufficiently demarcates transmission of sexual content that involves
+real persons, without their consent,
+from material that merely resembles such
+content. This is in part due to the absence of a clear definition of what
+constitutes a
+‘person’ depicted in such material, and any
+requirement that there be non-consent from a person capable of consenting
+such transmission, and instead an over-reliance on recklessness as to
+non-consent as a fault element, including reckless inadvertence.
+Further, the
+absence of an offensiveness element risks the new offence being overly broad in
+its potential application, while the
+absence of a separate offence of
+non-consensual creation of deepfake sexual material may emerge as a legislative
+Dr Gregor Urbas is a legal academic, barrister and Special
+Magistrate based in the Australian Capital Territory and is an Adjunct
+at Charles Sturt University.
+Bernard Marr, ‘A Short History of ChatGPT: How We Got to
+Where We Are Today’,
+(online, 19 May 2023)
+<https://www.forbes.com/sites/bernardmarr/2023/05/19/a-short-history-of-chatgpt-how-we-got-to-where-we-are-today/>.
+Nick Barney, Kinzar Yasar and
+Ivy Wigmore, ‘What is Deepfake Technology?’,
+Page) <https://www.techtarget.com/whatis/definition/deepfake>.
+Research from 2019 indicates
+that around 96% of deepfakes were pornographic, with an overwhelming amount used
+to target females:
+Henry Ajder et al,
+The State of Deepfakes
+September 2019) 1.
+It was reported that a teenager
+had been arrested and later released pending investigation: Alison Xiao,
+‘Calls to Tackle Deepfake
+Pornography After 50 Students Targeted’,
+Australian Broadcasting Corporation
+(Web Page, 12 June 2024)
+<https://www.abc.net.au/listen/programs/worldtoday/calls-to-tackle-deepfake-pornography-after-50-students-targeted/103968834>.
+State and territory legislation
+Crimes Act 1900
+– Intimate image abuse, added
+Crimes Act 1900
+div 15C, added in 2017; and
+Crimes Act 1958
+div. 1 sub-div 8FAAB, added in 2022
+and replacing offences previously in
+Summary Offences Act 1966
+in 2022 includes the example of superimposition of a
+person’s face.
+The Criminal Code Amendment
+(Deepfake Sexual Material) Bill
+2024 (Cth), introduced in the Parliament
+of Australia on 5 June 2024, was passed and received assent on 2 September 2024
+with effect
+on the following day.
+Criminal Code Act 1995
+(Cth) pt 10.6 – Telecommunications Services and pt 10.7 - Computer
+Gregor Urbas,
+Cybercrime:
+Legislation, Cases and Commentary
+(LexisNexis Butterworths, 3
+ed, 2023) (‘
+Cybercrime: Legislation, Cases and
+Criminal Code Act
+(Cth) s 474.17 was introduced in 2004 with the main amendment being to
+increase the penalty level. Offensiveness is assessed by reference
+standards of morality, decency and propriety generally accepted by reasonable
+adults’ among other factors: s
+This ‘standard
+aggravated offence’ was added in 2018 and a ‘special aggravated
+offence’ involving multiple
+breaches of civil penalty orders including
+Online Safety Act 2021
+(Cth) was added in 2021. The offence was
+recommended by a Parliamentary inquiry into ‘revenge porn’ in 2016:
+Senate Legal
+and Constitutional Affairs Committee, Parliament of Australia,
+Phenomenon Colloquially Referred to as 'Revenge Porn
+(Report, February 2016)
+37. An example of its application is
+Singh v The Queen
+[2021] WASCA
+Formerly in
+Criminal Code
+(Cth) s 473.1, which also includes the definition of ‘child
+abuse material’.
+Criminal Code Amendment
+(Deepfake Sexual Material) Act 2024
+(Cth). Not reproduced above are ss (3)
+which deals with statutory exceptions, ss (4) which defines
+‘transmit’ and ss
+(5) which provides that recklessness extends to
+‘not giving any thought to whether or not the person is
+consenting’.
+Explanatory Memorandum,
+Criminal Code Amendment (Deepfake Sexual Material) Bill 2024 12 [64], [67]
+(‘Explanatory Memorandum’).
+The contrast with depictions of children
+is addressed in 11 [60]–[61] where it is noted that child abuse material
+in the Code extend to ‘AI-generated, or animated child abuse
+material’. The case of
+McEwen v Simmons
+[2008] NSWSC 1292
+(2008) 73 NSWLR 10
+involved modified cartoons based on ‘The Simpsons’ TV series,
+illustrates and is discussed further below.
+Commonwealth,
+Parliamentary Debates
+, House of Representatives, 5 June 2024 (Mark
+Dreyfus, Attorney-General). This approach was criticised in the Second
+Speech of the Opposition on the same day, with closer scrutiny of the
+Bill’s unintended consequences urged, including its reliance
+recklessness as to non-consent.
+Explanatory Memorandum (n
+14) 17 [100].
+Terminology in this area is
+contested, with some objecting to any reference to ‘pornography’
+when discussing either child
+abuse images or non-consensual sharing of adult
+images, where the motivation is often to harass or humiliate women individually
+as a group. However, while the s 474.17A offence heading refers simply to
+‘sexual material’ the term ‘deepfake’
+is most often
+associated in popular discussion with ‘pornography’.
+See generally
+Cybercrime:
+Legislation, Cases and Commentary
+(n 9) ch 8.
+The ‘age of
+consent’ is generally 16 years under State and Territory laws, but the age
+limit for child abuse material
+or child pornography offences is 18 years under
+Commonwealth and some state or territory laws.
+McEwen v Simmons
+[2008] NSWSC 1292
+(2008) 73 NSWLR 10
+, 19 [38] (Adams J).
+Explanatory Memorandum (n
+14) 12 [64].
+Curiously, as part of the
+legislative amendments, the existing definition in s 473.4(4) of
+‘consent’ to mean ‘free
+and voluntary agreement’ is
+repealed, leaving the legislation without a working definition.
+Indeed, this aspect is
+inverted in the new offence, with sub-s (3) including a statutory exception
+where a reasonable person would
+regard the transmission of material to be
+‘acceptable’ having regard to its nature and content, as well as
+circumstances
+and other matters affecting vulnerability and privacy.
+See Wendy Yang,
+‘Deepfake Sexual Material Bill Introduced’,
+(online, 21 June 2024)
+<https://lsj.com.au/articles/deepfake-sexual-material-bill-introduced/>.
+Print (pretty)
+Print (eco-friendly)
+RTF format (95.2 KB)
+PDF format (319 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

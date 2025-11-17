@@ -1,0 +1,1059 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/ANZCompuLawJl/2021/16.html
+Scraped: 2025-11-17 14:14:05
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Leonard, Peter --- "Workplace surveillance and privacy" [2021] ANZCompuLawJl 16; (2021) 93 Computers & Law 60
+Workplace surveillance and privacy 1
+Workplace surveillance and
+Peter Leonard
+30 June 2020
+What is privacy and surveillance? The problem statement
+Reasonable and proportionate surveillance in a workplace can benefit
+employers in many ways, including:
+• improving safety and security of property and personnel,
+• providing evidence that the employer is providing a safe system of
+• increasing efficiency and performance of the business,
+• enabling employee performance management,
+• assisting in reducing adverse consequences of fatigue.
+However, implementation of workplace surveillance often creates tension
+between an employer and employees.
+Determining what is reasonable and proportionate in workplace surveillance,
+while taking into account human dignity, autonomy and
+expectations of privacy,
+is challenging.
+The challenge increases when employees are observed and monitored outside a
+traditional workplace and through non-obvious means, such
+as where an employer
+monitors the use of employer provided resources by employees working outside the
+traditional workplace, and
+24x7x365 monitoring or use of Bring Your Own
+) smartphones and other employer funded devices. Many employers have
+scrambled to enable remote working under COVID-19 restrictions
+without first
+evaluating whether associated monitoring was reasonable and proportionate. Upon
+re-opening of workplaces, some employers
+are implementing new technologies to
+monitor workplace activities in order to address COVID-19 related health and
+safety concerns.
+Some employers do not think about the legality of workplace
+surveillance at all, let alone whether particular surveillance activities
+reasonable and proportionate.
+Compliance with law and with good ethical principles is patchy, at best.
+Without seeking to justify non-compliance, it should be noted that
+understanding of Australian law governing employee surveillance
+is limited,
+among lawyers and employers. Despite growing awareness of data privacy law, the
+laws governing business use of surveillance
+technologies remains under analysed
+and is often misunderstood.
+It does not help that the relevant Australian laws are, to put it boldly, an
+incoherent mess.
+This paper will explain why that statement is not an exaggeration.
+Let’s start by making sure that we know what we are going to talk
+may be described in a general way as the interests a person
+has in controlling what others know about them, in being left alone and
+free from interference or intrusion: the ‘right to be let
+different to
+surveillance
+Surveillance
+, in its broad dictionary meaning of
+watching over
+is an everyday practice in which human beings engage routinely, often
+unthinkingly. In statutes, surveillance generally has a more
+specific usage,
+referring to some focused and purposive attention to objects, data, or persons.
+In this sense, surveillance is context-specific
+and is ‘always hinged to
+some specific purposes’.
+Surveillance may be overt or covert, or a combination of both. Surveillance
+may be described as ‘overt’ where the subject
+of surveillance is
+aware that surveillance is occurring, or the surveillance device is not
+concealed – for example, CCTV cameras
+in a bank. Surveillance may be
+described as ‘covert’ where the subject of surveillance is not aware
+that surveillance
+is occurring, or the surveillance device is concealed –
+for example, a listening device planted in a person’s car.
+Data privacy laws and surveillance laws are intended to provide us with a
+choice over how we interact with others and what others
+get to know about us,
+even as we go about our activities in public or semi-public locations such as
+workplaces. Protection of privacy
+is not dependent on classification of physical
+spaces as public or private. We do not leave our legitimate expectations of
+behind when we walk out the front door of our home, or into our
+workplace. Of course, our reasonable expectations of privacy have
+to flex, to
+adapt to what it is reasonable for us to expect in the particular environment in
+which we find ourselves. In a COVID-19
+world, our reasonable expectations of
+not put their
+health at unacceptable risk, and our expectation as employees that
+our employers will take all reasonable steps to ensure our health
+and safety at
+work. Even in a stressed COVID-19 world where personal health rightly becomes a
+critical concern, the law should be
+able to accommodate this flexing without, to
+mix metaphors, throwing out the valued baby of a right to be left alone with the
+of everyday necessity of walking down the street and going about our
+Most data privacy laws are intended to empower individuals by informing them
+how data about them may be being collected and used,
+and thereby enable them to
+exercise a choice. This is the ‘notice and choice’, or ‘notice
+and consent’, framework
+for data privacy regulation.
+Critiques of this framework for data privacy regulation focus upon the
+‘illusion of consent’, as described by Paul Ohm
+and other privacy
+scholars, or its more recent restatement by Dan Solove and others as ‘the
+In brief, these
+criticisms revolve around the problem of expecting affected individuals to
+properly understand and make a choice
+which affects the individual’s privacy, and particularly when there is
+practical ability for each of us to say
+that, but it might be OK if you did it this way other way...[insert here]
+Consider the following scenarios:
+• If a particular pathway between my bus stop and the office bristles
+with CCTV and there are no other reasonably convenient
+alternative routes, do I
+exercise a choice to walk down that street and then become the
+subject of CCTV surveillance?
+• If my employer introduces iris scanning at the entrance to the
+washrooms to determine whether I and others are spending too
+long on our comfort
+breaks (and, if my workplace is in NSW and Victoria, my employer gives me the
+required 14 days’ prior notice),
+have a choice? Where
+is the regulatory control over my employer to ensure that my employer assesses
+whether this surveillance is
+a reasonable infringement upon my freedom to go
+employer to implement surveillance in the least invasive way that is
+reasonably practicable?
+Some critiques of “notice and choice” suggest that this framework
+needs to be supplemented, or replaced, by an additional
+requirement of
+demonstrated organisational accountability
+of the entity that is
+collecting, handling or disclosing personal information about the affected
+individual, or instituting surveillance
+of a human, identifiable or
+In my iris scanning example, where is the control (whether in workplace
+relations law, surveillance law, human rights law, or anywhere
+else), so that my
+• describes to an affected individual (viz. me) the purpose and extent
+of a proposed surveillance that affects my ability to
+go about my daily life
+free from constant surveillance,
+• ensures that this proposed surveillance is necessary and
+proportionate to achieve a reasonable outcome, with reasonableness
+consideration of the degree and extent of impact upon legitimate expectations of
+health and safety of other individuals),
+and the interests of my employer in profitably conducting business by operating
+productive workplace.
+After all, my capacity as an employee to object about what my employer is
+doing is significantly constrained– particularly if
+unemployment rates are
+on the rise and I have kids and a mortgage.
+Is my iris scanning example fanciful?
+Jeremy Lee v Superior Wood Pty Ltd
+[2019] FWCFB 2946
+Bench of the Australian Fair Work Commission (
+) determined that a
+direction given to an employee to provide his fingerprint – his biometric
+data – was not a lawful
+and reasonable direction from the employer, and
+consequently the employee’s refusal to comply with the new company policy
+not a valid reason for his
+Read carefully, this
+decision turned on whether the employer implemented biometric identification
+requirement only after following
+the legally prescribed process. The FWC’s
+determination (legally correctly) did not require a consideration of whether the
+biometric identification requirement was itself reasonable.
+It is of course fashionable in Australia to blame the government for just
+is a thesis that needs
+to be written about whether this is an Australian national characteristic born
+of Australia’s convict
+heritage and the near starvation of the infant
+colony). In this case the zeitgeist is right:
+• No Australian Parliament has enacted a baseline human rights statute
+against which data privacy impacting acts and practices
+of Australian entities
+must be considered.
+• Australian data privacy and surveillance statutes generally do not
+tie particular statutory requirements back to any stated
+right of privacy,
+standard of reasonableness or fairness, or any test as to the necessity or
+proportionality of the relevant, privacy
+affecting, act or
+We could fill this gap by workplace specific laws.
+But what is so different about a workplace?
+There are many places that I venture where I do not get to exercise a real
+choice: a railway concourse, a pedestrian tunnel, the food
+court downstairs from
+my office, and so on.
+Is this problem hard to fix?
+Contrast, for example, the Personal Information Protection and Electronic
+Documents Act of Canada (
+), which relevantly provides as follows:
+Appropriate purposes
+5(3) An organization may collect, use or disclose personal information only
+for purposes that a reasonable person would consider are
+appropriate in the
+circumstances
+Valid consent
+6.1 For the purposes of clause 4.3 [PIPEDA Fair Information Principle 3
+– Consent”] of Schedule 1, the consent of an individual
+valid if it is reasonable to expect that an individual to whom the
+organization’s activities are directed would understand
+the nature,
+purpose and consequences of the collection, use or disclosure of the personal
+information to which they are consenting.
+In applying subsection 5(3), Canadian courts have generally taken into
+consideration whether the collection, use or disclosure of
+personal information
+is directed to a bona fide business interest, and whether the loss of privacy is
+proportional to any benefit
+The following factors have been stated to be relevant in determination of
+whether an organization’s purpose complies with subsection
+• the degree of sensitivity of the personal information at issue;
+• whether the organization’s purpose represents a legitimate need
+/ bona fide business
+• interest;
+• whether the collection, use and disclosure would be effective in
+meeting the organization’s need;
+• whether there are less invasive means of achieving the same ends at
+comparable cost and with comparable benefits; and
+• whether the loss of privacy is proportional to the
+Could we adapt this standard and build it into Australian surveillance
+statutes? After all, the purported right of choice to be the
+surveillance is problematic, unless:
+• coupled with incentives to or constraints upon entities collecting,
+using or disclosing personal information, and
+• those incentives or constraints operate to ensure outcomes which are
+not reasonable having regard to the extent and impact
+of the activities of the
+regulated entities upon data privacy rights of affected individuals.
+There are relatively few provisions in data privacy laws today:
+• that create
+no-go zones
+(i.e. prohibitions on CCTV in
+changerooms and toilets) as to collection or use of workplace related data, or
+• that hard code controls and safeguards as to what an employer can ask
+of an employee by way of consent to workplace monitoring
+or surveillance, even
+where these activities significantly impact an employee’s reasonable
+expectations of privacy.
+Walk right in
+workplace surveillance
+Because notice and consent largely govern workplace surveillance, the
+baseline below which workplace surveillance is
+acceptable is largely
+left to workplace bargaining, as partially constrained by general employment law
+Fair Work Act 2009
+That noted, there may be other restrictions on the use of surveillance
+devices in the workplace which impact employers: conditions
+in enterprise
+agreements, employment contracts, workplace policies or subcontractor agreements
+which prohibit the use of those devices
+All enterprise agreements have dispute resolution clauses that enable
+disputes to be arbitrated by the
+The implementation or
+expansion of workplace surveillance has regularly led to disputes between
+employers and employees that have
+been arbitrated. Experience to date is that
+the FWC will generally accept that the use of workplace surveillance is
+justifiable if
+there has been compliance with relevant State or Territory laws
+and the surveillance is demonstrated to be for a legitimate purpose,
+ensure compliance with work health and safety obligations.
+However, without no-go zones, or hard-coded upfront controls, and with the
+ability of many employers to exert influence over employees
+‘consent’, some employers (deliberately or inadvertently) cross the
+blurred line between
+Which leads to the three key questions of workplace privacy:
+• What is a workplace?
+• What should be an employee’s
+reasonable expectations of
+within a workplace?
+• What are the workplace privacy boundaries that reasonable employers
+should observe?
+Our changing workplace
+• The range and depth of workplace data has exploded. Means of
+collection of data about our workplace activities have
+proliferated.
+Those means are
+increasingly automated and remote from the employee unobserved and potentially
+• There are many good reasons for collection and analysis by employers
+of workplace data about activities of employees. For
+some business activities,
+monitoring is becoming commonplace for quality control or assurance, for risk
+management (i.e. of driver
+) or as a regulatory
+requirement (e.g. rules on traders in securities and new regulatory requirements
+such as the EU’s ‘Markets
+in Financial Instruments Directive
+) requires that anyone involved in giving financial
+service and/or advice that leads to, or may lead to, a transaction, must record
+their conversation – including mobile – and securely store these
+• Our workplaces have merged with our homes. For many of us, our
+workplace is now agile, a virtual place we construct anywhere,
+anytime, from
+bits and pieces carried in a backpack and using an internet connection. And in
+lockdown, our workplace is anywhere
+at home where we can get away from other
+noisy occupants.
+• Many laptops, smartphones and online resources (like Microsoft365
+cloud services) that we use are made available or paid for
+by the employer, but
+also permitted to be used for personal, social and family activities. Some
+employees would prefer their employers
+not to know about some of those
+activities, and some of those activities are frankly none of their
+employer’s business, even
+if the employer pays for the device or service.
+• Cyberthreats and data exfiltrations have rightly led to employer
+concerns over the management of confidential and commercially
+information on devices on which we work and online resources that we access and
+• Humans are fallible. Work related data is as accessible as the
+weakest vulnerability point in the work data ecosystem allows
+it to be found.
+And sometimes that weakest point is the CEO’s iPad.
+• An employee who is rogue or careless with data is creating large
+financial and reputational exposures for employers, through
+data breach
+liability (i.e. Morrisons
+Supermarkets
+) or damage from
+other data exfiltrations (i.e. the Panama Papers, Paradise Papers (Glenmore, the
+ATO and Operation Wickenby) and
+• The careless employee who is careless or dumb in posting silly or
+actionable things on social media may also create financial
+and reputational
+exposures for employers (i.e. Jason Cleary and his admirers).
+There are four main types of privacy protected by laws in some jurisdictions:
+the person,
+bodily privacy
+—the interest in
+freedom from interference with an individual’s physical person and bodily
+integrity, including from direct
+and indirect physical intrusions. It may also
+include psychological intrusion.
+personal space,
+territorial privacy
+interest in limiting intrusion into personal spaces, including in the home,
+workplace and in public. This concerns a person’s
+sense of personal safety
+and dignity as well as their property rights.
+personal communications,
+communications and
+surveillance privacy
+—the interest in freedom from interference with
+personal communications, including interception, recording, monitoring or
+surveillance.
+personal information,
+data privacy
+interest in controlling access to, use and disclosure of information about the
+person, including images and information
+‘derived from analysis’ of
+other data.
+Australian statutes generally only protect
+communications and surveillance
+data privacy
+, and then only in limited circumstances.
+Surveillance
+, in the broad sense of watching over, is an everyday
+practice in which human beings engage routinely, often unthinkingly.
+Different forms of surveillance capture different types of
+Listening or audio surveillance
+—listening to or
+recording sounds, usually conversations. This may be done with the assistance of
+aids to enhance human hearing,
+such as directional microphones, voice recorders
+or ‘bugs’. It may also include intercepting communications, such as
+phone conversations or voice communications over the internet.
+Optical or visual surveillance
+—watching a person or
+place. It may be undertaken with the assistance of aids to enhance human vision,
+such as telescopes or
+infra-red binoculars. It may also include the use of
+devices that can record or stream images, such as cameras, video recorders or
+Data surveillance
+—the systematic use of personal data
+systems in the investigation or monitoring of the actions or communications of
+one or more
+persons. It may include surveillance of a person’s electronic
+records, including those relating to credit cards or loyalty
+cards, email
+communications or computer usage and internet activities using tools such as
+cookies, keystroke monitoring or spyware.
+Tracking or location surveillance
+—the observation or
+recording of a target’s location. Location data may capture the location
+of a person or object at
+a point in time or monitor a person’s movements
+in real-time. It may also involve predictive tracking or retrospective tracking,
+based on the data trail of a person’s movements. Examples of location and
+tracking devices include global positioning system
+(GPS) and satellite
+technology tracking, radio frequency identification (
+), and automatic
+number plate recognition (
+Biometric surveillance
+—the collection or recording of
+biological samples and physical or behavioural characteristics, usually for the
+purpose of identifying
+an individual. This may include fingerprints, cheek
+swabs, iris scans and blood. It may also include alertness monitors installed
+trucks, smart caps monitoring driver fatigue, and so on.
+That noted, Australian statutes addressing
+surveillance
+generally do
+surveillance
+And as well, many Australian statutes addressing
+data protection
+statutes, but do not actually define what
+is, or how rules about collection, use and disclosure of personal
+information about individuals actually address privacy.
+As already noted above, a fundamental problem of workplace privacy in
+Australia is that Australian data protection statutes and surveillance
+statutes generally follow a notice and choice framework: that is, prohibiting
+collection, use or disclosure of personal information
+particular forms of surveillance, unless prior notice is given to the affected
+person. Sometimes that right
+of choice is reinforced by a right to consent, or
+withhold consent, but often provision of reasonably prominent notice discharges
+the statutory obligation. Many surveillance activities can occur without an
+individual being asked for consent, and without any practical
+ability to refuse
+consent. And so we see more and more CCTV cameras in semi-public places, with
+notices saying you may be being observed,
+but without any ability to turn the
+camera off.
+Most Australian surveillance statutes permit use of a surveillance device,
+however privacy invasive the particular use may be, where
+that use is with the
+prior consent of the person surveilled. And as we have noted, that is the heart
+of the problem: for there to
+be a real choice, an ability to withhold consent,
+there needs to be a practical ability to choose to say no.
+The employment relationship is a strange beast. Modern workplace lawyers like
+to make a distinction between a
+contract of service
+contract of
+, a contract of servitude being what servants and slaves like
+Maximus Decimus Meridius
+back in the bad old days before the reign of Bob
+. If your employer can
+decide when and how you are observed and monitored, and now the employer has the
+practical ability to do that
+wherever and whenever the employee purports to work
+(through monitoring of use workplace supplied devices and services), have you
+been digitally teleported back into a contract of servitude?
+Where is the legal protection to ensure that workplace surveillance is fair,
+reasonably necessary and proportionate to the need for
+your employer to provide
+a safe work environment?
+(and State and Territory information privacy
+Many employers are not aware of how regulation of data privacy and how
+regulation of use of surveillance and tracking devices interests
+and impacts
+what employers can do, how and when.
+Many more Australian businesses are regulated by the
+) than think that they are.
+applies to:
+• any entity within a corporate group that turns over more than AU$3
+million in global gross group revenue per annum, and
+• various other entities, including organisations providing services
+pursuant to federal government contracts and so on.
+There is a relatively narrow employee records exemption under the
+section 7B(3)
+, an act done, or practice engaged in, by an APP entity
+that is or was an employer of an individual
+, is exempt if the act or
+practice is directly related to:
+(a) a current or former employment relationship between the employer and the
+individual; and
+(b) an employee record held by the organisation and relating to the
+individual.
+employee record
+is defined under
+section 6(1)
+mean a record of personal information relating to the employment of the
+This exemption does not cover contractors and subcontractors when they handle
+the personal information of the employees of another
+organisation,
+notwithstanding their contractual arrangements.
+Examples include health information about an employee, as well as personal
+information relating to:
+• the engagement, training, disciplining, resignation or termination of
+employment of an employee
+• the terms and conditions of employment of an employee
+• the employee's personal and emergency contact details, performance or
+conduct, hours of employment or salary or wages
+• the employee's membership of a professional or trade association or
+trade union membership
+• the employee's recreation, long service, sick, maternity, paternity
+or other leave
+• the employee's taxation, banking or superannuation
+Many employers and lawyers think that this exemption is much broader than it
+actually is.
+For example, it clearly does not give a green light for workplace
+surveillance, and it arguably does not include collections that
+are not yet
+The above noted, the view of the Office of the Australian Information
+Commissioner is clear:
+(Privacy Act) doesn’t specifically cover
+surveillance in the workplace.
+However, an employer who conducts surveillance or monitors their staff must
+follow any relevant Australian, state or territory laws.
+This includes laws
+applying to the monitoring and recording of telephone conversations.
+Generally, state laws cover the installation and use of CCTV, and some states
+also have specific workplace surveillance laws.
+It may be reasonable for an employer to monitor some activities to ensure
+staff are doing their work and using resources appropriately.
+If your employer
+monitors staff use of email, internet and other computer resources, and
+they’ve told you about the monitoring,
+this would generally be allowed.
+If an employer keeps a record of their monitoring then the Australian Privacy
+Principles may apply. For example, a CCTV video recording
+or a computer record
+of emails that doesn’t directly relate to your
+employment.
+Telecommunications privacy
+Telecommunications Interception and Access Act 1979
+prohibits live interception of the interception of content of
+communications and access to stored communications (such as emails,
+voicemails) on certain communications infrastructure.
+The TIA Act sets out certain exceptions to these prohibitions to permit
+eligible Australian law enforcement and security agencies
+• obtain warrants to intercept communications;
+• obtain warrants to access stored communications;
+• authorise the disclosure of telecommunications data.
+Agencies can only obtain warrants or give authorisations for national
+security or law enforcement purposes set out in the TIA Act.
+State and Territory surveillance and tracking devices laws
+There are State and Territory surveillance and tracking devices laws in all
+States and Territories. These laws are outdated, inconsistent,
+poorly understood
+(including by lawyers), and in some cases, simply poorly
+For example:
+• It is unclear whether a multi-purpose device like a mobile phone or a
+courier despatching system is in fact a regulated surveillance
+tracking device when geolocation information is captured and used.
+• In some statutes it is unclear whether an act or practice which is
+not directly within the offence provision but is within
+the description of
+matters requiring notice and consent as stated by the statute is in fact
+• The position in relation to employer monitoring of calls, emails and
+instant messages sent from third party senders to employees
+significantly: some State statutes appear to require two party (sender and
+recipient) consent, others (Victoria, Queensland
+and the ACT) allow one party to
+consent (sometimes referred to as a ‘participant monitoring
+exception’).
+The statutes take a variety of forms, but they generally require prior
+consent of an affected individual to uses of surveillance devices
+or tracking
+devices to monitor their activities, and provide criminal offences for
+conventions.
+There is considerable ambiguity in the individual statutes about the level of
+specificity, extent and clarity of information required
+to establish that a
+consent is ‘informed’. Where vague and general information is
+offered, particularly in relation to
+the identity of third parties who may get
+access to the information, consent may not be properly ‘informed’.
+many surveillance notices and other disclosures, like many privacy
+policies, are vague.
+Consent may also be sought for a wide range of collections, uses or
+disclosures which are not essential to the provision of a particular
+service. In
+many circumstances, the subject has little practical choice but to consent.
+The most comprehensive laws governing workplace surveillance are in New South
+Wales and the Australian Capital Territory, where workplace
+specific controls
+clearly aim to balance the need for security and safety in the workplace with an
+employee’s right to privacy.
+In Victoria, the regulation of workplace surveillance is embedded in the
+Surveillance Devices Act 1999
+(Vic). The Act prohibits the use of
+surveillance devices in the workplace in toilets, washrooms, change rooms and
+lactation rooms.
+South Australia, Tasmania, Western Australia, the Northern Territory and
+Queensland do not have specific workplace surveillance laws
+in place. Workplace
+surveillance is there covered by general privacy and surveillance laws.
+Queensland has a current law reform reference as to the need for specific
+workplace surveillance laws.
+Victoria has a long standing law reform reference which seems to have slipped
+down the agenda.
+“Workplace” surveillance statutes have a built-in problem:
+although they permit certain forms of (prior notified) surveillance
+employee is ‘at work’, whether in a recognised workplace or at home
+or on the move, in flexible work environments
+nowadays, how does an employer
+know when an employee is
+In summary, surveillance and tracking devices laws are an inconsistent and
+sometimes incoherent patchwork,
+at a time when the use of surveillance and tracking in workplaces and elsewhere
+is rapidly proliferating. Workplace surveillance
+laws are part of this
+NSW and ACT workplace surveillance legislation
+NSW and the ACT have specific workplace surveillance statutes: the
+Workplace Surveillance Act 2005
+The NSW and ACT statutes include qualified
+prohibitions
+surveillance”
+covert surveillance records and require notice to be given to employees at least
+14 days prior to surveillance commencing
+which includes details of:
+• the type of surveillance to be carried out;
+• how the surveillance will be carried out;
+• when the surveillance will commence;
+• whether the surveillance will be continuous or intermittent; and
+• whether the surveillance will be for a specified limited period or
+In the ACT it is also necessary to include in the notice:
+• who the regular or ordinary subject of the surveillance will be;
+• the purpose for which the employer may use and disclose the
+surveillance; and
+• that the worker may consult with the employer about the conduct of
+the surveillance.
+NSW and the ACT also have specific provisions in place in relation to the
+need for notices on vehicles that are the subject of tracking,
+monitoring policies, notices identifying that cameras are operating in the
+workplace and the visibility of the cameras in
+the workplace.
+Workplace Surveillance Act 2005
+surveillance
+(not a defined term) of an
+by any of the following means:
+camera surveillance
+, which is surveillance by means of a camera
+that monitors or records visual images of activities on premises or in any other
+computer surveillance
+, which is surveillance by means of software
+or other equipment that monitors or records the information input or output, or
+use, of a computer (including, but not limited to, the sending and receipt
+of emails and the accessing of Internet websites),
+tracking surveillance
+, which is surveillance by means of an
+electronic device the primary purpose of which is to monitor or record
+geographical location
+or movement (such as a Global Positioning System tracking
+The NSW definition of
+surveillance
+includes a note:
+“This Act does not apply to surveillance by means of a listening device.
+Surveillance Devices Act 2007
+surveillance that is regulated by this Act will also be regulated by the
+Surveillance Devices Act 2007
+if the camera is used to record a private
+conversation.”
+provides an express “prohibition on surveillance using work
+surveillance device while employee not at work”:
+(1) An employer must not carry out, or cause to be carried out, surveillance
+of an employee of the employer using a work surveillance
+device when the
+employee is not at work for the employer unless the surveillance is computer
+surveillance of the use by the employee
+of equipment or resources provided by or
+at the expense of the employer.
+Maximum penalty: 50 penalty units.
+work surveillance device
+is a device used for surveillance of
+the employee when at work for the employer.
+(3) This section does not apply to the carrying out, or causing to be carried
+out, of surveillance by an employer that is a law enforcement
+Workplace Privacy Act 2011
+(ACT) addresses
+surveillance
+(not a defined term) of a worker
+a workplace
+being “a place where work is, has been, or is to be, carried out by or
+for someone conducting a business or undertaking”,
+by any of the following
+data surveillance device
+(a) [which] means a device or program capable of being used to record or
+monitor the input of information into or the output of information
+computer; but
+(b) does not include an optical surveillance device.
+optical surveillance device
+(a) [which] means a device capable of being used to record visually or
+observe an activity; but
+(b) does not include spectacles, contact lenses or a similar device used by a
+person with impaired sight to overcome that impairment.
+provision in the ACT is quite different from that in
+Surveillance of workers not at work
+(1) An employer commits an offence if the employer conducts surveillance of a
+worker if the worker is not in a workplace.
+Maximum penalty: 50 penalty units.
+(2) Subsection (1) does not apply if—
+(a) the employer conducts surveillance of a worker’s use of equipment
+or resources provided by the employer using a data surveillance
+(b) the employer conducts surveillance using a tracking device that includes
+a tracking function that cannot be deactivated; or
+(c) the employer is a law enforcement agency.
+Note The employer has an evidential burden in relation to the matters
+mentioned in s (2) (see Criminal Code, s 58).
+(3) For subsection (2) (a), equipment or resources are taken to be provided
+by an employer if the employer has met the cost of the
+equipment or
+Disclosure and use of surveillance records is specifically regulated in each
+of NSW and the ACT. To disclose surveillance records
+in NSW and the ACT one of
+the following conditions must be met:
+• there must be a legitimate purpose related to the employment of the
+employees or the business activities or functions of the
+• disclosure is to a member or officer of a law enforcement agency and
+is for use in connection with the detection, investigation
+or prosecution of an
+• use or disclosure is for a purpose directly or indirectly related to
+the taking of criminal or civil proceedings
+• use or disclosure is reasonably believed to be necessary to avert an
+imminent threat of serious violence to persons or substantial
+Other statutes regulating the use of surveillance
+Other statutes regulating the use of surveillance devices in each Australian
+Surveillance Devices Act 2004
+Invasion of Privacy Act 1971
+Listening Devices Act 1992
+Surveillance Devices Act 2007
+Surveillance
+Devices Regulation 2014
+Surveillance Devices Act 2007
+Surveillance Devices
+Regulations 2008
+Surveillance Devices Act 2016
+Surveillance Devices
+Regulations 2017
+Listening Devices Act 1991
+Listening Devices
+Regulations 2014
+Surveillance Devices Act 1999
+Surveillance
+Devices Regulations 2016
+Surveillance Devices Act 1998
+Surveillance Devices
+Regulations 1999
+These laws provide criminal offences for the unauthorised use of up to four
+categories of device (variously defined in the statutes):
+1. listening devices
+(some laws only cover these) – all
+2. optical surveillance devices
+– but not in Qld or Tasmania or
+3. tracking devices
+– but not in Qld or Tasmania or the
+4. data surveillance devices
+– but not in WA or Qld or Tasmania
+The statutes prohibit installation or operation of surveillance devices
+except in certain circumstances, generally if there is authorisation
+in the form
+of a warrant or consent for the purposes of law enforcement or criminal
+investigation.
+They also prohibit communicating or publishing certain information, including
+information derived from the surveillance device, and
+also information about the
+use of the device which may reveal confidential operations and methods of law
+enforcement and security
+services using such devices.
+I’m not going to bore you by repeating myself. Workplace surveillance
+laws in Australia are a mess and not fit for purpose.
+Employers and employees
+deserve better. This should not be hard to fix, if there is political will: see
+section 1 of this paper.
+Leonard (Data Synergies) 2020 This paper was delivered in the ANU Ninian Stephen
+Cyber Law Program of the Cyber
+Institute of the Australian National University
+https://www.menziesfoundation.org.au/what-we-do/law-program#
+Peter Leonard is a data,
+content and technology business consultant and lawyer advising data-driven
+business and government agencies.
+Peter is principal of Data Synergies and a
+Professor of Practice at UNSW Business School (IT Systems and Management, and
+and Taxation Law). Peter chairs the IoTAA’s Data Access, Use and
+Committee and the Australian Computer Society’s Artificial Intelligence
+and Ethics Technical Committee. He
+serves on a number of corporate and advisory
+boards. Peter was a founding partner of Gilbert + Tobin, now a large Australian
+firm. The views expressed in this paper are those of the author and not
+those of any of those other bodies and organisations.
+See further Cohen, Julie,
+‘What is Privacy For’
+Harvard Law Review
+Nissenbaum, Helen,
+of Social Life
+, Stanford, CA, Stanford Law Books, 2010.
+See further Queensland Law
+Reform Commission, Review of Queensland’s laws relating to civil
+surveillance and the protection
+of privacy in the context of current and
+emerging technologies: Consultation Paper, December 2018.
+Ohm, Paul, ‘Broken
+Promises of Privacy: Responding to the Surprising Failure of
+Anonymization’,
+UCLA Law Review
+; Ohm, Paul,
+“Changing the Rules: General Principles for Data Use and Analysis, in
+Lane, Julia I.,
+, New York: Cambridge University Press (2014), 96-111 Solove,
+Daniel J, “Privacy Self-Management and the Consent Dilemma”
+Harvard Law Review
+As summarised by Christopher
+Docksey ‘Keynote on Accountability At the 41st Conference of Data
+Protection and Privacy Commissioners’
+(Key Note Address, Tirana, Albania,
+24 October 2019); Marty Abrams, ‘Demonstrable Accountability and People
+Beneficial Data
+(Blog Post, 24 March 2020), Marc Groman
+and Peter Cullen, ‘Take the Long View: Demonstrable Accountability’
+(Blog Post,
+13 April 2020); and Lynne Goldstein, “Bermuda Report on
+Information Accountability: Prepared by the Information Accountability
+Foundation for the Office of the Privacy Commissioner for Bermuda”, 28
+March 2020, all available at
+https://informationaccountability.org
+See also Centre for
+Information Policy Leadership (
+), Organizational Accountability
+– Past, Present and Future, 30 October 2019,
+https://www.informationpolicycentre.com/uploads/5/7/1/0/57104281/cipl_white_paper_organisational_accountability_
+%E2%80%93_past_present_and_future__30_october_2019_.pdf
+The reason for dismissal must
+be valid in the context of the employee’s capacity or conduct.
+Consideration of valid reason
+must have regard for the practical sphere of the
+relationship between an employer and an employee, balancing the rights,
+privileges,
+duties and obligations conferred and imposed on each to ensure a
+fair outcome:
+Selvachandran v Peteron Plastics Pty Ltd
+[1995] IRCA 333
+(1995) 62 IR 371
+However, it should be noted
+that where there is genuine doubt as to whether the statutory language
+authorises a particular act or
+practice, “as a statement of general
+principle, legislation such as the
+should, as far as the statutory
+language permits, be construed so as to give effect to Australia’s
+international obligations
+(see, for example,
+NBGM v Minister for Immigration
+and Multicultural Affairs
+[2006] HCA 54
+per Callinan,
+Crennan JJ and
+Minister for Immigration and Multicultural and Indigenous
+Affairs v QAAH of 2004
+[2006] HCA 53
+Office of the Privacy
+Commissioner of Canada, ‘Guidance on Inappropriate Data Practices:
+Interpretation and Application of
+Subsection 5(3)’ (Guidance Note,, May
+https://www.priv.gc.ca/en/privacy-topics/collecting-personal-information/consent/gd_53_201805/
+“Evaluating an organization’s purposes under 5(3)”; A.T. v.
+Globe24h.com,
+2017 FC 114
+A.T. v. Globe24h.com,
+; Ibid; see also
+Turner v. Telus Communications Inc.
+, 39, affirmed
+2007 FCA 21
+If you guessed it, well
+done! Sung by The Rooftop Singers in the chart topping 1962 version. But did you
+know the song was written
+by early country musician Gus Cannon and originally
+recorded by Cannon's Jug Stompers in 1929 and released as a 78 rpm record?
+Fair Work Ombudsman, Best
+Practice Guide: Workplace Privacy
+https://www.fairwork.gov.au/how-we-will
+Fair Work Ombudsman, Best
+Practice Guide: Effective Dispute Resolution
+https://www.fairwork.gov.au/how-we-will
+See further Peter Leonard,
+‘Data Ownership and the Regulation of Data Driven Businesses’,
+Scitech Lawyer (American Bar
+Association), 16/2, Winter 2020.
+For example
+http://www.smartcaptech.com/
+nd case studies a
+http://www.smartcaptech.com/case-study/
+https://www.nhvr.gov.au/news/2018/12/14/new-smartcap-fatigue-technology-trial-kicks-off-to-improve-heavy-vehicle
+safety-around-port-of
+By section 5 of the NSW
+Workplace Surveillance Act 2005
+No 475, the meaning of “at
+work” is “an employee is at work for an employer when the employee
+is: (a) at a workplace
+of the employer (or a related corporation of the
+employer) whether or not the employee is actually performing work at the time,
+(b) at any other place while performing work for the employer (or a related
+corporation of the employer)”.
+WM Morrison Supermarkets
+plc (Appellant) v Various Claimants (Respondents)
+[2020] UKSC 12
+[2018] EWCA Civ 2339)
+; compare Information and Privacy Commission (NSW),
+NSW Informational Privacy Rights: Legislative Scope and Interpretation
+– Employer, Employee, and Agent Responsibilities –
+A Special Report
+under Section 61C
+(Report,2017); Anna Johnston, ‘Salinger Privacy, Training is Key to
+Avoiding Liability for Rogue Employees, (
+, 1 October 2019),
+https://www.salingerprivacy.com.au/2019/10/01/training-is-key/
+Director General, Department of Education and Training v MT
+DGL v Illawarra Shoalhaven Local Health District
+NSWCATAD 296.
+See further Peter Leonard,
+‘Surviving as Data Driven Lawyers in the Fourth Industrial
+Revolution’ (Research Paper, February
+http://marburychambers.com.au/wp-content/uploads/Peter-Leonard-Surviving-as-data-driven-lawyers-in-the-Fourth
+Industrial-Revolution-230319.pdf
+Queensland Law Reform
+Commission, ‘Review of Queensland’s Laws Relating to Civil
+Surveillance and the Protection of Privacy
+in the Context of Current and
+Emerging Technologies’ (Consultation Paper, December 2018).
+Well done, Millennials, that
+was Russell Crowe in
+which was released (just into this
+Millennium) in 2020. And for those who got it wrong, Mel Gibson was initially
+considered for the
+role, but turned down because he was too old.
+No footnote required: even
+‘bums’ that weren’t born then should get this reference.
+However, just in case: “
+Any boss who sacks anyone for not turning up
+today is a bum
+”. The late and great Mr Hawke later quipped about this
+I'm very proud of it in one way [and] very disappointed that all
+the other, many brilliant things I've said are never mentioned
+https://www.oaic.gov.au/privacy/privacy-for-organisations/employee-records-exemption/
+Jeremy Lee v Superior
+Wood Pty Ltd
+[2019] FWCFB 2946
+www.fwc.gov.au/documents/decisionssigned/html/2019fwcfb2946.htm
+http://www.peteraclarke.com.au/2019/07/01/jeremy-lee-v-superior-wood-pty-ltd-breach-of-the-privacy-act-biometric
+data-unfair-dismissal/
+https://www.oaic.gov.au/privacy/your-privacy-rights/employment/workplace-surveillance/
+QF & Others and Spotless Group Limited (Privacy)
+[2019] AICmr
+, the employer gave employees' details to the Australian Workers Union and
+paid their membership fees, without their consent. The
+OAIC found that
+disclosure of employees' information to a union by the employer had insufficient
+connection with the employment relationship
+to fall within the exemption.
+“To fall within the exemption under s 7B(3), the act or practice must be
+directly related to
+the employment relationship, and not merely an act or
+practice having an indirect, consequential or remote effect on that
+relationship”:
+para 49. The employer was ordered to pay $60,000
+compensation (including aggravated damages) to fourteen employees and a former
+See further Australian Law
+Reform Commission,
+Serious Invasions of Privacy in the Digital Era
+(Discussion Paper No 80, 2014) Chapter 13 (Surveillance Devices); Peter Leonard,
+Surveillance of workplace communications: What Are
+the Rules?’ (August
+; Daniel Stewart, Review of ACT Civil
+Surveillance Regulation, June 2016, at
+https://justice.act.gov.au/sites/default/files/resources/uploads/JACS/PDF/Daniel_Stewart_-
+_Review_of_ACT_Civil_Surveillance_Regulation_-_Report_22_June_2016.PD
+Queensland Law Reform Commission, Review of Queensland’s laws Relating to
+Civil Surveillance and the Protection of Privacy
+in the Context of Current and
+Emerging Technologies: Consultation Paper, December 2018, a
+https://www.qlrc.qld.gov.au/current-reviews
+Terms of Reference for
+Queensland's Laws Relating to Workplace Surveillance, 24 July 2018; Joanna
+Betteridge, Maddocks, Privacy and
+Surveillance in the Workplace (Victoria),
+February 2003; Victorian Law Reform Commission, Workplace Privacy: Final
+https://www.lawreform.vic.gov.au/projects/workplace-privacy/workplace-privacy-final-report
+Workplace Privacy
+https://www.lawreform.vic.gov.au/all-projects/workplace-privacy
+See further Australian Law
+Reform Commission,
+Serious Invasions of Privacy in the Digital Era
+25), ‘13. Surveillance Devices’ particularly at [13.3]
+https://www.legislation.nsw.gov.au/#/view/act/2005/47/part1/sec3
+https://www.legislation.act.gov.au/a/2011-4
+In ACT, Division 4.3 and
+section 39; in NSW, sections 21 and 22.
+In NSW, “surveillance
+of an employee while at work for an employer carried out or caused to be carried
+out by the employer
+and not carried out in compliance with the requirements of
+Part 2”; in the ACT, “covert surveillance” (a) means
+surveillance of a worker in a workplace conducted by an employer without
+notifying the worker under part 3 (Notified surveillance);
+but (b) does not
+include prohibited surveillance [see Part 5 of the Act.].”
+“Employee” has
+the same meaning as in the
+Industrial Relations Act 1996
+Definition of
+“surveillance” in
+“Worker” means
+an individual who carries out work in relation to a business or undertaking,
+whether for reward or otherwise,
+under an arrangement with the person conducting
+the business or undertaking. Examples—worker 1 employee; 2 independent
+contractor;
+3 outworker; 4 person doing a work experience placement and 5
+“Workplace”
+means a place where work is, has been, or is to be, carried out by or for
+someone conducting a business or
+undertaking:
+section 10.
+The statutes are usefully
+compared in Daniel Stewart, Review of ACT Civil Surveillance Regulation, June
+2016, at, Appendix 2; Queensland
+Law Reform Commission, Review of
+Queensland’s laws relating to civil surveillance and the protection of
+of current and emerging technologies: Consultation Paper,
+December 2018, at Appendix B, p133; and David Vaile, Monika Zalnieriute
+Lyria Bennett Moses, The privacy and data protection regulatory framework for
+C-ITS and AV systems Report for the National Transport
+Commission, Appendix E
+from page 98.
+Only listening devices are
+covered in the
+Listening Devices Act 1992
+(ACT). All devices are covered
+Crimes (Surveillance
+Devices) Act 2010
+(ACT), but as in
+Surveillance Devices Act
+(Cth), unauthorised use is not prohibited
+NSW, the NT, SA and Victoria
+have laws specifically relevant to vehicles, namely a prohibition on tracking
+devices in vehicles
+Only listening devices are
+covered in the
+Listening Devices Act 1992
+(ACT). All devices are covered
+Crimes (Surveillance Devices) Act 2010
+(ACT), but as in
+Surveillance Devices Act
+(Cth), unauthorised use is not
+Print (pretty)
+Print (eco-friendly)
+RTF format (307 KB)
+PDF format (1.26 MB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

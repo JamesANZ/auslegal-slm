@@ -1,0 +1,891 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/UNSWLawJlStuS/2025/21.html
+Scraped: 2025-11-17 15:46:38
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Gill, Justin --- "Empathetic AI: A Critical Perspective" [2025] UNSWLawJlStuS 21; (2025) UNSWLJ Student Series No 25-21
+EMPATHETIC AI: A CRITICAL PERSPECTIVE
+JUSTIN JASMINDER GILL
+I INTRODUCTION
+Artificial intelligence (‘AI’) is a transformative driver of
+innovation, streamlining professional practice and expanding
+access to services
+for remote consumers. AI’s innovative applications in healthcare are
+proving valuable for addressing systemic
+issues like workforce shortages and
+accessibility – problems that have become serious concerns
+post-pandemic.
+Empathetic AI
+Chatbots (‘EAC’), offered through digital platforms, offer a novel
+approach to enhance patient support
+and ease pressure on healthcare
+professionals and strained
+However, AI’s
+rapid evolution has arguably outpaced current legal and regulatory frameworks
+essential for safeguarding personal
+information.
+Given this complexity,
+this article will argue that the existing regulatory frameworks are inadequate
+in grappling with the unique
+presented by AI-driven technologies in healthcare, particularly those leveraging
+empathetic interactions.
+This article is separated into several parts. First, it looks at the role of
+EACs in healthcare, particularly mental health, defining
+‘empathetic
+AI’ and its importance. Secondly, it critically reflects on privacy and
+data protection challenges within
+this digital context, highlighting regulatory
+gaps that inadequately protect users interacting with these products. Third, it
+gaps in accountability, addressing difficulties for consumers and
+regulators in litigating negligence claims arising from EAC advice.
+this article offers recommendations aimed at preparing policymakers for the
+quickly evolving role of AI in healthcare and
+the broader e-commerce
+II EMPATHETIC AI IN HEALTHCASE: POTENTIAL AND
+EACs are emerging as promising tools designed to augment and expand the reach
+of mental health support services within the broader
+healthcare landscape,
+addressing gaps in accessibility often encountered by individuals in remote
+areas or marginalised groups. Leveraging
+the use of machine learning algorithms,
+EACs act like conversational agents, facilitating conversations mimicking human
+empathy between
+the AI and the human
+Representing an innovative
+digital approach, these virtual tools are described by Adedeji as providing
+‘consistent and readily
+available care, [thereby] bridging [accessibility]
+gaps’, while also complementing traditional
+In the realm of mental health, EACs can translate these conversational and
+empathetic capabilities into practical applications, offering
+users readily
+available support and advice without the need for in-person
+EACs are particularly
+valuable in situations where conventional therapy may be restricted or experts
+are unavailable, such as in
+crisis zones or isolated areas, providing immediate
+support when needed most.
+instance, Ukraine introduced an EAC called Friend First Aid to provide mental
+health support in areas affected by the War, highlighting
+the potential to
+‘provide immediate psychological [aid] when direct communication with an
+expert is [unavailable]’.
+Beyond crisis zones, EACs are also applied by delivering therapeutic techniques
+– for example, offering users coping strategies
+by engaging in empathetic
+conversations.
+Furthermore, EACs
+can actively listen, provide emotional support and even provide therapy for
+children with autism spectrum
+Thus, these examples
+illustrate the practical ways in which EACs can be implemented within the
+broader healthcare system.
+The commercial rollout of EACs reflects a growing recognition of their
+potential and value in improving the patient experience, streamlining
+health support and offering scalable solutions across digital platforms. One
+critical area that brings value is improving
+patient experience. For instance,
+Inkster, Kadaba and Subramanian evaluated an EAC-based mental health and
+well-being app which found
+that the overall in-app feedback indicated users felt
+comfortable interacting with the EAC for
+Given that mental
+health carries a stigma that may otherwise conflict with a user’s ability
+to access support, EACs can help
+mitigate this by allowing the patient to
+express their feelings without having to worry about
+By facilitating this
+form of interaction, it allows users to access and receive support discreetly
+and conveniently, improving
+Other benefits
+include 24/7 access to support, scalable solutions that allow for cost-saving
+alternatives to traditional therapy
+because EACs can interact with a large
+volume of users at the same
+Despite the benefits that come with the use of EACs to help deliver mental
+health support services, several disadvantages can result
+because of the
+information exchanged. Given that EACs allow users to express their concerns,
+EACs themselves need sensitive information,
+such as medical histories, therapy
+session records, and behavioural data, to offer advice or a
+There is also an issue
+as to whether patients are informed and subsequently provide consent to their
+information being transferred
+into a different jurisdiction or
+These points indicate
+that a major area of concern is data protection and privacy.
+III THE REGULATORY GAP: PRIVACY AND DATA PROTECTION
+EACs rely on extensive data, presenting complex privacy challenges ill-suited
+for the current regulatory landscape. This section will
+first analyse AI’s
+foundational data needs. It will then scrutinise the strict obligations and
+inherent collection risks for
+EACs handling sensitive health information,
+undermining privacy assurance. The discussion will conclude by identifying
+gaps and demonstrating how the existing frameworks are falling behind
+the advancements presented by EAC technology.
+A Appetite for Data
+As EACs use machine learning (‘ML’) to understand, process and
+communicate with users, their learning process fundamentally
+extensive data collection. ML typically requires two inputs: massive volumes of
+data from multiple sources and powerful
+While hardware is
+beyond the scope of this article, data itself is central. Collected and
+processed data allows ML to detect patterns
+and generate predictions or advice
+Notably, because EACs
+are conversational agents that lack human-like reasoning, they often prompt
+users for additional clarifying
+information, further increasing data input.
+It is not surprising, then, that EAC’s reliance on ML raises
+significant privacy concerns. El Mestari, Lenzini and Demirci emphasise
+can also be used to reverse engineer collected data, learning not just general
+trends but also specific details about the
+individuals interacting with the EAC
+and their personal information.
+The issue of reverse engineering will be explored in detail later. The concern
+around the appetite for data is further amplified
+by the fact that a significant
+proportion of existing ML technology is owned and developed by giant tech
+companies like Google, Microsoft
+At what point do these
+corporations, who possess all this sensitive data, begin to prioritise profit
+over safeguarding the privacy
+of its consumers?
+B Heightened Privacy Obligations
+Given the large volumes of sensitive information EACs collect and process,
+safeguarding this data is paramount. With EACs increasingly
+used to ease
+resource constraints, understanding their regulation under the
+(Cth) (‘Act’) is essential. The Act, applying to entities
+engaging with personal
+information,
+outlines key
+principles that impose specific obligations on those companies collecting health
+information. ‘Health information’
+broadly captures details about an
+individual’s physical or mental health, disability, expressed wishes about
+future care, or
+health services
+Furthermore, health
+information is classified as ‘sensitive information,’ attracting
+further stringent protection requirements
+For EACs operating in a healthcare environment, entities offering these
+products must provide their users with clear privacy policies
+outlining how
+their personal information is collected, used and
+Frequently, however,
+such information is obscured or difficult to find because an entity has embedded
+this obligation into complicated
+and unreadable terms. A significant decision in
+Italy in 2023 starkly illustrates the consequences that could follow if an
+fails to follow this regulatory requirement. The Italian regulator,
+Garante, issued a temporary ban on the EAC, Replika, as it failed
+to adequately
+inform its users about how it processed personal
+Replika’s failure in
+transparent communication about its data collection practices directly breaches
+the spirit (if not the
+letter in an international context) of obligations
+similar to Australia’s Privacy Principle (‘APP’)
+which mandates openness and
+transparency the management of personal information. While the creators behind
+Replika were able to engage
+with the Garante to enhance their policies, a
+service disruption could have detrimental effects that could adversely impact
+depending on the product to cope with their mental health conditions.
+The failure to provide clarity and transparency in data collection practices,
+as highlighted by the Replika example and the obligations
+imposed by APP 1,
+directly affects a user’s ability to make informed decisions. Building
+upon the need for user awareness,
+APP 3 establishes important obligations
+regarding collecting personal information, emphasising consent. Generally, APP 3
+that an entity only collects personal information (other than sensitive
+information) if it is reasonably necessary for one or more
+of an entity’s
+functions or activities.
+However, this requirement becomes significantly more demanding when an entity
+collects sensitive information,
+which is often the case for EACs handling sensitive details about a user’s
+physical or mental state.
+For sensitive information, APP 3.3 requires two conditions: the
+individual’s informed consent for
+collection,
+and the information
+reasonably necessary
+for the entity’s functions or
+activities.
+‘reasonably necessary’ test is objective, insofar that a properly
+informed reasonable person would agree collection
+is necessary for the
+EAC’s stated functions, such as providing mental health
+Informed consent is
+critical, requiring users to adequate knowledge of the purpose for collection,
+the benefits, material risks,
+and to provide consent
+pre-collection.
+Furthermore, all
+personal information (including sensitive information) must be obtained by
+lawfully and fairly.
+genuinely informed consent under APP 3 not only meets specific legal
+requirements but also operationalises APP 1’s broader
+transparency goals,
+empowering users in their data sharing decisions.
+Despite APP 3 mandating informed consent for sensitive information, typical
+consent mechanisms in e-commerce EACs often render consent
+superficial. Data
+handling details are usually found buried in dense, lengthy terms and
+conditions, which are difficult for a layperson
+to comprehend due to technical
+Lu (2022) further
+notes that privacy notices are often ‘ambiguous, open-ended, [and]
+over-simplified,’ obscuring how
+EACs transform user
+Lu’s example of
+Google’s vaguely worded privacy terms highlights how consumers struggle to
+anticipate data handling.
+these profound challenges to user understanding, stemming from opaque AI
+processes and inadequate disclosures, casts serious
+doubt on whether EAC
+providers genuinely obtain valid informed consent per APP 3, as users cannot
+grasp how their sensitive information
+is processed and utilised by these
+C Data Exploitation in the Digital Age
+The commercial landscape through which EACs are offered and operate presents
+a range of systemic risks to user privacy, often pitting
+it against the
+interests of private entities hoping to profit from data. It is evident that
+information is becoming the next valuable
+asset in the digital age. Murdoch
+points out that corporations may not sufficiently prioritise user privacy over
+data monetisation.
+raised by Murdoch aligns well with other scholars who view business models
+offering low-cost or free EACs as a way to secure
+larger profit margins while
+simultaneously developing public trust and brand awareness, potentially muddying
+underlying data exploitation
+The fact that EACs
+collect sensitive health information by conversing with their users, illustrates
+how data becomes enriched, allowing
+commercial entities to generate valuable
+behavioural data that can be sold to third parties.
+An important aspect of the data exploitation risk is how data is transferred
+across different jurisdictions. Today’s prominent
+EACs are developed,
+housed and operated by overseas companies with servers often outside Australia.
+For instance, when Google took
+over DeepMind (an AI research laboratory founded
+in the United Kingdom),
+notes that there was much controversy over the fact that Google was able to
+transfer control of shared patient data from
+the United Kingdom into the United
+States without consulting the patients whose data was
+transferred.
+This example of
+cross-border information transfer highlights a couple of critical concerns: the
+diminished value of informed consent
+in such scenarios and the potential for
+companies to transfer information, arguably to take advantage of regulatory
+differences and
+escape into less stringent privacy law jurisdictions.
+While APP 8 aims to safeguard personal information disclosed overseas by
+mandating that the disclosing entity takes ‘reasonable
+ensure the overseas recipient does not breach the
+the practical reality of
+this framework faces significant challenges, particularly when dealing with
+large, multinational EAC providers.
+A common approach suggested by the OAIC for
+fulfilling this obligation involves establishing a contract requiring the
+overseas party
+to uphold privacy standards comparable to the
+The OAIC also notes that
+the assessment of what constitutes ‘reasonable steps’ is
+context-dependent, and can be influenced
+by factors such as the nature of the
+existing relationship between the parties or verifiable safeguards already in
+place by the overseas
+party, which help determine the appropriate protective
+measures in specific
+circumstances.
+However, implementing and verifying adherence to the relevant APPs within
+these global EAC providers’ complex and often non-transparent
+operational
+environments can make this difficult for Australian companies to undertake. As
+the Replika example illustrates, when
+data practices are opaque and obscure, it
+often takes regulatory intervention to bring potential issues to light. Until an
+EAC provider
+is scrutinised, multinational firms may not perceive enforcement
+risk as sufficiently convincing to prioritise robust compliance
+with mandated
+safeguards, thereby allowing data exploitation risks to continue.
+An Australian example that illustrates the cross-border data vulnerabilities
+and challenges of enforcing principles like APP 8 is
+through a recent
+investigation done by the Deputy Commissioner (‘DC’) of the Office
+of the Victorian Information Commissioner’s
+(‘OVIC’) that
+looked into a Child Protection Worker’s (‘CPW’) use of
+According to the DC, a
+Child Protection Worker revealed a ‘protected’ child’s
+sensitive personal information into
+ChatGPT in order to draft a Protection
+Application Report (generally submitted to Children’s
+These findings are
+significant as they highlight how sensitive personal information can be placed
+outside national oversight and
+control, into the hands of a company like OpenAI
+who can freely use the information in whatever way they
+The systemic failures
+noted by the DC involving the Department of Families, Fairness and
+Housing’s (‘DFFH’) lack
+of AI-specific controls, demonstrate
+that the ‘reasonable steps’ required by data protection principles
+to assess risks
+and safeguard sensitive information were critically absent. This
+oversight, coupled with the Information Privacy Principles 3.1 and
+illustrates how Australian
+data protection ideals can be undermined, rendering enforcement impractical.
+D Black Box Conundrum and Regulatory Shortfall
+AI’s ‘black box’ conundrum is another emerging area of EACs
+that raises fundamental privacy concerns. A black box
+is a system that obscures
+how an AI processes data and prevents the user from understanding how it
+produces responses.
+Migliorini observes, hiding the way an AI breaks down the information it
+collects from its users and then produces a response
+to that input can have
+detrimental effects – namely impacting ‘vulnerable and naïve
+population[s] of users.’
+This directly impacts important safeguards like informed
+Likewise, Lu reveals that when the internal workings of an AI are opaque,
+‘[it] makes it difficult to assess the patterns and
+decisions’ produced by the
+The case study involving the
+OVIC investigation touched on a similar issue, AI tools like ChatGPT lack the
+human oversight and understanding
+of the inputs they receive and may sometimes
+produce inaccurate information, coined by scholars as
+‘hallucinations’.
+the context of EACs, this can be fundamentally challenging as users interacting
+are unaware as to whether the advice they are
+receiving is accurate and can help
+them cope with their mental health conditions. Furthermore, given how
+sophisticated and opaque
+an AI system is, it also amplifies privacy threats like
+re-identification, where AI can be used to untangle traditional anonymising
+techniques to uncover personal information that may identify vulnerable
+Given AI’s extensive data need, the particular sensitivities and
+consent safeguard failures engrained in EACs, the unavoidable
+risks of data
+exploitation, the fundamental challenges amplified by the black box issue and
+the threat of re-identification, demonstrate
+that the current privacy framework
+is ill-equipped to address these novel risks proactively. Murdoch’s
+observation that regulation
+and oversight are currently falling behind is
+substantiated.
+Indeed, this
+inadequacy is not only an academic concern but has been recognised at a federal
+policy level. The Department of Industry,
+Science and Resources
+(‘DISR’) has unequivocally stated ‘that [the] current
+regulatory system is not fit for purpose
+to respond to the distinct risks that
+government’s acknowledgement here is rather powerful as it not only
+recognises that the current regulatory frameworks lack
+mandatory guardrails, but
+they also recognise that it may be important to harmonise with international
+standards like those drawn
+from the European Union and Canada’s proposed
+Artificial Intelligence Data Act
+IV THE ACCOUNTABILITY GAP: LIABILITY DETERMINATION AND WHO
+BEARS THE RESPONSIBILITY
+Given that the existing privacy frameworks are inadequate to manage the
+inherent risks of EACs, this leads to a critical examination
+of accountability.
+When harm occurs, and EAC providers hide behind the veil of the black box,
+determining liability and figuring
+out who should be held accountable presents
+an overwhelming challenge. This section examines the ‘accountability
+by examining the challenges of assigning liability and how obstacles
+like algorithm opacity or scattered responsibility in value
+contribute to accountability deficits.
+Navigating Legal Uncertainty
+With the recent rise of AI, especially EACs provided for through e-commerce
+platforms, numerous novel and ‘vexed liability questions’
+in response.
+accessible AI is and how it has spread into numerous practice areas (including
+mental health), it begins to prompt the
+question, what happens when harm occurs?
+Who is held liable? Well, according to Sullivan and Schweikart (2019),
+traditional legal
+doctrines dealing with liability are poorly suited for AI
+The statement made by
+the authors aligns with established legal principles in Australian medical
+negligence, where an essential element
+of a doctor’s duty of care is to
+warn a patient of all material risks of injury from a proposed treatment, as
+affirmed by the
+High Court in
+In the context of EACs,
+users may receive what they perceive as medical advice or treatment plans but
+this traditional method of
+communicating risk is absent.
+The absence of risk communication with EACs points to significant gaps in how
+existing legal frameworks address AI liability, particularly
+AI-induced harm. To
+appreciate how this leads to an accountability gap, it is important to briefly
+outline the tort doctrines that
+create the foundation for establishing
+liability. First and most prominent is the doctrine of negligence. It is well
+established
+that negligence relates to conduct that falls below the standard
+established by law to protect others against unreasonable
+This general expression is
+given further nuance by the High Court, detailing the fundamental elements of a
+negligence action:
+First, the proper resolution of an action in negligence depends on the
+existence and scope of the relevant duty of care. Secondly,
+whatever its scope,
+a duty of care imposes an obligation to exercise reasonable care; [...] Thirdly,
+the assessment of breach depends
+on the correct identification of the relevant
+risk of injury. Fourthly, breach must be assessed prospectively and not
+retrospectively.
+However, given that an AI’s black box prevents users from gaining
+insight as to how the AI has processed the information and
+the reasoning behind
+its response, it illustrates how difficult it would be for an aggrieved user to
+prove a breach, let alone establish
+Another relevant framework is product liability, which in Australia is
+informed by both common law negligence and, more significantly,
+Australian Consumer Law
+At common law, manufacturers and suppliers owe a duty to take reasonable care to
+ensure their products do not cause foreseeable harm
+other hand establishes a stricter regime, particularly with its provisions for
+‘goods’ with ‘safety defects,’
+where manufacturers can
+be held liable without proof of
+negligence.
+However, applying
+this framework of product liability to EACs in its current state presents
+considerable challenges.
+definition of ‘goods’ is
+broad enough to encapsulate software and
+potentially
+it currently lacks
+specific standards tailored for AI-enabled
+This immediately
+prompts fundamental questions: Should an EAC be classified as
+‘goods’ or a ‘service’ for
+Even if an EAC is
+treated as ‘goods,’ defining and proving a ‘safety
+defect’ that caused harm is difficult.
+Would a defect in the algorithm be
+sufficient or the hallucination that rendered harmful advice, especially when
+box’ nature of the AI obscures its
+Must the defect be
+present as a design flaw or could it arise from a failure to update or patch the
+The multitude of
+uncertainties in assigning blame underscore how difficult it would be for an
+aggrieved user to seek redress against
+EAC providers under existing liability
+frameworks.
+B Core Obstacles
+Black Box: A Barrier
+The ‘black box’ phenomenon in AI, previously discussed as
+creating serious privacy concerns and complicating traditional
+frameworks, emerges as a core obstacle that significantly hinders an aggrieved
+user in seeking appropriate redress for
+AI-induced harm. It is evident from the
+research that when opaque processes shield an algorithm, it directly impedes the
+of anyone to establish legal fault and causation – elements
+necessary for the doctrine of
+negligence.
+This is further
+compounded by the fact that the reasoning that underlies opaque processes in
+EACs is constantly changing as more
+information is fed into their ML components,
+making them incapable of explaining their reasoning for reaching a
+conclusion.
+The challenge for policymakers is how current frameworks can be improved to
+dissect an AI’s opaque reasoning process effectively
+so aggrieved parties
+can establish legal fault and causation. A recently filed complaint in the US
+District Court of Florida,
+Garcia v Character Technologies, Inc.
+illustrates this exact concern.
+The plaintiff asserts negligence against the defendants, Character Technologies,
+following the tragic death of the plaintiff’s
+son (allegedly due to
+interactions with the AI chatbot and a failure by the defendants to warn of
+While this complaint may
+not target the black box issue exclusively, it does highlight the difficulty for
+the plaintiff to substantiate
+a negligence claim. The fact that the internal
+decision-making of an AI is obscure will only further complicate the path to
+Scattered Responsibility
+Another core obstacle in assigning accountability is the issue of large,
+complex and fragmented value chains. Fraser and Suzor highlight
+fragmentation makes it difficult to attribute harmful outputs from an EAC to a
+specific entity’s ‘failure to
+exercise control over a reasonably
+foreseeable risk.’
+this means is that there is not just one party that creates the EAC, thereby
+held accountable if an EAC hallucinates and generates
+inaccurate information.
+The complex web behind the creation of an EAC to the end delivery point where it
+is released on an e-commerce
+platform involves a multitude of
+Furthermore, Sullivan
+and Schweikart’s research points to a rather critical point: it would be
+unfair to assign liability to
+a designer of the AI, when in fact they are far
+removed in both time and location to have materially affected the way the ML was
+OVIC Report
+serves as an important illustration of scattered
+responsibility.
+It highlights
+that while the CPW (the individual who used ChatGPT) was involved,
+accountability could also extend to the DFFH (for
+failing to recognise and
+implement AI-specific safeguards) and to OpenAI (for the faulty functioning of
+inaccurate information),
+making it difficult to assign ultimate responsibility
+to a single entity. Regulators must, therefore, grapple with a difficult choice
+to allow harms to go unaddressed or risk improperly assigning blame amongst the
+many actors involved in an EAC’s journey from
+the development stage to
+offering to consumers via e-commerce.
+The Accountability Deficit
+The core obstacles described above illustrate how opaque algorithms and
+scattered responsibility in a large, multi-level value chain
+can lead to the
+unfair mistreatment of consumers. Fraser and Suzor further illuminate one way
+this occurs by explaining it through
+the lens of their concept known as the
+‘moral crumple
+The moral crumple
+zone is described as attaching blame or responsibility on the user rather than
+the machine (or in this case the
+Fraser and Suzor argue
+that it is easier to attach causation and fault to the end user for failing to
+respond correctly, instead
+of scrutinising the larger
+This idea is further
+exacerbated when EACs contain disclaimers that limit liability of the providers
+and shift responsibility onto
+the party that is harmed, leading to an
+accountability deficit.
+It is evident that traditional legal doctrines struggle to assign liability
+for harms stemming from AI effectively, and core obstacles
+like the ‘black
+box’ and scattered responsibility in complex value chains and the inherent
+risks of consumers becoming
+a moral crumple zone illustrate how there are
+considerable accountability deficits within the e-commerce sphere of EACs. Not
+does this undermine consumer trust, but it leaves vulnerable users like
+those dependent on EACs for mental health support, unable
+to find legal redress
+if circumstances arise and the EAC provides harm rather than the help it was
+designed for. That is why there
+needs to be better safeguards, such as those
+recommended in DISR’s proposal paper that aim to establish more robust
+for AI, compelling EAC providers towards greater accountability and
+transparency.
+V CONCLUSION AND RECOMMENDATIONS
+Given that AI is rapidly evolving, the current legal and regulatory
+frameworks have proven inadequate in grappling with the unique
+liability and accountability challenges that AI-driven technologies like EACs
+present. This article critically analysed
+how AI’s extensive data appetite
+clashes with EAC providers’ failures in implementing valid consent
+mechanisms, creating
+major privacy vulnerabilities. Data exploitation by AI
+creators, evidenced by cases like DeepMind and Replika, further exacerbates
+these risks. The ‘black box’ nature of AI often allows providers to
+circumvent transparency requirements under the Act.
+The OVIC ChatGPT
+investigation further highlighted risks from opaque processing and uncontrolled
+cross-border data flows.
+Similarly, this article examined the liability and accountability frameworks
+that prove that traditional legal doctrines associated
+with establishing
+negligence are inadequate in addressing AI-induced harm. The absence of
+legislative guidance only complicates this
+effect further, as it demands urgent
+attention to legal reform to modernise the way fault and causation principles
+can be established.
+Given that negligence requires clear fault attribution, an
+AI’s black box obscurity makes it exceptionally challenging for
+wish to seek redress from harm.
+Addressing these inadequacies foremost requires targeted legislative reform.
+Legislators should draw inspiration from the DISR’s
+proposal for mandatory
+guard rails for high-risk AI systems, potentially incorporating measures seen in
+such as assessments of reasonably foreseeable adverse
+impacts, mitigation measures testing and human
+Crucially, to counter
+the issue of algorithmic opacity, legislative reform must also consider
+mandating algorithmic disclosures,
+compelling companies to reveal core
+managerial and technical aspects of their AI applications to safeguard privacy
+and personal information.
+legislative measures would significantly improve the adequacy of the existing
+framework and better protect vulnerable Australians
+from privacy harms and
+accountability deficits seen internationally, such as those highlighted in Italy
+and the United States. Ultimately,
+ensuring a balance between promoting
+empathetic AI and implementing proactive data and privacy protections is
+critical. It will safeguard
+individuals and foster trust necessary for a
+sustainable evolution in the e-commerce landscape.
+See generally Junaid Bajwa et
+al, ‘Artificial Intelligence in Healthcare: Transforming the Practice of
+Medicine’ (2021)
+Future Healthcare Journal
+<https://doi.org/10.7861/fhj.2021-0095>.
+See generally Liana Spytska,
+‘The Use of Artificial Intelligence in Psychotherapy: Development of
+Intelligent Therapeutic
+Systems’ (2023) 13
+BMC Psychology
+175:1–12, 5 <https://doi.org/10.1186/s40359-025-02491-9>.
+See generally Blake Murdoch,
+‘Privacy and Artificial Intelligence: Challenges for Protecting Health
+Information in a New Era’
+BMC Medical Ethics
+122:1–5, 2 <https://doi.org/10.1186/s12910-021-00687-3>.
+Julian De Freitas et al,
+‘Chatbots and Mental Health: Insights into the Safety of Generative
+AI’ (2024) 34(3)
+Journal of Consumer Psychology
+<https://doi.org/10.1002/jcpy.1393>.
+Babatunde Stephen Adedeji,
+‘Integrative Strategies Combining AI and Therapy for Trauma, Addiction,
+and Mental Health Management’
+(2025) 7(1)
+International Research
+Journal of Modernization in Engineering Technology and Science
+<https://www.doi.org/10.56726/IRJMETS65940>.
+Spytska (n 2).
+David B Olawade et al,
+‘Enhancing Mental Health with Artificial Intelligence: Current Trends and
+Future Prospects’ (2024)
+Journal of Medicine, Surgery, and Public
+100099:1–10, 5
+<https://doi.org/10.1016/j.glmedi.2024.100099>.
+Becky Inkster, Madhura
+Kadaba and Vinod Subramanian, ‘Understanding the Impact of an AI-Enabled
+Conversational Agent Mobile
+app on Users’ Mental Health and Wellbeing with
+a Self-Reported Maternal Event: A Mixed Method Real-World Data mHealth
+Frontiers in Global Women’s Health
+1084302:1–10, 7 <https://doi.org/10.3389/fgwh.2023.1084302>.
+De Freitas et al (n 4) 482;
+See also Inkster, Kadaba and Subramanian (n 11).
+Olawade et al (n 9).
+Olawade et al (n 9) 7; See
+generally Murdoch (n 3) 2.
+See generally Murdoch (n
+Soumia Z El Mestari,
+Gabriele Lenzini and Huseyin Demirci, ‘Preserving Data Privacy in Machine
+Learning Systems’ (2024)
+Computers and Security
+103605:1–22, 1 <https://doi.org/10.1016/j.cose.2023.103605>; See
+also Department of Industry, Science and Resources, Safe
+and Responsible AI in
+Australia: Proposal Paper for Introducing Mandatory Guardrails in High-risk
+Settings (Report, September 2024)
+1, 10 (‘DISR’).
+Sara Gerke and Delaram
+Rezaeikhonakdar, ‘Privacy Aspects of Direct-to-consumer Artificial
+Intelligence/Machine Learning Health
+Apps’ (2022) 6
+Intelligence-Based
+100061:1–22, 1
+<https://doi.org/10.1016/j.ibmed.2022.100061>.
+El Mestari, Lenzini and
+Demirci (n 17) 5.
+Murdoch (n 3) 2.
+See generally Office of the
+Australian Information Commissioner,
+Guidance on Privacy and the Use of
+Commercially Available AI Products
+(Web Page, 21 October 2024)
+<https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-the-use-of-commercially-available-ai-products>.
+Office of the Australian
+Information Commissioner,
+Australian Privacy Principles Guidelines
+(Report, December 2022) 17
+<https://www.oaic.gov.au/__data/assets/pdf_file/0030/40989/app-guidelines-combined-December-2022.pdf>
+(‘OAIC APP Guidelines’); See also
+OAIC APP Guidelines (n 22)
+Natasha Lomas,
+‘Replika, A “Virtual Friendship” AI Chatbot, Hit with Data Ban
+in Italy over Child Safety’,
+Tech Crunch
+(online, 3 February 2023)
+<https://techcrunch.com/2023/02/03/replika-italy-data-processing-ban/>.
+22) sch 1; OAIC APP Guidelines (n 22) 62.
+OAIC APP Guidelines (n 22)
+sch 1 APP 3.3(a).
+Ibid (emphasis added).
+OAIC APP Guidelines (n 22)
+Ibid 84–5; Australian
+Commission on Safety and Quality in Healthcare, Informed Consent (Web Page,
+<https://www.safetyandquality.gov.au/our-work/partnering-consumers/informed-consent>;
+(n 22) s 6(1) (definition of consent).
+sch 1 APP 3.5.
+Nicole Martinez-Martin and
+Karola Kreitmair, ‘Ethical Issues for Direct-to-Consumer Digital
+Psychotherapy Apps: Addressing
+Accountability, Data Protection, and
+Consent’ (2018) 5(2)
+JMIR Mental Health
+<https://doi.org/10.2196/mental.9423>.
+Sylvia Lu, ‘Data
+, 2111 <https://doi.org/10.15779/Z38804XM07>; Clara
+Cestonaro et al, ‘Defining Medical Liability When Artificial Intelligence
+Is Applied on Diagnostic Algorithms: A Systematic Review’ (2023) 10
+Frontiers in Medicine
+1305756:1–12, 3
+<https://doi.org/10.3389/fmed.2023.1305756>.
+Lu (n 35) 2112.
+Murdoch (n 3) 2.
+Martinez-Martin and
+Kreitmair (n 34) 2.
+Rehan Raheem, ‘What
+Is DeepMind and How does It Work?’,
+(Blog Post, 14 August
+<https://www.linkedin.com/pulse/what-deepmind-how-does-work-rehan-raheem-ukrnf>.
+Murdoch (n 3).
+OAIC APP Guidelines (n 22)
+142 [8.1]–[8.2].
+Ibid 146 [8.16].
+Ibid [8.17].
+Office of the Victorian
+Information Commissioner,
+Investigation into the Use of ChatGPT by a Child
+Protection Worker
+(Report, September 2024) 1 (‘
+Ibid 13 [25].
+Office of the Victorian
+Information Commissioner,
+IPP Guidelines
+(Web Page, 14 November 2019)
+<https://ovic.vic.gov.au/privacy/resources-for-organisations/guidelines-to-the-information-privacy-principles/>.
+Sara Migliorini,
+‘“More than Words”: A Legal Approach to the Risks of
+Commercial Chatbots Powered by Generative
+Artificial Intelligence’
+European Journal of Risk Regulation
+<https://doi.org/10.1017/err.2024.4>; Matthew Kosinski, ‘What Is
+Black Box Artificial Intelligence (AI)?’,
+(Web Page, 29 October
+2024) <https://www.ibm.com/think/topics/black-box-ai>.
+Migliorini (n 48) 720.
+See above nn 32–6 and
+accompanying text.
+Lu (n 35) 2098.
+OVIC Report (n 44)
+See Murdoch (n 3) 3; El
+Mestari, Lenzini and Demirci (n 17) 9, Table 2.
+Murdoch (n 3) 3.
+DISR (n 17) 2.
+Ibid 31; See generally
+Innovation, Science and Economic Development Canada,
+Artificial Intelligence
+and Data Act
+(Web Page, 27 September 2023)
+<https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act>.
+Paul Nolan and Rita
+Matulionyte, ‘Artificial Intelligence in Medicine: Issues When Determining
+Negligence’
+(2023) 30(3)
+Journal of Law and Medicine
+Hannah R Sullivan and Scott
+J Schweikart, ‘Are Current Tort Liability Doctrines Adequate for
+Addressing Injury Caused by AI?’
+(2019) 21(2)
+AMA Journal of Ethics
+e160:1–7, 3 <doi: 10.1001/amajethics.2019.160>.
+Wallace v Kam
+[2013] HCA 19
+250 CLR 375.
+Sullivan and Schweikart (n
+Roads and Traffic
+Authority of NSW v Dederer
+(2007) 234 CLR 330
+, [18] (Gummow J).
+Nolan and Matulionyte (n
+Competition and Consumer
+(Cth) sch 2
+Australian Consumer Law
+Donoghue v Stevenson
+[1932] AC 562.
+Competition and Consumer
+(definition of goods) (‘
+Australian Competition and Consumer Commission v Valve Corporation (No 3)
+[2016] FCA 196.
+The Treasury,
+AI and the Australian Consumer Law
+(Discussion Paper, October 2024) 1, 8
+<https://treasury.gov.au/sites/default/files/2024-10/c2024-584560-dp.pdf>.
+Ahmed Eldakak et al,
+‘Civil Liability for the Actions of Autonomous AI in Healthcare: An
+Invitation to Further Contemplation’
+Humanities and Social
+Sciences Communications
+<https://doi.org/10.1057/s41599-024-02806-y>.
+BPC Lawyers,
+Issues Around the Use of Artificial Intelligence in Surgical Procedures
+<https://www.bpclaw.com.au/current-issues-around-the-use-of-artificial-intelligence-in-surgical-procedures/>.
+Nolan and Matulionyte (n
+Sullivan and Schweikart (n
+Megan Garcia v Character
+Technologies, Inc.
+(MD Fla, 6:24-cv-01903, 22 October 2024)
+Character AI
+’); Julia Jacobson et al, ‘Artificial
+Intelligence and the Rise of Product Liability Tort Litigation: Novel Action
+AI Chatbot Caused Minor’s Suicide’,
+(Blog, 11 November 2024)
+<https://www.privacyworld.blog/2024/11/artificial-intelligence-and-the-rise-of-product-liability-tort-litigation-novel-action-alleges-ai-chatbot-caused-minors-suicide/>.
+Character AI
+Henry L Fraser and Nicolas
+P Suzor, ‘Locating Fault for AI Harms: A Systems Theory of Foreseeability,
+Reasonable Care and
+Causal Responsibility in the AI Value Chain’
+Law, Innovation and Technology
+<https://doi.org/10.1080/17579961.2025.2469345>.
+Ibid; Migliorini (n 48)
+721–3; Nolan and Matulionyte (n 57) 594.
+Sullivan and Schweikart (n
+58) 163, quoting Matthew U Scherer, ‘Regulating Artificial Intelligence
+Systems: Risks, Challenges,
+Competencies, and Strategies’
+(2016) 29(2)
+Harvard Journal of Law and Technology
+See above nn 44–7 and
+accompanying text.
+Fraser and Suzor (n 75)
+DISR (n 17) 29.
+Lu (n 35) 2139.
+Print (pretty)
+Print (eco-friendly)
+RTF format (79.8 KB)
+PDF format (316 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

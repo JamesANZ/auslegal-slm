@@ -1,0 +1,1992 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/DTLJ/2001/2.html
+Scraped: 2025-11-17 14:55:00
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+McRobert, Andrew --- "Digital Music & Copyright: Third Party Liability & Home Tapin" [2001] DigTechLawJl 2; (2001) 3(1) Digital Technology Law Journal 2
+Music & Copyright: Third Party Liability
+& Home Taping
+Andrew McRobert
+Senior Research Fellow
+Asia Pacific Intellectual Property Law Institute
+Murdoch University
+Introduction
+Music Technology - a Primer
+(MPEG-1, Audio Layer 3)
+Peer-to-Peer
+The Napster
+The Gnutella
+United States
+Subsistence
+of Copyright in Digital Music
+Liability of Users
+'Home Taping'
+of Napster for Vicarious Copyright Infringement
+of Napster for Contributory Infringement
+Sony Corp of
+America v Universal City Studios Inc.
+Subsistence
+of Copyright in Digital Music
+Liability of Napster Users
+Fair Dealing
+'Home Taping'
+of Napster for 'Authorising' Infringement
+Subsistence
+of Copyright in Digital Music
+Treaties Implementation
+of Napster Users
+'Home Taping'
+Liability of
+posed by de-centralised file-sharing technologies
+Introduction
+The Internet is something of a
+double-edged sword for the recorded music industry. Whilst it presents
+itself as a radically reinvented
+delivery model for digital music
+facilitates sophisticated copyright infringement on a global scale.
+recording industry has been slow in adopting Internet technology for
+two main reasons. First, there has been a lack of a secure
+digital file
+formats which incorporate copying protection mechanisms. Second, the
+Internet threatens the position of the recording
+companies as the
+'middleman' between artists and consumers, as digital technology allows
+artists to record and then distribute their
+songs directly to consumers
+at minimal cost.
+The failure of the major recording labels to make
+the transition to online distribution has allowed a number of
+unauthorised online
+music distribution technologies to emerge. Perhaps
+the most infamous of these technologies is the software owned by
+("Napster"). At
+its peak, Napster had more than 20 million users worldwide
+and the company expected that number
+to grow to 75 million by the end of 2000.
+At peak times, there were about a million simultaneous users of
+Napster. To put that figure in perspective, America Online (the largest
+ISP in the United States with a market capitalisation of about US$108.5
+billion), has about 1.6 million users at peak hour.
+The litigation concerning
+Napster's MusicShare software has received widespread mainstream media
+coverage. In the litigation, the
+Recording Industry Association of
+America ("RIAA") and eighteen record companies
+allege that Napster is "running an online bazaar devoted to the piracy
+rendering it
+liable for, inter alia, contributory and vicarious copyright
+infringement. In July 2000, Napster was ordered by the
+Ninth Circuit to
+filter out all songs in which the plaintiffs' held copyright. The
+result of the required modifications to the MusicShare
+software was to
+drive most of Napster's consumers, and most of the available files,
+away from the service. Napster conceded that
+a few of the songs
+identified by the plaintiffs were still slipping through the service
+before it voluntarily shut itself down for
+"database upgrades" on 1
+July 2000. However, only about 100,000 to 150,000 people were still
+using the service, sharing an average
+of just 2.5 songs, according to
+consulting firm Webnoize.
+In September 2001, Napster reached a tentative
+settlement of a separate lawsuit involving the National Music
+Publishers' Association
+and struck a deal on distributing songs for a
+fee. Under the settlement, Napster will pay $26 million in damages for
+infringement
+of copyright. The deal is intended to compensate
+songwriters and music publishers in respect of the copyright vesting in
+song lyrics
+and melodies (but not in respect of the sound recording
+RIAA, which represents a much bigger hurdle, given that its members
+are now setting up competing services such as MusicNet.
+paper is not intended to serve as a chronology of the Napster
+litigation, but rather to examine two of the central issues arising
+the Napster litigation under United States, Australian and Chinese
+infringement of copyright by others; and (2) the issue of 'home
+taping'. The analysis suggests that whilst current copyright principles
+are adequate to deal with the challenges posed by Napster-like
+technology, they are ill-equipped to counter more ingeniously designed
+distribution technologies, such as those based on the Gnutella
+Music Technology - a Primer
+(MPEG-1, Audio Layer 3)
+is a standard, non-proprietary compression algorithm designed to make a
+digital audio file smaller by a factor of approximately
+twelve to one
+while preserving the original
+level of sound quality when played. The format was developed in 1992 by
+the Moving Pictures Expert
+Group of the International Organisation for
+Standardisation in conjunction with the Fraunhofer Institute. MP3
+achieves the reduction
+in file size through the use of software called
+a 'codec' (compressor/de-compressor algorithm) and a process referred
+to as 'psycho-acoustic
+masking'. The process relies on the imperfect
+nature of human hearing and allows certain inaudible tones from a piece
+of music to
+be stripped out before compression.
+MP3 is the most popular music
+file format in use on the Internet, due in part to the fact that it
+does not contain any security features
+such as watermarks or serial
+copying protection mechanism.
+Peer-to-Peer
+Peer-to-peer
+networking (often referred to as P2P), is a communications model in
+which each party has the same capabilities and either
+initiate a communication session. It can be contrasted with alternative
+communications models such as the client/server
+model and the
+master/slave model. In some cases, peer-to-peer communications are
+implemented by giving each communication node
+both server and client capabilities.
+Internet, peer-to-peer is a type of transient network that allows a
+group of computer users with compatible networking software
+applications to connect with each other and directly access files from
+one another's hard drives. Napster and Bearshare (a Gnutella
+client) are examples of this kind of peer-to-peer software.
+A user must first download and run the particular
+peer-to-peer networking application. After launching the program, the
+user enters
+the IP address
+computer belonging to the network, or employs an automated tool to
+perform this function.
+computer finds another network member online, it will connect to that
+user's connection (who has obtained their IP address
+from another
+user's connection and so on).
+The Napster
+"MusicShare" software was available as a free download from its Web
+site located at
+http://www.napster.com
+The software became fully functional once a user registered with
+Napster by selecting a username and a password. Persons who registered
+were not required to use their real name or address.
+Once a user logged on to the
+Napster network (simply by connecting to the Internet and running the
+Napster software), the MusicShare
+software interacted with a Napster
+server. If the user had enabled the sharing of MP3 files on their
+computer, Napster uploaded the
+names of the user's files to its servers
+(and not the music files themselves). Once the filenames were
+successfully uploaded to the
+server, they became a 'location' on the
+network. A particular user's MP3 files were only accessible to other
+users while he or she
+was online.
+All Napster users were able to access the MP3
+files located on other users' computers by using a built-in tool to
+song, either by the name of the artist or the
+title of the song. The software performed a simple text search of the
+file names indexed
+on the relevant server and returned a list of
+specific MP3 file names to the user. The user was then required to
+peruse the list
+in order to determine if the desired digital music file
+was among those listed.
+the desired song was listed, the requesting user simply double-clicked
+on the file to download it to their computer
+The server-side software then engaged in a dialogue with the requesting
+user's software and that of the user hosting the MP3 file
+user"). The Napster server to which the requesting user is connected
+obtained IP address information from the host user. The
+server then
+communicated the host user's address information to the requesting
+user, whose software established a connection with
+the host user's
+software and subsequently downloaded the MP3 file from the host user's
+The significance of this approach is that MP3
+files were transferred over the Internet as between users, and were
+neither stored,
+nor passed through, any Napster controlled server.
+The Gnutella
+is a protocol
+designed for
+sharing files in a distributed network. The Gnutella protocol was
+designed by AOL's Nullsoft division to surpass the
+file sharing
+capabilities of Napster, but was soon released into the public domain.
+It allows a user to share any type
+of file from his or her computer and make it available to anyone using
+Gnutella-based software
+(such as the Bearshare
+or LimeWire
+programs). Therefore,
+Gnutella-based clients are not limited to sharing MP3 files, but also
+share digital movie files, as well as
+a number of other types of
+content. By way of example, a user with sufficient bandwidth
+can download every episode of the
+Warner Brother's TV series "Buffy the Vampire Slayer" through the
+Gnutella network.
+no Gnutella servers in the traditional sense, like web servers or mail
+servers. A Gnutella client is a server. This means
+that Gnutella is a
+distributed protocol, where every machine in the network is connected
+to every other machine and no single server
+is responsible for
+distributing all of the content. Therefore, if one computer goes down
+the network is unaffected, because all the
+other machines are connected
+to each other through multiple redundant connections.
+Gnutella protocol follows the peer-to-peer model explained above. When
+you use a Gnutella program like Bearshare to do a search
+software sends a search query to all the computers you are connected
+to. These computers return their results to you and
+pass your query on
+to each of the computers they are connected to. This process continues
+and scans the Gnutella-net for the file
+you are looking for.
+analyst has described the Gnutella architecture in the following way:
+Napster, iMesh or any of the other similar systems, no central point
+links people together and serves as an index to all of
+their files and
+other in a massive digital daisy chain, passing
+the line as they come in."
+This decentralised file sharing architecture has
+significant implications for the policing and prosecuting of copyright
+infringements.
+& Digital Music Technology
+United States
+Subsistence
+of Copyright in Digital Music
+The music files exchanged
+through the use of Napster would
+in the majority of cases be subject to two distinct copyrights under
+the United States
+1976 ("U.S. Act")
+that is, the copyright in the
+musical composition and the copyright in the sound recording.
+As is the position under
+Australian and Chinese law, the copyright in a sound recording protects
+an artist's particular rendition
+of a song and is independent of the
+musical and/or literary work copyrights.
+submits that the definition of "sound recording" in the U.S. Act is
+sufficiently broad to cover musical compositions recorded
+on a compact
+disc (CD), computer's hard disk or similar storage media
+106 of the U.S. Act provides that owners of copyright enjoy certain
+exclusive rights, including the right:
+reproduce the copyrighted work in copies or phonorecords;
+distribute copies or phonorecords of the copyrighted work to the public
+by sale or other transfer of ownership, or by rental, lease,
+In the case of literary and musical
+works, to perform the copyrighted work publicly;
+the case of literary and musical works, to display the copyrighted work
+publicly; and
+In the case of sound recordings, to
+perform the copyrighted work publicly by means of a digital audio
+transmission.
+the 1976 Act did not provide the owners of copyright in sound
+recordings with a public performance right. Indeed, no public
+performance right was introduced until the passing of the
+Performance Right in Sound Recordings Act
+(US) in 1995.
+Pursuant to this Act owners of copyright in sound recordings were
+granted the exclusive right to authorise the digital
+transmission of
+their works.
+Certain Internet communications are also
+encompassed. The basis of these can be traced to Article 8 of the WIPO
+("WCT") which provides that:
+authors of literary and artistic works shall enjoy the exclusive right
+of authorizing any communication to the public of their
+works, by wire
+or wireless means, including the making available to the public of
+their works in such a way that members of the public
+may access these
+works from a place and at a time individually chosen by them."
+provision was seen as necessary in light of the problems that some
+member states had experienced with existing technology-specific
+definitions such as broadcasting and cable diffusion.
+Under the U.S. Act copyright
+owners in musical works have the exclusive right to perform or display
+the work publicly. "To perform
+or display a work 'publicly'" is defined
+in s101 as,
+to transmit or otherwise communicate a performance or display of the
+work to ... the public, by means of any device or process,
+whether the
+members of the public capable of receiving the performance or display
+receive it in the same place or in separate places
+and at the same time
+or at different times."
+definition of "transmit or otherwise communicate" is given in the Act.
+As will be seen in the ensuing discussion, the new communication
+has a bearing on the copyright liability of users of the Napster
+Liability of Users
+a plaintiff cannot succeed on a claim of contributory or vicarious
+one must first examine the
+potential liability of MusicShare users.
+is likely that users will infringe a number of the exclusive rights of
+in the typical
+operation of Napster. For example:
+Infringement of the exclusive reproduction right
+'Ripping' songs from CD or
+other media to a computer hard disk drive ("HDD") in order to exchange
+them through Napster; and
+Downloading MP3 files
+to their computer;
+Infringement
+of the exclusive right to "perform or display the work publicly" and
+the digital transmission right in relation to sound
+recordings when:
+A host user's software transfers MP3
+recordings to a requesting user's computer; and
+files are played (or "streamed") by a requesting user as they are
+downloaded.
+combat the contributory and vicarious infringement claims, Napster has
+raised two affirmative defences in support of MusicShare
+users. First,
+that their use constitutes 'fair use' under section 107 of the U.S.
+legislation. Second, that such use is covered by
+the 'home taping'
+exception contained in s1008 of the Act. The following section of this
+paper discusses these two defences.
+The U.S. fair use doctrine is
+a common law doctrine employed by the judiciary to counteract the broad
+definition of exclusive rights
+in the statute.
+Section 107 of the U.S. Act provides a non-exhaustive list of factors
+to employ in analysing a fair use claim. These factors include:
+The purpose and character of the use, including
+whether such use is of a commercial nature or is for non-profit
+educational purposes;
+The nature of the
+The amount and substantiality
+of the portion used in relation to the copyrighted work as a whole; and
+The effect of the use upon the potential market
+for or value of the copyrighted work.
+to the first factor, Napster has sought to characterise Napster as
+predominantly facilitating private non-commercial 'sharing'
+The term 'sharing' is somewhat
+misleading, in that if I 'share' a CD with a friend, no reproduction of
+the CD is involved. In the
+Internet file-sharing context, music files
+are reproduced each time they are downloaded to a user's computer, and
+each user can individually
+enjoy the piece of music.
+fact that MusicShare users got something for free that they would
+ordinarily have to buy suggests that they reaped an economic
+by using Napster's software.
+creative nature of the copyright material exchanged through MusicShare
+tips the balance away from a finding of fair use under
+fact that the uploading and downloading of MP3 files using MusicShare
+involves copying the entirety of the copyright work further
+weakens the
+fair use claim. In
+Sony -v- Universal City Studios
+("Sony"), the
+U.S. Supreme Court held that wholesale copying for private home use can
+tip the fair use analysis in favour of the
+copying is likely to adversely affect the market for the copyright
+there does appear to be some merit in the claim by Napster that its
+software contributes to sales of recorded music by acting
+'listening station', whereby users can 'road test' recordings that they
+are interested in before purchasing. At the peak
+of MusicShare's
+popularity, sales of CDs in the United States were at an all time high.
+However, one submits that the
+following posting on the
+Napigator.com
+Web site (in response to news reports that Napster was contemplating
+charging a monthly access fee), points to the long-term effect
+Napster on the market for recorded music:
+bucks a month ... for all I care they could set it to $500 a month. I'm
+not paying ... I don't know, but I don't feel that
+paying for something
+I can get for free's a good idea."
+provides users with unrestricted access to both authorised and
+unauthorised sound recordings.
+Napster's claims to the contrary, the primary value of Napster to its
+users is the ability to download music for free that
+otherwise have to pay for
+Given the above
+considerations, it is unlikely that a court would uphold the fair use
+'Home Taping'
+Napster also claims that its
+users are protected by the 'home taping' immunity conferred by section
+1008 of the U.S. Act. This section,
+introduced by the
+provides that:
+"No action may be brought under this
+title alleging infringement of copyright based on the manufacture,
+importation, or distribution
+of a digital audio recording device, a
+digital audio recording medium, an analog recording device, or an
+analog recording medium,
+or based on the non-commercial use by a
+consumer of such a device or medium for making digital musical
+recordings or analog music
+recordings."
+The application of the AHRA to
+the 'brave new world' of digital music on the Internet, a development
+unforseen by its drafters, was
+the subject of proceedings in the 1999
+decision of the U.S. Court of Appeals for the Ninth Circuit in
+Industry Association of America -v- Diamond Multimedia Systems
+("Diamond").
+involved an application by the RIAA for an injunction under
+ss1002(a)(1) and 1003(a) of the U.S. Act to prevent the release of
+"Rio PMP 300" portable MP3 player ("Rio"). These sections
+prohibit the sale of "digital recording devices" which do not
+incorporate
+the Serial Copy Management System ("SCMS"), or do not
+comply with certain administrative requirements. Copyright infringement
+not pleaded in the case.
+Ninth Circuit ruled that the Rio did not directly reproduce a digital
+music recording because music files stored on a computer's
+hard drive,
+the source of the Rio's MP3 files, are excluded from the statutory
+definition of a "digital music recording".
+This is due to the fact that a computer hard drive is comprised of more
+than "only sounds, and material, statements, or instructions,
+incidental to those fixed sound" as required by the relevant statutory
+definition.
+Furthermore,
+the Court concluded that the statutory language of section 1001(5)(B)
+specifically precludes computer hard drives from
+the definition of
+digital music recordings.
+Court stated,
+, that a computer does not
+constitute a "digital audio recording device" under the Act, as it is
+not "designed or marketed for the
+primary purpose of ... making a
+digital audio copied recording for private use"
+The United States Copyright
+Office and the Department of Justice filed an amicus curiae brief with
+the Ninth Circuit criticising Napster's
+assertion of the s1008 defence,
+saying that it would allow people to trade music "on a scale beggaring
+anything Congress could have
+ruling that computer hard
+drives are outside the scope of s1008, it would appear that users of
+file sharing software such as Napster
+or Bearshare cannot avail
+themselves of the immunity from prosecution conferred by that
+of Napster for Vicarious Copyright Infringement
+The test for vicarious
+Bernstein and Co. -v- H.L. Green Co.
+("Shapiro"), is as follows:
+right and ability to supervise infringing activities by the direct
+infringer (but not necessarily knowledge); and
+direct financial interest in the direct infringement.
+liability prevents those who profit from copyright infringement from
+hiding behind an undercapitalised operation when the
+There can be no
+finding of vicarious or contributory infringement absent proof of
+direct infringement.
+to the first limb of the test, courts have generally looked to the
+practical, as opposed to the legal ability of a third party
+the activities of the direct infringer.
+Some guidance on the issue of
+Napster's liability for vicarious infringement case can be gleaned from
+case law. In the first case,
+Polygram -v- Nevada/TIG
+the plaintiff
+alleged that the defendant, the trade show organiser of COMDEX, was
+vicariously liable for the infringements perpetrated
+by four of 2,000
+exhibitors who publicly performed six copyright songs at the trade
+show. Whilst the court held in favour of the
+defendant on another issue
+it provided a detailed discussion,
+, of the vicarious liability issue.
+the issue of control, the court recognised that the defendant had
+various regulations, none of which prohibited the unauthorised
+broadcast or performance of copyright music during the exhibition. The
+court noted that the defendant's employees enforced the regulations
+that the defendant instructed exhibitors to comply with copyright laws.
+As a result, the court concluded that the defendant had
+the right and
+ability to control the direct infringers.
+On the financial benefit issue,
+the defendant acknowledged that music was an integral part of the
+exhibition, and that banning music
+would be a dramatic departure from
+its standard operating procedures.
+concluded that only some degree of financial benefit attributable to
+the direct infringement was necessary in order for
+the financial
+benefit element of the test to be satisfied.
+Fonovisa Inc. -v-
+Cherry Auction Inc.
+("Fonovisa")
+the plaintiff brought an action against the operators of a swap meet
+alleging, inter alia, contributory and vicarious
+Cherry Auction Inc. permitted
+vendors to sell counterfeit recordings of music that infringed the
+plaintiff's copyright. In discussing
+the control issue, the court made
+note of the fact that Cherry Auction had the right to terminate vendors
+for any reason whatsoever
+and through that right had the ability to
+control the activities of vendors on the premises.
+Further, Cherry Auction promoted the swap meet and controlled the
+access of customers to the swap meet area. Schroeder J analogised
+situation with that existing in
+Gershwin Publishing Corp.
+-v- Columbia Artists Management Inc.
+("Gershwin"), ruling that the control element was satisfied because the
+defendant (1) could control the direct infringers through
+its rules and
+regulations; (2) policed its booths to make sure the regulations were
+followed; and (3) promoted the show in which
+direct infringers
+participated.
+J, in holding the financial benefit limb to be satisfied, noted that
+the defendants reaped substantial financial benefits
+from admission
+fees, concession stand sales and parking fees, all of which "flowed
+directly from customers who want[ed] to buy the
+counterfeit recordings
+at bargain basement prices".
+stated that the court's decision in this regard was fortified by the
+line of cases that imposed vicarious liability on
+the operator of a
+business where "... infringing performances enhance the attractiveness
+of the venue to potential customers".
+Schroeder ruled that the sale of pirated recordings at the swap meet
+was a "draw" for customers, similar to the draw of the
+performance of
+pirated music in the line of dance hall cases canvassed in
+Significant parallels
+exist between the above cases and the issues under consideration in the
+Napster litigation. At the material
+time, Napster's terms and
+conditions of use stated, inter alia:
+Unauthorized copying, distribution, modification, public display, or
+public performance of copyrighted works is an infringement
+have been created or distributed without copyright
+owner authorization
+... you agree to comply with all of the notices, terms and conditions
+posted on the Napster web site, including
+but not limited to the Terms
+of Use and the Napster Copyright Policy posted thereon ... 4. ...
+Napster, Inc. may terminate this license
+at any time if you are in
+breach of any of these terms and conditions of use. Upon such
+termination you must and agree to immediately
+destroy all copies of the
+[software]."
+Further, when
+Napster was provided with a list of users who had allegedly infringed
+it cut the users'
+access to its system
+These factors
+suggest that Napster had the right to control its users.
+Napster has argued that it is technologically infeasible to distinguish
+between authorised and unauthorised material, this
+assertion does not
+ring true. Napster's servers maintain a constantly updated list of
+files, labelled with title and artist information.
+This information
+forms the entire basis of Napster's search facility, and is the sole
+basis by which Napster users identify songs
+to download. It would
+require only a technically simple modification to the software in order
+for it to read a list of unauthorised
+song titles and use this list to
+filter search results returned to users. Indeed, Napster employed
+filtering technology based on
+song filenames in an attempt to comply
+with orders made by Justice Patel in mid-2000.
+The issue of direct financial
+benefit is more complex. Certainly the company's announcement of a deal
+with BMG indicates that it is
+a commercial venture.
+However, there is little evidence that it has at all material times
+derived a direct financial benefit from its service. Perhaps
+strongest argument on this issue is that the substantial user base that
+Napster has cultivated has attracted a substantial level
+capital to the company, as well as increasing recognition of the
+'Napster' name among consumers. Further, the unauthorised
+available through Napster enhances the attractiveness of its service,
+similar to the sale of counterfeit recordings in
+. This notwithstanding, one submits that there may be some difficulty
+establishing the second limb of the test.
+of Napster for Contributory Infringement
+The U.S. action for
+contributory copyright infringement originates in tort law and stems
+from the notion that one who materially contributes
+to another's
+infringement should be held accountable.
+Although there is no express statutory basis for the doctrine,
+contributory infringement is recognised as a valid basis for finding
+person jointly and severally liable for the infringement of a
+The classic
+statement of the doctrine is contained in the following passage from
+"One who, with knowledge of the infringing
+activity, induces, causes or materially contributes to the infringing
+conduct of another,
+may be held liable as a 'contributory' infringer."
+does not need to establish actual knowledge of specific infringing
+acts, it is sufficient if the defendant has reason to know
+of the third
+party's direct infringement.
+The author submits that the argument that Napster
+"materially contributes" is stronger than any claim that it "induces"
+or "causes"
+the infringement. In
+Schroeder J, in discussing the 'material contribution issue', stated
+that it would have been difficult for the infringing activity
+place on the scale alleged without the support services provided by the
+swap meet proprietors.
+stated (at 264):
+"[The defendant] actively strives
+to provide the environment and the market for counterfeit recording
+sales to thrive. Its participation
+in the sales cannot be termed
+'passive', as [the defendant] would prefer."
+Ninth Circuit rejected the approach of the District Court in that case
+that the contribution to infringement should be limited
+circumstances in which the defendant "expressly promoted or encouraged
+the sale of counterfeit products, or in some manner protected
+identity of the infringers".
+preferred the analysis of the Third Circuit in
+Industries Inc. -v- Aveco Inc.
+that "providing the site and facilities for known infringing activity
+is sufficient to establish contributory liability"
+It has been held that a BBS
+operator who actively encourages the uploading of material by
+subscribers participates in the infringing
+In another case, a BBS operator, who had been notified of certain
+infringing activity but did not remove the material, was found
+materially contributed to the activity.
+Schroeder J is one of the
+judges that heard Napster's appeal against the original preliminary
+injunction. Her Honour has been reported
+as saying that the swap meet
+"controlled what was going on,
+on those premises. Here, Napster doesn't have any idea what's being
+transmitted".
+respectfully disagrees with her Honour's view. There can be little
+doubt that Napster had knowledge that acts of copyright
+infringement
+were carried out through the use of its service, indeed its terms and
+conditions of use contemplated this possibility.
+The fact that the
+technology in this case does not require physical interaction between
+Napster and its users should not be a material.
+Indeed, it is alleged
+that a document authored by Napster co-founder Shawn Fanning mentions
+the need to remain ignorant of users'
+real-life identities "since they
+are exchanging pirated music".
+Napster has
+also been informed on a number of occasions that infringing sound
+recordings are being traded through its facilities
+It would appear, certainly in
+view of the Ninth Circuit's decision in
+that Napster "materially contributes" to its users' infringement. It
+"actively strives to provide the environment and the market
+infringement] to thrive".
+Sony Corp of
+America v Universal City Studios Inc.
+decision is a
+seminal decision, representing a special category of case within the
+vicarious and contributory copyright infringement
+doctrines. In
+Universal City Studios sued the Sony Corporation for, inter alia,
+contributory and vicarious copyright infringement. Universal alleged
+that Sony's Betamax video recorders facilitated unauthorised copying of
+protected Universal programs by consumers.
+discussing Universal's allegations, the Supreme Court noted that in
+certain situations "the imposition of vicarious liability is
+just [because] the contributory infringer [is] in a position to control
+the use of copyrighted works by others and had
+authorized the use
+without permission from the copyright owner".
+The Court noted that the situation in
+distinguishable from such a case in that Sony did not have an ongoing
+relationship with the ultimate consumer.
+The Court further stated that:
+"... [i]f vicarious
+liability is to be imposed on petitioners in this case, it must rest on
+the fact that they have sold equipment
+with constructive knowledge of
+the fact that their customers may use that equipment to make
+unauthorised copies of copyrighted material.
+There is no precedent in
+the law of copyright for the imposition of vicarious liability on such
+The Court drew an analogy with the principle of
+patent law that the sale of "a staple article or commodity of
+commerce suitable for
+substantial non-infringing use[s]" does not
+constitute contributory infringement.
+The Court went
+on to say that:
+"... the sale of copying equipment,
+like the sale of other articles of commerce, does not constitute
+contributory infringement if
+the product is widely used for legitimate,
+unobjectionable purposes. Indeed, it need merely be capable of
+substantial non-infringing
+The Court concluded that "time-shifting" of
+television programmes
+fell within the
+parameters of the fair use doctrine.
+submits that the
+"non-infringing use"
+principle has little application to the Napster litigation. The
+critical factor in
+, and the point of
+departure from previous cases, was that the defendant in that case
+merely sold an 'article of commerce' and did
+not have an ongoing
+relationship with the consumer. The same cannot be said of Napster.
+Given this, the fact that Napster may have
+a number of substantial
+non-infringing uses is irrelevant.
+Subsistence
+of Copyright in Digital Music
+Under Australian copyright
+law, a typical pop song would attract a separate copyright in the
+literary work (in the lyrics), the musical
+work (the musical
+composition) and copyright in the sound recording under the
+(Cth) ("Act").
+"sound recording" is defined in
+as the "aggregate
+of sounds embodied in a record". "Record" is in turn defined as any
+"disc, tape, paper or other device in which
+sounds are embodied". These
+definitions are sufficiently broad to cover digitally recorded music,
+including music files stored on
+personal computers.
+Significant revisions to
+Australian copyright law were introduced with the enactment of the
+Amendment (Digital Agenda) Act
+("Digital Agenda
+which entered into law on 4 March 2001. The primary purpose of the
+Digital Agenda
+was to bring Australia's copyright legislation into
+conformity with its international obligations under the WIPO Copyright
+and WIPO Performances and Phonograms Treaty concluded in 1996.
+to these amendments, the exclusive rights of 'broadcasting' and 'cable
+diffusion' were replaced by a single right of "communication
+, which lists the exclusive rights of copyright
+owners in literary and musical works, now includes the following
+To reproduce the
+work in a material form;
+To publish the work;
+perform the work in public; and
+To communicate
+the work to the public.
+defines "communicate" as:
+" ... to make
+available online or electronically transmit (whether over a path, or a
+combination of paths, provided by a material
+substance or otherwise) a
+work or other subject matter ..."
+The Digital Agenda
+also includes for the first
+time a definition of "to the public", defining the term as meaning the
+public inside or outside Australia.
+rights exist in relation to sound recordings by virtue of
+Liability of Napster Users
+It is likely that a typical Napster user would
+infringe a number of distinct copyrights through the typical operation
+of the MusicShare
+software. For example:
+Infringement of the reproduction right by:
+'Ripping' tracks from CD to a HDD to exchange the files
+through Napster; and
+Downloading MP3 files to
+their computer;
+Infringement
+of the right of "communication to the public":
+By sharing files through Napster, that is, "making them
+available to the public"; and
+When a host user's
+software transfers a MP3 file to a requesting user's computer;
+playing of MP3 files as they are downloading 'streaming' may infringe
+either the right of public performance (depending on the
+user's context), or an infringement of the communication right.
+Fair Dealing
+Division Three of the
+sets out various exceptions to infringement.
+, which permits
+certain uses of copyright works for the purpose of research or study,
+lists the factors to be taken into account in
+determining whether or
+not a dealing with a copyright work is 'fair'.
+The factors to be considered are:
+purpose and character of the dealing;
+of the work or adaptation;
+The possibility of
+obtaining the work or adaptation within a reasonable time at an
+ordinary commercial price;
+The effect of the
+dealing upon the potential market for, or value of, the work of
+adaptation; and
+In a case where part only of the
+work or adaptation is copied - the amount and substantiality of the
+part copied taken in relation
+to the whole work or adaptation
+Although these factors are technically limited to
+the 'research or study' fair dealing defence, it is generally accepted
+should also be referred to in relation to other heads of fair
+Referring to
+the argument made above in relation to similar considerations under
+section 107
+of the U.S.
+, it is most unlikely that the infringing
+acts of Napster users would qualify as fair dealings under Australian
+'Home Taping'
+The only 'home taping' style
+exception under Australian copyright law is contained in
+section 111
+. This section states that a broadcaster's copyright is not
+infringed by the making of a copy of a broadcast for "private and
+use". However, the exception is narrow and the taping of many
+broadcasts will infringe copyright in the underlying literary, musical,
+dramatic and artistic works contained in the broadcast.
+Given the near impossibility of pursuing
+individual home copying infringements, the Australian Government
+attempted to impose a levy
+on blank tapes, and an exemption for home
+taping, similar to the scheme created by the AHRA in the United States
+However, the scheme was declared
+invalid under
+Constitution
+by the High Court in
+Tape Manufacturers Association Ltd -v- Commonwealth of Australia.
+of Napster for 'Authorising' Infringement
+section 13(2)
+it is provided that the exclusive right to do an act in relation to a
+work or other subject matter includes the right to authorise
+to do that act in relation to that work or subject matter. Under
+, it is provided that the copyright in a
+work or other subject matter is infringed by a person who, not being
+the owner of the copyright
+and without a licence from the same, does or
+authorises the doing in Australia of any act comprised in the
+Authorisation of
+infringement is a separate and distinct head of liability from any
+liability based on general principles of vicarious
+liability or agency
+The original judicial view of
+'authorisation' in Australian was narrow, requiring something akin to a
+positive act or express permission
+to perform an act in breach of
+following the decision of the Australian High Court in
+of New South Wales -v- Moorhouse
+("Moorhouse"), the word 'authorise' has its dictionary meaning of
+"sanctioning, approving or countenancing".
+It must be established that a
+direct act of infringement has taken place before any question of
+authorisation of infringement can
+the question before the Court was whether or not the University of New
+South Wales should be held liable for authorising the various
+infringement carried out by students using the library's photocopying
+facilities.
+following passage from the judgment is often cited as correctly stating
+the Australian test for authorising infringement.
+"Express or
+formal permission or sanction, or active conduct indicating approval,
+is not essential to constitute an authorisation:
+Inactivity or
+indifference, exhibited by acts of commission or omission, may reach a
+degree from which an authorisation or permission
+may be inferred ...
+However, the word 'authorise' connotes a mental element and it could
+not be inferred that a person had, by mere
+inactivity, authorised
+something to be done, if he neither knew nor had reason to suspect that
+the act might be done ... "
+The university had reasonable grounds to suspect
+that some infringements would occur if adequate precautions were not
+taken. The university
+failed to take any precautions, as there was no
+effective supervision of the machines nor adequate notices placed on or
+machines instructing users as to the position relating to
+Pursuant to the Digital Agenda
+amendments,
+Australian copyright legislation codifies the Moorhouse test in
+sections 36(1A)
+(1A). Under those provisions a Court will be
+required to have regard to:
+extent, if any, of the person's power to prevent the doing of the act;
+nature of the relationship between the person and the infringer; and
+the person took reasonable steps to prevent or avoid the infringement.
+When considering copyright
+infringement claims against manufacturers of copying equipment or
+media, courts in Australia and the UK
+have not explicitly taken the
+'non-infringing use' approach adopted in the U.S., preferring instead
+to base their reasoning on the
+degree of control that the manufacturer
+can reasonably be expected to be able to exert in respect of the
+after-sales use of its product
+by consumers. This is well illustrated
+in the decision of the House of Lords in
+CBS Songs Ltd -v-
+the Court was asked to grant an injunction against
+Amstrad to prevent it selling double cassette decks that were capable
+cassettes at twice the normal speed.
+The plaintiff contended that the equipment would lead to widespread
+authorising such infringement. The court refused to grant the relief
+sought by the plaintiffs, on the ground,
+"No manufacturer and no machine confers on
+the purchaser authority to copy unlawfully. The purchaser or other
+operator of the recorder
+determines whether he shall copy and what he
+shall copy. By selling the recorder [the defendants] may facilitate
+copying in breach
+of copyright but do not authorise it ... the operator
+of an Amstrad tape-recording facility, like all other operators, can
+decide whether to record or play and what material is to be
+As Amstrad was not in a position to be able to
+control the subsequent uses of its product by consumers, it could not
+be said to have
+'authorised' any infringement of the plaintiff's
+Although Lord Templeman in
+did not refer to the
+and its 'non-infringing use' principle, it does appear from his
+judgment that the fact that the equipment had lawful purposes
+The decision of Whitford J in
+Inc v Ames Records & Tapes Ltd
+also merits attention in this
+context. Here, the defendant operated a record lending library from
+which records were lent to subscribers
+in circumstances where they
+might be used for home taping. The Court held that the defendants were
+enabling and assisting home taping
+but not 'authorising' it in the
+necessary sense. It is interesting to note that Justice Gummow in
+delivering his judgment in
+WEA International -v- Hanimex
+view that the result in
+would have been
+different if "the retaping had taken place on the defendant's premises
+with a machine made available by him".
+In such a situation, the requisite degree of control would exist, and
+authorisation could be established.
+following passage from Lawton L.J.'s judgment in
+Amstrad -v-
+British Phonographic Industry Ltd
+usefully illustrates the distinction between
+the copying equipment cases:
+"[Once Amstrad] had
+sold their models ... they had no control over how they were used. It
+is this fact which distinguishes this case
+from the Moorhouse case. In
+that case the University were at all material times in a position to
+control the use of the photo-copying
+machine which had been used to
+infringe copyright."
+It is the issue of the degree of control that a
+third party can exercise over either the direct infringer or the
+copying facilities
+that is determinative of the question of
+authorisation liability under Australian law
+As argued above, Napster is
+not in the same position as a supplier of electronic equipment (such as
+a video recorder or a home stereo
+system). Napster exercises control
+over persons permitted to access its servers, and can prevent users of
+Napster from exchanging
+certain MP3 files. To paraphrase the
+court, the architecture of Napster is such that infringement is
+"likely" to occur "unless some means [is] adopted to prevent that
+being done."
+Subsistence
+of Copyright in Digital Music
+Article 3 of the
+Law of the People's Republic of China
+("CCL") states,
+, that copyright
+subsists in "written [and] ... musical ... works". Article 4 of the
+Regulations
+for the Implementation of Copyright Law of the People's Republic of
+1991 ("Regulations") define "written works" and
+"musical works" respectively as "... works expressed in written form,
+such as novels,
+poems, essays and theses" and "such works as symphonic
+works and songs, with or without accompanying words, which can be sung
+performed".
+member of the Berne Convention and works created in a member state are
+protected under the CCL.
+Article 10 outlines the exclusive rights of the
+owners of copyright in written and musical works, which include:
+The right of publication, that is, the right to
+decide whether to make a work available to the public; and
+right of exploitation and the right to remuneration, that is, the right
+of exploiting one's work by means of reproduction, performance,
+broadcasting, exhibition, distribution, making cinematographic,
+television or video production, adaptation, translation, annotation,
+compilation and the like, and the right of authorizing others to
+exploit one's work by the above-mentioned means.
+Due to a somewhat curious
+approach to drafting, Article 45 independently lists the various
+grounds of copyright infringement.
+This article provides that:
+"Anyone who commits any
+of the following acts of infringement shall bear civil liability ...
+(5) exploiting a work by performance,
+broadcasting, exhibition,
+distribution, making cinematographic, television or video productions,
+adaptation, translation, annotation,
+and compilation, or by other
+means, without the permission of the copyright owner, unless otherwise
+provided in this Law ... (8)
+committing other acts of infringement of
+product of this approach is that whilst copyright owners enjoy the
+exclusive right of "reproduction" under Article 10(5), exploiting
+work by "reproduction" is not listed as an act constituting
+infringement under Article 45.
+it could be argued that unauthorised exercise of the reproduction right
+conferred by Article 10(5) constitutes "committing
+other acts of
+infringement of copyright" as contemplated by Article 45(8).
+music files exchanged using Napster's software would also attract
+Article 39 of the CCL relevantly provides that "a producer of sound
+recordings ... shall have the right to authorize others to reproduce
+and distribute his sound recordings ... and the right to receive
+remuneration therefor".
+recordings" are defined under Article 6(2) of the
+Law Implementing Regulations
+1991 ("Regulations") as "the
+original recordation of any sound" and "producer of sound recordings"
+is defined in Article 6(5) as "a
+person who makes sound recordings".
+Although these definitions are somewhat vague, they would appear to
+cover digitally recorded
+Treaties Implementation
+is not a party to either the WCT or WPPT, and the CCL does not, in its
+current form, adequately protect copyright owners in
+relation to the
+exploitation of their works on the Internet. China is currently
+finalizing revisions to a number of its intellectual
+property laws,
+including the CCL.
+Rather than the technology
+neutral right of "communication to the public" contained in the WCT
+(and the Australian legislation), the
+CCL retains the exclusive right
+of "broadcasting". "Broadcasting" is defined in the Regulations as
+"disseminating the work by wireless
+radio waves or cable television
+This definition would not encompass a
+communication of a digital work over a typical computer network. This
+notwithstanding, the uploading
+(copying) of material to a Web server
+would appear to be caught by the reproduction right. The application of
+the CCL to Internet
+technology was the key question before the Beijing
+First Intermediate People's Court (BFIPC) in
+Wang Meng and
+Others -v- Beijing Cenpok Intercom Technology Co. Ltd
+Chinese writers filed suit alleging unauthorised and illegal copying
+and distribution of their works over the Internet.
+The defendant
+contended that Article 10(5) of the CCL did not cover works posted on
+the Internet.
+The BFIPC's
+approach centred on the interpretation of the words "and the like"
+contained in Article 10(5). The Court upheld the decision
+of the lower
+court that the words should be treated as encompassing Internet
+distribution of works. The Court also rejected the defendant's
+that it had no control over the actual content of its Web site.
+of Napster Users
+is likely that a typical Napster user would infringe a number of the
+exclusive rights of copyright owners in songs under Chinese
+Infringement of
+the reproduction right by:
+songs from CD to a HDD; and
+Downloading MP3 files
+to their computer;
+Infringement
+of the performance right by playing MP3 files as they download
+(depending on the requesting user's context).
+commentators have also suggested that the non-commercial "distribution
+[of copyright works] without the permission of the copyright
+constitute an infringement of copyright, subject to civil liability,
+under Article 45(5).
+'Home Taping'
+There appears to be scope for
+arguing that a home taping 'fair use' exception exists under the CCL.
+Article 22 relevantly provides
+that the "use of published works for
+private study, research and self entertainment" is considered to be a
+'fair use' and no action
+for copyright infringement shall lie.
+Chinese commentator, Professor Zheng Chengsi has argued that:
+22(1) provides that use of a published work of another for the user's
+own individual study, research or self-entertainment
+is permissible.
+This clause includes fair dealing for personal use. Such use ... is not
+limited to reproduction. It applies to all
+manner of exploitation as
+provided in art. 10(5) of the Chinese Copyright Law, except broadcast
+and distribution ... such personal
+use is not limited to personal study
+and research, but extends to personal entertainment."
+He further notes that the
+Chinese interpretation of the wording of Article 22(1) suggests that
+making more than one copy of a work
+may be permitted under the personal
+use exemption.
+Zheng later states that whilst the exact scope of the Chinese fair
+dealing exceptions are yet to be determined, the majority
+drafters agree that Chinese courts should have regard to section 107 of
+in determining whether or not a use is 'fair'.
+However, on a plain reading of
+the English translation of Article 22(1), it would appear that any use
+that can be categorised as
+"personal use" is permitted. It has been
+suggested that the fair use exceptions are broader than is allowable
+under the Berne Convention
+(and Article 9(2) of TRIPs), particularly
+the exception for "self entertainment".
+Liability of
+for present purposes that the activities of typical Napster users would
+not be permitted under Article 22(1), one then turns
+to consider the
+potential liability of Napster itself under Chinese copyright law.
+Chapter Two of the CCL outlines the economic
+rights of owners of copyright as:
+"... the right of
+exploitation and the right to remuneration, that is, the right of
+exploiting one's work by means of reproduction,
+performance,
+broadcasting, exhibition, distribution, making cinematographic,
+television or video production, adaptation, translation,
+annotation,
+compilation and the like, and the right of authorizing others to
+exploit one's work by the above-mentioned means;"
+(emphasis added)
+Article 39 provides that:
+"A producer of sound
+recordings ... shall have the right to authorize others to reproduce
+and distribute his sound recordings ...
+and the right to receive
+remuneration therefor." (emphasis added)
+taken in conjunction with Articles 45(5) & (8) of the CCL, an
+action for infringement by authorisation would appear to be
+under Chinese law. However, it is not yet clear whether the Chinese
+concept of 'authorisation' will align itself with the
+"sanctioning,
+approving or countenancing" approach of Australian courts, or the more
+restrictive approach of courts in the United
+It is worth noting in this context that in March
+2000, the Chinese Ministry of Culture issued the C
+Relevant Issues Concerning the Online Business of Audio-Visual Products
+("Circular"), which contains various regulations in relation to
+dealings in audio-visual products over the Internet.
+Article 1 of the Circular
+states that all online business activities dealing in audio-visual
+products are prohibited unless authorised
+by the appropriate
+administrative agencies. Article 2 then states that any business
+wishing to deal in such products must report
+to the provincial
+administrative department in charge of the relevant audio-visual market
+to register, and must obtain an "audio-visual
+business license" in
+accordance with the relevant provisions of the
+Regulations
+on the Administration of Audio-Visual Products
+Foreign-funded and Chinese-foreign joint ventures are not permitted to
+operate an online business involving audio-visual products
+Article 5 of the Circular,
+states that:
+"Audiovisual products to be sold over
+the Internet must be legal products manufactured by domestic
+audiovisual-product producers ...
+The following business activities are
+forbidden: ... illegal audiovisual products, including smuggled and
+pirated products ... Selling
+imported audiovisual products over the
+Internet, dealing in MP3 music products downloaded from the Internet,
+and wholesale transactions
+of audiovisual products over the Internet
+are also prohibited."
+The Circular appears to be a supplement to the
+Administration
+of Audio and Video Products Regulations
+1994, and focuses on
+licensing commercial activities relating to audio and video products,
+rather than establishing civil causes
+Challenges posed by
+de-centralised file-sharing technologies
+The following words of one Australian commentator
+hint at the problems facing the music industry:
+where defendants have put it beyond their power to prevent the
+infringement, for instance by selling or giving away the means
+[an act of infringement] can be committed, it will be less likely that
+this will amount to authorisation ..."
+Whilst the above discussion
+indicates that current concepts of third party copyright liability are
+likely to be adequate to deal with
+'Napster-like' software
+applications, the same cannot be said of software employing a true
+distributed, peer-to-peer architecture.
+the supply of decentralised file sharing software (such as Gnutella) is
+analogous to the supply of electronic goods in
+, where an ongoing relationship with
+the consumer is absent. It is unlikely that a plaintiff could establish
+the requisite degree
+of control in order for liability to attach to the
+designers of this type of software. Even if legal liability did attach,
+software is made publicly available, the only way of shutting
+down the network is to pursue individual infringers.
+It would appear that the recorded music industry
+may target ISPs in its efforts to combat Gnutella-like technologies.
+Whether or not Australian ISPs
+would be legally prudent in complying with any threats of litigation
+from music publishers is questionable,
+given current authority on
+'authorisation' liability, and the exceptions from liability contained
+sections 39B
+The increasing popularity of
+Internet file sharing technologies poses a significant threat to the
+interests of the recorded music
+to a levy-based solution, such as that employed in Germany
+appears fraught with difficulty.
+Imposing a levy on blank recording media such as audio tapes, audio
+recorders (digital or analog),
+in order to compensate copyright owners,
+is logically defensible. Levying a royalty on multi-purpose devices
+such as personal computers
+or computer hard disks is another question
+entirely. The
+litigation in the United
+States illustrates the difficulty in delineating the boundary between
+products that should attract a levy
+and those that should not. Industry
+opposition to any such levy on computer hardware would be likely to be
+considerable.
+The recording
+industry's technological saviour, the Secure Digital Music Initiative
+is also under fire, with reports that all of the
+SDMI protection
+mechanisms have been circumvented.
+also reports that recent technology introduced by various record
+companies, which was intended to prevent the 'ripping'
+of CD audio
+tracks into MP3 files, have been hacked.
+Certainly, it seems somewhat naïve to believe that any
+technological protection mechanism will not be circumvented in time.
+an effective tool in the recording industry's fight against
+unauthorised 'home taping'.
+New technology now provides the copying
+facilities free of charge and has given individuals access to a global
+pool of recordings.
+Whilst the law will continue to serve a vital role
+in preventing commercial enterprises from profiting through dealing in
+unauthorised
+sound recordings, it is unlikely that it will ever provide
+a sufficient answer to the problem of 'home taping'.
+However, if music publishers
+successfully develop innovative and high quality delivery mechanisms
+for digital music, they may maintain
+their commercial viability. By
+making legitimate digital music distribution technologies more
+user-friendly and comprehensive than
+their illegitimate counterparts,
+music publishers will have a service that consumers are willing to pay
+a reasonable price for.
+B.Sc (Comp. Sci.) LLB LLM, Senior Research Fellow, Asia Pacific
+Intellectual Property Law Institute, Murdoch University, Western
+As one commentator
+has noted, the emergence of the Internet as a mechanism for marketing
+and distributing music will bring about
+a fundamental change in the
+perception of music as a product to that of music as content: see
+Garlick M, "Pricing Recorded Music
+in an Online World", Gilbert
+& Tobin, 1 July 2000 at
+http://www.gtlaw.com.au/pubs/pricingrecordedmusic.html.
+"Internet Piracy -
+The Problem and The Response", IFPI at
+http://www.ifpi.org/antipiracy/internet_piracy.html.
+Plaintiff's
+Complaint for Contributory and Vicarious Copyright Infringement,
+Violations of California Civil Code Sect. 980(a)(2),
+Competition, Case No. C99-5183-MHP, filed 6 December 1999 ("Complaint")
+at pp 9-12.
+For further
+information on the ownership of Napster: See Gomes L, "UCLA, Rock Group
+Limp Bizkit, Others May Prosper if Napster Goes
+Mainstream", Wall
+Street Journal Interactive, 2 November 2000 at
+http://interactive.wsj.com/articles/SB973125431509468152.htm.
+Harmon A, "Online
+Davids vs. Corporate Goliaths", New York Times, 6 August 2000 at
+http://www.nytimes.com/library/review/080600napster-review.html.
+Opinion of Patel J
+on Application for Preliminary Injunction, Case No. C 99-5183 MHP,
+delivered 2 July 2000, U.S. District Court
+for the Northern District of
+California at p 4.
+Mann C, "One Hot
+Property: Napster is Beginning to Rival Even AOL",
+31 October 2000 at
+http://www.inside.com/story/Story_Cached/0,2770,13276_9_12_1,00.html
+Including Sony
+Music Entertainment Inc., Geffen Records, BMG, Universal Records, EMI
+& Virgin Records.
+n. 3 above, at p 1.
+Borland J, "Napster gets temporary reprieve" at
+http://news.cnet.com/news/0-1005-200-6605948.html.
+See further
+Zeidler S, "MusicNet says to roll out platform in coming weeks" at
+http://www.siliconvalley.com/docs/news/reuters_wire/1487585l.htm.
+http://www.iis.fhg.de/amm/techinf/layer3/index.html.
+Smith T, "Digital Distribution of
+Music", Copyright World, April 2000, 15.
+In the current context, a personal
+See further
+http://searchnetworking.techtarget.com/sDefinition/0,,sid7_gci212769,00.html
+An IP address
+is a 32-bit number that uniquely identifies each sender or receiver of
+information that is sent in packets across the
+Such as "G-Net Wizard": see
+http://www.bearshare.com/help/faqbearshare.htm.
+The following
+facts regarding Napster's architecture are taken from Patel J's ruling
+on the preliminary injunction, delivered 26
+July 200, n. 6 above, and
+the various depositions referred to therein.
+In this sense Napster 'locations'
+are transient, they are repeatedly added or removed each time a user
+signs on or off the network.
+The returned file names may have contained typographical errors or
+otherwise inaccurate descriptions of the content of the files
+names were determined by each host user.
+Napster 'locations' could also be
+accessed through Napster's 'hot-list tool feature'.
+Napster facilitated the same mode
+of file transfer whether a user accessed a specific MP3 file through
+the search engine or hot-list.
+Until January 2000, Napster incorporated a feature whereby if a
+download of a song was interrupted (for example by the host user
+logging off the network), it would locate the song on another connected
+computer and automatically resume the download: see Berschadsky
+"RIAA v Napster: A Window Onto the Future of Copyright Law in the
+Internet Age",
+J. Marshall J. Computer & Info. L.
+A protocol is
+simply a standard format that allows two pieces of software to
+communicate. For the complete Gnutella protocol specification,
+http://www.clip2.com/GnutellaProtocol04.pdf.
+http://www.bearshare.com/gnutella.htm.
+See further
+http://www.bearshare.com./
+See further
+http://www.limewire.com./
+definition of this term see:
+http://searchnetworking.techtarget.com/sDefinition/0,,sid7_gci211634,00.html
+"RIAA: Gnutella not yet a threat" at
+http://news.cnet.com/news/0-1005-200-5383626.htm.
+believes the term 'sharing' to be misleading in that the music files
+are duplicated through downloading, and not "shared"
+in any real sense.
+The term "exchange" is used in this paper.
+Codified as Title 17 of the United
+States Code (U.S.C.).
+A similar situation exists under Chinese law. Under Australian law, the
+lyrics of a song constitute a separate literary work copyright
+musical work copyright.
+'Sound recordings' are defined in s101 as: "... works that result from
+the fixation of a series of musical, spoken, or other sounds
+regardless of the nature of the material objects, such as disks, tapes,
+or other phonorecords, in which they are embodied". "Phonorecord"
+turn defined as "... material objects in which sounds ... are fixed by
+any method now known or later developed, and from which
+the sounds can
+be perceived, reproduced, or otherwise communicated, either directly or
+with the aid of a machine or device".
+See Brauner S, "High-Tech Boxing
+Match: A Discussion of Copyright Theory Underlying the Heated Battle
+Between the RIAA and MP3ers",
+Va. J.L. & Tech
+See also WIPO
+Performances and Phonograms Treaty 1996 ("WPPT").
+See for example T Aplin,
+"Liability of Internet Service Providers for Moral Rights Infringement
+in Australia" [1999] 1(1)
+Dig. Tech. L.J.
+http://wwwlaw.murdoch.edu.au/dtlj/articles/vol1_1/aplin.html
+F. Macmillan & M. Blakeney, "The Copyright Liability of
+Communications Carriers" 1997 (3)
+Journal of Information,
+Law and Technology
+http://elj.warwick.ac.uk/jilt/commsreg/97_3macm/
+Communication Corp. -v- Network Productions Inc.
+829 at 844;
+Sony Corporation of America -v- Universal City
+Studios Inc.
+[1984] USSC 14
+464 U.S. 417
+(1984) at 434.
+In this paper the term "songs"
+refers collectively to musical compositions and sound recordings.
+Distributing MP3 files through
+file sharing software may render a user criminally liable under the
+Electronic Theft
+("NET") 1997, codified as
+17 U.S.C. 506
+18 U.S.C. 2319.
+In November 1999, a college student in Oregon
+pleaded guilty and was sentenced under the
+to two years probation
+for posting pirated material (including over 1,000 MP3 files) on his
+Web site. The
+imposes liability regardless of profit motive. See
+Sullivan J, "MP3 Pirate Gets Probation", Wired News, 24 November 1999
+http://www.wired.com/news/mp3/0,1294,32276,00.html
+Cf s132(2) of the
+Sony -v- Universal City Studios
+[1984] USSC 14
+(1984) at 433.
+Opposition of Defendant Napster to Plaintiff's Motion for Preliminary
+Injunction, Case No. 99-5183 MHP/C 00-0074 MHP, at 5-8.
+Sega Entertainment
+Ltd -v- MAPHIA
+857 F. Supp 679
+at 687 (N.D. Cal. 1994).
+Row Publishers Inc. -v- Nation Entertainment
+[1985] USSC 128
+471 U.S. 539
+at 563 (1985);
+Playboy Entertainment Inc. -v- Frena
+F. Supp. 1552
+at 1558 (M.D. Fla. 1993).
+[1984] USSC 14
+464 U.S. 417
+Id at 449-50, 456.
+See "2000 Midyear Market Report on
+U.S. Recorded Music Shipments" at
+http://www.riaa.com/MD-US-3b-00-mid.cfm.
+See also Selvin J, "Did Napster help boost record sales?" at
+http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2001/08/05/PK220163.DTL
+and "Music sales slide despite Napster demise" at
+http://www.siliconvalley.com/docs/news/tech/083036.htm.
+Message Board Forum, posting from "Onymous", 4 November 2000 at
+http://forums.napigator.com/read.php?f=4&I=12995&t=12995&1=0
+(visited 6 November 2000).
+A significant number of unsigned artists used Napster to distribute
+their music independently of the large recording companies.
+An early version of the Napster
+Web site advertised the fact that users could find their favourite
+music without "wading through
+page after page of unknown artists": see
+n. 6 above, at 6. The plaintiff record companies claim that the
+"recordings of every artist
+on the Billboard Top 200C as well as every
+sound recording on the Billboard Hot 100 C can be located on and
+downloaded from Napster":
+see n.3 above, at 15.
+Section 1008 was introduced
+against the background of increasingly available DAT technologies. The
+primary purpose of the AHRA was
+to grant the right to consumers to home
+record copyrighted material in exchange for a levy on, and the
+implementation of copyright
+protection mechanisms in, "digital audio
+recording devices" as defined by the Act. The AHRA constituted the
+legislative recognition
+of a compromise reached between the recording
+industry and the electronics industry in 1989 when both groups met in
+Athens, Greece,
+to form an industry cooperative. See further Gosse E,
+"The RIAA Could Not Stop the Rio - MP3 Files and the Audio Home
+Recording Act",
+U.S.F.L. Rev.
+Rosenberg S, "Anticipating Technology: A Statute Bytes the Dust in
+Industry Association of America v Diamond Multimedia Systems Inc.
+Vill. L. Rev.
+Section 1001 defines a "digital
+audio recording device" as: "Any machine or device of a type commonly
+distributed to individuals
+for use by individuals, whether or not
+included with or as part of some other machine or device, the digital
+recording function of
+which is designed or marketed for the primary
+purpose of, and that is capable of, making a digital audio copied
+recording for private
+[1984] USSC 14
+180 F. 3d 1072
+(9th Cir. 1999).
+A "digital music recording" is defined as: "[a] material object (i) in
+which are fixed, in a digital recording format, only sounds,
+material, statements, or instructions incidental to those fixed sounds,
+if any; and (ii) from which the sounds and material can
+be perceived,
+reproduced, or otherwise communicated, either directly or with the aid
+of a machine or device": 17 U.S.C. § 1001(5)(a).
+Ibid at 1077-1078.
+17 USC § 1001(5)(B)
+states that: "A 'digital music recording' does not include a material
+object (i) in which fixed sounds consist
+entirely of spoken word
+recordings; or (ii) in which one or more computer programs are fixed,
+except that a digital musical recording
+may contain statements or
+instructions constituting the fixed sounds and incidental material, and
+statements or instructions to be
+used directly or indirectly in order
+to bring about the perception, reproduction, or communication of the
+fixed sounds and incidental
+Ibid at 1078 referring to
+U.S.C. 1001(3).
+curiae brief of U.S. Copyright Office and U.S. Department of Justice at
+http://www.loc.gov/copyright/docs/napsteramicus.html.
+[1963] USCA2 234
+316 F. 2d 304
+(2nd Cir. 1963). See further
+Polygram International
+Publishing Inc. -v- Nevada/TIG Inc.
+855 F. Supp 1314
+Inc. -v- Cherry Auction
+[1996] USCA9 196
+76 F.3d 259
+(9th Cir. 1996) at
+See Ferron W
+& Daley-Watson C, "On-line Copyright Issues: Recent Cases and
+Legislation Affecting Internet and Other Service Providers
+Publishers", Section IV(C) at
+http://www.seedandberry.com/online_copyright_issues.htm.
+Corp. of America -v- Universal City Studios Inc.
+[1984] USSC 14
+(1984) at 434.
+For e.g. in
+Gershwin Publishing Corp. -v- Columbia Artists
+Management Inc.
+[1971] USCA2 272
+443 F.2d 1159
+(2nd Cir. 1971) the defendant
+lacked the contractual ability to control the direct infringer. This
+notwithstanding, the court held
+that the defendants were in a position
+to police the direct infringers due to the defendant's "pervasive
+participation in the formation
+and direction" of the direct infringers,
+including promoting and advertising them (at 1163). See also
+Inc. -v- Cherry Auction Inc.
+[1996] USCA9 196
+76 F. 3d 259
+(9th Cir. 1996)
+Davis -v- E.I. DuPont de Nemours & Co.
+F.Supp. 612 (S.D.N.Y.
+Polygram International Publishing Inc. -v- Nevada/TIG Inc.
+F. Supp.1314, at 1328-29 (Mass. Dist. Ct. 1994).
+The court ruled that the plaintiff
+had failed to provide sufficient evidence of, inter alia, lack of
+authorisation on behalf of the
+organisers.
+Above, note 64 at 1328.
+Artists Music -v-
+Reed Publishing
+31 U.S.P.Q. 2d 1623 (S.D.N.Y.
+Above note 64 at 1330.
+[1996] USCA9 196
+76 F. 3d 259
+(9th Cir. 1996).
+This decision was referred to by
+Justice Patel in her ruling on the motion for preliminary injunction
+against Napster on 26 July
+Ibid at 262.
+[1971] USCA2 272
+443 F.2d 1159
+(2nd Cir. 1971).
+Ibid at 263.
+Ibid at 263.
+However, the users could simply
+re-register with Napster under an alternative user name: See further
+Wheeler M, "Napster reloads
+Metallica fans", ZDNet, 1 June 2000 at
+http://www.zdnet.com/zdnn/stories/news/0,4586,2580227,00.html
+See further
+Hansen E & Bowman L, "Court: Napster filters must be foolproof"
+http://news.cnet.com/news/0-1005-200-6549898.html.
+See further
+Sutel S, "BMG ends Napster war", AustralianIT, 1 November 2000 at
+http://australianit.com.au/common/storyPage/0,3811,1370041^442,00.html
+Inc. -v- Cherry Auction Inc.
+[1996] USCA9 196
+76 F. 3d 259
+1996) at 264;
+Sony -v- Universal City Studios
+[1984] USSC 14
+Inc. -v- Cherry Auction Inc.
+[1996] USCA9 196
+76 F. 3d 259
+(9th Cir. 1996)
+at 261 citing
+Sony-v- Universal City Studios Inc.
+[1984] USSC 14
+at 435 on this issue.
+n. 61 above, at 1162. See also
+Universal City Studios -v-
+Sony Corp. of America
+[1982] USCA9 60
+659 F. 2d 963
+at 975 (9th Cir. 1981)
+(reversed on other grounds).
+Cable/Home Communication Corp. -v- Network Productions Inc.
+F. 2d 829 (11th Cir. 1990) at 846. See also
+Publishing Corp. -v- Columbia Artists Management
+[1971] USCA2 272
+Sega Enters Ltd -v- MAPHIA
+Supp. 679 (N.D.
+Cal. 1994) at 686-687.
+n. 67 above, at 264.
+800 F.2d 59
+(3rd Cir. 1986).
+Ibid, at 264.
+Playboy Enterprises
+Inc. v Russ Hardenburgh Inc.
+982 F.Supp. 503
+, 514 (N.D.
+Ohio 1997).
+Tech. Center v Netcom On-line Communication Serv. Inc.
+F. Supp. at 1375.
+Borland J, "Court adjourns without decision in Napster Case", at
+http://news.cnet.com/news/0-1005-200-2895878.html.
+n. 6 above, at
+n. 3 above, at
+Ibid at 264.
+[1984] USSC 14
+464 U.S. 417
+Id at 438: "[t]he only contact
+between Sony and the users of the Betamax ... occurred at the moment of
+Ibid at 439.
+CBS Songs Ltd -v- Amstrad Consumer Electronics plc
+and Another
+[1988] UKHL 15
+(1988) 11 IPR 1
+See 35 U.S.C. § 271(c).
+Ibid at 442. Notwithstanding the
+Supreme Court's decisive ruling in
+contributory infringement claims against manufacturers of electronic
+consumer goods which 'facilitate' copyright infringement. NBC, ABC and
+CBS, the three major U.S. television networks, recently initiated
+proceedings against SONICblue Inc, the makers of the first
+Internet-ready personal digital video recorder. The television networks
+allege that SONICblue's ReplayTV 4000 allows users to make and
+distribute illegal copies of television programs, which would violate
+their copyrights by allowing users to distribute copies of programs
+over the Internet. See further
+http://www.siliconvalley.com/docs/news/tech/071594.htm
+That is, recording a television
+programme for viewing at a more convenient time.
+See further
+Corp. v Lorenzo and Sons Pty Ltd
+[1991] FCA 617
+(1992) 22 IPR 245.
+Note however that Australia has
+not yet acceded to either treaty.
+Paragraphs 35-37 & 81 of Schedule 1 to the
+Amendment (Digital Agenda) Act
+There is also the possibility
+that users of Napster could be held liable under s132(2) of the Act.
+This section makes it an offence
+to "distribut[e] infringing copies [of
+of the copyright owner".
+Certain fair dealings are also permitted for the purposes of criticism
+or review, for reporting news and for use of works in judicial
+proceedings or the giving of professional advice.
+See also the similar wording of
+s103C in relation to the sound recording copyright.
+TCN Channel Nine
+& Ors v Network Ten
+[2001] FCA 108.
+This is particularly so given
+that the scope of the fair dealing defence under Australian law is less
+flexible than the U.S. doctrine
+of fair use.
+Amendment Act
+(Cth). Section 135ZZN would have
+conferred a statutory right to copy sound recordings for private
+domestic use of the person making
+the copy. Cf Germany, which has one
+of the most comprehensive copyright levy systems anywhere in the world:
+see Art52a of German
+http://www.ifrro.org/laws/law_germany.html
+A German court recently ordered Hewlett-Packard to reveal how many CD-R
+and CD-RW drives it has sold in the country during the
+last three and a
+half years. The case centered on the use of CD recording equipment to
+duplicate music CDs. Germany levies a per-unit
+fee on other types of
+recording equipment, and the music industry wanted computer-based
+drives to be included as well: see Geyer
+H, "Arbitration Board at the
+German Patent Office confirms levy for CD writers - Higher royalties
+for digital copying" at
+http://www.gema.de/eng/updates/pm_cdbrenner.html.
+[1993] HCA 10
+[1965] NSWR 405.
+Karno -v- Pathe
+Freres Pathephone Ltd
+(1909) 100 LT 260 (KB).
+[1975] HCA 26
+(1975) 133 CLR 1
+considering the early English decisions of
+Falcon -v- Famous
+Players Film Co Ltd
+[1926] 2 KB 474
+-v- Hulton & Co Ltd
+[1923-1928] MacG Cop Cas 51
+Songs Ltd -v- Amstrad Consumer Electronics plc and Another
+[1988] UKHL 15
+International Inc -v- Hanimex Corp Ltd
+[1987] FCA 379
+(1987) 77 ALR 456
+APRA Ltd -v- Jain
+(1990) 18 IPR 663
+News Pty Ltd -v- Copyright Agency Ltd
+(1996) 34 IPR 53.
+Records Inc. -v- Charly Records Ltd
+(Rimer J, 22 March
+2000) referred to in Dickens P, "When is an Authorisation an
+Authorisation?",
+[2000] 7 EIPR 339.
+An interesting parallel can be
+drawn here between the facts in the Moorhouse case and the widespread
+use of University computer networks
+in the downloading of MP3 music
+files: see King B, Campus Music Trades Continue" at
+http://www.wired.com/news/school/0,1383,45807,00.html
+[1999] FCA 1355
+(1999) 46 IPR 321
+News Pty Ltd -v- Copyright Agency Ltd
+(1996) 136 ALR 273
+Microsoft Corporation and Others -v- Marks and Anor
+Ibid at 12-13.
+News Pty Ltd and Others -v- Copyright Agency Ltd
+[1988] UKHL 15
+(1988) 11 IPR 1.
+Amstrad had focused its marketing strategy on this feature, one
+advertisement stating that its new model: "... now features 'hi-speed
+dubbing' enabling you to make duplicate recordings from one cassette to
+another, record direct from any source and then make a copy
+and you can
+even make a copy of your favourite cassette": Id at 8.
+Similar reasoning was applied in
+the Australian decision of
+WEA International Inc v Hanimex
+[1987] FCA 379
+(1987) 77 ALR 456
+Records -v- Audio Magnetics
+[1979] FSR 1.
+For example, his Lordship states
+at page seven of his judgment that "[t]hese recording facilities may be
+used for lawful or unlawful
+purposes". In words reminiscent of the
+Supreme Court in
+his Lordship states at
+page 9: "There is nothing express or implied in the Act which inhibits
+the invention, manufacture, sale or
+advertisement of electronic
+equipment capable of lawful or unlawful reproduction".
+[1982] Ch 91.
+[1987] FCA 379
+(1987) 77 ALR 456.
+(1985) 6 IPR 257.
+Note also that a person may be
+liable as a joint or concurrent tortfeasor in relation to copyright
+infringement by involvement in
+the tortious acts which constitute the
+infringement: See
+Henley Arch Pty Ltd -v- Clarendon Homes
+(Aust) Pty Ltd
+(1998) 41 IPR 443
+Corp. -v- Auschina Polaris Pty Ltd
+[1996] FCA 1069
+(1996) 71 FCR 231
+CBS Songs Ltd -v- Amstrad Consumer Electronics plc
+[1988] UKHL 15
+at 12-15. Such involvement will be established where the
+person: "... made the infringing conduct his own in the sense that the
+deliberately, wilfully and knowingly pursued a course of
+conduct that was likely to constitute the infringing conduct or was
+indifferent to the risk of it":
+Henley Arch Pty
+Ltd-v- Clarendon Homes (Aust) Pty Ltd
+(1998) 41 IPR 443
+[1975] HCA 26
+Adopted at the 15th Meeting of the Standing Committee of the Seventh
+National People's Congress on September 7 1990 and effective
+1 1991 (Official Translation).
+See Article 2. As a result of the 1998 government reorganization, the
+Chinese government established the State Intellectual Property
+(SIPO) to monitor IPR protection and devise effective enforcement
+measures in China: see United States Trade Representative
+(USTR), 2000
+National Trade Estimate on Foreign Trade Barriers (NTE), 31 March 2000
+http://www.ustr.gov/reports/nte/2000/china.pdf.
+The general
+approach to drafting, and that adopted in Australia and the U.S., is to
+define the exclusive rights of the copyright
+owner and then to simply
+state that infringement occurs when a person other than the copyright
+owner does any one of the exclusive
+rights contained in the copyright.
+Unfortunately, the Chinese approach creates inconsistencies between the
+rights comprised in the
+infringement.
+outlines a number of acts that may attract "administrative penalties".
+The acts listed in this Article include: "... reproducing
+distributing the work, for commercial purposes, without the permission
+of the copyright owner ... reproducing and distributing
+recording ... produced by others without the permission of its
+producer". cf n. 29 and n. 90 above. See further Hanes K,
+Infringement - not just costly, it's a crime", IP Asia (Dec. 1996), 31.
+Note however
+that it is the subject of administrative penalties under Article 46(2).
+This appears
+to be the approach of the Beijing First Intermediate People's Court in
+the "Beijing Online" case discussed below.
+Article 47 of the
+Law Implementing Regulations
+1991 ("Regulations"),
+expressly provides that "Audio and video recordings produced and
+distributed in the territory of China by foreign
+producers shall be
+protected by Copyright Law".
+See the Special 301 Report of the United States Trade Representative at
+http://www.ustr.gov/enforcement/special.pdf
+and Zhang A, "Proposed Copyright Law Promises Better Remedies", IP Asia
+(April 1999), 5; "China to Formulate Online Copyright Protections",
+ChinaOnline, 8 May 2000 at
+http://www.chinaonline.com/refer/legal/currentnews/secure/C00050170.asp.
+Reported in
+Sun A, "Beijing Appeal Court Ruled on a Major Case: Copyright Liability
+for Internet Service Providers Determined", Asia
+Pacific Law Institute
+Update Vol. 1 No. 1, January 2000 at
+http://www.apli.org./
+Ibid at p 3.
+some uncertainty as to whether the performance right covers only live
+performances (for example recitation). Some commentators
+argue that the
+right should be interpreted so as to cover, inter alia, the performance
+in public of sound recordings: See Feng P,
+Intellectual Property in
+China, (1997: China, Sweet & Maxwell) at p 101.
+Schlesinger M & Smith E,
+"Crimes of Copyright Infringement Explained: The Prospect for Strong
+Judicial Enforcement Against Copyright
+Infringement", in Cohen M, Bang
+A & Mitchell S,
+Chinese Intellectual Property Law
+and Practice
+, (1999: The Hague, Kluwer Law International) at
+alternative translation of the Copyright Law substitutes "enjoyment"
+for "self-entertainment".
+Chengsi Z, Intellectual Property Enforcement in China: Leading Cases
+and Commentary, (1997: China, Sweet & Maxwell) at p 22.
+Ibid at p 59.
+n. 129 above, at p 237.
+Article 10(5).
+See "China Regulates
+Audio-Visual Online Commerce", China Online, 28 March 2000 at
+http://www.chinaonline.com/issues/internet_policy/currentnews/open/c00032705.asp
+"Ministry of Cultural Affairs Promulgated New Rules on On-line
+Audio-Visual Transactions", Asia Pacific Law Institute, March 2000
+http://www.apli.org/aplinews.html
+Chang T & Chong C, "New PRC Internet Regulations", Coudert
+Brothers, March 2000 at
+http://www.coudert.com/practice/elawasiamar2000.htm.
+Persons who were engaged in the
+business of online dealings in audiovisual products were given until 1
+May 2000 to obtain a licence
+in accordance with the Circular.
+In December 1999, Sony Music,
+EMI, Warner Music, Universal and China Records Guangzhou instituted
+litigation in the Second Intermediate
+People's Court of Beijing against
+two pirate MP3 sites operating out of China. Both of the sites
+reportedly offered numerous domestic
+and international MP3 recordings
+for download. See "Internet settlement in China leads to joint IFPI/My
+Web copyright campaign",
+IFPI, 23 March 2000 at
+http://www.ifpi.org/press/20000323.html
+"My Web Denies China Pirate Web Site Accusation", ChinaOnline, 22
+December 1999 at
+http://www.chinaonline.com/issues/internet_policy/newsarchive/secure/9122120.asp.
+On 15 August 2000, three people were arrested by Hong Kong Customs for
+illegally offering MP3 songs for download: see Lo C, "Three
+over HK pirate music Web site", South China Morning Post, 16 August
+http://www.technologypost.com/internet/Daily/20000816083101135.asp.
+Ricketson S,
+Exclusive Rights of Copyright Owner & Infringement, The Law of
+Intellectual Property : Copyright, Designs &
+Confidential
+Information, (LBC) p 164 (2000).
+Borland J, "RIAA: Gnutella not yet a threat" at
+http://news.cnet.com/news/0-1005-200-5383626.htm.
+53-54h of the German Copyright Law (English translation at
+http://www.ifrro.org/laws/law_germany.html
+See also Knight W, "HP dragged through German courts over music
+http://news.zdnet.co.uk/story/0,,s2082776,00.html
+Gruenwald J, "Digital copyright tug o' war" at
+http://www.zdnet.com/zdnn/stories/news/0,4586,2784806,00.html
+See Bowman L
+& Olsen S, "Free-speech lawsuit targets record industry" at
+http://news.cnet.com/news/0-1005-200-6205709.html
+McCullagh D, "Watermark Holes? C'est La Vie " at
+http://www.wired.com/news/politics/0
+,1283,43390,00.html.
+Brown J, "SDMI Cracked!",
+12 October 2000 at
+http://www.salon.com/tech/log12000/10/12/sdmi_hacked/index.html
+Borland J, "Hacker cracks Microsoft anti-piracy software", at
+http://news.cnet.com/news/0-1005-200-7590303.html.
+See Borland
+J, "Protected CDs quietly slip into stores" at
+http://news.cnet.com/news/0-1005-200-6604222.html
+Smith T, "Anti-rip CD system bypassed" at
+http://www.theregister.co.uk/content/54/20766.html.
+While it is
+conceivable that future improvements in technological protection
+measures may alter this situation, two further points
+should be noted:
+(1) Such technological measures cannot be 'backdated', that is, applied
+to copyright content already in the marketplace.
+However, a similar
+effect may be possible through implementing such measures in
+distribution mechanisms (e.g. file sharing software);
+and (2) 'Crack
+proof' technologies appear to be the stuff of myth and legend, as
+evidenced by the proliferation of 'key generators'
+and 'cracks' for
+popular software applications: see generally n. 158 and n 159 above and
+http://astalavista.box.sk./
+due to the fact that most circumvention technologies are developed with
+non-commercial motives, namely the technical challenge
+involved and the
+subsequent peer esteem. The developers of such technologies will in
+most cases be difficult, if not impossible to
+locate, thereby
+frustrating attempts to prosecute them for any relevant breaches of
+anti-circumvention laws. Further, the fact that
+circumventing a technological protection measure is not prohibited
+under Australian law only serves to exacerbate the
+'home taping'
+problem in the digital environment.
+Print (pretty)
+Print (eco-friendly)
+No downloadable files available
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

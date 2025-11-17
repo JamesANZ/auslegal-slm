@@ -1,0 +1,307 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/FedJSchol/2023/4.html
+Scraped: 2025-11-17 14:57:04
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Perry, Justice Melissa --- "The future of administrative discretions" (FCA) [2023] FedJSchol 4
+aEUR~DiscretionaEURtm aEUR| refers to a decision-making process in which aEUR~no one [consideration] and no combination of [considerations]
+necessarily
+determinative of the resultaEURtm. Rather, the decision-maker is allowed some latitude as to the choice of the decision to be made.
+aEUR| The latitude may be considerable aEUR| [or] it may be quite narrowaEUR|
+The exponential increase in the subjects of statutory regulation and in the length and complexity of legislation, especially at the
+federal level, since the end of the Second World War has been accompanied by the vesting of a multitude of discretions in a wide
+variety of officials and authorities, both directly and through widespread delegations. Those administrative discretions in turn
+must be exercised within the bounds of legal reasonableness and in accordance with the applicable requirements of procedural fairness.
+As French CJ said in
+aEURoe[e]very statutory discretion, however broad, is constrained by law
+Their exercise is also commonly guided by a raft of departmental policies and guidelines designed, among other things, to achieve
+consistency in decision-making aEUR" itself an aspect of administrative fairness. Such soft instruments also have the capacity, as
+John McMillan has said, to aEURoe
+elaborate government thinking, by forecasting in a public and accountable way the view of the government of the day as to how statutory
+discretions should be exercised for the time being
+aEUR| achieve coherency where otherwise there would be a world of aEUR| unguided decision-making
+aEUR . However, it is important to ensure that the combined result of legislation, delegated legislation and policy does not create
+a labyrinth of complexity, navigable only by those departmental officers and decision-makers who apply them daily.
+None of this is to suggest that there are not decisions or parts of decisions which are appropriately made by the application of strict,
+ie non-discretionary, rules. Indeed, in some circumstances, self-executing rules are necessary, such as a rule that late payment
+of a penalty results automatically in the imposition of an additional charge to cover additional costs. But what is appropriate will
+depend in the first instance on the nature and complexity of the decision being made and its impact upon the individual affected
+by the decision. In the making of such assessments, values of the kind to which I have referred and international human rights law
+have an important role to play.
+Against this background, it is timely to consider
+how the trend to utilising digital technologies and AI in administrative decision making potentially impacts upon the extent and
+exercise of administrative discretions and
+, the kinds of considerations relevant to deciding in whom a discretion should reside or be exercised.
+AI and Discretions?
+Since automated decision-making systems were first utilised by the Department of Veterans Affairs in 1994, government departments,
+federal and state, have come to rely upon these systems to make literally hundreds of millions of decisions every year in Australia
+alone. This trend corresponds with the rapid growth in the volume, complexity and subject matter of decisions made by governments
+affecting private and commercial rights and interests, and in the increasing volume and complexity of the legislation and policies
+pursuant to which such decisions are made, to which I have averted.
+So vast and diverse are the range of decisions being made utilising such technologies that governments are presently unaware of the
+full extent to which automated decision-making processes are used by their departments and agencies. The lack of any effective means
+for tracking the use of such technologies, and the risks that their use in government decision-making potentially poses if not lawfully
+employed (highlighted by the failed Robodebt system of debt collection), has led to action by some governments to address these concerns.
+By way of example, within New South Wales in the past year alone, the Ombudsman has commissioned a report to aEURoe
+map the current use of tools to automate administrative decision-making across the New South Wales public sector
+aEUR, and the Information and Privacy Commissioner has conducted a scan to improve understanding of the regulatory landscape concerning
+artificial intelligence decision-making. The State Government has also announced a new Artificial Intelligence Strategy to better
+increase awareness and understanding of
+aEUR the use of technology in administrative decision-making across the State public service.
+What technologies lie behind these concerns? As I have elsewhere explained:
+Broadly speaking, an automated system is a computerised process which uses coded logic or algorithms to make a decision or part of
+a decision, or to make recommendations. But not all machines are created equal. Automated decision-making systems can vary considerably
+both in their processing capacities and in the extent to which their operational capabilities are autonomous of, or reliant upon,
+human input [sometimes described as keeping humans in the loop]
+Governments currently rely primarily on pre-programmed rules-based automated systems, because wholly aEURoeautonomousaEUR decision-making
+systems remain expensive and have yet to be perfected. However, as technology continues to improve and the use of aEURoemachine learningaEUR
+(or algorithms, which learn from patterns in data) is increasingly adopted in the private and public sectors, we can expect machines
+to be used to make a greater number of qualitative assessments and recommendations, and even evaluative decisions. For example, the
+NSW Government recently announced an intention to increase work on, and investment in, machine technology. In this regard, the NSW
+Ombudsman noted in a report published late last year that aEURoe
+[a]cross NSW Government agencies, machine technology is a critical tool in a wide variety of areas, from traffic and fines enforcement,
+to assessment of child protection risk, from determining grants of legal aid, to triaging claims from injured workers
+While potentially equipped to make such decisions, the question must still be asked as to the appropriateness of employing such technology
+in particular decision-making contexts, and the extent to which humans should still remain involved in those processes. Human qualities
+of the kind to which PortiaaEURtms pleas were directed in
+The Merchant of Venice
+would fail to move a machine. It is important that caution is exercised before using automated and machine learning processes in
+decisions of an evaluative or discretionary nature, even if the machine is employed for only part of a decision. It is also important
+to ensure that merits review remains available for individuals where such technologies are employed, unless the decision is one made
+only by the application of strict rules­­­. Indeed as early as 2004 in its ground-breaking report, the Administrative
+Review Council warned that aEURoe
+expert systems should not automate the exercise
+aEUR of discretionary decision-making.
+Despite these concerns, Government agencies face increasing pressure to adopt automated processes which by their nature rely upon
+criteria in the nature of rules, rather than upon evaluative or discretionary criteria. While certain kinds of decisions naturally
+lend themselves to rules based criteria, in other cases the application of strict rules may lead to unfair and arbitrary decisions.
+For these reasons, moves to substitute rules based criteria for discretions should be closely scrutinised.
+If I can take the movie aEURoeEye in the SkyaEUR to illustrate the point. In that film, the British and US authorities were advised
+that it was lawful, under international humanitarian law, to order an attack by a drone on a cell about to execute a suicide bombing.
+The likely killing of a little girl selling bread from a stall proximate to the attack was considered proportionate to the harm that
+would be caused if the suicide bombing were permitted to proceed. However, the agent on the ground was moved by the little girlaEURtms
+plight and, with barely a moment to spare, he acted to save her by bribing a local child to buy the last of the little girlaEURtms
+loaves in the hope that she would leave before the assault.
+This example illustrates how the vesting of a discretion in a human decision-maker may mean achieving not merely a lawful result,
+but one which better accords with the fundamental human values of mercy, fairness, and compassion in the individualaEURtms and the
+public interest. It also illustrates the ability of humans to problem-solve in creative and imaginative ways.
+Generative AI tools
+It is also timely to touch upon more recent developments in artificial intelligence. (I use the term artificial intelligence reluctantly
+as, so far as we are aware, there are no true AI systems which currently exist, in the sense of being capable of sentience or independent
+thought.) New technologies, such as so-called generative AI tools (or chatbots), are being rapidly and enthusiastically embraced,
+to the extent that questions are being asked as to whether they spell the end for traditional search engines.
+Since their creation in November 2022, generative online chatbot technologies have accumulated in excess of 100 million worldwide
+users aEUR" a number which is likely only to increase as improved versions of existing chatbot technologies and competitor technologies
+are released. This technology is already being used by some boutique and BigLaw firms to assist with development and trend analysis
+and, in conjunction with other AI products, to compile and summarise data from a single known (and reliable) data source, such as
+a judgment .
+At present, the Federal Government has announced that it does not encourage the use of generative AI Tools in administrative decision-making.
+However, as generative artificial intelligence technologies become more widely available and mainstream, it is not difficult to envisage
+that such tools might also be used in administrative decision-making processes across a range of subject matters.
+I recently downloaded a generative AI Tool to give it a test run and asked it a basic factual question on a subject about which I
+have some degree of familiarity,
+aEURoeWho [I asked] is Justice Melissa Perry?
+aEUR. The app immediately responded with details of a US judge, revealing a likely bias towards the United States. So I asked a more
+specific question: aEURoe
+Who is Justice Melissa Perry of the Federal Court of Australia?
+aEUR The answer given was:
+Justice Melissa Perry is a judge of the Federal Court of Australia. She was appointed to the Court in 2011 and is based in Melbourne.
+She has presided over a number of high-profile cases, including the landmark case of Comcare v Banerji, which established the right
+of public servants to freedom of political expression.
+The only aspect of this answer which is correct is the information which was already conveyed by the question. Otherwise, I was appointed
+in 2013, not 2011, I am based in Sydney and not Melbourne, and the decision in
+Comcare v Banerji
+was a decision of the High Court heard in its original jurisdiction on judicial review from the AAT.
+While I was flattered by the implied assumption that, unbeknownst to me, I had been elevated to the highest court in the land, even
+the description of what the case decided was wrong. First, the High Court expressly rejected the proposition that the implied freedom
+of political communication is a personal
+of free speech confirming, in line with earlier authority, that it is in truth an implied restriction on legislative power. Secondly,
+the High Court actually upheld the validity of the impugned provisions of the Public Service Act at issue in that case, on the ground
+that they did not impose an unjustified burden on the implied freedom of political communication.
+What was the source of the inaccurate information provided by the generative AI tool? Again, we do not know. While I assume that with
+a sufficiently specific question, the tool could reveal or suggest a source for a specific proposition (which in turn may or may
+not accurate), the AI tool is not generally programmed to reveal the sources of its information. For my question, I was left in the
+dark, unable to interrogate the sources from which the information about me had been scraped, apparently in preference to the plethora
+of accurate information available, for example, from the Federal Court website.
+So how much confidence should we have in these kinds of tools? Clearly there is room for improvement and the answers should be approached
+with a high degree of caution, if not scepticism. In this regard, in a recent article one of AustraliaaEURtms BigLaw firms pointed
+to the importance in using such tools, to keep humans in the loop. However, it is also important to factor into the equation the
+well-documented risk of bias by human decision-makers relying upon material generated by computer technologies, whereby an implicit
+assumption is made as to the superiority of machines to assemble accurate information and to reach more accurate conclusions. The
+risks of such biases are enhanced by the reported capacity of these tools to present inaccurate information in a highly persuasive
+and rational form.
+It follows that one risk in using information from such tools or systems in the decision-making process is of a failure by the human
+decision-maker to bring a properly independent mind to bear on the issues and interrogate the data provided by such technologies.
+Those risks may potentially have terrible or unforeseen consequences, depending upon the context. Consider the risk, for example,
+if an officer aEUR" deciding whether or not it is safe for a protection visa applicant to travel from the airport in Kabul to a regional
+province aEUR" relies upon allegedly up-to-date but in fact inaccurate information that the route is safe. Such examples are not
+so far-fetched as might be thought. Earlier this week, for example, reports emerged of a Columbian judge using ChatGPT when deciding
+whether a minor diagnosed with autism was exempt from paying for medical treatment of their impairment. The judge concerned reportedly
+defended his use of the technology aEUR~aEUR
+to facilitate the drafting of textsaEURtm but aEUR~not with the aim of replacingaEURtm judges
+Who should exercise the discretion?
+As the Honourable Virginia Bell recognised in her recent report into the appointment of the former Prime Minister to multiple ministries,
+the move to large government departments has been accompanied by the appointment of multiple ministers by Prime Ministers to administer
+single departments, with their respective responsibilities usually assigned by the Prime Minister to a senior minister. The senior
+minister in turn may assign particular responsibilities to junior and assistant ministers, including parliamentary secretaries. However,
+as the High Court in
+Re Patterson
+made clear, in such instances each Minister remains accountable to the Parliament in accordance with our constitutional system of
+responsible government.
+How then might the concepts of accountability work where, as is commonly the case, the decision-maker is rarely in fact the Minister,
+but in the overwhelming number of cases or perhaps invariably, the MinisteraEURtms delegate aEUR" a Departmental or agency officer?
+On the one hand, as John McMillan has argued, despite being nominated in the statute as the decision-maker, in many instances it
+may be undesirable in terms of public confidence in government if the Minister were personally to exercise the statutory power. As
+he explains, this may give rise to a perception that political biases or other irrelevant factors may have intruded into the decision-making
+process. On the other hand, as McMillan also contends, there is much to be said for the Minister having the formal status of a decision-maker
+because that links the whole process to the arena of public and political accountability
+aEUR. In line with this, he also suggests that
+aEURoe[t]he statutory nomination of a Minister, Secretary or agency head as the decision-maker should presumptively be an indication
+only of who has political and managerial responsibility for the function
+.aEUR Of course, as he also explains, there are decisions where that presumption should not apply.
+Arguably we are seeing a trend towards a greater number of instances where Ministers are personally choosing to exercise powers affecting
+individual rights and interests. In this regard, it is important to stress that a decision personally made by a Minister is almost
+invariably excluded from merits review. As such, there are important consequences from the perspective of an individual whose rights
+and interests are affected by a decision if that decision is made personally by a Minister. The Law Council has also highlighted
+that decision-making powers not subject to merits review may engage AustraliaaEURtms international human rights obligations, agreeing
+with the Parliamentary Joint Committee on Human Rights in this respect. Furthermore, there are an increasing number of cases in which
+the legality of a decision made personally by a Minister is challenged on the basis that the Minister could not have given lawful
+consideration to the issues given among other things the volume of material before the Minister and the limited time devoted to consideration
+of the issues by the Minister.
+In its report,
+What decisions should be subject to merits review
+, the Administrative Review Council set out those circumstances which may justify taking the rare step of excluding merits review
+including decisions involving consideration of issues aEURoe
+consequence to the Government
+aEUR. Examples given by the ARC include those concerning national security, AustraliaaEURtms relations with other countries, and AustraliaaEURtms
+economy where the decision has a sufficiently high political content. This suggests that such decisions might ordinarily be of a
+sufficiently significant or controversial nature as to fall within the category of decision requiring consideration at Cabinet level,
+as recognised in the Bell Report. The seriousness of this step was further highlighted by the ARCaEURtms recommendation that exclusion
+of decisions from merits review should be limited to decisions personally made by a Minister, and only be effected by, and take effect
+upon, the tabling in the Parliament of a certificate excluding the decision from merits review accompanied by an explanation.
+To conclude, the creation of a statutory power to make decisions always gives rise to two fundamental­­ questions: in whom
+should the statutory power formally be vested; and who, or what, should exercise the power? An answer to these questions in each
+case requires a consideration of fundamental human rights, the values underpinning Australian administrative law, principles of responsible
+government, and the specific statutory context. In this regard, the use of machines unquestionably has the capacity to promote consistency,
+accuracy, cost-effectiveness and timeliness in the making of government decisions. However, while the term aEURoeartificial intelligenceaEUR
+is often used to describe many of these technologies and they are most certainly artificial, ­­­ they are not in fact
+intelligent. Machines operate according to the rules under which they have been programmed including, in the case of machine learning,
+by applying the rules in question to aEURoelearnaEUR, even though the outcome may not be predictable. ­­It follows that the
+deployment of machines in particular administrative decision-making contexts needs to be approached with care. This is especially
+so where, for example, the proposal is to amend a law so as substitute pre-existing discretions in favour of strict rules. Ultimately,
+achieving just, consistent and transparent decisions in the exercise of statutory discretions benefits both the institutions of government
+through building public confidence in them, and the individual who is subjected to the exercise of statutory powers. It is, harkening
+twice blest; It blesseth him that gives and him that takes
+Justice of the Federal Court of Australia; LLB (Hons, Adel), LLM, PhD (Cantab), FAAL. This presentation was delivered at the Commonwealth
+Law Conference held by the Law Council of Australia on 24 February 2023. It draws upon presentations and published articles by, or
+co-authored with, Justice Perry, including in particular: a paper presented by Justice Perry and co-authored with Alexander Smith
+at the Inaugural International Public Law Conference, University of Cambridge, Centre for Public Law, 15-17 September 2014; Justice
+Melissa Perry, aEUR~iDecide - Administrative Decision-Making in the Digital WorldaEURtm
+(2017) 91(1)
+Australian Law Journal
+; and Perry, M A, aEURoeiDecide: Digital Pathways to decisionaEUR in
+The Automated State: Implications, Challenges and Opportunities for Public Law
+(2021; The Federation Press) (
+Perry, Digital Pathways
+). The author also expresses her thanks to Emeritus Professor Robin Creyke AO for her generous assistance with research.
+(2000) 201 CLR 194
+at 294-205.
+DJ Galligan,
+Discretionary Powers: A Legal Study of Official Discretion
+(Clarendon Press, Oxford, 1986) has observed: aEURoeaEUR|
+a notable characteristic of the modern legal system is the prevalence of discretionary powers vested in a wide variety of officials
+and authorities. A glance through the statute book shows how wide-ranging are the activities off the state in matters of social welfare,
+public order, land use and resources planning, economic affairs, and licensing. It is not just that the state has increased its regulation
+of these matters, but also that the method of doing so involves heavy reliance on delegating powers to officials to be exercised
+at their discretion
+aEUR (at [72]).
+Minister for Immigration and Citizenship v Li
+[2012] HCA 61
+(2013) 249 CLR 332
+, 348 29] (French CJ).
+McMillan, J, aEURoeThe role of judicial review in Australian Administrative LawaEUR
+[2001] AIAdminLawF 15
+30 AIAL Forum 51
+Perry, M A, aEURoeiDecide: Digital Pathways to decisionaEUR in
+The Automated State: Implications, Challenges and Opportunities for Public Law
+[full citation] at 1.
+NSW Ombudsman, aEUR~Mapping Automated Decision-Making Tools in Administrative Decision-MakingaEURtm (Report, 6 October 2022) 3.
+Information Privacy Commissioner, aEURoeScan of the Artificial Intelligence Regulatory Landscape aEUR" Information Access and PrivacyaEURtm
+(Report, 1 October 2022).
+New South Wales Government, aEURoeNSW Government Artificial Intelligence (AI) StrategyaEUR (Report, 31 March 2021).
+Perry, M A, aEURoeiDecide: Digital Pathways to decisionaEUR in The Automated State: Implications, Challenges and Opportunities for
+Public Law (2021; The Federation Press) 2.
+Dominique Hogan-Doran, aEUR~Computer Says aEURoeNoaEUR: Automation, Algorithms and Artificial Intelligence in Government Decision-MakingaEURtm
+(2017) 13(3)
+Judicial Review
+NSW Ombudsman, aEUR~The New Machinery of GovernmentaEURtm (Report, 29 November 2021) at [18] (citations omitted).
+Administrative Review Council, aEUR~Automated Assistance in Administrative Decision MakingaEURtm (Report to the Attorney-General,
+November 2004) vii.
+See e.g. aEURoeClayton Utz accelerates ESG work with ChatGPTaEUR,
+LawyersWeekly
+, 21 February 2023.
+Brandon How, aEURoeDTA cautions public service ChatGPT use without policyaEUR (online, Innovation Australia, 14 February 2023) <
+(2019) 267 CLR 373
+[2019] HCA 23.
+Ibid at 395 [20] (Kiefel CJ, Bell, Keane and Nettle JJ).
+Ibid at 406-407 [46] (Kiefel CJ, Bell, Keane and Nettle JJ), at 425 [101]-[106], (Gageler J), at 440 [162] (Gordon J), at 459 [212]
+(Edelman J).
+The Guardian, 21 February 2023.
+Report of the Inquiry into the Appointment of the Former Prime Minister to Administer Multiple Departments, the Hon Virgina Bell
+AC, 25 November 2022 (
+Bell Report
+) at [251]-[253].
+Bell Report at [251]-[253].
+Re Patterson; ex parte Taylor
+[2001] HCA 51
+(2001) 207 CLR 391
+(Gleeson CJ), [210]-[211] (Gummow and Hayne JJ) (approving
+Zoeller v Attorney-General (Cth)
+(1987) 16 FCR 153
+at 164-165 (Beaumont J).
+McMillan at 56.
+McMillan at 56-57.
+McMillan at 57.
+Law Council of Australia, Legal and Constitutional Affairs References Committee,
+Performance and integrity of AustraliaaEURtms administrative review system
+(7 Dec 2021) at [132] et seq.
+Phosphate Resources Ltd v Minister for the Environment, Heritage and the Arts (No 2)
+[2008] FCA 1521
+(2008) 251 ALR 80
+(Buchanan J);
+Koowarta v Queensland
+(2014) 316 ALR 724
+at [191] (Greenwood J);
+Seafish Tasmania Pelagic Pty Ltd v Minister for Sustainability, Environment, Water, Population and Communities (No 2)
+[2014] FCA 117
+(2014) 225 FCR 97
+at 124 (Logan J);
+Secretary, Department of Sustainability and Environment (Vic) v Minister for Sustainability, Environment, Water, Population and Communities
+(2013) 209 FCR 215 at 239 (Kenny J). For further discussion, see Mark Aronson, Matthew Groves and Greg Weeks,
+Judicial Review of Administrative Action and Government Liability
+(2017, Lawbook Company, 6
+edition) [5.110].
+Bell Report at [264] (referring to the PM&C
+Cabinet Handbook
+Ed, 2020) at [72]).
+Administrative Review Council
+, What decisions should be subject to merits review
+(1999) at [4.29].
+Related Links
+Was this page useful?
+What did you like about it?
+How can we make it better?
+* This online submission is protected by captcha
+Can't read the security key?
+Print (pretty)
+Print (eco-friendly)
+No downloadable files available
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

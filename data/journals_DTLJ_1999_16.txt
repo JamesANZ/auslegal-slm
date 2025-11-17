@@ -1,0 +1,2563 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/DTLJ/1999/16.html
+Scraped: 2025-11-17 14:54:35
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Kendall, Christopher N --- "Australia's New Internet Censorship Regime: Is this Progress?" [1999] DigTechLawJl 16; (1999) 1(3) Digital Technology Law Journal 16
+Australia's New Internet Censorship Regime: Is this
+Christopher
+Senior Lecturer, School of Law, Murdoch
+This paper examines Australia's new Broadcasting Services Amendment
+(Online Services) Act. This legislation, which now awaits Royal
+aims to regulate the distribution of obscenity via the Internet. The
+author argues that Australia's new Internet censorship
+regime stands as
+an example of how not to address the harms that result from the
+production and distribution of pornography. The
+author focuses
+specifically on the extent to which the legislation's definitions of
+what is and is not prohibited Internet content
+relies on a misguided
+understanding of what pornography is and what it does. He argues that
+while there is much merit in the claims
+of those who argue that little
+thought has gone into how best to implement control mechanisms, there
+is little point in trying to
+improve technological capacity if, after
+having done so, little thought has gone into what it is, exactly, we
+want to regulate and
+why we want to do it. The author concludes that
+the legislation is more indicative of the federal government's desire
+to assert values
+than punish those whose actions threaten the equality
+rights of those most harmed by pornographic material.
+The question pornography poses in cyberspace is the same one it poses
+everywhere else: whether anything will be done about it.
+Catharine A
+Introduction:
+What is "offensive online material"? - the moralist in Cyberspace
+Pornography
+as an Issue of Sex Discrimination: the Case of R v
+Re-Thinking "Obscenity" Post-
+: An Australian
+Comparative Perspective
+Australia's
+New Internet Regulators
+Pornography
+as a Human Rights Violation
+Introduction: What
+is "offensive online material"? - the moralist in Cyberspace
+In Australia, pornography on the Net is big business and, if recent international
+findings are any indication, immensely popular.
+Indeed, trading in sexually explicit material is now one of
+the biggest recreational applications of users of computer networks,
+frequently visited newsgroups sporting names like "
+alt.sex.stories
+rec.arts.erotica
+alt.sex.bondage
+" -- newsgroups which, in
+addition to providing materials now readily available via mail order etc,
+offer the on line browser
+materials featuring paedophilia (the use of children
+in sexual acts), hebaphilia (the use of youths in sexual acts) and paraphilia
+(material that includes images of bondage, sadomasochism, urination,
+defecation, and sex acts with animals).
+In June, 1999, the Commonwealth Parliament passed the
+Broadcasting Services Amendment (Online Services) Act
+legislation, which now awaits Royal assent, amends the
+Broadcasting
+Services Act 1992
+, to include Internet
+regulation as part of regulatory framework. Specifically, the main elements of
+this new framework are
+a complaints mechanism will be established
+under which any person can complain to the Australian Broadcasting Authority
+(ABA) about offensive material online;
+material that will trigger action by the ABA will be defined, on the
+basis of current National Classification Board guidelines
+for film, as
+material Refused Classification and rated X, and material rated R that is
+not protected by adult verification
+procedures;
+the ABA will be given powers to issue notices to service providers aimed
+at preventing access to prohibited material which is
+subject to a complaint
+if it is hosted in Australia or,
+indemnities will be provided for service providers to protect them from
+litigation by customers affected by ABA notices;
+a graduated scale of sanctions against service providers breaching ABA
+notices or the legislation will apply;
+the framework will not apply to private or
+restricted distribution communications such as Intranets or communications
+not in a stored form; however, current provisions of the
+Crimes Act 1914
+(Cth) in relation to offensive or harassing use of a
+telecommunications service will
+apply in this context;
+a community advisory body will be established to monitor material,
+operate a 'hotline' to receive complaints about illegal material
+this information to the ABA and police authorities, and advise the public
+that are available to address
+concerns about online content;
+the Commonwealth will be responsible for regulating
+the activities of Internet service providers (ISPs) and Internet content
+hosts (ICHs) and the Attorney-General will encourage the development of
+uniform State and Territory offence provisions
+complementing the
+Commonwealth legislation (including section 85ZE of the
+) that create offences for the
+publication and transmission
+of prohibited material by users and content
+The Act's overriding intention is to prohibit the
+availability of sexually explicit materials "likely to cause offence to the
+reasonable adult." Given this, it should come as no surprise that there has
+been much public debate and outcry regarding
+the Act's scope and possible
+The issue of how best to address the harms caused by the
+unbridled production and distribution of pornography in our society
+one of the more contentious issues facing modern legislators. The Internet
+offers nothing new in this regard,
+at least in so far as defining the harms
+that result from pornography is concerned. For many, pornography represents
+clearest example and source of sexualized, systemic gender inequality.
+This is a view best summarised by
+Catharine MacKinnon, who argues that:
+Pornography, in the feminist view, is a form of
+forced sex, a practice of sexual politics, an institution of gender
+inequality.
+In this perspective, pornography is not harmless fantasy or a
+corrupt and confused misrepresentation of an otherwise natural
+and healthy
+sexuality. Along with the rape and prostitution in which it participates,
+pornography institutionalizes the sexuality
+of male supremacy, which fuses the
+eroticization of dominance and submission with the social construction of male
+and female.
+Gender is sexual. Pornography constitutes the meaning of that
+sexuality. Men treat women as who they see women as being. Pornography
+constructs who that is. Men's power over women means that the way men see
+women defines who women can be. Pornography is
+For others, any
+attempt to regulate what to them represents little more than sexual expression
+represents an unacceptable
+infringement on their right to practise and access
+free speech and to do in private what they wish and with whom they wish.
+Still others, while acknowledging that pornography might
+actually undermine the rights of some to participate freely and equally
+society, query how best to ensure that the power to censor is not used
+arbitrarily and in a discriminatory manner.
+One might have hoped, given the amount of writing and research already
+undertaken on pornography and state censorship of it, that
+those governments
+presently attempting to regulate pornographic content would take seriously and
+attempt to address in an
+equitable manner the concerns of those for whom
+pornography is an issue in need of attention. Indeed, given the amount of
+academic and judicial pronouncements on this topic, both within Australia and
+internationally, one might have expected that
+any government undertaking this
+task might find itself in the unique position of devising a truly progressive
+means of ensuring
+that the harms of pornography are addressed both effectively
+and fairly.
+It is my purpose in writing this paper to argue that,
+expectations aside, Australia's new Internet censorship regime stands as
+rather unfortunate example of how
+to address the individual and systemic harms
+that result from the production and distribution
+of pornography. I write this
+paper from the perspective of those who accept that the types of material
+available on WebPages
+alt.sex.stories
+rec.arts.erotica
+alt.sex.bondage
+" are but one source of the
+daily discrimination to which many are subjected on account of their gender. I
+accept that pornography
+does in fact cause considerable harm to those used to
+produce it and to those harmed by its primary message (ie, that female
+subordination is the norm and sexual inequality empowering). Specifically, I
+accept that pornography is sex discrimination
+and should be addressed as such.
+It is not my purpose in writing this paper to change the views of those who
+refuse to believe
+or acknowledge the reality of those who claim to be harmed
+by the inequality that is pornography.
+This is an effort that has been tackled elsewhere.
+Nor is it my intention to outline and critique every aspect
+of Australia's new Internet censorship legislation.
+While many have focussed on the technical difficulties
+involved in regulating Internet content,
+I intend to focus on an issue that has
+received surprisingly little media attention in this country - that is, the
+to which this legislation's definitions of what is and is not
+prohibited Internet content relies on a misguided understanding
+pornography and is and what it
+While there is much merit in the claims of those who argue that little
+thought has gone into how best to implement control mechanisms,
+my own view,
+expressed in this paper, is that there is little point in trying to improve
+our technological capacity if, after
+having done so, we have not given any
+thought to what it is, exactly, we want to regulate and why we want to do it.
+My conclusion
+in this regard is that this legislation, in its present form, is
+more indicative of the federal government's desire to assert
+values than
+punish those whose actions threaten and undermine the equality rights of those
+most harmed by the production
+and distribution of pornographic material.
+Broadcasting Services Amendment (Online
+Services) Act
+, although lauded by the
+Australian government as an effective means to address pornographic harm, will
+fail as a means of doing so because it fails to understand the
+pornographic production and distribution. It also fails to offer any effective
+means through which to curtail and compensate
+for these harms. By focussing on
+pornography as an issue of immorality, rather than as an issue of inequality
+(and the harms
+that result from inequality), the government fails to ensure
+that those most in need of recourse and protection will find it.
+It also risks
+imposing unjustified limits on legitimate forms of sexual expression --
+expression which, far from harmful,
+may in fact prove quite liberatory to those
+who use it and central to the goal of systemic equality.
+My own belief is that by redefining
+pornography as a threat to social equality and by adopting enforcement
+measures which
+that this threat is curtailed, our legislators
+could do much to ensure that the harms of pornography are taken seriously,
+while guaranteeing that the "right to speak" is a right shared by
+To assist me in this regard, I will turn to
+international precedent in an effort to convince legislators that pornography
+must be seen and addressed for what it is -- a practice of sex discrimination.
+Specifically, I will look to recent case law in
+Canada and recent legislative
+efforts in the United States. In 1992, in the case of
+a case concerning the interpretation and application of
+Canada's Criminal Code obscenity provisions, the Canadian Supreme Court
+that pornography is an issue of sex discrimination and that laws aimed at
+restricting pornographic materials, in so
+far as they aim to eliminate this
+injustice, are in the best interests of any society committed to systemic
+equality. The
+Court's findings on the effects of pornography and the need to
+balance the need for free speech with the need for equality are
+particularly
+instructive. They offer a solid starting point from which legislators can
+begin to tackle the harms articulated
+by those who claim to be harmed by
+pornography.
+Although I accept the equality-based analysis articulated in
+also acknowledge that much has been written since the decision in
+the way in which the decision is likely to be enforced and the problems that
+result from enforcement mechanisms generally.
+It has been argued that the
+application of the Supreme Court of Canada's equality-based test is
+susceptible to abuse in the
+hands of police and law enforcement officials who
+understand little if anything about the need to protect society's equality
+interests. I accept these concerns but believe that they can be addressed such
+that the equality test for pornographic harm
+is implemented fairly and
+effectively. Specifically, I believe the civil-rights approach to pornographic
+harm devised by
+American feminists Catharine MacKinnon and Andrea Dworkin
+offers a fair and effective solution to the issue of how best to address
+In 1983, Andrea Dworkin and Catharine MacKinnon drafted and attempted to
+implement a civil rights ordinance for the City of Minneapolis
+addressing the harms to equality caused by the production and distribution of
+pornography.
+The Ordinance was originally drafted and implemented in
+Minneapolis, Minnesota. In 1983, residents of two working class areas
+town Minneapolis asked Andrea Dworkin and Catharine MacKinnon to assist them
+in doing something about the pornography
+in their neighbourhoods. Although the
+city originally intended to draft a zoning ordinance, which would only permit
+of pornography in specified (low income) neighbourhoods, Dworkin and
+MacKinnon convinced the Zoning and Planning Committee that
+such a measure
+would only legitimize pornography. They urged the city to take a "civil
+rights" approach which would allow
+those harmed by the production and sale of
+pornography to sue those responsible for their harm. The idea was ultimately
+implemented
+as an amendment to the sexual discrimination provisions of the
+Minneapolis Civil Rights Ordinance. The legislation was ultimately
+then Mayor Donald M Fraser.
+In April, 1984, similar legislation was passed in
+Indianapolis and supported by Mayor William H Hudnut III. This legislation
+challenged as unconstitutional by an alliance of booksellers. In
+Booksellers Association v Hudnut
+the Court of Appeals for the Seventh Circuit held that the
+Indiannapolis Ordinance was unconstitutional as a violation of free
+The Court accepted the factual premises of the ordinance, conceding that
+"depictions of subordination tend to perpetuate
+subordination" and that the "
+subordinate status of women in turn leads to affront and lower pay at work,
+insult and injury
+at home, battery and rape on the streets." Despite this, the
+Court also held that "racial bigotry, anti-Semitism, violence on
+[and other forms of expression also] influence culture and shape our
+socialization. Yet all is protected speech,
+however insidious. Any other
+answer leaves the government in control of all of the institutions of culture,
+the great censor
+and director of which thoughts are good for us."
+It is not my intention in this paper to critique the
+decision in
+I will, however, outline in some detail the Canadian Supreme
+Court's decision in
+as indicative of an approach which accurately
+recognizes the need to link the need for speech with the need for equality and
+which thus justifies and permits legislative efforts aimed at preventing the
+sale of those pornographic materials which undermine
+sex equality. It is my
+belief that this decision accurately summarises the real harms and role of
+pornography and, when supplemented
+with the regulatory approach provided in
+the MacKinnon-Dworkin Ordinances, offers the Australian Parliament a unique
+opportunity
+to radically overhaul its anti-pornography mandate. The Ordinance
+declared that pornography and sexual harassment injure the
+public welfare by
+degrading women and fostering intolerance for other persons. It also stated
+that pornography is a systemic
+practice of exploitation and subordination
+which plays a central role in maintaining sexual inequality. Unlike other
+aimed at reducing the harms of pornography, the Ordinance removed the
+power to regulate and control pornographic harm from those
+least harmed by
+pornography -- ie the state and those who exercise its power -- and allowed
+those most harmed by pornography
+to take direct legal action against the
+agents of their harm without relying on the state to act on their behalf.
+Although the Ordinance was ultimately struck down as a violation of the right
+to free speech guaranteed in the First Amendment
+of the United States
+Constitution
+, I believe that in light of the equality-based analysis of
+pornographic harm recently offered in Canada in
+(an approach which
+essentially rejects the US approach to free speech and pornography), the
+Ordinance offers a valid approach
+to addressing the harms of pornography in
+Australia. In particular, in light of Australia's recognition of the need for
+and its willingness to impose restrictions on speech which undermine
+this equality (as evidenced most recently in attempts to
+anti-vilification statutes)
+the Dworkin-MacKinnon anti-pornography ordinance can be
+successfully integrated into already existing equal opportunity legislation.
+By focussing on what I perceive to be one of the many troublesome aspects of
+Australia's new Internet censorship legislation,
+I will outline why exactly
+our legislators should radically re-think the methods they have chosen to
+combat pornographic
+harm. I will further outline why I believe the
+MacKinnon-Dworkin anti-pornography approach offers the best method with which
+to achieve this objective.
+Pornography as an Issue of Sex Discrimination: the Case
+I was abused, molested, insulted and
+frightened by my older brother when I was seven and he was thirteen. He had
+a waist-high
+stack of pornographic magazines. It is something I will never
+forget. Pornography is about hate for women, power over women,
+women, ridicule and contempt of women.
+My large bust presumably means that I am available and an easy
+lay. I feel these ridiculous connections can only come from
+page 3-type porn
+where big equals no brain.
+On August 21, 1987, most of the inventory
+(pornographic videotapes and pornographic magazines) in the Avenue Video
+in Winnipeg, Manitoba, Canada was seized by Winnipeg police. The
+owner of the Boutique, Donald Victor Butler, was
+subsequently
+charged pursuant to s. 159 (now s. 163) of the
+Criminal Code
+for various offences
+related to the possession and sale of obscene materials.
+On June 6, 1991 Donald Butler's case was heard by the
+Supreme Court of Canada. The Court was asked to consider two constitutional
+questions in determining the validity of Butler's conviction:
+Whether s. 163 of the
+Criminal Code
+violated the appellants right to free expression as guaranteed under s.
+2(b) of the
+Canadian Charter of Rights and Freedoms (the
+If so, whether it could be demonstrably justified
+under s. 1 of
+the Charter
+as a reasonable limit prescribed by law?
+Although the constitutional questions raised on
+appeal brought into scrutiny the entirety of s. 163 of the
+, the Supreme Court
+confined its examination to the constitutional validity of the definition of
+in s. 163(8), which provides:
+(8) For the purposes of this
+any publication a dominant
+characteristic of which is the undue exploitation of sex, or of sex and one or
+more of the
+following subjects, namely crime, horror, cruelty and violence,
+shall be deemed to be obscene.
+Much has already been written outlining the
+constitutional analysis offered by the Court and I do not intend to repeat
+What is important to note, however, is the Court's analysis
+regarding the interaction between the right to speak and
+the right to
+participate equally and without discrimination in society. Although
+Canadian-based, the analysis offered by
+the Court stands as strong precedent
+for any future judicial and legislative efforts to regulate pornographic harm.
+important within the context of an analysis of the Australia's new
+Internet censorship regime is the Court's finding on the need
+traditional approaches to obscenity regulation (like those embodied in
+legislation throughout Australia and which,
+I will argue, is best typified in
+the new Commonwealth Australian legislation which is the focus of this paper)
+which views
+pornography in terms of its effect on public morality and which,
+as such, does little to protect those most in need of protection
+unjustifiably limiting speech which should not be limited.
+Donald Butler argued that
+the test for obscenity in section 163(8) of the
+Canadian Criminal
+prohibited him from asserting his constitutional right to free
+expression. In the final analysis, the Court found that although
+section 163
+indeed violate Butler's
+constitutional right to free expression, the section nonetheless constituted a
+reasonable limit on
+this right and was saved by virtue of section 1 of the
+. The Court held that the limit imposed on
+Butler's right to distribute and display pornography
+was justifiable because the
+overriding objective of
+the Criminal Code
+provision is
+to prevent harm to society -- specifically, the harms that result from the
+production and
+distribution of pornographic representations and pictures that
+undermine the right of other people to live equally, without fear
+harassment and discrimination.
+In rendering its decision, the Court outlines what
+creates and promotes this harm. It is this analysis which is most
+ground-breaking. At a very basic level, the Court completely
+redrafts the law
+of obscenity by offering a radical reconceptualisation of the analysis
+traditionally offered by the Courts.
+Quoting from the
+on the effects of pornography, the Court notes that the harm
+of pornography is the harm of gender inequality:
+The effect of this material is to
+reinforce male-female stereotypes to the detriment of both sexes. It
+attempts to make
+degradation, humiliation, victimization, and violence in
+human relationships appear normal and acceptable. A society which
+egalitarianism (is) basic to any human interaction
+, is clearly justified in
+controlling any medium of depiction which
+violates this principle (emphasis
+In rendering its decision, the Court relied on, and
+certainly had available to it, a considerable amount of social and scientific
+research on the harmful effects of pornography on women, on men, and thus on
+society as a whole -- research from which there
+is sufficient reason to
+believe that pornography amounts to a practice of sex discrimination.
+Generally, these findings indicate that when explicit sex
+and express violence against women are combined, particularly when
+portrayed as pleasurable for the victim, the risk of violence against women is
+known to increase.
+There is also considerable evidence regarding materials
+which are not violent but which are nonetheless degrading or dehumanising.
+These findings indicate that pornographic materials lower inhibitions on
+aggression by men against women, increase acceptance
+of women's sexual
+servitude, increase sexual callousness toward women, decrease the desire of
+both sexes to have female children
+and increase the belief in male dominance
+in intimate relationships.
+When read in conjunction with the testimonies of those women
+harmed during the production of pornography,
+with the concerns of those whose partners have humiliated or
+terrorised them into imitating pornographic materials and who have
+and psychologically harmed them when they have refused,
+and when read in conjunction with the testimonies of those
+women who have simply stated point blank that pornography renders
+them unsafe,
+open to harassment, or unable to function as equals in a society rife with
+sexual inequality,
+these findings all provide an undeniably strong case in
+support of the argument that pornography is a practice of sex discrimination
+resulting in systemic gender inequality.
+Admittedly, there is research that
+questions some of these findings -- a point pro-porn advocates are quick to
+The Court in
+accepts this but notes that although
+scientific proof can never provided, absolute accuracy is not required
+and this is particularly so if one aims, as one must, to
+place speech rights
+within the context of undeniable systemic inequality. In making this decision
+the Court relies specifically
+on its judgment in
+a case concerning Canada's hate speech laws, in which the
+Court notes that although a direct causal connection between hate speech
+minority victimization cannot be proven, this does not render the resulting
+harm any less real:
+Essentially, there are two sorts of injury caused by hate
+propaganda. First, there is harm done to members of the target group.
+indisputable that the emotional damage caused by words may be of grave
+psychological and social consequence....Words
+and writings that
+wilfully promote hatred can constitute a serious attack on persons belonging
+to a racial or religious group,
+and in this regard...these persons are humiliated and
+degraded...A second harmful effect of hate propaganda which is of pressing
+substantial concern is its influence upon society at large. The Cohen
+Committee noted that individuals can be persuaded
+to believe almost anything
+if information or ideas are communicated using the right technique and in the
+proper circumstances...The
+threat to the self respect of target group members is thus matched by the possibility
+that prejudice will gain some credence,
+with the attendant result of
+discrimination, and perhaps even violence, against minority groups in
+, the Court affirmed its reasoning in
+concluding that to require absolute proof of harm ignores the very real
+consequences of speech which promotes inequality
+and which, in the process,
+silences those most in need of speech and equality.
+Noting that pornography can be seen to negatively affect
+individual attitudes and behaviours and in the process create a substantial
+risk of harm to individual women and society at large (because society's
+equality interest will be threatened), the Court
+goes a long way towards
+addressing the many discriminatory effects of pornographic "speech." By taking
+seriously the voices
+of those most harmed by pornography, by understanding
+that, for example, "images of a speculum inserted in a woman's anus, of
+woman jerking off a pig, of a woman tied up, hooded and hanging from her
+breasts from the ceiling",
+actually say something to some people (indeed, a great many
+I would imagine) about the accepted and expected role of women and
+society, and by noting that this in turn results in some rather discriminatory
+attitudes which go a long way towards
+undermining systemic equality, the Court
+finally takes seriously and puts into perspective the meaning of and need for
+In the final analysis, the Court offers a test for
+obscenity which recognizes that the ultimate community harm to be addressed
+the harm caused by expression which makes degradation, humiliation,
+victimization and violence in human relationships
+-- all of which, the Court
+recognizes, can be seen to threaten the right to equality -- appear normal and
+acceptable. Implicit
+in this reasoning is the conclusion that although free
+expression is a fundamental value, it is not the
+value worth protecting
+and it does not always rank above other values. Indeed, noting that any
+constitutional
+guarantee of free expression which develops without taking "the
+reality of substantive social inequality or the guarantee of
+legal equality
+into account"
+only serves to preserve, if not promote, present
+inequalities, the Court further notes that "the harm caused by the
+proliferation
+of materials which seriously offend other values fundamental to
+our society is a substantial concern which justifies restricting
+the otherwise
+full exercise of the freedom of expression".
+The fact that the Court focuses so predominantly on
+the effect that pornography, once distributed, has on equality, should not
+seen as implying that it does not acknowledge that real women are actually
+physically harmed in the production of these
+materials. The Court
+evidence of this fact. Rather than focus on it exclusively, however, the Court
+relies on this
+evidence as a further indication that pornography is a tool of
+inequality through which those with power control those without
+inequality evident during the production of the material is real and
+self-evident.
+Once distributed, however, it serves to reinforce the very
+inequalities that make its production possible in the first place.
+By focusing on this inequality, the Court also specifically
+rejects the notion that pornographic speech should be limited in order
+protect public morality. In so doing, it rejects an entire history of judicial
+reasoning concerned only with the preservation
+of majoritarian moral codes
+...this particular objective is no longer
+defensible in view of the
+. To impose a certain standard of public and sexual
+morality, solely because it reflects the conventions of a
+given community, is
+inimical to the exercise and enjoyment of individual freedoms...This is "legal
+moralism" - a majority
+deciding what values should inform individual lives
+and then coercively imposing those values on minorities. The prevention
+"dirt for dirt's sake" is not a legitimate objective which would justify the
+violation of one of the most fundamental
+freedoms enshrined in the
+The Court, rejecting morality, thus defines the harms of
+pornography within a strict sex equality context, adding that "if true
+equality between male and female persons is to be achieved, we cannot ignore
+the threat to equality resulting from exposure
+to audiences of certain types
+of violent and degrading materials."
+With respect to what constitutes
+degrading or dehumanizing behaviour, the Court accepts the graphic but all too
+description of the Manitoba Queen's Bench in
+R v Ramsingh
+, which described the type of
+material that qualified for this label as follows:
+(Individuals) are
+exploited, portrayed as desiring pleasure from pain, by being humiliated and
+treated only as an object of
+male domination sexually, or in cruel or violent
+bondage. Women are portrayed in these films as pining away their lives waiting
+for a huge male penis to come along, on the person of a so-called sex
+therapist, or window washer, supposedly to transport
+them into sexual ecstasy.
+Or even more false and degrading one is led to believe their raison d'etre is
+to savour semen as
+a life elixir, or that they secretly desire to be
+forcefully taken by a male.
+Accepting this definition, the Court in
+then explains that:
+among other things, degrading or
+dehumanizing materials place women (and sometimes men) in positions of
+subordination,
+servile submission or humiliation.
+They run against the
+principles of equality and dignity of all human beings
+(Emphasis added.)
+, the Supreme
+Court of Canada mandates that the overriding objective in limiting the
+production and distribution of pornography
+is the avoidance of real harm to
+society - the harm caused to real people from materials that exploit them and
+depict them
+as inferior and
+In so ruling, the Court recognizes that not all speech is
+equal and that some speech is in fact the very source of that inequality.
+right to express oneself must thus be viewed within the context of real
+systemic inequalities.
+Re-Thinking "Obscenity" Post-
+: An Australian
+Comparative Perspective
+As women and minority persons are all too aware, our right to free expression has
+for too long been silenced by a majority discourse
+that refuses to give our
+ideas, politics and pains expression. In the name of free speech, we have been
+subjected to expression
+that does little more than oppress and further
+entrench our place in society as second class citizens or, for those of us who
+have been completely denied any voice, non-existent citizens.
+By recognizing that some speech encourages and promotes
+those societal norms that cause inequality, the Canadian Supreme Court
+done much to advance the rights of all persons who do not benefit from a now
+recognized unequal distribution of power.
+It is a recognition long overdue and
+one which others would do well to emulate.
+If we accept the reasoning of the Court in
+, then the question
+that needs to be asked is whether or not any lessons can be or should be
+learned from it and ultimately
+applied within the context of Australian laws
+attempting to limit the harms of pornography. It is my belief that the
+most definitely is instructive and, if we truly are committed to both
+the concept of equality and to eliminating the harms of
+pornography, a review
+of Australia's most recent censorship legislation demonstrates why it must be.
+The argument can, of course, be made that Canadian precedent holds no weight
+in Australian law. While it is arguably true that
+nations are under no
+obligation to follow the legislative and judicial efforts of other nations, it
+would seem to me that
+any nation truly committed to the concept of systemic
+equality would attempt to do all that it can do to ensure that this objective
+is met. The Canadian Courts have long struggled with the concept of obscenity.
+Until recently, Canadian and Australian approaches
+to the regulation of
+obscenity remained almost indistinguishable.
+Similarly, both nations have done much to pass legislation
+aimed at eliminating social inequalities. In 1993, the Canadian Supreme
+took this step one step further by acknowledging the role of pornography in
+maintaining these inequalities. While Australian
+obligation to do the same, it would seem to us that, given this country's
+apparent commitment
+to systemic justice, that the decision in
+least merit consideration. Again, this becomes particularly evident if we
+examine the possible implications of our
+most recent efforts to regulate the
+harms of pornography.
+In 1868, in the case of
+R v Hicklin
+Cockburn CJ, outlined when the State can
+justifiably limit the distribution of materials it deems obscene. He held that
+depravation and corruption of "those whose minds are open to such immoral
+influences, and into whose hands a publication of this
+sort may fall" is the
+primary issue to be considered. This test, concerned primarily with corruption
+of those who use pornography
+and the need to impose a rigid moral code, again
+finds expression throughout the soon to be implemented
+Broadcasting
+Services Amendment Act
+analysis of which
+Australia's
+New Internet Regulators
+In May 1999, the Australian Senate Select Committee on
+Information Technologies released its Report on the
+Broadcasting Services
+Amendment Bill
+The Committee's findings indicate that the government's
+agenda in this regard is to establish a regulatory framework relating
+"illegal or offensive material published and transmitted through online
+services such as the Internet."
+The Committee explains that this objective will be achieved
+in the following manner.
+The substantive part of the legislation amends the
+Broadcasting Services Act
+(BSA) to add a comprehensive legislative framework to
+regulate a new category: online services. The legislation
+establishes a regime
+to be administered by the Australian Broadcasting Authority (ABA) to regulate
+the carriage of content
+over such online services as the Internet. In particular,
+the regime aims to remove and exclude certain material (described as
+either prohibited content or potential prohibited content - discussed in
+detail below) from the Internet.
+The Committee explains that the objects of the newly amended
+BSA will be to provide a means for addressing complaints about certain
+Internet content; restricting access to Internet content likely to "cause
+offence to a reasonable adult; and protecting children
+from exposure to
+Internet content that is unsuitable for children."
+In order to achieve its stated objects, the legislation
+amends the BSA so that the ABA will be responsible for monitoring the
+industry as well as the broadcasting services.
+A new schedule 5 is to be inserted in the BSA that will
+establish a regime for regulating certain aspects of the online industry.
+regime will operate via a complaints mechanism. If a person has reason to
+believe that an Internet Service Provider is
+supplying an Internet carriage
+service enabling end-users to access either prohibited content or potential
+prohibited content
+or that an ICH is hosting prohibited content or potential
+prohibited content, then that person may make a complaint to the ABA.
+must investigate such complaints except where the complaint is, amongst other
+things, frivolous, vexatious or not
+made in good faith. The ABA must notify
+complainants about the outcome of the investigation. The ABA may also
+investigate
+any of the above matters on its own initiative.
+One of the essential elements of the regulatory scheme is
+that it defines material that will trigger a complaint as either prohibited
+content or potential prohibited content. The classification of Internet
+content is central to those definitions.
+The legislation requires that written
+information and static information on the Internet be classified by a
+Classification
+Board established under the
+Classification (Publications,
+Films and Computer Games) Act
+as if it were a film.
+If the material was classified under the
+Classification (Publications, Films and Computer Games) Act
+Internet content will be deemed to have the same classification. If the
+material has not been so classified, then the
+Classification Board must give
+the Internet content the same classification it would be given as a film under
+Classification (Publications, Films and Computer Games) Act
+result is such that Internet content hosted
+in Australia
+classified as prohibited content if it has been classified RC (refused
+classification) or X by the Classification
+Board or it has been classified R
+by the Classification Board and access to the content is not subject to a
+restricted access
+system. Internet content hosted
+outside Australia
+is prohibited content if the content has been classified RC
+or X by the Classification Board. Potential
+prohibited content is content that
+has not be classified by the Classification Board but, were it to be so
+classified, there
+is a substantial likelihood that the content would be
+prohibited content.
+This material may also be removed until by the ABA until a
+formal classification can occur.
+The Bill divides the regulatory regime into
+two parts: that dealing with prohibited content hosted in Australia and that
+with prohibited content hosted outside Australia.
+If the ABA is satisfied that Internet content hosted in
+Australia is prohibited content, the ABA must give the Internet content
+written notice, being a final take-down notice, directing the host not to host
+the prohibited content.
+Other provisions apply where the ABA is satisfied that the
+Internet content is potential prohibited content. If the ABA is satisfied
+there is a substantial likelihood that the content would be classified as RC
+or X, the ABA must issue the host with
+a (written) interim take-down notice
+directing the host not to host the content pending an actual classification by
+the Classification
+Board. Further, the ABA must request such a classification
+from that Board. If, however, the ABA is satisfied that there is a
+substantial
+likelihood the Internet content would be given an R classification, then the
+ABA must only request the Classification
+Board to classify the content. In
+either case, the ABA must notify the ICH of the result of the classification
+the result is that the content is prohibited, then the ABA must
+issue a final take-down notice,
+which requires that the material be permanently removed from
+the Internet.
+Particular provisions apply where the ABA is satisfied that
+Internet content hosted outside Australia is sufficiently serious
+referral to a law enforcement agency (within or outside Australia). In those
+circumstances, the ABA must notify,
+amongst others, a member of an Australian
+police force.
+Finally, the legislation introduces an
+amendment to section 85ZE of the
+. That section prohibits a person from knowingly or
+recklessly using a carriage service supplied by a carrier
+to menace or harass
+others or from using that carriage service in an offensive manner.
+To understand the extent to which this new legislative
+scheme will prove ineffective in regulating that which must be regulated,
+must take a closer look at the actual definitions provided in the
+Classification (Publications, Films and Computer Games) Act
+Recall that under the
+Broadcasting Services Amendment (Online Services)
+, all Internet images will be classified by the OFLC in the same
+way as they would classify films under the
+Classification Act
+1995. This is problematic.
+Pursuant to section 9 of the
+Classification
+, all films (read: all forms of Internet presentation), are to be
+classified in accordance with the "National Classification Code",
+Schedule 5 of the
+Classification Act
+and the "Classification
+Guidelines." Pursuant to section 11 of the
+Classification Act
+, the matters to be taken into account when making a
+decision on
+the classification of a film include:
+the standards of morality, decency and propriety generally accepted by
+reasonable adults.
+Pursuant to the National Classification Code, all Internet content should
+now be classified as followed:
+Description of film
+Classification
+Films that:
+depict, express or otherwise deal with matters of sex,
+drug misuse or addiction, crime, cruelty, violence or revolting or abhorrent
+phenomena in such a way that they offend against the standards of morality,
+decency and propriety generally accepted
+by reasonable adults to the extent
+that they should not be classified; or
+depict in a way that is likely to
+cause offence to a reasonable adult a minor who is, or who appears to be,
+under 16 (whether
+or not engaged in sexual activity); or
+promote, incite
+or instruct in matters of crime or violence.
+Films (except RC films) that:
+depict sexual activity between adults, where there is no sexual
+violence, coercion or non consent of any kind, in a way
+that is likely
+to cause offence to a reasonable adult; and
+are unsuitable for a minor to see.
+Films (except RC films and X films) that are unsuitable for a minor to see.
+The Classification Guidelines, referred to in section
+Classification Act
+, are detailed in the Classification Board and
+Classification Review Board Annual Report for 1998. Important for
+our purposes
+is the fact that the Guidelines (which are quite brief and arguably lacking in
+content) state that, when making
+its classification decisions, the Board is
+required to "reflect contemporary community standards". With respect to R
+films, the Guidelines outline that films will be rated 'R' if:
+Sexual activity is only realistically simulated; the general rule
+is 'simulation yes - the real thing no'.
+Nudity in a sexual context does not include actual genital contact
+Verbal references are more detailed than actual depictions
+The Guidelines also point out that films must be refused classification if
+they "offend against generally accepted standards of
+morality, decency and
+propriety" and if they contain:
+depictions of child sexual abuse or any other exploitative or offensive
+depictions involving a person who is or who looks like
+a child under 16;
+detailed instruction in:
+i. matters of crime or violence,
+ii. the use of proscribed drugs;
+depictions of practices such as bestiality.
+Films and videos will be also be refused
+classification if they contain gratuitous, exploitative or offensive
+depictions of:
+violence with a very high degree of impact or which are excessively
+frequent, prolonged or detailed;
+cruelty or real violence which are very detailed or which have a high
+sexual violence;
+sexual activity accompanied by fetishes or practices which are offensive
+or abhorrent;
+incest fantasies or other fantasies which are
+offensive or abhorrent.
+A review of the above would seem to indicate that the
+primary focus of the
+is on the regulation of
+materials which are likely to offend those who view them and which, because
+they are indecent (hence
+offensive), are likely to undermine society's moral
+fibre. This focus permeates the entire
+and as such, tends to
+undermine those sections of it which might in fact prove useful. For example,
+although the
+seems to recognise the link between
+pornography and violence, this recognition is undermined by the fact that it
+fails at a very basic level to also recognise
+the harms of non-violent
+pornography. This is problematic, for as Susan Cole notes:
+But what do we do
+with the real facts, the ones that tell us that it isn't only the violent
+materials that are being used
+to keep women down or used as sex manuals forced
+on the victims of battery? What about the fact that the so-called
+"non-violent"
+materials are often made under near violent conditions? In fact,
+much of the pornography implicated in the battery of women has
+so-called non-violent materials. More to the point, the items through which
+women are forced into sexual acts
+are very often soft-core items that, even
+given the long arm of the law, obscenity legislation cannot and will not
+Similarly, the determination of what is violent seems
+to depend on the
+preoccupation with what, in the eyes of the reasonable
+person, is not in the community interest. This is problematic,
+least. In the eyes of the law, the reasonable "person" has tended to find
+expression through the voice of the
+reasonable "man".
+The reasonable man, charged with the responsibility of
+protecting the community against public indecency, lives in a community
+which violence against women is ideologically encouraged; a community where
+women are battered and raped daily, simply
+for being women. As Andrea Dworkin
+What do community standards mean in a society when violence against
+women is pandemic, when according to the FBI a woman is battered
+eighteen seconds and it's the most commonly committed crime in the country?
+What would community standards have meant
+in the segregated south? What would
+community standards have meant as we approached the atrocity of Nazi Germany?
+community standards in a society where women are persecuted for being
+women and pornography is a form of political persecution?
+The community standards approach, defined as it is by a male
+standard far removed from this reality, also ignores the fact that
+pornography (because it glorifies and normalises these harms) is allowed to
+exist, the more likely it is that it
+will set the standards for those men
+expected to determine whether or not they, as the reasonable person and
+representative
+of the community, are offended. The determination of whether
+something is "decent" will thus tend to be measured against that
+find more and more sexually arousing -- resulting, ultimately, in a situation
+where inequality (because it is sexualized,
+normalized and romanticised in
+pornography and in society generally) ultimately becomes the community
+standard, such that
+inequality is unlikely to be seen as corruptive, hence
+indecent, hence harmful to the public interest.
+Because morality in our society has come to be linked with
+the community's perception of decency and offensiveness and because
+is unlikely to be seen as offensive to those for whom inequality is not a
+daily reality and for whom it is, in
+fact, sexually arousing -- ie those men
+to whom we turn in determining what is in the public interest -- any attempt
+to regulate
+pornography which uses concepts like immorality, indecency or
+impropriety as the basis for determining harm, will ultimately
+prove futile in
+protecting those who do not benefit from a community standard set by gender
+male privilege and who do not
+benefit from debates about morality which centre
+on little more than the proper boundaries of female objectification. The
+question that legislation of this sort poses is whether men are offended by
+what they see, rather than whether women are abused,
+violated and degraded as
+a consequence of the production and use of what these men see. By emphasising
+the corruptive effect
+of pornography on the consumer (usually male), laws of
+this sort ignore the fact that women are overwhelmingly pornography's
+They concern themselves "more with whether men blush than with whether women
+such that the harms caused to women and ultimately to the
+public's equality interest are completely ignored.
+The above becomes even more apparent once we note the extent to which the
+interpretation of what is and is not "reasonable" or
+"morally acceptable" will
+now need to be made by adjudicators appointed by a government which sees
+itself as the guardian
+of Australian family values. One of the other real
+concerns with legislation which focuses on moral upkeep, is the extent to
+which it will be used to suppress the expression of sexual practices and
+identities which are not socially harmful. This
+is particularly true of some
+images and representations of same-sex sexual activity -- images which, it can
+be argued, are
+liberating and central to the formations of a positive sexual
+identity. For as Jerald Moldenhaur explains:
+As gay people, we know how
+important literature is in informing our evolving identity and furthering our
+social empowerment.
+Because our 'difference' as gay and lesbian people is
+largely defined by our sexuality, it is especially important for us to
+to communicate and share experiences about this subject.
+Although I generally agree with Moldenhaur's views, it is
+important to clarify that not all representations of same-sex sexuality
+necessarily empowering. Indeed, some lesbian and gay activists (myself
+included) have expressed the concern that a great
+deal of gay and lesbian
+pornography is far from a tool of liberation and is, in fact, central to the
+promotion of the very
+inequalities that lesbians and gay men must reject if
+they are truly committed to the goal of social equality. These writers
+issue with the claims of some gay activists
+that lesbian and gay male pornography
+undermines the gendered power inequalities evident in heterosexual pornography
+it presents a sexuality which tends to subvert and challenge
+heterosexual male power. In particular, it has been argued that:
+Gay male pornography creates a sexual
+hierarchy in which 'he' who is aggressive and dominant (read masculine) is
+(read the epitome of what it means to be male as socially defined)
+and the person over/upon whom that power is exercised is
+non-masculine,
+hence feminised, hence non-powerful (read 'female' as socially defined). It
+is this sexuality that violates
+women and it is this sexuality that leads to
+the oppression of gay men. Gay male pornography, because it glorifies the
+masculine, reinforces a male/female social dichotomy. In doing so, it
+strengthens those stereotypes that allow society to
+view certain behaviour
+as feminine, hence inferior, and reaffirms, because it reinforces, the idea
+that it is unnatural
+to engage in a sexual dynamic not premised on
+male/female polarity. It is, in essence, homophobic and, as such, central to
+the maintenance of sex discrimination and systemic inequality.
+These writers, and those who support them, agree that
+some same-sex sexual imagery can be affirming and central to a more liberating
+identity. They also accept and understand that positive images of same sex
+sexuality are vital for those coming to terms
+with their sexuality in an
+environment which does much to portray it as deviant and abnormal. Most
+importantly, these writers
+agree that present efforts to restrict pornography,
+because they tend to focus on the need to protect public morality, risk
+restricting much needed lesbian and gay male expression. Where these activists
+disagree with other activists, however, is
+in their analysis of the importance
+of the types of lesbian and gay male pornography presently lauded as
+liberating, hence
+in need of protection. These writers believe that present
+efforts to protect gay pornography do little more than promote and
+those gender constructs that are the very source of gay male suppression and
+sex discrimination.
+This in turn leads them to believe that
+efforts which aim to limit the distribution and production of pornography in
+name of sex equality (as opposed to present procedures that appear to do
+so on the grounds of public morality) should be supported
+by lesbian and gay
+male activists alike, rather than condemned as anti-speech or anti-gay. Their
+goal is to ensure the implementation
+of anti-pornography measures which both
+protect against the harms of pornography while ensuring that legitimate forms
+minority sexual expression (ie those which do not simply support gender
+inequality) are allowed production and distribution and
+not arbitrarily
+It is not my purpose in writing this paper to "prove"
+that lesbian or gay male pornography undermines society's sex equality
+interest. This is clearly beyond the scope of this work. Having said this, I
+do write this paper from the perspective of those
+who believe that it does do
+so. I acknowledge, however, that present obscenity regulations are susceptible
+to considerable
+abuse -- abuse which frequently results in the seizure of
+materials which clearly should
+be restricted
+and which fails to restrict those materials which clearly
+be. This obviously poses a challenge to all
+persons committed to equality. That is, how should those representations of
+sex sexuality which
+undermine systemic
+equality be regulated and how do we ensure that those which do
+, are not regulated?
+This is a point to which I will return later in this
+paper, as I believe the MacKinnon-Dworkin anti-pornography ordinances offer
+effective solution to this challenge by allowing
+persons who claim to have had their equality rights undermined by
+pornography (lesbians and gay men included) to personally challenge
+they believe are responsible for this harm. It is my assertion that the best
+way to reconcile the interests of
+those who quite justifiably fear unwarranted
+state censorship with the interests of those who are frustrated with the
+ineffective
+use of state censorship is to take away the power to regulate and
+control pornographic harm from those least harmed by pornography
+state and those who exercise its power -- and allow those most harmed by
+pornography to take direct legal action
+against the agents of their harm
+without relying on the state to act on their behalf. The MacKinnon Dworkin
+Anti-Pornography
+Ordinance offers this alternative and, far from threatening
+the interests of lesbians and gay men, provides a creative solution
+problems of gender inequality and discriminatory, thus ineffective censorship
+guidelines and practices.
+For the time being, however, it is worth noting
+recent statements by elected officials throughout Australia on the issue of
+sexuality and equality. When viewed within the context of the government's new
+censorship legislation, these comments highlight
+the very real likelihood that
+legislation which is completely devoid of any equality analysis will prove
+ineffective in dealing
+with sexual representations which
+harmful, while being used to restrict some
+representations which clearly are not.
+In 1995, the work of Robert Mapplethorpe was
+exhibited in Perth, Western Australia. Prior to the retrospectives arrival in
+Perth, a "Life Ministries" church representative, Dwight Randall, stated that
+"the depraved works of a dead homosexual were
+sick and should be banned" and
+argued that the Attorney General should act swiftly to ensure that the exhibit
+was banned.
+Although the exhibit was not banned, it
+was denied funding by the government's arts sponsoring ministry, Healthway.
+Minister Graham Kierath, the Minister ultimately responsible for
+pulling funding from the exhibit, explained his decision by
+telling Parliament
+that, although much of Mapplethorpe's work is brilliant, some of the
+photographs were "nauseating, perverse,
+sleazy and depraved...(showing) some
+of the most horrific records of anal sex." He later added that "if it were not
+sort of activity that is displayed in some of Mapplethorpe's works, he
+and many other talented people might be alive today."
+There are many valid reasons to oppose the work of
+Robert Mapplethorpe. One might start with the fact that much of his work
+sexualizes and celebrates some of society's most oppressive racial stereotypes
+and the inequalities built on racial difference.
+Indeed, one might ultimately ask
+whether the images encourage racial hatred and promote racial inequality.
+These questions
+were not asked, however. Instead, those who are concerned with
+sexualized racism and inequality again found themselves confronted
+government minister concerned only with what, in his eyes, was the perverse
+expression of a perverse sexuality.
+Similar concerns have arisen elsewhere throughout
+Australia, particularly within the context of those efforts aimed at educating
+young gay men about the need for safe-sex practices. It is clear that safe sex
+education materials, to be effective, must
+demonstrate to young gay men and
+lesbians what, exactly, safe sex constitutes. As such, visual representations
+of such safe
+sexual activity will often form an integral role within the
+context of educational policies aimed at teaching necessary safe
+practices. Unfortunately, a reading of these new censorship laws in Australia
+reveals that this may not prove feasible.
+Recall that the legislation in place aims to regulate
+"offensive" materials which are likely to undermine "the standards of
+morality, decency and propriety generally accepted by reasonable adults."
+Although relatively recent, experience thus far in
+a number of Australian
+interest can, once applied,
+be used in a discriminatory and harmful manner.
+Because legislation of this sort focuses solely on the harms of immorality, it
+is quite feasible that those materials which are not harmful, but which are
+deemed "offensive", will be deemed illegal and
+ultimately censored.
+This is particularly problematic for
+educators who now find themselves having to teach the realities of safe same
+activity but who are confronted with a piece of legislation which
+appears to disallow access to those materials needed to do
+Lest it be thought that these concerns are
+far-fetched, one need only examine recent censorship campaigns targeted
+at HIV/AIDS prevention campaigns to see that the opposite is in fact
+quite true. In 1996, for example, Queensland Health Minister
+Mike Horan banned
+an AIDS education campaign aimed at young men. The campaign included "some
+explicit sexual images, in association
+with information about how to minimise
+the transmission of HIV during sexual practices including oral and anal sex"
+based on "research conducted among service providers which
+acknowledged changes to the ways in which gay men approach sex and
+such factors as 'safe sex fatigue' and 'negotiated safety'. Although the
+campaign had already been released in
+Victoria and was widely regarded as
+having an important role in the HIV/AIDS education, Horan argued that the
+campaign did
+little more than promote the homosexual lifestyle and was far too
+graphic for release to the public.
+He was supported in his conclusions by
+Mr Laurie Toppling, the director of a Brisbane-based AIDS counselling service
+heterosexuals, who argued that the campaign did little more than promote
+"immoral behaviour" - statements not assisted by Federal
+Minister for Health,
+Dr Woolridge's assertion that although Queensland risked "significant health
+and social costs if they
+failed to provide an appropriately targeted
+alternative", governments do "have the right to ban material they regard as
+pornographic."
+In 1998, Mr Horan again blocked
+publication of an advertisement designed to reduce HIV transmission among men
+with other men in rural areas. The ad, intended for a local
+newspaper in rural Queensland, was to read: "There are many guys
+who enjoy sex
+with other guys and have a girlfriend or a wife", and "You don't have to be
+gay or bi to want to have sex with
+guys." The ad then encourages "men who like
+to get together with other men" to contact the AIDS Council." Mr Horan banned
+the ad on the basis that it "offends public decency". He added, "We have
+always told the AIDS Council that their money is not
+to be used to for the
+promotion of a particular lifestyle."
+Similar views were expressed by Senator Herron during
+debate on the scope and impact of the government's Internet amendments to
+Broadcasting Act
+. The Senate debate is
+interesting in that it reveals the type of publications that individual
+senators believe should not
+be allowed as unrestricted publications. Senator
+Herron's comments, in particular, reveal a rather obsessive fixation with anal
+sex, which he refers to as a 'deviant practice.' Referring to a safe sex
+publication put out by the Ministry of Health in
+which depicts safe sex activity, the Senator is quoted in the 1
+March 1995 Hansard at 1212 as saying:
+Where do we go when we get an X-rated
+pornographic government publication that is put out by the Minister of Human
+and Health, and which advocates deviant sexual practices and is
+not, as she says in the preamble to it, a non judgemental resource.
+called safe sex guide is an official government publication, endorsed by the
+government . . . It is X-rated and
+pornographic, and any right minded person
+. . . would classify it unsuitable for publication, but it is on the
+of this country and can be bought by any 13 year old child.
+I have on record the names and addresses of people
+who want to speak out because they are so enraged at this attack on the
+morals, as well as the health aspects, of this publication. This is an
+official government publication. It is full of
+lies. The publication states
+that between 40 and 60 per cent of women in this country have anal sex. This
+is an official
+government publication. . . . I have been a colorectal
+surgeon . . . I have treated many AIDS patients. I have treated many
+homosexual patients. The damage that occurs through this deviant practice is
+unimaginable, and we have the government
+advocating it as normal
+Regardless of one's personal views on anal or oral
+intercourse, it should by now be evident to even the most prudish that
+systemic harm is unlikely to arise from consensual non-vaginal penetrative sex
+and, indeed, that for young gay men who are raised
+to believe that homosexual
+same-sex sexuality can
+in fact be quite life affirming. This is an issue that
+has as much as been laid to rest in other jurisdictions, for as explained
+the recent Canadian case of
+Little Sisters Book and
+Art Emporium v. AG Canada
+There is no jurisprudence supporting the
+proposition that all depictions or descriptions of anal intercourse are
+in and of themselves on the basis that anal penetration is
+inherently degrading or dehumanizing.
+The prohibition of representations of
+that practice (anal sex) discriminated against male homosexuals. It deprived
+of representations central to the values and culture of the minority
+group to which they belong. It (also) constituted an embargo
+on safe-sex
+guidelines within Canadian homosexual communities at a time, in the context
+of the AIDS epidemic, when such
+guidelines have been particularly
+The rationale articulated in the
+Little Sisters
+case arose within the context of the
+equality analysis outlined in
+. Important
+for our purposes is the Court's reasoning that presentations of those sexual
+practices equated with homosexual
+sex are not, per se, harmful. This is not to
+say that same sex pornography cannot be seen to violate the equality standard
+against which pornography should be tested,
+but that gay sex, per se, is not
+harmful unless presented in such a way as to make degradation, dehumanisation
+and the harms
+of inequality that result from stereotypical gender differences
+appear normal.
+What is clear from the above is that anti-pornography
+legislation which fails to see pornography as an issue of systemic gender
+equality is ripe for abuse, inconsistent application and overall
+ineffectiveness. Given the attitude of the government in
+charge of enforcing
+the legislation, reflected in the comments of a number of elected officials,
+there is little reason to
+believe that Australia's most recent efforts will
+prove any different in this regard. This is particularly troubling given that
+this officials will now be responsible for appointing those persons required
+to adjudicate the varied effects of an entire
+host of Internet images and
+representations - a decision making process which is made more difficult and
+ineffective as a
+result of the standards set under this legislative scheme and
+by the fact that there are few if any guidelines in place for determining
+exactly, is an appropriate person for making this determination. Section 48 of
+Classification Act
+states only that the
+Minister shall appoint persons who are "broadly representative of the
+Australian community." It offers
+little guidance as to how and on what basis
+these people should be appointed and the Classification Guidelines are
+disturbingly
+silent in this regard.
+For those harmed by pornography, the apparent lack of
+experience of, and guidance given to, Board members is further compounded
+the fact that the appeal mechanisms in place do not appear to grant any right
+of appeal to persons other than those responsible
+for producing or
+distributing the material which is the subject of the classification. Section
+states only that "persons
+aggrieved" by any classification decision can apply to a Review Board for a
+review of a decision.
+does not explain
+what is meant by the term "aggrieved person." Similar legislation at the state
+level does clarify the expression,
+however, such that "person aggrieved" means
+an author or publisher of the publication to which the appeal relates.
+Given the extent to which the federal
+government wishes to work closely with the states in this regard, there is
+little reason
+to believe this definition will not apply the federal level. If
+this is to be the case, the
+little in the way of ensuring a voice to those most in need of one.
+Specifically, no reference is made in this
+section (or indeed in any other
+section of the
+) to those "aggrieved" during
+the production of the pornography now available online -- predominantly women
+who, as MacKinnon
+and Dworkin explain, are pornography's first victims:
+Pornography indelibly makes those it uses
+into its presentation of them, so that no matter who they are or what they
+they are pornography for life. Pornographers promote
+an image of free
+consent because it is good for business. But most women in pornography are
+poor, were sexually abused
+as children, and have reached the end of this
+society's options for them, options that were biased against them as women
+in the first place. The fact that some women may "choose" pornography from a
+stacked deck of life pursuits (if you call
+a loaded choice a choice, like
+the "choice" of those with brown skin to pick cabbages or the "choice" of
+those with black
+skin to clean toilets) and the fact that some women in
+pornography say they made a free choice do not mean that women who are
+coerced into pornography are
+not coerced
+Broadcasting Act
+does nothing to ensure that those used during the production of
+pornography are offered an opportunity to ensure that those who
+profit or who
+find sexual arousal in their abuse are not entitled to do so. Nor does it
+offer any recourse to those who suffer
+considerable physical and psychological
+harm as a result of the distribution of this pornography. Rather than empower
+pornography's
+victims, it does little more than provide yet another
+opportunity for those who produce and profit from victimization to justify
+sexism and legitimise inequality.
+Although designed to radically re-write Australia's
+censorship laws in the area of Internet regulation, a careful reading of the
+legislation reveals that the
+Broadcasting Services
+Amendment (Online Services) Act
+stands as a rather unfortunate example of
+how not to address the individual and systemic harms that result from the
+and distribution of pornography. Focusing solely on the need to
+protect against moral corruption, as opposed to seeing pornography
+for what it
+really is (a form of sex discrimination resulting in systemic inequality), the
+legislation fails to ensure that
+those most in need of protection from
+pornographic harm are not so protected.
+By focussing on pornography as an issue of
+immorality, rather than as an issue of inequality and the harms that result
+inequality, the Australian government fails to ensure that those most in
+need of legal recourse will find it. It also risks imposing
+unjustified limits
+on legitimate forms of sexual expression -- expression which, far from
+harmful, may in fact prove quite
+central to the goal of achieving systemic
+equality. What is needed is legislation which
+radical in so far as it really does offer those who have been harmed by
+pornography the opportunity to do something about it.
+By redefining
+pornography as a threat to social equality and by adopting enforcement
+measures which
+that this threat is
+curtailed, our legislators would do much to ensure that the harms of
+pornography are taken seriously,
+while guaranteeing that the "right to speak"
+is a right shared by all citizens. This legislation, in its present form, does
+Pornography as a Human Rights Violation
+Through its
+production, pornography is a traffic in female sexual slavery. Through its
+consumption, pornography further
+institutionalizes a subhuman, victimized,
+second-class status for women by conditioning orgasm to sex inequality. When
+men use pornography, they experience in their bodies that one-sided sex -
+sex between a person and a thing - is sex, that
+sexual use is sex, sexual
+abuse is sex, sexual domination is sex. This is the sexuality they then
+demand, practice, and
+purchase. Pornography makes sexism sexy. It is a major
+way that gender hierarchy is enjoyed and practiced.
+The question that needs to be asked then is: where to
+from here? It has been my purpose in writing this paper to convince those
+claim to take the issue of pornography seriously to re-think the law of
+obscenity. I have argued that the recent decision
+of the Canadian Supreme
+offers strong support for the claims of those committed to the elimination of
+sex discrimination that pornography must be
+seen as a source of the types of
+gendered inequalities that result in sex discrimination. An analysis of
+Australia's new
+Internet censorship legislation demonstrates just what can go
+wrong when a radical re-thinking is not undertaken. I am not convinced,
+however, that simply re-defining pornography as an issue of inequality is
+enough. It is an important and necessary start,
+but it is not enough.
+While the reasoning of the Supreme Court of Canada in
+applauded, it is important to note that the Court could only go so far in
+ensuring that its goal of equality was
+in fact achieved. Specifically, the
+distribution of pornography in Canada remains a criminal offence. As a result,
+the determination
+of whether or not attempts should be made to stop
+pornographic distribution remains in the hands of the police -- a fact which
+essentially ensures that those most harmed by pornography are again provided
+no say as to whether or not something should
+be regulated. Similarly, the
+decision in
+, although progressive and much
+needed, does nothing to provide compensation to those who have been victimised
+as a result
+of the production an distribution of pornography. While the
+decision might ensure, assuming the state does decide to act, this
+does little
+to compensate victims of past abuse.
+While the equality test adopted in
+improves on traditional obscenity law
+standards, and should be adopted in principle throughout Australia, the test
+will not succeed in halting the production of pornography and the harms
+that result from it so long as the power to do so remains
+in the hands of
+those for whom pornography is not an issue of inequality and personal harm.
+What is needed is an approach
+which empowers pornography's victims and which,
+as such, effectively and fairly addresses the systemic inequality caused by
+sexualized gender discrimination - an approach which allows those most harmed
+by pornography to fight back against those who
+harm them and which, as such,
+puts some teeth into the
+equality mandate.
+The human rights approach to pornographic harm
+drafted by American feminists Catharine MacKinnon and Andrea Dworkin offers
+such an approach. MacKinnon and Dworkin conceptualise pornography as a
+practice of sex discrimination, arguing that it actively
+promotes inequality
+between the sexes by eroticising dominance and male supremacy. It is unique
+both in procedure and substance
+in that the approach offered provides a
+definition of pornography which is specific and unambiguous and allows those
+harmed by it to do something about it, without relying on the
+determination of others as to whether or not to act on their behalf.
+importantly, it locates the regulation of pornography within the context of
+eliminating sexualized gender hierarchies
+and the inequalities that result
+from them. While it is not my intention to provide a complete analysis of the
+(as this has been done quite effectively elsewhere)
+it is worth noting that pornography
+under this approach is defined as follows:
+Pornography. Pornography is a form of discrimination
+on the basis of sex.
+Pornography is the sexually
+explicit subordination of women, graphically depicted, whether in
+pictures or
+in words, that also includes one or more of the following:
+women are presented dehumanized as sexual
+objects, things or commodities; or
+women are presented as sexual objects who
+enjoy pain or humiliation; or
+women are presented as sexual objects who
+experience sexual pleasure in being raped; or
+women are presented as sexual objects tied up
+or cut up or mutilated or bruised or physically hurt; or
+women are presented in postures of sexual
+submission; or
+women's body parts - including but not
+limited to vaginas, breasts, and buttocks - are exhibited, such that
+women are reduced to those parts; or
+women are presented as whores by nature; or
+women are presented being penetrated by
+objects or animals; or
+women are presented in scenarios of
+degradation, injury, abasement, torture, shown as filthy or inferior,
+bleeding, bruised, or hurt in a context that makes these conditions
+The use of men, children, or
+transsexuals in the place of women in (1)(i-ix) above is pornography
+purposes of this statute.
+The Ordinance allows those harmed by pornography to
+bring a civil or human rights-based action against those responsible for their
+harm. It can be passed as an amendment to an already existing civil or human
+rights law or it can be passed as a freestanding
+In Australia, this can best be achieved
+by amending state and federal Equal Opportunity legislation, with necessary
+being made to the compensation limits imposed by legislation of
+Under its provisions, it is deemed to
+be sex discrimination to coerce, intimidate or fraudulently coerce any person
+performing for pornography.
+The makers, sellers, exhibitors and/or
+distributors of any resulting pornography can then be sued for damages and for
+injunction to eliminate the product of the performance from public view.
+It is also deemed to be sex
+discrimination to produce, sell, exhibit, or distribute pornography, including
+through private
+clubs and to force pornography on a person in any place of
+employment, education, home or public place.
+Finally, victims of an assault,
+physical attack, or injury that is directly caused by specific pornography are
+entitled to
+file a complaint against the maker(s), seller(s), exhibitor(s) or
+distributor(s) of the pornography believed to have caused the
+Catharine MacKinnon and Andrea Dworkin argue that
+pornography contributes to the social construction of the masculine (read
+dominant) norm and feminine (read submissive) "other". This is an analysis
+with which I agree. Ultimately, it constructs and
+defines the way in which we
+see and interpret the roles of men and women. Rather than mere harmless
+fantasy, pornography
+is a sexual reality -- an agent for the construction of
+those denied male privilege as that of inferior, worthless, and best
+for sexual slavery. The end result is an identity-discourse that results in a
+male-as-dominant over female-as-subordinate
+politic - a politic that
+translates into "cultural-sadism" or an ideology which encourages sexual
+violence by presenting
+it as appropriate behaviour.
+By normalising male sexual violence,
+pornography creates the normative gender identity of men as powerful and women
+as powerless.
+Male dominance is thereby legitimised. The result is a system of
+inequality through which degradation and harm are sexualized,
+romanticised and
+ultimately normalized.
+Any attempt to regulate pornography that fails to see
+pornographic harm for what it is -- an issue of sex discrimination resulting
+in social inequality -- will ultimately prove futile. The Australian
+Parliament has enacted legislation which it claims can
+tackle the harms that
+result from the distribution of online pornography. Unfortunately, given that
+this legislation is aimed
+solely at controlling the public's access to
+materials deemed obscene, offensive, indecent and morally repugnant, it is
+that it will most definitely fail to address the harms that must be
+addressed. Void of any equality analysis, and relying solely
+on the personal
+views of those least harmed by pornography to determine harm, the government's
+may well prove to be as socially
+short-sighted and regressive as its critics claim while proving as ineffective
+as those who
+most need a protection fear it will be.
+The MacKinnon-Dworkin Ordinances have not been
+adopted in any Australian jurisdiction. Throughout Australia, pornography
+an issue of indecency and immorality. The Supreme Court of Canada's
+decision in R v.
+offers hope for those who
+believe and who know that pornography is much more than an issue of impure
+thoughts. The Ordinances
+take this approach to its logical conclusion.
+Naturally, there will those who argue that an approach of this sort is ill
+suited to Internet regulation. I have yet to be convinced that this is the
+case. The advent of electronic communications will,
+of course, change how
+pornography is distributed. It will not, however, change the nature of the
+harms that result from this
+distribution - other than to make them more
+pervasive. As MacKinnon concludes:
+Each new technology raises anew the
+question of legal approaches. Cyberspace makes vivid, if it was not already,
+the inefficacy
+of current obscenity law, which coexists with this exploding
+market in human abuse, as it has with every other means of sexual
+trafficking. Just as the harms pornography does are no different online than
+anywhere else, the legal approach taken
+to them need be no different. It
+need only be effective. Computer networks present a newly democratic, yet
+newly elite,
+mass form of pornography becoming less elite by the minute,
+just as pornography always has. In whatever form pornography exists,
+harms remain harms to the equality of women, so it is through addressing
+these harms that pornography can be confronted.
+Civil rights legislation
+designed to remedy pornography's harms at their point of impact is well
+suited to this task.
+Computer technology does pose newly complex issues
+of anonymity and privacy. Unidentified speech has always presented dangers
+of harassment and reputational destruction but never before on this scale.
+before has it been possible to
+find out what a person is reading while they are reading it. Technical
+problems of proving
+liability and measuring damages also exist, although now
+that the pornographers are figuring out how to get paid for pornography
+cyberspace, many of these problems will be solved, as the transactions will
+leave a trace. Once a legal approach through
+actual harms is taken,
+accountability for pornography on computer networks poses no new conceptual
+problems, only practical
+problems of delivery. The legal problem is, women
+hurt by pornography have no rights against it anywhere. If circulating
+pornography in this new, still legitimate, forum reframes the same old abuse
+to alter that impunity, this new technology
+will be the first to be
+revolutionary.
+By making freedom from pornographic harm a human
+right, a right that takes precedence over any perceived right to unlimited
+speech, the Ordinance puts into practice the conceptual shift towards equality
+outlined in
+. It also addresses the
+inadequacies and biases inherent in those procedures presently designed to
+prevent pornographic harm
+- procedures which are susceptible to abuse and
+inconsistent application and which do very little to address the real harms of
+pornography identified by those most harmed by it. The Australian Parliament
+has declared that it intends to take the issue
+of pornography seriously. It
+has yet to prove itself capable of doing so. By allowing those harmed by
+pornography to tackle
+it as an abuse of human rights, however, the government
+will do much to ensure that it does.
+BA(Hons), LLB (Queen. s), LLM (Michigan), Senior Lecturer
+in Law, Research Fellow, Asia Pacific Intellectual Property Law Institute,
+Murdoch University, Perth, Western Australia.
+The author wishes to thank Associate
+Professor Fiona Macmillan, Copyright Director at the Asia Pacific Intellectual
+Law Institute for her assistance throughout the writing of this
+you also to Mr Bruce Leishman, student in law, for his invaluable research
+assistance.
+Quoted in Philip Elmer-Dewitt, "On a
+Screen Near You: Cyberporn",
+Time Magazine
+July 1995 48 at 53.
+See generally, Philip Elmer-Dewitt, supra
+note 1 at 48; Marty Rimm, "Marketing Pornography on the Information
+Superhighway"
+Georgetown Law Journal
+; Jeffrey Gentleman, "Porn Again Stars Pump Billions Into Limp Film
+The West Australian
+, 14 September
+1999 at 44; Robert Kirwin and Nicole Mankeltow, "Sex Online",
+Australian Net Guide
+, March 1996 at 29.
+Elmer-Dewitt, supra. note 1 at 50.
+Second Reading Speech,
+Broadcasting
+Services Amendment (Online Services) Bill 1999
+, at wysiwyg://www.dcita.gov.au.
+See also, Senator Richard Alston, Explanatory Memorandum, available from
+Senate Table Office,
+Canberra and "Principles for a regulatory Framework for
+Online Services in the
+Broadcasting Services
+Amendment Act
+http://www.dca.gov.au/policy/framework.html.
+See generally, Niranjan
+Arasaratnam, "Internet Censorship: See No Evil, Speak No Evil, Hear No Evil"
+(1999) 18(2)
+Communications Law
+; Brendan Scott, "The Dawn of a New Dark Age:
+Censorship and Amendments to the
+Broadcasting Services Act
+wysiwyg://69/http://www.gtlaw.com.au/pubs/newdarkage.html; Mike Van
+Niererk, "Free Speech May Be Online Casualty of
+Anti-Porn Laws" ,
+, 22 August 1995 at 16; Alan Kohler, "Governing
+Desire: How Pornography on the Internet became Captive to Politics",
+The Financial
+, 8 May 1999 at 23; Elizabeth Feitzkhah, "Policing the
+Wild Net. ,
+Time Magazine
+June 1999 at 52; Action Alert, "Australia Needs Your Help" at
+http://www.efa.org.au/Campaigns/slert99.html;
+Koomen, "Illegal and Harmful Content on the Internet: Some Issues and
+Computers and Law
+; Kimberley Corner,
+"Censorship A Burning Issue",
+Sunday Times
+, 21 April 1996; David Watts, "Oh What a Tangled
+Net We Weave",
+West Australian
+, 8 May 1999 at 31; Kirsty Needham, "Net Bill
+and Investor Turn-Off",
+Sydney Morning Herald
+, 7 June 1999 at 36;
+Anon, "Censors Take Us Back to the 60's" ,
+1999 at 18; Anne Summers, "Opinion: Now Anything But Liberal", Sydney Morning
+Herald, 3 June 1999 at 17; Shaun Anhgony,
+"MPs Speak Out on Web Censorship" ,
+West Australian
+June 1999 at 12; Dan Tebbutt, "Censor and Be Damned",
+1999 at 53; Jenny Sinclair, "Dismay Over Net Freedom Curb" ,
+Age (Melbourne)
+June 1999 at 2; Sandy Plunkett, "Internet Censorship: The Joke's On Us" ,
+Sydney Morning
+, 31 May 1999 at 40; Anon, "Net Bill: A Modern Day Book
+Sydney Morning
+, 31 May 1999 at 18; Anon, "Protest Against Government.
+s Draconian Censorship",
+Illawarra Mercury
+, 28 May 1999 at 15
+Catharine A MacKinnon
+Feminism Unmodified
+(Boston: Harvard University
+Press, 1987) at 148. See also, Andrea Dworkin and Catharine MacKinnon,
+"Memorandum to the Minneapolis
+City Council", 28 December, 1983, as cited in
+Hilary Charlesworth "Pornography as Sex Discrimination"
+(1983) 63(8)
+Law Institute Journal
+See generally, Nadine Strossen,
+Defending Pornography
+Speech, Sex, and the Right for Women's Rights
+(New York: Scribner, 1995)
+and Nan Hunter, "Brief Amici Curiae of Feminist Anti-Censorship Task Force",
+Michigan Journal of Law Reform 69
+This is an argument most frequently
+articulated by lesbian and gay male activists and tends, at times, to blur
+with the above
+argument that pornography should be seen as protected speech.
+For an analysis of this argument and how best to reconcile it with
+anti-pornography efforts, see my discussion at notes 71 to 73.
+By which I mean only that I will not
+attempt to respond to the claims of those who reject the claim that
+pornography is a
+source of considerable individual and systemic harm. I will
+outline why I believe pornography is an issue of inequality, rather
+issue of immorality, but do so only for the purpose of convincing the
+Commonwealth Parliament that the morality-based
+approach it has chosen is
+inappropriate and ineffective. For an excellent analysis and critique of many
+of the claims made
+by pro-pornographers and those who refute the approach we
+offer, see: J Hoff, "Why Is There No History of Pornography" pp17-46
+Gubar and J Hoff (eds)
+The Dilemma of Violent
+Pornography: For Adult users Only
+(Indiana: Indiana University Press,
+1989); H.E. Longino "Pornography, Oppression, and Freedom: A Closer Look" at
+L. Lederer (ed),
+Take Back the Night: Women
+on Pornography
+(New York: William Morrow & Co., 1980); A. Dworkin
+"Pornography Happens To Women" at 181-190 in L. Lederer and R. Delgado
+The Price We Pay:
+The case Against Racist Speech,
+Hate Propaganda, And Pornography
+(New York: Hill and Wang, 1995); J.
+Stoltenberg "Pornography and Freedom at 65-77 in D. Russell (ed),
+Making Violence Sexy: Feminist Views On Pornography
+(New York: Teachers College Press, 1993).
+See at notes 41 and 42.
+This is a task which has been
+undertaken elsewhere. See, for example, Graham Greenleaf, "Law in Cyberspace"
+Australian Law Journal
+Toohey, "The Net Given a New Nanny",
+, December 5, 1995 at 39; Victoria Laurie, "Moral Guardians on
+", The Bulletin
+, December 19, 1995 at
+82; Brendan Scott, "A Layman's Guide to Internet Censorship in Australia" at
+http://www.gllaw.com.au/pubs/sobershock.html
+See generally, Arasaratnam, supra. note
+5 at 1; CSIRO,
+Technical Aspects of Blocking Internet
+, (1999); Philip McCrea, Bob Smart and Mark Andrews, "Blocking
+Content on the Internet: A Technical Perspective" (1998); Gordan
+"Regulation of the Internet",
+Law Institute
+; Shaun Anthony, "Crackdown on Net Porn Will Fail, Senators
+The West Australian
+, 4 May 1999 at 27; David
+Watts, "Move to Curb Internet Fails to Understand the Medium. ,
+The West Australian
+, 1 June 1999 at 12; David Iliffe,
+"Net Porn Bill is Useless,"
+The Illawarra Mercury
+31 May 1999 at 17; Garry Barker, "Net Porn Law Too Weak: Experts",
+, 28 May 1999 at 8.
+With respect to the claim that some
+representations of sexuality can be empowering and liberatory (hence,
+non-harmful) see
+my analysis of the need for positive images of same-sex
+sexual images at notes 78 to 84 and the work of the authors noted therein.
+Note also my analysis of the recent Canadian case of
+Little Sisters Art and Book Emporium
+(at note 84) and
+the potential for abuse and discriminatory application of obscenity-type
+legislation like that adopted by
+the Australian government.
+[1992] 1 SCR 452 (SCC)
+See Andrea Dworkin and Catharine A
+Pornography and Civil Rights: A New Day
+for Women's Equality
+, (Minneapolis: Organising Against Pornography,
+Majesty's Feast: Gender, Power, Speech and Equality
+(Unpublished LLM
+Thesis, York University, 1989) at 10. A detailed account of the history of the
+Minneapolis ordinances is
+provided in Paul Best and Ann Vandenberg, "Politics,
+Feminism and the
+Constitution
+: The Anti-Pornography Movement in Minneapolis"
+Stanford Law Review
+771 F. 2d 323
+(7th Cir 1985).
+For a critique of the Court's
+conclusion that pornography is protected speech, see John Stoltenberg,
+"Confronting Pornography
+as a Civil-Rights Issue" in
+Refusing To Be A Man
+(New York: Meridian, 1990) and
+Cass Sunstein, "Pornography and the First Amendment"
+See also Catharine A MacKinnon,
+(Boston: Harvard University Press, 1994).
+An analysis of these efforts and
+resulting legislation is offered by Anne Scahill, "Can Hate Speech Be Free
+Australasian Gay and Lesbian Law
+and Ryan Takach, "Gay and Lesbian Inequality: The
+Anti-Vilification Measures",
+Australasian
+Gay and Lesbian Law Journal
+; Anthony Henderson, "An Analysis of NSW
+Attorney General's Anti-Anti-Discrimination (Amendment) Bill 1993", (1993) 3
+Australasian Gay and Lesbian Law Journal
+Castan, "Targets of Race Hate Entitled to Redress",
+The Australian
+, 15 November 1994, 17.
+Cited in Catherine Itzin and Corinne
+Sweet, "Women's Experience of Pornography: UK Magazine Survey Evidence", in C.
+Pornography: Women, Violence and Civil
+(Oxford: Oxford University Press, 1992) at 230-232.
+RSC 1985, c. C-46.
+charged with 173 counts of illegal possession: three counts of selling obscene
+material contrary to s 163(2)(a) of the
+Code, 41 counts of possessing obscene
+material for the purpose of distribution contrary to s 163(1)(a) of the Code,
+of possessing obscene material for the purpose of sale contrary to
+s 163(2)(a) of the Code and one count of exposing obscene
+material to public
+view contrary to s 163(2)(a) of the Code. At trial,
+was convicted on eight counts relating to
+eight films. He was acquitted on all other counts ((1989),
+50 C.C.C. (3d) 97).
+The Manitoba Court of Appeal allowed the appeal and entered convictions with
+respect to all counts ((1990),
+60 CCC (3d) 219).
+Section 2(b) of the
+Canadian Charter of Rights and Freedoms (the Charter)
+reads: "Everyone has the following fundamental freedoms: (b) freedom of
+thought, belief, opinion and expression, including freedom
+of the press and
+other media communication".
+Although the protections enunciated in
+are expressed widely, the actual
+scope of these protections is determined by the Charter's first clause which
+requires the
+Courts to recognise limits on the rights provided in it. Section
+1 states: The Canadian Charter of Rights and Freedoms guarantees
+and freedoms set out in it subject only to such reasonable limits prescribed
+by law as can be demonstrably justified
+in a free and democratic society. For
+the most part, section 1 has been applied in a constrained and reasoned
+manner. This
+result has been produced by the Supreme Court of Canada's
+decision in
+[1986] 2 SCR 103
+case in which the Court devised the judicial test according to which section 1
+should be applied in order to determine
+if proven Charter violations are
+demonstrably justified. (For an analysis of the Court's reasoning see L.
+Weinrib, "The Supreme
+Court of Canada and Section One of the Charter", (1988)
+Supreme Court L.R.
+469). In Oakes, Dickson
+C.J.C. set out the structure of a s. 1 analysis as follows: first, the
+objective of the legislation
+held to violate a Charter provision must be of
+sufficient importance to do so and must relate to concerns which are pressing
+and substantial in a free and democratic society. Once the legislation passes
+these requirements, it is then scrutinised
+to determine (1) whether the
+measures adopted and which infringe the right in question are rationally
+connected to the objective
+in question; (2) whether the measures employed
+impair as little as possible the right or freedom; and, (3) whether the
+deleterious
+effects of the measures held to violate an alleged right are
+proportional to its objective or purpose. (As outlined in V. Ramraj,
+Positive Liberty: A Glimmer of Hope for the Faithful",
+University of Toronto Faculty of Law Review
+See generally, Sheila Noonan, "Harm
+Constitutional Forum
+; Debra McAllister, "
+: A Triumph for Equality Rights"
+(1992-92) 2
+National Journal of Constitutional Law
+Richard Cameron, "
+: A New Approach to
+Obscenity Law or Return to Morality Play?",
+Criminal Law Quarterly
+; Ian Hunter, "
+: Feminism Trumps Morality"
+Criminal Law Quarterly
+; Richard Moon, "The
+Limits of the Supreme Court's Feminist Re-Interpretation of Section 163",
+Canada, House of Commons Standing
+Committee on Justice and Legal Affairs,
+Pornography
+, Issue No. 18 (March 22, 1978).
+An excellent compilation of these
+findings is found in Catherine Itzin,
+Pornography:
+Women, Violence and Civil Liberties
+(London: Oxford University Press,
+1992). See also
+Factum of the Intervener Women's
+Legal Education and Action Fund in R v Butler
+, File No. 22191 (hereafter,
+the LEAF Factum). Copies of the LEAF Factum are available from the LEAF
+National Office, 415
+Young Street, Suite 1800, Toronto, Ontario, Canada M5B
+2B7. All relevant studies, together with analysis of victim testimony,
+also listed in the
+Attorney General's Commission on
+Pornography, Final Report
+(Washington: July 1986).
+See for example, E. Donnerstein,
+"Pornography: Its Effect on Violence Against Women, in Malamuth and
+Donnerstein (eds),
+Pornography and Sexual Aggression
+(New York: Academic Press, 1984); D Zillman, Connections
+Between Sex and Aggression
+(Hillsdale, New Jersey:
+Lawrence Erlbaum, 1984); J. Check,
+The Effects of
+Violent and Nonviolent Pornography
+(Ottawa: Canadian Department of
+Justice, 1985); Donnerstein and Berkowitz (1983), J. Check and T.H. Guloin,
+"Reported Proclivity
+for Coercive Sex Following Repeated Exposure to Sexually
+Violent Pornography, Nonviolent Pornography and Erotica" in Zillmann
+Bryant (eds)
+Pornography: Research Advances and
+Policy Considerations
+(Hillside, NJ: Erlbaum, 1989); Diana Russel
+"Pornography and Rape: A Causal Model" (1988) 9(1) Political Psychology 41.
+See D. Zillmann and J.B. Weaver;
+"Pornography and Men's Sexual Callousness Towards Women" in Zillmann and
+Bryant (1989);
+Diana Russel,
+Sexual Exploitation:
+Rape, Child Sexual Abuse, and Workplace Harassment
+(Beverley Hills,
+Calif: Sage, 1984).
+See Catharine MacKinnon and Andrea
+, In Harm's Way: The Pornography Civil Rights
+(Boston: Harvard University Press).
+See, Susan Cole,
+Pornography and the Sex Crisis
+(Toronto: Amanita
+Press, 1989.
+See, Catherine Itzin and Corinne Sweet,
+"Women's Experience of Pornography: UK Magazine Survey Evidence" in Itzin,
+note 28 at 222.
+See generally, "Proof, Who Needs
+Proof", XS:
+A Supplement to Xtra! Magazine
+November 1992 at 3 and Nadine Strossen,
+Pornography
+, supra. note 7. I find these arguments somewhat misleading
+and query why, legally and socially, pornography is always signalled
+special case in need of a standard of proof that would seem ridiculous in many
+other circumstance. As Diana Russel
+notes ("Nadine Strossen: the Pornography
+Industry's Wet Dream",
+On the Issues
+1995 at 32) within the context of Nadine Strossen's request for more evidence:
+Many people share Strossen's opinion that men who
+consume porn but who have never raped a woman disprove the theory that porn
+can cause rape. This is comparable to arguing that because some cigarette
+smokers don't die of lung cancer, there cannot
+be a causal relationship
+between smoking and lung cancer. Only members of the tobacco industry and
+some seriously addicted
+smokers consider this a valid augment today.
+Although the scientific evidence that porn can cause rape is at least as
+strong as the evidence that smoking can cause lung cancer, many people are
+so ideologically committed to the view that porn
+is harmless that they find
+a multitude of excuses to disregard it. Strossen and the ACLU's strategy
+seems to be to ignore
+information, arguments and theories that they find too
+difficult to tackle, no matter how much dishonesty and misrepresentation
+[1990] INSC 224
+[1990] 3 SCR 697.
+The case of
+the interpretation and application of sections 318 and 319 of the
+Canadian Criminal Code
+. These provisions make it an
+indictable offence to communicate statements which wilfully promote hatred
+against any identifiable
+Canadian Supreme Court held that although the provisions do infringe on the
+right to free expression, the infringement
+is nonetheless justified because of
+the threat to equality posed to target groups and to society at large from
+speech aimed
+at undermining equality. Specifically, the Court held (at 777)
+Hate propaganda seriously threatens both the
+enthusiasm with which the value of equality is accepted and acted upon by
+society and the connection of target group members to their
+community....Hatred...is a most extreme emotion that belies reason;
+emotion that if exercised against members of an identifiable group implies
+that those individuals are to be despised,
+scorned, denied respect and made
+subject to ill-treatment on the basis of group affiliation.
+Ibid. at 746.
+McLachlin J. (dissenting at 857) best
+summarises this conclusion when noting in
+To view hate propaganda as "victimless" in
+the absence of any proof that it moved listeners to hatred is to discount
+wrenching impact it may have on members of the target group
+themselves....Moreover, it is simply not possible to assess with
+precision the effects that expression of a particular message will have on
+all those who are ultimately exposed to
+Dickson CJC agrees and notes (at 846) that this lack
+of precision does not discount the concerns of those who claim to be harmed
+it, particularly if these concerns are expressed within the context of
+undeniable systemic inequality and daily discrimination
+against minority
+The message of the expressive activity
+covered by s. 319(2) is that members of identifiable groups are not to be
+equal standing in society, and are not human beings equally deserving
+of concern, respect and consideration. The harms caused
+by this message run
+directly counter to the values central to a free and democratic society, and
+in restricting the promotion
+of hatred Parliament is therefore seeking to
+bolster the notion of mutual respect necessary in a nation which venerates
+the equality of all persons.
+As noted in Mark Hussey, "Book Review:
+Defending Pornography -- Free Speech, Sex and the Fight for Women's Rights"
+On the Issues
+, Summer 1995 at 48.
+Ibid at 496.
+Note for example the experiences of
+Linda Marchiano (Lovelace), who was physically and psychologically abused
+production of the movie "Deepthroat". Marchiano has described in
+graphic detail how, during the production of this film, she
+was pimped,
+beaten, and forced at gun point to partake in sexual activities with animals
+and men who, prior to and during
+filming, subjected her to considerable
+physical abuse. See Linda Marchiano,
+Jersey: Citadel Press, 1980). Marchiano's experiences are neither unusual nor
+unique. As Susan Cole notes, "to the women
+who are in the pictures, it is real
+sex; it happened to them. To the women who are forced by consumers to look at
+the pornography,
+or forced to imitate the sex in the pictures, it becomes sex
+in their real lives." (S. Cole, "Book Review:
+Against Censorship
+(1985) 1 CJWL 226
+at 228.). Many women also testified
+to experiences similar to those of Marchiano at the public hearings held by
+the Minneapolis
+City Council when it first considered adopting the
+Dworkin-MacKinnon Civil Rights Ordinances (See Pornography and Sexual
+Violence: Evidence of the Links -- the
+Public Hearings
+on Ordinances to Add Pornography as Discrimination Against Women by the
+Committee on Government Operations
+, City Council, Minneapolis (London:
+Everywoman, 1988)). On the potential for harm during the production of gay
+male pornography
+see C Kendall, "Real Dominant, Real Fun: Gay Male Pornography
+and the Pursuit of Masculinity"
+Saskatchewan
+As MacKinnon and Dworkin (
+Pornography and Civil Rights
+, supra. note 15 at 47
+and 48) note with respect to some of the testimony documented at the
+Minneapolis hearings:
+Researchers and clinicians documented what
+women know from life; pornography increases attitudes and behaviours of
+and other discrimination by men against women. Women testified
+that pornography was used to break their self-esteem, to train
+sexual submission, to season them to forced sex, to intimidate them out of
+job opportunities, to blackmail them
+into prostitution and keep them there,
+to terrorize and humiliate them into sexual compliance, and to silence their
+They told how it takes coercion to make pornography, how
+pornography is forced on women and children in ways that give them
+pornography stimulates and condones rape,
+battery, sexual harassment, sexual
+abuse of children, and forced prostitution. We learned from the testimony
+more pornography men see, the more abusive and violent they want it
+to be; the more abusive and violent it becomes, the more
+they enjoy it, the
+more abusive and violent they become, and the less harm they see in it. In
+other words, pornography's
+consumers become unable to see its harm because
+they are enjoying it sexually. Men often think that they use pornography but
+do not do these things. But the evidence makes it clear that pornography
+makes it impossible for them to tell when sex
+is forced, that women are
+human, and that rape is rape. Evidence of a direct correlation between the
+rate of reported
+rape and consumption figures of major men's-entertainment
+magazines supports this. Pornography makes men hostile and aggressive
+women, and it makes women silent. Anyone who does not believe this should
+speak out against pornography in public
+Canadian obscenity law originally
+developed within the context of preventing moral corruption through exposure
+to sexually
+explicit materials. An overlapping but broader purpose was to
+prevent offence to public sensibilities. Underlying assumptions
+these views were and are that women's naked bodies are indecent, sexual
+displays are immodest, unchaste and impure,
+homosexuality is repulsive and sex
+outside of traditional marriage or in other than traditional configurations is
+(As outlined in the
+LEAF Factum
+note 20 at 3). In 1959, a significant step was taken to move beyond morality.
+At that time, the law was amended to
+define obscenity as "crime, horror,
+cruelty and violence" combined with sex, as well as the undue exploitation of
+sex. Unfortunately,
+the way in which this law was interpreted was such that
+"undue exploitation of sex" depended upon sexual explicitness alone -
+actual harms resulting from sexual explicitness. See eg,
+R v Odean Theatres Ltd et al
+(1974), 16 CCC (2d) (Man
+CA) at 197;
+(1977), 35 CCC (2d) 168
+(1981), 65 CCC (2) 353
+(Ont HC) at 355. As LEAF explains, some Courts assiduously and deliberately
+avoided identifying harm
+of any kind. Notwithstanding the accumulating
+evidence of harm, the Courts still took the approach of criminalising "dirt
+for dirt's sake": See eg,
+R v Coles Co Ltd
+[1965] 2 CCC 304 (Ont
+CA) at 322-23;
+R v Prairie
+Schooner News Ltd
+(1970), 1 CCC (2d) 252 (Man
+CA). (LEAF Factum at 3 and
+Ibid. at 495.
+(1984), 14 CCC (3d) 230 (Man
+Accepting that the harm imposed by
+speech which undermines equality is fundamentally a threat to society's
+interests in the
+equality of all persons, the Court explains (at page 485)
+that s. 163 can now justifiably be applied with the following test
+Specifically, materials can be seized when they violate those equality values
+outlined by the Court as fundamental.
+These values will be violated when the
+materials constitute the undue exploitation of sex. In determining whether the
+exploitation
+is "undue", the Court explains that pornography can be usefully
+divided into three categories: 1) explicit sex with violence;
+2) explicit sex
+without violence but which subjects people to treatment that is degrading or
+dehumanising; and 3) explicit
+sex without violence that is neither degrading
+nor dehumanising. The Court then explains that in making the determination of
+what amounts to the undue exploitation of sex with respect to these three
+categories, the portrayal of sex coupled with violence
+will almost always
+constitute the undue exploitation of sex. Explicit sex which is degrading or
+dehumanising will be undue
+if the risk of harm (to inequality) is substantial.
+Finally, explicit sex that is not violent and neither degrading nor
+dehumanising
+will not qualify as the undue exploitation of sex unless children
+are used to produce it.
+An argument brilliantly articulated by
+Mari Matsuda in "Public Response to Racist Speech: Considering the Victim's
+Michigan Law Review
+J.C Love, "Tort Actions for Hate Speech and the First Amendment:
+Reconceptualizing the Competing Interests"
+Law and Sexuality
+An overview of the law of obscenity
+regulation in Australia can be found in Stella Rozanski, "Obscenity: Common
+Law and the
+Abuse of Women"
+[1991] AdelLawRw 9
+See also Alison Carroll; "A History of Moral Censorship and the
+Visual Arts in Australia" in
+The Australian Centre
+for Contemporary Arts, Moral Censorship and the Visual Arts
+(Melbourne,
+L.R. 3 QB 360 (1868). The reasoning in
+has been expressly adopted in Australian
+cases on the regulation of obscenity. See, for example,
+Ex p Collins
+[1888] NSWLawRp 59
+(1889) 9 LR (NSW) 497
+Crow v Graham
+[1968] HCA 6
+(1968) 121 CLR 375.
+, the Court held (at 395) that in determining
+whether material is obscene, the Courts should assess whether the material "by
+reason of the extent to which and the manner in which it deals with sexual
+matters, transgress[es] the generally accepted
+boundaries of decency" (as
+outlined in Regina Graycar and Jenny Morgan,
+Hidden Gender of Law
+(Annandale: The Federation Press, 1992) at 373).
+Senate Select Committee on Information
+Technologies,
+Broadcasting Services Amendment (Online
+Services) Bill 1999
+(Canberra: Commonwealth of Australia, 1999).
+Ibid. at para. 1.1
+Ibid. at para. 2.2.
+Ibid. at para. 2.4.
+Ibid. at para. 2.6.
+Ibid. at para. 2.7.
+Ibid. at para. 2.9.
+Irene Graham, "Blinded by Smoke: The
+Hidden Agenda of the Online Services Bill 1999", at
+http://rene.efa.org.au/liberty/blinded.html.
+Broadcasting Services Amendment (Online
+Services) Act
+states that Internet content is to be classified "in a
+corresponding way" to films. As Graham notes, there is little reason to
+believe that the expression "corresponding way" will not be interpreted to
+mean "same as".
+Senate Report at para. 2.10.
+Ibid. at para. 2.13.
+Ibid. at para. 2.14.
+Ibid. at para. 2.15
+Ibid. at para. 2.20.
+Ibid. at para. 2.37.
+Susan Cole (
+Power Surge: Sex, Violence and Pornography
+Second Story Press, 1995) at 101. It is worth noting that, while the
+Guidelines do call for the regulation of materials
+which are "demeaning", this
+requirement does not appear in the actual Code or in any of the classification
+terminology used
+throughout the rest of the legislation. It is difficult to
+see how the use of the word can have any real significance, at least
+as systemic gender equality is concerned, given the rest of the Act's
+preoccupation with moral upkeep.
+An analysis in this regard is offered
+by Caroline Forell, "Reasonable Woman Standard of Care"
+[1992] UTasLawRw 1
+University of Tasmania Law Review
+who argues:
+Take a look at the examples of the
+reasonable man/person standard. In the United States the example given is
+the man who
+mows the lawn in his shirtsleeves and who takes the magazines at
+And I've heard
+tell the Aussie translation of this is 'the man who rides the Bondi tram.'
+These symbols of the reasonable
+person explicitly set up middle class male
+values as the source of the objective neutral standard. They define
+reasonableness
+as what a member of that particular class and gender might
+Andrea Dworkin, "Pornography is a Civil
+Rights Issue for Women", (1988) 21
+Michigan Journal
+of Law Reform
+46 at 51 and 54.
+As argued by Catharine A MacKinnon in
+(Cambridge: Harvard University Press,
+1993) at 87-89. MacKinnon's conclusion is supported by the reasoning
+articulated in
+the 1986 U.S. case of
+584 F. Sup 419, 433 (District Court, Michigan) in which the Court
+For better or worse, modern America
+features open displays of written and pictorial erotica. Shopping centers,
+candy stores
+and prime time television regularly display pictures of naked
+bodies and erotic real or simulated sex acts. Living in this
+milieu, the
+average American should not be legally offended by sexually explicit
+Catharine MacKinnon,
+Toward A Feminist Theory of the State
+(Cambridge:
+Harvard University Press, 1989) at 199.
+Jerald Moldenhaur, as quoted in
+Censorship Bulletin (
+Toronto: Glad Day Bookshop and the Glad Day
+Censorship Fund, 1986) at 13.
+See, in particular, Carl Stychin
+"Exploring the Limits: Feminism and the Legal Regulation of Gay Male
+Pornography",
+Vermont Law Review
+John Burger,
+One Handed Histories: The Eroto-Politics
+of Gay Male Video Pornography
+(New York: Harrington park Press, 1995).
+Christopher Kendall, "Gay Male
+Pornography: An Issue of Sex Discrimination" (1995) 5
+Australian Feminist Law Review
+81 at 83. See also
+John Stoltenberg, "Gays and the Pornography Movement: Having the Hots for Sex
+Discrimination" in Kimmel
+Men Confront
+Pornography
+(New York: Crown Publishers) 248; John Stoltenberg,
+Refusing to Be a Man
+(Meridian Books: New York,
+1990); Irene Reti,
+Unleashing Feminism: Critiquing
+Lesbian Sadomasochism in the Gay Nineties
+(Santa Cruz, CA: HerBooks,
+1993) and Sheila Jeffreys, "Eroticizing Women's Subordination" in D Leidholt
+and J Raymond,
+The Sexual Liberals and the Attack on
+(New York: Teachers College Press, 1990)).
+On the links between homophobia and sex
+discrimination see Marc Fajer, "Can Two Real Men Eat Quiche Together?:
+Storytelling,
+Gender Role Stereotypes and Legal protection for Lesbians and
+gay Men", (1992) 46
+511; A Koppelman,
+"The Miscegenation Analogy: Sodomy Law as Sex Discrimination",
+; C Kendall, "Homophobia as an Issue of
+Sex Discrimination: Lesbian and Gay Equality and the Systemic Effects of
+Forced Invisibility",
+E Law - Murdoch
+University Electronic Journal of Law
+Victoria Laurie, "Moral Guardians on
+the March" in
+The Bulletin Arts
+, December 19,
+1995 at 83.
+See, for example, the work of Patricia
+Mapplethorpe
+(New York: Random House,
+1995) who notes Mapplethorpe's obsession with the sexual use of African
+American men and his preference
+for presenting stereotypical images of black
+male sexuality in his work. On the use and effect of racism in pornography
+Aminatta Forna, "Pornography and Racism: Sexualizing Oppression and
+Inciting Hatred" in Catherine Itzin (ed),
+Pornography: Women Violence and Civil Liberties
+(Oxford: Oxford University Press, 1992); Frank Browning,
+The Culture of Desire: Paradox and Perversity in Gay
+Lives Today
+(New York: Crown Publishers, 1993) at 193-203 and Kobena
+Mercer "Race, Sexual Politics and Black Masculinity: A Dossier" in Rowena
+Chapman (ed),
+Male Order: Unwrapping Masculinity
+(London: Lawrence and Wisehart, 1988).
+See Alan Brotherton, "Protect Me From
+What I Want". (1999) 12(6)
+National AIDS Bulletin
+4. This has certainly been the case in those jurisdictions where lesbian
+and gay materials continue to be seized on the basis
+of moral harm, as opposed
+to any real understanding of the actual threat to equality caused by those
+materials which sexualise
+inequality. This point is analyzed in more detail in
+Christopher Kendall, "Gay Male Pornography After
+Little Sisters Book and Art Emporium
+: A Call for Gay
+Male Cooperation in the Struggle for Sex Equality"
+(1997) 12(1)
+Wisconsin Women's Law Journal
+Anon, "Queensland Government Bans Ad
+Campaign" (1996) 7(4)
+Legal Link 13.
+As reported in
+The Courier Mail
+, March 2 and 7 1998. Summarised in
+(1998) 9(2)
+HIV/AIDS Link 3-4.
+(1996) 131 DLR 4th 486 (SCC).
+Little Sisters
+, a case concerning the seizure of
+lesbian and gay male pornography by Canada Customs, the Court held that Canada
+procedures regrading the seizure of pornography are arbitrary and
+discriminate against lesbians and gay men. The Court also held
+that Canada
+Customs had failed to effectively implement the equality-based approach
+outlined by the Supreme Court of Canada
+In addition the Court recognized that, applying the test in
+, it is clear that some lesbian and gay male
+pornography can be held to violate widely accepted equality principles.
+Ibid. at 557.
+Ibid. at 558.
+A fact which the Court in
+Little Sisters
+readily notes at page 558. Having
+reviewed the equality-based test outlined in
+, the Court accepted that "pornography for
+homosexual audiences may cause the kinds of changes in attitudes, emotions and
+behaviours" that are deemed "harmful to society."
+See, for example,
+Censorship Act
+1996, Western Australia, s. 19(4).
+Dworkin and MacKinnon,
+Pornography and Civil Rights
+, supra. note 15 at 43.
+See, for example, John Stoltenberg,
+"Confronting Pornography as a Civil-Rights Issue" in
+Refusing to be a Man: Essays on Sex and Justice
+York: Meridian Press, 1990); Marian Leslie Klausner "Redefining Pornography as
+Sex Discrimination: an Innovative Civil
+Rights Approach"
+New England Law Review
+; J Scutt, "Incorporating
+the Dworkin/MacKinnon Approach Into Australian Law" (1991)
+5; Anon, "Pornography: Freedom v Censorship?"
+Communications Law Bulletin
+Horniblow, "Power Undressing" in
+; Chilla Bulbeck, "Words Can Never Hurt Me?" (1990) 15(2)
+Legal Services Bulletin
+79; Andrea Dworkin,
+"Pornography is a Civil Rights Issue for Women" (1988) 21
+Michigan Journal of Law Reform
+55; and Catharine
+Pornography and Civil Rights
+Dworkin and MacKinnon,
+Pornography and Civil Rights
+, supra. note 15 at 101.
+Procedures set up by the ordinance
+provide for complaints in respect of the defined discriminatory practices set
+to be followed by investigation and conciliation. Unresolved
+complaints can proceed to a public hearing at which an order to
+desist can be made along with the payment of damages to the complainant.
+Throughout Australia, this procedure is
+best suited as an amendment to the
+various Equal Opportunity Acts as these Acts already forbid sexual harassment
+and discrimination
+on the basis of sex and all of which attempt to address
+complaints of sex discrimination by way of investigation and tribunal-type
+For an excellent analysis of how one
+might implement the Ordinances in other Australian jurisdictions, see
+Jocelynne Scutt,
+"Incorporating The Dworkin/MacKinnon Approach Into Australian
+Law (1991) 5
+3. See also, Hillary
+Charlesworth, "Pornography as Sex Discrimination" (August
+Law Institute Journal
+; Beth Gaze, "Pornography
+and Freedom of Speech: An American Feminist Approach" (June 1986)
+Legal Services Bulletin
+As MacKinnon and Dworkin explain (
+Pornography and Civil Rights
+, supra. note 15 at
+43-44), the first victims of pornography are those used to make it:
+Girls are enticed into posing for the
+photographer next door, confused at their feelings of uncomfortableness,
+and affirmation. He makes them feel beautiful, with his approval,
+admiration, solicitude, presents, molestation. Fathers sell
+pictures of sex
+acts with their own children to international pornography rings. Aspiring
+actresses and models are fraudulently
+induced into posing for nude or
+seminude shots, told the genitals will not show or it will be a silhouette
+or they will
+not be recognised-until they see themselves fully exposed and
+fully identified in Penthouse. Or they are told it will be their
+the top, only to find that most legitimate avenues are then closed to them
+because they appeared nude, so it
+is their ticket to the bottom. Until women
+are socially equal to men, it will be impossible to know whether any women
+are in pornography freely. And until women can bring an effective action for
+coercion into pornography, and get the product
+of their abuse off the
+market, it will be impossible even to begin to know how many of them are
+As MacKinnon and Dworkin again note (at
+pages 45, 46 ,48 and 49):
+The trafficking provision makes it possible
+for any woman to bring a complaint against pornographers for subordinating
+women. It is not necessary for an individual woman to show that she has been
+harmed more than all other women have by pornography.
+It is definitely
+necessary for her to prove that the materials meet the definition of
+pornography, for which it is necessary
+to prove that they do the harm of
+subordinating women.
+Although the social position of men, children, and
+transsexuals is not absolutely defined by pornography in the way women's
+they are often used in pornography in ways similar to the ways women are
+used. The Ordinance makes it possible for
+them to sue. The Ordinance also
+permits civil suits against the use of children in pornography. Specific
+subgroups of
+men, particularly gay men and Black men, would also have strong
+potential cases. For both, their civil status is made lower
+sexualization in pornography and in society. For both, one can see a direct
+relation between their use in pornography
+and their low social status. Gay
+men are often used literally in the same ways women are in pornography;
+their status
+being lowered to that of a woman is part of the sex. Abuse of
+gay men is also eroticized in pornography, promoting self-hatred
+oppressed group as its pleasure and identity.
+See supra. at note 15.
+As MacKinnon and Dworkin explain (at 50
+and 51): The debate over the relationship between pornography and violence
+women has been haunted by a spectre of absurdity; the man who rapes
+with a pornographic book in his back pocket. As it turns
+out, these spectres
+are real. The assault section of the Ordinance does not resolve the debate on
+the connection between
+pornography and rape. It does make it possible for an
+individual woman to sue a man who rapes her with a pornographic book in
+back pocket and its maker, distributor and seller too. It gives her a chance
+try to prove
+that there is a direct causal
+relationship between an act of violence against her and the specific piece if
+pornography.
+Under this provision, no one could sue pornographers for the
+general contribution pornography makes to a rape culture, a culture
+equates sex with death. Specific pornographers could, however, be sued in an
+attempt to prove the causal contribution
+of specific pornography to the
+specific physical injury.
+Susan M Easton,
+The Problem of Pornography: Regulation and the Right to
+Free Speech
+(Routledge: London, 1994) at 25.
+Catharine A MacKinnon, "Vindication and
+Resistance: A Response to the Carnegie Mellon Study of Pornography in
+Cyberspace",
+Georgetown Law Journal
+at 1966-1967.
+Print (pretty)
+Print (eco-friendly)
+No downloadable files available
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

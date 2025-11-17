@@ -1,0 +1,3439 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/vic/VSC/2025/687.html
+Scraped: 2025-11-17 13:39:37
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Indi Pty Ltd v InComm TCN Holdings Pty Ltd [2025] VSC 687 (6 November 2025)
+IN THE SUPREME
+COURT OF VICTORIA
+Not Restricted
+AT MELBOURNE
+COMMERCIAL COURT
+S ECI 2024 06703
+PTY LTD (ACN 128 172 190) as trustee for the HEWITT BUSINESS TRUST (ABN 91 451
+INCOMM TCN HOLDINGS PTY LTD (ACN 662 754
+DATE OF HEARING
+9–10 October 2025
+DATE OF RULING
+6 November 2025
+CASE MAY BE CITED AS
+Indi Pty Ltd v InComm TCN Holdings Pty Ltd
+MEDIUM NEUTRAL CITATION
+[2025] VSC 687
+CONTRACTS — Construction of commercial contract — Share sale
+agreement — Company’s business involves sale
+of redeemable gift
+cards — Deferred payment based on breakage calculations — Obligation
+to provide supporting information,
+calculations and documentation —
+Whether includes underlying Source Data — Whether includes Breakage Brief
+provided to
+consultant — Whether includes communications with consultant
+— Whether includes documents relied upon to prepare notices
+Meaning of identical phrases in different contractual clauses — Whether
+right to access books and records expired after
+review period —
+Reasonableness of requests by party’s adviser.
+APPEARANCES
+For the Plaintiff
+Mr D Sulan SC with
+King & Wood Mallesons
+For the Defendant
+Mr N De Young KC with
+Mr S Campbell
+Arnold Bloch Leibler
+HIS HONOUR:
+A. INTRODUCTION
+1 This proceeding concerns information
+disclosure obligations arising under a Share Sale Agreement (
+which the plaintiff (
+) sold its 46.25% shareholding in TCN Group Pty
+) to the defendant (
+2 TCN’s business involves the sale of gift
+cards or vouchers that are redeemable at certain retailers throughout
+3 Under the SSA, entered into on 11
+October 2022, the purchase price predominantly comprised an upfront payment of
+$75 million plus
+a potential deferred ‘Further Payment’ calculated
+by reference to TCN’s 2022 earnings and breakage. Breakage —
+money on expired gift cards that TCN retains — is TCN’s major
+revenue source.
+4 As most of the gift cards sold by
+TCN are valid for three years from the date of purchase, the total breakage
+amount can only be
+calculated with certainty after the end of 2025.
+Nevertheless, the starting amount on a gift card and the current total amount on
+that card can be quantified at any point in time. It is therefore possible to
+estimate at an earlier stage based on amounts already
+spent and statistical
+models of historical gift card spending patterns the amount of breakage likely
+to ultimately result.
+5 The SSA established a
+multi-stage process for calculating the Further Payment, extending from 2022
+through to final determination
+by 31 December 2025. At each stage, InComm was
+required to provide Indi with calculations ‘together with supporting
+information,
+calculations and documentation’. The parties could dispute
+calculations and, if disagreement persisted, refer the matter to
+an independent
+accountant for final determination.
+6 Indi contends
+that InComm has failed to provide the information and documents it is
+contractually entitled to receive. It seeks
+(a) underlying source data
+from TCN’s management systems (
+(b) the instructions and specifications
+given to Card Compliant LLC (
+Card Compliant
+), the consultant engaged to
+estimate breakage (the
+(c) the actual reports prepared by Card
+Compliant; and
+(d) various supporting documentation
+identified by Indi’s expert accountant as necessary to verify
+InComm’s calculations.
+7 InComm’s position is that it has
+fulfilled its disclosure obligations under the SSA. It contends that the phrase
+‘supporting
+information, calculations and documentation’ does not
+extend to Source Data or the Breakage Brief, that it has provided the
+Compliant reports (in the form of spreadsheet extracts), and that Indi’s
+requests are either unreasonable or made outside
+the applicable contractual time
+B. BACKGROUND
+B.1 The TCN Business
+8 Richard Hewitt and Nicholas Sims founded
+TCN, trading as The Card Network, in 2019. Its business was the sale of gift
+cards redeemable
+at certain retailers throughout
+described above, gift cards sold by TCN are typically valid for three years from
+the date of issue. Upon expiry, any unspent
+money on the gift card, or breakage,
+is in most cases kept by TCN. Breakage is the major source of revenue for TCN,
+with the remainder
+being commission paid to TCN upon redemption of a gift card
+gift cards can be purchased in physical or digital form, with the amount chosen
+by the customer loaded onto the gift card by
+TCN. TCN sold gift cards through
+various avenues, which it organised internally under several different
+‘sales channel’
+labels. These channels included a
+‘grocery’ channel for gift cards sold through Coles, Woolworths, Big
+W and Target,
+and a ‘B2B’ channel for gift cards sold to a variety
+of corporate clients.
+B.2 TCN data and breakage estimates
+11 TCNAdmin is TCN’s central
+internal management system in which TCN aggregates and records multiple sources
+of gift card
+information within TCNAdmin includes Source Data, being data from databases of
+ledgers of third-party issuers of cards that
+has been formatted by TCN. Source
+Data includes real time data of the products sold by TCN such as balances and
+expiry dates of individual
+third-party platform, Power BI, which aggregates data, is also used to estimate
+breakage. Extracts from Power BI contain data
+from each sales channel from
+TCNAdmin, providing information by card and by
+has also for many years engaged Card Compliant to estimate breakage. Reports
+produced by Card Compliant are based on briefs
+and information provided by TCN
+to Card Compliant.
+B.3 The SSA
+15 From 30 May 2018, Indi owned 46.25% of
+the shares in TCN. Mr Hewitt is the sole director and secretary of
+7 May 2022, InComm and the shareholders in TCN, including Indi, entered into a
+non-binding ‘Heads of Agreement’
+which summarised the terms of the
+acquisition of shares in TCN by InComm. The aggregate purchase price was
+specified as $105
+a period of negotiation, on 11 October 2022, Indi (and other shareholders) sold
+their shareholding in TCN to InComm pursuant
+to the SSA. The consideration for
+the sale predominantly consisted of a payment of $75 million to be shared
+between the sellers,
+and the deferred Further
+7 of the SSA provides the mechanism for the calculation of the Further Payment.
+It also requires that information underlying
+the calculation be provided, and
+provides for the resolution of disputes concerning the Further
+19 It is convenient to set out clause 7 of
+the SSA in full:
+7 Post Completion Calculations and Further Payment
+7.1 Completion EBITDA & Completion Breakage Amount
+Within 40 Business Days after Completion, the Sellers must procure:
+(a) the calculation of Completion Breakage Amount;
+(b) the preparation of the Completion Accounts, which shall include the
+Completion Breakage Amount; and
+(c) the calculation of the Completion EBITDA; and
+(d) a calculation of EBITDA, which shall include the Breakage in respect of Gift
+Cards sold in the period commencing on 1 January
+2022 and ending on the
+Effective Time,
+and provide a copy of each of the items at clauses 7.1 (a), 7.1 (b), 7.1 (c) and
+7.1 (d) to the Buyer together with supporting information,
+calculations and
+documentation.
+7.2 December 22 EBITDA (Base) & December 22 Breakage (First
+Within 40 Business Days after 31 December 2022, the Buyer must:
+(a) procure Card Compliant, LLC or its successor (or another party agreed by the
+Buyer and Sellers) to calculate and provide a report
+(on the basis of the
+Breakage Brief) for the:
+(i) December 22 Breakage (First Estimate); and
+(ii) amount of Breakage of the Group as at the Effective Time;
+(b) calculate the December 22 EBITDA (Base); and
+(c) prepare the December 22 Accounts, the first draft of which must be prepared
+by JM (so long as JM remains employed by the Group
+or the Buyer Group) in
+consultation with Walker Wayland (in accordance with the principles set out in
+Schedule 7),
+and provide a copy of each of the items at clauses 7.2(a), 7.2(b) and 7.2(c) to
+the Sellers together with supporting information,
+calculations and
+documentation. The parties agree that in undertaking the calculations in clauses
+7.2(b) and 7.2(c) the Buyer will
+take into consideration the amounts provided in
+the report prepared pursuant to clause 7.2(a).
+7.3 Review and finalisation of December 22 Accounts
+The provisions of clauses 5.2 to 5.9 apply mutatis mutandis to the
+Sellers’ examination and review of the draft December 22
+Accounts and
+December 22 EBITDA (Base) as if the references to “Completion
+Statement” are references to “December
+22 Accounts” and
+references to “Actual Working Capital and Actual Net Debt” are
+references to “December 22
+7.4 December 22 EBITDA (Second Estimate) & December 22 Breakage (Second
+Estimate), Further Payment Calculation
+Within 40 Business Days after 31 December 2023, the Buyer must:
+(a) procure Card Compliant, LLC or its successor (or another party agreed by the
+Buyer and Sellers) to calculate and provide a report
+(on the basis of the
+Breakage Brief) for the:
+(i) December 22 Breakage (Second Estimate); and
+(ii) amount of Breakage of the Group as at the Effective Time;
+(b) calculate the December 22 EBITDA (Second Estimate) by including December 22
+Breakage (Second Estimate);
+(c) calculate the Breakage Differential Amount; and
+(d) calculate the Further Payment in accordance with clause 7.5 (FP Notice),
+and provide a copy of each of the items at clauses 7.4(a), 7.4(b), 7.4(c) and
+7.3(d) to the Sellers together with supporting information,
+calculations and
+documentation. The parties agree that in undertaking the calculations in clauses
+7.4(b), 7.4(c) and 7.4(d) the Buyer
+will take into consideration the amounts
+provided in the report prepared pursuant to clause 7.4(a).
+7.5 Further Payment Calculation
+(a) The Further Payment will be determined and calculated in accordance with
+this clause after the calculation of the items in clauses
+7.4(a) and 7.4(b) and
+the Breakage Differential Amount in clause 7.4(c).
+(b) The Further Payment shall be calculated in accordance with the following
+FP = ((AE x 10.5) - $75,000,000)- (BDA)
+is the Further Payment.
+is the December 22 EBITDA (Second Estimate).
+is the Breakage Differential Amount.
+Worked Examples and for illustration only:
+if the BOA is a positive amount:
+• If the (AE) December 22 EBITDA (Second Estimate)= $11,000,000,
+• If the BOA= +$10m.
+• (($11,000,000 x 10.5) - $75,000,000) - (+$10,000,000) = $30,500,000
+• Further Payment = $30,500,000.
+if the BOA is a negative amount:
+• If the (AE) December 22 EBITDA (Second Estimate)= $11,000,000,
+• If the BOA=-$10m.
+• (($11,000,000 x 10.5) - $75,000,000) - (-$10,000,000) = $50,500,000
+• Further Payment = $50,500,000.
+7.6 Sellers Review
+The Sellers must complete their examination and review of the Further Payment
+calculation in the FP Notice and all items at clauses
+7.4(a), 7.4(b) and 7.4(c)
+within 20 Business Days after receipt from the Buyer under clause 7.3 (
+Review Period
+) and deliver to the Buyer a written report, by no later than
+the end of the FP Review Period (
+Sellers FP Report
+) stating whether or
+not the Sellers agree with the contents of the FP Notice.
+7.7 Sellers Agree
+If the Sellers agree with the FP Notice in the Sellers FP Report:
+(a) if the Further Payment is more than $0, the Buyer will pay the Further
+Payment to the Sellers, together with an amount for Simple
+Interest calculated
+in accordance with clause 7.17 (in their Respective Proportions) within 10
+Business Days after the date the Sellers
+deliver the Sellers FP Report; or
+(b) if the Further Payment is a negative amount, the Further Payment will be
+deemed to be $0, the Buyer will not be required to pay
+any Further Payment to
+the Sellers, the Sellers will not be required to pay the Further Payment to the
+Buyer, and, following such,
+the Purchase Price will be deemed fully paid.
+7.8 Sellers Disagree
+If the Sellers do not agree with contents of the FP Notice, the Sellers must
+also set out in the Sellers FP Report:
+(a) the matters in respect of which the Sellers disagree with the FP Notice
+Disputed FP Matters
+(b) the grounds on which the Sellers disagree with the FP Notice; and
+(c) the Sellers’ opinion as to the quantum of the Further Payment.
+7.9 No Sellers FP Report
+If the Sellers do not deliver the Sellers FP Report as required under clause
+7.6, then the FP Notice delivered by the Buyer under
+clause 7.4 will be deemed
+to be accepted by the Sellers and clause 7.7 shall apply.
+7.10 Steps on Disagreement
+(a) If the Sellers delivers a Sellers FP Report as required under clause 7.6
+stating that the Sellers do not agree with the Further
+Payment provided for in
+the FP Notice, then the Sellers and the Buyer must enter into good faith
+negotiations and use all reasonable
+endeavours to agree the Disputed FP
+(b) If the Buyer and the Sellers cannot agree the Disputed FP Matters within 20
+Business Days after delivery of the Sellers FP Report
+(or such longer period as
+the Buyer and the Sellers may agree in writing) then the Buyer must pay to the
+Sellers (in their Respective
+Proportions) at least 80% of the Further Payment
+(as calculated by the Buyer and specified in the FP Notice) (
+Further Payment
+) and defer the calculation and payment of the balance of the
+Further Payment (
+Deferred FP Amount
+) until a date no later than 31
+December 2025 (
+Deferred FP Date
+) in accordance with clauses 7.11 and
+7.11 Deferred FP Amount - 2nd FP Notice
+This clause 7.11 applies if there is a Deferred FP Amount.
+(a) Within 40 Business Days after 31 December 2024, the Buyer will (
+(i) procure Card Compliant, LLC or its successor (or another party agreed by the
+Buyer and Sellers) to provide a report (on the basis
+of the Breakage Brief) for
+(A) December 22 Breakage (Third Estimate); and
+(B) amount of Breakage of the Group as at the Effective Time;
+(ii) calculate the December 22 EBITDA (Third Estimate) by including December 22
+Breakage (Third Estimate); and
+(iii) calculate the Further Payment in accordance with clause 7.5 but using the
+December 22 EBITDA (Third Estimate) and the Final
+Breakage Amount determined
+under clause 7.11 (a)(i), and determine:
+(A) the quantum (if any) of the Deferred FP Amount that is payable to the
+Sellers; or
+(B) whether the Further Payment Instalment paid by the Buyer to the Sellers
+under clause 7.10(b) results in a payment due to the
+Buyer by the Sellers
+Overpayment
+and provide a copy of each of the items at clauses 7.11 (a)(i), 7.11 (a)(ii) and
+7.11 (a)(iii) to the Sellers together with supporting
+information, calculations
+and documentation. The parties agree that in undertaking the calculations in
+clauses 7.11 (a)(ii) and 7.11
+(a)(iii) the Buyer will take into consideration
+the amounts provided in the report prepared pursuant to clause 7.11 (a).
+(b) Clauses 7.6 to 7.10(a) apply mutatis mutandis to the review and response to
+the 2nd FP Notice as if it were an FP Notice.
+(c) If the Sellers agree with the 2nd FP Notice, the agreed Deferred FP Amount
+or Overpayment (as the case may be) must be paid,
+together with an amount for
+Simple Interest calculated in accordance with clause 7.17 or, in the case of an
+Overpayment, with a repayment
+of any interest that has been paid by the Buyer to
+the Sellers in respect of the Overpayment, within 10 Business Days of the date
+on which the Deferred FP Amount is agreed between the Buyer and the Sellers and,
+following such payment, the Purchase Price will
+be deemed fully paid.
+7.12 Deferred FP Date and Deferred FP Amount - Final FP Notice
+This clause 7.12 applies if there is a Deferred FP Amount and clause 7.11(c)
+does not apply.
+(a) Within 40 Business Days after the Deferred FP Date, the Buyer must (
+(i) calculate the:
+(A) December 22 Breakage (Final); and
+(B) amount of Breakage of the Group as at the Effective Time;
+(ii) calculate the December 22 EBITDA (Final), using the December 22 EBITDA
+(Base) and including December 22 Breakage (Final), and
+(iii) calculate the Further Payment in accordance with clause 7.5, but using the
+December 22 EBITDA (Final) and the Final Breakage
+Amount determined under clause
+7.12(a)(i) and determine:
+(A) the quantum (if any) of the Deferred FP Amount that is payable to the
+Sellers; or
+(B) whether the Further Payment Instalment paid by the Buyer to the Sellers
+under clause 7.10(b) results in a payment due to the
+Buyer by the Sellers
+Overpayment
+and provide a copy of each of the items at clauses 7.12(a)(i), 7.12(a)(ii) and
+7.12(a)(iii) to the Sellers together with supporting
+information, calculations
+and documentation.
+(b) Clause 7.6 to 7.10(a) apply mutatis mutandis to the review and response to
+the Final FP Notice as if it were an FP Notice.
+(c) If the Sellers agree with the Final FP Notice the agreed Deferred FP Amount
+or Overpayment (as the case may be) must be paid,
+together with an amount for
+Simple Interest calculated in accordance with clause 7.17 or, in the case of an
+Overpayment, a repayment
+of any interest that has been paid by the Buyer to the
+Sellers in respect of the Overpayment, within 10 Business Days of the date
+which the Deferred FP Amount or Overpayment (as the case may be) is agreed
+between the Buyer and Sellers and, following such payment,
+the Purchase Price
+will be deemed fully paid.
+7.13 Independent Accountant Dispute Resolution
+(a) If the Seller disagrees with the Final FP Notice and the Buyer and the
+Sellers cannot agree the Disputed FP Matters in respect
+of the Final FP Notice
+within 20 Business Days after delivery of the Sellers FP Report (or such longer
+period as the Buyer and the
+Sellers may agree in writing) then either the Buyer
+or the Sellers may refer the disagreement to the Independent Accountant to
+such unresolved Disputed FP Matters. For the avoidance of doubt, the
+only matters which may be referred to the Independent Accountant
+determination are the December 22 Breakage (Final) and the Final Breakage Amount
+and the impact that such amounts have on the
+December 22 EBITDA (Final) and the
+Further Payment.
+(b) The Buyer and the Sellers must instruct the Independent Accountant to decide
+within the shortest practicable time the Disputed
+FP Matters in respect of the
+Final FP Notice and to deliver to the Buyer and the Sellers a report
+IA’s FP Report
+), that contains a copy of the amended Final FP
+Notice (if any) and that states, on the basis of the Independent Accountant's
+its opinion as to:
+(i) the Disputed Matters in respect of the Final FP Notice, including the
+reasons for the Independent Accountant’s decision;
+(ii) the Final FP Notice.
+(c) The Buyer and the Sellers must provide and must ensure that the
+Buyer’s accountants and the Group’s accountants respectively
+provide, all information and assistance the Independent Accountant reasonably
+requests for the purpose of the IA’s FP Report.
+(d) The Buyer and the Sellers may, within 10 Business Days of the appointment of
+the Independent Accountant, make a submission to
+the Independent Accountant in
+respect of each of the Disputed FP Matters in respect of the Final FP Notice and
+may, within 5 Business
+Days of a submission by the other party, make a response
+to the submission of the other party.
+(e) The procedures to be followed by the Independent Accountant and the parties
+in determining the dispute will be as follows:
+(i) the Independent Accountant will review the documents submitted by the
+relevant parties and have the opportunity to ask specific
+written questions of,
+or request specific historical documents from, the parties to clarify its
+understanding of the submissions;
+(ii) in relation to questions asked of one party, the other party may submit to
+the Independent Accountant written dissent to any
+response submitted by the
+first party to the Independent Accountant;
+(iii) copies of any submission, response or document submitted to or by the
+Independent Accountant by or to a party as contemplated
+in this clause will be
+submitted by the party or the Independent Accountant to the other parties
+simultaneously or as soon as received,
+as the case may be; and
+(iv) if any non-written communication with the Independent Accountant is
+proposed, the relevant party must:
+(A) give the other parties not less than 2 Business Days’ notice of the
+proposed communication; and
+(B) provide each other party and its representatives and advisers with the
+opportunity to be present at any meetings or be part of
+any discussions, as the
+case may be.
+7.14 Conclusiveness of IA’s report
+(a) The Independent Accountant will act as an expert, not as an arbitrator, in
+determining the dispute.
+(b) The Independent Accountant’s determination in relation to the Disputed
+FP Matters in respect of the Final FP Notice and
+the Final FP Notice must be
+made as soon as possible.
+(c) The Independent Accountant's decision is final, conclusive and binding
+(except in the case of manifest error).
+(d) The Deferred FP Amount determined as payable by the Independent Accountant,
+must be paid by the Buyer to the Sellers, together
+with an amount for Simple
+Interest calculated in accordance with clause 7.17, within 10 Business Days of
+the date of the IA's FP
+Report and, following such payment, the Purchase Price
+will be deemed fully paid.
+(e) The Overpayment determined by the Independent Accountant as payable must be
+paid by the Sellers to the Buyer, together with a
+repayment of any interest that
+has been paid by the Buyer to the Sellers in respect of the Overpayment, within
+10 Business Days of
+the date of the IA’s FP Report and, following such
+payment, the Purchase Price will be adjusted by the amount of the Overpayment.
+The parties agree to each pay the Independent Accountant’s costs and
+expenses in accordance with the determination of the Independent
+Accountant. In
+the absence of such a decision, the Sellers and the Buyer will each pay for half
+of the Independent Accountant’s
+costs and expenses.
+7.16 Access to information
+The Buyer must procure the Company to:
+(a) permit representatives of the Buyer and the Sellers to have access to and
+take extracts from the books, correspondence, accounts
+or other records relating
+to the Group as the Buyer or the Sellers reasonably request in relation to the
+preparation of, review of,
+and agreement to, the draft and final (as applicable)
+FP Notice and Final FP Notice; and
+(b) provide or ensure the provision of all information and assistance that may
+reasonably be requested by the advisers of the Buyer
+and the Sellers in relation
+to the preparation of, review of, and agreement to, the draft and final (as
+applicable) FP Notice and
+Final FP Notice (as applicable), which includes
+procuring that JM (so long as JM remains employed by the Company) provides all
+assistance to the Sellers during business hours,
+and the parties further agree that:
+(c) nothing in this clause 7.16 requires the Buyer to waive legal professional
+privilege; and
+(d) the Sellers must comply (and procure their representatives comply) with any
+reasonable confidentiality requirements of the Buyer.
+7.17 Payment of Simple Interest: Further Payment, Further Payment Instalment,
+Deferred FP Amount or Overpayment
+(a) At the same time that:
+(i) the Further Payment is paid by the Buyer to the Sellers under clause 7.7;
+(ii) a Further Payment Instalment is paid by the Buyer to the Sellers under
+clause 7.10(b),
+the Buyer must also pay to the Sellers Simple Interest on the Further Payment or
+the relevant Further Payment Instalment (as applicable)
+at the Initial Interest
+Rate for the period commencing on the Completion Date and ending on the date on
+which the Further Payment
+or relevant Further Payment Instalment (as applicable)
+is paid by the Buyer to the Sellers.
+(b) At the same time that a Deferred FP Amount is paid by the Buyer to the
+Sellers, the Buyer must also pay to the Sellers Simple
+Interest on the relevant
+Deferred FP Amount calculated in the following manner:
+(i) at the Initial Interest Rate for the period commencing on the Completion
+Date and ending on the date on which the Deferred FP
+Amount is deferred under
+clause 7.1 0(b ); plus
+(ii) at the Deferred Interest Rate for the period commencing on the date on
+which the Deferred FP Amount is deferred under clause
+7.10(b) until the date on
+which the Deferred FP Amount is paid by the Buyer to the Sellers.
+(c) Where the Overpayment is payable to the Buyer that amount shall be paid by
+the Sellers to the Buyer with an amount of Simple
+Interest calculated in this
+clause within 10 Business Days after the earlier of:
+(i) agreement between the parties to the Overpayment due to the Buyer; or
+(ii) determination of the Overpayment as at the date of (and in) the IA’s
+Report under clause 7.14(e)
+The Sellers must repay, at the same time the Overpayment is paid to the Buyer,
+any interest that has been paid by the Buyer to the
+Sellers in respect of the
+Overpayment.
+20 Schedule 7 of the SSA specifies in
+detail how relevant post-completion calculations are to be prepared.
+1 General Principles
+(a) The Completion Breakage Amount, Completion Accounts, Completion EBITDA,
+December 22 Accounts and December 22 EBITDA (Base) (
+Post Completion Accounts
+) must be prepared in accordance with, in order of precedence:
+(i) the specific accounting principles, policies and procedures set out in Part
+2 of this Schedule 7;
+(ii) where an item is not covered by the specific accounting principles,
+policies and procedures set out in paragraph (a) of Part
+1 of this Schedule 7,
+in a manner consistent with the accounting principles, policies and procedures
+(with consistent classifications,
+judgments and estimation techniques) used to
+prepare the Accounts for the twelve months ending on the Accounts Date, but
+taking into
+account that not all line items in the Accounts will be included in
+the Post Completion Accounts - Part A; and
+(iii) where an item is not covered by the accounting principles, policies and
+procedures referred to in paragraphs (i) or (ii) of
+Part 1 of this Schedule 7
+above, in accordance with the Accounting Standards.
+(b) The December 22 Breakage (First Estimate), December 22 Breakage (Second
+Estimate), December 22 Breakage (Third Estimate), December
+22 Breakage (Final),
+Final Breakage Amount, December 22 EBITDA (Second Estimate), December 22 EBITDA
+(Third Estimate) and December
+22 EBITDA (Final) (
+Post Completion Accounts -
+, together with the Post Completion Accounts - Part A, the
+Completion Accounts
+) must be prepared in accordance with the specific
+accounting principles, policies and procedures set out in Part 2 of this
+2 Accounting Principles
+The Post Completion Accounts must be prepared in accordance with the following
+principles:
+(a) The Completion Accounts and December 22 Accounts must be prepared in a
+manner consistent with the accounting standards, principles,
+policies and
+procedures used to prepare the Completion Statement in accordance with Part B of
+Schedule 6, other than the following
+normalisations that are to be added back to
+the Completion EBITDA and December 22 EBITDA (Base):
+(i) Transaction Costs, including but not limited to travel, accommodation and
+associated expenses relating to visit by TCN and its
+advisers to Tampa in
+September 2022; and
+(ii) where not already included in Transaction Costs under Paragraph (a)(i) of
+Part 2 of Schedule 7, the following
+normalisations:
+(b) Completion Breakage Amount must be calculated on the same basis that the
+Group has accounted for Breakage in the Accounts, being:
+(i) Breakage is recognised in line with month of sale. Breakage is not
+recognised in line with spend as required under IFRS15. For
+example, the Group
+sold 1 x $100 card in a month, and the Group expects 10% of the funds on that
+card to be unspent at the end of
+its expiration period, the Group would take up
+$10 of breakage revenue (less GST liability) in the month of sale via a journal
+(ii) Historically, Card Compliant reports are used to guide the Group’s
+breakage estimates for its 7 highest selling cards.
+The Group has adopted its
+own models and uses the Card Compliant reports as an index.
+(iii) In respect of corporate sales (B2B), the Group recognises Breakage in the
+month after sale. Each quarter the Group reviews
+its corporate breakage
+estimates and post true-ups/true-downs for any material variances from our
+initial estimates.
+(c) Completion EBITDA must be calculated using the EBITDA derived from the
+Completion Accounts, excluding Breakage for Gift Cards
+sold in the period
+commencing on 1 January 2022 and ending on the Effective Time.
+(d) December 22 Breakage (First Estimate), December 22 Breakage (Second
+Estimate), December 22 Breakage (Third Estimate), December
+22 Breakage (Final)
+and Final Breakage Amount based on actual Breakage data to the extent that it is
+available and forecast data
+for unexpired cards.
+(e) December 22 EBITDA (Base) must be calculated using the EBITDA derived from
+the December 22 Accounts (and having regard to the
+Completion EBITDA, including
+the same normalisations as in the Completion EBITDA), excluding December 22
+(f) December 22 EBITDA (Second Estimate), December 22 EBITDA (Third Estimate)
+and December 22 EBITDA (Final) must all be calculated
+using the December 22
+EBITDA (Base) adjusted to include the following:
+(i) December 22 Breakage (Second Estimate), December 22 Breakage (Third
+Estimate) or December 22 Breakage (Final), as appropriate;
+(ii) changes to Commissions based on the quantum of the December 22 Breakage
+(Second Estimate), December 22 Breakage (Third Estimate)
+or December 22 Breakage
+(Final), as appropriate.
+(g) When calculating each of December 22 EBITDA (Second Estimate), December 22
+EBITDA (Third Estimate) and December 22 EBITDA (Final),
+the only variables that
+will change from the December 22 EBITDA (Base) will be changes in the
+calculation of December 22 Breakage
+and the corresponding changes to commissions
+as a result of such changes to December 22 Breakage.
+(h) Breakage and Commission Worked Example
+(i) The Breakage estimates have a direct impact on the Commission estimates as
+(ii) There are two estimates in the Group accounts posted at month end:
+(A) Breakage equalling estimated balance left on Gift Cards at expiration, less
+10% GST; and
+(B) Commission equalling estimated commission revenue earned on Gift Cards sold
+during the period, calculated on specific cards at
+a rate agreed to in specific
+partner agreements.
+(iii) Example: If Breakage is estimated at 20%, then the estimated commission
+revenue is calculated on 80% of the Gift Cards. At
+the end of the 3-year period,
+if Breakage is actually 18%, then 82% of the Gift Cards would have earned
+commission revenue at the
+rates specific to those particular cards and
+(iv) At the end of the Gift Card lifecycle (3 years), both of the above
+estimates will become actuals and an adjustment will occur.
+3 Breakage Brief
+Card Compliant must be instructed to prepare its reports on December 22 Breakage
+using Card Compliant’s standard methods and
+practices with consideration
+of the following, but acknowledging that Card Compliant has final determination
+of its calculations
+and report:
+(a) the differences between “grocery” and
+“corporate/B2B” sales;
+(b) each product channel based on the information provided in a Card Compliant
+program profile, which identifies the specific characteristics
+of each product
+and/or channel (see example as set out in document 09.02 in the Data Room);
+(c) all card data for the relevant period as compiled by the Company and
+reviewed by the Buyer in accordance with standard card compliant
+specifications (see example as set out in document 09.03 in the Data Room);
+(d) the specific transaction code mapping schedule provided by the Company and
+reviewed by the Buyer identifying the balance and
+non-balance affecting
+transactions; and
+(e) the Australian market and its specific characteristics.
+21 Clause 1 of the SSA relevantly defines
+the following terms:
+In this agreement, unless the context otherwise requires:
+2nd FP Notice
+has the meaning given in clause 7.11.
+Accounting Standards
+(a) the requirements of the Corporations Act for the preparation of financial
+reports; and
+(b) to the extent not inconsistent with paragraph (a), generally accepted
+accounting principles and practices in Australia for a
+period of at least 12
+months before Completion for a business of the size conducted by the Group.
+(a) the unaudited consolidated balance sheet of the Company as at the Accounts
+(b) the unaudited profit and loss accounts for the period from 1 June 2021 to 30
+June 2022 a copy of which is listed as document
+03.01.02 in the Data Room Index.
+Accounts Date
+means 30 June 2022.
+means an action, investigation, inquiry, prosecution, litigation,
+proceeding, arbitration, mediation or dispute resolution process.
+Actual Net Debt
+means Net Debt as at the Effective Time, as set out in
+the final Completion Statement and as adjusted in accordance with clause 5
+applicable).
+Actual Working Capital
+means Working Capital as at the Effective Time, as
+set out in the final Completion Statement and as adjusted in accordance with
+5 (if applicable).
+means the amount of value loaded on to a Gift Card which is
+forfeited for use by a Gift Card holder as a result of the expiry of
+Breakage Brief
+means the instructions to Card Compliant to be given by
+the Buyer for the reports for Breakage in clause 7 accounting for paragraphs
+and (d) of Part 2 of Schedule 7, as set out in Part 3 of Schedule 7.
+Breakage Differential Amount
+means the difference between the Completion
+Breakage Amount and the Final Breakage Amount and:
+(a) if the Completion Breakage Amount is higher than the Final Breakage Amount
+shall be expressed as a positive amount; and
+(b) if the Completion Breakage Amount is less than the Final Breakage Amount
+shall be expressed as a negative amount.
+Business Day
+means a day on which banks are open for business in
+Melbourne, Australia, other than a Saturday, Sunday or public holiday in
+Buyer Group
+means the Buyer and each of its Related Bodies Corporate
+(other than the Group Members) and Buyer Group Member means any member of
+Buyer Group.
+means, in relation to each Group Member, the aggregate of its cash
+(whether in hand or credited to any account with any banking,
+financial, lending
+or other similar institution or organisation), including all interest accrued
+thereon, as at the Effective Time
+and any other amounts that constitute
+“cash” in accordance with the line items set out in the Proforma
+Completion Balance
+Sheet, based upon the appropriate bank account reconciliation
+where the cash balance represents the “book” balance (as
+the “bank” balance). To avoid double counting, cash excludes any
+amount already categorised as Debt.
+means commission earned by the Group as recorded in the
+general ledger of the Group with account number 205.
+means TCN Group Pty Limited ACN 626 501 568.
+means completion of the Transaction in accordance with clause
+Completion Breakage Amount
+means the Breakage of the Group as at the
+Effective Time as set out in the Completion Accounts prepared in accordance with
+Completion Date
+means the date of this agreement.
+Completion Accounts
+(a) the unaudited consolidated balance sheet of the Company as at the Effective
+(b) the unaudited profit and loss accounts for the period from 1 January 2022 to
+the Effective Time.
+Completion EBITDA
+means the EBITDA for the period from 1 January 2022 to
+the Effective Time excluding Breakage in respect of that period, calculated
+accordance with clause 7.1.
+Completion Payment
+means $75,000,000.
+Completion Statement
+means the statement setting out Actual Working
+Capital and Actual Net Debt to be prepared and finalised pursuant to clause 5
+in accordance with the principles, policies and procedures set out in
+Schedule 6.
+Corporations Act
+Corporations Act 2001
+means the period commencing on 1 January 2022 and ending on 31
+December 2022, inclusive.
+means the virtual data room maintained through Ansarada
+entitled “Project Bright”, as at 5pm on the date of this
+Data Room Index
+means the index set out in Part A of Schedule 12.
+means the aggregate amount of all financial indebtedness of the
+Group as at the Effective Time, being the aggregate of the following:
+(a) all loans or other financing liabilities, including overdrafts, from Third
+Parties (including any accrued but unpaid fees, break
+costs and charges);
+(b) any obligations in respect of dividends or other distributions declared but
+not paid as at the Effective Time;
+(c) shareholder loans and any accrued interest;
+(d) any outstanding Transaction Costs;
+(e) any other amounts that constitute “debt” in accordance with the
+line items set out in the Proforma Completion Balance
+Sheet, but which are not
+already included in items (a) to (d) above. To avoid double counting, Debt
+specifically excludes any amount
+already defined as Cash. In the circumstance
+where a debt amount is a debit balance on the Group’s balance sheet, the
+will be treated as a negative Debt amount and in the circumstance where a
+debt amount is a credit balance on the Group’s balance
+sheet, the amount
+will be treated as a positive Debt amount; and
+(f) any obligation of the Company for financial indebtedness that is due and
+payable as at Completion and not otherwise included
+in Working Capital or the
+Pro Forma Completion Balance Sheet, in each case, other than to the extent such
+amount is paid out or discharged
+at Completion.
+December 22 Breakage (First Estimate)
+means the estimated Breakage in
+respect of Gift Cards sold by the Group in CY22 calculated in accordance with
+clause 7.2 and Schedule
+December 22 Breakage (Second Estimate)
+means the estimated Breakage in
+respect of Gift Cards sold by the Group in CY22 calculated in accordance with
+clause 7.3 and Schedule
+December 22 Breakage (Third Estimate)
+means estimated Breakage in respect
+of Gift Cards sold by the Group in CY22 calculated in accordance with clause
+7.11 (a) and Schedule
+December 22 Breakage (Final)
+means the actual Breakage in respect of Gift
+Cards sold by the Group in CY22 calculated in accordance with clause 7.12(a) and
+December 22 Accounts
+(a) the unaudited consolidated balance sheet of the Company as at 31 December
+(b) the unaudited profit and loss accounts for CY22, provided in accordance with
+clauses 7.2.
+December 22 EBITDA (Base)
+means the EBITDA for CY22, excluding Breakage
+in respect of Gift Cards sold by the Group in CY22, calculated in accordance
+with clause
+7.2 and Schedule 7.
+December 22 EBITDA (Second Estimate)
+means the EBITDA for CY22,
+calculated by including December 22 Breakage (Second Estimate) in the December
+22 EBITDA (Base), in accordance
+with clause 7.4 and Schedule 7.
+December 22 EBITDA (Third Estimate)
+means the EBITDA for CY22, calculated
+by including December 22 Breakage (Third Estimate) in the December 22 EBITDA
+(Base), in accordance
+with clause 7.11 (a) and Schedule 7.
+December 22 EBITDA (Final)
+means the EBITDA for CY22, calculated by
+including December 22 Breakage (Final) in the December 22 EBITDA (Base), in
+accordance with
+clause 7.12(a) and Schedule 7.
+Deferred FP Amount
+has the meaning given in clause 7.10(b).
+Deferred FP Date
+has the meaning given in clause 7.10(b).
+Deferred Interest Rate
+means a Simple Interest rate of 5.10%.
+Disputed FP Matters
+has the meaning given in clause 7.8.
+means earnings before income taxes, interest, depreciation and
+amortisation of the Group.
+Effective Time
+has the meaning given to the term in paragraph (a) of Part
+B of Schedule 6.
+Final Breakage Amount
+means (as the context requires) the amount of
+Breakage of the Group as of Completion:
+(a) estimated by Card Compliant LLC under clause 7.2(a)(ii), 7.4(a)(ii), 7.4 or
+7.11 (a)(i)(B) (as applicable);
+(b) calculated by the Buyer under clause 7.12(a)(i)(B);
+(c) determined by the Independent Accountant under clause 7.13; or
+(d) determined by agreement of the parties;
+Final FP Notice
+has the meaning given in clause 7.12.
+has the meaning given in clause 7.4
+FP Review Period
+has the meaning given in clause 7.6.
+Further Payment
+means the amount:
+(a) calculated in clause 7.5; and
+(b) payable to the Sellers (in their Respective Proportions) in accordance with
+clause 7.7; or
+(c) payable to the Sellers (in their Respective Proportions) as the Further
+Instalment Payment under clause 7.10, and if applicable,
+the Deferred FP Amount
+in accordance with clauses 7.11, 7.12 or 7.14(d), with interest calculated and
+payable as part of the Further
+Payment, Further Payment Instalment and/or
+Deferred FP Amount (as applicable) to the Sellers (in their Respective
+Proportions) in
+accordance with clause 7.17.
+Further Payment Instalment
+has the meaning given in clause 7.10(b).
+means a stored value or prepaid physical card or digital
+voucher, which, when activated:
+(a) has a set dollar amount;
+(b) can be used to purchase services or merchandise from a single retailer or
+multiple retailers in Australia or New Zealand at physical
+retailing locations
+or on-line shops;
+(c) is not redeemable for cash;
+(d) is not reloadable;
+(e) is marketed solely as a gift card;
+(f) is not a component of another financial product;
+(g) prominently displays or permits the prominent display on the card or
+mechanism either:
+(i) the expiration date; or
+(ii) the number of months following purchase that such card or mechanism expires
+(along with room to write the purchase date on such
+card or mechanism); and
+(h) otherwise satisfies the definition of “gift facility” as that
+term appears in AS/C Corporations (Non-cash Payment
+Facilities) Instrument
+2016/211 (as amended or replaced from time to time).
+Governmental Agency
+means any government or governmental, administrative,
+monetary, fiscal or judicial body, department, commission, authority, tribunal,
+agency or entity in any part of the world.
+means the Company and the Subsidiaries, and Group Member means any
+one of them.
+means goods and services tax or similar value added tax levied or
+imposed in Australia under the GST Law or otherwise on a supply.
+means A New Tax System (Goods & Services Tax) Act 1999 (Cth)
+and the regulations associated with that Act.
+has the same meaning as in the GST Act.
+IA’s FP Report
+has the meaning given in clause 7.13(b).
+Independent Accountant
+means a qualified and independent Australian
+chartered accountant appointed jointly by the Sellers and the Buyer or, if they
+agree on the person to be appointed within five Business Days of a party
+requesting the appointment pursuant to a relevant provision
+of this agreement, a
+qualified and independent Australian chartered accountant of not less than 10
+years’ standing appointed
+by the Chair of the Resolution Institute.
+Initial Interest Rate
+means a Simple Interest rate of 3.8%.
+means in respect of the Group as at the Effective Time, Cash,
+less Debt, as calculated in accordance with Schedule 6. For the avoidance
+doubt, if Cash is greater than Debt, the Net Debt will be a positive amount, and
+if Cash is less than Debt, the Net Debt will
+be a negative amount.
+Purchase Price
+means the aggregate of the amounts payable under clause
+Related Body Corporate
+means a ‘related body corporate’ as
+that expression is defined in the
+Corporations Act
+Respective Proportion
+means in respect of each Seller:
+(a) [Indi] - 46.25%;
+(b) [Hopper Nation Pty Ltd ACN 632 534 199 as trustee for the Hopper Nation
+Trust ABN 54 136 466 248] - 46.25%;
+(c) [Emily Hall] - 5%; and
+(d) JM - 2.5%.
+Sellers FP Report
+has the meaning given in clause 7.6.
+Seller Group
+(a) the Sellers and their Related Body Corporates; and
+(b) any trust that a Seller or a Related Body Corporate of a Seller is the
+trustee of, and Seller Group Member means any member of
+the Seller Group.
+Seller Group Representative
+means any representative or adviser of any
+Seller Group Member and any Related Bodies Corporate of such representative or
+(or any current or former executive, officer, employee of or contractor
+to any of them).
+means [Indi], [Hopper Nation Pty Ltd ACN 632 534 199 as trustee
+for the Hopper Nation Trust ABN 54 136 466 248], [Emily Hall] and
+Simple Interest
+means the amount of interest calculated in accordance
+with the following formula:
+• AO = Relevant amount outstanding on the day of calculation
+I = Initial
+Interest Rate (0.038) or Deferred Interest Rate (0.0510) (as
+applicable)
+• N = Number of days during which interest is accrued
+Transaction
+means the sale and purchase of the Sale Shares in accordance
+with this agreement.
+Transaction Costs
+(a) adviser costs, service fees, finder’s fees, escrow fees or other costs
+or fees relating to the Transaction incurred or
+payable by any Group Member;
+(b) the aggregate amount of any bonuses, incentives, commissions or other fees
+incurred or payable by any Group Member to any current
+or former executive,
+officer, employee of or contractor to any Group Member in connection with the
+Transaction (including all retention
+and similar bonuses and any payments for
+restraint covenants); and
+(c) any directors and officers insurance costs incurred or payable by any Group
+Member in accordance with clause 6.4.
+Working Capital
+means in respect of the Group as at the Effective Time,
+as calculated in accordance with Schedule 6.
+22 Paragraph (a) of Part B to Schedule 6
+of the SSA defines the Effective Time as 30 September 2022.
+23 JM is defined in the list of parties as:
+Jonathon Mould
+of Unit 405, 71 Abinger Street, Richmond VIC 3121 (
+24 Jonathan Mould was the Chief Financial
+Officer of TCN between May 2022 and October 2024 and has since been the General
+B.4 Chronology
+25 On 7 December 2022, the Sellers
+provided InComm with calculations and documents pursuant to clause 7.1 of the
+SSA. Relevantly,
+the calculation of the Completion Breakage Amount pursuant to
+clause 7.1(a) was $50,467,676.27, the calculation of the Completion
+pursuant to clause 7.1(c) was -$12,949,309.75 and the calculation of the EBITDA
+pursuant to clause 7.1(d) was $3,887,011.29,
+with a normalised calculation of
+$4,741,149.30.
+3 January 2023, Mr Mould granted Mr Hewitt access to Power BI, which was
+subsequently revoked on 11
+February 2023.
+27 March 2023, Card Compliant produced several PDF reports and spreadsheets
+relating to the calculation of breakage (
+Card Compliant PDF
+). The reports appeared to cover a transaction period from 15
+December 2019 to 31 December
+The reports and
+spreadsheets (converted to PDF) were subsequently provided by InComm to
+22 July 2023, InComm emailed Indi (and the other Sellers) its calculations and
+five spreadsheets ‘in respect of reporting
+under clause 7.2’. The
+December 22 Breakage (First Estimate) it calculated pursuant to clause 7.2(a)(i)
+was $23,929,900. The
+supporting spreadsheet had several tabs, including a
+‘Summary’ tab, tabs for specific channels that appeared to summarise
+calculations from Card Compliant
+(insofar as they
+included Card Compliant logos) and further tabs that appeared to summarise
+information regarding other channels.
+The calculations that appeared to be from
+Card Compliant were ‘hard-coded’ such that they did not reveal the
+or underlying data from which the calculations were drawn, and the
+spreadsheets otherwise did not include the underlying Source Data
+from which the
+calculations were purported to have been
+InComm calculated the
+Breakage of the Group as at the Effective Time pursuant to clause 7.2(a)(ii) as
+The December 22 EBITDA
+(Base) was calculated as
+‑$24,376,186.
+21 August 2023, Indi informed InComm that it disputed the calculations of the
+December 22 Accounts and the December 22 EBITDA
+the ensuing months, there was further correspondence between the parties,
+including an email from Mr Mould to Mr Hewitt on 31
+October 2023 that attached
+19 February 2024, Card Compliant produced several PDF reports and spreadsheets
+with calculations of breakage in a similar form
+to the March 2023 Card Compliant
+PDF reports (
+February 2024 Card Compliant PDF reports
+). The reports
+appeared to cover a transaction period from 15 December 2019 to 31 January 2024,
+and large portions of the reports
+The reports and
+spreadsheets (converted to PDF) were subsequently provided by InComm to
+22 March 2024, following further correspondence between the parties, Indi
+emailed InComm that it agreed in principle to calculations
+regarding the
+December 22 Accounts and December 22 EBITDA (Base) following amendments to those
+figures agreed to by InComm. Nevertheless,
+Indi maintained that InComm had not
+provided the relevant supporting information, calculations and documentation
+required by clause
+7.2. The email also reiterated InComm’s obligations
+with respect to clause 7.4 in providing the December 22 Breakage (Second
+Estimate), the December 22 EBITDA (Second Estimate) and the Further Payment
+calculation by 27 February
+26 April 2024, InComm provided six spreadsheets to Indi in purported fulfilment
+of its obligations pursuant to clause 7.4. One
+spreadsheet included the
+calculation of the December 22 Breakage (Second Estimate) pursuant to clause
+7.4(a)(i) in its first tab
+as $24,845,844. Other tabs included in that
+spreadsheet appeared to summarise calculations from Card Compliant reports
+relating to
+particular channels in the same manner as in the spreadsheet
+provided on 22 July 2023 described at [
+A different spreadsheet indicated that the calculation
+pursuant to clause 7.4(a)(ii) w
+but InComm’s calculations of the December 22 EBITDA
+(Second Estimate) and Further Payment were
+Source Data was
+not included in the spreadsheets or otherwise
+34 By correspondence on 13 June 2024, and
+subsequently on 7 August 2024, Indi sought further information from InComm
+pursuant to clause
+7.4 in relation to the December 22 EBITDA (Second
+Estimate) and the December 22 Breakage (Second
+22 August 2024, InComm provided an additional eight spreadsheets to Indi. These
+spreadsheets did not include the Source Data.
+In its email, InComm stated that
+its calculation of the Further Payment was
+20 September 2024, Indi sent InComm a letter stating that it considered that the
+material which InComm had provided with its
+26 April 2024 and 22 August 2024
+emails did not comply with clause 7.4 for reasons including that it failed to
+include supporting
+information, calculations, and documentation. Indi requested
+that InComm provide the following information pursuant to clauses 7.4
+(a) current versions of the reports provided by Jonathon Mould to Richard
+Hewitt, attached to Jonathon Mould's email dated 31 October
+2023, being the
+breakage rate per card per channel, spend velocity per card per channel and
+breakage per denomination per card;
+(b) access to Power BI and the Power BI reports to verify Buyer's calculation
+of the Further Payment;
+(c) all reports (including any drafts) procured from Card Compliant, LLC in
+accordance with clause 7.4(a) of the SSA, for the December
+22 Breakage (Second
+Estimate) and amount of Breakage of the Group as at the Effective Time; and
+(d) all correspondence between Card Compliant, LLC and a member of the Buyer
+Group, the Group, or any of their respective directors,
+employees, professional
+advisors or subcontractors, in relation to the SSA, including, without
+limitation, the preparation and finalisation
+of the report under clause 7.4(a)
+of the SSA and the Breakage
+37 Indi’s letter of 20 September
+2024 did not concede that InComm had adequately provided an FP Notice pursuant
+to clause 7.4,
+but nevertheless, annexed a Sellers FP Report pursuant to clauses
+7.6 and 7.8 of the SSA detailing the matters that Indi considered
+Disputed FP
+23 October 2024, Indi issued InComm a notice under clause 7.16 of the SSA and
+requested the same material it had earlier requested
+in its letter of 20
+15 November 2024, InComm sent Indi a letter in which it stated that it
+considered it had complied with clause 7.4, but nevertheless
+attached two
+additional spreadsheets. It further stated that the requested information sought
+by Indi in its letter of 20 September
+2024 and its correspondence on 23 October
+unreasonable.
+19 November 2024, Card Compliant prepared several PDF reports and spreadsheets
+with updated calculations of breakage in a similar
+form as the March 2023 Card
+Compliant PDF reports and the February 2024 Card Compliant PDF reports
+(collectively, the
+Card Compliant PDF reports
+). The reports appeared to
+cover a transaction period from 15 December 2019 to 31 August 2024, and large
+portions of the reports were
+Those reports and
+spreadsheets (converted to PDF) were also subsequently provided by InComm to
+11 December 2024, Indi commenced this proceeding by originating
+30 January 2025, Indi informed InComm that the ‘Disputed FP Matters’
+set out in the Sellers FP Report remained unresolved
+20 business days after its
+delivery. Consequently, there was a Deferred FP Amount and clause 7.11 of the
+25 February 2025, InComm sent Indi a letter in which it stated:
+The actual unspent balance on all TCN gift cards sold during the 2022 calendar
+year as at 17 February 2025 is $31,730,745. Applied
+net of GST, that actual
+breakage amount is $28,846,132.
+44 The letter enclosed a Power BI extract
+which it said evidenced its calculation of actual breakage, and went on to
+calculate the
+Further Payment as
+27 February 2025, InComm sent an email to Indi with six spreadsheets which it
+described as the ‘Third Estimate’
+pursuant to clause 7.11, and
+which, in effect, purported to constitute the 2nd FP
+The calculation of the
+Further Payment was again nil. A spreadsheet concerning the breakage calculation
+included tabs that appeared
+to be Card Compliant extracts in a similar manner as
+the spreadsheets provided on 22 July 2023 and 26 April 2024 described at [
+(collectively, the
+purported Card Compliant
+46 On 4 March 2025, Indi sent an email
+to InComm. The email noted that in the material provided by InComm to Indi
+pursuant to the
+relevant subclauses of clause 7, there were differences in Issue
+Amounts — the value of gift cards sold in CY22 — across
+the material
+where the figure should be static. It sought further information about these
+discrepancies.
+next day, Indi sent another email to InComm which attached a notice pursuant to
+clause 7.16 of the SSA seeking the provision
+of information relating to the
+discrepancies identified in the 4 March 2025 email. It stated as follows:
+By correspondence dated 4 March 2025, Indi notified InComm that it had
+identified inconsistencies in the Issue Amounts (as defined
+in the 4 March 2025
+(a) underlying the First Estimate;
+(b) provided by InComm in October 2023;
+(c) underlying the FP Notice;
+(d) provided by InComm in August 2024;
+(e) provided by InComm by correspondence dated 25 January 2025; and
+(f) underlying the 2nd FP Notice,
+and has requested an explanation for these inconsistencies.
+Pursuant to clause 7.16 of the SSA, the Buyer is to procure that the Company
+provide all books, correspondence, accounts or other
+records that support the
+explanation requested (the
+). This request includes any source
+data or document referred to in the response to the 4 March 2025
+48 During March 2025, further emails were
+exchanged between Indi and InComm regarding the provision of information under
+25 March 2025, without conceding the validity of the 2nd FP Notice purportedly
+issued by InComm on 27 February 2025, Indi issued
+to InComm a ‘Sellers FP
+Report’ pursuant to clauses 7.6, 7.8 and 7.11 of the SSA detailing the
+matters in the 2nd FP
+Notice which were
+Those matters have not
+subsequently been resolved.
+50 On 3 April 2025, and
+subsequently on 7 April 2025, Indi instructed Ryan Carruth, an accountant, to
+act as an ‘Independent
+Adviser’ in preparing a report (the
+Carruth Report
+) setting out the following:
+(a) whether you have sufficient information to review the Second Estimate and
+FP Notice and the Third Estimate and 2nd FP Notice;
+(b) if the answer to (a) is not yes and you require any further information to
+review the Second Estimate and FP Notice and the
+Third Estimate and 2nd FP
+Notice, please identify the additional material that you require, along with
+your reasons for requesting
+April 2025, Indi provided InComm with the Carruth Report. Indi issued a notice
+to InComm pursuant to clause 7.16(b) of the
+SSA, which requested the documents
+referred to in Annexure D of the Carruth Report, except for the Completion
+Statement as at 30
+Annexure D of the Carruth
+Report includes the table reproduced
+a) Completion Statement, Accounts and Completion
+Completion Statement as at 30 September 2022
+To verify the calculation of Completion Breakage Amounts of $50,467,676
+stated in the 2nd FP Notice.
+General ledger entries and underlying transactional records (including
+sample invoices and purchase orders) supporting the Completion
+To substantiate the reported revenue and expense figures in the Completion
+Accounts and verify the integrity of the Completion EBITDA
+Documentation supporting the calculation of Completion EBITDA and
+Completion Breakage Amount including but not limited to:
+(a) Explanatory
+schedules and working papers supporting the calculation of Completion EBITDA,
+including any assumptions, methodologies,
+or adjustments applied;
+reconciliation between the breakage schedules and the figures reported in the
+Completion Accounts
+To undertake a complete and informed review of the Completion Accounts and
+verify whether the Completion EBITDA and Completion Breakage
+Amount have been
+calculated in accordance with the methodology prescribed in the Share Sale
+b) December 2022 Accounts for Second and Third
+General ledger entries and underlying transactional records (including
+sample invoices and purchase orders) supporting the December
+2022 Accounts
+(Second and Third Estimate)
+To verify the completeness of these accounts and the accounting methodology
+applied to them
+Confirmation that the December 2022 Accounts were prepared by Mr Jonathon
+Mould in consultation with Walker Wayland, in accordance
+with Clause 7.2(c) of
+To confirm that the accounts were prepared in accordance with the
+requirements of the SSA
+c) December 2022 EBITDA for Second and Third
+General ledger entries and underlying transactional records (including
+sample invoices and purchase orders) supporting the December
+2022 EBIDTA (Second
+and Third Estimate)
+To substantiate the reported revenue and expense figures and verify the
+integrity of the December 2022 EBITDA.
+Documentation supporting the calculation of December 2022 EBITDA and
+December 2022 Breakage Amount including but not limited to:
+Explanatory schedules and working papers supporting the calculation of December
+2022 EBITDA, including any assumptions, methodologies,
+or adjustments
+(b) A reconciliation between the breakage schedules and the
+figures reported in the December 2022 Accounts
+To undertake a complete and informed review of the December 2022 Accounts
+and verify whether the December 2022 EBITDA have been calculated
+in accordance
+with the methodology prescribed in the Share Sale Agreement.
+Underlying documents detailing the normalisation adjustments made to the
+EBITDA figures and the reconciliations of the normalisation
+adjustments
+To review the normalisation adjustments required for the Completion EBITDA
+and December 2022 EBITDA calculations. This is to confirm
+that all one-off,
+non-recurring, or extraordinary items have been appropriately adjusted, and to
+ensure the final EBITDA figures
+are prepared in accordance with the agreed
+accounting principles and standards and to independently verify the
+normalisation adjustments
+d) December 2022 Breakage for Second Estimate and Third
+The original reports and working files prepared by Card Compliant LLC,
+including all documentation detailing the assumptions, input
+methodology used to derive breakage rates.
+To conduct a thorough and informed review of the breakage estimate and to
+understand how expiry patterns, breakage rates were determined.
+Clarification as to which card products and issue amounts were included or
+excluded from Card Compliant LLC’s analysis.
+To understand the scope and basis of Card Compliant LLC’s breakage
+calculations as they relate to the Further Payment.
+Underlying documents detailing the assumptions, input data, and methodology
+used to derive breakage rates and spend velocity.
+To conduct a thorough and informed review of the breakage estimate and to
+understand how expiry patterns, breakage rates, and spend
+velocity were
+determined.
+Commission model with detailed calculations based on December 2022
+Breakage, including supporting documents such as commission policies
+applicable to sales in calendar year 2022.
+To understand the commission calculations and how it reflect the impact of
+the Breakage. Supporting documents detailing the commission
+rates and policies
+applicable in 2022 are used to verify the methodology and to determine the
+appropriate commission adjustments
+based on the breakage estimates.
+e) Calculation of the Breakage Differential
+A copy of the Completion Statement, accompanied by all underlying
+source/support data and assumptions to verify the Completion Breakage
+To verify the Completion Breakage Amount used in the FP Notice and 2nd FP
+The underlying documentation supporting the Final Breakage Amount, which
+includes but not limited to the items listed in item 9 above
+relating to Card
+Compliant LLC’s report and calculations
+To verify the calculation of the Final Breakage Amount, which is derived
+from the breakage estimate.
+52 On 16 April 2025, InComm sent a letter
+to Mr Hewitt, responding to the Disputed FP Matters of the Sellers FP Report
+dated 25 March
+2025. It annexed several documents, including an email from Mr
+Mould to Olivia Parsons of Card Compliant, which attached instruction
+for the production of Card Compliant
+2 July 2025, Mr Carruth provided a supplementary report, based on instructions
+received from Indi on 30 June 2025 as to the
+documents he required to advise
+Indi in respect of its submissions for an Independent Accountant Dispute
+Resolution process and why
+he required those documents. The documents Mr Carruth
+required were largely the same as those identified in the Carruth Report. The
+supplementary report was provided to InComm on the same
+B.5 The evidence
+54 The evidence before the Court
+(a) an affidavit of Richard
+Hewitt dated 11 December 2024 and its
+(b) a second affidavit of Richard Hewitt
+dated 27 June 2025 and its exhibits;
+affidavit of Ryan Carruth dated 2 July 2025 and its exhibits;
+(d) an affidavit of Jonathan Mould dated 31 July
+2025 and its exhibits;
+(e) further documents
+contained in the supplementary court book.
+55 The only witness required for
+cross-examination was Mr Mould.
+C. ISSUES IN DISPUTE
+56 The particular issues in dispute in
+this proceeding may be summarised as follows:
+(a) Is Indi entitled to the
+Source Data, the Breakage Brief, any communications between InComm and Card
+Compliant, and all documents
+relied upon to prepare the FP Notices pursuant to
+clauses 7.2, 7.4 and 7.11 of the SSA?
+(b) Is Indi
+entitled to the information, including underlying ledgers and sample invoices,
+relating to the calculation of the December
+22 EBITDA (Base) pursuant to clause
+(c) Has InComm provided the Card Compliant
+reports to Indi pursuant to clauses 7.2(a), 7.4(a) and
+(d) Is Indi otherwise entitled by clause
+7.16(a) to the categories of information requested under clause 7.2, 7.4 or 7.11
+do not fit within the terms of those
+(e) Is Indi entitled to the documents it
+has requested pursuant to clause 7.16(b), which its adviser, Mr Carruth, says he
+conduct a review of the
+calculations?
+(f) Is Indi entitled to current
+versions of Power BI exports attached to the email of 31 October 2023 from Mr
+Mould to Mr Hewitt?
+D. SUBMISSIONS
+D.1 Is Indi entitled to Source Data, the Breakage Brief, communications
+between InComm and Card Compliant, and documents relied upon
+to prepare the FP
+Notices, pursuant to clauses 7.2, 7.4 and 7.11?
+57 In oral submissions, Indi framed the
+dispute as ‘less of a construction issue’ but a question of whether
+provided the documents to satisfy the terms of clauses 7.2, 7.4 and
+7.11. Senior counsel for Indi noted that Mr Mould conceded in
+cross-examination
+that the Card Compliant reports were dependent on the Source Data extracted from
+TCNAdmin, and that the material
+had not been provided to Indi in relation to
+both clauses 7.4 and
+submitted that the failure to provide the Source Data was especially problematic
+in circumstances where there was a discrepancy
+of Issue Amounts in the
+spreadsheets provided by InComm across the different FP Notices of some $1.5
+million. Senior counsel for
+Indi referred to the cross-examination of Mr Mould
+in which he explained that the discrepancy resulted from
+‘kick-outs’,
+which were cards not included in the relevant
+calculations because of inconsistencies in the data relating to them. However,
+observed that in the Card Compliant PDF reports, kick-outs were said to
+total some $21,000. These discrepancies raised a number of
+questions that
+required the underlying Source Data to
+submissions relating to the provision of Source Data pursuant to clause 7.2 were
+more limited. Senior counsel for
+Indi submitted that Indi was still entitled to
+the supporting material under that clause, and it was relevant in circumstances
+Issue Amounts had been changing over time and therefore would
+‘inform how [Indi] analysed the later
+relation to the Breakage Brief and other communications with Card Compliant,
+Indi submitted that InComm had not provided this
+information as was required by
+the terms of clauses 7.2, 7.4 and 7.11. It submitted that the Breakage Brief
+ought to include Source
+relation to the provision of documents underlying the preparation of the FP
+Notices, Indi submitted that this was required pursuant
+to clauses 7.4 and 7.11
+and that preparation of the FP Notices would have necessitated the
+(a) review of the estimated
+revenue and breakage for each channel using sales and spend data (broken down by
+month) extracted from
+TCNAdmin and Power BI;
+(b) review of sales and spend data for each channel
+(broken down by month) extracted from TCNAdmin and Power BI, including channel
+specific data, and for channel ‘B2B’, client specific data;
+(c) application of one or more methodologies for
+the calculations, which methodology ought be discernible from the underlying
+in spreadsheets (i.e. spreadsheets that are not
+hard-coded).
+62 InComm submitted that on a proper
+construction, the words ‘supporting information, calculations and
+documentation’
+in clauses 7.2, 7.4 and 7.11 do not embrace Source
+submitted that clause 7 of the SSA sets out a five-stage process for the
+calculation of the Further Payment. The first stage
+involves clause 7.1 and its
+obligations on the Sellers to provide calculations relevant to Completion. The
+second stage involves
+the provision of calculations and the review process
+provided for under clauses 7.2 and 7.3. The third stage involves the
+calculations
+and information that InComm must provide under clause 7.4,
+including the calculation of the Further Payment pursuant to clause 7.5,
+process for review and dispute provided for under clauses 7.6 to 7.10. The
+fourth stage is a similar process to the third,
+with the calculations and
+information to be provided under clause 7.11, and the same clauses 7.5 to 7.10
+being applied for the calculation,
+review and dispute process. The fifth and
+final stage is the Final FP Notice calculation under clause 7.12, which then
+flows through
+to the Independent Account dispute resolution process under
+clauses 7.13 and
+noted that the structure of this staged process involves a limited window of
+time at the third and fourth stages —
+namely, 20 business days for Indi to
+review the material provided under clause 7.4 or 7.11 and respond indicating
+agreement or non-agreement
+and a further 20 business days for the parties to
+engage in good-faith discussions to resolve any
+non-agreement.
+further noted that the parties elected to have Card Compliant provide a
+calculation of estimated breakage at the second,
+third and fourth stages. InComm
+referred to Part 3 of Schedule 7 to the SSA, in which the Breakage Brief was
+defined, and pointed
+in particular to the phrase ‘acknowledging that Card
+Compliant has final determination of its calculations and report’.
+submitted that the parties thereby acknowledged that Card Compliant would
+finally determine the matters comprising its calculations
+and report for the
+purposes of clauses 7.2, 7.4 and
+these two contextual observations together, InComm submitted that clause 7
+establishes an expedient process in which Card
+Compliant’s estimates are
+provisional but create the possibility of an early Further Payment if the
+parties reach agreement
+within the limited review windows at the third or fourth
+stage. However, InComm characterised stage five as the ‘main game’
+— the point at which final breakage numbers would ultimately be
+determined. On this construction, Indi had no entitlement to
+Source Data because
+the limited review windows had elapsed and Card Compliant was to deliver the
+relevant calculations over which
+it had final
+determination.
+submitted that although the same obligation to provide ‘information,
+calculations and documentation’ was included
+in clause 7.1, that was not
+to be read in the same way as it ‘has a different
+further submitted that its construction of the obligation was supported by the
+fact that it would have been simple for the
+parties to have included a reference
+to Source Data explicitly in clauses 7.2, 7.4 and 7.11 but they did not do
+submitted that there were also no relevant communications to Card Compliant in
+writing that were not produced. InComm had
+provided to Indi on 16 April 2025
+copies of relevant instructions it had provided to Card Compliant which were in
+the same form as
+those that had been provided to InComm in the data room for the
+sale of TCN. Senior counsel for InComm referred to the evidence of
+Mr Mould in
+which he stated the relevant information that had been provided to support this
+proposition.
+In the alternative,
+InComm submitted that there was no contractual obligation to provide such
+communications. It would have been
+easy for the parties to have explicitly
+required the provision of the communications with Card Compliant in the SSA if
+submitted that Mr Mould had also provided all other information on which InComm
+relied to prepare the FP
+Indi had not requested
+any specific information other than Source Data that had not been provided, and
+Source Data was not required
+to be provided for the reasons already
+reply to InComm’s submission that the reference to ‘supporting
+information, calculations and documentation’
+in clauses 7.2, 7.4 and 7.11
+did not embrace Source Data, Indi submitted that there was an equivalent
+reference in clause 7.12. Clause
+7.12 required InComm to prepare the Final
+FP Notice itself, and such preparations would necessarily be made on the basis
+Data. Indi therefore submitted that if equivalent phrases in the
+contract are to have the same meaning, then the references in clauses
+and 7.11 must also embrace Source
+further submitted in reply that it faced an ‘information asymmetry’
+which required provision of Source Data to
+rectify. Without this information,
+Indi would be disadvantaged in preparing submissions to the Independent
+Accountant within the
+limited time frames prescribed by the
+to the provision of communications between InComm and Card Compliant, Indi
+submitted that it was ‘unquestionable that
+instructions were provided by
+InComm to Card Compliant’. Indi was seeking information relating to the
+production of reports
+and calculations pursuant to clauses 7.2, 7.4 and 7.11,
+which must include such
+instructions.
+D.2 Is Indi entitled to the information, including underlying ledgers and
+sample invoices, relating to the calculation of the December
+22 EBITDA (Base)
+pursuant to clause 7.2?
+74 InComm submitted that the parties had
+agreed to the December 22 EBITDA (Base) and ‘nothing in the evidence [was]
+a need to have a wholesale audit of the [December 22] EBITDA
+submitted that it was not necessary to resolve the question of whether Indi had
+agreed to InComm’s calculation of the
+December 22 EBITDA (Base), because
+Indi’s entitlement to the underlying material was independent of any
+agreement about the
+figure. Indi’s access to that material remained
+relevant insofar as the December 22 EBITDA (Base) was a figure that carried
+forward through the Further Payment calculation
+referred to Mr Mould’s concession in cross-examination that it would be
+necessary to consider the underlying ledgers
+and sample invoices to form a view
+Indi did not have
+access to that information. On that basis, Indi submitted that
+those materials fell within clause 7.2 because they are supporting
+information
+or documentation relevant to the calculation of the December 22 EBITDA
+D.3 Has InComm provided the Card Compliant reports?
+77 Indi submitted that the Card Compliant
+PDF reports did not adequately meet the description of Card Compliant reports
+despite the
+express obligation in clauses 7.2(a), 7.4(a), and 7.11(a)(i)
+requiring their provision. Indi emphasised that InComm had not produced
+‘single standalone report that satisfies [the] time period’ of
+78 Indi further submitted that the spreadsheets
+with tabs, including Card Compliant calculations, did not meet the description
+Card Compliant reports. Relying on the cross-examination of Mr
+Indi highlighted that the
+spreadsheets only included
+of Card Compliant reports and were
+not the reports
+themselves.
+submitted that the spreadsheets are the reports it has provided in fulfilment of
+its requirement to provide Card Compliant
+reports pursuant to clauses 7.2, 7.4,
+7.11 (rather than the Card Compliant PDF
+submitted that there is no dispute that the purported Card Compliant reports
+comprise reports regarding CY22. Rather, the
+issue raised by Indi is that these
+spreadsheets do not resemble the Card Compliant PDF reports. InComm pointed to
+evidence indicating that Card Compliant provided a report
+containing CY22 data alongside data from other years, and that the non-CY22
+was subsequently removed.
+D.4 Is Indi alternatively entitled to the Source Data, Breakage Brief,
+Card Compliant reports and communications, and documents relied
+upon to prepare
+the FP Notices under clause 7.16(a)?
+81 Indi’s primary submission was
+that reliance on clause 7.16(a) was unnecessary, because the information it
+sought was captured
+by clauses 7.2, 7.4 and 7.11. Nevertheless, it advanced
+clause 7.16(a) as an independent basis upon which it had requested and was
+entitled to receive the material it sought under those
+accepted that clause 7.16(a) required that the information sought was reasonably
+requested and that any information requested
+under the clause was for the
+purpose of preparing, reviewing or agreeing to the relevant FP Notices. It
+submitted that the information
+it sought satisfied those requirements because
+the FP Notice calculation involves both a calculation of the December 22 EBITDA
+as well as a calculation of the breakage amount and the information
+sought is information underlying these
+calculations.
+further submitted that it was not an answer to say that the FP Notice process
+had ‘played out’ for clauses 7.4
+and 7.11 because the FP Notices
+were still the subject of ongoing review, especially because the final
+determination of the Further
+Payment by the Independent Accountant was due to
+take place next year. Indi submitted that the requests for further information
+clause 7.16(a) were made in time, and it would be commercially unworkable
+for the obligation to provide information to be ineffective
+after that time had
+submitted that clause 7.16(a) had expired on its proper construction because the
+clause is expressly limited to be for the
+stipulated purpose of enabling Indi to
+review and agree to the FP
+submitted that clause 7.6 provides a window of 20 business days after which Indi
+would be deemed to have accepted the relevant
+FP Notice. This is an expedient
+process for seeking to reach agreement, and clause 7.16 is only available during
+this period. If
+a response by InComm was not provided in that period, despite a
+request, then Indi could seek specific performance within the period,
+period had elapsed, such a response would be rendered unnecessary because the
+process for reviewing and agreeing to the
+FP notice is ‘in the rear-view
+mirror’ and any ongoing disagreement could be resolved under the
+Independent Accountant
+submitted in the alternative that the request must also be reasonable. InComm
+submitted that a request for Source Data under
+this clause was not reasonable
+for the reasons advanced in respect of the construction of clause 7 and
+InComm’s analysis of
+the definition of Breakage Brief described above at
+reply to InComm’s submission that Indi’s entitlement to the
+information it requested pursuant to clause 7.16 expired
+within a limited
+period, Indi submitted that InComm’s construction would necessitate Indi
+troubling the court ‘at various
+points in time through the process in
+order ... to get access to information within the set time periods, which are
+not expressed
+D.5 Is Indi entitled to the material sought by Mr Carruth pursuant to
+clause 7.16(b)?
+88 Indi submitted that the information
+sought by Mr Carruth fell within clause 7.16(b) as ‘information and
+assistance that may
+be reasonably requested by the advisers of the ... Sellers
+in relation to the preparation of, review of, and agreement to, the draft
+final (as applicable) FP Notice and Final FP Notice (as
+applicable)’.
+submitted that InComm had the opportunity to respond to Mr Carruth’s
+reports and his requests for documentation. InComm
+had failed to do so in
+circumstances where it had filed an affidavit of Mr Mould, which did not at any
+point take issue with the
+categories of documents Mr Carruth had requested. Nor
+had Mr Mould suggested that the categories of documents were vague or that
+would be onerous to provide the documents. Counsel for Indi noted that Mr Mould,
+in cross-examination, accepted that general ledgers
+were readily available.
+Though a request for invoices and other underlying documents was unspecified as
+to their extent, Indi submitted
+that its extent would depend on the extent of
+the general ledger and how accurate its entries
+the hearing, Indi indicated that it no longer sought confirmation that the
+December 2022 Accounts were prepared in accordance
+with clause
+submitted that clause 7.16(b) was directed to supporting Indi’s review of
+FP Notices, and because the relevant 20
+business day period during which Indi
+was to raise any dispute regarding those FP Notices had elapsed, the entitlement
+to seek the
+assistance and information pursuant to clause 7.16(b) had also
+92 However,
+even if that entitlement had not elapsed, InComm submitted that Mr
+Carruth’s request for information, as set out
+in the Carruth Report, was
+directed to answering the question of whether he had sufficient documents to
+‘independently validate
+each of the components necessary for calculating
+the Further Payment’.
+approach is not one that is provided for in clauses 7.2, 7.4, 7.11 or 7.16 and
+would fly in the face of the whole structure
+of good faith negotiations provided
+submitted that Mr Carruth did not appear to have any expertise in answering
+questions relevant to the calculation of breakage
+(which is necessary for
+calculating the Further Payment). His experience as an accountant is focused on
+auditing a set of unaudited
+94 InComm submitted that the categories of
+documents requested by Mr Carruth were also expressed very generally. Indi was
+to demonstrate that categories of this width and in this manner are
+permissible under the SSA to be reasonably
+counsel for InComm suggested that one category, including general ledger entries
+and underlying transaction records ‘might
+well comprise every single
+business record’. Thus, Mr Carruth’s requested categories were not
+reasonable because they
+were so vague that there might be disputation about what
+is or is not captured. Instead, Mr Carruth should have requested tangible,
+discrete documents.
+D.6 Is Indi entitled to the Power BI extracts?
+96 In relation to the Power BI extracts,
+Indi conceded the link between those extracts to ‘supporting’
+information within
+the relevant subclauses of clause 7 was more difficult, but
+submitted that the Power BI extracts were nonetheless material that would
+a review falling within the terms of clause 7.16(a), and which would not be
+onerous and therefore unreasonable to
+submitted that any Card Compliant reports were not based on Power BI extracts,
+and that the SSA does not otherwise require
+InComm to provide data from Power BI
+E. LEGAL PRINCIPLES
+98 The legal principles relevant to the
+construction of a commercial contract are well established and are not in
+dispute. As the
+High Court has repeatedly emphasised:
+It is well established that the terms of a commercial contract are to be
+understood objectively, by what a reasonable businessperson
+understood them to mean, rather than by reference to the subjectively stated
+intentions of the parties to the contract.
+In a practical sense, this requires
+that the reasonable businessperson be placed in the position of the parties. It
+is from that
+perspective that the court considers the circumstances surrounding
+the contract and the commercial purpose and objects to be achieved
+Selak v National Tiles Co Pty
+, observing that these principles had been ‘addressed and
+restated in countless
+authorities’,
+set out the principles relating to the construction of commercial contracts in
+greater detail:
+The proper approach to the construction of commercial contracts was succinctly
+stated by the Court of Appeal in
+PCCEF Pty Ltd v Geelong Football Club Ltd
+The judge set out the principles governing the construction of the Lease in a
+manner that in uncontroversial. In short, the primary
+duty of a court construing
+a written contract is to endeavour to discover the intention of the parties from
+the words of the instrument
+in which the contract is embodied. The meaning of
+the contractual terms is to be determined objectively, by reference to what a
+business person would have understood the terms to
+The proper approach
+involves consideration of the language used by the parties, the surrounding
+circumstances known to them and the
+commercial purpose or objects to be secured
+by the contract or lease.
+Ordinarily, the process of construction is possible by reference to the contract
+At least where the
+language of the commercial contract is ambiguous or susceptible of more than one
+meaning, evidence of the surrounding
+circumstances is admissible to assist in
+the interpretation of the
+The Court of Appeal in
+Aventus Cranbourne Thompsons Road Pty Ltd v Home
+Consortium Leasehold Pty
+addressed the
+topic in more detail, in the following terms:
+The general principles applicable to the construction of contracts apply
+equally to leases.
+general principles to be applied in the construction of commercial contracts
+were summarised by French CJ, Nettle and Gordon
+Mount Bruce Mining Pty
+Ltd v Wright Prospecting Pty Ltd
+in the following terms:
+The rights and liabilities of parties under a provision of a contract are
+determined objectively, by reference to its text, context
+(the entire text of
+the contract as well as any contract, document or statutory provision referred
+to in the text of the contact)
+and purpose.
+In determining the meaning of the terms of a commercial contract, it is
+necessary to ask what a reasonable businessperson would have
+understood those
+terms to mean. That inquiry will require consideration of the language used by
+the parties in the contract, the
+circumstances addressed by the contract, and
+the commercial purpose or objects to be secured by the contract.
+Ordinarily, this process of construction is possible by reference to the
+contract alone. Indeed, if an expression in a contract is
+unambiguous or
+susceptible of only one meaning, evidence of surrounding circumstances (events,
+circumstances and things external
+to the contract) cannot be adduced to
+contradict its plain meaning.
+However, sometimes, recourse to events, circumstances and things external to
+the contract is necessary. It may be necessary in identifying
+the commercial
+purpose or objects of the contract where that task is facilitated by an
+understanding ‘of the genesis of the
+transaction, the background, the
+context [and] the market in which the parties are operating’. It may be
+necessary in determining
+the proper construction where there is a constructional
+Each of the events, circumstances and things external to the contract to
+which recourse may be had is objective. What may be referred
+to are events,
+circumstances and things external to the contract which are known to the parties
+or which assist in identifying the
+purpose or object of the transaction, which
+may include its history, background and context and the market in which the
+parties were
+operating. What is inadmissible is evidence of the parties’
+statements and actions reflecting their actual intentions and expectations.
+Other principles are relevant in the construction of commercial contracts.
+Unless a contrary intention is indicated in the contract,
+a court is entitled to
+approach the task of giving a commercial contract an interpretation on the
+assumption ‘that the parties
+... intended to produce a commercial
+result’. Put another way, a commercial contract should be construed so as
+to avoid it
+‘making commercial nonsense or working commercial
+inconvenience’.
+Ecosse Property Holdings Pty Ltd v Gee Dee Nominees Pty Ltd
+Kiefel, Bell and Gordon JJ said:
+It is well established that the terms of a commercial contract are to be
+understood objectively, by what a reasonable businessperson
+understood them to mean, rather than by reference to the subjectively stated
+intentions of the parties to the contract.
+In a practical sense, this requires
+that the reasonable businessperson be placed in the position of the parties. It
+is from that
+perspective that the court considers the circumstances surrounding
+the contract and the commercial purpose and objects to be achieved
+Clause 4 is to be construed by reference to the commercial purpose sought to
+be achieved by the terms of the lease. It follows, as
+was pointed out in the
+joint judgment in
+Electricity Generation Corporation v Woodside Energy
+, that the court is entitled to approach the task of construction of the
+clause on the basis that the parties intended to produce
+a commercial result,
+one which makes commercial sense. It goes without saying that this requires that
+the construction placed upon
+cl 4 be consistent with the commercial object of
+the agreement.
+In addition, the Court must have regard to all of the words used in the
+agreement ‘so as to render them all harmonious one with
+and to ensure
+the ‘congruent operation [of] the various components [as] a
+Thredbo Pty Ltd v Commissioner of Taxation (Cth)
+, the High Court observed
+that: ‘permitted use provisions, like any other provision in a written
+document, must be construed
+according to their terms and as part of the entire
+Drawing on the reasons of Tate JA in
+Apple and Pear Australia Ltd v Pink
+Lady America LLC
+emphasised that while a court should construe a commercial
+contract to avoid commercial nonsense, it is not part of its role to construe
+agreement that otherwise has an explicable commercial result in a manner that
+increases the commercial benefits to one party to
+The instructive observations of the High Court in
+Ecosse Property Holdings
+Pty Ltd v Gee Dee Nominees Pty
+regarding the
+role of the honest and reasonable businessperson, and poorly drafted agreements,
+also warrant extraction:
+Finally, it is to be observed that, even if the resultant lease were
+considered to be a remarkably poor deal from the Lessor’s
+point of view
+(and, to repeat, it is not obvious that it should be so regarded), the precept
+that commercial contracts be construed
+as it is thought an honest and reasonable
+businessperson would construe them will stretch only so far. As Lord Mustill
+observed in
+Charter Reinsurance Co Ltd v
+“There comes a point at which the court should remind itself that the
+task is to discover what the parties meant from what they
+said, and that to
+force upon the words a meaning which they cannot fairly bear is to substitute
+for the bargain actually made one
+which the court believes could better have
+been made. This is an illegitimate role for a court.”
+Poor drafting may justify a court in being more ready to depart from the
+natural and ordinary meaning of the terms of a
+and no doubt, the
+poorer the drafting, the less willing a court should be to be “driven by
+semantic niceties to attribute to
+the parties an improbably and unbusinesslike
+intention”.
+drafting provides “no reason to depart from the fundamental rule of
+construction of contractual documents that the
+intention of the parties must be
+ascertained from the language they have used interpreted in the light of the
+relevant factual situation
+in which the contract was
+Where there is
+ambiguity which permits of two alternative and semantically not improbable
+interpretations, construction in accordance
+with what it may be supposed would
+be the approach of honest and reasonable businesspersons may assist in choosing
+one such alternative
+over the other. But where, as here, the language and
+surrounding circumstances of a commercial contract present a choice between,
+the one hand, a plain, ordinary and commercially not irrational meaning of a
+clause and, on the other, a meaning which is significantly
+removed from the
+natural and ordinary meaning of the terms of the clause, which ill-accords with
+other provisions of the agreement,
+and which in the end produces an outcome that
+is more commercially acceptable from one of the parties’ point of view
+the precept runs out of application. Unless the Anglo-Australian objective
+theory of contract is now to be cast aside, the commercial
+approach to
+construction
+is not a licence
+to alter the meaning of a term that is “clear and fairly susceptible of
+one meaning only” to achieve
+a result that the court may think to be
+reasonable.
+The court is not
+authorised under the guise of construction to make a new contract for the
+parties at odds with the contract to which
+Where, as here, all
+things considered, the words of a clause are fairly susceptible of only one
+meaning, they must be given that
+100 There is also a well-established
+presumption in the construction of commercial contracts, as in the
+interpretation of statutes
+and wills, that words and phrases appearing more than
+once have the same construction in each instance they
+Walsh v Alexander
+Isaacs J — considering an ambiguous statutory phrase — applied a
+statement by Sir Lindley MR in a will case:
+[I]f you find in the one part of a document — whether an Act or other
+instrument — a word or phrase used in a manner
+that leaves no doubt as to
+its definite meaning, there is a presumption that it is so used elsewhere,
+where, by itself, its meaning
+is not clear. The immediate context may, of
+course, alter that; but the presumption is a fair one to start with. Lindley MR
+that whether such a consideration is law, or a canon of construction, he
+does not know, but he regards it as good sense; and he acted
+on it. Sir Francis
+Jeune, in the same case, said that to proceed otherwise would be doing less than
+justice to common sense. See
+In re Birks; Kenyon v
+Of course, it is
+only a working rule, and has to yield to the control of the words in connection
+with which in any particular place
+the word or phrase in question is
+Craig Williamson Pty Ltd v
+Barrowcliff
+, Hodge J stated:
+I think it is a fundamental rule of construction that any document should be
+construed as far as possible so as to give the same
+meaning to the same words
+wherever those words occur in that document, and that that applies especially to
+an Act of Parliament,
+and with especial force to words contained in the same
+section of an Act. There ought to be very strong reasons present before the
+Court holds that words in one part of a section have a different meaning from
+the same words appearing in another part of the same
+103 These statements have later been
+employed by the Victorian Court of Appeal in commercial contract cases. Nettle
+JA cited the decision
+of Isaacs J in
+in construing the service
+provisions of a deed in
+APN Funds Management Ltd v Australian Property
+Investment Strategic Pty
+In that case, clause
+5 of the relevant contract provided that a put option may be exercised by
+‘delivering’ a relevant
+notice, but was silent as to the permissible
+means of delivery. Clause 16 relevantly distinguished between ‘hand
+and ‘delivery’. Accordingly, ‘delivery’
+in clause 5 was not confined to ‘hand delivery’, as it
+presumed, in the absence of any indication to the contrary, that terms were used
+consistently throughout the
+104 The presumption was again referred to by the
+Victorian Court of Appeal in
+Lumley General Insurance Ltd v Port Phillip City
+where Santamaria
+JA (Nettle and Weinberg JJA agreeing), in identifying who the relevant
+‘insured’ was under a policy
+of insurance, stated:
+The last reference to ‘Insured’ must be a reference to Kane alone.
+There is nothing to disturb the presumption that,
+where the same word is used on
+more than one occasion in the same clause, its meaning in each such use will be
+105 A differently constituted Court of
+Dura (Australia) Constructions Pty Ltd v Hue Boutique Living Pty
+stated that:
+As senior counsel for Dura properly conceded, it is a principle of contractual
+interpretation — as it is of statutory interpretation
+— that, where
+parties to a carefully drafted agreement have used the same word more than once
+in the document, they intended
+that it have the same meaning each
+This is, of course, a
+rebuttable presumption. The particular context in which a word is used may
+disclose a contrary
+106 In that case, a builder contended
+that it was not bound by a superintendent’s certificate as the
+superintendent’s
+processes had not complied with the requirements of the
+contract. Specifically, it argued that in order to ‘ascertain’
+cost to complete work under clause 44.6, the costs must be known with precision
+and could not be estimated using experience,
+judgment or discretionary
+decision-making. Rejecting this
+the Court referred
+to the use of the word ‘ascertain’ in clause 40.5, concluding:
+It is clear from the language of this clause that the parties intended by their
+use of the word “ascertain” to authorise
+a process of computation
+which would, where necessary, involve judgment, estimation and approximation
+It is to be presumed that the parties intended the word “ascertain”
+to have the same meaning in cl 44.6 There is nothing
+in the language or context
+of cl 44.6 to suggest otherwise. It follows that they intended to authorise the
+Superintendent, when carrying
+out the task of “ascertainment” under
+cl 44.6, to exercise judgment where necessary. What the Superintendent did ...
+was therefore within the scope of the “ascertainment” function
+conferred on him by cl 44.6. The parties are therefore
+bound by the
+Superintendent’s certificate. That conclusion is sufficient to dispose of
+this ground of appeal.
+F. CONSIDERATION
+F.1 Is Indi entitled to Source Data, the Breakage Brief, communications
+between InComm and Card Compliant, and documents relied upon
+to prepare the FP
+Notices, pursuant to clauses 7.2, 7.4 and 7.11?
+F.1.1 The proper construction of ‘supporting information,
+calculations and documentation’
+107 The phrase ‘supporting
+information, calculations and documentation’ must be construed according
+to its natural and
+ordinary meaning, understood in the commercial context in
+which it appears.
+108 The phrase as a whole —
+‘supporting information, calculations and documentation’ — is
+drafted in broad
+terms. Each individual word carries wide import, and the
+cumulative effect is to require provision of comprehensive material sufficient
+to enable meaningful review and
+verification.
+109 The construction of this phrase
+must also be informed by the commercial purpose and context of clause 7 as a
+whole. Clause 7 establishes
+a sophisticated mechanism for calculating the
+Further Payment, which may amount to many millions of dollars. The calculation
+on complex estimates of breakage (unspent amounts on gift cards) which
+in turn depend on statistical analysis of historical spending
+treatment of different card types and sales channels, and judgments about future
+spending behaviour.
+110 The SSA recognises that
+these calculations are complex and potentially contentious. It therefore
+provides for:
+(a) multiple stages of
+calculation and review (clauses 7.2, 7.4, 7.11,
+(b) defined time periods for review and
+response (clause 7.6);
+(c) a structured dispute
+resolution process through good faith negotiations (clause 7.10);
+(d) ultimate determination by an Independent
+Accountant if disputes cannot be resolved (clauses
+7.13–7.14).
+111 This elaborate structure would be
+undermined if the phrase ‘supporting information, calculations and
+documentation’
+were construed narrowly. If Indi receives only summary
+figures or high-level explanations, it cannot conduct the meaningful review
+clause 7 contemplates. The 20 business day review period in clause 7.6 would be
+illusory if Indi does not receive sufficient
+information to identify whether
+there are errors or grounds for
+112 Moreover, the Independent Accountant
+process under clause 7.13 expressly contemplates that the Independent Accountant
+will ‘review
+the documents submitted by the relevant parties’ and
+may ‘request specific historical documents’. If Indi is to
+effective submissions to the Independent Accountant, it must have access to the
+same underlying information that InComm possesses.
+Information asymmetry would
+fundamentally compromise the fairness of the Independent Accountant
+113 The commercial purpose of requiring
+provision of ‘supporting information, calculations and
+documentation’ is therefore
+clear: to enable informed review, to
+facilitate identification of any errors or disputes, to support good faith
+negotiations, and
+to ensure that any Independent Accountant determination is
+based on complete information. This purpose can only be achieved if the
+is given its natural, broad meaning.
+evident from the foregoing authorities, it is a well-established principle of
+contractual interpretation that the same words
+appearing in different parts of a
+contract should, absent contextual indications to the contrary, be given the
+same meaning.
+115 The phrase ‘together with
+supporting information, calculations and documentation’ appears in
+substantially identical
+form in clauses 7.1, 7.2, 7.4, 7.11(a) and 7.12(a).
+There is no apparent reason why this phrase should bear different meanings in
+different clauses. Indeed, consistency of interpretation promotes certainty and
+accords with commercial common sense.
+7.12 is particularly instructive. Under clause 7.12(a), InComm must calculate
+the December 22 Breakage (Final) and related
+figures itself, without reliance on
+Card Compliant reports. The calculation must be ‘provide[d]... together
+with supporting
+information, calculations and documentation’. It is
+self-evident that such calculations cannot be made, nor meaningfully reviewed,
+without access to the underlying Source Data from TCNAdmin. The December 22
+Breakage (Final) must be based on actual data regarding
+card balances, expiry
+dates, and amounts spent — precisely the information contained in Source
+117 If ‘supporting information,
+calculations and documentation’ in clause 7.12 in respect of the
+calculation of the December
+22 Breakage (Final) necessarily includes Source
+Data, the same phrase in clauses 7.2, 7.4 and 7.11 must bear the same meaning.
+hold otherwise would be to treat identical contractual language
+inconsistently without justification.
+118 Similarly,
+clause 7.1 requires the Sellers to provide calculations ‘together with
+supporting information, calculations and
+documentation’. Although there is
+no time limit imposed on this obligation in clause 7.1, the presence or absence
+of time limits
+in particular clauses does not alter what constitutes
+‘supporting information, calculations and documentation’ —
+merely affects when such material must be provided.
+F.1.2 The significance of the Card Compliant reports being based on
+Source Data
+119 Mr Mould conceded in
+cross-examination that the Card Compliant reports were dependent on the Source
+Data extracted from TCNAdmin.
+This concession is significant.
+120 If Card
+Compliant’s calculations and reports are based on Source Data then that
+Source Data necessarily forms part of the
+‘supporting information,
+calculations and documentation’ for the breakage estimates. One cannot
+properly review, verify
+or understand Card Compliant’s methodology and
+conclusions without access to the underlying data upon which those conclusions
+121 This is particularly so given the
+complexities acknowledged in the SSA itself. Schedule 7 recognises
+different treatment for different
+sales channels (grocery versus B2B), different
+card products with varying characteristics, and the need to consider ‘the
+transaction code mapping schedule’. These matters cannot be
+meaningfully assessed without the underlying data.
+F.1.3 The discrepancies in Issue Amounts
+122 The evidence reveals troubling
+discrepancies in Issue Amounts, being the value of gift cards sold in CY22,
+across the various
+materials provided by InComm. These discrepancies amount to
+approximately $1.5 million, a figure that Indi notes is not insubstantial
+context of breakage calculations.
+123 Mr Mould
+explained, in cross-examination, that these discrepancies arose from
+‘kick-outs’, that is, cards excluded
+from calculations due to data
+inconsistencies. However, the Card Compliant PDF reports indicated kick-outs
+totalling only approximately
+$21,000, creating a further unexplained discrepancy
+of significant magnitude.
+124 These inconsistencies
+cannot be investigated, explained or resolved without access to the Source Data.
+The very existence of these
+discrepancies demonstrates why Source Data
+constitutes necessary ‘supporting information’ — without it,
+Indi cannot
+understand whether InComm’s calculations are correct or
+whether errors have been made.
+F.1.4 InComm’s construction arguments
+125 InComm advances several arguments
+against requiring provision of Source Data.
+126 First, it points to Part 3 of Schedule 7, which
+provides that ‘Card Compliant has final determination of its calculations
+and report’. InComm submits this demonstrates that the parties intended to
+rely on Card Compliant’s expertise without
+requiring granular scrutiny of
+underlying data.
+127 This argument cannot be
+accepted. The phrase ‘final determination’ in the context of the
+Breakage Brief refers to
+Card Compliant’s methodology and professional
+judgment in conducting its analysis — it does not operate to shield the
+underlying data from review.
+Compliant’s ‘final determination’ must still be reviewable by
+Indi to enable Indi to exercise its rights
+under clauses 7.6–7.10 to
+disagree with InComm’s calculations and engage in good faith
+negotiations.
+129 Moreover, the Independent
+Accountant dispute resolution process in clauses 7.13–7.14 contemplates
+substantive review of
+‘Disputed FP Matters’. This process would be
+meaningless if Indi were denied access to the foundational data necessary
+formulate and support its position. An Independent Accountant cannot determine
+disputed breakage calculations without access to
+Source Data, and Indi must have
+that same data to prepare its
+submissions.
+130 Secondly, InComm contends that the
+structure of clause 7 provides for an ‘expedient process’ with
+limited review windows,
+and that requiring provision of Source Data is
+inconsistent with this expedited structure. InComm characterises the earlier
+as provisional, with stage five (the Final FP Notice under clause 7.12)
+being the ‘main game’.
+submission misconceives the operation of clause 7. While the SSA does provide
+time limits for review and dispute, these limits
+operate to ensure the process
+moves forward — they do not diminish the content of what must be provided
+at each stage. The
+20 business day review period in clause 7.6 requires Indi to
+act promptly, but it does not permit InComm to provide inadequate information
+the first place.
+132 Further, Indi has consistently
+and promptly sought additional information at each stage. Its requests for
+Source Data in respect
+of the Second Estimate (clause 7.4) and Third Estimate
+(clause 7.11) were made within the applicable time frames. The fact that those
+stages have now passed does not retrospectively validate InComm’s failure
+to provide required information.
+133 Thirdly, InComm
+submits that, if the parties had intended to require provision of Source Data,
+they could have said so explicitly.
+By the same logic, if parties had intended
+‘supporting information, calculations and documentation’ to exclude
+Data, they could have said so explicitly. The question is what the phrase
+means as a matter of construction, not whether it could
+have been drafted more
+134 The phrase ‘supporting
+information, calculations and documentation’ is naturally apt to capture
+underlying data. ‘Supporting
+information’ is a broad phrase that
+encompasses material that underlies, explains or substantiates the calculations
+Source Data plainly falls within this description.
+F.1.5 Conclusion on Source Data
+135 For these reasons, I find that
+‘supporting information, calculations and documentation’ in clauses
+7.2, 7.4 and 7.11
+includes Source Data. InComm was obliged to provide Source
+Data under these clauses and has failed to do so. Indi is entitled to
+requiring provision of that material.
+F.1.6 The Breakage Brief
+136 The Breakage Brief is defined in
+clause 1 of the SSA as ‘the instructions to Card Compliant to be given by
+the Buyer for
+the reports for Breakage in clause 7 accounting for paragraphs (b)
+and (d) of Part 2 of Schedule 7, as set out in Part 3 of Schedule
+137 Part 3 of Schedule 7 specifies the
+matters that Card Compliant ‘must be instructed’ to consider,
+including the differences
+between ‘grocery’ and
+‘corporate/B2B’ sales, each product channel based on a program
+profile, all card data
+for the relevant period as compiled by TCN, the specific
+transaction code mapping schedule, and the Australian market
+characteristics.
+138 Clauses 7.2(a), 7.4(a) and
+7.11(a)(i) each expressly require InComm to procure Card Compliant to
+‘calculate and provide
+a report (on the basis of the Breakage
+Brief)’. This makes clear that the Card Compliant reports are to be
+prepared following
+the instructions and parameters set out in the Breakage
+F.1.7 The relationship between Source Data and the Breakage
+139 The Breakage Brief likely includes or
+incorporates the Source Data, given that Part 3(c) of Schedule 7 refers to
+data for the relevant period as compiled by the Company’.
+However, the Breakage Brief is broader than Source Data alone. It
+encompasses
+not merely the raw data, but the instructions, specifications, and contextual
+information necessary to enable Card Compliant
+to analyse that data in
+accordance with the SSA’s requirements — including how different
+sales channels are to be treated,
+which product channels are to be analysed, how
+transaction codes are to be mapped, and what methodologies are to be
+140 The Breakage Brief is plainly
+‘supporting information’ and ‘documentation’ within the
+meaning of clauses
+7.2, 7.4 and 7.11. It is the foundational instructional
+document that defines the scope and parameters of Card Compliant’s
+Without it, Indi cannot verify that Card Compliant was properly instructed in
+accordance with Part 3 of Schedule 7, or that
+the instructions given align with
+the contractual requirements.
+141 InComm’s
+submission that Part 3 of Schedule 7 acknowledges ‘Card Compliant has
+final determination of its calculations
+and report’ does not assist. As
+discussed above, this phrase relates to Card Compliant’s professional
+methodology and
+judgement — it does not shield the instructions Card
+Compliant was given from scrutiny. The very purpose of defining and requiring
+Breakage Brief is to ensure that Card Compliant’s analysis is conducted on
+a specified basis aligned with the SSA’s
+requirements. If the Breakage
+Brief actually provided by InComm to Card Compliant departed materially from
+Part 3 of Schedule 7,
+this would be a matter Indi is entitled to identify and
+142 Part 3 of Schedule 7 refers to specific
+documents that form part of the Breakage Brief: the program profile identifying
+and channel characteristics (Part 3(b)), card data for the relevant
+period (Part 3(c)), and the transaction code mapping schedule
+(Part 3(d)). Card
+Compliant cannot conduct its analysis based solely on the contractual language
+in Schedule 7 — it requires
+specific, concrete instructions identifying
+the actual data sources, files, transaction codes, product channels, and other
+for TCN’s particular business and the particular reporting
+143 Notwithstanding the evidence relating to
+the provision of instruction profiles on 16 April 2025, InComm’s
+evidence does
+not clearly address whether the Breakage Brief was provided to
+Indi. Given the technical nature of the information Card Compliant
+(data files, transaction codes, product specifications), these instructions must
+have taken documentary form — whether
+as briefing documents, email
+instructions, data specifications, or some combination thereof.
+144 I am therefore satisfied that the Breakage
+Brief — being the actual instructions, data specifications, and supporting
+provided by InComm/TCN to Card Compliant for each report under clauses
+7.2(a), 7.4(a) and 7.11(a)(i) — constitutes ‘supporting
+information,
+calculations and documentation’ that InComm was required to provide and
+must now provide to Indi.
+145 This encompasses:
+(a) all briefing documents,
+instructions, or data specifications provided to Card
+(b) the program profiles identifying
+product characteristics (Part 3(b) of
+Schedule 7);
+(c) the transaction code mapping
+schedule (Part 3(d) of Schedule 7);
+(d) data files
+regarding card data for the relevant period (Part 3(c) of Schedule 7), to the
+extent not already provided as Source
+(e) any supplementary instructions,
+clarifications, or modifications provided to Card Compliant.
+146 To the extent the Source Data forms
+part of the Breakage Brief, there is no need for duplicate production.
+F.1.6 Communications with Card Compliant
+147 Indi also seeks communications
+between InComm and Card Compliant relating to the preparation of the Card
+Compliant reports. Mr
+Mould gave evidence that instructions provided by InComm
+to Card Compliant took the form of emails or occurred during Teams meetings
+conversations.
+communications as exist fall within ‘supporting information’ or
+‘documentation’ to the extent that
+they relate to the preparation of
+the Card Compliant reports required under clauses 7.2(a), 7.4(a) and 7.11(a)(i).
+Instructions given
+to Card Compliant, clarifications sought or provided, and any
+exchanges regarding methodology or data issues would all constitute
+supporting documentation.
+149 The Breakage Brief
+defined in Schedule 7 and the SSA’s express references to Card Compliant
+being instructed ‘on the
+basis of the Breakage Brief’ make clear
+that communications between InComm and Card Compliant are part of the
+documentation
+trail for the Card Compliant reports. To the extent such
+communications exist, they must be provided. This would include the Breakage
+Brief itself, to the extent that it extends beyond the Source Data.
+F.1.7 Documents relied upon to prepare the FP Notices
+150 The FP Notices under clauses 7.4 and
+7.11 were based on material provided to and received from Card Compliant. The
+evidence establishes
+that InComm extracted Source Data from TCNAdmin and
+provided it to Card Compliant, which in turn used that Source Data to prepare
+its reports calculating breakage estimates. InComm then took those Card
+Compliant reports into consideration (as expressly required
+by clauses 7.4 and
+7.11) in calculating the December 22 EBITDA estimates and the Further Payment
+set out in the FP Notices.
+151 It follows that the
+Source Data provided to Card Compliant, and the reports and working files
+received from Card Compliant, are
+foundational documents underlying
+InComm’s calculations. Without access to these materials, Indi cannot
+verify whether the
+Card Compliant reports are correct, and therefore cannot
+verify whether InComm’s calculations based on those reports are
+152 The provision of
+‘hard-coded’ spreadsheets without underlying formulas or data
+sources compounds this problem. Such
+spreadsheets show only final results, not
+the calculation process or the data inputs. They do not permit meaningful
+verification.
+This is particularly significant given the SSA’s provision
+for dispute resolution by an Independent Accountant. Both Indi (in
+submissions) and the Independent Accountant (in determining disputes) will
+require access to the Source Data provided to
+Card Compliant and the reports
+received from Card Compliant. These materials cannot sensibly be excluded from
+‘supporting information,
+calculations and
+documentation’.
+153 The discrepancies in Issue
+Amounts across different FP Notices, which Mr Mould explained resulted from
+‘kick-outs’,
+demonstrate why access to the underlying Source Data is
+necessary. Without that data, Indi cannot understand which cards were included
+or excluded from calculations, or verify the correctness of those decisions.
+F.2 Is Indi entitled to the information, including underlying ledgers and
+sample invoices relating to the calculation of the December
+22 EBITDA (Base)
+pursuant to clause 7.2?
+154 Clause 7.2(b) requires InComm to
+‘calculate the December 22 EBITDA (Base)’ and clause 7.2 requires
+provision of this
+calculation ‘together with supporting information,
+calculations and documentation’.
+submits that the parties have agreed to the December 22 EBITDA (Base) figure and
+therefore no further information need
+be provided. Indi responds that its
+entitlement to underlying documentation is independent of whether agreement has
+been reached,
+and remains relevant because the December 22 EBITDA (Base) is
+carried forward into subsequent calculations.
+accept Indi’s submission on this point. The December 22 EBITDA (Base) is
+not a standalone figure — it is expressly
+incorporated into subsequent
+calculations under clauses 7.4(b), 7.11(a)(ii) and 7.12(a)(ii).
+157 Part 2(e) of Schedule 7 provides that the
+‘December 22 EBITDA (Base) must be calculated using the EBITDA derived
+December 22 Accounts’. Part 2(f) then provides that the December
+22 EBITDA (Second Estimate), (Third Estimate) and (Final)
+must all be
+‘calculated using the December 22 EBITDA (Base) adjusted to include’
+the relevant breakage estimates.
+158 Thus, the
+December 22 EBITDA (Base) is a foundational figure that flows through every
+subsequent stage of the Further Payment
+calculation. Any error in that figure
+would carry through and affect the ultimate Further Payment. Indi is entitled to
+correctness of this foundational
+159 Mr Mould conceded, in cross-examination,
+that it would be necessary to consider underlying ledgers and sample invoices to
+a view about the correctness of the December 22 EBITDA (Base) calculation.
+He also acknowledged that Indi does not have access to
+that information. This
+evidence supports the conclusion that such material constitutes
+‘supporting information’ or ‘documentation’
+purposes of clause 7.2.
+160 General ledgers
+recording the revenue and expenses of TCN during CY22 are clearly supporting
+information for the calculation of
+December 22 EBITDA (Base). These ledgers show
+the transactions from which EBITDA is derived and are necessary to verify that
+calculation has been performed correctly and in accordance with Schedule
+161 Sample invoices and underlying transactional
+records provide a further level of verification. While every invoice need not be
+produced (a matter I address further below in considering clause 7.16(b)), some
+representative samples are reasonably required to
+verify that ledger entries
+accurately reflect the underlying business
+transactions.
+162 InComm’s suggestion that
+agreement to the December 22 EBITDA (Base) precludes any entitlement to
+supporting documentation
+must be rejected. First, it is not clear that Indi has
+unconditionally agreed to the figure — Indi’s correspondence has
+consistently maintained that InComm has not provided adequate supporting
+information. Secondly, even if there has been practical
+agreement for the
+purposes of progressing through the clause 7 process, this does not waive
+Indi’s contractual entitlement
+to the supporting information to which it
+is entitled.
+163 The commercial purpose of requiring
+provision of supporting information is to enable informed review and
+verification. This purpose
+is not defeated simply because parties reach
+pragmatic agreement to proceed to the next stage. Indi remains entitled to
+correctness of calculations that affect the ultimate Further Payment,
+particularly given that the matter may proceed to Independent
+determination.
+164 I therefore consider that Indi is
+entitled to general ledgers and a reasonable sample of underlying invoices and
+transactional
+records relating to the calculation of December 22 EBITDA (Base)
+pursuant to clause 7.2.
+F.3 Has InComm provided the Card Compliant reports?
+165 Clauses 7.2(a), 7.4(a) and 7.11(a)(i)
+each require InComm to ‘procure Card Compliant, LLC or its successor... to
+and provide a report’ for specified breakage
+166 The evidence establishes that InComm
+has provided two categories of documents it characterises as fulfilling this
+obligation:
+(a) the Card Compliant PDF
+reports produced in March 2023, February 2024 and November 2024;
+(b) spreadsheets containing what Mr Mould
+described as extracts from Card Compliant reports (the purported Card Compliant
+167 Indi submits that neither category
+satisfies the contractual requirement.
+relation to the Card Compliant PDF reports, Indi points to extensive redactions
+and the fact that the reports cover a transaction
+period from 2019 to 2024,
+rather than focusing on CY22.
+169 In relation to
+the purported Card Compliant reports, Indi submits these are merely spreadsheets
+containing extracts rather than
+the actual reports themselves.
+F.3.1 The Card Compliant PDF reports
+170 The Card Compliant PDF reports cannot
+be accepted as fulfilling InComm’s obligations under clauses 7.2(a),
+7.4(a) and 7.11(a)(i)
+for several
+171 First, these reports were produced only
+in July 2025,
+long after the
+deadlines for provision of reports under clauses 7.2 (which required provision
+within 40 business days after 31 December
+2022), 7.4 (which required provision
+within 40 business days after 31 December 2023) and 7.11 (which required
+provision within 40
+business days after 31 December 2024). While timing alone
+might not be fatal if the reports were ultimately provided, the late production
+compounds the other deficiencies.
+172 Secondly, many
+of the reports are extensively redacted. Large portions of the reports are
+blacked out, preventing Indi from understanding
+Card Compliant’s full
+methodology, assumptions and calculations. A redacted report cannot constitute
+adequate provision of
+a report for the purposes of enabling review under clauses
+173 Thirdly, and most significantly,
+the reports do not provide the calculations specifically required by the
+relevant clauses. Clauses
+7.2(a)(i), 7.4(a)(i) and 7.11(a)(i) each require
+reports ‘for the’ specified breakage estimates — that is,
+on CY22 gift cards. The Card Compliant PDF reports span either
+2019–2022 or 2019–2024, making it difficult or impossible
+to extract the specific CY22 calculations
+174 Fourthly, Mr Mould’s evidence
+did not clearly identify the Card Compliant PDF reports as the documents InComm
+relies upon
+to fulfill its obligations under clauses 7.2(a), 7.4(a) and
+7.11(a)(i). Instead, InComm’s submissions focus on the purported
+Compliant reports contained in
+spreadsheets.
+F.3.2 The purported Card
+Compliant reports in spreadsheets
+submits that the spreadsheets it has provided — containing tabs with Card
+Compliant logos and calculations —
+constitute the Card Compliant reports
+required under clauses 7.2(a), 7.4(a) and
+7.11(a)(i).
+176 This submission cannot be accepted.
+The evidence establishes that these spreadsheets were prepared by Mr Mould and
+contain extracts
+or summaries from Card Compliant reports, not the reports
+themselves. Mr Mould confirmed, in cross-examination, that the spreadsheet
+were extracts of Card Compliant reports, not complete
+contractual obligation is to ‘procure Card Compliant, LLC ... to calculate
+and provide a report’. This language
+contemplates Card Compliant producing
+a report, not InComm or TCN personnel extracting portions of Card Compliant
+material and incorporating
+spreadsheets.
+178 The distinction is material. A
+report prepared by Card Compliant would include:
+(a) Card Compliant’s
+methodology and assumptions;
+(b) explanations of how
+data was treated;
+(c) discussion of any data quality
+issues or adjustments;
+(d) Card Compliant’s
+professional conclusions and qualifications;
+(e) complete calculations showing how final
+figures were derived.
+179 By contrast, spreadsheet extracts
+prepared by Mr Mould may omit relevant context, methodology and explanatory
+material. They present
+selected numbers without the supporting narrative and
+analysis that would be included in a proper
+180 Moreover, the fact that these
+spreadsheet tabs are ‘hard-coded’ — containing only final
+numbers without the
+underlying formulas or data — reinforces that they are
+summaries rather than the actual reports. The SSA does not contemplate
+of summaries; it requires provision of the reports
+themselves.
+181 InComm’s reliance on Mr
+Mould’s evidence that Card Compliant provided reports containing CY22 data
+alongside data
+from other years, and that other data was simply
+‘removed’, does not assist. If Card Compliant provided reports,
+reports should have been provided to Indi in the form Card Compliant
+prepared them (subject to any legitimate redactions for proprietary
+information
+unrelated to the SSA calculations). What should not occur is InComm filtering or
+restructuring Card Compliant’s
+reports and then claiming to have provided
+‘the Card Compliant reports’.
+therefore satisfied that InComm has not provided the Card Compliant reports
+required under clauses 7.2(a), 7.4(a) and 7.11(a)(i).
+InComm must provide the
+actual reports prepared by Card Compliant in unredacted form to the extent they
+relate to the calculations
+required under the SSA.
+F.4 Is Indi alternatively entitled to the Source Data, Breakage Brief,
+Card Compliant reports and communications, and documents relied
+upon to prepare
+the FP Notices
+under clause 7.16(a)?
+183 Clause 7.16 provides an independent
+basis upon which Indi may seek information. Given my conclusions above that Indi
+is entitled
+to Source Data and other materials under clauses 7.2, 7.4 and 7.11,
+the question of clause 7.16(a) arises only as an alternative
+entitlement.
+184 Clause 7.16(a) requires InComm to
+procure TCN to ‘permit representatives of the Buyer and the Sellers to
+have access to
+and take extracts from the books, correspondence, accounts or
+other records relating to the Group as the Buyer or the Sellers reasonably
+request in relation to the preparation of, review of, and agreement to, the
+draft and final (as applicable) FP Notice and Final FP
+185 InComm’s primary submission
+is that this clause has ‘expired’ because the time periods for
+review of the FP
+Notices under clauses 7.6 and 7.10(b) have passed. InComm
+characterises the review and agreement process as being ‘in the rear-view
+mirror’ and suggests that clause 7.16(a) is no longer
+186 This construction must be rejected
+for several reasons.
+F.4.1 The ongoing nature of the review and agreement
+187 First, the FP Notices have not been
+agreed. Indi has consistently disputed the calculations in the notices provided
+under clauses
+7.4 and 7.11. Clause 7.6 provides a 20 business day period for
+Indi to examine and review, but if Indi disagrees (as it has), clause
+applies and requires Indi to set out Disputed FP
+188 Clause 7.10(a) then requires the
+parties to ‘enter into good faith negotiations and use all reasonable
+endeavours to agree
+the Disputed FP Matters’. If agreement is not reached
+within 20 business days after delivery of the Sellers FP Report, clause
+provides for partial payment and deferral of disputed
+189 The matter then proceeds through
+further stages under clauses 7.11 and 7.12, potentially culminating in
+Independent Accountant
+determination under clauses 7.13 and 7.14. Indi’s
+Sellers FP Reports in respect of both the FP Notice and 2nd FP Notice set
+numerous Disputed FP Matters that remain
+unresolved.
+190 In these circumstances, it cannot be
+said that the process of ‘review of, and agreement to’ the FP
+Notices has concluded.
+To the contrary, that process is ongoing and will
+continue through to final determination. The fact that the initial 20 business
+day review periods have expired does not mean the substantive review process is
+191 This interpretation gives commercial
+efficacy to clause 7.16(a). The alternative construction advanced by InComm
+would render
+the clause nugatory in any disputed case. Whenever Indi disagreed
+with a calculation and the 20 business day period expired without
+InComm could claim that clause 7.16(a) had ceased to operate. This would mean
+that clause 7.16(a) could never be relied
+upon to obtain information necessary
+for good faith negotiations under clause 7.10(a) or for preparing submissions to
+an Independent
+Accountant under clause
+192 Such a construction would be commercially
+absurd. The parties cannot have intended that Indi’s entitlement to access
+information
+would evaporate at precisely the time when information is most
+needed — when calculations are disputed and must be resolved
+negotiation or independent determination.
+F.4.2 The relationship between clauses 7.2, 7.4, 7.11 and clause
+193 Secondly, InComm’s construction
+fails to account for the relationship between the specific obligations in
+clauses 7.2, 7.4
+and 7.11 and the more general access right in clause
+194 As I have found above, clauses 7.2, 7.4
+and 7.11 require provision of supporting information, calculations and
+documentation —
+including Source Data — at the time the relevant
+calculations are provided. Clause 7.16(a) operates as a complementary mechanism
+enabling Indi to request additional access if needed for review and agreement
+195 The fact that Indi has requested
+Source Data under clause 7.16(a) does not mean that clause is the exclusive or
+even primary basis
+of entitlement. Rather, Indi properly relies on clause
+7.16(a) as an alternative ground in circumstances where InComm disputes its
+obligations under clauses 7.2, 7.4 and
+196 Moreover, the temporal sequence supports
+Indi’s construction. Indi made requests for information under clause
+7.16(a) both
+within and after the initial review periods. The initial requests
+were made promptly when Indi determined that the material provided
+under clauses
+7.4 and 7.11 was insufficient. The fact that InComm refused to provide the
+requested material, necessitating this proceeding,
+does not transform
+Indi’s timely requests into tardy ones.
+F.4.3 The concept of flow-through between stages
+197 Thirdly, the commercial operation of
+clause 7 supports an interpretation that permits ongoing access to information.
+198 The December 22 EBITDA (Base) calculated at the
+clause 7.2 stage is expressly carried forward into all subsequent calculations
+under clauses 7.4, 7.11 and 7.12. Similarly, breakage estimates are refined
+through successive stages as more data becomes
+199 This structure of ‘flowing
+through’ figures from earlier stages to later stages means that
+information and calculations
+from earlier stages remain relevant throughout the
+entire process. Indi’s ability to review and agree (or dispute)
+calculations
+at later stages necessarily depends upon being able to verify the
+correctness of foundational figures from earlier
+200 If Indi discovered an error in the
+December 22 EBITDA (Base) while reviewing the December 22 EBITDA (Second
+Estimate), it would
+be entitled to raise that error as a Disputed FP Matter even
+though the ‘stage’ for calculating the December 22 EBITDA
+notionally passed. This demonstrates that the obligations to provide supporting
+information at earlier stages are not
+extinguished simply because time has moved
+201 Clause 7.16(a) facilitates this ongoing
+review function by ensuring Indi can access relevant records as needed to verify
+calculations
+that span multiple stages.
+F.4.4 Reasonableness of Indi’s requests
+202 InComm submits that even if clause
+7.16(a) remains operative, Indi’s requests are
+unreasonable.
+203 The reasonableness of specific
+requests is better addressed in the context of clause 7.16(b) and Mr
+Carruth’s detailed requests.
+However, I note that requests for Source Data
+and Card Compliant reports are plainly reasonable in circumstances where:
+(a) these materials are
+necessary to verify calculations affecting millions of dollars in potential
+Further Payment;
+(b) significant discrepancies have
+been identified in the materials InComm has
+(c) the SSA contemplates detailed review
+potentially culminating in Independent Accountant determination;
+(d) the materials requested are within
+InComm’s possession or control through its ownership of
+204 Nothing in clause 7.16(a) limits
+reasonable requests to only those materials that InComm was required to provide
+under clauses
+7.2, 7.4 and 7.11. The phrase ‘books, correspondence,
+accounts or other records relating to the Group’ is deliberately
+long as materials are reasonably required for reviewing and determining the FP
+Notices, they fall within the scope of clause
+205 I therefore consider that clause
+7.16(a) provides an alternative basis for Indi’s entitlement to Source
+Data, the Breakage
+Brief, Card Compliant reports, communications and documents
+relied on to prepare the FP Notices. The clause remains operative and
+Indi’s requests are reasonable.
+F.5 Is Indi entitled to the material sought by Mr Carruth pursuant to
+clause 7.16(b)?
+206 Clause 7.16(b) requires InComm to
+procure TCN to ‘provide or ensure the provision of all information and
+assistance that
+may reasonably be requested by the advisers of the Buyer and the
+Sellers in relation to the preparation of, review of, and agreement
+draft and final (as applicable) FP Notice and Final FP
+207 Indi relies on the Carruth Report
+and supplementary report as articulating the information Mr Carruth requires to
+conduct his
+review. The categories of documents sought by Mr Carruth are set out
+in Annexure D to the Carruth Report, reproduced at paragraph
+F.5.1 Has clause 7.16(b) expired?
+208 As with clause 7.16(a), InComm
+submits that clause 7.16(b) has expired because the review periods for the FP
+Notices have passed.
+For the reasons set out above in relation to clause
+7.16(a), I reject this submission.
+209 The clause
+expressly extends to ‘the preparation of, review of, and agreement
+to’ the notices. The process of reaching
+agreement is ongoing and will
+continue through good faith negotiations and potentially Independent Accountant
+determination. Mr Carruth
+is Indi’s adviser for this process and is
+entitled to request information reasonably required for that
+210 Indeed, Mr Carruth’s
+supplementary report was prepared for the specific purpose of advising Indi in
+respect of submissions
+to an Independent Accountant. This falls squarely within
+the purpose identified in clause 7.16(b).
+F.5.2 Is Mr Carruth appropriately qualified?
+211 InComm challenges Mr Carruth’s
+expertise, suggesting he lacks specific experience in breakage calculations and
+is primarily
+an audit specialist.
+submission does not withstand scrutiny. Mr Carruth is a chartered accountant
+with extensive experience in business valuations,
+financial investigations and
+dispute resolution. His role is not to independently calculate breakage using
+his own methodology, but
+rather to review whether InComm’s calculations
+have been performed correctly and in accordance with the
+213 This is quintessentially work for which an
+experienced accountant is qualified. It requires understanding financial
+statements,
+verifying calculations, checking that methodologies align with
+contractual requirements, and identifying discrepancies or errors.
+Carruth’s expertise is appropriate for these
+214 Moreover, the SSA itself contemplates
+that accountants will review these calculations. Clause 7.2(c) requires the
+December 22
+Accounts to be prepared ‘by JM... in consultation with Walker
+Wayland’. Clause 7.13 provides for disputes to be determined
+‘Independent Accountant’. The parties clearly intended that
+accountants would be involved in reviewing and determining
+the calculations in
+F.5.3 Are Mr Carruth’s requests reasonable?
+215 The more substantial question is
+whether the specific categories of documents requested by Mr Carruth are
+reasonable within the
+meaning of clause
+216 Clause 7.16(b) requires provision of
+‘all information and assistance that may reasonably be requested by the
+advisers of
+the Buyer and the Sellers in relation to the preparation of, review
+of, and agreement to, the draft and final (as applicable) FP
+Notice and Final FP
+217 The test is therefore whether the
+information Mr Carruth has requested:
+(a) is reasonably required
+for the purpose of preparing for, reviewing, or reaching agreement on the FP
+Notices; and
+(b) is not unreasonable having regard
+to the burden on InComm/TCN in providing it.
+218 ‘Reasonable’ in this
+context must be assessed by reference to:
+(a) the nature and complexity
+of the calculations being reviewed;
+(b) the amount
+at stake (potentially many millions of dollars in Further
+(c) the information actually required to
+conduct an informed review;
+(d) the burden on
+InComm/TCN in providing the information; and
+specificity and clarity of the requests.
+F.5.4 General principles applicable to all items
+219 The 14 items in Mr Carruth’s
+table fall into several categories:
+(a) Items requiring
+foundational accounting records (Completion Statement, general ledgers,
+(b) Items requiring working papers and
+calculations showing how EBITDA and breakage figures were
+(c) Items requiring Card Compliant reports
+and related documentation;
+(d) Items requiring
+specific supporting documentation (commission models, normalisation adjustments,
+transaction code mappings).
+220 These are all standard categories of
+financial documentation that would be maintained in the ordinary course of
+business by a
+company of TCN’s nature and size. Mr Mould conceded in
+cross-examination that general ledgers are readily available. InComm
+provided evidence that compliance with these requests would be unduly burdensome
+or impractical.
+221 The requests are directed to
+verifying calculations that determine the Further Payment, involving potentially
+many millions of
+dollars. They represent the type of information that an
+experienced forensic accountant would properly require to conduct a thorough
+informed review in order to advise Indi on whether to agree to the FP Notices or
+what Disputed FP Matters to raise.
+F.5.5 Analysis of specific items
+F.5.5.1 Items 1-3 (Completion Statement, Accounts and EBITDA)
+222 These items seek the Completion
+Statement, general ledgers, underlying transactional records, and working papers
+supporting the
+Completion Accounts, Completion EBITDA and Completion Breakage
+223 These are plainly reasonable requests
+for an adviser reviewing the FP Notices. The Completion Breakage Amount is a
+critical component
+of the Breakage Differential Amount calculation, which
+directly affects the Further Payment under the formula in clause 7.5. To advise
+Indi on whether InComm’s calculation of the Further Payment is correct, Mr
+Carruth must be able to verify the foundational
+figures that feed into that
+calculation. Without access to the Completion Statement, the underlying
+accounts, and the working papers
+showing how these figures were calculated, Mr
+Carruth cannot properly advise Indi on whether to agree to the FP
+224 General ledgers are essential to
+substantiate reported figures. Mr Mould conceded they are readily available,
+indicating that
+provision would not be burdensome. The request for underlying
+transactional records is qualified by the term ‘sample’,
+that exhaustive production is not sought — only sufficient documentation
+to verify the accuracy of the ledger entries
+and the consistent application of
+accounting policies.
+F.5.5.2 Items 4-5 (December 2022 Accounts)
+225 Item 4 seeks general ledgers,
+underlying transactional records, and supporting documentation for the December
+2022 Accounts.
+226 For the same reasons as Items
+1-3, this is reasonable. The December 2022 Accounts form the foundation for
+December 2022 EBITDA
+(Base), which is carried forward through all subsequent
+Further Payment calculations under clauses 7.4, 7.11 and 7.12. An adviser
+reviewing the FP Notices must be able to verify the accuracy of this
+foundational figure. Without the underlying accounts and ledgers,
+cannot properly advise Indi on whether the Further Payment has been correctly
+calculated.
+227 Indi no longer seeks Item 5, which
+related to confirmation regarding preparation of the December 2022 Accounts.
+Accordingly, I
+need not address it further.
+F.5.5.3 Items 6-8 (December 2022 EBITDA)
+228 These items seek general ledgers,
+underlying transactional records, working papers, and documentation of
+normalisation adjustments
+for the December 2022 EBITDA calculations.
+229 December 2022 EBITDA is one of the two
+principal variables in the Further Payment formula under clause 7.5. To advise
+whether to agree to the FP Notices, Mr Carruth must be able to verify
+this critical figure. This requires access to the general ledgers
+EBITDA is derived, working papers showing how the calculations were performed,
+and documentation of any normalisation
+adjustments.
+230 Schedule 7 prescribes specific
+normalisation adjustments that must be made to EBITDA. These adjustments can
+materially affect
+the Further Payment. Documents showing what normalisation
+adjustments were made, their quantum, and how they were calculated are
+information that an adviser would reasonably require to verify whether the
+EBITDA calculations are correct. Without this
+information, Mr Carruth cannot
+advise Indi on whether the Further Payment calculation should be accepted or
+F.5.5.4 Items 9-12 (December 2022 Breakage calculations)
+231 These items seek the original Card
+Compliant reports and working files, clarification of which cards were
+included/excluded from
+Card Compliant’s analysis, documentation of
+assumptions and methodologies and the commission model with supporting
+documentation.
+232 Breakage is the other principal
+variable in the Further Payment formula. The accuracy of the breakage estimate
+is critical to
+the Further Payment calculation. To advise Indi on whether the
+breakage figures in the FP Notices are correct, Mr Carruth requires
+this material (to the extent that InComm is in possession of
+233 Without this information, Mr Carruth cannot
+understand how the breakage figures were derived, whether the methodology is
+or whether errors may have been made. An adviser cannot reasonably be
+expected to advise a client to agree to a multi-million dollar
+Further Payment
+calculation without being able to verify the breakage estimates underlying that
+calculation.
+234 The request is particularly
+reasonable given the evidence of discrepancies in Issue Amounts across different
+FP Notices, unexplained
+differences between ‘kick-outs’ in various
+materials, and the absence of clarity about the data and methodology used
+Card Compliant.
+F.5.5.5 Items 13-14 (Breakage Differential Amount)
+235 These items seek the Completion
+Statement with underlying source data and assumptions, and documentation
+supporting the Final
+Breakage Amount. The Completion Breakage Amount and Final
+Breakage Amount are the two components of the Breakage Differential Amount
+calculation under clause 7.4(c), which directly affects the Further Payment.
+These are foundational figures.
+Without this
+information, Mr Carruth cannot verify the correctness of the Breakage
+Differential Amount or advise Indi on whether to
+agree to the FP Notices. These
+are plainly reasonable requests for an adviser engaged to review complex
+financial calculations affecting
+a potential multi-million dollar payment.
+F.5.6 Qualification regarding underlying transactional
+236 Items 2, 4 and 6 request
+‘underlying transactional records (including sample invoices and purchase
+orders)’. The phrase
+‘underlying transactional records’ is
+potentially very broad and could encompass every source document for every
+transaction.
+For a business conducting thousands of gift card sales through
+multiple channels, this could be
+voluminous.
+237 However, the parenthetical reference
+to ‘sample’ invoices provides important limitation. A reasonable
+interpretation
+is that Mr Carruth requires representative samples across
+transaction types and channels sufficient to verify that:
+(a) ledger entries accurately
+reflect business transactions;
+(b) accounting
+policies have been consistently applied;
+(c) unusual, material or non-standard
+transactions are properly documented.
+238 ‘Samples’ should be
+understood as representative examples, not exhaustive production of all
+transaction records. If
+the parties cannot agree on an appropriate sampling
+methodology, they may apply to the Court for directions.
+F.5.7 Conclusion
+239 I find that Indi is entitled to the
+categories of documents set out in Items 1–14 of Mr Carruth’s table
+(other than
+Item 5, which Indi no longer seeks), subject to the following
+qualifications:
+(a) ‘Underlying
+transactional records’ in Items 2, 4 and 6 should be understood as
+requiring representative samples across
+transaction types and channels, not
+exhaustive production of every transaction
+(b) Sample invoices and purchase orders
+should be sufficient in number and type to verify ledger accuracy and accounting
+policy application,
+but need not encompass every invoice and purchase order for
+the relevant period;
+(c) Item 10 can be satisfied by
+a document or statement explaining which card products and issue amounts were
+included or excluded
+from Card Compliant’s analysis and the reasons for
+any exclusions.
+240 If the parties cannot agree on an
+appropriate sampling methodology for underlying transactional records, or if
+disputes arise
+directions.
+241 The provision of these categories of
+documents and information is necessary to enable Indi, through Mr Carruth, to
+conduct the
+informed and thorough review that clause 7.16(b) contemplates. The
+requests are reasonable in the context of the potentially substantial
+Payment at stake, the complexity of the calculations involved, and the detailed
+verification process prescribed by clause
+7 of the SSA.
+F.6 Is Indi entitled to the Power BI extracts?
+242 Indi’s request for current
+versions of Power BI extracts attached to Mr Mould’s email of 31 October
+2023 raises different
+considerations.
+243 Power BI
+is described in the evidence as a third-party platform that aggregates data from
+TCNAdmin and is used to estimate breakage.
+The platform provides extracts
+showing data from various sales
+244 Indi’s primary submission is
+that, while the connection between Power BI extracts and ‘supporting
+information’
+under clauses 7.2, 7.4 and 7.11 may be less direct, the
+extracts nonetheless fall within clause 7.16(a) as material that would permit
+review of the FP Notices.
+245 InComm responds that
+Card Compliant reports were not based on Power BI extracts and that the SSA does
+not require provision of
+Power BI data.
+evidence establishes that Card Compliant reports are based on Source Data from
+TCNAdmin, not on Power BI extracts. Power BI
+is an additional tool used by TCN
+to analyse data and estimate breakage, but it is not part of the chain of
+calculations required
+under clause 7.
+247 However,
+Power BI extracts may, nonetheless, be relevant as ‘supporting
+information’ in a broader sense. If Power
+BI was used by InComm/TCN to
+check Card Compliant calculations or to inform decisions about how to instruct
+Card Compliant, then
+Power BI materials could shed light on the calculation
+248 The difficulty is that Indi has not
+clearly articulated what specific purpose the Power BI extracts would serve in
+reviewing the
+FP Notices. The request appears somewhat speculative —
+seeking the material to see whether it might reveal relevant information,
+than identifying a specific gap in the information already required to be
+249 Moreover, Mr Mould provided Power BI
+extracts to Mr Hewitt in October 2023, and further Power BI extracts were
+provided in February
+2025. Indi now seeks ‘current versions’ of the
+earlier extracts, but has not explained what additional information current
+versions would provide beyond what has already been
+250 On balance, I find that Indi has not
+established that Power BI extracts constitute information it is entitled to
+under clauses
+7.2, 7.4, 7.11 or 7.16. The extracts are not part of the
+calculation chain required under clause 7, and Indi has not demonstrated
+they are reasonably required for review purposes given the other information to
+which it is entitled.
+251 If, after receiving the
+Source Data, Card Compliant reports and other materials to which it is entitled,
+Indi identifies a specific
+deficiency that Power BI extracts would address, it
+may make a further targeted request explaining why those extracts are required.
+However, at this stage, a general request for Power BI extracts is not
+sustainable.
+252 I therefore decline to order
+provision of Power BI extracts.
+E. CONCLUSION
+253 For the reasons set out above, I find
+(a) Indi is entitled to
+Source Data from TCNAdmin, the Breakage Brief, any communications between InComm
+and Card Compliant relating
+to the Card Compliant reports and documents relied
+on to prepare the FP Notices pursuant to clauses 7.2, 7.4 and
+(b) Indi is entitled to general ledgers and a
+reasonable sample of underlying invoices and transactional records relating to
+the calculation
+of December 22 EBITDA (Base) pursuant to clause
+(c) InComm has not provided the Card Compliant
+reports required under clauses 7.2(a), 7.4(a) and 7.11(a)(i) and Indi is
+entitled to
+such reports;
+(d) Indi is entitled to
+the Source Data, the Breakage Brief, Card Compliant reports and related
+materials, and documents relied on
+to prepare the FP Notices under clause
+7.16(a) as an alternative basis;
+(e) Indi is
+entitled to the categories of documents requested by Mr Carruth pursuant to
+clause 7.16(b) (other than Item 5, which is
+no longer sought), subject to
+reasonable limits on the scope of sampling of transactional records as set out
+(f) Indi is not entitled to Power BI
+254 The parties are required to confer
+and, within fourteen days:
+(a) submit a proposed form of
+order to give effect to these reasons, including as to costs;
+(b) failing agreement, file and serve submissions
+of no more than 3 pages addressing these matters and attaching their preferred
+Court Book filed 18 August
+2025, 7 [3] (
+CB 71 [12].
+CB 73 [23].
+CB 64–5 [74].
+CB 75 [30], 354.
+CB 55 [20].
+CB 6 [1(b)], 53 [8].
+Clauses 5.2 to 5.9 provide
+for a review and dispute resolution procedure.
+The detail of these
+normalisations is set out in an image of a table in the SSA and omitted here.
+Defined terms not relevant
+to this proceeding have been excluded. Ellipses indicating those exclusions have
+been omitted for readability.
+CB 151 [4].
+CB 592–667.
+CB 163–4 [74] item 1.
+It appears that these documents were provided to Indi with the affidavit of
+Jonathan Mould dated 31
+As explained by senior
+counsel for InComm, the spreadsheet refers to collections of channels as
+programs, reflecting a difference
+of nomenclature between TCN and Card
+Compliant: at Transcript of Proceedings, 84 (
+CB 678; IND.0001.0002.0093.
+References in this latter format refer to spreadsheets filed by the parties that
+do not have a specific
+page in the CB. See also, IND.0001.0002.0092;
+IND.0001.0002.0094; IND.0001.0002.0095; IND.0001.0002.0096.
+This figure appears to
+refer to the amount of breakage for Gift Cards that have already expired.
+IND.0001.0002.0094.
+CB 684–763.
+CB 164–5 [74] item 4.
+It appears that these documents were provided to Indi with the affidavit of
+Jonathan Mould dated 31
+IND.0001.0001.0061.
+IND.0001.0001.0062. The
+spreadsheet incorrectly states the relevant clause as clause 7.2(a)(ii) instead
+of clause 7.4(a)(ii).
+IND.0001.0001.0063, IND.0001.0001.0064, IND.0001.0001.0065,
+IND.0001.0001.0066.
+CB 784, 786–7.
+CB 833–914.
+CB 166, [74] item 8. It
+appears that these documents were provided to Indi with the affidavit of
+Jonathan Mould dated 31 July 2025.
+IND.0001.0004.0259.
+IND.0002.0007.0093. See
+also IND.0002.0007.0091, IND.0002.0007.0092, IND.0002.0007.0094,
+IND.0002.0007.0095, IND.0002.0007.0096.
+CB 927. It appears clear
+that Issue Amounts refers to the value rather than the number of gifts cards
+sold in CY22, despite the
+following ambiguous exchange in the cross-examination
+of Mr Mould. ‘The issue amounts are amounts of cards that have been issued
+and the value of those cards in the calendar year 2022. Correct?---Yes,
+yes’: at Transcript 119.1–3.
+CB 1118–38.
+CB 128, 149.
+121.28–122.30, 123.1–27, 141–144.
+Transcript 166–7.
+Plaintiff’s outline
+of written submissions filed 15 September 2025, 17–8 [59]–[61]
+Plaintiff’s written submissions
+Plaintiff’s written
+submissions, 19 [68].
+37.20–69.30.
+Transcript 172.18–30,
+175.16–177.9. InComm submitted that the final sentence in each of clauses
+7.2, 7.4 and 7.11(a) which provides that
+‘[t]he buyer will take into
+consideration the amounts provided for in the report prepared by Card
+Compliant’ does not
+add much ‘to the constructional equation’:
+at Transcript 177.9–28.
+179.1–180.22.
+180.23–181.21.
+184.29–185.8.
+205.20–206.26; CB 164 [74] item 3.
+Defendant’s outline
+of opening submissions filed 22 September 2025, 18–9 [79]–[80]
+Defendant’s written submissions
+Transcript 224.2–6;
+CB 156–7 [35]–[37], 166 [74] item 7, 167 [74] item 11.
+223.29–224.24.
+232.2–235.25.
+Transcript 237.25;
+Plaintiff’s written submissions, 14 [50].
+156.18–157.17.
+124.13–125.1, 158.17–21.
+228.27–299.1.
+120.10–124.12.
+230.18–231.34.
+195.12–197.22.
+199.18–201.19 referring to CB 154 [25]; Transcript 121.13–27.
+Transcript 158.22–31.
+159.13–160.9.
+160.20–161.19.
+186.10–187.24.
+187.25–191.28.
+191.29–192.7.
+240.20–241.1.
+Plaintiff’s written
+submissions, 25–6 [92]–[96].
+242.25–243.28.
+218.31–219.1.
+CB 104 [9].
+218.16–219.21.
+221.6–223.27.
+166.30–167.31; Plaintiff’s written submissions, 24–5
+Defendant’s written
+submissions, 20–1 [92]–[94].
+Laundy Hotels (Quarry)
+Pty Ltd v Dyco Hotels Pty Ltd
+[2023] HCA 6
+(2023) 276 CLR 500
+, 509 [27] (Kiefel CJ,
+Gageler, Gordon, Gleeson and Jagot JJ), citing
+Ecosse Property Holdings Pty
+Ltd v Gee Dee Nominees Pty Ltd
+[2017] HCA 12
+(2017) 261 CLR 544
+, 551 [16] (Kiefel, Bell
+and Gordon JJ). See also,
+Electricity Generation Corporation (t/as Verve
+Energy) v Woodside Energy Ltd
+[2014] HCA 7
+(2014) 251 CLR 640
+, 656–7 [35] (French
+CJ, Hayne, Crennan and Kiefel JJ) (
+[2024] VSC 438
+(Connock J).
+[2019] VSCA 144 (Whelan
+McLeish and Emerton JJA).
+656–7 [35] (French CJ, Hayne, Crennan and Kiefel JJ).
+656–7 [35] (French CJ, Hayne, Crennan and Kiefel JJ).
+Mount Bruce Mining
+Pty Ltd v Wright Prospecting Pty Ltd
+[2015] HCA 37
+(2015) 256 CLR 104
+, 116 [48].
+Codelfa Constructions
+Pty Ltd v State Rail Authority (NSW)
+(1982) 149 CLR 337
+Pear Australia Ltd v Pink Lady America LLC
+[2016] VSCA 280
+(2016) 343 ALR 112
+[231]–[232] (Ferguson and McLeish JJA); see also 139–55
+[92]–[139] (Tate JA).
+[2020] VSCA 199
+[36]–[38] (Kyrou, Niall and Hargrave JJA), when construing the terms of a
+commercial lease. These observations were again
+more recently referred to in
+Feeney v Southstar Homes Pty Ltd
+[2024] VSCA 153
+, [102]-[103] (McLeish
+and Niall JJA, and Osborne AJA).
+Progressive Mailing
+House Pty Ltd v Tabali Pty Ltd
+[1985] HCA 14
+(1985) 157 CLR 17
+, 29 (Mason J), 40–1
+(Brennan J) and 51–2 (Deane J).
+[2015] HCA 37
+(2015) 256 CLR 104
+116–7 [46]–[51] (citations omitted).
+[2017] HCA 12
+(2017) 261 CLR 544
+[16]–[17] (citations omitted).
+Broadcasting Commission v Australasian Performing Right Association Ltd
+[1973] HCA 36
+(1973) 129 CLR 99
+, 109 (Gibbs J).
+Wilkie v Gordian
+[2005] HCA 17
+(2005) 221 CLR 522
+, 529 [16] (Gleeson CJ, McHugh, Gummow and
+[1987] HCA 64
+(1987) 168 CLR 147
+(Mason CJ, Wilson, Dawson and Gaudron JJ).
+[2016] VSCA 280
+[92]–[139] (Tate JA), [231]–[232] (Ferguson and McLeish JJA).
+[2019] VSCA
+[2017] HCA 12
+(2017) 261 CLR 544
+579-81 [97]–[98].
+[1997] AC 313
+, 388 (Lord
+Goff of Chieveley, Lord Griffiths and Lorde Browne-Wilkinson agreeing at
+Arnold v Britton
+[2015] UKSC 36
+[2015] AC 1619
+, 1628 [18] (Lord Neuberger of Abbotsbury PSC, with whom Lord
+Sumption and Lord Hughes JJSC agreed; Lord Hodge JSC agreeing at 1637
+Mitsui Construction
+Co Ltd v Attorney General of Hong Kong
+(1986) 33 BLR 1
+, 14, cited with
+approval in
+Gan Insurance Co Ltd v Tai Ping Insurance Co Ltd (No 2)
+[2001] EWCA Civ 1047
+[2001] 2 All ER (Comm) 299
+, 306 [13] (Mance LJ).
+Mitsui Construction
+33 BLR 1, 14. See also
+Rainy Sky SA v Kookmin Bank
+[2011] UKSC 50
+[2011] WLR 2900
+2910 [210] (Lord Clarke of Stone-cum-Ebony JSC, with whom Lord Phillips of Worth
+Matravers PSC, Lord Mance, Lord Kerr of Tonaghmore
+and Lord Wilson JJSC agreed).
+Cohen & Co v
+Ockerby & Co Ltd
+(1917) 24 CLR 288
+, 300 (Isaacs J);
+Upper Hunter
+County District Council v Australian Chilling & Freezing Co Ltd
+[1968] HCA 8
+118 CLR 429
+, 437 (Barwick CJ); compare
+Mannai Investment Co Ltd v Eagle Star
+Life Assurance Co Ltd
+[1997] UKHL 19
+[1997] AC 749
+, 770–1 (Lord Steyn);
+Lloyd’s v Robinson
+[1999] UKHL 22
+[1999] 1 WLR 756
+, 763 (Lord Steyn; the other Law
+Lords agreeing at 758, 767–8).
+Photo Production Ltd
+v Securicor Transport Ltd
+[1980] UKHL 2
+[1980] AC 827
+, 851 (Lord Diplock). See also
+Arnold v Britton
+[2015] UKSC 36
+[2015] AC 1619
+, 1628 [18] (Lord Neuberger PSC, with whom
+Lord Sumption and Lord Hughes JJSC agreed; Lord Hodge JSC agreeing at
+Johnson v American
+[1998] HCA 14
+(1998) 192 CLR 266
+, 272 [19] (Kirby J);
+Reinsurance Co Ltd v Fagan
+[1997] AC 313
+, 388 (Lord Mustill, Lords Goff,
+Griffiths and Browne-Wilkinson agreeing at 381).
+[1913] HCA 24
+(1913) 16 CLR 293.
+[1899] UKLawRpCh 174
+(1900) 1 Ch 417
+Walsh v Alexander
+[1913] HCA 24
+(1913) 16 CLR 293
+[1915] VicLawRp 66
+[1915] VLR 450
+[2013] VSCA 239.
+APN Funds Management
+Ltd v Australian Property Investment Strategic Pty Ltd
+[2013] VSCA 239
+[16]–[17] (Nettle JA, Redlich JA agreeing at [32], Hargrave AJA agreeing
+at [33]), citing
+[1913] HCA 24
+(1913) 16 CLR 293
+Patti v Belfiore
+[1958] HCA 29
+(1958) 100 CLR 198
+High Court considered the meaning of ‘refuse’ as used in a contract.
+While no reference was made to a relevant ‘presumption’
+‘assumption’, Dixon CJ, McTiernan and Taylor JJ held that, having
+regard to the language of the clause and the general
+framework of the agreement
+in which it was located, there was no reason for supposing that the word
+‘refuse’ in one clause
+should receive any different interpretation
+in another clause.
+[2013] VSCA 367.
+Lumley General
+Insurance Ltd v Port Phillip City Council
+[2013] VSCA 367
+, [96] citing
+[1913] HCA 24
+(1913) 16 CLR 293
+Patti v Belfiore
+[1958] HCA 29
+(1958) 100 CLR
+[2013] VSCA 179
+(2013) 41 VR 636
+P, Ashley and Redlich JJA) (
+Prestcold (Central)
+Ltd v Minister of Labour
+[1969] 1 WLR 89
+Interactive Investor
+Trading Ltd v City Index Ltd
+[2011] EWCA Civ 937
+(Maxwell P, Ashley JA agreeing at 655 [59], Redlich JA agreeing at 655 [60]).
+105.23–30, 121.28–122.2, 127.1–2.
+The language of the
+affidavit of Jonathan Mould dated 31 July 2025 at paragraph 74, items 1, 4 and
+8, suggests that these reports
+were only provided with the affidavit. It is
+otherwise unclear when they were provided as their date in the Court Book
+refer to the date upon which they were produced.
+120.29–124.12.
+Print (pretty)
+Print (eco-friendly)
+RTF format (1.04 MB)
+Signed PDF/A format
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

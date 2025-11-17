@@ -1,0 +1,2619 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/MelbULawRw/2024/15.html
+Scraped: 2025-11-17 15:18:08
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Matulionyte, Rita --- "Government Automation, Transparency and Trade Secrets" [2024] MelbULawRw 15; (2024) 47(3) Melbourne University Law Review 679
+GOVERNMENT AUTOMATION, TRANSPARENCY AND TRADE SECRETS
+I Introduction
+II Transparency and ADMS in NSW
+A The Concept of Transparency and Its Rationale
+B Transparency of ADMS in NSW
+III ADMS Transparency and Trade Secrets
+A Trade Secrets as a Problem
+B Information Held by Government: ‘Business Interests’ Exception
+1 Broad Definition of ‘Commercial-in-Confidence’ Information
+2 Broad Protection for Other Business Information
+3 Inadequate Public Interest Test
+C Information Held by Third Parties: ‘Immediate Access’ Provisions
+1 Provision of Services to the Public
+2 Contractual Duty To Provide Immediate Access
+3 Vague Scope of Information
+4 Limitations to Immediate Access
+5 No Balancing of Competing Public Interests
+IV Proposed Solutions
+A Reducing Protection for Business Information Held by Government
+1 Narrower Protection for Confidential and Other Business Information
+2 Improving the Public Interest Test
+B Improving Access to Information Held by Third Parties
+1 Broadening the Scope of ‘Immediate Access’ Provisions
+2 Clarifying Information to Which Government Should Have Immediate Access
+3 Narrowing Down Exceptions to ‘Immediate Access’ Provisions
+C Acquiring Essential Information through Improved Procurement
+1 Defining ‘Essential’ Information
+V Conclusion
+GOVERNMENT AUTOMATION,
+TRANSPARENCY AND TRADE SECRETS
+Rita Matulionyte
+The increasing use of automated decision-making
+systems (‘ADMS’) in the government sector causes various problems.
+of them is the lack of transparency around government algorithms, especially
+when they are developed by third parties. This article
+proprietary interests surrounding government automation technologies, such as
+trade secrets, affect transparency around ADMS and what measures
+could be taken to preserve — and increase — government
+transparency
+in the age of automation. The article focuses on New South Wales as a case study
+and explores gaps within the
+Government Information (Public Access) Act
+’) in ensuring transparency in the
+government automation context. It recommends that current legislative gaps be
+addressed by:
+(1) narrowing down the protection for trade secrets under the
+(2) improving access to government information held
+by third parties (eg government contractors); and (3) ensuring that the
+leverages its procurement powers to acquire information that is
+essential for public transparency
+I Introduction
+Federal and state governments in Australia have been heavily investing in the
+digitisation of government services. The Commonwealth
+government’s digital
+transformation strategy sets an ambitious vision for the Australian government
+to become ‘one of
+the top three digital governments in the world by
+with a $1.2 billion investment devoted to the implementation of this vision
+in 2021–22 alone.
+Similarly, the New
+South Wales (‘NSW’) government has adopted the Beyond Digital
+focuses inter alia on emerging technologies, and the Artificial Intelligence
+Strategy which sees artificial intelligence (‘AI’)
+as a tool that
+could ‘improve service delivery and government
+decision-making’.
+AI, and automated
+decision-making systems (‘ADMS’) more broadly, are already used in
+numerous federal and state government
+services. For instance, the federal
+government uses algorithms to analyse relevant medical data from the Australian
+are also implemented in the automated border control system,
+‘SmartGate’, to verify the identity of travellers
+entering and
+leaving the country.
+ADMS were also used by
+Centrelink to calculate government overpayments (ie
+Examples of the NSW government’s utilisation of ADMS include: Transport
+for NSW’s use of smart road safety
+Revenue NSW’s AI tool ‘to
+identify and support customers facing
+and NSW Health’s trials of an
+AI-enabled sepsis identification tool in NSW
+While emerging technologies have the potential to make government services
+more effective, fair and accessible,
+other ADMS cause numerous
+of which is the lack of transparency around the use of these new technologies. A
+report by the NSW Ombudsman,
+The New Machinery of Government: Using
+Technology in Administrative Decision-Making
+, concluded that there is
+‘an almost complete lack of transparency about [the use of government
+technology]’.
+Recent case law also demonstrates the lack of transparency around automated
+decision-making in NSW. In cases such as
+v Secretary,
+Department of Communities and Justice (NSW)
+Ireland v Central Coast Council
+which will be discussed below, individuals were rejected access to certain
+information about ADMS employed by NSW agencies, despite
+these systems directly
+affecting their rights or legitimate
+Transparency around ADMS used by governments is generally important for
+ensuring government accountability and
+Transparency is an essential
+attribute of an open and democratic
+government,
+is a practical realisation of the human right to information that is implemented
+in international human rights treaties.
+the automated government context, transparency is especially important due to
+the significant risks associated with the use of
+new and emerging government
+technologies (eg AI technologies). These risks include a lack of regulation,
+insufficient accuracy, possible
+bias, and privacy, data security and data breach
+risks, as well as more general ethical
+Keeping in mind that these new technologies often lack established quality
+assurance and independent oversight frameworks, public
+transparency becomes
+especially important in enabling visibility and public scrutiny of these
+technologies and facilitating government
+accountability.
+In addition, the information asymmetry that is increasingly visible in the
+digital and automated government context leads to calls
+for increased
+transparency. Namely, as digital governments hold increasing amounts of
+information about citizens and possess automated
+tools to efficiently analyse
+this data, there is a need to improve individuals’ access to government
+information to address
+this growing
+Empirical studies have confirmed public interest in more transparency around
+automated government
+technologies.
+While Australia’s federal and state governments are generally committed
+transparency,
+and in the AI and ADMS context in
+particular,
+implementation of this principle in relation to new and emerging government
+technologies has proven to be challenging.
+One of the reasons behind the lack of transparency is commercially confidential
+information (or trade secrets)
+results from government and private sector partnerships that are formed to
+develop and implement government automation
+tools. When third parties (eg
+government contractors) are involved in the development, deployment or
+maintenance of government ADMS,
+much of the information is either held by
+contractors or, even if held by the government, kept confidential due to its
+nature and cannot be easily publicly
+The purpose of this article is thus to examine the reasons behind the lack of
+transparency around government ADMS and possible solutions
+to improve ADMS
+transparency. This article will focus particularly on how trade secrets affect
+the transparency of government ADMS
+and how the current legislative frameworks
+could be improved to address the transparency challenges caused by such
+proprietary information.
+The article will use NSW as a case study to examine the impact of trade
+secrets on the transparency of government ADMS and possible
+law reform pathways.
+The NSW government is one of the most advanced state governments in Australia,
+both in terms of its digitisation
+of government activities and its open
+government policies.
+The recommendations
+considered in the context of NSW law will be relevant in addressing comparable
+trade secret challenges in other
+and internationally.
+Part II of this article will briefly revisit the concept of transparency and
+examine transparency challenges in relation to ADMS in
+NSW. It will demonstrate
+that despite the commitment to transparency in general and in relation to ADMS
+more specifically, there
+is still a significant lack of publicly available
+information about automated tools used by the NSW government. Part III will
+on trade secrets as one of the barriers to ensuring transparency around
+government ADMS. By delving into the
+Government Information (Public Access)
+’), Part III will demonstrate
+legal gaps that impede public access to government information about ADMS in
+which private parties
+have proprietary interests, both when such information is
+held by government and when it is held by government contractors. Part
+develops proposals on how current legislative gaps in NSW could be addressed to
+ensure that the right to information is retained
+in the age of government
+automation, despite increasing government and private sector partnerships and
+the commercial secrecy that
+they generate.
+Transparency and ADMS in NSW
+The Concept of Transparency and Its Rationale
+Transparency is a multifaceted and evolving concept with numerous proposed
+definitions in the
+literature.
+the AI and ADMS context, various interrelated concepts have been used —
+transparency, explainability, interpretability and
+contestability —
+without a clear consensus on what each of them mean and how they can be
+delineated. For example, under Australia’s
+AI Ethics Principles, AI
+‘transparency and explainability’ is defined as a requirement for
+‘responsible disclosure
+so people can understand when they are being
+significantly impacted by AI, and can find out when an AI system is engaging
+contrast, NSW’s AI Ethical Policy refers to ‘transparency’
+only, which is understood as a requirement that ‘[t]he
+community should be
+engaged on the objectives of AI projects and insights into data use and
+methodology should be made publicly available
+unless there is an overriding
+public interest in not doing
+NSW policy further emphasises the capability of ‘transparency’ to
+ensure that there are review mechanisms through
+which ‘citizens can
+question and challenge AI-based
+It is clear that transparency is important to different stakeholders for
+different reasons.
+As summarised in
+Australia’s AI Ethics Principles, transparency is important for the
+following group of stakeholders for the
+following reasons:
+[F]or users, what the system is doing and why; for creators, including those
+undertaking the validation and certification of AI,
+the systems’ processes
+and input data; for those deploying and operating the system, to understand
+processes and input data;
+for an accident investigator, if accidents occur; for
+regulators in the context of investigations; for those in the legal process,
+inform evidence and decision‐making; [and] for the public, to build
+confidence in the technology
+This article focuses on
+transparency around government ADMS that are directed to the public
+(‘public transparency’) and
+leaves other types of transparency (eg
+transparency for auditors, incident investigators and supervisory authorities)
+outside the
+scope of this article.
+‘Public transparency’ is defined broadly as the availability of
+information about automated systems that the government
+is using — their
+development processes (including training, validation and testing), use
+purposes, functioning and outcomes
+— with the purpose of ensuring
+government accountability, contestability of decisions and public
+It should be acknowledged that despite its importance and potential,
+transparency
+is not capable of ensuring the quality of government
+decisions and will not in all cases result in government accountability in
+the automated decision-making context. Limitations of the government
+transparency and open government concepts have been extensively
+discussed in the
+literature,
+including transparency laws
+that are too abstract, exceptions to government’s transparency obligations
+that are too broad,
+transparency’s inability to guarantee government
+accountability and weak judicial enforcement of transparency
+However, these and other limitations
+surrounding the government transparency concept do not negate its overall
+importance in ensuring
+open and accountable government. Rather, they call for
+ways to improve how government transparency is ensured, which is the ultimate
+intention of this article.
+Transparency of ADMS in NSW
+There is no doubt that NSW is committed to transparency generally and in
+relation to digital and automated government specifically.
+as the main piece of legislation in this area, has an object to make government
+information publicly accessible ‘[i]n order
+to maintain and advance a
+system of responsible and representative democratic Government that is open,
+accountable, fair and effective’.
+summary, the
+requires twofold transparency from NSW agencies.
+First, NSW agencies are required to proactively release certain information
+(‘proactive
+transparency’). This includes ‘open access’
+information,
+such as an agency’s
+information guide, policy documents, disclosure log of access applications, and
+other information listed
+under s 18 of the
+, unless there is an
+‘overriding public interest’ against such
+The NSW Information and Privacy
+Commission (‘NSW IPC’) has explained that in the ADMS context,
+‘open access’
+provisions require agencies to identify datasets that
+agencies hold, provide ‘inventories of machine enhanced decision-making
+systems’, and ensure that documents and information that support
+‘digital government and automated decision-making [have]
+developed’ and are ‘available as open access
+information’.
+In addition to proactive transparency, agencies are required to provide
+information that is requested by members of the public, either
+via informal or
+formal access requests (‘reactive
+transparency’).
+If a formal
+information access request is lodged by a member of the public or other
+interested stakeholder (eg a business), government
+agencies have an obligation
+to release the requested information unless there is an overriding public
+interest against such release.
+framework is further supported by several other NSW
+policies. For instance, the NSW IPC’s
+Charter for Public Participation:
+A Guide To Assist Agencies and Promote Citizen Engagement
+‘provides a
+practical road map for embedding the functions of the
+into the activities of NSW
+the digital and automated government context, the NSW Beyond Digital
+requires data to be open,
+collected and shared with the public, while respecting the confidentiality and
+‘Open Government, Open Data & Public Participation’ policy
+encourages the proactive public release of government information by agencies in
+ways that are respectful of data sharing safeguards,
+as well as providing
+information, advice and assistance to agencies and members of the public on
+access to government
+information.
+Additionally,
+transparency is implemented as one of the principles under NSW’s AI
+Ethical Policy, with the aim of facilitating
+the contestability and
+reviewability of government decisions.
+NSW government reports indicate that the public is increasingly interested in
+information held by the government, with public requests
+for government
+information more than doubling over the last
+Community Attitudes surveys conducted by the NSW government also suggest that
+‘over 85% of members of the public value their
+right to access
+information’.
+Despite this,
+government transparency, especially around automated decision-making, remains a
+challenging field.
+First, despite
+transparency requirements set under the
+(eg requirements related to open access information) and the NSW
+IPC guidance on how these rules apply to government
+limited information about government
+ADMS is currently being made available as open access information (ie on
+agencies’ websites).
+Notably, the NSW Ombudsman found a significant lack
+of publicly available information on what ADMS NSW agencies are using, for what
+purposes and how they are governed.
+According to the NSW IPC, the rate of compliance with open access requirements
+across all agencies is relatively high (72% in
+However, the NSW IPC data do not
+reflect the public availability of information about ADMS used in NSW; the NSW
+compliance reviews are of a general nature and do
+not examine the type or depth of information made available in open access.
+it is not clear from NSW IPC reports how much information about digital
+and automated systems is available as open access information.
+Some further evidence suggests that agencies do not proactively disclose
+information about the ADMS they use. For instance, it has
+been previously
+reported that Revenue NSW, a part of the Department of Customer Service (NSW),
+had used automated technology to issue
+garnishee orders without human oversight,
+which was heavily criticised.
+recently, the Department has introduced another automated tool that uses AI to
+‘identify and support customers facing
+Despite searching the
+Department’s information guide, no information was found about either of
+these automated systems.
+The guide neither
+contained ‘inventories of machine enhanced decision-making systems’,
+nor referred to documents that
+support digital government or automated
+decision-making, as recommended by the NSW
+Similarly, while
+transparency of NSW agencies has remained
+stable over the years,
+significant
+challenges remain. Data shows that a significant amount of information requested
+by the public from NSW agencies is not
+being disclosed or is only partially
+disclosed. For instance, during 2021–22, 70% of access requests were
+granted in full or
+in part, with the remaining 30% of applications not satisfied
+for various reasons.
+While the NSW Agency
+GIPA Dashboard does not have specific statistics relating to digital and
+automated government services,
+previous NSW
+IPC studies suggest that similar rates for disclosure of information apply to
+information related to digital government
+(including automated
+decision-making).
+Most concerning are situations where requested information was not released
+because it was not held by the government but, instead,
+by government
+contractors. Several recent cases demonstrate this problem. For instance, in
+, the applicant sought information from the Department of
+Communities and Justice (NSW) about rental subsidies; namely, policies and
+documents regulating the automatic calculation of base rent and rental subsidies
+as well as the algorithm, software specification,
+source code and test suites
+related to the rental subsidies calculation
+Department determined that it did not hold the algorithm, software
+specification, source code or test suites sought by the applicant,
+information was held by the third party/contractor Northgate Public Services
+(‘NPS’) that developed the
+While the NSW Information and
+unjustified,
+the NSW Civil and
+Administrative Tribunal affirmed the Department’s decision, agreeing that
+the requested information was not
+held by the
+government.
+The Tribunal also found that
+the contract between the Department and NPS (signed before the enactment of the
+) did not provide the government with a right to access
+information held by the third party.
+Tribunal held that, even if such a right to access information existed under the
+contract, it was doubtful that the contractor
+would have a duty to provide
+access to information such as algorithms, source code and related data since
+disclosing this information
+would lead to commercial disadvantage for the
+contractor.
+In another case,
+the applicant, Mr Ireland, sought access to documents relating to flood depth
+level reports about his property, one of which related
+to engineering
+calculations produced by an aerial software program that was developed by a
+third party and used by the Central Coast
+Council to measure the flood
+The Council determined that it did
+not hold the requested information and rejected the
+In contrast to
+, the NSW Civil and Administrative Tribunal found that the
+Council’s decision in
+did not provide sufficient evidence
+that the Council did not hold the information and remitted the case back to the
+to be seen whether the final outcome will be similar to
+Overall, despite the general commitment to transparency in NSW, there appears
+to be challenges in ensuring both proactive and reactive
+transparency around
+government ADMS. This is concerning considering the scale of investment in, and
+the increasing adoption of, such
+systems by the NSW government, as well as the
+possible risks such systems present for human rights and legitimate
+There is therefore a need to
+understand the reasons underlying the lack of transparency around government
+ADMS and the possible ways
+of addressing them.
+ADMS Transparency and Trade Secrets
+Insufficient transparency around government ADMS might be caused by different
+For instance, information that
+stakeholders are interested in may not have been documented and thus nobody
+information may not be held by
+the government but by third parties that develop or operate the
+it may be too technically complex
+or too resource intensive to locate the requested
+information;
+or information might not be
+disclosed to the public due to competing public
+This Part will explore how
+public-private partnerships established for government automation purposes, and
+the proprietary information
+and trade secrets resulting from such partnerships,
+affect the transparency of government ADMS, and whether the current NSW
+is sufficiently equipped to deal with these emerging issues.
+Trade Secrets as a Problem
+As already indicated in the introduction, trade secrets — or more
+broadly, sensitive business information of third parties —
+is one of the
+reasons behind the lack of transparency around government ADMS. Their importance
+in the government ADMS transparency
+context has been identified by government
+institutions, by commentators and in court
+For instance, the NSW Information and Privacy Commissioner has highlighted
+problems with accessing digital government information
+due to ‘contractual
+relationships and claims of
+commercial-in-confidence’.
+relation to the NSW Digital Restart Fund that finances government digitisation
+projects, the NSW Information and Privacy Commissioner
+warned of the risk that
+government agencies may not be able to access information held by third parties
+who help develop government
+particular, third-party vendors or contractors, such as ‘providers of new
+platforms, software and/or cloud storage solutions
+... may hold government
+information but are not covered by the
+This means that they cannot
+be required to provide information that was traditionally considered government
+information and therefore
+had to be supplied to the public either proactively or
+reactively.
+The abovementioned cases of
+illustrate how public-private partnerships generally, and commercial interests
+more specifically, can create challenges in ensuring
+transparency — ie by
+denying public access to information held by government contractors. Trade
+secrets might inhibit not only
+reactive transparency, as exemplified in the
+above cases, but also proactive transparency. Namely, agencies might decide not
+to proactively
+release certain information about ADMS due to trade secrets. This
+is already seen in relation to government contracts, where commercially
+sensitive information is hidden or deleted before the contract is published on a
+public registry.
+Numerous commentators have
+highlighted the negative role of trade secrets in ensuring transparency around
+government ADMS,
+as well as more general
+problems related to public-private partnerships in the government automation
+While trade secrets are not a new problem, the role of third parties in the
+automated government context and accordingly, the impacts
+of their trade
+secrets, are likely to increase in the future. Governments, including the NSW
+government, are increasingly digitising
+and automating their
+Due to the specialised technical
+skills required in such projects, governments often have no choice but to
+participate in partnerships
+with commercial partners and outsource the
+development, operation and maintenance of automated tools on which they rely in
+their services.
+various problems related to such
+partnerships,
+private trade secrets stand out as one of the most significant
+challenges.
+The developers of information
+technologies, including government contractors, increasingly rely on trade
+secrets to protect their
+intellectual property (‘IP’) in automated
+tools. One of the reasons for this is that other IP rights (such as copyright
+patents) are often not available for complex algorithms or only protect AI
+models to a limited
+secrets are thus becoming a dominant type of IP right that ADMS developers use
+to protect their commercial interests.
+of this suggests that the problem of access to government information in which
+third parties have commercial interests is likely
+to increase in the future.
+Our next question is thus whether current NSW laws are sufficiently equipped
+to meet the challenge of ensuring public access to information
+that is important
+for transparency and accountability around government ADMS, even in the context
+of public-private partnerships.
+treats the disclosure
+of information held by the government
+the disclosure of information held by third parties (eg government
+contractors)
+differently, I will examine
+these two scenarios separately.
+Information Held by Government: ‘Business Interests’
+To start with, the
+generally applies to ‘government
+information’ that is defined as ‘information contained in a
+which means that the government can only disclose information that they
+‘hold’, and not information held by third parties.
+When a government
+agency intends to make this government information available to the public, it
+is required to assess whether there
+is no ‘overriding public interest
+against the disclosure’.
+In the table
+appended to s 14, the
+lists seven categories of such
+information, or ‘exceptions’ to the government disclosure
+one of which is ‘[b]usiness
+interests of agencies and other
+This ‘business
+interests’ exception covers the disclosure of information that would: (a)
+‘undermine competitive
+neutrality’ of the agency or place it at a
+competitive advantage or disadvantage in a
+(b) ‘reveal
+commercial-in-confidence provisions of a government
+(c) ‘diminish the
+competitive commercial value
+of any information to any person’;
+or (d) ‘prejudice any person’s legitimate business, commercial,
+professional or financial
+interests’.
+Trade secrets and
+other business interests are likely to fall under items 4(b), (c) or
+Importantly, this ‘business interests’ exception, or any other
+exception under s 14 of the
+, does not apply automatically. If an
+agency is requested to provide information that falls under the exception, it is
+required to
+consult with the third party that could be possibly affected by the
+disclosure of the
+information
+and balance the two types of public
+the public interests
+favouring disclosure of government
+information
+and the public interests in
+protecting information covered by the exception. This means that trade secrets
+or other business information
+are not automatically given priority and need to
+be weighed against the public interest in disclosing information held by the
+government.
+establishes a general presumption in favour of
+disclosure of government information.
+The ‘business interests’ exception, however, is unreasonably
+broad, which is especially problematic in the government
+ADMS context, where
+public-private partnerships and the resulting private interests are playing an
+increasing role. There are three
+specific problems related to the current
+wording of the ‘business interests’ exception under the
+Definition of ‘Commercial-in-Confidence’ Information
+The first problem with the ‘business interests’ exception under
+is the Act’s extremely broad definition of
+‘commercial-in-confidence’ information under s 4(1) — or,
+speaking, trade secrets
+which allows the government to reject public disclosure of a wide range of
+business-related information.
+defines ‘commercial-in-confidence provisions’ as any
+provisions of a contract that disclose a contractor’s financing
+arrangements, cost structure, profit margins or full base case financial model,
+as well as ‘any intellectual property in which
+the contractor has an
+interest’ or ‘any matter the disclosure of which would place the
+contractor at a substantial commercial
+disadvantage in relation to other
+contractors or potential contractors, whether at present or in the
+This definition of commercial confidential information seems to be broader
+than information protected under the breach of confidence
+doctrine, which
+protects confidential information in various commercial and non-commercial
+Under the breach of confidence
+doctrine, the information must have ‘the necessary quality of confidence
+must have been ‘imparted in circumstances importing an
+obligation of confidence’ and there must be an ‘unauthorised
+information’.
+In contrast, the definition of ‘commercial-in-confidence provisions’
+does not contain an explicit
+‘confidentiality’ requirement; its definition seems to cover any of
+the categories of information
+listed under s 14, be it confidential or not.
+Apart from trade secrets, ‘any intellectual property’ can include
+patents, trademarks, plant variety rights etc. Registered IP rights
+(eg patents, trademarks and plant variety rights) cannot be confidential
+information about them is required to be published in public
+Unregistered rights such as
+are not confidential unless
+the party decides to keep copyrighted content confidential.
+Further, the definition of ‘commercial-in-confidence’ includes
+information that would place a contractor at a ‘substantial
+disadvantage ... at present or in the future’. Since this definition does
+not require that information is subject
+to confidentiality requirements, it is
+generally broad and was also broadly interpreted by the NSW
+According to this definition,
+‘commercial-in-confidence’ information might cover not only
+financial information that
+legitimately deserves protection (eg financial
+arrangements and profit margins)
+also information that is essential for quality assurance purposes (eg
+algorithmic parameters, training, external validation,
+and assessment or audit
+information). The disclosure of this information, especially if it indicates
+issues related to the quality
+of the technology, is likely to cause
+‘substantial commercial disadvantage’ to the third party. At the
+same time, the
+public has a legitimate interest in accessing such information in
+order to assess the quality of government technology, especially
+if it makes or
+impacts decisions directly affecting the interests of individuals.
+In comparison, trade secret laws in other jurisdictions have a comparable
+‘independent commercial value’ requirement.
+Namely, both United
+States (‘US’) and European Union (‘EU’) trade secret
+laws, in addition to a secrecy element,
+require that the information claimed to
+be a trade secret be of value and that the value of this information derives, at
+part, from the fact of
+However, this ‘independent commercial value’ requirement is defined
+in a narrow way. In order to meet this requirement,
+it is not sufficient to
+prove that the information owner ‘has gone to time, trouble, and
+expense’ to collect information.
+Rather, the essential inquiry is whether ‘the alleged trade secret, as
+opposed to the AI system as a whole, gives its holder
+a non-trivial advantage
+over competitors’.
+Sandeen and
+Aplin argue that this requirement, if properly applied, would result in the
+absence of trade secret protection for much
+of the information related to AI
+For instance, information
+relevant for quality assurance and accountability purposes, such as validation,
+external assessment or
+auditing results, is unlikely to give competitors a
+non-trivial advantage, as they would not be able to use it for developing their
+own products or businesses. In contrast, under the current wording of the
+, this information is likely to be covered by the broad
+‘commercial-in-confidence’ definition and its public disclosure
+likely to be denied.
+Protection for Other Business Information
+In addition to confidential contractual information (s 14 item 4(b) discussed
+above), the
+‘business interests’ exception covers a
+range of other information related to third parties’ interests; namely,
+information the release of which would ‘diminish the competitive
+commercial value
+of any information to any person’,
+and ‘prejudice any person’s legitimate business, commercial,
+professional or financial
+interests’.
+In contrast to item
+4(b), items 4(c)–(d) cover not only contractual provisions, but also any
+other commercially relevant information
+held by the government.
+The broad and unqualified nature of business information protected under
+items 4(c)–(d) is concerning. First, there are no thresholds
+limitations to these exceptions. In contrast to item 4(b), there is no
+requirement that the competitive value of information be
+‘significantly’ diminished or that the legitimate commercial or
+professional interests be ‘substantially’
+prejudiced upon its
+disclosure. This means that
+diminution of value or
+prejudice to business interests of third parties should be taken into account
+when determining whether the information can be disclosed
+to the public.
+Second, information protected by these provisions does not necessarily need
+to be confidential at all.
+This raises a
+question as to why the
+should deny disclosure of information
+that is not confidential. If information had significant commercial value and
+advantage, it
+is reasonable to expect that their owners would keep it
+confidential, allowing for it to be protected under the breach of confidence
+doctrine. If it is not treated as confidential by an interested third party, it
+is questionable whether its commercial value is so
+significant that it deserves
+protection under the
+. Under the general breach of confidence
+law, even commercially valuable information would generally not be legally
+protected from
+disclosure unless the organisation made efforts to keep it
+confidential.
+It is thus questionable
+extends protection to information that is not kept
+confidential by an organisation and that is not protected by general laws
+confidential information, such as a breach of confidence
+Public Interest Test
+Finally, it is questionable whether the public interest balancing test, as
+defined under ss 13–16 of the
+, adequately enables agencies
+to weigh interests in favour of and against disclosure, especially when dealing
+with the ‘business
+interests’ exception. This test can be praised
+for its flexibility and its usefulness when agencies need to disclose certain
+non-confidential commercial information in which there is a strong public
+interest. At the same time, it is questionable whether
+the public interest
+balancing test is of help when dealing with
+confidential
+information — ie trade secrets.
+is difficult to imagine that an agency would ever disclose confidential
+information and expose themselves to risk of liability
+under the breach of
+confidence doctrine, even if there is a strong interest in disclosing this
+information to the public. For instance,
+even if an individual needs access to
+some algorithmic information in order to challenge a decision that affects them,
+agencies are
+very unlikely to disclose this commercial information if it is
+confidential for several reasons.
+itself seems to favour trade secrets over public
+disclosure in some cases. For instance, under s 32(1) of the
+while certain government contracts with third parties should be published in the
+government contracts register, ‘the commercial-in-confidence
+provisions of
+a contract’ do not need to be included in the register. Here, preference
+is given to trade secrets and a balancing
+of public interests does not apply at
+all. Second, Australian law provides broad protection to confidential
+information, with very
+limited exceptions to such
+protection.
+Government agencies, being
+risk-averse organisations, are unlikely to subject themselves to legal risk by
+disclosing information
+protected by law.
+shows that the NSW judiciary may have a tendency
+to strongly protect not only trade secrets but all IP rights around ADMS,
+of their actual secrecy status. In
+Civil and Administrative Tribunal suggested that information protected by any IP
+right does not need to be publicly
+The Tribunal gave a clear
+preference to IP rights, without any significant effort to consider whether IP
+interests outweighed the
+interest of an individual to understand exactly how the
+ADMS decision that impacted them was
+Information Held by Third Parties: ‘Immediate Access’
+The second situation that needs to be discussed separately is where
+government information is held not by the government but by a
+contractor. While the
+provisions specifically regulating the
+disclosure of information held by government contractors should generally be
+welcomed, they
+face a few gaps that prevent their effective implementation in
+the government ADMS context.
+The public disclosure of information held by government contractors is
+currently addressed via s 121(1) of the
+(‘immediate
+access’ provision). First, the section defines situations in which it
+applies, namely, where ‘[a]n
+... enters into a contract (a government contract) with a private sector entity
+(the contractor) under which the contractor is to
+provide services to the public
+on behalf of the
+Section 121(1) then suggests that, in cases of such contracts, the agency
+‘must ensure that the contract provides for
+to have an immediate right of access’ to the following information held by
+the contractor: (a) ‘information that relates
+directly to the performance
+of the services by the
+contractor’;
+‘information collected by the contractor from members of the public to
+whom it provides’ the services;
+and (c) ‘information received by the contractor from the
+to enable it to provide the
+Lastly, s 121(2)
+provides a list of information that is excluded from the disclosure requirement.
+This information includes: (a)
+information about a ‘contractor’s
+financing arrangements, financial modelling, cost structure or profit
+(b) ‘information
+that the contractor is prohibited from disclosing’ under
+and (c) information that
+‘could reasonably be expected to place the contractor at a substantial
+commercial disadvantage in
+relation to the
+whether at present or in the
+The NSW IPC has developed a few general guidelines for agencies
+and contractors on how to follow these requirements in
+as guidelines targeting digital government
+Despite this, s 121 is
+problematic in the ADMS context in a few respects.
+of Services to the Public
+First, s 121(1) of the
+applies only where the government
+contractor ‘provide[s] services to the public on behalf of the
+agency’. In
+, the Department of Communities and
+Justice (NSW) argued that the government contractor that held the requested
+information, NPS,
+merely designed software used by the Department to provide
+Since NPS was not directly
+providing services to the public, s 121 arguably did not apply. Despite the NSW
+Information and Privacy
+Commissioner’s suggestions to interpret the
+section in a broader manner,
+Tribunal agreed with the Department’s conclusion that the contractor did
+not provide direct services to the
+This decision illustrates that the wording of s 121 and its current
+construction are too narrow and incompatible with the goals of
+. Increasingly, government contractors are not requested to provide
+services to the public on behalf of the government but, rather,
+to assist them
+in the commencement of such services by developing tools to help make decisions,
+providing access to databases and
+smart platforms etc. The types of government
+and private sector partnerships that exist have changed significantly since the
+commencement
+As a result of various
+partnerships, government contractors could hold important information in which
+the public may have a legitimate
+interest. For instance, when a contractor
+develops a system that automates a government decision or a part of the
+decision-making
+process, members of the public have a legitimate interest in
+knowing exactly how the system functions, and in being able to scrutinise
+check its accuracy and reliability. This is a prerequisite for the ability to
+challenge decisions made with the help of ADMS,
+to protect public interests and
+hold the government accountable. Section 121 focuses only on old-type contracts
+on the outsourcing
+of government services and excludes new types of government
+and private sector partnerships. The current wording of s 121 and its
+construction thus have the potential to significantly reduce access to
+government information, decrease government transparency
+and accountability,
+cause harm to the interests of individuals and businesses, and eventually
+negatively affect trust in government
+Contractual
+Duty To Provide Immediate Access
+The second problem related to s 121 is that access to government information
+held by government contractors needs to — and can
+established via a government contract. The statute does not set a statutory duty
+for government contractors to provide
+access to government information that they
+, the government contract with the third party,
+NPS, did not contain provisions providing government access to any
+information.
+Importantly, this contract
+was signed before the enactment of the
+and thus the Tribunal
+considered that such a duty cannot be retrospectively introduced into the
+However, even in relation to
+contracts signed after the enactment of the
+, there is no
+guarantee that all government contracts have such an ‘immediate
+access’ provision. If such contractual information
+duties are omitted from
+the government contract (by error or otherwise) — and since there is no
+statutory duty to provide information
+on government contractors —
+governments would not be contractually able to request any information from
+third-party contractors,
+even if this information is essential for transparency,
+decision contestability or government accountability purposes.
+Scope of Information
+Third, the categories of information to which a contract should establish
+‘immediate access’, as listed under s 121(1)
+are either narrow or vague. It is quite obvious that a contractor should provide
+access to information that they receive from members
+of the public and from the
+agency. These provisions — ss 121(1)(b)–(c) — are thus
+justified but they are narrow
+in scope. The remaining s 121(1)(a) refers to
+information that ‘relates directly to the performance of the
+The exact information that is supposed to be covered by this
+provision remains unclear. If this exact wording was replicated in a
+would it cover information generated by the contractor, such as algorithm
+structure, parameters, training, validation data or results?
+Would it cover
+independent auditing results and other external quality assurance information
+of the provision, the contractor could
+argue that information about the algorithm and its validation and testing does
+not ‘relate
+... directly to the performance of the
+but rather sets
+technical parameters behind the tool that is used in government service
+provision. Thus, returning to
+, even if such a vague
+information duty existed in the contract between the NSW government and the
+contractor, it is doubtful that
+it would have covered the information that was
+requested by the affected individual (eg algorithm, software specification,
+code and test suites).
+Limitations
+to Immediate Access
+The fourth issue related to s 121 is the broad exceptions to the
+‘immediate access’ provisions. Most problematically,
+a government
+contract is not required to provide for the
+to have an immediate right of access to information that would place a
+contractor in a ‘substantial commercial disadvantage
+in relation to the
+agency, whether at present or in the
+The concept of ‘substantial commercial disadvantage’, which was
+already discussed above in relation to the ‘business
+lacks legal certainty and
+predictability, and has been interpreted by the NSW Civil and Administrative
+Tribunal in an unreasonably
+broad manner. In
+, the Tribunal
+determined that disclosure of the information requested by the applicant, namely
+the algorithm, source code and test
+could reasonably be expected to place the contractor (NPS) at a substantial
+commercial disadvantage in relation to the agency (DCJ)
+whether at present or in
+the future. Essentially such disclosure could lead to the position that DCJ no
+longer needed to engage in
+the specialist services of NPS to facilitate DCJ
+carrying out its business and discharging their statutory functions. On this
+s 121(2)(c) is clearly enlivened and would operate to prevent the
+requirement for access to the information by DCJ, to meet the criteria
+information is held.
+Tribunal agreed with the submission of the Department of Communities and Justice
+(NSW) that if released,
+the information could then be used by the Respondent to replicate and/or create
+the same or a similar software product ‘in
+house’ or use the source
+code and algorithms (intellectual property) to request another service provider
+to provide the service
+at a lower cost and thus place the contract between NPS
+and the Respondent in
+unreasonable argument and more specifically, appears to demonstrate the
+Tribunal’s misunderstanding of IP rights
+and their scope. The
+Department’s access to the algorithm, source code or training datasets
+does not itself allow the Department
+to share it with the public, replicate it
+or create the same software product. Much of this information, especially the
+source code,
+remains protected under copyright law. Thus, access to subject
+matter protected by IP laws (more specifically, copyright) does not
+government agency to reproduce it or make it available to another service
+provider and request them ‘to provide
+the service at a lower cost’.
+Copying and publicly communicating work protected by copyright would result in
+Indeed, it is very difficult — if not impossible — to think of
+ways that the disclosure of an algorithm and other technical
+information could
+put the contractor at a substantial commercial disadvantage
+in relation to
+. One of the consequences might be that the agency learns of the
+algorithm’s flaws from this technical information and thus
+discontinue the contract. For example, the agency may learn that the algorithm
+or the model is of low quality, that it
+is based on incorrect formulas or
+assumptions, or that it provides inaccurate or biased results etc. However, the
+law should not
+protect illegitimate commercial interests such as the provision
+of low-quality or harmful services and products. Not even the breach
+confidence doctrine will protect information about
+‘iniquity’.
+Balancing of Competing Public Interests
+Finally, exceptions to the ‘immediate access’ provisions, as
+listed under s 121(2) of the
+, will be applied by contractors
+themselves, not by government agencies, and without the need to balance
+competing public interests.
+As discussed
+above, when an agency is requested to disclose business-related information that
+they hold, they are required to balance
+the public interests in favour of and
+against the disclosure of the information; the former’s prevalence is
+presumed under
+When the information
+is held by a government contractor, the contractor will decide whether the
+requested information falls under
+any of the categories listed under s 121(2).
+They are not required to undertake a balancing and weighting of different public
+In practice, this enables the contractors to easily deny the
+disclosure of information, as long as such disclosure is likely to cause
+any ‘substantial commercial disadvantage ... whether at present or in the
+In conclusion, government information held by third parties has much weaker
+public access and transparency guarantees. The scope of
+information that third
+parties are required to disclose (if such contractual duty exists at all) is
+quite narrow and vague, while
+the exceptions to these disclosure duties are
+overly broad and absolute. Keeping in mind the increasing importance of this
+in practice, there is a need for new solutions that would ensure
+efficient public access to information held by government contractors.
+Proposed Solutions
+The above analysis has demonstrated the current challenges that trade secrets
+and other business information cause in ensuring transparency
+around ADMS in
+NSW. This Part develops three blocks of proposals on how these challenges could
+be addressed. These proposals are
+underpinned by a need to retain
+and strengthen government transparency — and the human right to
+information — in the context of an ever more digitised and automated
+government that increasingly outsources the development
+and deployment of
+automated government tools.
+governments adopt proprietary ADMS that impact the structure, operation or
+decision-making procedures of the government,
+information about such systems
+ought to be made public.
+The involvement
+of third parties in the automation of government should not diminish government
+transparency. On the contrary, emerging
+technologies should enable governments
+to increase transparency and address the asymmetry of information that is held
+by the government
+and by the public, as well as contribute to further
+democratisation of government institutions.
+As Bloch-Wehba summarised:
+[W]hen agencies adopt and rely upon proprietary materials or software in making
+decisions, those materials should generally be considered
+matters of public
+regardless of the licensing or contractual provisions that
+govern. Indeed, allowing contracts between the government and its vendors
+remove the infrastructure of decision-making from public control reflects a
+formalistic approach that privileges the private sector’s
+economic and
+political power while virtually eviscerating the purposes of the statutory
+protections.
+At the same
+time, it is unlikely that governments will agree to withdraw the protection of
+trade secrets and other business information
+in public-private partnerships
+This might lead to undesirable
+consequences, such as the unwillingness of businesses to collaborate with
+governments in developing
+government automation solutions, or lower quality
+technologies being offered to the government. The below proposals seek to
+a new balance between the public need to access proprietary
+information related to government ADMS and the protection of third-party
+interests. While these proposals directly refer to NSW legislation, they would
+be relevant for other states and territories of Australia
+when reconsidering the
+protection of business interests in their respective legislation.
+Reducing Protection for Business Information Held by Government
+The first proposal is to reduce protection for business-related information,
+including trade secrets, held by the government. As could
+be seen from the
+analysis above, increasing government collaborations with the private sector
+will result in even more business-related
+information being held by the
+government (eg in government contracts). However, strong statutory protections
+for such information,
+such as the ‘business interests’ exception
+, impedes the release of such information to the
+public. In order to facilitate public access to business-related information
+ADMS utilised by the NSW government, two actions are recommended: (1)
+narrowing down the protection for ‘commercial-in-confidence’
+information and other business information; and (2) improving the interest
+balancing test by adding another factor that specifically
+encourages the
+disclosure of information about automated government systems.
+Protection for Confidential and Other Business Information
+Narrower protection for both confidential and other business information held
+by the government is recommended for several reasons.
+First, the main object of
+is ‘to open
+information
+to the public’ with a goal ‘to maintain and advance
+a system of responsible and representative democratic Government
+that is open,
+accountable, fair and effective’.
+While this goal should be balanced against other legitimate public
+including the confidentiality
+interests of third parties, there is no reason why the
+grant protection to trade secrets that is more extensive than that granted under
+a general breach of confidence doctrine.
+Second, the Australian breach of confidence doctrine already grants broad
+protection to trade secrets. In contrast to international
+and trade secret laws in many other
+Australian breach of
+confidence law does not explicitly require information to have an independent
+commercial value, which demonstrates
+its broader scope of protection. In order
+to find a breach of confidence, it is sufficient to prove that the information
+is confidential,
+was imparted in a way that creates a duty of confidentiality
+and was used without authorisation.
+broad protection offered under the breach of confidence doctrine could thus be
+sufficient to protect the legitimate interests
+of government contractors.
+Third, courts in other jurisdictions have given narrower protection to trade
+secrets when dealing with freedom of information requests,
+as compared to usual
+trade secret cases. For instance, in case law concerning the US
+Information Act
+US courts have interpreted the term ‘trade secret’ to have a more
+limited meaning than it does under the
+According to Brauneis and
+the government may only withhold records under Exemption 4 [of the
+] for ‘a secret, commercially valuable plan, formula, process, or
+device that is used [in connection with] trade commodities
+and that can be said
+to be the end product of either innovation or substantial
+‘there must be “a direct relationship between the information at
+issue and the productive process”, rather
+than merely “collateral
+confidentiality”’.
+This suggests that ‘not all algorithmic processes that a vendor might
+consider to be trade secrets in the commercial sphere
+should count as trade
+secrets for open records exemption
+Keeping this in mind, there is no rationale to extend protection for
+commercial confidential information under the
+protection granted under the breach of confidence doctrine. Overly extensive
+protection of business information under
+undermines the
+ultimate goal of the Act and inhibits transparency and accountability of the
+government.
+Thus, instead of an
+overbroad ‘commercial-in-confidence’ definition, at the very least,
+could make the protection of commercial confidential
+information compatible with its protection under the breach of confidence
+Further, it is questionable whether
+non-confidential
+information requires protection at all. As argued above, if a third party
+provided the government with the information
+without any confidentiality
+restrictions, its commercial value and significance is assumingly so limited
+that its public disclosure
+does not need to be prohibited. Accordingly, the
+could envisage that, in order for business information to be
+protected under the legislation, it should be of commercial significance
+third party (ie provide a competitive advantage) and they should have made
+efforts to keep it confidential (ie disclosed it
+in circumstances importing the
+duty of confidentiality). In comparison, similar exceptions under the
+generally only protect trade secrets and other confidential and
+privileged information.
+This additional
+limitation for the protection of business interests under the
+would encourage third parties, before disclosing information to the government,
+to carefully assess which information is commercially
+valuable and should
+therefore be kept confidential.
+the Public Interest Test
+As a second proposal, NSW government agencies could be further encouraged to
+disclose ADMS-related information through a revised public
+Currently, when deciding whether
+to release proprietary information about ADMS, agencies should weigh the
+business risks of such
+disclosure against a list of general factors in favour of
+such disclosure.
+Examples of factors in
+favour of disclosure include information that would: ‘promote open
+discussion of public affairs, enhance
+Government accountability or contribute to
+positive and informed debate on issues of public
+importance’;
+‘inform the
+public about the operations of agencies and, in particular, their policies and
+practices for dealing with members
+‘ensure effective
+oversight of the expenditure of public
+and ‘reveal or
+substantiate that an
+... has engaged in misconduct or negligent, improper or unlawful
+These examples, however, do not specifically refer to the digital or
+automated government systems that are often developed through
+public-private
+partnerships. As explained above, such collaborations frequently result in a
+lack of public access to information
+systems that are based on new and emerging technologies might have elevated
+risks and often
+lack established quality assurance and oversight
+mechanisms.
+In such cases, the public
+oversight and quality of such systems should be prioritised over the commercial
+interests involved. To
+do so, freedom of information laws could establish
+mechanisms that would encourage agencies to disclose information about automated
+government systems.
+As one of the possible options for the
+, an additional factor
+could be added to the list of factors weighing in favour of the disclosure of
+government information. This
+factor could consider the use of automation as a
+factor favouring the disclosure of information. A similar recommendation was
+by the NSW IPC, but in relation to AI technologies
+factor, it is recommended, should refer to all automated systems or processes
+(not only to AI), as even relatively simple
+software which does not amount to AI
+might have significant impacts on individuals and thus pose significant
+An additional factor in favour of
+disclosure would give a stronger basis for government agencies to disclose
+information about ADMS,
+even if such disclosure affects certain business
+Improving Access to Information Held by Third Parties
+Apart from improving disclosure of information held by government, it is also
+necessary to improve access to information held by government
+contractors.
+Keeping in mind that public-private partnerships are likely to increase in the
+future and that government contractors
+are likely to hold even more information
+appropriate access to information held by these third parties. The
+above analysis has demonstrated that current rules regulating
+access to such
+information under the
+— especially s 121 (the
+‘immediate access’ provisions) — are largely inadequate in the
+modern context of
+government and private sector partnerships. Three reforms to s
+121 are recommended to improve access to information held by NSW government
+contractors.
+the Scope of ‘Immediate Access’ Provisions
+The first proposal is to expand s 121 of the
+so that it not
+only covers contractors that provide direct services to the public but also any
+third parties which provide ADMS tools
+or services that facilitate the provision
+of government services.
+This would help
+address the first problem related to
+s 121; namely, its application to a narrow group of government contracts
+Expanding the scope of s 121 is necessary to reflect the diversity and
+complexity of government and private sector partnerships in
+the context of
+government automation.
+In many cases,
+government contractors do not directly provide services to the public on behalf
+of the agency but ‘merely’
+provide algorithmic or automated tools to
+assist the government with their functions. Government reliance on these tools,
+may have significant effects on individuals’ rights and
+legitimate interests. As mentioned above, these tools have already
+automatically
+issued debt notices
+and garnishee orders
+to individuals,
+played an instrumental
+role in calculating rental subsidies,
+and influenced parole decisions.
+significance of such tools is not necessarily less — and is sometimes even
+higher — than the significance of third-party
+services directly provided
+to the public. When information about these tools and how they work is held by
+government contractors,
+the law should ensure that individuals have the right to
+access this information. In addition, without expanding the scope of s 121,
+asymmetry of the information held by the government and its partners, and
+information that the public can access, will further
+increase and is likely to
+result in unjustified limitations on the human right to
+information.
+Information to Which Government Should Have Immediate Access
+Second, the immediate access provisions that are currently listed under s
+121(2) of the
+are general and vague in nature, and thus provide
+little legal certainty as to the information to which government should have
+These provisions need
+to be defined in a clear and more specific way to increase legal certainty and
+predictability for all parties
+involved. The
+provisions or the
+corresponding NSW IPC guidance
+more clearly list the types of information about government ADMS to which
+government contractors are obliged to provide access
+and under what conditions.
+For instance, this could be system development and functioning information (eg
+algorithmic parameters,
+training and validation information), system external
+testing, certification and auditing
+information.
+The UK Algorithmic
+Transparency Standard provides useful guidance on what types of information
+It could be made clear that
+while some of this information might be made accessible to the government agency
+only (ie under confidentiality
+restrictions), other information needs to be
+provided for public access purposes (ie free from confidentiality
+This will ensure that the
+public has access to the third-party information that is necessary for
+government transparency purposes.
+Down Exceptions to ‘Immediate Access’ Provisions
+Thirdly, it is recommended that exceptions to the ‘immediate
+access’ provisions, as listed under s 121(2) of the
+reconsidered. As demonstrated above, these exceptions are either broad, vague or
+inadequate, and make it very easy for contractors
+to reject the request for
+information as long as certain commercial interests are
+Current provisions are thus
+very protective of third-party commercial interests and make it barely possible
+for the government to
+fulfil its transparency and accountability duties.
+Instead of these vague and broad provisions, more specific exceptions to the
+‘immediate access’ provisions could be considered.
+For instance,
+such exceptions might focus on trade secrets
+Namely, if the information to
+which the government wants access constitutes commercial confidential
+information as defined under
+general law, this would be a legitimate ground for
+the third party to reject a disclosure of such information. However, if the
+information is not confidential in nature and the party cannot show
+how its disclosure would lead to a significant commercial disadvantage,
+disclosure should not be pre-empted. In any case, the exceptions for the
+disclosure of information held by government contractors
+should be compatible
+with those applicable to business information held by the government.
+Acquiring Essential Information through Improved Procurement
+The above two solutions have the potential to improve access to third-party
+information, both held by the government and by government
+contractors. However,
+they will not fully solve the problems identified earlier. For instance, even if
+the above recommendations
+are adopted, it will remain impossible to publicly
+disclose information that qualifies as confidential commercial information or
+trade secrets (either held by the government or by a third party), as disclosure
+of such information might lead to government liability
+under the breach of
+confidence doctrine. If the
+protects only
+confidential
+commercial information, contractors will start using trade secrets even more
+intensely; for instance, by routinely requesting government
+agencies to sign
+non-disclosure agreements.
+Further, even
+if laws provided protection only to confidential information that provides a
+significant commercial advantage, as proposed
+above, an abundance of publicly
+relevant information (eg about algorithmic parameters and validation) might
+prove to be commercially
+significant and thus excluded from public disclosure
+duties. For these reasons, additional measures to improve public access to
+information about government ADMS need to be considered.
+One such possible measure is to ensure that the government leverages its
+procurement powers to acquire, or using the
+’s terminology,
+to get a ‘hold’ of information that is essential for public
+transparency purposes and without any
+confidentiality
+restrictions.
+In particular, before
+collaborating with third parties to develop or implement government ADMS,
+governments should require third
+parties to commit to the disclosure of
+information that is essential for government public transparency
+This information can be
+provided on a one-off basis or continuously, and it can be licensed or owned by
+the government. However,
+for the purposes of the
+, it should be
+considered as ‘held’ by the government agency. Further, government
+contractors would be required to provide
+this essential information without any
+confidentiality restrictions; otherwise, the government might not be able to use
+this information
+for public disclosure
+This solution would address several of the problems identified above. First,
+if such essential information is acquired and held by
+the government, it could
+be easily disclosed to the public, either through proactive or reactive
+transparency pathways. The government
+would not need to request such information
+from the contractor, which requires relying on their disclosure procedures and
+that the third party does not misuse and inappropriately apply the
+exceptions to their disclosure duties. Further, if the government
+information without commercial confidentiality restrictions, trade secrets, as a
+barrier to government transparency, would
+also be removed. There would be no
+need for the agency to balance possible conflicting public interests (eg an
+interest not to disclose
+trade secrets) and the agency would not be unable to
+disclose trade secrets due to legal liability risks. Other commentators agree
+that despite public-private partnerships, the government should find solutions
+that enable them to provide unrestricted access to
+the information relevant for
+transparency purposes.
+The government should be able to get hold of such essential information
+during procurement procedures.
+Bloch-Wehba suggests, ‘the transparency problem raised by algorithmic
+governance as it is presented today results largely
+from procurement practices
+that fail to foreground the public
+During negotiations,
+the government could require the contractors to provide such information without
+confidentiality restrictions.
+contractor does not agree to commit to the unrestricted disclosure of essential
+information, the government should not enter
+into contracts with such a party
+that is not ready to support government transparency
+obligations.
+As suggested by Brauneis and Goodman, this is possible in practice and some
+government institutions in the US have already been successfully
+negotiating
+contracts with much narrower non-disclosure duties or negotiating ownership over
+confidential information.
+In the case of
+commercial contractors (as opposed to not-for-profit organisations providing
+tools for free), governments arguably
+have ‘additional leverage’ in
+negotiations as they are paying for the
+implementation of new contracting practices might require a revision of
+procurement laws and practices as well as continuous monitoring
+implementation.
+For example, a
+previously proposed Act of the Washington state legislature required ADMS to
+have several transparency and accountability-enhancing
+features, including that
+they be open to audit and inspection by state
+It also stipulated that
+procurement contracts for ADMS contain non-disclosure provisions or other
+obstacles to transparency.
+This proposed
+Act is an example of how procurement policies around government ADMS could be
+‘Essential’ Information
+In order to implement the above proposal, the remaining challenging task is
+to determine what constitutes ‘essential’
+information — ie
+what information is so ‘essential’ for public transparency purposes
+that the government should
+require third parties to disclose it despite possible
+associated commercial interests.
+Australian and international government institutions and public organisations
+have made preliminary attempts to list the types of
+information about ADMS that
+should be made publicly available, but there is no consensus on this question
+yet. For instance, the
+NSW IPC has suggested that agencies should identify
+‘datasets and other forms of digital information and inventories of
+enhanced decision-making in Agency Information Guides’, and ensure
+that ‘documents/information that supports digital
+government and automated
+decision-making ... are available as open access
+information’.
+The NSW IPC has also
+recommended that agencies ‘[e]nsure that
+open access
+[information]
+includes a statement of use, inputs, and a description of the operation of the
+AI system’.
+The NSW Ombudsman has
+suggested that
+agencies should consider releasing draft specifications, code and even
+‘beta’ versions of new machines to draw on external
+expertise and
+the technology is
+put into operation.
+the UK Algorithmic Transparency Recording Standard, government agencies are
+required to provide information about ownership
+and responsibility, description
+and rationale, decision-making processes, technical specifications and data, as
+well as risk mitigations
+assessments.
+Under the EU’s
+proposal for AI regulations, information to be included in the register of
+high-risk technologies includes a
+general description of the technology, a
+detailed description of its elements and development, detailed information about
+the monitoring,
+functioning and control of the AI system, and risk management
+and post-market evaluation
+Especially detailed transparency provisions are available in the World Economic
+Forum white paper on facial recognition technologies
+enforcement.
+Civil organisations and
+academic commentators have also developed various proposals on what effective or
+meaningful government transparency
+around ADMS would
+While a comprehensive public discussion and a separate study are required to
+determine the types of information that are ‘essential’
+transparency purposes, two main perspectives — a
+‘stakeholder’ and a ‘system’
+perspective — in selecting such essential information are proposed
+Firstly, according to a ‘stakeholder’ perspective, governments
+should keep in mind that different stakeholder groups require
+different levels
+of transparency about government automation and should ensure that each
+stakeholder group has access to sufficient
+information to meet their
+In particular, governments should
+meet the transparency needs of non-expert members of the public that have
+limited knowledge about
+government ADMS and require relatively general and
+user-friendly information. Governments should also aim to meet the transparency
+needs of members of the public such as Non-Government Organisations and
+researchers, who might have expert knowledge about the systems
+regulation, and require more in-depth and detailed technical information or
+other quality assurance information.
+this latter case, the government would have to balance public interests against
+the interests of third parties, as it might not
+be reasonable or justified to
+require government contractors to disclose all of the technical information that
+experts may seek.
+Despite this, governments should ensure that at least some of
+the relevant information sought by experts is made available to make
+that they can effectively perform a public oversight function. For instance,
+even if exhaustive information about algorithmic
+parameters, training and
+validation cannot be disclosed due to trade secrets, information such as
+external validation, auditor’s
+reports and independent legal evaluation
+reports should be publicly available.
+Second, a ‘system’ perspective suggests that ADMS should be
+subject to different transparency standards depending on the
+more specifically, depending on the level of impact or risk that it poses to the
+rights and legitimate interests
+of individuals. If the technology has minimal
+effects on human rights or legitimate interests (eg automated traffic light
+minimal information will need to be provided. If an ADMS has medium or
+significant/high effects on individual rights or interests
+(eg if it influences
+a decision affecting an individual’s legal rights or social and economic
+interests), a high level of transparency
+of the system should be ensured. The risk or impact of AI is a criterion that
+has been suggested
+for regulating AI both in
+In summary, as governments are increasingly using sophisticated algorithms in
+their decision-making, which are likely to negatively
+affect the legitimate
+interests of their citizens, it becomes indispensable to maintain and increase
+public transparency around such
+algorithms. Focusing on the case study of NSW,
+this article has demonstrated that current transparency around government ADMS
+NSW is insufficient, with transparency laws such as the
+containing significant gaps in ensuring transparency in the age of government
+automation. This article has proposed a range of legal
+reforms and improved
+procurement practices which are expected to assist in enhancing transparency
+around government automated decision-making
+as well as ensure better government
+accountability and improved public service delivery.
+* PhD, LLM (Munich), Senior Lecturer at Macquarie University Law School.
+This article is the outcome of a research project,
+NO to BlackBox: Towards More Transparent
+and Explainable AI in Government’, funded under the Macquarie University
+Outside Studies
+Program. My sincere thanks to Serena Abrahams for her editorial
+assistance.
+Digital Transformation Agency (Cth),
+Digital Government Strategy: Accelerating the Digital Future of Our
+Australian Public Service
+(Report, 2021) 3.
+Australian Government,
+2021–22: Budget Strategy and Outlook
+(Budget Paper No 1, 11 May 2021)
+‘Beyond Digital’,
+(Web Page) <https://www.digital.nsw.gov.au/strategy>, archived at
+<https://perma.cc/9JT6-9DW7>.
+‘Artificial Intelligence
+Digital NSW
+<https://www.digital.nsw.gov.au/‌policy/artificial-intelligence/artificial‌-intelligence-‌strategy>,
+archived at <https://perma.cc/‌4HEV-JCBX>.
+See ‘My Health Record’,
+Office of the Australian Information Commissioner
+<https://www.oaic.gov.au/privacy/privacy-legislation/related-legislation/my-health-record>,
+archived at <https://perma.cc/MM6C-6JSU>.
+‘SmartGates’,
+Border Force
+(Web Page, 23 September 2019) <
+https://www.abf.g​ov.au/entering-and-leaving-australia/smartgates/overview
+>, archived at <https://perma.cc/
+D5KM-G2EJ>.
+Commonwealth Ombudsman,
+Centrelink’s Automated Debt Raising and Recovery System: A Report about
+the Department of Human Services’ Online Compliance
+Intervention System
+for Debt Raising and Recovery
+(Report, April 2017) 1
+Centrelink’s Automated Debt Raising and Recovery
+Transport for NSW,
+NSW Automated
+Enforcement Strategy for Road Safety
+(Report, November 2022) 4.
+Revenue NSW, ‘Using Artificial
+Intelligence To Identify and Support Customers Facing Hardship’,
+Digital NSW
+(Web Page, 21 September 2021) <
+https://www.digital.nsw.gov.au/artic​le/using-artificial-intelligence-to-identify-and-support-customers-facing-hardship
+>, archived at <
+https://perma.cc/WVZ3-776C
+‘New Algorithm Tool Designed To
+Identify Sepsis Risk in ED’,
+eHealth NSW
+(Web Page, 9 September
+https://www.ehealth.nsw.gov.au/news/algorithm-tool-to-identify-sepsis
+>, archived at <https://perma.cc/K2GC-NAFV>.
+Cary Coglianese and David Lehr,
+‘Regulating by Robot: Administrative Decision Making in the
+Machine-Learning Era’
+(2017) 105(5)
+Georgetown Law Journal
+See, eg, Carolin Kemper,
+‘Kafkaesque AI? Legal Decision-Making in the Era of Machine
+Learning’ (2020) 24(2)
+University of San Francisco Intellectual
+Property and Technology Law Journal
+251, 252–3;
+Christine Kumar, ‘The Automated Tipster: How
+Implicit Bias Turns Suspicion Algorithms into BBQ Beckys’
+(2020) 72(1)
+Federal Communications Law Journal
+, 99–100; Anna Huggins,
+‘Addressing Disconnection: Automated Decision-Making, Administrative Law
+and Regulatory Reform’
+[2021] UNSWLawJl 37
+(2021) 44(3)
+University of New South Wales Law Journal
+1048, 1076;
+Yee-Fui Ng, ‘Institutional Adaptation and the Administrative
+[2021] MelbULawRw 4
+(2021) 44(3)
+Melbourne University Law Review
+915–24; Yee-Fui Ng and Maria O’Sullivan, ‘Deliberation and
+Automation: When Is a Decision a “Decision”?’
+(2019) 26(1)
+Australian Journal of Administrative Law
+, 21–3, 33.
+NSW Ombudsman,
+The New Machinery of
+Government: Using Machine Technology in Administrative Decision-Making
+(Report, 29 November 2021) 7 (‘
+The New Machinery of
+[2022] NSWCATAD 100
+[2022] NSWCATAD 366
+) [2]–[5] (Senior Member McAteer);
+ibid [1]–[7] (Senior Member Ransome). For further discussion of these
+cases, see below
+accompanying text.
+Various reasons for transparency are
+well summarised in Michele Loi,
+Automated Decision-Making Systems in the
+Public Sector: An Impact Assessment Tool for Public Authorities
+June 2021) 18–21; Lyria Bennett Moses and Louis de Koker, ‘Open
+Secrets: Balancing Operational Secrecy and Transparency
+in the Collection and
+Use of Data by National Security and Law Enforcement Agencies’
+[2017] MelbULawRw 32
+Melbourne University Law Review
+, 534–6, 548.
+Organisation for Economic Co-Operation
+and Development,
+Modernising Government: The Way Forward
+(2005) 29. For a
+short overview of the history of open government, see Anita Stuhmcke,
+Advancing the Objects of the Government Information (Public
+Access) Act 2009 (NSW): An International Comparative Evaluation of Measures
+To Promote Government Information Release
+(Report, 23 June 2015)
+13–16; Bernd W Wirtz and Steven Birkmeyer, ‘Open Government: Origin,
+Development, and Conceptual
+Perspectives’
+(2015) 38(5)
+International
+Journal of Public Administration
+, 382–4; Fons Wijnhoven, Michel
+Ehrenhard and Johannes Kuhn, ‘Open Government Objectives and Participation
+Motivations’
+(2015) 32(1)
+Government Information Quarterly
+International Covenant on Civil and Political Rights
+for signature 19 December
+1966, 999 UNTS 171
+(entered into force 23 March 1976)
+For analyses of various challenges
+related to emerging government technologies, see Han-Wei Liu, Ching-Fu Lin and
+Yu-Jie Chen, ‘Beyond
+State v Loomis
+: Artificial Intelligence,
+Government Algorithmization and Accountability’
+(2019) 27(2)
+International Journal of Law and Information Technology
+Lyria Bennett Moses and Edward Santow, ‘Accountability in the Age of
+Artificial Intelligence: A Right to Reasons’
+(2020) 94(11)
+Law Journal
+, 829–30; Emily Berman, ‘A Government of Laws and
+Not of Machines’
+(2018) 98(1)
+Boston University Law Review
+1326–31; Noah Bunnell, ‘Remedying Public-Sector Algorithmic Harms:
+The Case for Local and State Regulation via Independent
+Columbia Journal of Law and Social Problems
+Robert Brauneis and Ellen P Goodman,
+‘Algorithmic Transparency for the Smart City’
+Journal of Law and Technology
+Erik Bakke, ‘Predictive Policing: The Argument
+for Public Transparency’
+(2018) 74(1)
+New York University Annual Survey
+of American Law
+For example, in a 2020 Australian
+Human Rights Commission survey, ‘85% of survey participants indicated it
+was very important,
+or somewhat important, to be informed that a computer
+program has made an automated decision affecting them’: Australian Human
+Rights Commission,
+Human Rights and Technology
+(Final Report, 1 March
+Government transparency is the main
+goal of federal and state freedom of information acts: see, eg,
+Information Act 1982
+FOI Act (Cth)
+Archives Act 1983
+Public Interest Disclosure Act 2013
+Information (Public Access) Act 2009
+Freedom of Information Act 1982
+Since 2015,
+the Australian government has also been a member of the Open Government
+Partnership: ‘Australia’,
+Open Government Partnership
+Page) <https://www.opengovpartnership.org/‌members/australia>,
+archived at <https://perma.cc/6V7X-5V25>.
+See, eg, Department of Industry,
+Science and Resources (Cth), ‘Australia’s AI Ethics
+Principles’,
+Australia’s Artificial Intelligence Ethics
+(Web Page, 7 November 2019)
+<https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework​/australias-ai-ethics-principles>,
+archived at <https://perma.cc/ZD7J-CU6T>. According to Digital
+Transformation Agency (Cth) (n
+Agency ‘will be open and transparent in [its] interactions by clearly
+communicating [its] processes including the way
+[it] use[s] data and make[s]
+decisions’: at 12. See also NSW Government, ‘Artificial Intelligence
+Ethical Policy’,
+NSW Digital
+<https://www.digital.nsw.gov.au/policy/artificial-intelligence/artif​icial-intelligence-ethics-policy>,
+at <https://perma.cc/CSB6-A7KF>. According to the NSW government,
+AI must be a ‘solution that is open and transparent
+so that NSW citizens
+have access to efficient review mechanisms’.
+NSW Ombudsman,
+The New Machinery of
+) 7. See also below
+Part II(B).
+While in different contexts these
+terms might have slightly different meanings, for the purpose of this article,
+they are used as
+NSW Ombudsman,
+The New Machinery of
+) states ‘[a]
+key transparency issue arises when an agency engages an external provider for
+machine technology expertise’:
+at 62. In its submission to the Australian
+Human Rights Commission, the Information and Privacy Commission (NSW) states
+that ‘there
+is scope to strengthen existing information access laws to
+better facilitate access to AI-informed decision-making, particularly
+governments partner with the private sector and NGOs in using these
+technologies’: Information and Privacy Commission
+(NSW), Submission to
+Australian Human Rights Commission,
+Human Rights and Technology Discussion
+(24 February 2020) 19 <
+https://humanrights.gov.au/‌sites/default/files/2020-07/10_-_information_and_privacy_commission_nsw_1.pdf
+archived at <https://perma.cc/L9JT-SRAE>. See also Jake Goldenfein,
+‘Algorithmic Transparency and Decision-Making
+Accountability: Thoughts for
+Buying Machine Learning Algorithms’ in Cliff Bertram, Asher Gibson and
+Adriana Nugent (eds),
+Closer to the Machine: Technical, Social, and Legal
+Aspects of AI
+(Office of the Victorian Information Commissioner, August
+2019) 41, 42–3; Rebecca Wexler, ‘Life, Liberty, and Trade Secrets:
+Intellectual Property in the Criminal Justice System’
+(2018) 70(5)
+Stanford Law Review
+, 1346, 1349–50.
+Part II(B).
+For an analysis of transparency and
+ADMS problems under the
+FOI Act (Cth)
+Yee-Fui Ng et al, ‘Revitalising Public Law in a Technological Era:
+Rights, Transparency and Administrative Justice’
+[2020] UNSWLawJl 37
+(2020) 43(3)
+University of New South Wales Law Journal
+For an analysis of state transparency
+laws in the United States (‘US’), see generally Christina
+Koningisor, ‘Transparency
+(2020) 114(6)
+Northwestern
+University Law Review
+See, eg, Ayo Næsborg Anderson
+and Hanne Marie Motzfeldt, ‘Different Aspects of Transparency in Digital
+Government: The
+Danish Case’ (Conference Paper, European Conference on
+Digital Government, 24 October 2019) 81–6. Anderson and Motzfeldt
+transparency in digital government could be divided into transparency of data,
+transparency of algorithms, transparency of
+administrative decisions and
+democratic transparency. See also Tom M van Engers and Dennis M de Vries,
+‘Governmental Transparency
+in the Era of Artificial Intelligence’ in
+Michal Araszkiewicz and Víctor Rodríguez-Doncel (eds),
+Knowledge and Information Systems
+(IOS Press, 2019) vol 322, 33, 35–6.
+See generally van Engers and de Vries (n
+) which discusses the explainability of
+AI decisions as an element of transparency.
+See also Tal Z Zarsky, ‘Transparent Predictions’
+University of Illinois Law Review
+, 1530–2, which suggests that
+transparency is not well understood in the algorithmic government
+decision-making context. For
+a brief history of government transparency, see
+Daniel J Metcalfe, ‘The History of Government
+Transparency’ in Padideh Ala’i and Robert G Vaughn (eds),
+Research Handbook on Transparency
+(Edward Elgar Publishing, 2014)
+Department of Industry, Science and
+Resources (Cth), ‘Australia’s AI Ethics Principles’
+NSW Government, ‘Mandatory
+Ethical Principles for the Use of AI’,
+NSW Digital
+<https://www.digital.nsw.gov.au/policy/artificial-intelligence/artificial-intelligence-ethics-pol​icy/mandatory-ethical-principles>,
+archived at <https://perma.cc/JU3D-P7PQ>.
+Ibid. This compares with the
+definition provided in Australian Human Rights Commission,
+Human Rights and
+) 60. According to
+the Australian Human Rights Commission, transparency requires ‘that any
+affected individual is notified where
+artificial intelligence is materially used
+in making an administrative decision’.
+See generally David E Pozen,
+‘Transparency’s Ideological Drift’
+(2018) 128(1)
+, for a discussion on transparency’s historical drift from
+being a progressive ideal to a libertarian one.
+Department of Industry, Science and
+Resources (Cth), ‘Australia’s AI Ethics Principles’ (n
+Cf NSW Ombudsman,
+The New Machinery
+of Government
+) which proposes
+strengthening government transparency towards courts, tribunals and disciplinary
+or regulatory bodies: at 62.
+Note that transparency can serve
+various goals: see, eg, Bakke (n
+144. Bakke lists five reasons for transparency: ‘(1) democratic
+legitimacy; (2) the prevention of misconduct; (3) a remedy
+for injustices; (4)
+better substantive policies; and (5) community trust’. Tom van Nuenen et
+al, ‘Transparency for Whom?
+Assessing Discriminatory Artificial
+Intelligence’ (2020) 53(11)
+36, 37, 42–3, argues
+that transparency should be understood by looking at the issue from the
+perspectives of various stakeholders.
+See, eg, Frank Bannister and Regina
+Connolly, ‘The Trouble with Transparency: A Critical Review of Openness in
+E-Government’
+(2011) 3(1)
+Policy and Internet
+9–18; Harlan Yu and David G Robinson, ‘The New Ambiguity of
+“Open Government”’ [2011]
+UCLA Law Review Discourse
+178, 182; van Nuenen et al (n
+Danielle Moon and Carolyn Adams, ‘Too Much of
+a Good Thing? Balancing Transparency and Government Effectiveness in FOI Public
+Interest Decision Making’ (2015) 82 (November)
+Australian Institute of
+Administrative Law Forum
+See, eg, Mark Fenster, ‘The
+Opacity of Transparency’
+(2006) 91(3)
+Iowa Law Review
+902–10; van Nuenen et al (n
+Ibid s 6(1).
+The list of ‘public interests
+considerations’ can be found under s 14 of the
+Information and Privacy Commission
+Automated Decision-Making, Digital Government and Preserving
+Information Access Rights: For Agencies
+(Fact Sheet, August 2022) 2
+NSW IPC Fact Sheet
+Ibid s 9(1).
+‘Open Government, Open Data
+& Public Participation’,
+Information and Privacy Commission
+<https://www.ipc.nsw.gov.au/information-access/open-government-open​-data>,
+archived at <https://perma.cc/5X7G-HMF4>;
+Information and Privacy
+Commission (NSW),
+Charter for Public Participation: A Guide To Assist
+Agencies and Promote Citizen Engagement
+(Guide, June 2018) 4.
+‘Beyond Digital’ (n
+‘Open Government, Open Data
+& Public Participation’ (n
+See above n
+and accompanying text.
+Information and Privacy Commission (NSW), 10 Year GIPA Data
+Analysis Overview 2010 to 2020
+(Report, September 2021)
+<https://www.ipc.nsw.gov.au/nsw-information-commissioners-10-year-gipa-data-analysis-overview-2010-2020>,
+archived at <https://perm​a.cc/G79C-ZU3E>
+’). During 2010–20, applications to access government
+information increased from 6,000 to 13,690.
+Ibid, citing Information and Privacy
+Commission (NSW),
+NSW Community Attitudes to Information Access
+Document, April 2020) <www.ipc.nsw.gov.au/media/3115>.
+) s 6(1); Information and Privacy
+Commission (NSW),
+NSW IPC Fact Sheet
+NSW Ombudsman,
+The New Machinery of
+) 7. At the time of
+writing, the NSW Ombudsman, in collaboration with ADM+S, was conducting a study
+to map the uses of ADMS in NSW
+agencies: Loren Dela Cruz, ‘ADM+S Partners
+with New South Wales Ombudsman To Analyse the Use of Automated Systems in NSW
+(Web Page, 23 January 2023) <
+https://www.admscentre.org.au/adms-partners-with-the-new-south-wales-ombudsman-to-analyse-the-use-of-automated-systems-in-nsw-govern​ment-sectors/
+>, archived at <https://perma.cc/2N6Q-L425>
+Information and Privacy Commission
+GIPA Data Analysis
+NSW Ombudsman,
+The New Machinery of
+) 2–3; Lucy
+Cormack, ‘Revenue NSW’s Automated System Took Fines from
+People’s Bank Accounts’,
+The Sydney Morning Herald
+30 November 2021) <
+https://www.smh.com.au/politics/nsw/revenue-nsw-s-automated-system-took-fines-from-people-s-bank-accounts-20211129-p59d2m.html
+archived at <https://perma.cc/LG59-78G2>.
+Revenue NSW (n
+‘Department of Customer Service
+Agency Information Guide’,
+NSW Government
+(June 2024, Web Page)
+<https://www.nsw.gov.au/departments-and-agencies/customer-service/access-to-information/department-of-customer-service-agency-information-guide>,
+archived at <htt​ps://perma.cc/6DHY-QPL8>. Some brief information
+NSW web page as an example
+of a positive use of AI: ibid.
+Information and Privacy Commission
+NSW IPC Fact Sheet
+Information and Privacy Commission
+GIPA Data Analysis
+‘5b: Did Applicants Get What
+They Asked for?’,
+Information and Privacy Commission (NSW)
+<https://www.ipc.nsw.gov.au/information-access/agency-gipa-dashboard/gipa-dashboard>.
+The latter number includes
+full refusal of information (6%), information already
+publicly available (2%) and applications withdrawn (6%).
+See generally ‘Agency GIPA
+Dashboard’,
+Information and Privacy Commission (NSW)
+<https://www.ipc.nsw.gov.au/information-access/gipa-dashboard>, archived
+at <https://​perma.cc/4MYD-7DTD>.
+The release rates for general
+information and for information related to digital government have both been
+around 65%: Information
+and Privacy Commission (NSW),
+GIPA Data Analysis
+) [2]–[3], [8] (Senior Member
+Ibid [10], [40].
+Ibid [99], [117]–[118].
+Ibid [96], [100].
+Ibid [102]–[103]. For a useful
+summary of the decision, see ‘Case Note: O’Brien v Secretary,
+Department Communities
+and Justice
+[2022] NSWCATAD 100
+Information
+and Privacy Commission (NSW)
+<https://www.ipc.nsw.gov.au/case-note-obrien-v-secretary-department-communities-and-justice-2022-nswcatad-100>,
+archived at <https://perma.cc/‌DL46-4K76>.
+) [8]–[9], [40]–[41] (Senior
+Member Ransome).
+Ibid [4]–[5], [20].
+Ibid [45]–[50].
+See above Part II.
+For a broader discussion on how
+technology use in government affects citizens’ views on government
+transparency, see David
+Valle-Cruz, Rodrigo Sandoval-Almazan and J Ramon
+Gil-Garcia, ‘Citizens’ Perceptions of the Impact of Information
+Use on Transparency, Efficiency and Corruption in Local
+Governments’ (2016) 21(3)
+Information Polity
+321, 321–4,
+Brauneis and Goodman (n
+) 152. See also Ng et al (n
+) which states: ‘[T]he
+does not contain any specific requirements concerning the creation or
+retention of data. There is no general statutory requirement
+to create documents
+and whether or not they are retained is determined by the requirements in the
+Archives Act 1983
+(Cth)’: at 1054.
+) [99] (Senior Member McAteer).
+For example, in
+Re Schouten and
+Department of Education
+Employment and Workplace
+[2011] AATA 365
+, the departmental representative at the
+Administrative Appeals Tribunal hearing was unable to explain how the
+applicant’s rate
+of youth allowance was determined because of the
+complexity of the database and its programming: at [38]–[39] (Senior
+) ss 13–15.
+See, eg, Sharon K Sandeen and Tanya
+Aplin, ‘Trade Secrecy, Factual Secrecy and the Hype Surrounding AI’
+in Ryan Abbott
+Research Handbook on Intellectual Property and
+Artificial Intelligence
+(Edward Elgar Publishing, 2022) 443, 443–4;
+Ana Nordberg, ‘Trade Secrets, Big Data and Artificial Intelligence
+Innovation:
+A Legal Oxymoron?’ in Jens Schovsbo, Timo Minssen and Thomas
+Riis (eds),
+The Harmonization and Protection of Trade Secrets in the EU: An
+Appraisal of the EU Directive
+(Edward Elgar Publishing, 2020) 192,
+192–203; Sonia K Katyal, ‘The Paradox of Source Code Secrecy’
+(2019) 104(5)
+Cornell Law Review
+, 1186, 1225–50; Wexler (n
+Information and Privacy Commission
+Report on the Operation of the
+Government Information (Public Access)
+: 2020–2021
+(Report, 2022) 5.
+Information and Privacy Commission
+Digital Restart Fund: Assessing Information Access and Privacy
+(Report, September 2022) 8 (‘NSW Digital Restart Fund’).
+See ‘NSW Contracts
+Infrastructure NSW
+(Web Page) <
+https://www.infrastructure.​nsw.gov.au/accessing-information/nsw-contracts-register/
+archived at
+https://perma.cc/
+Sandin and Aplin (n
+) 443–5; Nordberg (n
+) 199–202, 210–17; Katyal (n
+) 1225–32. See also Bunnell (n
+) 266, 276–8; Bakke (n
+See, eg, Hannah Bloch-Wehba,
+‘Access to Algorithms’
+(2020) 88(4)
+Fordham Law Review
+1290–5, which discusses how government service outsourcing and third-party
+involvement in automating government services causes
+various challenges. See
+also Gillian E Metzger, ‘Private Delegations, Due Process, and the Duty To
+Supervise’ in Jody
+Freeman and Martha Minow (eds),
+Government by
+Contract: Outsourcing and American Democracy
+(Harvard University Press,
+2009) 291, 299–300. Metzger observes that ‘with expanding
+privatization, private entities
+increasingly are undertaking adjudications on
+behalf of the government’: at 299. See also
+Part II(B).
+The NSW Digital Restart Fund is an
+excellent example of this: Information and Privacy Commission (NSW),
+NSW Digital Restart Fund (n
+See above n
+. See also Deirdre K Mulligan and
+Kenneth A Bamberger, ‘Procurement as Policy: Administrative Process for
+Machine Learning’
+(2019) 34(3)
+Berkeley Technology Law Journal
+See, eg, Goldenfein (n
+) 42–3, 46; Wexler (n
+) 1348–53; Bakke (n
+Rita Matulionyte, ‘Reconciling
+Trade Secrets and Explainable AI: Face Recognition Technology as a Case
+(2022) 44(1)
+European Intellectual Property Review
+(‘Reconciling Trade Secrets’); Katarina Foss-Solbrekk, ‘Three
+Routes to Protecting AI Systems and Their Algorithms
+under IP Law: The Good, the
+Bad and the Ugly’
+(2021) 16(3)
+Journal of Intellectual Property Law and
+, 248, 250–6; Nari Lee, ‘Protection for Artificial
+Intelligence in Personalised Medicine: The Patent/Trade Secret Tradeoff’
+in Jens Schovsbo, Timo Minssen and Thomas Riis (eds),
+The Harmonization and
+Protection of Trade Secrets in the EU: An Appraisal of the EU Directive
+(Edward Elgar Publishing, 2020) 267, 277–8; Bakke (n
+Matulionyte, ‘Reconciling Trade
+Secrets’ (n
+) s 14 item 4.
+Ibid s 121(2).
+Ibid s 4(1) (definition of
+‘government information’).
+Ibid ss 5–9.
+These categories are: (1)
+‘Responsible and effective government’; (2) ‘Law enforcement
+and security’; (3)
+‘Individual rights, judicial processes and
+natural justice’; (4) ‘Business interests of agencies and other
+(5) ‘Environment, culture, economy and general
+(6) ‘Secrecy provisions’; and (7) ‘Exempt documents under
+interstate Freedom of Information legislation’:
+ibid s 14. NSW IPC refers
+to each category as an ‘overriding public interest against
+disclosure’ (‘OPIAD’):
+see, eg, Information and Privacy
+Commission (NSW),
+GIPA Data Analysis
+) s 14 item 4.
+Ibid s 14 item 4(a).
+Ibid s 14 item 4(b).
+Ibid s 14 item 4(c).
+Ibid s 14 item 4(d).
+Notably, when information concerns
+third-party interests, other categories of exceptions can be invoked too: see,
+eg, ibid s 14 items
+Male v Kempsey Shire Council
+NSWCATAD 39
+, [318] (Senior Member Starke) (‘
+) ss 54(1)–(2). See also
+Information and Privacy Commission (NSW), Guideline
+5: Consultation on Public Interest Considerations
+under Section 54 and
+Government Information (Public Access) Act 2009
+(NSW) (Report, April
+NSW IPC Guideline 5
+Examples of considerations that
+could be taken into account are listed under s 12 of the
+) does not refer to ‘trade
+secrets’ at all, the ‘commercial-in-confidence’ term comes
+closest to the trade
+secret concept and, for the purpose of this article, I use
+them as synonyms.
+For criticisms of the trade secret
+exception under s 47 of the
+FOI Act (Cth)
+), see Ng et al (n
+) sch 4 item 1 (definition of
+‘commercial-in-confidence provisions’).
+See generally MW Bryan et al,
+Sourcebook on Equity & Trusts in Australia
+(Cambridge University Press,
+ed, 2020) 308–13.
+Coco v AN Clark (Engineers)
+(1969) 1A IPR 587
+, 590 (Megarry J) (‘
+’). See also
+Smith Kline & French Laboratories (Australia) Ltd v Secretary, Department
+of Community Services and Health
+(1990) 17 IPR 545
+, 567–9 (Gummow J);
+Andrew Stewart et al,
+Intellectual Property in Australia
+(LexisNexis
+Butterworths, 6
+ed, 2018) 92–5 [4.5]–[4.6] (citations
+Australian patents and trademarks
+are published by IP Australia: ‘Our Agency’,
+IP Australia
+<https://www.ipaustralia.gov.au/about-us/our-agency>, archived at
+<https://​perma.cc/6X3L-JVDD>.
+IP Australia (Cth),
+(Report, 2024) 84.
+) [91]–[92], [102]–[104]
+(Senior Member McAteer).
+For example, in
+), the Tribunal was satisfied that, in
+the circumstances of the case, contract price was commercially sensitive
+information: at [215],
+[219] (Senior Member Starke).
+In the EU, see
+Directive (EU)
+2016/943 of the European Parliament and of the Council of 8 June 2018 on the
+Protection of Undisclosed Know-How and
+Business Information (Trade Secrets)
+against Their Unlawful Acquisition, Use and Disclosure
+[2016] OJ L 157/1,
+art 2(1) (‘
+EU Trade Secrets Directive
+’). In the US, see the
+Uniform Trade Secrets Act
+§ 1(4) (definition of ‘trade
+secrets’) (ULA 1985) (‘
+’) which is a uniform law
+that has been adopted in 49 states:
+‘Trade Secrets Act’,
+Uniform Law Commission
+(Web Page, 12
+<https://www.uniform​laws.org/committees/community-home?CommunityKey=3a2538fb-e030-4e2d-a9e2-90373d​c05792>,
+archived at <https://perma.cc/MS7K-B4TX>. See also Sandeen and Aplin (n
+Sandeen and Aplin (n
+Ibid. See also Camilla A Hrdy,
+‘The Value in Secrecy’
+(2022) 91(2)
+Fordham Law Review
+559, 565–74.
+See Sandeen and Aplin (n
+) 456. See also Brauneis and Goodman (n
+) 159, which states:
+Even assuming that the source code and certain details of the model would
+qualify as trade secrets or confidential information, we
+sought training
+materials, existing and planned validation studies, and other documentation
+concerning the objectives and design
+choices reflected in the algorithm. It is
+hard to imagine that most, if any, of this material would qualify for the [trade
+) s 14 item 4(c).
+Ibid s 14 item 4(d).
+For a brief explanation as to what
+constitutes confidential and non-confidential information, see Information and
+NSW IPC Guideline 5
+) 7 [1.19].
+Saltman Engineering Co Ltd v
+Campbell Engineering Co Ltd
+(1948) 65 RPC 203
+(Lord Greene MR, Somervell LJ agreeing at 216, Cohen J agreeing at 219);
+O’Brien v Komesaroff
+[1982] HCA 33
+(1982) 150 CLR 310
+, 326–7 (Mason J,
+Aickin J agreeing at 329, Wilson J agreeing at 329, Brennan J agreeing at 329);
+Johns v Australian Securities Commission
+[1993] HCA 56
+(1993) 178 CLR 408
+, 432 (Brennan
+J), 438 (Dawson J), 461 (Gaudron J), 475 (McHugh J).
+See also Brauneis and Goodman (n
+) 154, which states that
+‘[o]verbroad assertions of confidentiality in response to open records
+requests are common in the field’.
+Stewart et al (n
+) 106–12 [4.17]–[4.22];
+Tanya Aplin et al,
+Gurry on Breach of Confidence: The Protection of
+Confidential Information
+(Oxford University Press, 2012) 3 [1.01].
+See also Brauneis and Goodman (n
+) 155, referring to the ‘[r]isk
+averse’ nature of government organisations in such scenarios.
+) [91]–[92] (Senior Member
+Ibid [103]–[104]. This is
+similar to the application of the trade secret exception in the US where
+‘[t]here exists a
+substantial foundation in both federal and state court
+decisions for denying open records laws requests for information related to
+IP of private government contractors’: Bakke (n
+) s 121(1)(a).
+Ibid s 121(1)(b).
+Ibid s 121(1)(c).
+Ibid s 121(2)(a).
+Ibid s 121(2)(b).
+Ibid s 121(2)(c).
+See, eg, Information and Privacy
+Commission (NSW), Guide to Section 121 of the GIPA Act for Private Sector
+Contractors (Fact Sheet,
+April 2020) 1–2 (‘Section 121 Guide for
+Private Sector Contractors’).
+See, eg, Information and Privacy
+Commission (NSW),
+Digital Projects (Fact Sheet, October
+) [64] (Senior Member McAteer).
+The NSW Information and Privacy
+Commissioner submitted:
+In this case the service provided by the government agency is private rental
+subsidies. NPS’s algorithm provides an input to
+the decision-making
+process regarding the calculation which is intrinsic to the provision of private
+rental subsidies. The Tribunal
+may therefore consider that NPS is providing a
+service directly to the public on behalf of the agency. Such an interpretation
+accord with the objects of the
+Ibid [82] (Senior Member McAteer).
+Marie Bashir, Governor (NSW),
+‘Commencement Proclamation under the
+Government Information (Public
+Access) Act 2009
+’ in New South Wales,
+Government Gazette of the State
+of New South Wales
+, No 84, 25 June 2010, 2901, 2901.
+) [63], [90] (Senior Member
+Ibid [114].
+NSW IPC offers template contractual
+provisions on access to information clauses for government contractors which
+replicate the problematic
+see Information and Privacy
+Commission (NSW),
+Guide to Section 121 of the GIPA Act for Agencies
+Sheet, April 2020) 2 (‘
+Section 121 Guide for Agencies
+) s 121(1)(a).
+Ibid s 121(2)(c). It is noted that
+exceptions to the ‘immediate access’ rule are to some extent
+similar, but not identical,
+to the ‘business interests’ exception
+that applies to information held by government: see at s 14 item 4. See also
+Part III(B).
+See above Part III(B)(1).
+) [103] (Senior Member McAteer).
+Ibid [112]. See also at
+[103]–[104].
+Gartside v Outram
+26 LJ Ch 113
+, 114, Wood V-C states:
+The true doctrine is, that there is no confidence as to the disclosure of
+iniquity. You cannot make me the confidant of a crime or
+a fraud, and be
+entitled to close up my lips upon any secret which you have the audacity to
+disclose to me relating to any fraudulent
+intention on your part: such a
+confidence cannot exist.
+Sections 12–14 of the
+) apply to government
+agencies only: see at s 4(1) (definitions of ‘agency’ and
+‘government information’).
+Ibid s 121(2)(c).
+See above Part II.
+See, eg, Bloch-Wehba (n
+) 1299–300.
+Brauneis and Goodman (n
+See ibid s 3(1)(c).
+See also Brauneis and Goodman (n
+Marrakesh Agreement
+Establishing the World Trade Organization
+, opened for signature 15 April
+1994, 1867 UNTS 3
+(entered into force 1 January 1995) annex 1C
+Agreement on Trade-Related Aspects of Intellectual Property
+’) art 39(2)(b).
+EU Trade Secrets
+) art 2(1)(b);
+) § 1(4)(i).
+Stewart et al (n
+) 92 [4.5], quoting
+) 590 (Megarry J).
+Freedom of Information Act
+5 USC § 552(b)(4) (2018) (‘
+Brauneis and Goodman (n
+Ibid, quoting
+Citizen Health Research Group v Food and Drug Administration,
+[1983] USCADC 159
+704 F 2d 1280
+1288 [3] (Edwards J) (DC Cir, 1983) (‘
+Public Citizen
+) 1287 [1], 1288 [3] (Edwards J),
+quoting Mark Q Connelly, ‘Secrets and Smokescreens: A Legal and Economic
+Analysis of Government
+Disclosures of Business Data’
+Wisconsin Law Review
+, 230. See also Brauneis and Goodman (n
+Brauneis and Goodman (n
+Cf ibid 154, which states that
+‘the agencies have agency’ and ‘could have made more records
+disclosable simply
+by reducing the scope of confidentiality’.
+There is an exemption for
+‘trade secrets and commercial or financial information obtained from a
+person [that is] privileged
+or confidential’:
+) § 552(b)(4). Commercial
+significance and efforts to keep the information confidential are the core
+requirements for the protection
+of trade secrets or confidential information
+See generally
+Ibid ss 12–14.
+Ibid s 12(2) note (a).
+Ibid s 12(2) note (b).
+Ibid s 12(2) note (c).
+Ibid s 12(2) note (e).
+See above Part II(B).
+The NSW IPC published guidance
+recommending ‘the use of AI as a factor in favour of disclosure of
+information under the
+’: Elizabeth Tydd and Samantha Gavel,
+of the Artificial Intelligence Regulatory Landscape: Information Access &
+(NSW) (Web Document, October
+<https://www.‌ip​c.nsw.gov.au/sites/default/files/2022-11/IPC_Scan_of_the_Artificial_Intelligence_‌Regulatory_​Landscape_October_2022_0.pdf>.
+For example, the Robodebt scheme
+was not based on complex AI algorithms such as machine learning, but it resulted
+in immense harm
+on individuals and on government: Commonwealth Ombudsman,
+Centrelink’s Automated Debt Raising and Recovery System
+NSW IPC recommended
+‘[e]xpand[ing] information access rights under government contracted
+services to AI used for decision making’:
+Tydd and Gavel (n
+For a discussion on the variety of
+private sector partnerships in Europe, see Martijn van den Hurk et al,
+‘National Varieties
+of Public-Private Partnerships (PPPs): A Comparative
+Analysis of PPP-Supporting Units in 19 European Countries’ (2016) 18(1)
+Journal of Comparative Policy Analysis
+One example is the Robodebt
+Commonwealth Ombudsman,
+Centrelink’s Automated Debt
+Raising and Recovery System
+1; Terry Carney, ‘Robo-Debt Illegality: The Seven Veils of Failed
+Guarantees of the Rule of Law?’
+(2019) 44(1)
+Alternative Law
+NSW Ombudsman,
+The New Machinery
+of Government
+) [3], [8] (Senior Member McAteer).
+The risk-assessment tool,
+‘COMPAS’, is used by law enforcement in the US ‘to assess the
+risks of recidivism’:
+Matulionyte, ‘Reconciling Trade Secrets’
+See Bakke (n
+See above Part III(C)(3).
+See, eg, Information and Privacy
+Commission (NSW),
+Section 121 Guide for Private Sector Contractors
+); Information and Privacy Commission
+Section 121 Guide for Agencies
+According to the NSW IPC,
+government contracts relating to the provision of AI to government should cover
+the ‘government/purchaser
+right to audit/audit logs; notification
+requirements in circumstances of adverse impacts including complaints or legal
+action; access
+to user manuals; training data; [retention of] government data
+inputs’: Tydd and Gavel (n
+Centre Digital and Data Office and
+Department for Science, Innovation and Technology (UK), ‘Algorithmic
+Transparency Recording
+Standard Hub’,
+(Web Page, 7 March
+https://www.gov.uk/government/collections/algorithmic-transparency-recording-standard-hub
+>, archived at <https://perma.cc/Q7TT-5Q73>
+See below Part IV(C).
+See above Part III(C)(4).
+See above Part IV(A)(1) for a
+similar recommendation.
+See Brauneis and Goodman (n
+Brauneis and Goodman similarly
+suggest ‘reducing the scope of confidentiality and ensuring government
+possession of records
+necessary to explain the algorithms’: ibid 154. See
+also NSW Ombudsman,
+The New Machinery of Government
+) 62, which states that ‘the
+tension [between trade secrets and transparency] can be avoided by good
+procurement practices’.
+See also Goldenfein (n
+See Bloch-Wehba (n
+) 1308–12. Bloch-Wehba discusses
+why it is unacceptable to disclose trade secrets under protective orders only,
+and not to the
+general public.
+See, eg, ibid 1308.
+Improved procurement practices as a
+way to improve government algorithmic accountability is advocated for in
+Cary Coglianese and Erik Lampmann,
+‘Contracting for Algorithmic Accountability’ (2021) 6(3)
+Administrative Law Review Accord
+175, 179; Goldenfein (n
+) 41. The risks associated with the
+procurement of government ADMS are discussed in
+Mulligan and Bamberger (n
+Bloch-Wehba (n
+‘Informed by the principles
+of open government, agencies and courts should avoid contracting for proprietary
+decision-making
+tools with vendors who require broad secrecy provisions’:
+Brauneis and Goodman (n
+NSW IPC has emphasised on numerous
+occasions the need to improve government procurement practices to improve
+government transparency:
+see, eg, Information and Privacy Commission (NSW),
+NSW IPC Fact Sheet
+Relating to Establishing Guidelines for Government Procurement and Use of
+Automated Decision Systems in Order To Protect Consumers,
+Improve Transparency,
+and Create More Market Predictability, Wash S 5116, 67
+Legislature
+(2021) §§ 4–6
+(‘ADMS Procurement and Use Act’). An executive session was
+scheduled in relation to this proposed Act on 7 February 2022,
+but no action has
+since been taken. This Act has now lapsed: ‘Bill Information: SB
+Washington State Legislature
+<https://app.leg.wa.gov/​billsummary?BillNumber=5116&Year=2021&Initiative=false#documentSection>,
+archived at <https://perma.cc/HX5F-LWQJ>.
+ADMS Procurement and Use Act (n
+Bloch-Wehba
+) 1308, discussing ‘ADMS
+Procurement and Use Act’ (n
+Information and Privacy Commission
+NSW IPC Fact Sheet
+Tydd and Gavel (n
+) 17 (emphasis in original).
+NSW Ombudsman,
+The New Machinery
+of Government
+) 62 (emphasis
+in original), citing Katie Miller, ‘The Application of Administrative Law
+Principles to Technology-Assisted Decision-Making’
+(2016) 86 (December)
+Australian Institute of Administrative Law Forum
+‘Algorithmic Transparency
+Recording Standard: Guidance for Public Sector Bodies’,
+Page, 5 January 2023)
+<https://www.gov.uk/government/publications/guidance-for-organisations-using-the-algorithmic-transparency-recording-standard/algorithmic-transpar​ency-recording-standard-guidance-for-public-sector-bodies>,
+archived at <https://perma.cc/​2XFX-YNES>; ‘Algorithmic
+Transparency Recording Standard: Template’,
+(Web Page, 18
+April 2024)
+<https://www.gov.uk/government/publications/‌algorithmic-transparency-tem​plate>,
+at <https://perma.cc/52GY-CC3G>.
+Proposal for a Regulation of the
+European Parliament and of the Council: Laying Down Harmonised Rules on
+Artificial Intelligence (Artificial
+Intelligence Act) and Amending Certain Union
+Legislative Acts
+, COM(2021) 206 final (24 April 2021) art II, annex IV
+EU Regulation Proposal
+World Economic Forum et al,
+Policy Framework for Responsible Limits of Facial Recognition: Use Case Law
+Enforcement Investigations
+(Report, November 2022) 26, 33
+<https://www.wefo​rum.org/reports/a-policy-framework-for-responsible-limits-on-facial-recognition-use-case-law-enforcement-investigations-revised-2022>,
+archived at <https://perma.cc/5JVM-9YQV>.
+See, eg, Centre for Internet and
+Open Government: A Guide to Best Practice in Transparency,
+Accountability and Civic Engagement across the Public Sector
+(Report, 2011)
+http://www.transparencyinitiative.org/archive/wp-content/uploads/2011/09/15-Open-gover ​ nment11.pdf
+archived at
+http://perma.cc/V244-AJME
+Association for Computing
+Machinery US Public Policy Council, ‘Statement on Algorithmic Transparency
+and Accountability’
+(Statement, 12 January 2017) 2
+http://www.acm.org/binaries/ ‌ content/ ​ assets/public-policy/2017_usacm_statement_algorithms.pdf
+archived at
+http://perma.cc/ ​ 5TKE-LFHT
+See, eg, Rita Matulionyte,
+‘Increasing Transparency around Facial Recognition Technologies in Law
+Enforcement: Towards a Model
+(2024) 33(1)
+Information and
+Communications Technology Law
+, 72, 75–7.
+See, eg, NSW Government,
+Artificial Intelligence Assurance Framework
+(Report, March 2022) 13.
+EU Regulation Proposal
+Print (pretty)
+Print (eco-friendly)
+RTF format (359 KB)
+PDF format (546 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

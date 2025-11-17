@@ -1,0 +1,160 @@
+AAPT and Melbourne IT: Own motion investigation report [2013] AICmrCN 1 (15 October 2013)
+Relevant provisions of the Privacy Act
+Acronyms and abbreviations
+On 6 August 2012, the Australian Privacy Commissioner (the Commissioner) opened an own motion investigation into AAPT Ltd (AAPT) and
+Melbourne IT Ltd (Melbourne IT) in response to media reports that a server holding AAPT customer information had been compromised
+by the hacker group Anonymous.
+The Commissioner's investigation focused on whether AAPT and Melbourne IT took reasonable steps to protect customer information from
+misuse and loss and from unauthorised access, modification or disclosure.
+After considering the facts of the case, submissions from AAPT and Melbourne IT and the relevant provisions of the
+(Privacy Act), the Commissioner came to the view that AAPT had breached the
+by failing to take reasonable steps to secure the personal information it held. The Commissioner also found that the compromised
+servers contained some old customer information and that AAPT had failed to comply with its obligation to destroy or permanently
+de-identify information no longer in use.
+The Australian Communications and Media Authority (the ACMA) also carried out an
+investigation
+into the incident in relation to AAPT’s compliance with the
+Telecommunications Consumer Protections Code C628:2007
+The ACMA found that AAPT contravened clause 6.8.1 of the Code by failing to protect the privacy of small business customers whose
+personal information was stored in a server which was the subject of unauthorised access.
+On 26 July 2012, the Commissioner received information which indicated that a server on which AAPT data was held was accessed by Anonymous
+between 17 and 19 July 2012, with unauthorised data transfers occurring from 20 July 2012 to 22 July 2012. Subsequently, AAPT data
+was published by Anonymous on the internet.
+The AAPT data was held on a server managed by WebCentral Pty Ltd, a webhosting business unit of Melbourne IT. Melbourne IT identified
+the incident after becoming aware of the attack by Anonymous on other servers it operated. It notified AAPT of the incident on 25
+July 2012 and on the same day AAPT disconnected from the Melbourne IT network and took immediate steps to ensure the data could not
+be further compromised.
+The compromised server held a series of websites and databases that included personal information about AAPT business customers used
+to verify the identity of customers and provide a quoting and billing system for AAPT sales staff. The personal information included
+information collected for the purpose of obtaining credit reports of AAPT business customers and information used for the purpose
+of transferring telephone numbers from other telecommunications carriers.
+Relevant provisions of the Privacy Act
+Organisations covered by the
+must comply with ten National Privacy Principles (NPPs) contained in Schedule 3 of the Act. The NPPs apply to the handling of ‘personal
+information’ which the
+defines as:
+information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded
+in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information
+or opinion.
+applies to all private sector organisations with an annual turnover of more than $3 million and some small businesses. Both AAPT
+and Melbourne IT are subject to the
+and the NPPs.
+NPP 4 (Data security) and NPP 2 (Use and disclosure) were the
+provisions relevant to this incident. In particular:
+NPP 4.1 requires organisations to take reasonable steps to protect the personal information they hold from misuse and loss and from
+unauthorised access, modification or disclosure
+NPP 4.2 states that, if an organisation no longer needs personal information for any purpose under NPP 2, then the organisation must
+take reasonable steps to destroy or permanently de-identify it
+NPP 2.1 provides that an organisation may only use or disclose personal information for the primary purpose of collection, unless
+an exception applies.
+Security of personal information (NPP 4.1)
+In determining whether there had been a breach of NPP 4.1, the Commissioner considered which organisation ‘held’ the AAPT customer
+information and whether that organisation took reasonable steps to protect the information from unauthorised access, modification
+or disclosure.
+Which organisation ‘held’ the personal information for the purposes of NPP 4.1
+NPP 4.1 applies to personal information ‘held’ by an organisation. Information is held by an organisation where it has physical
+possession of the data or the right or power to deal with the information even if it does not physically possess or own the medium
+on which the information is stored.
+The Commissioner took the view that AAPT held the information for the purposes of NPP 4.1, despite it being stored on Melbourne IT’s
+server. This meant that AAPT had an obligation to comply with NPP 4.1 in relation to the information.
+Whether reasonable steps were taken to secure the personal information
+The Commissioner then considered whether AAPT had reasonable steps in place to protect the security of the information.
+A contract between AAPT and WebCentral signed in 2005 stated that the server was to be fully managed and maintained on the customer’s
+behalf, ‘with the exception of custom application content and data’, which was to be the responsibility of AAPT.
+Data on the server managed by WebCentral was accessed by Anonymous via the ‘Cold Fusion’ application installed on the server.
+Anonymous was able to exploit a vulnerability in the application to gain access to the data. Melbourne IT described Cold Fusion as
+a ‘customer managed application.’ In Melbourne IT’s view, it was AAPT’s responsibility to update applications when newer
+versions became available. Melbourne IT took responsibility for keeping existing applications patched. At the time of the incident,
+security patches were up to date on the Cold Fusion application, but several newer versions of Cold Fusion were available, the most
+recent of which had security features that may have prevented the attack by Anonymous.
+The 2005 contract between AAPT and WebCentral contained some provisions requiring WebCentral to have security arrangements in place
+for data held on the server. However, the contract did not require that:
+the data on the server be appropriately assessed and classified to determine whether it included personal information and the sensitivity
+of that information
+existing or emerging security risks in connection with the Cold Fusion application be identified and addressed or
+vulnerability scanning and effective lifecycle management of the Cold Fusion application occur.
+Moreover, it was not clear that AAPT was aware of what personal information was contained on the server; what Cold Fusion applications
+were installed and which part of the server these applications related to; and who was responsible for the maintenance and lifecycle
+management of the Cold Fusion application that was exploited by Anonymous.
+In considering these factors, the Commissioner came to the view that AAPT failed to take its own steps to appropriately manage and
+protect the information and did not have adequate contractual measures in place to protect the personal information held on the compromised
+server. AAPT continued to use a seven year old version of Cold Fusion which was generally known to have vulnerabilities when newer
+versions were available.
+Therefore, the Commissioner found that, in this instance, AAPT did not take reasonable steps to protect the personal information it
+held from misuse and loss and from unauthorised access, modification or disclosure, in contravention of NPP 4.1.
+Recommendations
+To address the issues identified above, the OAIC recommended that AAPT:
+conduct regular reviews of all IT applications held internally or with external providers to ensure AAPT is aware of applications
+take steps to ensure all IT applications held internally or externally which hold or use personal information are subject to vulnerability
+assessment and testing, regular vulnerability scanning and have effective lifecycle management
+clearly allocate responsibility for lifecycle management of applications
+conduct regular audits of AAPT’s IT security framework to ensure that security measures are working effectively, and that policies
+and procedures relating to data security are being complied with
+undertake further training for IT staff and relevant business units to increase their understanding of their data security obligations
+(including lifecycle management of IT applications), data security risks and threats, and the importance of following AAPT’s policies
+and procedures that relate to data security
+undertake steps to ensure appropriate classification of data it holds either internally or externally, including whether it includes
+personal information and the sensitivity of that information
+review the terms of the contracts it has with IT suppliers that hold or manage AAPT data to ensure clarity around which party has
+responsibility for identifying and addressing data security issues (such as vulnerabilities associated with old versions of IT applications).
+AAPT has implemented these recommendations by establishing an Information Management and Security Framework to ensure appropriate
+classification of data and to regularise risk assessments of information management and security practices. The Framework incorporates
+policies on: information life cycle management; physical and environmental security; internal security governance (such as IT security,
+email, network and systems security, third party provider security and change management); and information security incident management.
+AAPT has also carried out an audit of contractors to assess the type of information held and any vulnerabilities relating to data
+security. The audit also assessed the sensitivity of data held by AAPT and measures in place to ensure secure storage or deletion
+where appropriate. AAPT has also introduced a program to identify and rectify software vulnerabilities and to ensure regular testing
+of network and firewall security.
+To ensure staff understand their data security obligations, AAPT has established an Information Security Awareness and Training Policy
+and has rolled out an online Privacy and Information Security Policies training program to all AAPT staff.
+Retention of personal information (NPP 4.2)
+During the investigation, AAPT confirmed that not all of the compromised data was in use at the time of the hacking incident. NPP
+4.2 requires organisations to take reasonable steps to destroy or permanently de-identify personal information that is not being
+used or disclosed for any purpose under NPP 2. To comply with this obligation, an organisation must develop systems or procedures
+to identify information the organisation no longer needs and a process for how the destruction or de-identification of the information
+will occur.
+Information Management Policy
+Information Management Guidelines
+Data Storage for Archive and Back up Standard
+outline the data retention system operating at AAPT and also refer to specific retention schedules. It appears that those policies
+were available on AAPT’s intranet, though there seems to have been low awareness of data retention requirements amongst staff or
+business units. Data retention policies were not being followed at the time of the incident by the staff involved with the data held
+on Melbourne IT’s servers and AAPT only became aware of this situation when the hacking incident occurred.
+In considering these facts, the Commissioner came to the view that AAPT did not take reasonable steps to destroy or permanently de-identify
+the personal information that was no longer in use (in contravention of NPP 4.2).
+Recommendations
+To address the issues identified above, the OAIC recommended that AAPT:
+ensure that there is regular training for staff in relation to data security policies, including data retention and destruction –
+specifically, any staff who are responsible for information creation, distribution, retention and destruction should be provided
+with appropriate guidance and training to meet their obligations for each stage of the information lifecycle.
+As noted above, AAPT has addressed this recommendation by establishing an Information Security Awareness and Training Policy and rolling
+out an online Privacy and Information Security Policies training program to all AAPT staff. The training includes guidance in data
+destruction procedures and the process for retaining and destroying information.
+Disclosure of personal information (NPP 2.1)
+As part of the investigation, the Commissioner considered whether there had been a breach of NPP 2.1 in relation to the publication,
+by Anonymous, of AAPT customer information online. NPP 2.1 regulates the use and disclosure of personal information and states that
+organisations may only use or disclose personal information for the primary purpose of collection, unless an exception applies.
+In general terms, an organisation discloses personal information when it releases information to others outside the organisation.
+Given that AAPT customer data was made public through the malicious actions of Anonymous, the Commissioner came to the view that the
+publication of the data by Anonymous was not a ‘disclosure’ by AAPT. Therefore, AAPT did not breach NPP 2.1 in these circumstances.
+AAPT acted appropriately in response to the incident by taking the server offline immediately and working closely with Melbourne IT
+to investigate and rectify the incident. A configuration change to the server by Melbourne IT on 24 July 2012 closed the vulnerability
+exploited by Anonymous.
+Since the incident, AAPT has undertaken an appropriate review of the incident and data involved, and has taken appropriate steps to
+notify potentially affected customers. All AAPT data storage arrangements have been reviewed by AAPT, either as part of the IT response
+to the incident or as part of a broader internal audit and review of data storage arrangements.
+Following the Commissioner’s finding that AAPT had breached NPP 4.1 and 4.2 in relation to the data held on the compromised server,
+AAPT has addressed the OAIC’s recommendations.
+Based on the information provided by AAPT about its review and remediation of the matter and AAPT’s implementation of recommendations
+made by the OAIC, the Commissioner decided to close the investigation. The Commissioner also closed the investigation into Melbourne
+IT, finding the organisation had not breached the NPPs in relation to AAPT customer data.
+Should an individual complaint about the matter be received, the OAIC will consider it on its merits and information gathered as part
+of this investigation will be taken into account in any subsequent complaint process.
+Acronyms and abbreviations
+Commissioner — Australian Privacy Commissioner
+NPPs — National Privacy Principles (contained in Schedule 3 of the
+OAIC — Office of the Australian Information Commissioner
+More information about steps and strategies to protect personal information and circumstances that may impact on what steps are reasonable
+can be found in the OAIC’s
+Guide to information security
+No downloadable files available

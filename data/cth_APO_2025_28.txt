@@ -1,0 +1,889 @@
+voestalpine Rail Technology GmbH v Nippon Steel Corporation [2025] APO 28 (28 August 2025)
+IP AUSTRALIA
+AUSTRALIAN PATENT
+voestalpine Rail Technology GmbH v Nippon Steel
+Corporation
+[2025] APO 28
+Patent Application: 2020240203
+Title: Rail
+Patent Applicant: Nippon Steel Corporation
+Opponent: voestalpine Rail Technology GmbH
+Delegate: M. Umehara
+Decision Date: 28 August 2025
+Hearing Date: Written submissions completed on 7 August 2025
+Catchwords:
+– opposition under section 104 –
+amendments do not comply with s 102(2)(a) – claims as proposed to be
+not in substance fall within the scope of the claims before amendment
+– s 102(2)(b) – claims as proposed to be amended
+are clear and
+supported – costs awarded
+Representation: Patent attorney for the applicant: Spruson &
+Counsel for the opponent: Ian P. Horak KC
+Patent attorney for the opponent: Madderns Patent & Trade Mark
+IP AUSTRALIA
+AUSTRALIAN PATENT OFFICE
+Patent Application: 2020240203
+Title: Rail
+Patent Applicant: Nippon Steel Corporation
+Date of Decision: 28 August 2025
+The amendments do not comply with s102(2)(a). The
+opposition is successful. I refuse the amendment request of 20 June
+This decision constitutes advice that the amendments are not
+allowable. Evidence in reply in the section 59 matter is due in
+from the date of this decision.
+I award costs according to Schedule 8 against the applicant, Nippon Steel
+Corporation.
+REASONS FOR DECISION
+present matter relates to Australian application 2020240203 (the
+application
+) in the name of Nippon Steel Corporation (the
+) and an opposition to an amendment under
+Patents Act
+) by voestalpine Rail
+Technology GmbH (the
+application was filed as International Patent Application PCT/JP2020/008606
+filed on 15 March 2019 and published as WO 2020/189232
+on 24 September 2020.
+The application entered the national phase in Australia on 12 August 2021. The
+application was advertised
+as accepted on 6 July 2023. The opponent filed a
+notice of opposition to the grant of the patent under
+of the Act on 6
+October 2023 (the
+applicant filed a request to amend the specification on 20 June 2024 (the
+). The Commissioner’s letter of 12 July 2024 made the
+following directions:
+1. That the opposition to this application under
+of the Act is stayed
+until two weeks after the Commissioner advises the parties that the amendments
+are allowed (following the opposition
+period), refused or withdrawn as the case
+may be. at which point the evidence in reply would be due.
+2. Evidence in reply is due to be filed
+two (2) months
+date of this letter or upon the expiry of the stay outlined in direction 1
+above, whichever expires later.
+to amend was granted and the application for amendment was advertised for
+opposition on 22 August 2024. A notice of opposition
+to the amendment was filed
+by the opponent on 22 October 2024 (the
+present determination relates to the
+opposition.
+statement of grounds and particulars (
+was filed on 22 November 2024. The
+SGP identifies, as grounds of
+opposition to the amendments, failure to comply with
+ss 102(2)(a)
+(1)(a). Both parties filed evidence in the
+opposition.
+Evidence in support was completed on 13 February 2025 and consisted of a
+declaration by Dr Norbert Frank dated 7 February
+2025 including Exhibits NF-1 to
+in answer was completed on 25 March 2025 and consisted of a declaration by Dr
+Matthew Stewart dated 25 March 2025 and exhibit
+MBS-1, importing the declaration
+by Dr Alan Keith Hellier dated 8 July 2024 and exhibits AH-1 to AH-22
+) filed during the
+opposition proceedings. No evidence in
+reply was filed.
+hearing was conducted by way of written submissions filed by both parties. The
+opponent presses the following grounds:
+(1) Ground 1:
+section 102(2)(a)
+Patents Act
+Proposed Amendments are not allowable in circumstances where, as a result of the
+Proposed Amendments, a claim of the specification
+would not in substance fall
+within the scope of the claims of the specification before amendment.
+(2) Ground 2:
+section 102(1)(a)
+Patents Act
+: the Proposed
+Amendments are not allowable because, as a result of the Proposed Amendments,
+the specification would claim or disclose
+matter that extends beyond that
+disclosed in the specification as originally filed.
+(3) Ground 3:
+section 102(1)(b)
+[sic] of the
+Patents Act
+the Proposed Amendments are not allowable because the claims, as a result of the
+Amendments, would not comply with
+section 40(3)
+Patents Act
+in that the
+claims would not be clear.
+(4) Ground 4:
+section 102(2)(b)
+Patents Act
+: the Proposed
+Amendments are not allowance [sic] because the claims, as a result of the
+Proposed Amendments, would not comply with
+Patents Act
+the claims would not be supported by matter disclosed in the
+specification.”
+note that ground 3 should identify
+section 102(2)(b)
+of the Act instead.
+Specification
+specification is directed to a rail for freight
+For context, Figure 4 is
+a schematic view of a cross section of a rail:
+rail is described with reference to Figure 4 as follows:
+“When a cross section vertical to a length direction of the rail is
+viewed, a portion of the rail which is constricted in width
+is present at the
+center in a height direction of the rail. The constricted portion is referred
+to as the rail web portion
+. A portion which has a width larger than
+the width of the constricted portion and is located below the constricted
+portion is referred
+to as the rail foot portion
+, and a portion located
+above the constricted portion is referred to as the rail head portion
+The rail web portion
+is a region interposed between the rail head
+and the rail foot portion
+to the specification, a correlation between the cross-sectional hardness of the
+web portion and the fatigue damage of the
+Importantly, the initiation
+of a crack was found to result from strain being concentrated in the cross
+section of the web portion
+due to the cross-sectional hardness significantly
+being non-uniform.
+analysis identified that when the difference between the maximum value and the
+minimum value of the cross-sectional hardness
+was Hv 40 or less, a crack did not
+initiate until the number of repetitions of load fluctuation reached 2
+range of embodiments are discussed but, for the present purposes, it is
+sufficient to note that the invention relates to a rail
+that has a steel
+composition including, by mass: 0.75-1.20% C; 0.10-2.00% Si; 0.10-2.00% Mn;
+0-2.00% Cr; 0-0.50% Mo; 0-1.00% Co;
+0-0.0050% B; 0-1.00% Cu; 0-1.00% Ni; 0-0.50%
+V; 0-0.050% Nb; 0-0.0500% Ti; 0-0.0200% Mg; 0-0.0200% Ca; 0-0.0500% REM;
+0-0.0200% Zr;
+0-0.0200% N; 0-1.00% Al; 0.0250% or less P; 0.0250% or less S; and
+the remainder consisting of Fe and impurities, in which 90 area%
+or greater of a
+metallographic structure in a cross section of a rail web portion is a pearlite
+structure, a minimum value of a hardness
+in the cross section of the rail web
+portion is Hv 300 or greater, and a difference between a maximum value and the
+minimum value
+of the hardness in the cross section of the rail web portion is Hv
+40 or less.
+fatigue damage test for simulating a curved track to evaluate prototype rails
+found that, during the passing of a train, stress
+towards the outside of the
+curved track is applied to the rail head portion
+, which was transferred
+to the rail web portion
+as a bending
+The relationship between
+the cross-sectional hardness of the rail web portion
+and the fatigue
+damage resistance was
+investigated.
+relevance to the present matter, the cross-sectional hardness of the rail web
+was measured in the following manner:
+“• Measurement Device and Method
+Device: Vickers hardness meter (load of 98 N)
+Collection of test piece for measurement: a sample was cut out from a cross
+section of the rail web portion
+Pre-processing: the cross section was polished with a diamond grit having an
+average grain size of 1 µm
+Measurement method: the hardness was measured according to JIS Z 2244:
+• Measurement Position
+The measurement position was in a cross section in a range of ± 15 mm in
+an upward and downward direction of the rail from a
+middle line between a rail
+bottom portion and a rail top portion (refer to FIG. 1).
+Indentations were continuously made in a thickness direction of the web
+portion in a row at a pitch of 1.0 mm in which the starting
+point of the
+continuous indentation is the position of a depth of 1.0 mm from the outer
+surface of the web portion, and the hardness
+distribution was measured. The
+measurement of the hardness was performed on at least five lines.
+Incidentally, in order to eliminate the mutual influences of the
+indentations, an interval of 1.0 mm or greater was provided between
+measurement lines.
+• Method for Organizing Hardness
+The minimum value and the maximum value of the measured hardness were defined
+as the minimum value and the maximum value of the cross-sectional
+hardness of
+each of the rail web
+1 provides a view showing the measurement of positions of the hardness of in a
+cross section of a rail web portion:
+the specification, the same test is described wherever the cross-sectional
+hardness of the rail web portion
+The relevant law
+substantive amendments to the Act brought about by the
+Intellectual Property
+Laws Amendment (Raising the Bar) Act 2012
+(Cth) apply to the present case.
+The standard of proof in opposition proceedings, including oppositions under
+s104(4), is the balance
+of probabilities. The opponent bears the onus of
+to s104(5), the Commissioner must not allow an amendment that is not allowable
+under s102. S102(1) and s102(2) of the Act
+as they apply to the present
+application are as follows:
+(1) An amendment of a complete specification is not allowable if, as a
+result of the amendment, the specification would claim or disclose
+matter that
+extends beyond that disclosed in the following documents taken together:
+(a) the complete specification as filed;
+(b) other prescribed documents (if any).
+(2) An amendment of a complete specification is not allowable after the
+relevant time if, as a result of the amendment:
+(a) a claim of the specification would not in substance fall within the scope
+of the claims of the specification before amendment;
+(b) the specification would not comply with subsection 40(2), (3) or
+the legislation requires that the failure to meet the requirements of s102(1)
+and s102(2) must be
+the result of the amendment
+, with the relevant point
+in time in this case being the accepted application.
+s102(1) – claim or disclose matter that extends
+beyond that disclosed at filing
+J considered s102(1) and noted the following:
+“First, as has been pointed out, the test is a strict one.
+Second, subject matter will be impermissibly added unless the matter is
+clearly and unambiguously disclosed in the application as
+Third, the required disclosure may be express or implied, but on any view
+must be clearly and unambiguously so. In this regard, a
+patent applicant is not
+permitted to add by amendment matter simply because it would have been obvious
+to the skilled person.
+Fourth, context is important. A patent applicant cannot extract features
+disclosed in one context and introduce them into a specification
+stripped of
+that context. So, the concept of intermediate generalisation as discussed in
+the UK authorities applies to s 102(1)
+in its construction and
+application.”
+the correct approach when considering whether an amendment would result in the
+specification claiming or disclosing new matter
+is to ask whether the person
+skilled in the art would, on looking at the specification as proposed to be
+amended, learn anything
+directly derive from the complete specification as
+s102(2)(a) – claim would not in substance
+fall within the scope of the claims before amendment
+useful test for the allowability of amendments was suggested in relation to
+s31(1) of the
+Patents Act 1949
+(UK) as “would the amendment make anything
+an infringement which would not have been an infringement before the
+amendment?”
+Although the
+wording of s102(2)(a) differs from the wording of the then s31(1) of the British
+Act, this approach was adopted by
+Commissioner
+and the Federal
+Court has also accepted the continuing relevance of this
+– specification would not comply with subsection 40(2), (3) or
+the opponent pressed that the specification does not comply with s40(3) with
+respect to lack of clarity and support, it is necessary
+to set out the
+principles associated with these parts of the Act. However, it is not before me
+to determine whether the complete
+specification provides sufficient disclosure,
+or whether the present claims lack support. Instead, I must simply determine if
+amendment gives rise to issues under s102 of the
+s40(3) – claim(s) must be clear
+J discussed the correct approach to the construction of claims:
+“the words in a claim should be read through the eyes of the skilled
+addressee in the context in which they appear ... while
+the claims define the
+monopoly claimed in the words of the patentee's choosing, the specification
+should be read as a whole ... it
+is not permissible to read into a claim an
+additional integer or limitation to vary or qualify the claim by reference to
+of the specification ... terms in the claim which are unclear may be
+defined or clarified by reference to the body of the
+specification”
+requirement for clarity will be satisfied if there would be “no difficulty
+in a third party ascertaining whether or not
+what he proposes to do falls within
+the ambit of the claim.”
+Further, “Lack of precise definition in claims is not fatal to their
+validity, so long as they provide a workable standard
+suitable to their intended
+– claim(s) must be supported by matter disclosed in the
+specification
+J discussed the requirements for support:
+CSR Building Products Ltd v United States Gypsum Company
+[2015] APO 72
+, Dr S D Barker adopted the summary provided by Aldous J in
+Schering Biotech
+at 252 – 253, which has been often followed in the
+United Kingdom (emphasis added):
+...to decide whether the claims are supported by the description it is
+necessary to ascertain what is the invention which is specified
+in the claims
+and then compare that with the invention which has been described in the
+specification. Thereafter the court’s
+task is to decide whether the
+invention in the claims is supported by the description. I do not believe that
+the mere mention in
+the specification of features appearing in the claim will
+necessarily be a sufficient support. The word ‘support’ means
+than that and requires the description to be the base which can fairly entitle
+the patentee to a monopoly of the width claimed.
+That approach encapsulates broadly the claim support obligation under s
+40(3). To it may be added the requirement that the technical
+contribution to the
+art must be ascertained. Where it is a product, it is that which must be
+supported in the sense that the technical
+contribution to the art disclosed by
+the specification must justify the breath of the monopoly
+is therefore the case that, under s40(3), the matter in a claim of a
+specification must be supported by an enabling disclosure
+in the description and
+any drawings, graphics, photographs and sequence listing (i.e., the body of the
+specification).
+The amendment
+1 as currently proposed to be amended on 20 June 2024, with amendments indicated
+by underlining (added) and strikethrough (deleted),
+1. A rail comprising steel composition comprising, by mass%:
+C: 0.75 to 1.20%;
+Si: 0.10 to 2.00%;
+Mn: 0.10 to 2.00%;
+Cr: 0 to 2.00%;
+Mo: 0 to 0.50%;
+Co: 0 to 1.00%;
+B: 0 to 0.0050%;
+Cu: 0 to 1.00%;
+Ni: 0 to 1.00%;
+V: 0 to 0.50%;
+Nb: 0 to 0.050%;
+Ti: 0 to 0.0500%;
+Mg: 0 to 0.0200%;
+Ca: 0 to 0.0200%;
+REM: 0 to 0.0500%;
+Zr: 0 to 0.0200%;
+N: 0 to 0.0200%;
+Al: 0 to 1.00%;
+P: 0.0250% or less;
+S: 0.0250% or less; and
+a remainder consisting of Fe and impurities,
+wherein 90 area% or greater of a metallographic structure in a cross
+section of a rail web portion is a pearlite structure,
+a minimum value of a hardness in the cross section of the rail web portion
+is Hv 300 or greater
+when measurement positions for the hardness are in a
+cross section in a range of ±15 mm in an upward and downward direction of
+the rail from a middle line between a rail bottom portion and a rail top
+a difference between a maximum value and the minimum value of the hardness
+in the cross section of the rail web portion is Hv 40 or
+less wherein the
+minimum value of the hardness and the difference between a maximum value and a
+minimum value of the hardness are
+to JIS Z 2244:2009 with a load of 98 N as defined in the
+description
+Vickers hardness meter, in which a load is 98 N, by continuously making
+indentations in a thickness direction of the rail
+web portion in a row at a
+pitch of 1.0 mm in which a starting point of the indentations is a position of a
+depth of 1.0 mm from an
+outer surface of the rail web portion, in which
+measurement of the hardness is performed on at least five measurement lines with
+an interval of 1.0 mm or greater provided between the measurement
+same amendment has been made to the consistory clause in the description at
+[0016a]. No amendment was made to dependent claims
+2 and 3. For the sake of
+brevity, I will refer to the amendments with regard to the claims. However, the
+same considerations with
+regard to scope and disclosure would apply to the
+amendments proposed with respect to the consistory clause at
+Consideration
+s102(2)(a) – Does the scope of the claims after amendment fall
+outside the scope of the claims before amendment?
+opponent raised two central issues with the proposed amendments, which are said
+to result in a different claim scope to that prior
+to the amendment:
+Measurement Range
+: The proposed amendment to delete
+the words “as defined in the description” which is to be understood
+in conjunction
+with introduction of language specifying the relevant measurement
+position in relation to the minimum value of hardness only.
+Measurement according to the Standard
+: The amendment to
+delete the words “according to JIS Z 2244:2009 with a load of 98N”
+from the claims and replacement
+of that testing requirement with a requirement
+to test using a Vickers hardness meter by continuously making indentations as
+in the claim after the Proposed
+Amendments.”
+Measurement
+range/positions
+parties agree that the subset of the cross-section where the hardness values are
+measured fall within ±15 mm of the midline
+of the rail with regard to the
+minimum hardness value.
+However, the parties disagree on whether the range of measurement positions
+applies only to the minimum hardness value or to all
+sampled hardness values.
+applicant submitted that they had “simply proposed to recite the
+Measurement Range
+limitation from the description in Amended Claim 1 by
+explicitly defining the measurement positions for the hardness in a
+cross-section
+of rail rather than relying on a definition from the
+description.”
+particular, the applicant noted Dr Hellier’s comments regarding the
+amendments, where he simply stated that “claim
+1 now includes an explicit
+definition of the sampling location of the rail..., and a prescriptive testing
+method, including specific
+locations and spacings of the
+indentations.”
+to the amendment, the hardness measures were defined by reference to JIS Z
+2244:2009 with a load of 98 N
+as defined in the description
+. The JIS Z
+2244:2009 standard itself does not prescribe where measurements are taken.
+Instead, it is the
+description
+which provides details on the relevant
+measurement positions, being in a cross section of the rail web portion in a
+range of ±15
+mm from the mid-line between the rail bottom portion and the
+opponent submitted that claim 1 as proposed to be amended is silent on the
+location where the maximum value of hardness is measured
+and therefore
+“the largest difference in hardness can be both outside as well as inside
+the Measurement Range.”
+the other hand, the applicant submitted that a purposive construction of the
+proposed claims should take the measurement positions
+mentioned in respect of
+the minimum hardness value as requiring all hardness measurement to be taken in
+the same range of measurement
+The applicant
+pointed to the use of the explicit article in the phrase
+hardness in
+cross section of
+rail web portion
+respect to a difference between maximum and minimum hardness values as referring
+to an internal antecedence to the measurement
+range defined with respect to the
+minimum value of hardness.
+note that the proposed amendment also refers to a cross section of a rail web
+portion with regard to its metallographic structure.
+This feature in the
+claims, before and after amendment, is not limited to any sub-range of the cross
+section of the rail web portion.
+The applicant does not explain how this cross
+section of the rail web portion influences
+cross section of
+rail web portion in relation to the hardness measurements.
+proposed amendments lack a distinct feature specifying relevant measurement
+positions within the cross section of the rail web
+portion. As proposed to be
+amended, a measurement range is prescribed in the context of the required
+minimum hardness value
+those hardness measurements are taken in the
+specified area of the cross section of the rail web portion. The proposed
+do not mention any range within the cross section of the rail web
+portion in relation to the metallographic structure or hardness
+measurements
+other than the range associated with measuring the minimum value of hardness.
+Where a range of measurement positions
+within the cross section of the rail web
+portion is specified with respect to only one feature, it cannot be applied to
+features. Consequently, I disagree with the applicant that there is
+an internal antecedent for the cross section of the rail web
+portion in respect
+of the hardness measures.
+opponent sought to demonstrate the practical effect of the proposed amendment on
+the scope of the claims by using a model rail
+Dr Frank showed
+that when hardness measures were taken in a range at ±10 mm and ±16 mm
+of the midline, the difference
+between the minimum and maximum values were less
+than Hv 40 but the differences in the minimum and maximum values at ±28 mm
+and across the whole web portion area were Hv 41 and Hv 57,
+respectively.
+Frank appears to have read the feature defining the difference between the
+minimum and maximum hardness values in isolation, as
+the measurements taken in
+his experiment span the entire indicated range, where the minimum value of
+hardness was taken outside of
+the ±15 mm range of the mid-point. I believe
+his point still stands, whether the maximum value of hardness is measured across
+the whole web portion or within the ±15 mm range of the mid-point, since
+the difference between the minimum and maximum values
+in Rail Piece 7020A102
+would still exceed Hv 40.
+exercise shows that rather than expanding the scope of the claims, the proposed
+amendments have the effect of narrowing the scope.
+Insofar as the proposed
+amendment still requires the difference between the minimum and maximum value of
+hardness to be Hv 40 or
+less, allowing for hardness measurements across a larger
+area enforces a greater uniformity of cross-sectional hardness in the web
+portion. The requirement for uniformity of the hardness of the rail web portion
+is extended to the entire cross section, not just
+within the range of ±15
+mm of the mid-line.
+amendment is not allowable under s102(2)(a) where the amendment would make
+something an infringement which would not have been
+an infringement before the
+proposed amendment would have the opposite effect: it turns something which
+would have been an infringement before the amendment
+into something would not be
+an infringement. As demonstrated by Dr Frank, in the absence of a measurement
+range for the hardness
+difference, Rail Piece 7020A102, which was shown to have
+a hardness profile within the scope of the claims prior to amendment, may
+longer fall within the scope of the claims as proposed to be
+Measurement according to the standard as
+opponent submitted that claim 1 as proposed to be amended no longer requires any
+testing to comply with the JIS Z 2244:2009
+According to the
+opponent, “The deletion of the reference to the Standard now leaves it
+open to the presence of hardness being
+tested by a different method (albeit it
+might use a Vickers hardness meter, use 98N of force and have similar
+measurements) which
+does not inevitably comply with the previously stated
+Similarly, Dr
+Frank noted that the JIS Z 2244:2009 standard is “quite prescriptive and
+is a lot more flexibility when measuring the hardness according to the Amended
+Claim compared to the method of measuring
+the hardness according to the Accepted
+applicant submitted that the proposed amendments result in a more prescriptive
+method than the claims prior to
+The applicant
+further submitted that “standards between countries or organisations are
+largely interchangeable and, if a Vickers
+hardness test measurement was required
+but did not state a standard, the skilled person would still conduct the testing
+in accordance
+with a suitable testing
+a person skilled in the art would, in performing the invention, refer to a
+standard or not is not the correct question. Prior
+to the proposed amendment,
+the hardness measurement was limited to the JIS Z 2244:2009 standard, with a
+fixed practice. Determining
+the hardness characteristics of the rail web
+portion by an alternative means would impact on the assessment of rails as
+falling within
+or outside the scope of the claims.
+as the proposed amendments remove reference to the JIS Z 2244:2009 standard as
+prima facie
+, the scope of the claims after amendment would
+include matter falling outside the scope of the claims before amendment. The
+amendments require the hardness to be measured under the following
+conditions:
+“using a Vickers hardness meter, in which a load is 98 N, by
+continuously making indentations in a thickness direction of the
+portion in a row at a pitch of 1.0 mm in which a starting point of the
+indentations is a position of a depth of 1.0 mm from
+an outer surface of the
+rail web portion, in which measurement of the hardness is performed on at least
+five measurement lines with
+an interval of 1.0 mm or greater provided between
+the measurement lines”
+proposed amendment does not explicitly refer to a Vickers hardness test. The
+nature of the hardness test is only inferred from
+the use of a Vickers hardness
+meter and the hardness values being given in units of Hv. The proposed
+amendment is also silent on
+the basic conditions for carrying out the hardness
+tests. In contrast, the JIS Z 2244:2009 standard sets out basic testing
+and the description defines further requirements, such as the
+collection of the test piece and pre-processing. Therefore, defining
+test machine, load and measurement intervals does not make the process for
+measuring hardness more prescriptive as suggested
+respect to various hardness tests, according to Dr Hellier, “The
+Vicker’s hardness test is perhaps the mostly [sic]
+commonly used as it has
+a broad scale and can be used for all metal
+For example, Dr
+Hellier pointed to a different standard for the Vickers hardness test, ASTM
+having similar basic
+conditions to those specified in JIS Z
+Although both
+standards relate to the Vickers hardness test, they are not identical. In this
+regard, Dr Frank noted that measurement
+methods, devices and standard change
+over time and in the absence of all the same conditions being specified in the
+claim, the type
+of rail that falls within or outside the scope of the claims may
+proposed amendments have not specified the other conditions defined in the JIS Z
+2244:2009 standard for a Vickers hardness test
+as described in the opposed
+application. Moreover, the proposed amendment is not limited to any standard.
+I have no evidence on
+the extent of common practice imposed by the choice of
+using a Vickers hardness test to measure hardness. However, the existence
+numerous standards in the art and their evolution over time strongly points to
+variations in testing conditions leading to different
+outcomes. Insofar as the
+proposed amendments leaving the test conditions open, I conclude that the scope
+of the claims after amendment
+necessarily include matter falling outside the
+scope of the claims before amendment.
+Conclusion on
+am satisfied that the scope of the claims after amendment includes matter
+falling outside the scope of the claims before amendment.
+The opposition is
+successful on this ground.
+s102(1) – claim or disclose matter that extends beyond that
+disclosed at filing
+parties relied on their interpretation of the scope of the claims before and
+after amendment to support their position on whether
+the opposed application as
+proposed to be amended would claim or disclose matter that extends beyond that
+disclosed at filing.
+discussed above, there are differences in scope between the claims before and
+after amendment. Whether these differences lead
+to matter extending beyond that
+disclosed at filing will be considered.
+regard to the measurement range, the specification explains that the hardness
+measurements being taken within the ±15 mm
+range of the mid-point was to
+ensure that the rail had uniform cross-sectional hardness in the rail web
+There is no
+explanation as to whether the ±15 mm range of the mid-point is particularly
+prone to variability, particularly
+representative of the hardness of the rail
+web portion or simply a convenient sample to prepare. In any event, it is clear
+uniform hardness in the rail web portion is important.
+consider that taking hardness measurements outside of the range ±15 mm of
+the midpoint within the web portion still serves
+the same purpose of ensuring
+hardness uniformity within the rail web portion.
+regard to the measurement method, the specification correlates the
+cross-sectional hardness of the web portion and the fatigue
+damage when a rail
+includes a pearlite structure.
+All measurements of hardness are expressed in units of Hv throughout the
+specification. The specification only describes one method
+of measuring
+hardness, based on the JIS Z 2244:2009 standard, with specified load and
+measurement locations. Other than being the
+standard used, there is no
+indication in the specification that the JIS Z 2244:2009 standard was selected
+for any particular reason.
+noted by Dr Hellier, the Vickers hardness test is a commonly used
+As a person skilled in
+the art reading the specification, Dr Hellier stated:
+“Whilst I am not familiar with Japanese standards, I assume that it is
+related to other international standards, as testing
+methods do not often differ
+greatly between countries or
+organisations.”
+Hellier’s preferred standard for a Vickers hardness test is ASTM
+His evidence was not
+specific to any particular standard of the Vickers hardness test. Similarly,
+although expressing concerns
+of changes over time even within the same standard,
+the hardness testing of Rail Piece 7020A102 ordered by Dr Frank was conducted
+accordance with the Vickers hardness test as set out in the JIS Z
+2244-1:2020.
+consider that that a person skilled in the art does not learn anything new by
+considering the hardness of the rail web portion more
+broadly under the umbrella
+of Vickers hardness test. It is merely indicative of the threshold for hardness
+above which the rail
+is less likely to suffer fatigue damage.
+Consequently,
+the proposed amendments do not claim or disclose matter that extends beyond that
+disclosed at filing. The opponent
+has not established this ground of
+opposition.
+s102(2)(b) – Does the amendment introduce an issue of lack of
+similar reasons as above, the proposed amendments do not introduce an issue of
+lack of support. The evidence from both parties
+point to the Vickers hardness
+test being a widely used test. With the test machine, load and measurement
+intervals defined, the
+specification provides an enabling disclosure of the
+Vickers hardness test for a person skilled in the art to perform in order to
+identify suitable rails.
+amendment does not introduce an issue of lack of support. The opponent has not
+established this ground of opposition.
+s102(2)(b) – Does the amendment
+introduce an issue of lack of clarity?
+opponent submitted that, as a result of the amendment to the measurement feature
+for the minimum hardness in the cross section
+of the rail web portion, it was
+unclear whether the microstructure analysis and hardness testing were to be made
+in the same area
+or different cross sections of the rail web portion are to be
+tested depending on the
+to the amendment, claim 1 defined that “wherein 90 area% or greater of a
+metallographic structure in a cross section of
+a rail web portion is a pearlite
+structure” and “the minimum value of the hardness and the difference
+between a maximum
+value and a minimum value of the hardness are measured
+according to JIS Z 2244:2009 with a load of 98 N as defined in the
+description.”
+With regard to these features appearing in the claims, the
+specification indicates the following measurement ranges:
+“Incidentally, the ‘metallographic structure in the cross section
+of the rail web portion’ indicates a metallographic
+structure in a range
+of ± 15 mm in the upward and downward direction of the rail from the middle
+line between the rail bottom
+portion and the rail top portion in the cross
+section of the web
+“Incidentally, the ‘minimum value of the hardness in the cross
+section of the rail web portion’ indicates the minimum
+value of the
+hardness in a range of ± 15 mm in the upward and downward direction of the
+rail from the middle line between the
+rail bottom portion and the rail top
+portion in the cross section of the web
+“Incidentally, the ‘difference between the maximum value and the
+minimum value of the hardness in the cross section of
+the rail web
+portion’ indicates a difference between the maximum value and the minimum
+value of the hardness in a range of
+± 15 mm in the upward and downward
+direction of the rail from the middle line between the rail bottom portion and
+the rail top
+portion in the cross section of the web
+Separately,
+the specification describes the method for measuring the cross-sectional
+hardness of the rail web portion is described
+in the context of the JIS Z
+2244:2009 with a load of 98 N as follows:
+“The measurement position was in a cross section in a range of ±
+15 mm in an upward and downward direction of the rail
+from a middle line between
+a rail bottom portion and a rail top portion (refer to FIG. 1).
+Indentations were continuously made in a
+thickness direction of the web portion in a row at a pitch of 1.0 mm in which
+the starting
+point of the continuous indentation is the position of a depth of
+1.0 mm from the outer surface of the web portion, and the hardness
+distribution
+was measured. The measurement of the hardness was performed on at least five
+Incidentally, in order to eliminate the mutual influences of the
+indentations, an interval of 1.0 mm or greater was provided between
+measurement
+claim 1 as proposed amended, the measurement for minimum hardness of the
+cross-section of the rail web portion is Hv 300 or less
+when taken from “a
+cross section in a range of ±15 mm in an upward and downward direction of
+the rail from a middle line
+between a rail bottom portion and a rail top
+portion” and the minimum value of the hardness and the difference between
+maximum and minimum values of the hardness are measured “by
+continuously making indentations in a thickness direction of the
+portion in a row at a pitch of 1.0 mm in which a starting point of the
+indentations is a position of a depth of 1.0 mm from
+an outer surface of the
+rail web portion, in which measurement of the hardness is performed on at least
+five measurement lines with
+an interval of 1.0 mm or greater provided between
+the measurement lines.” No amendment was made with respect to the
+metallographic
+structure in a cross section of a rail web portion.
+Consequently,
+although the reference to the hardness measurement being taken “according
+to JIS Z 2244:2009 with a load of 98
+N as defined in the description” had
+disguised the issue, I consider that the possibility of multiple cross sections
+rail web portion existed prior to the proposed amendment.
+amendment does not introduce an issue of lack of clarity. The opponent has not
+established this ground of opposition.
+opposition is successful on the grounds of s102(2)(a). I am satisfied that the
+scope of the claims after amendment includes matter
+falling outside the scope of
+the claims before amendment. The opposition fails on the other grounds of
+s102(1) and s102(2)(b) –
+the proposed amendments do not claim or disclose
+matter that extends beyond that disclosed at filing or introduce issues of
+or clarity.
+refuse the amendment.
+generally follow the event. I see no reason to depart from that approach. I
+therefore award costs according to Schedule 8
+against the applicant, Nippon
+Steel Corporation.
+Delegate of the Commissioner of Patents
+Dr Frank had filed earlier
+declarations in the S59 opposition. I have included these in the present
+numbering of declarations as
+Frank 1, Frank 2, Frank 3 and Frank 4.
+Opponent submissions in
+support at [25].
+Specification
+Specification at
+Specification at
+Specification at
+Specification at
+Specification at
+Specification at
+Specification at
+Specification at
+Specification at
+[0066] and [0091].
+Commonwealth Scientific and Industrial Research Organisation v BASF Plant
+Science GmbH
+[2020] FCA 328
+Distillers Co. Ld.'s Application
+(1953) 70 RPC 221
+W.J. Voit Rubber
+Corp.'s Application
+(1965) AOJP 1752
+Ingelheim International GmbH v Commissioner
+H Lundbeck A/S v
+Alphapharm Pty Ltd
+[2009] FCAFC 70
+Monsanto Co
+v Commissioner of Patents
+(1974) 48 ALJR
+Flexible Steel Lacing
+Co v Beltreco Ltd
+[2000] FCA 890
+Merck Sharp &
+Dohme Corporation v Wyeth LLC (No 3)
+[2020] FCA 1477
+submissions in support at
+Opponent submissions
+in support at [29] and applicant submissions in answer at
+Applicant submissions
+in answer at [42] (emphasis in original).
+Hellier at [146].
+Specification at [0025],
+[0065] and [0091].
+submissions in support at [39].
+Applicant submissions in
+answer at [43] and [59].
+Applicant submissions in answer at [41] (emphasis in
+submissions in support at
+The Distillers
+Co. Ld.'s Application
+(1953) 70 RPC 221
+Frank 5 at [25].
+Opponent submissions in
+support at [50].
+submissions in support at [54].
+Applicant submissions
+in answer at [54].
+Applicant submissions in answer at [55].
+Hellier at [40].
+Opponent submissions
+in support at [60] and [65]-[67]; Applicant submissions in answer at [61] and
+Specification at
+[0027] and [0064].
+Specification at [0019].
+Hellier at [40].
+Opponent submissions
+in support at [48].
+Specification at [0056].
+Specification at [0061].
+Specification at [0063].
+Specification at [0025], [0066] and [0091].
+RTF format (2.12 MB)
+Signed PDF/A format

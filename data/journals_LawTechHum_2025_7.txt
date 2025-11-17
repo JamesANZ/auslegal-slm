@@ -1,0 +1,1176 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/LawTechHum/2025/7.html
+Scraped: 2025-11-17 15:12:52
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Deibel, Talya; Deibel, Eric --- "Forgotten Boundaries in Law: On AI and Neurotechnology" [2025] LawTechHum 7; (2025) 7(1) Law, Technology and Humans 96
+Forgotten Boundaries in Law: On AI and
+Neurotechnology
+Talya Deibel
+School of Law, University College Cork, Ireland
+Eric Deibel
+School of Communication and Information Studies, University College Dublin,
+AI; legal personhood; neurotechnology; private
+1. Introduction
+The modern understanding of private law is based
+on the myth of the natural person, narrated as if there are clear boundaries
+the inner and outer realms. It is the sovereign individual of political
+theory conceived of a physical and spiritual being whose
+body is governed by a
+rational mind that is both hidden and private. Crucially, this myth is also
+integral to how technology is narrated,
+both historically and today.
+Artificial intelligence (AI) and neurotechnology, which are often regarded as
+separate fields of research, are examples of this. While
+neurotechnology is
+associated primarily with healthcare, AI is frequently linked to robotics and
+computational methods. However,
+they have significant similarities. The
+development of AI technology draws inspiration from
+neuroscience;
+neurotechnologies often involve brain–computer interfaces, which establish
+direct communication between human brains
+and technological devices, and as such
+incorporate AI and machine learning
+technology.
+Moreover, neural data
+are often collected and analysed through AI-driven algorithms. Their convergence
+is also evident in how AI
+and neurotechnology symbolise the symbiotic
+relationship between human bodies and various technological practices, thereby
+reconstructing
+the narrative around legal personhood.
+This is an illustration of a basic insight of science and technology studies
+(STS) from over half a century ago: science and technology
+shape and are shaped
+by society. Like law, the term ‘society’ does not refer to a
+singular category; rather, it should
+be understood in terms of a variety of
+technoscientific practices that are integral to the reproduction of society. The
+true for science and technology, which are understood in terms of
+specific settings and systems that shape the social as a reflection
+of society,
+its values, interests, power dynamics and other such sociological
+categories.
+This article therefore adopts this perspective to examine the powerful
+sociotechnical imaginaries that surround and permeate AI and
+neurotechnology. On
+the one hand, this involves analysing the role of narratives that challenge
+established legal concepts such as
+‘the person’, ‘the
+thing’, ‘privacy’ and ‘data’. On the other hand,
+the article focuses
+on AI and neurotechnology, exploring how these technologies
+are transformative in ways that require closer attention to private law
+This brings the theoretical, methodological and political significance of legal
+history to the fore, especially in the context
+of emerging technologies,
+experimentation and STS more broadly. This perspective goes beyond the obvious
+point that law today has
+become increasingly invested in technoscientific
+practices and is shaped by them. It is equally important to recognise that
+law has its own performativity – its ability to shape the social
+and the technological in its own image.
+Specifically, the article refers to legal history as the field from which to
+approach efforts to regulate AI and neurotechnology.
+The STS perspective becomes
+critical as it aims to foreground a perspective on private law, with its
+2000-year-old history dating
+This relationship between STS
+and private law is essential in an understanding of the integration of AI and
+neurotechnology into human
+bodies, minds and daily life. For instance, private
+law and its underlying principles are being reinforced, challenged and
+transformed
+in close relation to the narratives of hope and fear that are
+invoked in the context of AI and neurotechnology.
+This article argues that private law theory should be placed at the centre of
+how the narratives that surround these technologies
+(re-)imagine the legal and
+social order.
+Narratives not only
+refer to storytelling; myths are potent – they create narratives and
+discourses and inform how words translate
+into actions. They carry an imperative
+character as they play an active role in the sociotechnical imaginaries that
+lead to the creation
+of material
+infrastructures.
+This applies
+directly to law, particularly when its foundational categories are challenged.
+Myths become crucial in creating sociotechnical
+imaginaries, to deal with what
+is uncertain and nebulous from the standpoint of law while also providing
+guidance and pointing to
+plausible future
+directions.
+These narratives revolve around what the title refers to as ‘forgotten
+boundaries’. These are not the rigid legal lines
+of modern law; rather, a
+historical understanding of contemporary law considers such lines to be a
+collection of boundary zones.
+These zones involve substantial commitments
+regarding the legal (boundary) work required to maintain established categories,
+them into frontier areas or otherwise redefine them. This implies that
+modern legal categories such as ‘persons’ and
+should be viewed as specific (boundary) objects that require constant
+management, surveillance and
+intervention.
+The dialogue with STS aims to contribute to comparative legal methodologies
+that are better equipped to address the normative challenges
+posed by AI and
+neurotechnology. This calls for methods inspired by STS, reflecting a broader
+context in which law and technology
+scholars adopt more pluralistic and critical
+perspectives, drawing from meta-disciplines such as sociology, philosophy and
+the history
+of science, technology and law.
+2. On STS and Private Law
+The starting point for this article is a basic tension between two classical
+positions from the early days of STS. The first refers
+to technological systems
+as integral to the reproduction of modern societies. This implies that science
+and technology are heavily
+shaped by a limited range of social groups, their
+interests and material practices, with a strong hold over ideas in today’s
+liberal economy.
+insight started out as a response to this perspective, pointing out that science
+and technology are not simply shaped
+by the hierarchies, influential interest
+groups and other types of powerful agents.
+Accordingly, STS makes it impossible to approach technology as something that
+exists in isolation from what it means to be human,
+to be a person, to have
+authentic experiences, to possess, to be private, to be a subject and so on.
+This includes any approach that
+would see the law as the logical opposite of
+progress, framed as constantly falling behind, unable to keep up with
+technological
+change, or about law as the steward of society, protecting it from
+technological transgressions, risks and harms that science and
+technology might
+end up inflicting on it.
+all, the same uneasy relation can be observed between law as a system and the
+difficulty of affirming its own basic categories
+in a technological world where
+complex relationships are involved in various new types of agency that come to
+characterize legal
+concepts such as ‘the person’, ‘the
+thing’, ‘privacy’ and ‘data’.
+This complexity is not incidental, with early STS seeing it as part of why
+technology is able to surprise us, to enable directions
+that could not be
+anticipated in advance, and as inescapably part of the authorization of types of
+agency at the centre of modern
+Law is not different in
+its relation to technology, given its hold over any of its sharply drawn lines
+that begin to blur the boundaries
+between subjects and objects, inner and outer,
+body and information, person and property, and so on. Modern law is built on
+tied to science and technology, such as the distinction between the
+organic and the artificial. In law, these categories form the
+basis of the
+modern distinction between personhood and property, natural personhood and
+In this regard, the STS
+perspective offers a framework that embraces hybrid categories and grey areas.
+It is not that the lines between
+established categories are being erased;
+rather, the perspective emphasises how modern dichotomies that have come to
+characterise
+law are often misunderstood when viewed through a myopic lens.
+Law as characterised by dichotomies echoes the perspective of Bruno Latour,
+one of the key figures in STS. In the early 1990s, Latour
+pointed out that the
+modern world and its basic social order were organised around these types of
+dichotomies, each of which seeks
+to establish a separation of
+‘Nature’ and ‘Culture’. This separation, which he calls
+acts of purification,
+is being overwhelmed by the many types of
+‘hybridisation’. This refers to the experiment as a key dimension of
+authorising objects, things, artefacts, and products that blend the
+nature of science and technology with their authorization as
+integral to modern
+The result is a
+paradox: a commitment to modernity that denies its relation to the countless
+artefacts and types of knowledge that
+are produced in the confined spaces of
+experimentation, where science and technology are created as a special relation
+as natural history, as physics or mathematics, and as any other of
+the strong claims on what reality is
+In turn, the paradox applies to a lack of reflection on what exactly is
+‘modern’ about the contemporary conception of
+legal personhood. For
+example, futuristic theories such as posthumanism and transhumanism refer
+primarily to conceptions of humanness
+that are modern, either coming from the
+eighteenth-century Enlightenment or nineteenth-century
+Kantianism.
+The same applies to
+law to the extent that there is little interest in how and why contemporary
+protection of personhood initially
+flourished in Roman law. This is a topic that
+is well studied but remains within the disciplinary confines of legal history,
+a lack of appreciation for how modern private law doctrines are based on
+legal remedies of antiquity. Accordingly, it is in Roman
+law that a different
+perspective can be found, as it represents the remarkable continuity and
+longevity of law and legal narratives,
+as opposed to pure memory, direct
+experience and observation echoed by the language of the scientific revolution
+and the experimental
+On the one hand, this is a point about continuity. Contemporary legal tools
+have more than 2000 years of history, representing epistemic
+continuity in terms
+of the narrative structures of the legal and policy instruments on AI and
+neurotechnology. On the other hand,
+it should be clear that private law was
+recontextualised several times, including during the imperial era, the Byzantine
+medieval times and the
+ius commune
+. Each period had distinct
+political and technological characteristics that created a new legal reality.
+The Enlightenment and a strictly
+applied Cartesian perspective transformed the
+Romanist tradition. Yet, early modern and modern private law codifications did
+decouple themselves from Roman antiquity.
+A key example is today’s narrative of the ‘protection of
+personhood/personality interests’ in European laws with
+emerging technologies. For instance, in the civilian tradition, personality
+interests are protected through ‘personality
+rights’. These are
+often seen as products of Kantian-inspired German legal scholarship; they refer
+to a bundle of rights that
+aim to protect legal interests associated with
+personhood.
+This includes bodily
+integrity, mental/psychological integrity, privacy, identity, reputation,
+freedom, dignity, personal data and
+Consequently, the natural
+person is seen as a dual being. The natural person is a legal fiction, which has
+a physical and psychological
+existence. It has an outer and an inner world. What
+this shows is the point made earlier: a perspective in which the modern person
+has an outer and an inner self.
+Such an inner self is epistemologically closed and ontologically separated. It
+has unmanifested thoughts, emotions, desires, wills,
+ideas and memories. It is
+opaque and impenetrable. Even though it sits in the metaphysical realm, legal
+personhood is deeply connected
+with the idea of an inner
+On the one hand, this explains why modern laws provide strong protection,
+mainly because of the idea of the existence of an inner
+self. This protection
+implies making a pragmatic separation between the inner sphere (thoughts,
+feelings, emotions) and the body,
+as well as between personhood–property,
+subject–object and public–private. In the end, private law’s
+to personhood crystallises in two key points. First, private law takes
+the natural person as a dual entity: a biological being with
+a body that ends
+with the epidermis and a mind that is an unreachable
+Second, private law
+takes personhood primarily as a legal fiction. Even though it is based on
+natural law, personhood refers to a
+legal category that undergoes stages of
+naturalisation and
+artificialisation.
+human beings have personhood by virtue of being born.
+On the other hand, modern conceptions of personhood, contracts and property
+stem from Roman law, where foundational categories were
+never completely stable.
+For instance, personhood as a legal category initially emerged in relation to
+property. In Roman antiquity,
+personhood was characterised by the capacity to
+own. Humans were legally treated as ‘
+’ due to their
+capacity as proprietor, whereas slaves mostly fell under the legal category of
+This illustrates how
+the narrative of property, market and competitiveness is deeply rooted in the
+private law theory.
+Its implications include further examples, such as how legal questions around
+AI and neurotechnology concentrate on ‘how to
+protect persons
+better’. This question has been at the centre of private law ever since
+its creation, as a social and political
+narrative. The point, however, remains
+the same: Roman antiquity retains a strong hold on the present, which carries
+over to a view
+of private law and its complex history as performative in the
+creation of visions of the future. Today, when we analyse AI and
+neurotechnology,
+we witness the same narrative patterns: the narrative of
+humanness accompanied by the narrative of ownership, performance, and
+competition.
+This includes how AI is often discussed in terms of concepts such
+as ‘trust’, ‘responsibility’ and
+‘efficiency’.
+These notions reflect the concept of legal personhood
+as a legal-philosophical concept that arose in Roman law through its
+relationship
+with what might be called frontier technologies of the era, such as
+military, navigation, commerce and production.
+Finally, the implication for the remainder of the analysis is not that we
+should always go back to antiquity and never move forward
+when we deal with a
+new technology. Indeed, the opposite is true: pushing the unstable dichotomies
+of law back by at least a millennium
+changes the perspective on the modern
+separation of Nature and Culture to which Latour points. Accordingly, an
+alternative approach
+becomes possible, whereby private law theory is at the
+centre of how we plan to deal with future technologies. We need to develop
+deeper and broader narrative analysis of private law theory alongside those of
+contemporary technoscience, as a powerful normative
+framework through which law
+in its myopic form seeks to remain blind to its own long
+3. The Myth of Personhood
+Myths are powerful. Sometimes they create stories in the form of
+decontextualised narratives. Sometimes they are aestheticism, and
+as such they
+become appealing as discourses. Sometimes they take the shape of marketing
+At other times, they
+imply narratives that provide explanations and interpretations for techno-legal
+concepts that are difficult
+to conceptualise. They reflect long-standing power
+relations, with certain narratives benefiting some actors and hindering others
+from pursuing their interests. This includes technology, with its dominant myth
+of having the power to influence destiny, illustrated
+in the case of the myth of
+personhood and how it influences and disrupts the narrative frameworks of AI and
+neurotechnology.
+For example, Barthes characterised myths in terms of
+‘neither/norism’. This refers to the pronouncements on the utopian
+potential and dystopian risks of technology, as well as the idea that personhood
+should be seen as categorically distinct from the
+object/machine exactly when it
+is on the verge of transforming social
+Myths show the world
+in specific ways, creating materialities, order and a relationship with the
+‘unknown’. This is today
+visible around the narratives of AI and
+neurotechnology, each of which is a narrative response to the myth of free and
+mental and physical integrity. The same applies to its legal version:
+the entity that is the bearer of rights and obligations, which
+conclude contracts and whose identity and dignity entitle it to protection.
+What matters about the
+narratives that surround technology is that they show the ability to shake this
+liberal myth by blurring the
+line between life and information, artificial and
+organic, and person and thing. The point is not only that this creates legal
+as legal instruments start from the separation of such ontological
+categories encompassing binary concepts such as body–mind,
+person–property and public-private. Rather, legal history shows that the
+underlying values of the challenges to this mythology
+belong to the
+words, the person in European law can be seen as the subject of rights and
+obligations, primarily created by and for the
+market. The legal person was not
+any person; he was the white, rich, and male person who could have property
+rights and other rights
+This mythology of
+its external form with the human rights paradigm of the twentieth century. Yet,
+its foundational tie with ownership and power
+relations remained.
+In other words, it never decoupled itself from the class, gender, and race
+asymmetries that belong to the deeper layers of western
+legal systems. That is
+to say, the myth of person reflects a tension with the concept of personhood of
+future and modernity. Modern
+laws are often built on ontological binary
+categories that are often presumed to be separate and distinct from each other
+a certain level of legal clarity. Law acts ‘as if’ the
+body is a different phenomenon than the mind. Law treats the public
+‘as if’ it is separate from the private. Law sees personality rights
+‘as if’ they are clearly distinct
+from what we call property
+In this context, the concept of ‘myth’, particularly in the works
+of Claude Lévi-Strauss and Roland Barthes, becomes
+informative when
+looking at personhood. According to Lévi-Strauss, myths can create
+collective ownership over the meaning
+of a concept. They have discursive power,
+and through this they bridge the gap between history and
+Again, this applies to
+the myth of the ‘integrated person’ who is free, who has privacy,
+who has autonomy and a degree
+of control over writing their own narrative. The
+premise is that there is ontological privateness of the mental realm, operating
+as a key liberal foundation of the person as a bounded unique
+What the perspective of
+the myth also foregrounds is how myths rise and fall not because they are right
+or wrong, but because they
+are living or
+The answer, therefore, is not a rejection of law and its dualisms (as myths);
+rather, it lies in a renewed interest in the nature
+of ‘personhood’
+as mythical when considering its historical nuances and complexities. Its
+survival as a bounded unique
+form requires new legal scholarship, a new
+understanding of how to protect bodies, minds and the boundaries in between. It
+the boundary zones and crossings that different legal narratives
+4. AI Narratives and Personhood
+A legal narrative analysis that invokes the long history of private law
+theory shows that questions of responsibility, liability,
+and accountability are
+really questions of personhood. This is relevant in the context of how everyday
+narratives on AI switch back
+and forth between the language of moral philosophy
+and the market.
+Clearly, there is no shortage of expert reports and strategy papers that
+frame AI as an inevitable development and as massively
+disruptive.
+The frame that is
+invoked foregrounds competition and an urgent need to catch up, with its setting
+a geopolitical race that revolves
+around the capture of global markets. At the
+same time, AI is being presented as a technological fix to social issues, as a
+for life quality and affluence. Each of these narratives, however, is
+still premised on the myth of ‘personhood’, invoking
+its history
+every time practical private law questions arise with questions of ethics
+revolving around about legal responsibility,
+commercial concerns pointing to
+liability issues and problems of accountability playing out as a combination of
+ethics and the market.
+The legal challenges of AI are not novel. For example, Lawrence Solum
+observed as much about AI in
+More substantially, the
+various comments make an appeal to legal personhood. To be a ‘subject of
+law’ is, from a positivist
+perspective, a legal fiction. From a Kelsenian
+perspective, the human belongs to the realm of biology, whereas the person is a
+of jurisprudence
+In other words, the legal person is a human (natural legal person) or a
+non-human legal entity (juridical person/
+persona ficta
+) that is treated
+‘as a person’. Personhood essentially refers to a methodological
+tool – a fluctuating legal category
+as it historically depended on several
+social, economic, moral and technological criteria.
+For instance, in both Roman law and the history of Anglo-American legal
+tradition, personhood emerged as ‘
+’. In Rome, slaves,
+women and non-citizens were considered non-persons with ‘human
+qualities’. This discussion has
+re-emerged in the context of AI and
+metaphors such as artificial ‘intelligence’ or machine
+‘learning’. These
+are perceived to create a new legal narrative
+wherein AI is seen as a human–thing
+AI reflects the
+human–machine nexus where the human characteristics are part of technical
+assemblages. We attribute characteristics
+to AI, making it anthropocentric on
+the premise that it will end up anthropocontrolled. An obvious example is how
+ChatGPT comes with
+a promise to be ethical and accountable alongside an openness
+to market relations. This combination reflects the behavioural standards
+developed in the long history of contract law.
+One illustration is the standard of
+‘bonus vir’
+man). The ‘good man’ is the origin of the honest citizen. He does
+not deceive and who does not act contrary to
+Modern legal systems
+still evaluate events and responsibility according to
+Similarly, AI operates
+in the market with
+‘good faith’
+. As such, it is honest,
+trustworthy and reasonable.
+rests on the myth of personhood as such behavioral standards were developed with
+respect to natural persons. In other words,
+these behavioral standards have
+their roots in human-centred ethics. Personhood as a legal category reflects
+being the bearer of
+rights and obligations. The legal person is the subject of
+law, who has certain rights, protections, privileges, duties, responsibilities
+and liabilities. The person is accountable and responsible for their own acts
+and actions. As such, the primary legal principle ‘liability
+follows the
+wrongdoer’ is anthropocentric by nature and has its roots in natural law
+and ethics.
+Further examples can be found in national strategy papers. Germany promotes
+an AI imaginary along ethical lines, emphasizing participation,
+freedom and
+self-determination of citizens.
+Similarly, France focuses on the humanist ethos of the AI while focusing on the
+importance of responsibility when it comes to its
+regulation.
+The same examples
+can be considered on a larger scale by tracing them to Europe’s AI Act and
+the Digital Services Act (DSA).
+These contribute to the same legal narrative,
+with the DSA seeking to create ‘a safe, predictable and trusted online
+environment’
+while focusing on the liability of providers from harms to
+fundamental rights and broader societal risks. Article 25(1) chooses the
+‘freedom’ to emphasise the model person of law as a free and
+autonomous individual and highlights the provider’s
+duty not to distort
+and impair their ability to make free decisions.
+Similarly, Article
+5(1)(b) of the AI Act specifically prohibits practices that can exploit
+‘any of the vulnerabilities of a
+specific group’ by causing
+personality harm.
+these instruments use words such as ‘exploitation’,
+‘vulnerability’ or ‘personality’,
+they also form clouds
+of connotations as part of a narrative.
+These examples serve to illustrate how private law has been performative.
+Policy instruments and papers tend to discuss the same problems
+of liability and
+accountability gaps when dealing with AI. Yet, reality is complex and messy:
+agency, autonomy, and causality are
+not often easy to establish clearly or
+detect with accuracy. To address the complexities, Roman law developed several
+technical tools
+to overcome strictness of law and dual categories when dealing
+with questions of liability with respect to new technologies. A key
+, which was developed as a methodological tool
+to establish responsibility for ‘non-persons’. This referred to
+funds granted to slaves so that they could have contractual
+responsibility. Similarly, Romans developed special instruments called
+actions’ to establish extra-contractual liability
+arising from the actions of ‘non-persons’.
+This again indicates the constitutive role of myths and narratives in private
+law, especially when dealing with techno-mediated relations
+such as contracts.
+In effect, today’s legal instruments express ethical standards that were
+developed in Roman private law
+and later translated into human rights and
+international law, such as good faith, proportionality and reasonableness.
+DSA is illustrative, as it distinguishes between different types of
+risk and imposes on providers the duty to mitigate systemic risks
+‘reasonable, proportionate and effective’ mitigation measures. From
+a legal methodological perspective, national
+civil and contract laws already
+impose ethical duties that potentially address such risks. Therefore, the
+emphasis on proportionality,
+reasonableness and effectiveness is performative,
+not in terms of its legal effect, but primarily in terms of narrative
+Many more of these Roman mechanisms are still in effect, forming the
+substance to the ability of private law to provide practical
+legal answers to
+today’s challenges. It is effectively Roman law that is mobilised to
+address the responsibility and accountability
+gaps that occur when non-subjects
+have the primary agency, compared with personhood and autonomy. The same applies
+to AI when seen
+as the embodiment of human-like values and qualities such as
+security, trustworthiness, openness and good faith. The underlying myth
+‘personhood’ and ‘non-personhood’, which never emerged
+in connection to any type of sentience, or cognition
+– indeed, quite the
+opposite is the case: the Western legal narrative of personhood and its related
+of the Roman conceptions of ‘market’ and
+‘ownership’.
+5. Neurotechnology Narratives and Personhood
+AI and neurotechnology are often narrated differently in legal scholarship.
+However, there are key similarities, including those that
+come out of the
+history of private law. For example, neurotechnologies record or alter brain
+activity. Common examples are functional
+magnetic resonance imaging (fMRI)
+technology, which records brain activity based on the hemodynamic response, and
+electroencephalogram
+(EEG), which measures the electrical activity of the brain.
+Moreover, they can also include AI and machine learning technology. One
+is brain–computer interfaces (BCIs), which connect the brain to a
+computer, initially developed to treat neurodegenerative
+disorders. There are
+also neuroprostheses, sometimes referred as ‘brain chips’, which can
+be coupled with the central
+nervous system. The integration of machines into
+human bodies is not new, considering that insulin pumps and implanted pacemakers
+have been used as part of general medical practice for
+Yet, neurotechnologies
+are exemplary of the integration of the machine and the human on a deeper and
+more intimate level.
+Accordingly, the narrative of neurotechnology is much less about the digital,
+data and information, and more about bodily integrity,
+cognitive capacity and
+This is not to say that
+this is a difference of substance. For example, the transhumanist vision that
+was inspired by speculative
+science fiction has long located the human mind in a
+data cloud.
+neurotechnology, these concerns reached the legal sphere, due to the protection
+of brain data and, in a broader vision, personhood.
+One illustration of the
+narrative of neurotechnology is the changing meaning of data. The concerns
+around the protection of personal
+data resurface when neurotechnologies are
+migrating to the consumer sphere with their ability to reveal and store brain
+data. Moreover,
+neurotransplants would not only imply access to data but could
+also present the potential to manipulate the mind. The boundary between
+devices and recreational usage is already blurring and the same applies to
+question of employment, with employers gaining
+access to the brain data of
+employees for efficiency and safety
+The overlap is not surprising from the perspective that AI and
+neurotechnology share a history of science in relation to the cybernetic
+of the mid-twentieth century and the rise of the concept of
+‘information’. From this perspective, the narratives
+are entangled,
+with the main difference being that the digital in neurotechnology has always
+already been biological.
+such, the status of information is less visible than the need to optimise health
+and increase the lifespan and quality of life
+for patients with certain
+psychiatric and neurological conditions. In turn, the ability to intervene
+directly in the ‘inner
+spheres’ of humans corresponds to a narrative
+The problem with these concerns is that the narrative will never address the
+underlying problem raised by private law. One example
+is how software and
+algorithms that are used in neurotechnology are protected through intellectual
+property rights. This is meant
+to determine which agent has economic and legal
+control over technology and innovation, but it thereby creates a plethora of
+legal challenges, including contractual autonomy, exploitation and
+neuropiracy.
+This creates the
+need to establish a functional way of mitigating technology risks as otherwise
+vulnerable groups are left open to
+exploitation. One example to be proposed is a
+specific version of Rawlsian ideas of fairness to be applied directly to the AI
+in neurotechnology, informed by private
+To this end, the typical frame of reference in governance today has been
+ethical guidelines, informed by human rights discourse on
+inclusivity. For
+example, the legal scholarship has begun to advocate for
+‘neurorights’. The neurorights movement argues
+for legally
+establishing a new category, new ‘human rights for the mind’, to be
+able to protect the mental integrity
+and cognitive freedom of all human
+Yet, the charge –
+correctly – is that technology development is not inclusive, leaving out
+the interests and rights of
+a wide variety of stakeholders, such as non-binary
+individuals, immigrants, people with disabilities, individuals dealing with
+digitally illiterate people and so on. The ethical codes are also
+typically vague, which from the standpoint of private law means
+the underlying
+problems will remain, and the appeal to inclusivity is effectively another myth,
+operating like a Trojan horse for
+the neurotechnology companies to escape from
+regulation and potential legal tools designed to protect weaker and vulnerable
+in the market
+The key point is that these solutions still revolve around the mind and the
+body in terms of their vulnerability to potential violations
+of personhood, such
+as surveillance, data breaches, hacking, exploitation and manipulation. These
+threats are addressed as human
+rights violations, but they are also
+infringements of bodily and mental integrity within tort law, as well as
+contractual violations
+of duties of good faith. New rights will not change the
+basic themes that are deeply rooted in the history of private law, and that
+not reflected in how the legal challenges are addressed. For instance, data
+might be personal and protected by fundamental rights,
+yet the question remains
+and crystallizes around whether we want personhood as a legal category that is
+extra commercium
+– that by nature cannot be owned – or simply
+– a thing or asset.
+Accordingly, no decisive answer can be given to how infringements might refer
+to the private realm of tort law and to contract law,
+as violations of
+personality rights, unfair use of personal data, exploitation in contractual
+relationships, surveillance and online
+manipulation. This call for neurorights
+and other special measures is useful to the extent that it recognises how the
+surrounding neurotechnologies challenge modern boundaries between
+mind and body and remind us that they have always been fickle and
+context-dependent in law.
+6. Discussion and Conclusion
+AI and neurotechnology are not the only examples that challenge the standard
+conception of personhood in law. The same can be said
+of the discourse on the
+rights of nature and the animal rights
+However, the emphasis
+on technology encompasses cybernetics, genomics, the internet of things (IoT),
+big data and all the related
+state and corporate interests. This background
+implies that the legal narratives of AI and neurotechnology carry the weight of
+much more heterogeneous web of ethical, political, economic, geographical,
+scientific and technical relations.
+In this context, the STS perspective counterbalances narratives of
+‘breakthrough’ and ‘hype’. Both AI and
+neurotechnology
+are frequently portrayed as a ‘revolution and turning point in world
+stereotypical narrative is often presented by industry actors focusing on
+potential benefits to humanity. In parallel, legal
+scholarship tends towards a
+Cassandran narrative of disruption, wherein AI and neurotechnology are seen as
+threats to our inner and
+outer spheres. However, this Cassandran narrative also
+gives way to a techno-optimist vision of AI and neurotechnology, amplifying
+their potential Promethean character. The transformative character of these
+fields is emphasised: they enhance health, life quality
+and market efficiency.
+This often leads to agency being attributed to the technology itself, through
+its inevitable characteristics.
+The sociotechnical imaginaries surrounding AI and neurotechnology serve as a
+prime example, both characterised by a strong rhetorical
+function that reduces
+the agency of law in the context of narratives about their promises and risks.
+STS reminds us that these networks
+are constantly performed, changing in
+accordance with the ongoing interaction between science, technology and society.
+This implies
+that certain narratives, such as how race, gender and power
+asymmetries have been intertwined with the myth of personhood, will likely
+disappear and be sidelined within the network. Consequently, the STS critique of
+modernist narratives becomes useful in the context
+of the history of private
+law. It provides a critical lens through which to approach the dualisms of
+modern law, so the fringes of
+‘technology as disruption’ versus
+‘technology as saviour’ can be addressed with insights gained from
+years of experience of the interaction between technology, law and
+The construction of the legal person demonstrates how nature is actively
+separated from the social. In this sense, the argument of
+this article supports
+STS scholarship and its more nuanced understanding of progress narratives.
+Nonetheless, examining the history
+of private law shifts this perspective,
+showing that personhood is historically contingent and still shaped by class and
+In this context, technoscience is marked by power imbalances that have
+developed over centuries. There is a long continuity within
+the European legal
+narrative, with private law constantly evolving as a creative field. This makes
+private law theories nearly timeless,
+yet in a constant state of change,
+contrasting with the typical emphasis in STS on memory and experience.
+Indeed, private law existed long before society became modern. In ancient
+Rome, it was not necessarily the case that being a person
+was synonymous with
+being human, while subjectivity was tied to collective power constellations such
+as the master and the slave,
+forming one unit. What matters here is how private
+law has put alternative myths into play. These originate from outside the sphere
+of modern technoscience, including STS, which represents broader involvement
+with ethics, sociology and philosophy. The point is
+not only that the world of
+technology includes legal narratives that are constantly created, altered,
+challenged and transformed;
+rather, contracts or property are continuously
+invoked, and their history resurfaces with every creative legal remedy. There is
+plethora of historical examples to mobilise, a rich repertoire of boundary
+It is surely insufficient to criticise the dichotomization of person and
+thing as a relic of Cartesian philosophy. This echoes STS
+in pointing out how
+the object–subject and inner–outer distinctions are becoming ever
+more entangled, challenging foundational
+pillars in law. For this reason, the
+article finds the mythological significant. Myths
+prima facie
+history, yet they are future
+The power of the myths
+lies in their recurrence, and the best solution to myths is to mythify
+Accordingly, STS and the
+history of private law can inform one another in support of alternative visions
+and narratives. There are
+starting points, such as Haraway’s emancipated
+cyborg, a famous counter-narrative that was part of her feminist
+The challenge extends
+to legal personhood, which – while idealised – perpetuates gender,
+race and class asymmetries.
+It is beyond the scope of this article to determine whether any appeal to
+intersectionality would be able to reach its mark in the
+context of AI and
+neurotechnology. Perhaps this is unlikely, given the argument that any
+emancipation is still premised on the modern
+narrative of personhood. Yet, the
+question remains: what new narratives could emerge from the underlying layers of
+history, providing
+inspiration for addressing legal questions around
+responsibility, privacy and personal data in the techno-mediated
+infrastructures?
+Perhaps this is a simple choice, moving away from the law as it
+currently stands, seeking to tame the many wild zones that exist
+boundaries in the brave new world. Alternatively, the law may embrace a more
+pluralistic, comparative and intellectually
+critical scholarship. This would
+greatly benefit other fields, including STS. What is needed is a critical study
+of private law that
+leverages its long duration and diversity of highly detailed
+settings, rulings and instruments. This is its greatest strength: its
+in dealing with forgotten boundaries that have existed throughout its long
+history, which can provide legal substance
+to many alternative myths and
+narratives that exist on the margins of the networks, whether of AI,
+neurotechnology or otherwise.
+Bibliography
+Bareis, Jascha and Christian Katzenbach.
+“Talking AI into Being: The Narratives and Imaginaries of National AI
+Strategies and
+Their Performative Politics.”
+Science, Technology, &
+Human Values
+47, no 5 (2022): 855–881.
+http://dx.doi.org/10.1177/01622439211030007
+Barthes, Roland.
+Mythologies.
+New York: Giroux, 1972.
+Beyleveld, Deryck and Roger Brownsword.
+Human Dignity in Bioethics and
+Oxford: Oxford University Press, 2001.
+Bijker, Wiebe, Thomas Hughes and Trevor Pinch.
+The Social Construction of
+Technological Systems.
+Cambridge, MA: MIT Press, 1984.
+Bowker, Geoffrey and Susan Leigh Star.
+Sorting Things Out: Classification
+and Its Consequences.
+Cambridge, MA: MIT Press, 2000.
+https://doi.org/10.5860/crl.61.4.380
+Boyle, James.
+AI and the Future of Personhood.
+Cambridge, MA: MIT
+Press, 2024.
+Bublitz, Christoph. “Cognitive Liberty or the International Human Right
+to Freedom of Thought.” In
+Handbook of Neuroethics
+. Edited by Levy
+Neil and Clausen Jens, 1–27. Dordrecht: Springer, 2015.
+Cardilli, Riccardo.
+Bona Fides Tra Storia e Sistema.
+Giappichelli, 2015.
+Davies, Margaret and Ngaire Naffine.
+Are Persons Property?
+Ashgate, 2002.
+Deibel, Eric. “Open Genetic Code: on Open Source in the Life
+Life Sciences, Society and Policy
+10, no 1 (2014): 1-23.
+http://dx.doi.org/10.1186/2195-7819-10-2
+Deibel, Talya. “Demarcation Problems in Law and Neurotechnology.”
+International Review of Law, Computers, and Technology
+https://doi.org/10.1080/13600869.2025.2464504
+du Plessis, Paul.
+Borkowski’s Textbook on Roman Law.
+Oxford University Press, 2020.
+Farahany, Nita.
+Battle for Your Brain.
+Durham, NC: Duke University
+Press, 2023.
+Forrest, Katherine B. “The Ethics and Challenges of Legal Personhood
+Yale Law Journal
+133 (2024): 1175–1211.
+Gieryn, Thomas F. “Boundary-Work and the Demarcation of Science from
+Non-science: Strains and Interests in Professional Ideologies
+Scientists.”
+American Sociological Review
+48, no 6 (1983):
+http://dx.doi.org/10.2307/2095325
+Haraway, Donna. “A Cyborg Manifesto: Science, Technology, and Socialist
+Feminism in the Late Twentieth Century.” In
+Simians, Cyborgs and Women:
+The Reinvention of Nature
+, 149–181. New York: Routledge, 1991.
+Hassabis, Demis et al. “Neuroscience-Inspired Artificial
+Intelligence.”
+95, no 2 (2017): 245–258.
+https://doi.org/10.1016/j.neuron.2017.06.011
+Hayles, Katherine.
+How We Became Posthuman.
+Chicago: University of
+Chicago Press, 1999.
+Ienca, Marcello and Roberto Andorno. Towards New Human Rights in the Age of
+Neuroscience and Neurotechnology.
+Life Sciences, Society and Policy
+no 1: 1–27.
+https://doi.org/10.1186/s40504-017-0050-1
+Jasanoff, Sheila.
+Reframing Rights: Bioconstitutionalism in the Genetic
+. Cambridge, MA: MIT Press, 2011.
+Kelsen, Hans.
+Pure Theory of Law
+. M. Knight (Trans.). Berkeley, CA:
+University of California Press, 1967 [1960].
+Klein, Hans and Daniel Kleinman. “The Social Construction of
+Technology: Structural Considerations.”
+Science, Technology and Human
+27, no 1 (2002): 28–52.
+http://dx.doi.org/10.1177/016224390202700102
+Kurki, Visa.
+A Theory of Legal Personhood
+, Cambridge: Cambridge
+University Press, 2019.
+Latour, Bruno. “Give Me a Laboratory and I Will Move the World.”
+Science Observed
+, edited by Karin Knorr and Michael Mulkay,
+141–170. London: Sage, 1983.
+Latour, Bruno.
+Reassembling the Social: An Introduction to Actor-Network
+. Oxford: Oxford University Press, 2005.
+Latour, Bruno.
+We Have Never Been Modern.
+Cambridge, MA: Harvard
+University Press, 1993.
+Law, John. “STS as Method.” In
+The Handbook of Science and
+Technology Studies
+, edited by Ulrike Felt, Rayvon Fouché, Clark A.
+Miller and Laurel Smith-Doerr, pp 1–27. Cambridge, MA: MIT Press,
+Lévi-Strauss, Claude. “The Structural Study of Myth.”
+The Journal of American Folklore
+68, no 270 (1955): 428–444.
+http://dx.doi.org/10.2307/536768
+Ligthart, Sjors, Christoph Bublitz and Susie Alegre. “Neurotechnology:
+We Need New Laws, Not New Rights.”
+620 (2023): 950.
+http://dx.doi.org/10.1038/d41586-023-02698-z
+MacKenzie, Donald and Judy Wajcman, eds.
+The Social Shaping of
+. Buckingham: Open University Press, 1999.
+Marx, Leo. “Technology: The Emergence of a Hazardous Concept.”
+Social Research
+64, no 3 (1997): 965–988.
+http://dx.doi.org/10.1353/tech.2010.0009
+Mosco, Vincent.
+The Smart City in a Digital World.
+London: Emerald,
+Neethling, Johann. “Personality Rights: A Comparative Overview.”
+Comparative and International Law Journal of Southern Africa
+Nye, David E.
+Technology Matters: Questions to Live With
+. Cambridge,
+MA: MIT Press, 2007.
+O’Callaghan, Patrick, Olga Cronin, Brendan D. Kelly, Bethany Shiner,
+Joel Walmsley and Simon McCarthy-Jones. “The Right
+to Freedom of Thought:
+An Interdisciplinary Analysis of the UN Special Rapporteur’s Report on
+Freedom of Thought.”
+The International Journal of Human
+28, no 1 (2023): 1–23.
+http://dx.doi.org/10.1080/13642987.2023.2227100
+O’Callaghan, Patrick, Talya Deibel and Felicitas Benziger.
+the Inner Self Project
+https://www.lawinnerself.org
+Pickering, Andrew.
+The Cybernetic Brain: Sketches of Another Future.
+Chicago: University of Chicago Press, 2010.
+Quigley, Muireann and Laura Downey. “Integrating the Biological and the
+Technological: Time to Move Beyond Law’s Binaries?”
+Legacy in Medical Jurisprudence: Essays in Honour of Graeme Laurie
+by Edward Dove and Niamh Nic Shuibhne, 279–306. Cambridge: Cambridge
+University Press, 2021.
+Rawls, John.
+A Theory of Justice.
+Cambridge, MA: Harvard University
+Press, 1999.
+Resta, Giorgio. “Personnalité, Persönlichkeit, Personality:
+Comparative Perspectives on the Protection of Identity
+in Private Law.”
+European Journal of Comparative Law and Governance
+1, no 3 (2014):
+Schiavone, Aldo. “Law, Slaves, and Markets in the Roman Imperial
+System.” In
+Roman Law and Economics: Exchange, Ownership, and Disputes,
+, edited by Giuseppe Dari-Mattiacci and Dennis P. Kehoe,
+11–34. Oxford: Oxford University Press, 2020.
+Shapin, Steven and Simon Schaffer.
+The Leviathan and the Airpump.
+Princeton, NJ: Princeton University Press, 1985.
+Sismondo, Sergio.
+Introduction to Science and Technology Studies
+Oxford: Blackwell, 2004.
+Solum, Lawrence. “Legal Personhood for Artificial Intelligences.”
+North Carolina Law Review
+, 70 (1992): 1231–1290.
+http://dx.doi.org/10.4324/9781003074991-37
+Tamminen, Sakari and Eric Deibel.
+Recoding Life: Information and the
+Biopolitical.
+London: Routledge, 2019.
+Torgersen, Helge and Daniela Fuchs. “Technology Assessment as a Myth
+Buster: Deconstructing Myths around Emerging Technologies.”
+Responsible Innovation
+4, no 2 (2017): 118–37.
+http://dx.doi.org/10.1080/23299460.2017.1320157
+Ucaryilmaz Deibel, Talya. “Back to (for) the Future: AI and The Dualism
+of Persona and Res in Roman Law.”
+European Journal of Law and
+12, no 2 (2021): 1–27.
+Ucaryilmaz Deibel, Talya.
+Bona Fides.
+Ankara: Yetkin, 2018.
+Ucaryilmaz Deibel, Talya and Eric Deibel. “Artificial Intelligence in
+Ancient Rome: Classical Roman Philosophy on Legal Subjectivity.”
+Women Philosophers on Economics, Technology, Environment, and Gender History:
+Shaping the Future, Rethinking the Past
+, edited by Ruth Edith Hagengruber,
+157–168. Berlin: De Gruyter, 2023.
+van Beers, Britta. “The Changing Nature of Law’s Natural Person:
+The Impact of Emerging Technologies on the Legal Concept
+of the Person.”
+German Law Journal
+18, no 3 (2017): 559–594.
+http://dx.doi.org/10.1017/S2071832200022069
+van Beers, Britta. “The Obsolescence of Human Beings and the
+Non-Obsolescence of Law’s Natural Persons: Transformations
+Personhood Through the Lens of ‘Promethean Shame’.” In
+Personhood in the Age of Biolegality: Brave New Law
+, edited by Marc de
+Leeuw and Sonja van Wichelen, 187–204. (2019): Dordrecht: Springer.
+Winner, Langdon. “Do Artefacts Have Politics?”
+109, no 1 (1980): 121–136.
+Winner, Langdon.
+The Whale and the Reactor: A Search for Limits in an Age
+of High Technology.
+Chicago: University of Chicago Press, 1998.
+Wootton, David.
+The Invention of Science: A New History of the Scientific
+Revolution.
+Harmondsworth: Penguin, 2016.
+This publication has emanated
+from research conducted as part of the Law and the Inner Self Project, funded by
+a Research Ireland
+Laureate (Consolidator) grant (2022/2628) and with the
+financial support of Science Foundation Ireland (SFI) at the ADAPT Research
+Centre for AI-Driven Digital Content Technology under grant number 13/RC/2016
+Pickering, The Cybernetic
+Brain; Hassabis, “Neuroscience-Inspired Artificial
+Intelligence.”
+Latour, We Have Never Been
+Modern; Hayles, How We Became Posthuman.
+Sismondo, “Introduction
+to Science and Technology Studies”; MacKenzie, “Social Shaping of
+Technology”; Klein,
+“The Social Construction of
+Technology.”
+Ucaryilmaz Deibel, “Back
+to (for) the Future”; Ucaryilmaz Deibel, “Artificial Intelligence in
+Ancient Rome,”
+Jasanoff, Reframing Rights.
+Mosco, The Smart City.
+Torgersen, “Technology
+Assessment,” 124.
+“Boundary-Work,” 781; Bowker, Sorting Things Out; Tamminen, Recoding
+Winner, “Do Artefacts
+Have Politics?”
+“Technology”; Nye, Technology Matters, 1–15.
+“Artefacts,” 121ff; Latour, “Give Me a Laboratory”;
+Hughes, The Social Construction, 75.
+Kurki, Personhood; van
+Beers, “Natural Persons”; Deibel, “Demarcation in
+Latour, We Have Never Been
+Modern; Latour, Reassembling the Social.
+Latour, We Have Never Been
+Modern, 91ff
+Hayles, How We Became
+Posthuman, 84ff.
+Wootton, The Invention of
+“Personnalité, Persönlichkeit, Personality,”
+214–215; Neethling, “Personality Rights,”
+Beyleveld, Human
+Regarding the idea of the
+inner self, see O’Callaghan, Law and the Inner Self Project.
+Deibel, “Demarcation
+“Personnalité, Persönlichkeit, Personality.”
+van Beers, “The
+Obsolescence of Human Beings,” 189.
+Ucaryilmaz Deibel,
+“Back to (for) the Future.”
+Shapin, The Leviathan and
+the Airpump.
+Mosco, The Smart City,
+Torgersen, “Technology
+Assessment,” 127.
+Barthes, Mythologies,
+du Plessis,
+Borkowski’s Textbook; Schiavone, “Law, Slaves, and
+Deibel, “Demarcation
+Torgersen, “Technology
+Assessment,” 119; Lévi-Strauss, “The Structural Study of
+Davies, Are Persons
+Property?, 7; van Beers, “The Changing Nature of Law’s Natural
+Person,” 189ff.
+Mosco, The Smart City, 172,
+Bareis, “Talking AI
+into Being,” 868–869.
+See EU AI Act; European
+Commission Report from the Expert Group on Liability and New Technologies
+– New Technologies Formation
+2019; European Commission, White Paper on
+Artificial Intelligence
+European Commission, Adapting Non-Contractual
+Civil Liability Rules (AI Liability Directive)
+Solum, “Legal
+Personhood.”
+Kurki, A Theory of Legal
+Personhood, 8; Kelsen, Pure Theory of Law, 94.
+Bareis, “Talking AI
+into Being,” 857.
+Cardilli, Bona Fides, 12;
+Ucaryilmaz Deibel, Bona Fides.
+See Lord Macmillan in
+Glasgow Corporation v Muir
+[1943] UKHL 2
+[1943] AC 448
+, 457, Also see ‘bon
+père de famille’ in French law, and ‘buon padre di
+famiglia’ in Italian law.
+Ucaryilmaz Deibel, Bona
+Bareis, “Talking AI
+into Being,” 871–873.
+Bareis, “Talking AI
+into Being,” 871–873.
+O’Callaghan,
+“The Right to Freedom of Thought,” 2ff.
+Ucaryilmaz Deibel,
+“Back to (for) the Future,” 21ff.
+Ucaryilmaz Deibel,
+“Back to (for) the Future”; Ucaryilmaz Deibel, “Artificial
+Intelligence in Ancient Rome”;
+Forrest, “The Ethics and
+Challenges.”
+Quigley, “Integrating
+the Biological,” 281.
+Farahany, Battle for Your
+Brain; Deibel, “Open Genetic Code,” 3.
+Torgersen, “Technology
+Assessment,” 128.
+Farahany, Battle for Your
+Pickering, The Cybernetic
+Bublitz, “Cognitive
+Liberty,” 6; Davies, Are Persons Property?, 158.
+Davies, Are Persons
+Property?, 158.
+Rawls, A Theory of Justice;
+Boyle, AI and the Future of Personhood, 84.
+Ienca, “Towards New
+Human Rights”; Ligthart, “Neurotechnology.”
+Bareis, “Talking AI
+into Being,” 857.
+Kurki, A Theory of Legal
+Personhood, 49ff.
+Bareis, “Talking AI
+into Being,” 864.
+Bareis, “Talking AI
+into Being,” 859, 867, 871.
+Torgersen, “Technology
+Assessment,” 119.
+Barthes, Mythologies,
+Law, “STS as
+Method”; Haraway, A Cyborg Manifesto, 151.
+Print (pretty)
+Print (eco-friendly)
+RTF format (226 KB)
+PDF format (342 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

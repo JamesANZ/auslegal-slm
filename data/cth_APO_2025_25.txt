@@ -1,0 +1,1364 @@
+Nuseed Pty Ltd and Norddeutsche Pflanzenzucht Hans Georg Lembke KG v Limagrain Europe [2025] APO 25 (8 August 2025)
+IP AUSTRALIA
+AUSTRALIAN PATENT
+Nuseed Pty Ltd and Norddeutsche Pflanzenzucht Hans-Georg
+Lembke KG v Limagrain Europe
+[2025] APO 25
+Patent Application: 2016307234
+Title: Brassica plant with pod shattering tolerance
+Patent Applicant: Limagrain Europe
+Opponent: Nuseed Pty Ltd and Norddeutsche Pflanzenzucht Hans-Georg Lembke
+Delegate: Felix White
+Decision Date: 8 August 2025
+Hearing Date: 8 May 2025, by Videoconference
+Catchwords:
+– opposition to grant under s59 –
+canola plants characterised by the presence or absence of a number of single
+polymorphisms, and methods of using those single nucleotide
+polymorphisms for marker assisted selection – novelty ground successful
+part – prior use –sale of plant seeds an enabling disclosure of the
+plant – inventive step ground successful
+in part - in view of common
+general knowledge – application of Cripps Question to conventional plant
+breeding – support
+and sufficiency grounds successful – breadth of
+claims – technical contribution – plausibility and undue
+experimentation
+– utility ground unsuccessful –opportunity to amend
+– costs awarded
+Representation: Solicitor for the applicant: Katrina Crooks
+Patent attorney for the applicant: Spruson & Ferguson
+Counsel for the opponent: Craig Smith SC
+Patent attorney for the opponent: Phillips Ormonde Fitzpatrick
+IP AUSTRALIA
+AUSTRALIAN PATENT OFFICE
+Patent Application: 2016307234
+Title: Brassica plant with pod shattering tolerance
+Patent Applicant: Limagrain Europe
+Date of Decision: 8 August 2025
+The Opposition is successful. Claims 1, 6-8, 11 and 18-20
+lack novelty in view of the prior use of Ogura restorer line CR51. Claims
+and 18-20 lack inventive step in view of the common general knowledge. All
+claims lack support and sufficiency due to the breadth
+of their language.
+Limagrain Europe has a period of two months to propose amendments to overcome
+these issues. Costs according
+to Schedule 8 are awarded against Limagrain
+REASONS FOR DECISION
+Patent Application 2016307234 (“
+The Application
+”) in the name
+of Limagrain Europe (“
+The Applicant
+”) has been opposed under
+Patents Act 1990
+Application is the Australian national phase entry of PCT/EP2016/068612 and
+claims a priority date of 11 August 2015.
+Publication
+of acceptance of the Application occurred on 18 August 2022, and a notice of
+opposition was filed in the name of Nuseed
+Pty Ltd and Norddeutsche
+Pflanzenzucht Hans-Georg Lembke KG (“
+The Opponents
+November 2022.
+were made during the evidentiary period under section 104, which had the effect
+of adding a number of dependent claims
+but did not otherwise affect the scope of
+the Application. The amended claims, as allowed on 11 September 2024, form the
+this decision.
+originally cited in the Statement of Grounds and Particulars included the gamut
+of available grounds for opposition. An amended
+statement of grounds and
+particulars was entered on 18 November 2024.
+note but not great import, the period for filing evidence in support was
+extended several times pursuant to Regulation 5.9, in
+order for the Opponents to
+access and analyse seeds that had been deposited under the Budapest Treaty.
+This resulted in the Opponents’
+evidence in support being spread out in a
+succession of declarations and the evidentiary period ultimately not concluding
+2024. The case was then set for hearing which was held by
+videoconference on 8 May 2025.
+pressed by the Opponents in the hearing were lack of support, sufficiency and
+utility, lack of novelty and lack of inventive
+step. At the hearing I made
+further enquires to the parties about the clarity of the claims. The parties
+sought additional time
+to respond to my queries and hence an exchange of
+supplementary submissions was received, which concluded on 25 June 2025.
+on file consists of:
+Two declarations
+by Dr Jean-Pierre Despeghel made on 30 October 2023 (
+July 2024 (
+), accompanied by supporting exhibits JPD1-19
+Two declarations
+by Dr Amine Abbadi made on 16 October 2023 (
+) and 29 October 2023
+) accompanied by exhibits AA-1-2
+declarations by Prof Jacqueline Batley made on 18 December 2023
+), 12 February 2024 (
+) and 16 July 2024
+) accompanied by exhibits JB1-5
+A declaration by
+Dr Mark Wickham made on 12 February 2024 accompanied by exhibits MEW1-4
+A declaration of
+Dr Rale Gjuric made on 11 May 2024
+) accompanied by exhibits
+A declaration of
+Mr Jean Baptiste Laffaire made on 13 May 2024 (
+) accompanied by
+exhibits JBL1-2
+Applicant sought to bring further declarations from Gjuric and Laffaire into
+evidence under the provisions of Regulation 5.23
+with a letter of 12 September
+2024. A preliminary opinion from the Commissioner’s delegate (issued 4
+October 2024) was that
+these provisions should not be invoked. If I were to
+take this evidence into account I would, by the requirements of Reg. 5.23,
+to provide the Opponents with a further opportunity to file evidence and
+submissions in response. However, I am in agreement
+with the earlier delegate -
+the information in these declarations would not affect my decision and therefore
+there is no reason to
+introduce them into the
+proceedings.
+Applicable Law and Onus
+present application is governed by the Act as amended by the
+Intellectual
+Property Laws Amendment (Raising the Bar) Act 2012
+as the application was
+filed after 15 April 2013. Thus, the standard of proof that applies in the
+present case is the balance of
+probabilities. I must accept the Application if
+I am satisfied, on the balance of probabilities, that the Application complies
+the Act. If I am not so satisfied, then I can refuse the application, but
+not before giving the Applicant a reasonable opportunity
+to amend (subsection
+onus of proof lies with the Opponents. Nevertheless, I am able to take any
+ground of invalidity into account as per subsection
+Field of the invention
+Application relates to the field of breeding oilseed rape (
+), which is more commonly known in Australia as canola. I will use
+these terms interchangeably in this decision.
+is relatively young in breeding
+, and is an allopolyploid
+interspecific hybrid of
+Brassica rapa
+(10 pairs of chromosomes) with
+Brassica oleracea
+that each of these parental species encompass a wide range of commercial
+cultivars, whereas canola is predominantly used
+for oil production as well as
+animal feed. Known problems with rapeseed oil include the presence of erucic
+acid in oil and glucosinolates
+in the seed, both of which can be harmful at high
+Development and
+maintenance of plants with low levels of these components has been a focus for
+plant breeders.
+relevant fact about the field of oilseed breeding is that these plants tend to
+exhibit strong heterosis, or hybrid vigour,
+with hybrid lines demonstrating
+increased yield.
+In order to
+create uniform populations of seed, plant breeders typically employ pollination
+control strategies that require male
+sterile lines, which enable different lines
+to be crossed without
+self-pollination.
+because oilseeds need to set seed in order to produce a harvestable crop, the
+male sterility needs to be reversed in the
+progeny plant. This can be achieved
+by so-called “restorer” genes. A commonly used sterility system in
+Brassicaceae
+is the Ogura cytoplasmic male sterility system that is
+derived from the radish
+Raphanus sativus
+. Prior to the present priority
+date, this system had been successfully introgressed into canola lines, as had
+the cognate restorer
+gene (Rf) also from
+unexpected benefit of the introgression of the Rf genetic material was a
+reduction in the phenotype of “pod shatter”
+in the oilseed. Pod
+shatter refers to the natural ability of seed pods to dehisce or
+“shatter” in order to release and
+scatter the seed. While this
+trait is valuable to a wild plant it is preferably reduced in commercial
+varieties where the seed is
+intended to be
+the other hand, the same introgression was also associated with undesirable
+characteristics including higher glucosinolate levels
+and decreased
+Furthermore,
+and due at least in part to the complex allopolyploid nature of the canola
+genome, the genetic basis for the phenotypes
+associated with the
+introgression were not well
+understood.
+this background, the present application provides a canola plant with a
+shortened introgression which retains the fertility
+restorer and pod shatter
+resistance phenotype, while reducing the associated undesirable characteristics.
+It also provides a set
+of single nucleotide polymorphism genetic markers that
+can be used to test for the presence or absence of the relevant parts of the
+introgression.
+The specification
+construing the specification and claims it is worth restating the principles
+under which this exercise is performed –
+construction is a legal task and
+is a job for the delegate to perform, but it is one that should be done from the
+perspective of
+the hypothetical skilled worker in the field – it should be
+done from the perspective of one seeking to understand and make
+the invention
+work, and above all it should be done with a generous measure of common
+specification of the Application includes 33 pages of description, 14 pages of
+figures and ends with 27 claims. It is also accompanied
+by a deposit, made
+under the provision of the Budapest Treaty, of seeds of the
+R42141F at the National Collections of Industrial, Food and Marine Bacteria in
+Aberdeen, Scotland.
+description includes a background section which sets out the background of
+breeding along the lines mentioned above. This is followed by
+statements setting out embodiments of the present invention at p.
+particular, “one embodiment is to obtain a
+plant comprising
+a shortened
+fragment including the pod shattering tolerance
+Lower down that
+page it states “The invention also relates to methods for identifying the
+presence of said pod shattering
+tolerance allele in
+in particular, suitable markers associated (or not associated) to said new pod
+shattering tolerance.”
+this it would appear that the invention is primarily concerned with shortening
+introgression while retaining pod shattering tolerance, and
+while elimination of undesirable characteristics associated with the
+fragment would no doubt be desirable, this does not appear to be
+specification then goes on to describe a
+plant which is
+characterised by a
+fragment in its genome which confers the pod
+shattering tolerance phenotype POSH
+and which lacks one of the
+markers defined in SEQ ID Nos
+It then goes on to
+describe that the markers defined in SEQ ID Nos 19-21 are preferably present, as
+is SEQ ID No 22 which is found
+FRUITFULL allele which is
+involved in pod shattering
+specification defines pod shattering tolerance at p. 8 lines 9-10 as a pod with
+a tension value of at least 2.3 N; a plant with
+pods with tension values less
+than 2.3 N are defined as not pod shattering tolerant. Somewhat ambiguously,
+the same section defines
+POSH+ as referring to the presence of the
+POSH region in the genome. However, I think the skilled reader
+would understand that POSH
+refers to a phenotype – even in
+places where the description refers to a “POSH+ allele” such as p.
+10 line 5, I
+consider that the skilled reader would understand that as the
+allele asserted to confer the POSH
+phenotype. The apparent
+difference being the presence or absence of superscript.
+specification defines the markers of SEQ ID Nos 4-22 in Tables 1 and 2, in terms
+of the presence of an identified nucleotide at
+a particular position. SEQ ID No
+4-21 are defined as a string of 100 nucleotides, followed by the identified
+marker nucleotide,
+followed by a string of another 100 nucleotides. I
+understand this way of defining a SNP to be not uncommon, as it is a way of
+a unique nucleotide in its genomic context without the need to refer to
+genomic coordinates e.g. when a publicly accepted reference
+genome is not
+available. I further understand that the flanking strings should be present in
+ancestry but differ at the
+underlined nucleotide. I note that these sequences are not completely precise
+and some contain ambiguity
+codes, which I understand to refer to other
+polymorphic sites in the canola genome. The central nucleotide is defined as
+SNP, which I understand to be an indication that the region
+of the genome was derived from
+and hence is part of the
+introgression. A different nucleotide in the central position I understand to
+indicate that the region
+was derived from
+and hence is not part
+of the introgression – while the
+SNP is not stated in
+Tables 1 and 2, Table 3 gives reference primers which show the
+SNP at their 3’ end. SEQ ID No 22 follows a different format – it
+is only 107 nucleotides long and the SNP is defined
+at position
+at pages 5-6, and also later at pages 11-13, the specification further sets out
+methods of identifying POSH+ plants by detecting
+the presence or absence of
+respective SNPs, and methods of crossing and backcrossing said plants. The
+specification provides means
+for detecting the respective SNPs, which are
+“typically nucleic acid probes or
+and sets out a
+number of example primers at p. 6 lines 4-5 and Table
+lines 14-28
+explains that the exemplified primers are particularly suitable for the
+KASP™ genotyping system which uses two
+differently labelled forward
+primers, one specific for each allelic form of a SNP, and a common reverse
+primer. The presence of
+each allele can be identified from the fluorescent
+signal from the PCR reaction mixture.
+description concludes with a series of examples. Example 1 describes the
+inventors’ efforts to characterise the genetic
+markers associated with
+traits on the
+introgression. According to this example, in 2011
+the inventors crossed plants with the full introgression with plants having
+or no introgression, carried out genotyping on the F2 generation with
+telomeric and centromeric markers, and repeated this through
+to 2015 using
+selfed seed.
+2 describes the process used to identify markers specific for the
+introgression. This involved next-generation sequencing of 143 canola
+lines, identification of over 200,000 simple or hemi-SNPs,
+of which 169 were
+said to fully distinguish male (restorer lines comprising the introgression)
+from female (lacking the introgression)
+parents. Later, 550 new markers were
+said to be developed for the
+introgression. The inventors
+deduced from this that the introgression had replaced one arm of chromosome C09
+genetic material. It would seem that SEQ ID Nos 4-22 are a
+subset of these.
+3 describes the results of genotypic and phenotypic testing of lines produced in
+the 2013 and 2014 harvests. These results
+show a correlation between higher pod
+shatter tolerance and SNPs from the
+introgression. In
+particular, it can be inferred from Tables 4 and 5 that SEQ ID Nos 19-21 are
+necessary for high pod shatter tolerance
+whereas SEQ ID Nos 4-18 are not
+sufficient for high pod shatter tolerance. I.e. the loss of SEQ ID NO 19-21
+causes a reduction in
+pod shatter tolerance.
+second “Example 3” explains that the pod shatter phenotype is
+partially dominant, with hybrid lines heterozygous for
+having less pod shatter tolerance than lines homozygous for the long
+introgression. Nevertheless all of the long introgression
+hybrids in Figure 5
+have pod stability at least 2.3 N which is the cutoff defined in the
+description.
+4 further identified the
+FRUITFULL allele as being associated
+with the POSH phenotype, and provided a set of further primers to identify the
+presence of this
+5 further describes how the F4 progeny of the plants of Example 1 were
+systematically genotyped and phenotyped in the same
+way as for Example 3. This
+resulted in the identification of one plant with a shortened introgression where
+the pod shatter coding
+region was still present. The F5 progeny of this plant
+was designated R42141F and was said to be pod shattering tolerant and had
+note that this is the line (R42141F) from which seed was deposited under the
+Budapest treaty.
+6 sets forth that the line designated
+R51542141-F
+is at least
+homozygous for SEQ ID Nos 19-22 (the “POSH region”) as well as the
+FRUITFULL allele, while lacking
+region corresponding to SEQ ID Nos 9 and 12-18. This line has similar pod
+shatter tolerance to the full length introgression
+but similar pod size to the
+shorter introgression.
+6 details another example of genotyping F2 plants generated in 2012 and
+identifying plants having only SEQ ID Nos 19-21 from
+introgression but lacking the Rf0 fertility restorer locus. These were then
+used to create crosses which are fertile, with shortened
+fragment and have pod shatter tolerance. One example of this genotype appears
+to be the line “04013_22” in Figure 7,
+although pod shatter
+tolerance was not measured and this line was not deposited.
+7 and Figure 3 shows the relationship between the size of the
+introgression and pod size. In particular, the line R4513-CA with the full
+length introgression has high pod shatter tolerance but
+poor pod size, the
+heterozygous hybrid line Arsenal has good pod size but poor pod shatter
+tolerance, line RD153-101 with a shortened
+introgression but no POSH locus has
+good pod size but very poor pod shatter tolerance, and the deposited line
+R51542141-F has good
+pod size and good pod shatter tolerance.
+is consistent with the inventors’ hypothesis that the POSH region marked
+by SEQ ID Nos 19-21 is associated with pod shatter
+tolerance while the remaining
+regions of the introgression are responsible for undesirable characteristics, in
+particular poor pod
+8 and Figure 4 show the results of segregation in a double hybrid population,
+which is consistent with the above hypothesis.
+is worth noting at this point that although the numbering of SEQ ID Nos 4-21 as
+well as the presentation of these markers in the
+figures and tables of the
+present application imply that the markers occur in order along the
+introgression, there is no apparent evidence that this is
+actually so. Although the inventors seemed to have performed a next generation
+sequencing assembly during the work described in Example 2, the genomic
+coordinates of the markers have not been disclosed.
+specification ends with 27 claims, of which only claims 1 and 17 are
+independent, in that they do not refer to or cross-reference
+claims (which are annexed in full at the end of this decision) can broadly be
+grouped into the following categories:
+Claims 1-11 are
+directed to POSH+
+plants and plant parts characterised by the
+presence and absence of specified
+SNPs in their genome. In
+particular, claim 1 specifies that at least one of SEQ ID Nos 19-21 (markers of
+the POSH locus) must be
+present and at least one of SEQ ID Nos 4-18 (markers of
+the rest of the
+introgression) are absent. I take this to mean
+that the claimed plants have at least part of the
+while lacking at least part of the remainder of the introgression. The metric
+used to determine this is the presence
+or absence of specific defined SNPs.
+Claims 12-16 are
+directed to methods of identifying POSH+
+plants by detecting the
+presence and absence of the specified
+SNPs. I understand these
+claims to refer to testing for the presence and absence of the respective SNPs
+plant with the intention of differentiating POSH+ from
+POSH- plants.
+Claim 17 is
+directed to a method of using one or more primers set out in SEQ ID NO: 52-54
+and SEQ ID NO:64-117 for detecting one or
+more of the
+SEQ ID 4-22. I note that this is somewhat broader in scope than claim 12 in
+that it only requires detection of one of the
+furthermore includes detection of the FRUITFULL marker SEQ ID No 22 which is not
+included in claim 12.
+Claims 18-20 are
+directed to conventional uses of the plants of claims 1-11 for oil, food, or
+breeding purposes.
+Claims 21-24
+relate to marker-assisted selection of hybrids using a plant of claims 1-11 as a
+Claims 25-27
+relate to marker-assisted selection of hybrid plants according to claim 1-11,
+starting with parental plants comprising
+introgression.
+the extent that any of the dependent claims add features which make a material
+difference to the base claims I will address them
+under the relevant statutory
+basis. Although nothing ultimately turns on it, I note that only claim 24
+specifically references the
+deposited line R51542141-F (NCIMB 42444).
+The expert evidence
+Despeghel has worked in the field of oilseed rape for over 40 years, first at
+Monsanto and more recently as an independent consultant.
+His experience
+includes being the Worldwide Oilseed Rape Breeding Manager at Monsanto for a
+time, and he states he was recognised
+as an oilseed rape
+In his first
+declaration, Dr Despeghel provides his opinion on what was known in the art in
+the period up to the filing of the opposed
+application, and subsequently
+provided his opinion upon reading the application. His second declaration is
+confined to comments
+on the Declarations of Mr Laffaire and Dr Gjuric.
+anything, Dr Despeghel’s level of expertise is such as to make him more
+knowledgeable than the nominal skilled worker in
+the art. However I can take
+his evidence into account when inferring what that nominal skilled worker would
+have known. Notably,
+Dr Despeghel considers that the quadrennial International
+Rapeseed Congress was the major conference in the field of oilseed rape
+breeding, was widely attended and was his way of keeping abreast of activity in
+the field. He considers that data and information
+presented at the Congress to
+be a good indication of the state of knowledge in the
+Abaddi is a head of research and breeding innovation at NPZ Innovations
+(apparently part of the same group of companies as the
+second named Opponent).
+Dr Abaddi’s evidence relates to SNP genotyping assays for the markers in
+Tables 1-2 of the Application,
+using the KASP genotyping system, on a number of
+Dekalb canola hybrid that were said to have been available before August 2015.
+His first declaration related to the hybrids DK Exception, DK Exstorm, DK
+Explicit and DK Exocet. His second declaration related
+to the hybrid DK
+Excellium and the restorer line CR51 used to generate this hybrid.
+Batley is a Professor of Biological Sciences at the University of Western
+Australia. Her technical background relates to crop
+genetics with particular
+focus on disease resistance and crop improvement in
+species, and
+she has been directly involved with identifying genes related to
+shatter tolerance.
+first declaration relates to carrying out similar KASP assays as performed by Dr
+Abaddi, but on the R42141F line deposited by
+the Applicant under the Budapest
+treaty. Her second declaration relates to commentary on Dr Despeghel’s
+declaration (notably
+she also stated she had attended the 2011 International
+Rapeseed Congress and recalled particular presentations made there). Her
+declaration responds to Dr Gjurics’s comments regarding her KASP
+to Dr Despeghel, Prof Batley’s level of knowledge in the field is very
+high but I can take her evidence into account
+when inferring what the nominal
+skilled worker would have known or done.
+Wickham’s declaration related to the prosecution history of corresponding
+patent applications in different jurisdictions.
+This evidence was not relied on
+in the Opponents’ case.
+Gjuric has over 35 years of experience in the field of plant breeding. Most
+notably he was responsible for the canola breeding
+program for the Canadian
+subsidiary of DSV from
+Since 2009 he has
+worked as an independent consultant in the same field, working on business and
+technical aspects relating to
+He has also been
+involved in breeding canola varieties, particularly relating to herbicide
+Dr Gjuric’s
+declaration follows the same structure as Dr Despeghel’s, after which he
+comments on the Despeghel, Batley
+and Abaddi declarations.
+like Dr Despeghel and Prof Batley, Dr Gjuric indicated that he attended major
+conferences as a way of keeping up to date with
+developments in the
+I can take his evidence
+into account when inferring what the nominal skilled worker would know or
+Laffaire is the Rapeseed Markers Development Project Leader at the Applicant.
+His expertise relates to molecular biology including
+QTL mapping and has
+extensive experience in the KASP assay. His declaration relates to a genotyping
+exercise on commercial seeds
+of DK Exocet and he provides comments relating to
+Dr Abaddi’s analysis of DK Exocet.
+Weighing of evidence
+is the role of the Commissioner’s delegate to weigh evidence which also
+involves reconciling conflicting evidence when necessary.
+In the present case I
+noted a number of apparent inconsistencies and contradictions in the efforts of
+Dr Abaddi, Prof Batley and
+Mr Laffaire to repeat the genotyping experiments
+disclosed in the application, on either the deposited line or commercially
+lines, although the parties’ submissions in the hearing had not
+touched on that issue.
+my letter of 12 May 2025, I raised the following points, and sought submissions
+from the parties on the reliability of the KASP
+assay for determining the SNPs
+in whose terms the claimed invention is defined:
+Abaddi, Prof Batley and Mr Laffaire all carried out KASP assays using the 18
+primer sequences set out in the opposed application.
+Abaddi amplified a different set of markers in Exocet (16/18) than in Exception,
+Exstorm and Explicit (14/18)
+did not appear to attempt to amplify SEQ ID 7.
+Batley was not able to amplify SEQ ID 4, 7, 15 and 17 in the deposited
+Laffaire did not attempt to amplify SEQ ID 7 and was not able to amplify SEQ ID
+15 when retesting Exocet.
+results of Dr Abaddi’s and Mr Laffaire’s testing of Exocet lines are
+significantly different, and I note that in Mr
+Laffaire’s second
+declaration he characterises Dr Abaddi’s results as
+“implausible”.
+Batley further returned divergent results in 5 of the remaining 14 sites when
+retesting the deposited strain i.e. only half (9/18)
+of the alleles reported for
+R5154241-F in Fig 6 of the Opposed application were reproduced by Prof
+Gjuric criticised Prof Batley’s experimental
+suggesting that she had
+not used all appropriate homozygous, heterozygous and wild type controls. Prof
+Batley responded that she
+did not have said controls available, as they had not
+been deposited.
+main concern in raising this issue was the possibility that the SNPs claimed
+could not be detected reliably, and if that were the
+case the possibility that
+there would be no workable standard for determining whether or not any plant
+fell within the scope of the
+claim, which could have led to a fatal lack of
+have reviewed the Opponents’ submissions on this point (dated 4 and 25
+June 2025) but I did not find them particularly helpful
+- they pointed to the
+same contradictions I identified above but did not go so far as to make the case
+that the KASP assay was not
+the other hand I found the Applicant’s reference to Federal Court Rule
+34.50 in their submissions of 18 June 2025 to be quite
+this to mean that in an infringement proceeding, both parties must have access
+to the conduct of any experiment
+used in evidence, which forms an adequate basis
+for challenging the evidence, whereas no such provision is available before the
+Commissioner.
+balance of the evidence and submissions, I am not satisfied that detecting SNPs
+with the KASP assay is so inherently unreliable
+as to constitute a lack of
+workable standard. The claims are therefore not unclear on this basis. I am
+further comforted by the
+fact that if a plant was alleged to infringe the
+present claims, any inconsistencies in experimental results would be likely to
+resolved in the evidentiary process as per the
+Federal Court Rules
+to say this does not resolve the contradictions in the experimental evidence but
+I will weigh the evidence to the best of
+my ability using the information
+available to me, as required to decide on the grounds of invalidity which have
+been pressed.
+only novelty ground pressed by the Opponents is lack of novelty in view of prior
+use. The Opponents did not point to any principles
+of particular relevance for
+assessing this flavour of novelty, beyond the well-worn ones of reverse
+infringement and clear and unmistakable
+“If the prior inventor’s publication contains a clear description
+of, or clear instructions to do or make, something
+that would infringe the
+patentee’s claim if carried out after the grant of the patentee’s
+patent, the patentee’s
+claim will have been shown to lack the necessary
+novelty, that is to say, it will have been
+anticipated.”
+Applicant’s submissions did provide some assistance with respect to prior
+use by referring to the Full Federal Court’s
+decision in
+This included
+the following principles:
+“The onus lies on the party seeking to establish an enabling
+disclosure”
+“... in order to establish lack of novelty through doing a single act, it
+is necessary to establish that the prior art information
+was made publicly
+available through the doing of that act”
+“The act must have made the claimed invention publicly available. This
+means that it is accessible to at least one member of
+the public in
+circumstances where that person would be free in law and equity to make use of
+it as that person saw fit”
+And finally
+“The issue is whether what the skilled addressee
+inspection is sufficient to enable him or her to comprehend the complete
+have added emphasis to this last point because in my understanding the working
+of inventions in the field of engineering, as in
+somewhat from in the field of plant breeding which is the case here. To carry
+out a mechanical invention, it is of course
+necessary to observe all the
+component parts in a manner that enables the observer to reproduce it (and hence
+to satisfy the reverse
+infringement test).
+the context of plant breeding, however, my understanding is that to make a plant
+all that the skilled worker needs to do is grow
+it from seed, assuming that the
+seed has the genetic information required to produce an infringing plant.
+in the present case I think it is sufficient to ask whether seeds having the
+claimed SNPs were available, free in law and equity,
+to a member of the public
+before the priority date.
+note the Applicant’s argument at [60] of their written submission that
+there could have been no public disclosure of the genotype
+because the claimed
+SNPs had not been characterised yet. This approach strikes me as approaching
+parameteritis – as elegantly
+stated by Beach J in
+“Novelty of invention is not provided merely because information given as
+part of the definition of the invention in a claim
+is new information”
+is, a plant bearing the claimed SNPs would have infringed the claim before the
+priority date, whether its genotype was known
+at the time or not.
+nevertheless consider that there is a high burden on the Opponents to establish
+that the same seeds in question, by necessity tested
+well after the priority
+date, had been available free in law and equity many years before.
+Abaddi’s first declaration does not, in my view, discharge this onus for
+the following reasons. At paragraph 3, he indicates
+that he was asked in March
+2023 to provide genotype data on hybrids “available before August
+2015”. In the next paragraph
+he states the seeds had been obtained (from
+an unspecified source) on 17
+April 2018 (after the priority date).
+Confusing matters somewhat, Table 2 indicates the source of some of the
+varieties (Monsanto)
+but indicates different dates (2014 and 2011) but without
+further context. Table 3, relating to DK Exocet, has neither of these
+note that Dr Despeghel appears to corroborate that these Dekalb hybrids were
+available prior to 2015,
+do not have any evidence that these hybrids were genetically stable over time.
+Mr Laffaire refers at paragraph 8 of his declaration
+“mispollination” being quite common in the production of commercial
+seed lots in order to explain inconsistencies
+in the SNP analysis of the Exocet
+variety. I infer from this that different lots of the same seed may have
+different genetics.
+Abaddi1 therefore does not satisfy me on the balance of
+probabilities that the seeds tested were ones which were freely available
+the priority date.
+goes some way further in this regard by providing a paper trail for the DK
+Excellium and CR51 seeds (Annexes AA-1 and AA2
+respectively). I note that AA-1
+indicates that the samples were for experimental purposes and were free of
+charge. Typically, when
+samples are provided in this fashion they are limited
+to experimental purposes only. Therefore this does not satisfy me on the
+of probabilities that the Excellium seeds tested were sold free in law
+and equity.
+AA-2, on the other hand, is a purchase order dated 1 November 2012 showing the
+purchase of 396 kilograms of CR51 at 15 Euro
+per kilogram. This I take to mean
+that the seeds were freely available to purchase. I can therefore consider the
+CR51 seeds tested
+in Table 2 of Abaddi2 to be part of the prior art base for
+seeds are homozygous for
+at SEQ ID NO. 9 and are homozygous for
+at all other loci tested. As these seeds, when grown, would
+have inevitably made a plant with the properties of claim 1 this takes
+novelty of claim 1 (but not 2-5) according to the reverse infringement text. I
+consider it more likely than not that these
+seeds also had the FRUITFULL locus
+based on its presence in the
+introgression, taking away the
+novelty of claims 6-7. As per claim 8 the CR51 line is a restorer line and has
+the Rf0 locus, but
+not necessarily the Ogura cytoplasm of claim 9. Other
+appended claims which I consider anticipated by the prior use of CR51 are
+11 (seeds), and 18-20 (agricultural uses).
+is no suggestion that any of the marker-assisted selection method claims lack
+Inventive step
+Opponents’ written submissions on inventive step were not particularly
+structured and did not particularly differentiate
+between the claims to plants
+or the claims to methods of marker assisted selection.
+Opponents advanced four bases for lack of inventive step – in view of
+common general knowledge alone, as well as in view
+of common general knowledge
+supplemented by the disclosure of three different “plus one” prior
+art documents as per s7(3)(a)
+The Opponents’ core submission is that each of the claims involve nothing
+more than the use of a standard marker-assisted
+selection approach to a known
+breeding problem. I will first consider inventive step in view of common
+general knowledge (subsection
+7(2)) and then consider if the “plus
+one” documents materially supplement this.
+most commonly used test for inventive step is the so-called “Cripps
+question” – which is whether the skilled
+worker would have been
+directly led to try the claimed invention with a reasonable expectation of
+success in solving the
+note at this point that, analogous to the difference I discussed with respect to
+and prior use information, the principles of plant breeding are
+such that it is just not possible to “try” a particular
+genotype. Rather, when carrying out conventional plant breeding, one must
+simply repeatedly cross parent plants with a hope
+of introgressing traits from
+one into the other. There was no evidence presented relating to the state of
+the art in terms of genetic
+engineering, but my understanding of the state of
+the art is that while insertion of foreign genetic material was possible
+biolistics or
+Agrobacterium
+) this could not be done in a site
+specific way. At the priority date CRISPR was not widely available and in any
+event precision
+editing required chromosome mapping which, as the evidence here
+attests, had not been carried out or at least was not part of the
+common general
+knowledge. I might summarise my understanding as being that while engineering
+for insertion of genetic material was
+possible, removal or replacement of
+genetic material required standard plant breeding techniques, which notably do
+not require precise
+knowledge of genomic structure (although marker assisted
+selection certainly increases the efficiency of the breeding process).
+Conveniently
+in this case, all the experts agreed that the quadrennial International Rapeseed
+Congresses were attended by everyone
+with a substantial interest in the field
+and were the primary means of information transfer in the field. I can infer
+that information presented during these conferences can be considered,
+if not common general knowledge per se, at least indicative
+of what was common
+knowledge to all in the relevant field. Prof Batley even stated that she could
+remember specific posters from
+more than a decade ago.
+outlined earlier, it appears to be common ground that the
+introgression, originally introduced into canola as a male fertility restorer,
+was known before the priority date to additionally
+confer beneficial (pod
+shatter tolerance) as well as detrimental characteristics. Furthermore, the
+experts agreed that there was
+a desire before the priority date to reduce the
+size of the
+introgression.
+corroborated by Annex JPD-5, a poster presented at the 2011 Congress (of which
+Dr Despeghel is an author). Entitled “Breeding
+for pod shattering
+resistance in WOSR hybrids”, this is one of the posters which Prof Batley
+said she remembered.
+this poster discloses
+Resistance sources to shattering in WOSR
+Although there is quite large diversity for susceptibility to pod dehiscence
+within the WOSR germplasm; the strongest source of resistance
+to pod shattering
+is to be found in Ogura-INRA hybrids. The introgressed DNA region from
+Raphanus sativus
+, which carries the restoration gene, brings to the
+hybrids, through the restorer, some unwanted characteristics such as higher
+glucosinolate
+content and small pods, but also at the same time an unmatched
+level of pod shattering resistance. We have been able to improve the
+quality and
+the pod size of our restorers without losing the shattering resistance by
+systematically selecting for this character
+in our restorer nurseries.
+I mentioned I am satisfied that this document is representative of common
+general knowledge in the art; even assuming this is not
+the case it would
+certainly be part of the prior art base as a “plus one” document.
+This passage shows that it was known
+in the art that the undesirable traits on
+introgression could be separated from the desirable
+shattering resistance. Furthermore the passage indicates that this was
+from which I infer that the “person skilled in the art”
+would have had an expectation of success in carrying it out.
+first to the inventive step of the plant claims, I consider there was clear
+motivation in the art to remove undesirable traits
+introgression while maintaining pod shatter tolerance, and to select for same in
+restorer lines, with a reasonable expectation of
+success. It follows that in
+seeking to do so, through conventional techniques, the skilled worker would have
+inevitably selected
+plants with shorter and shorter introgressions, even though
+they may have been unaware of the precise genetic basis for these. I
+consider on the balance of probabilities that the plants produced and selected
+in this way would inevitably lose the markers
+in the region of the introgression
+unrelated to pod shattering and therefore be genetically indistinguishable from
+the plants of
+claims 1-11, regardless of whether the selection was done on the
+basis of markers or not.
+Applicant’s rebuttals were primarily focused on the non-obviousness of the
+molecular markers
+. While I accept this and find it persuasive for
+the claims actually limited by the use of those markers, claims 1-11 are
+regardless of how they were selected.
+Furthermore, the use of these plants in conventional ways as set out in claims
+18-20 are also
+obvious in view of common general knowledge alone. For these
+claims it is unnecessary to refer to the disclosure of the “plus
+one” documents.
+the second front, of the marker-assisted selection claims, the Opponents’
+arguments presented during the oral hearing were
+along the lines that the
+identification of markers was an obvious and desirable thing to do, and that the
+uninventive skilled worker
+would have inevitably stumbled upon the claimed
+markers and hence been able to utilise them for marker assisted selection.
+Applicant’s very justified criticism of this is that there is no evidence
+base for this whatsoever. Because genomic information
+is required to establish
+the identity of the SNP markers, the inventive step rationale used for the plant
+claims cannot apply here.
+There is nothing suggesting the identification of
+these precise SNPs or the design of primers specific for their detection.
+Prof Batley’s evidence is that before the priority date her own
+group had carried out next generation sequencing and identified
+over 16,000
+polymorphic markers in
+including a number associated with pod
+there is no suggestion
+from the Opponents that the specific markers claimed formed part of this data
+“plus one” documents do not assist the Opponents in this regard
+either. There is no suggestion in the Opponents’
+submissions that the
+precise SNPs had been disclosed in the plus one documents, or any rationale as
+to how the skilled worker would
+have been directly led to these sequences based
+on the plus one documents. If anything, they only constitute a suggestion to
+markers which falls well short of the requirement in the Cripps
+Question of a motivation to try
+any of the claimed markers
+reasonable expectation of success in distinguishing
+conclusion, there is no evidence suggesting that the skilled worker would have
+been directly led to the particular claimed marker
+sequences. The inventive
+step argument for the marker-assisted selection claims therefore fails. However
+I find that claims 1-11
+and 18-20 lack inventive step in view of common general
+Sufficiency and Support
+I could broadly summarise the parties’ approach to support and
+sufficiency, it would be to say that the Opponents focussed
+on a literal reading
+of the claims and sought to draw attention to various combinations and
+permutations of features which they assert
+do not correspond to the technical
+contribution, or cannot be made without undue experimentation,
+respectively.
+respective tests for support
+sufficiency
+all start with
+determining the scope of the claims.
+support, the test requires a comparison of the technical contribution, as
+determined with regard to the specification as a whole,
+with the scope of the
+claims. For sufficiency, the test requires firstly to determine whether it is
+plausible that the invention
+could work over the full scope of the claims, and
+furthermore whether to do so would involve undue experimentation as in a
+project. The meaning of “full scope” was clarified in
+to refer to
+variables that are relevant to the technical contribution.
+broad terms, the Opponents viewed the claims as directed to plants simply
+characterised by having (or lacking) any combination
+of specified
+SNPs, and also that the claims encompass SNPs that are not the
+same as those underlined in Tables 1 and 2.
+the other hand, the Applicant sought to highlight the inventors’
+contribution in identifying markers for the parts of
+introgression which are/are not responsible for the pod shattering tolerance
+phenotype, and to parlay that into a “principle
+application” which the skilled worker can then apply broadly.
+Opponents identified three areas where they alleged the scope of the claims
+exceeded the enabled subject matter: the species
+identity of the
+SNPs and the combination of
+Range of Brassica species
+specification defines “
+” quite broadly as including
+“a plant of
+species, including
+B. napus, B juncea
+; preferably
+”. The Opponents
+that the technical
+contribution in the application was limited to
+and the claims
+were necessarily broader than this. The Applicant’s response to this was
+species were a principle of general application and no
+evidence had been presented that plants could not be made across the full
+of the claim.
+seeking to understand whether the
+species was in fact a relevant
+variable in the sense of
+and/or whether a principle of general
+application existed across it, I was led to also consider the nature of the DNA
+introgressed
+, which is what provides the pod shatter
+phenotype to the
+Nature of the Raphanus DNA
+claims specify that the
+genomic fragment confers pod shattering
+tolerance as well as having at least one of the SNPs in SEQ ID NO 19-21. From
+the context
+of the application as a whole, it is clear that the reference to the
+DNA in claim 1 only makes sense when it refers to the
+introgression found in Ogura restorer
+lines, the kind which Dr
+Gjuric states was well known to include half a chromosome of
+That is, the technical
+contribution appears to be limited to that genetic background.
+is no evidence that the phenotype of pod shatter resistance would be achieved in
+species other than
+or with any different
+introgression. The phenomenon of pod shatter resistance, and its genetic basis,
+is clearly a relevant variable
+(as defined in
+) for the present
+invention. However it has only been demonstrated in one particularly genetic
+background. Although not precisely
+analogous, this calls to mind the principles
+set out by Sumption LJ in
+“The proposition that a product is efficacious ... must be plausible. It
+is not made plausible by a bare assertion to that
+effect ... there must be
+something that would cause the skilled person to think that there was a
+reasonable prospect that the assertion
+would prove to be true ... that
+reasonable prospect must be based on ... a direct effect on a metabolic
+such it is not sufficient to merely assert that the phenotype of pod shatter
+resistance is generalisable beyond the one example
+genetic background (Ogura
+lines). Although there is a proposed genetic locus,
+there is no metabolic mechanism suggested. For example it is not clear whether
+the POSH locus from the
+introgression represents a gain of
+function (from
+DNA) or a loss of function (from
+DNA). In this case the lack of evidence counts against the Applicant.
+am not therefore convinced by the Applicant’s invocation of a principle of
+general application in terms of the combination
+species and
+the nature of the
+Nature of the Raphanus SNPs
+wording of the claims refers to
+SNPs “within” the
+respective oligonucleotide sequences. Dr Despeghel’s reading of this was
+that it included potential
+SNPs apart from the ones underlined in Tables 1-2,
+and that to identify other
+specific SNPs within those sequences
+would require a new research
+Dr Gjuric on the other
+hand considered that he would have no difficulty in identifying
+SNPs in the sequences based on the primers provided in Table
+this regard I note that the primers shown in Table 3 only provides a comparator
+nucleotide (
+) for the underlined variant position.
+Therefore it seems that the only SNPs that Dr Gjuric would be able to identify
+were the ones
+at the underlined positions.
+Applicant’s submissions on this point included that there was no need to
+find additional SNPs in each sequence as one had
+already been provided; there
+was no evidence that any additional SNPs even existed in the oligonucleotide
+sequences; and that based
+on the disclosure of the present application, the
+skilled worker could identify nearby SNPs should they exist and use them equally
+for marker assisted selection.
+have to say that I find those arguments somewhat contradictory – if the
+other markers are not needed or do not exist then
+the technical contribution
+must be just the disclosed marker. And even though the applicant asserts that
+the scale of research to
+validate additional
+specific SNPs in
+the 3000 positions is much less than a full research project, the lack of surety
+as to whether such markers even
+exist is to my mind indicative of a research
+project. I consider on balance that the inventors’ technical contribution
+respect to marker assisted selection is only the SNPs at the underlined
+positions, and the evidence suggests that to identify new
+specific SNPs in those sequences would require restarting the entire research
+project which is undue experimentation.
+Combinations of markers
+Opponents also pointed to difficulties in making and using plants with any
+combination of markers – for example they pointed
+to a lack of direction
+to make a plant lacking only
+SNPs of SEQ ID NO 4 and
+They also argued that not
+all plants having combinations of SNPs within the scope of the claim would
+achieve pod shatter tolerance
+advantageous.
+I do not find the
+latter argument particularly persuasive because the product claims are limited
+to plants with the POSH+ phenotype
+and hence plants which lack that phenotype
+are necessarily excluded. I also do not think there is any undue
+experimentation involved
+in making plants within the scope of the claim by
+conventional breeding methods (cf my conclusion on inventive step) even if this
+may be via a tedious process.
+Technical contribution
+canonical test for support as set out in
+is to determine the
+technical contribution of the specification and determine whether this
+corresponds to the scope of the claims.
+light of my reading of the specification as a whole and the expert evidence, my
+understanding of what the Applicant has contributed
+in the present application
+is a set of SNP markers from the
+introgression into
+Ogura restorer lines, some of which are associated with pod shatter
+tolerance and some which are not, and claimed plants that have
+some of the
+former and lack some of the latter. The Applicant also deposited one hybrid
+line that had both satisfactory pod size and shatter resistance
+(lacking some, but not all, of the claimed nonessential markers).
+Conclusion on support and sufficiency
+claims are broader than the technical contribution in three areas:
+The nature of
+species (all
+as opposed to
+The nature of
+DNA as opposed to the Ogura
+restorer half chromosome)
+The identity of
+SNPs (any SNPs within SEQ ID Nos 4-21 as opposed to the
+underlined nucleotides)
+come to an analogous conclusion in terms of sufficiency – I am not
+convinced that any of the above three variables are principles
+application. In particular I am not convinced it is plausible that the
+prediction for pod shatter phenotype would be
+relevant for plants other than
+with the Ogura restorer
+introgression on
+chromosome 9. Further, while it is plausible that other SNPs could exist within
+SEQ ID Nos 4-21 my conclusion is
+that identifying the same would be undue
+experimentation.
+Opponents’ position on utility was that the invention as claimed does not
+achieve its promised benefit, which the Opponents
+identified as being both low
+glucosinolate levels and good pod size, pointing to the passage on p. 4 of the
+description that states
+these are necessities for any commercialized plant. The
+Opponents submitted that there was no evidence that as few as one missing
+SNPs would confer these traits. I note that there is nothing in
+the specification measuring glucosinolate levels at all.
+note that the Opponents cited the 2018
+ESCO v Ronneby Road
+Full Federal
+Court decision
+to support the
+proposition that the promised benefit or intended utility must be derived from
+the whole of the specification. My
+understanding of the outcome of that case is
+that, contrary to the first instance that held that all of the benefits listed
+specification needed to be met, the promises in that case were to be read
+disjunctively.
+Nevertheless,
+from my reading of the specification as a whole, the utility of the claimed SNPs
+is simply to act as markers for selecting
+out unnecessary parts of the
+introgression while maintaining pod shattering tolerance. There
+is nothing in the evidence that is inconsistent with this. The
+Application’s mention of the desire for low glucosinolates and good pod
+size is not to be taken as a binding statement of utility.
+I am not aware of
+any precedent that commercial applicability is a prerequisite for the utility
+requirement
+ground of lack of utility has not been made out.
+Opposition succeeds on the following grounds:
+Claims 1, 6-8,
+11 and 18-20 lack novelty in view of the prior use of the Ogura restorer line
+CR51, which I am satisfied was available
+free of law and equity before the
+priority date and which was demonstrated to lack the
+Claims 1-11 and
+18-20 to plants
+lack inventive step in view of the common general
+knowledge, in that the skilled worker would have been directly led to reduce the
+size of the
+introgression through conventional breeding
+techniques.
+All claims lack
+support and sufficiency over their full scope, to the extent that they encompass
+plants other than
+introgression on
+chromosome 9, derived from the Ogura restorer line, and to the extent that they
+encompass SNPs other than those
+underlined in Figures 1 and 2.
+there is a clear prospect that these grounds can be overcome by amendment, I
+provide the applicant with a period of two months
+from the date of this decision
+to propose amendments under s104.
+usually follow the event and there is no reason to deviate from that approach in
+this case. I note that the claims were amended
+under s104 during the opposition
+but this amendment served only to add additional dependent claims and did not
+obviate any of the
+grounds of opposition. I therefore award costs according to
+Schedule 8 against Limagrain Europe.
+Felix White
+Delegate of the Commissioner of Patents
+Annex – Claims as amended
+comprising a
+genomic fragment within its genome, wherein said
+fragment confers pod shattering tolerance phenotype POSH+ and said fragment is
+characterized
+- the absence of at least one
+SNP within at least one of the
+following markers: SEQ ID NOs 4-18, and
+- the presence of at least one
+SNP within at least one marker
+SEQ ID NO 19, SEQ ID NO 20 or SEQ ID NO 21.
+plant according to claim 1, wherein said absence of at
+SNP is within a marker selected from the groups
+consisting of: SEQ ID NOs: 4-8 and SEQ ID NOs: 10-18.
+plant according to claim 1, wherein said absence of at
+SNP is within at least two of the markers SEQ ID NOs:
+plant according to Claim 1, wherein the
+SNPs within said markers SEQ ID NO:9 and SEQ ID NOs: 12-18 are
+plant according to any one of Claims 1 or 4, wherein
+SNPs within said markers SEQ ID NOs:4-18 are absent.
+plant according to any one of Claims 1-5, wherein the
+plant further comprises a
+FRUITFULL allele.
+plant according to claim 6, wherein the
+FRUITFULL allele comprises the
+SNP within marker
+of SEQ ID NO:22.
+plant according to any one of claims 1 to 7, wherein
+said plant further comprises the male fertility restoration locus Rf0 within
+plant according to any one of the claims 1 to 8 wherein
+plant comprises a CMS Ogura cytoplasm.
+10. A hybrid
+plant obtained by crossing a
+plant having a
+fragment conferring POSH+ phenotype according to
+anyone of the claim 1 to 9, with another
+plant which does not
+fragment conferring POSH+ phenotype, wherein said
+hybrid plant comprises the
+genomic fragment which confers pod
+shattering tolerance phenotype POSH+.
+11. A seed, a part of a plant, or a progeny of the
+according to any one of the claims 1 to 10.
+12. A method of identifying a POSH+
+plant according to any
+one of claims 1 to 11, wherein said
+plant is identified by
+detecting the presence of at least one
+SNP within at least one
+of the following markers SEQ ID NO 19, SEQ ID NO 20 or SEQ ID NO 21 and
+detecting the absence of at least
+SNP within at least one of
+the following markers SEQ ID NOs 4-18.
+13. The method according to claim 12, wherein said absence of at least one
+SNP is within a marker selected from the groups consisting of:
+SEQ ID NOs: 4-8 and SEQ ID NOs: 10-18.
+14. The method according to claim 12, wherein said absence of at least one
+SNP is within at least two of the markers SEQ ID NOs: 4-18.
+15. The method of any one of claims 12 to 14, wherein the POSH+ locus is
+further identified by using a
+FRUITFULL allele, and more
+specifically the
+marker SEQ ID NO 22.
+16. Method according to any one of claims 12 to 15, wherein the Rf0 locus is
+further identified.
+17. A method of using one or more means for detecting one or more
+SNP within one or more of the following markers: SEQID NOs 4-22,
+said means consisting of one or more primers including any one of
+52-54 and SEQ ID NO:64-117.
+18. Use of the
+plant or their seeds, according to any one of
+the claims 1 to 11, for food applications, or for breeding applications.
+19. Use of the
+plant or their seeds, according to claim 18,
+for oil production and
+for feed applications.
+20. Use of the
+plant or their seeds, according to claim 18,
+as a parent plant in breeding for improving agronomical value of a
+plant, line, hybrid or variety.
+21. Method of production of a POSH+
+plant, wherein the method
+comprises the following steps:
+a. crossing a first
+plant according to any one of claims 1 to
+11 with a second POSH- or POSH+
+plant; thereby obtaining a F1
+hybrid plant;
+b. selfing or backcrossing said F1 hybrid plant with said second POSH- or
+c. selecting the POSH+
+plant among the plant obtained in step
+b), using at least one
+SNP within at least one of the markers
+SEQ ID NO 19, SEQ ID NO 20 or SEQ ID NO 21 and
+d. further selecting said POSH+
+plant for the absence of at
+least one of the
+SNPs within at least one of the markers of SEQ
+ID NOs:4-18.
+22. The method according to claim 21, wherein said absence of at least one
+SNP is within a marker selected from the groups consisting of:
+SEQ ID NOs: 4-8 and SEQ ID NOs: 10-18.
+23. The method according to claim 21, wherein at step d, said absence of at
+SNP is within at least two of the markers SEQ ID NOs
+24. The method of any one of claims 21 to 23, wherein the first plant is a
+plant obtained from a representative sample of the seeds
+as deposited at NCIMB
+collection under the number 42444.
+25. The method of production of a POSH+
+plant according to
+any one of claim 1 to 11, wherein the method comprises the following steps:
+a. providing a first POSH+
+plant comprising a
+introgression conferring the POSH+ trait, said
+introgression
+including at least one of the
+SNP within one or more of the
+following markers: SEQ ID NOs 4-18;
+b. crossing said first POSH+
+plant with a second POSH- or
+plant, thereby obtaining a F1 hybrid plant;
+c. selfing or backcrossing the F1 hybrid plant with said second plant POSH-
+d. selecting the POSH+ plant among the plant obtained in step c), further
+selecting for the presence of at least one
+SNP within at least
+one of the markers SEQ ID NO 19, SEQ ID NO 20 or SEQ ID NO 21 and further
+selecting for the absence of at least
+SNP within at least
+one of the markers SEQ ID NOs: 4-18.
+26. The method of any one of claims 21-25, wherein said first POSH+
+plant comprises the Rf0 Ogura fertility restoration gene.
+plant obtained by the method of any one of claims
+Although I refer to Mr
+Laffaire’s second declaration in footnote 28, ultimately nothing turns on
+p. 20 line 12 of the
+description, see also e.g. Exhibit
+Despeghel1 at 21 –
+I have referred to source material in Dr Despeghel’s evidence but I note
+that this is broadly consistent
+with the evidence of Dr Gjuric and indeed the
+disclosure of the
+specification.
+Despeghel1 at
+Despeghel1 at
+Despeghel1 at
+Despeghel1 at
+Description at p. 3 lines
+16-19, Despeghel1 at 34-35
+Gjuric at 37
+and Company Limited v Apotex Pty Ltd
+[2013] FCA 214
+I have italicised all
+species names as per convention even though I note that the specification tends
+not to do this
+15-17 of the description
+5 first paragraph of the
+description
+cf p.2 second
+paragraph of the description
+p. 6 line 3 of
+the description
+understand this to be the same line as R42141F, cf p. 30 line 20 of the
+description
+Despeghel1 at
+Despeghel1 at
+Abaddi1 at 7 and
+Batley1 at 20 and
+Laffaire2 at 8 –
+although Laffaire2 was outside the regulated evidentiary period ultimately
+nothing turned on this so
+there was no need to invoke the Reg 5.23
+provisions.
+Minnesota Mining
+& Manufacturing Co v Beiersdorf (Australia) Ltd
+[1980] HCA 9
+General Tire &
+Rubber Co. v Firestone Tyre & Rubber Co Ltd
+(1972) RPC 457
+Damorgold Pty Ltd v
+JAI Products Pty Ltd
+[2015] FCAFC
+Otsuka Pharmaceutical
+Co. Ltd v Generic Health Pty Ltd (no 4)
+(2015) FCA 634
+see paragraphs 43 and 51
+referencing exhibits JPD-8 and
+Exhibits JPD-6, JB-4
+Aktiebolaget
+Hassle v Alphapharm Pty Ltd
+[2002] HCA 59
+(2002) 212 CLR 411
+Despeghel1 at 34, Gjuric
+Batley2 at 9, Annex
+Originally set out in
+CSR Building Products Limited v United States Gypsum Company
+” and endorsed in subsequent Federal Court
+Originally set out
+[2017] APO 57
+endorsed in subsequent Federal Court
+Jusand Nominees
+Pty Ltd v Rattlejack Innovations Pty Ltd
+[2023] FCAFC
+Warner-Lambert v
+Generics [Mylan]
+[2018] UKSC 56
+Despeghel1 at 107 and
+OS at D.4 and
+RTF format (440 KB)
+Signed PDF/A format

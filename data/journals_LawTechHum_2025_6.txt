@@ -1,0 +1,1223 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/LawTechHum/2025/6.html
+Scraped: 2025-11-17 15:13:08
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Dukovic, Mirko --- "New Organs on Command: The Regulatory Prospects of 3d Bioprinting Technology in the European Union" [2025] LawTechHum 6; (2025) 7(1) Law, Technology and Humans 84
+New Organs on Command: The Regulatory Prospects of 3D Bioprinting
+Technology in the European Union
+Mirko Đuković
+Hertie School, Germany
+3D bioprinting; techno regulation;
+harmonization; European Union; adaptive regulation.
+1. Introduction
+This article examines the regulatory landscape of
+tissue engineering in the European Union to showcase the regulatory prospects
+3D bioprinting technology, a burgeoning field with the potential to
+revolutionise healthcare by creating human tissues and organs.
+Advances in
+tissue fabrication and the critical shortage of transplantable organs rest on
+the promise that 3D bioprinting holds in
+addressing this issue, along with
+advancements in personalised medicine, drug testing and disease management. The
+legal and regulatory
+perspectives, ethical considerations and societal outlooks
+are more than relevant as technology evolves. According to a study prepared
+the European Parliament, there are numerous reasons for regulating bioprinting,
+such as safety concerns, ethical issues, quality
+and safety standards, economic
+and social impact, protection of health rights and
+This article addresses the research gap in the insufficient understanding of
+regulatory requirements and the lack of a comprehensive
+regulatory framework for
+3D bioprinting. It examines the relevant legislation and explores whether the
+European Union can effectively
+regulate 3D bioprinting technology to ensure
+safety, efficacy and ethical compliance while fostering innovation.
+Section 2 details the technology’s processes, applications and future
+potential. Section 3 builds on the dominant narratives
+shaped by Brownsword,
+Lessig, Somsen, Jasanoff, Yeung and Bennet Moses, to name a few. Section 4
+examines the correlation between
+these narratives and the current EU regulatory
+landscape applicable to biomedical technologies and their relevance to
+bioprinting.
+Section 5 offers legal perspectives on bioprinting, including
+potential regulatory pathways and specific challenges.
+The main finding of the article posits that there is piecemeal legislation
+that can only address specific aspects of technology. However,
+due to the dual
+nature of bioprinted products, the European Union might not be equipped to
+handle the complexities of 3D bioprinting
+technology.
+The mentioned dual
+nature that combines biological and synthetic materials introduces unique
+challenges that existing classifications
+could not address as they may not
+adequately capture the functional and compositional nuances of bioprinted
+products. In my previous
+work, I used the term ‘biosthetics’ to
+describe the novelty of the technology and its implication for normative
+This tension
+between non-organic and organic or synthetic and natural components of
+bioprinting comes into the spotlight as it challenges
+the definition of life in
+the biological and legal sense. The natural focuses on biological and physical
+while, as Jasanoff observes,
+the legal focuses on entitlements of life that come
+with scientific breakthroughs.
+Besides this, bioprinted products can serve various therapeutic and cosmetic
+applications. They can also be a component of medical
+devices and prosthetics.
+Thus, the article identifies three potential scenarios for 3D bioprinting in the
+European Union.
+The primary methodology employed is doctrinal legal research, augmented by
+normative analysis and insights from regulatory theory.
+The article rigorously
+analyses existing EU legal frameworks to interpret their implications for the
+emerging field of 3D bioprinting.
+By scrutinising legal texts and pertinent
+definitions, it assesses the current legal landscape’s adequacy in
+addressing the
+complexities of bioprinting. Furthermore, it adopts a normative
+perspective, advocating for adaptive regulation as a more fitting
+legal strategy
+in response to the dynamic nature of bioprinting technologies. Additionally, the
+analysis employs a narrative-based
+approach to critique and compare prevailing
+regulatory paradigms, including harmonisation and adaptive regulation, through a
+constructivist
+lens that emphasises the intersection of legal scholarship and
+governance theory. This multifaceted methodological framework aims
+to illuminate
+the evolving regulatory challenges posed by bioprinting and propose pathways for
+more effective legal oversight.
+2. Bioprinting Technology
+Bioprinting uses 3D printers to print human tissue layer by layer, fusing
+living human cells into scaffolds in a controlled environment.
+biofabrication technology that can overcome the difficulties of producing an
+exact mimic of native tissues since authors
+agree that placing multiple types of
+cells in a designed matrix could bring us closer to making more complex human
+To bioprint effectively,
+besides the bioprinting machine, ink made of human cells and a hydrogel to
+provide a living environment
+for the cells are also essential. The CAD file
+contains the blueprint of the tissue we want to print, and bioinks must be
+placed in the scaffold. The CAD files or blueprints for tissue
+printing allow for the creation of anatomical structures that, in
+function and
+design, mimic natural organs and tissues. Bioprinting is a patient-specific
+technology where printed tissues mimic the
+patient’s and thus reduce the
+chances of rejection.
+The process starts by extracting cells from the patient to create ink. Cells
+are autologous when the donor and recipient are the same
+person. In the case of
+autologous cells, the immune system recognises them as non-hostile and does not
+attack them after transplantation.
+The extracted cells are then differentiated,
+cultivated and replicated to create bio-ink or cell
+Scaffolds play a critical role
+in bioprinting tissues. The purpose of scaffolds is to support the cells placed
+in designated positions.
+It provides an environment where they can live, bind
+and form tissues. Depending on the type of technology, there are different types
+of scaffolds.
+Conditional to their
+properties, scaffolds can be synthetic or natural, whereas ‘synthetic
+hydrogels have become more readily
+adopted than natural polymers because of
+their greater water absorption capacity, longer shelf life, and wide varieties
+of chemical
+resources that are
+available’.
+Printing an entire organ is still not feasible due to the complexity of
+tissue structures within organs.
+Fully functional organs require various components that must be printed, such as
+connective tissues, vascularisation and neural
+Currently, ‘in
+situ’ 3D bioprinting uses a bioprinter to ‘directly pattern cells
+and other bioactive materials
+at the targeted site’ to print skin,
+cartilage, muscles and bone
+regeneration.
+Incorporating cells into 3D constructs enables personalised drug testing and
+disease management. Companies such as Aspect Biosystems
+are developing
+bioprinted lung tissue and exploring treatments for diseases such as type 1
+diabetes. Advances in personalised prosthetics
+include bioprinted ears using
+bioink for cartilage, combining precision and autologous
+reconstruction.
+In Europe, 3D bioprinting is transforming medicine. The BRIGHTER project at
+the Institute for Bioengineering of Catalonia (IBEC) is
+developing functional
+tissues such as skin with sweat glands and hair follicles for medical use and as
+alternatives to animal testing.
+Partnering with Goethe University Frankfurt, the
+project also focuses on neural tissue printing, tracheal scaffolds and cardiac
+for patient-specific
+Researchers are further creating organ-on-chip models to simulate human organ
+environments, reducing animal testing and accelerating
+development.
+Some of the so far
+approved tissue-engineered products in the European Union are
+RenNovaCell Skin autologous (epithelial
+cell) harvesting device as skin
+graft for vitiligo, Spherox Human autologous (chondrocyte) spheroids for
+cartilage defect in adults
+and CardioCel Acellular collagen matrix-based
+scaffold for cardiovascular
+These examples highlight the diverse and impactful applications of 3D
+bioprinting, underscoring its potential to transform healthcare
+and biomedical
+research. Research and investment in this promising technology are growing, and
+it is only a matter of time before
+scientists perfect the methods to print the
+entire transplantable organ. At the same time, regulators should prepare to
+address the
+technology and prepare healthcare systems and markets for its
+impact. As noted earlier, this technology is related to tissue engineering
+regenerative medicine; accordingly, the regulatory approaches and frameworks for
+these technologies apply to bioprinting. However,
+this article will show that
+this is only partly the case.
+The European Medicines Agency (EMA) classifies bioprinted products under the
+Advanced Therapy Medicinal Products (ATMP) framework.
+This framework is part of
+Regulation (EC) No 1394/2007 and Directive 2001/83/EC, providing the legal
+basis for ATMPs in the European
+Union. This framework encompasses gene
+therapies, somatic cell therapies and tissue-engineered products, ensuring that
+they undergo
+rigorous evaluation for safety, efficacy and quality. The
+classification under the ATMP framework allows for a comprehensive and
+centralised assessment by the EMA involving the Committee for Advanced Therapies
+(CAT). The CAT issues scientific recommendations
+on the classification of ATMPs
+and follows scientific developments to ensure these innovative therapies meet
+stringent standards.
+The two main phases in the lifecycle of biomedical technology are research
+and development (R&D) and clinical deployment in patient
+care. These phases
+are typically regulated under different systems, involving distinct regulatory
+authorities, such as ethics committees
+and research funders in the R&D phase
+and agencies such as the EMA and national health regulators in the healthcare
+phase. This
+article examines 3D bioprinting technology in both phases due to the
+translational integration between the phases, as it is a crucial
+connecting different phases of medical research and patient care. Specifically,
+it highlights the importance of ensuring
+that valuable insights, data and risk
+assessments derived from R&D are effectively transferred to the clinical
+phase, where these
+findings can directly impact patient care. Conversely, it
+also emphasises the necessity of channeling information from the clinical
+experience into R&D initiatives. This reciprocal flow of information
+enhances the regulatory framework, enabling a more agile
+and evidence-based
+approach to healthcare regulations. For instance, post-market surveillance data,
+including real-world patient
+outcomes, can provide critical feedback that
+informs future research and policy-making. By fostering this integration,
+systems can better adapt and respond to emerging evidence and patient
+needs, ultimately improving health outcomes. It is worth noting
+that while the
+ethical concerns in the biomedical R&D phase revolve around the responsible
+conduct of experimentation, balancing
+scientific advancement with the
+minimisation of harm and safeguarding the autonomy of research participants
+through rigorous consent
+protocols, the patient care phase shifts the ethical
+lens towards ensuring equitable access, clinical transparency and the
+prioritisation
+of individual well-being, thereby underscoring a transition from
+population-level innovation ethics to the intimate obligations of
+personalised
+therapeutic responsibility.
+Biomedical technology, with its potential to revolutionise healthcare, poses
+significant regulatory challenges. The narratives surrounding
+technological
+progress and neutrality shape regulatory frameworks and influence perspectives
+on the governance of these innovations.
+By contrasting different regulatory
+approaches and highlighting the importance of ethical, social and legal
+considerations in biomedical
+technology regulation, the next section of the
+article explores the theoretical framing as narratives within which legislation
+be examined.
+3. Dominant Discourses in Technology Regulation
+One of the predominant discourses in technology regulation is the belief in
+technological progress as a catalyst for a better future.
+This perspective
+posits that technological advancements inherently lead to societal improvements,
+thus warranting minimal regulatory
+interference. Proponents of this view often
+argue that regulation stifles innovation and delays the benefits that new
+technologies
+can bring. Techno-regulation refers to intentionally influencing
+individuals’ behaviour by embedding norms into technology;
+it thus extends
+beyond the traditional legal
+frameworks.
+Design-based
+regulation involves shaping the environment or products to manage behaviour or
+mitigate risks. Van den Berg and Leenes
+found that this approach can be more
+effective than traditional regulation in specific contexts, as it can directly
+shape behaviour
+without needing external enforcement.
+Lessig’s famous assertion that ‘code is law’ affirms that
+technology can be a form of regulation. Thus, regulatory
+frameworks should be
+agile and responsive to technological developments as technology drives societal
+techno-regulation is an intentionally built-in mechanism influencing
+people’s behaviour.
+Techno-regulation also incorporates the concept of ‘nudge’,
+developed by behavioural economist Thaler and legal scholar
+Sunstein. For them,
+a nudge ‘is any aspect of the choice architecture that alters
+people’s behaviour predictably without
+forbidding any options or
+significantly changing their economic
+incentives’.
+advocates innovation-friendly regulation, suggesting that well-designed
+regulation can spur technological advancement by creating
+new standards and
+requirements where governments should act as catalysts and challengers, not as
+controllers.
+Friedman advocated
+minimal regulatory intervention in technological markets, as regulation can
+impede innovation and economic
+While there is no doubt that technological advancement leads to societal
+progress, Brownsword and Somsen emphasise the importance
+of regulatory
+frameworks that can keep pace with those advancements. They argue that
+regulation should guide the progress to benefit
+Brownsword discusses
+the concept of techno-regulation, where technology itself serves as a regulatory
+mechanism. This involves embedding
+regulatory techniques within the design of
+biomedical technologies to influence behaviour. However, he cautions against
+relying solely
+on techno-regulation, warning that it can undermine moral and
+legal principles by shifting the focus from human agency to technological
+control as ‘the techno-regulation approach fails to respect the values of
+the moral community or the community of
+Brownsword argues
+for a nuanced regulatory framework that would promote innovation based on
+protecting ethical and social values
+and respecting human rights principles
+– the so-called ‘bioethical
+Since the beginning of the new millennium, the focus has shifted to examining
+how new technologies can be utilised as tools for
+regulation.
+The central idea is
+that studying regulation should take priority over merely analysing the law.
+This leads to the essential question
+of how much technology influences
+regulation. According to Lessig, regulation is a comprehensive term encompassing
+a wide range of
+actions that precede the formalisation of certain behaviours
+into legal norms. Thus, regulation becomes the framework for behaviour,
+law being just one part of
+Exploring the concept of design-based regulation, where regulatory techniques
+are embedded in technology design to influence behaviour,
+Yeung argues that this
+approach can have significant implications for constitutional rights and
+freedoms (such as freedom of expression,
+the right to privacy, freedom from
+inhuman and degrading treatment and the right to bodily integrity and autonomy),
+requiring careful
+consideration of ethical and social
+She cautions that the
+decisions we make to reach our goals could alter the vision of the society we
+aspire to create.
+Francis Fukuyama warns of biotechnology’s potential threats to human
+dignity, calling for regulatory frameworks that protect
+ethical and social
+Jasanoff challenges the
+notion of technological determinism, which assumes that technology independently
+shapes social structures
+and cultural values. She argues that this view
+overlooks the complex interactions between technology and society, where
+values and norms influence technological development. She calls for a
+more nuanced understanding of the co-evolution of technology
+and society, where
+regulation plays a critical role in mediating this
+relationship.
+In her work,
+Jasanoff highlights the ethical dimensions of technological regulation, arguing
+for ‘technologies of humility’
+in regulatory frameworks, which would
+involve recognising and addressing the limitations and uncertainties inherent in
+technological
+development.
+approach emphasises the need for a more participatory and democratic process in
+regulating new technologies.
+Further critiques of the unrestrained technological progress narrative come
+from Ulrich Beck and his concept of ‘reflexive
+modernisation’.
+argues that the rapid pace of technological change can lead to the
+disintegration of traditional institutions and the emergence
+of new risks. He
+calls for a reflexive approach to regulation capable of responding to these
+emerging challenges. The management
+of risk and uncertainty is a critical aspect
+of technology regulation. Baldwin and others focus on risk-based regulation,
+which controls
+behaviour by quantifying and managing
+This approach is
+prevalent in environmental protection and public health, where regulators set
+standards and enforce compliance through
+penalties for non-compliance.
+Another critical narrative is a ‘regulatory lag’, where law lags
+behind technology as legal frameworks have difficulties
+adapting to changing
+circumstances;
+regulatory framework becomes
+disconnected’.
+biomedical technology, one example is regulating human embryonic stem cell
+(hESC) research. While some EU countries have embraced
+stem cell research,
+others have stringent regulations that limit its scope. The lack of a unified
+regulatory approach has created
+disparities in research opportunities and
+clinical applications across member
+Given that bioprinting technology is still in the research stage, we should
+look forward to the potential of the technology to end
+the public health crisis
+that is the organ shortage. As Bennett Moses suggests, there needs to be an
+institutional connectedness
+and careful consideration of regulatory
+mechanisms.
+Brownsword and
+Somsen emphasise the importance of authors thinking creatively and attentively
+are evolving, as we need to find more
+effective ways to apply the
+Addressing ‘regulatory lag’ is a difficult task, as technologies
+constantly evolve and so regulatory frameworks must be
+flexible and capable of
+evolving with technological developments. Additionally, they also have to ensure
+transparency, the involvement
+of relevant stakeholders and risk-based and
+value-based approaches. This is crucial for the above-presented evolving nature
+of bioprinting.
+Unlike static, one-size-fits-all regulatory models, adaptive
+regulation acknowledges uncertainty and change – especially in
+fast-evolving sectors such as technology, climate policy or finance. Some of the
+key characteristics are iterative policy-making,
+where the rules are updated
+over time based on feedback and new evidence, and stakeholder engagement, which
+means that regulators
+collaborate with industries, researchers and communities.
+It rests on the monitoring and real-time data that help assess effectiveness
+adjust accordingly when needed. Instead of one uniform standardised oversight,
+there can be several risk-based systems where
+the distinction between high-risk
+and low-risk technologies can be established. In that way, the risk assessments
+and resources are
+allocated efficiently, focusing on the end goal of the
+regulation: saving human lives. The described approach highlights the need
+regulation that accounts for the complex interplay between biology and
+technology.
+Adaptive societal governance refers to systems of public decision-making and
+institutional coordination capable of adapting to rapid,
+complex societal
+changes. Mourby and others propose this approach as a framework that allows
+greater flexibility and innovation in
+evaluating novel technologies. This
+approach involves ongoing feedback and adjustments to regulatory frameworks
+based on new evidence
+and technological developments. The Adaptive Societal
+Governance (ASG) supposes that ‘a self-organising network of scholars
+interested parties could carry out the multi-modal (meta)analyses needed to
+understand societal constructions of ideas inherent
+to our understanding of
+Adaptive regulation in medicinal products is recognised in several jurisdictions
+besides the European Union, such as India, Japan,
+the United States and
+This exploration of dominant regulatory discourses reveals the deeply
+intertwined relationship between law, technology and society,
+particularly in
+the context of emerging biomedical innovations such as 3D bioprinting. By
+drawing on various perspectives –
+from techno-regulation and design-based
+governance to adaptive regulation – this section has demonstrated how
+competing narratives
+frame both the perceived promises and the regulatory
+challenges of technological advancement. These discourses do more than reflect
+abstract theories; they actively shape the design, application and legitimacy of
+regulatory frameworks. In this sense, law is not
+merely a tool for governance
+but a dynamic space where these visions of progress, risk and ethics are
+negotiated and contested. For
+a technology as transformative and complex as
+bioprinting, recognising these narratives helps to clarify the normative
+foundations
+on which future regulation must be built. As this field advances,
+the challenge will be to develop governance models that are not
+scientifically and ethically robust but also responsive to societal expectations
+and capable of evolving alongside technological
+3.1. Regulatory Approaches Embodied in the Biomedical Technology Legal
+The described narratives on regulation show that several approaches shape the
+regulatory framework in the European Union: minimal
+regulatory involvement,
+balancing precaution and innovation, ethical considerations, centralised and
+decentralised regulation, harmonisation
+(which creates a uniform regulatory
+environment across member states), public participation, risk and value
+assessments and, finally,
+adaptive regulation. These approaches reflect a range
+of scholarly perspectives discussed earlier, from Friedman’s advocacy
+limited intervention to Jasanoff’s participatory ‘technologies of
+humility’ model.
+In the institutional and regulatory context of the European Union, some
+authors identify techno-regulation as the general approach,
+triggered by the
+focus of regulation on the
+The focus is on the
+product, and the aim of the European Union is political and economic
+integration, which is animated by the goal
+harmonisation.
+This aligns with
+Lessig’s argument that ‘code is law’ and Koops’ emphasis
+on built-in behavioural control
+mechanisms. However, it also brings into view
+Brownsword’s critique of techno-regulation, where embedding rules in
+risks undermining moral agency and the values of the rights
+community. The European Union’s aim of political and economic integration,
+animated by market harmonisation, reflects Porter’s view that governments
+can act as catalysts for innovation by creating new
+regulatory standards. Other
+authors find that internal market harmonisation is a dominant frame for EU
+regulation, where risk analysis
+remains a vital framing device. This reflects
+Baldwin’s concept of risk-based regulation and Beck’s reflexive
+modernisation,
+both of which emphasise the need to manage uncertainty through
+responsive institutional frameworks. At the same time, rights and
+legitimise the regulatory
+However, as human tissues, blood and organs cannot be regarded as
+measures such as the
+Blood Safety Directive, the Human Tissue Directive and the Human Organs
+Directive are based on health protection
+provisions,
+indicating a
+departure from pure market logic and recognition of ethical dimensions –
+resonating with Brownsword’s ‘bioethical
+triangle’ approach.
+If the harmonisation of rules in human materials is based on the risk-regulation
+system and consumer safety,
+then market rationale in regulation prevails. Yet,
+as Yeung notes in her analysis of design-based regulation, this can pose
+to fundamental rights such as bodily integrity and autonomy,
+requiring careful ethical evaluation.
+It is clear that the European Union does not have exclusive constitutional
+competence to regulate areas such as technology and health,
+but it still does
+so. How? Two fundamental principles of EU law allow the European Union to
+exercise competencies: the principle
+of proportionality and the principle of
+subsidiarity. Additionally, the harmonisation process rests in Article 114 of
+on the Functioning of the European Union (TFEU), which authorises the
+approximation of laws to ensure internal market
+functioning.
+Moreover, Article 168 of the TFEU ensures high human health protection. The
+Charter of Fundamental Rights (the Charter) includes provisions
+relevant to
+health technologies, such as the right to dignity, the right to physical
+integrity, and the prohibition on genetic discrimination
+and human cloning.
+Under the title of Solidarity, the Charter protects the right to
+These provisions reflect
+Fukuyama’s emphasis on protecting human dignity in biotechnology
+governance and Yeung’s concerns
+technologically mediated regulation.
+In this manner, the European Union has adopted numerous instruments
+regulating biomedical technologies. Thus, bioprinting as a novel
+technology can
+be subject to a range of EU regulations, directives and guidelines,
+including Council of Europe documents. The legal
+landscape sets safety,
+performance, clinical evaluation, conformity assessments and post-market
+surveillance requirements. This multi-layered
+setup reflects Bennett
+Moses’ call for institutional connectedness in emerging technologies and
+aligns with Mourby and colleagues’
+adaptive societal governance, promoting
+The described regulatory approaches overlap. For example, the previously
+mentioned ATMP Regulation 2007 covers many new product categories
+European Union, including gene therapy, somatic cell therapy and
+tissue-engineered products. Additionally, it introduces a
+centralised procedure
+through CAT, with representatives from each member state performing regular
+assessments of new technologies.
+This responsiveness exemplifies Beck’s reflexive modernisation and
+Mourby’s adaptive regulation. It also allows for amendments
+and updates to
+reflect rapid scientific and technological advancements and empowers the
+European Commission to adopt delegated acts
+to modify annexes and other
+regulatory aspects.
+Complemented by the Good Manufacturing Practice Guidelines, national and
+EU legislation is ‘open to an adaptive approach by
+regulators’,
+regulatory flexibility via conditional marketing authorisation, scientific
+advice and accelerated
+assessment.
+These mechanisms
+echo the iterative policy-making and stakeholder collaboration described in
+adaptive regulatory models, and align
+with Brownsword and Somsen’s call
+for creative legal thinking that evolves with technology. To unmask this, we do
+to go further than the recitals, which provide the background, the
+reason and the context of the regulation. Recitals also explain
+considerations taken into account when adopting legal solutions. While they do
+not have legal force, they provide an insight
+into the substantive part of the
+regulation.
+The ATMP Regulation harmonises legislation across EU member states, balancing
+precautionary measures with innovation.
+This dual goal reflects
+Porter’s vision of regulation as a driver of innovation and
+Brownsword’s insistence on embedding
+ethical safeguards in law. The
+regulation promotes high ethical standards and donor anonymity while respecting
+fundamental rights
+and referencing the Oviedo Convention, echoing
+Fukuyama’s concern with dignity and Jasanoff’s emphasis on ethical,
+governance.
+The regulation employs a centralised approach to authorising ATMPs through
+the EMA while allowing for national-level considerations.
+It mandates
+comprehensive risk and value assessments, including pharmacovigilance and
+cost-effectiveness evaluations, aligning with
+Baldwin’s framework of
+managing risk through structured oversight. Recital 21 encourages open
+consultation with all stakeholders,
+embodying Jasanoff’s
+‘technologies of humility’ and reinforcing participatory legitimacy
+in regulation.
+Another example is Regulation 2024/1938, which sets standards for the quality
+and safety of substances of human origin
+Like the ATMP
+Regulation, it integrates precaution, innovation, ethical principles,
+harmonisation, transparency and adaptability.
+While earlier directives
+(Directives 2002/98/EC and 2004/23/EC) had harmonised regulation to a degree,
+divergences remained. This
+regulation aims to close those gaps, echoing Bennett
+Moses’ concern over regulatory lag. It balances precaution and innovation
+by establishing high safety standards while supporting structured clinical
+outcome monitoring, reflecting Beck’s concern with
+emergent risk and
+Yeung’s emphasis on real-time evidence.
+The EU SoHO platform fosters transparency and
+coordination
+while national
+authorities retain the flexibility to address local needs, supporting
+Mourby’s adaptive governance framework.
+Ethical considerations and public
+involvement are central, including voluntary, unpaid donations and public
+awareness campaigns,
+aligning with Brownsword’s moral agency and
+Jasanoff’s participatory ideals.
+While establishing centralised
+oversight through national competent authorities and an EU-wide SoHO
+Coordination Board, the regulation
+also accommodates local
+implementation.
+This hybrid
+model reflects the adaptive, inclusive approach advocated by many scholars and
+addresses the challenges of governing
+bioprinting and similar biomedical
+innovations in a fragmented legal environment.
+It is clear that, over the last couple of decades, the European Union has
+developed a comprehensive framework for regulating technologies.
+That framework
+adopts a precautionary and risk-based regulatory approach to harmonising the
+market. Its legal framework emphasises
+safety, ethical responsibility,
+transparency and support for innovation. However, it is only slowly and
+selectively moving towards
+a more adaptive regulatory approach. While the
+European Union has traditionally favoured a precautionary and rule-based
+style, there are signs of movement toward adaptive regulatory
+practices, particularly in high-tech and biomedical sectors. Still,
+is gradual, sector-specific and often tempered by institutional conservatism and
+political complexity.
+4. Legal Perspectives on Bioprinting and Biosthetics
+The European Union maintains a dual-track regulatory ecosystem for biomedical
+technologies, one that governs upstream R&D activities
+and innovation, and
+regulates downstream deployment in healthcare settings for patient care. Each
+phase involves distinct authorities,
+compliance pathways and legal instruments
+– but with increasing emphasis on translational integration, where data
+management flow between the two. Each phase also follows separate
+compliance pathways – for instance, clinical trials are governed
+Clinical Trials Regulation (EU 536/2014), while the deployment of approved
+medical technologies in hospitals falls under Medical
+Device Regulation (MDR
+2017/745) or In Vitro Diagnostic Regulation (IVDR 2017/746). These frameworks
+come with their own legal instruments,
+including approval procedures, safety
+documentation, ethical guidelines and post-market monitoring rules.
+Translational integration
+refers to the bridging of these phases, ensuring that
+insights, data and risk assessments generated during R&D are carried forward
+into the patient care phase and vice versa. This integration allows for more
+responsive, evidence-informed regulation, where post-market
+surveillance data
+(e.g. real-world patient outcomes) can be fed back into future R&D and
+policy design.
+Finally, data and
+risk management flow between the two, highlights the increasingly continuous
+nature of regulatory oversight: rather
+than seeing R&D and patient care as
+isolated, modern EU frameworks aim to connect them through shared health data
+systems (such
+as EHDS), real-world evidence and iterative regulatory evaluations
+that adapt over time. This flow promotes a safer, more efficient
+innovation-friendly biomedical ecosystem.
+The legal framework governing bioprinting in the European Union is
+multifaceted, intersecting with both biomedical R&D and clinical
+regulation. Due to their hybrid nature – being part biological and part
+synthetic – bioprinted products challenge
+conventional regulatory
+categories. These products, which this article terms biosthetics, require
+particular legal attention because
+they blur the lines between tissue-engineered
+medicinal products, medical devices and human biological materials. Their
+classification
+and regulatory pathway therefore depend not only on function and
+risk, but also on how law conceptualises their ontological status.
+Bioprinted products containing human cells and tissues fall under the SoHO
+Regulation (EU 2024/1938), which ensures standards for
+safety, ethical
+sourcing and quality. This regulation sits at the intersection of clinical care
+and biomedical innovation, and directly
+applies to bioprinted constructs
+intended for therapeutic use. Where bioprinted constructs exhibit biological
+activity – such
+as regenerating or replacing tissues – they may be
+classified as Advanced Therapy Medicinal Products (ATMPs) under Regulation
+No 1394/2007. This designation requires centralised authorisation through the
+EMA, bringing strict oversight regarding clinical
+evaluation, risk assessment
+and long-term monitoring.
+Conversely, when the primary function of a bioprinted construct is structural
+or mechanical, such as a scaffold with limited biological
+it may fall under the
+Medical Device Regulation (EU) 2017/745. The key legal determinant here is the
+product’s principal mode
+This creates ambiguity
+for many bioprinted constructs that combine both mechanical support and
+biological integration – again
+underscoring their biosthetic identity. In
+these cases, regulators must determine on a case-by-case basis whether medicinal
+device or combination product rules apply.
+In the research and development context, Directive 2001/83/EC lays the
+foundation for medicinal product regulation, and its provisions
+on manufacturing
+practices, marketing authorisation and pharmacovigilance are directly relevant
+to bioprinted tissues used as therapeutic
+interventions. Directive 2004/23/EC
+further provides requirements for the handling and use of human tissues and
+cells, ensuring traceability
+and safety from donation through application.
+Together, these legal instruments establish core principles for regulating the
+of bioprinted constructs.
+Regulation (EU) No 536/2014 provides a framework for conducting clinical
+trials in the European Union, ensuring the safety and rights
+of participants.
+Requirements for the conduct of clinical trials include Good Clinical Practice
+(GCP) and Good Manufacturing Practice
+(GMP). The regulation mandates centralised
+trial registration, ethics committee approval, informed consent and continuous
+monitoring.
+Its applicability to bioprinting becomes particularly significant
+when human-derived cells – especially pluripotent stem cells
+involved. Ethics approvals must address not only the provenance of biological
+material, but also the long-term risks
+and uncertainties specific to biosthetic
+constructs.
+GCP demands informed
+consent and data integrity,
+while GMP enforces stringent controls on production processes, including
+documentation and traceability – elements that are
+particularly critical
+for bioprinting, where each construct may be personalised and produced in small
+batches. This presents challenges
+for applying mass-production standards to
+individualised therapeutic
+Furthermore, the integration of digital data in bioprinting adds a regulatory
+layer. The creation of bioprinted constructs relies
+on numerous data types. By
+analysing the bioprinting process and technology, it is possible to extrapolate
+the following data: imaging,
+genomic, histological, biomaterial, physiological,
+anatomical, disease-specific and clinical. These data must be handled according
+to Article 35 of the GDPR, which safeguards personal and health-related
+information. Especially when creating personalised biosthetics
+constructs, AI
+tools or algorithms to optimise the design or predict tissue behaviour may
+invoke future obligations under the AI
+The Patient Rights in Cross-border Healthcare Directive and the now-repealed
+Directive 95/46/EC (replaced by the GDPR) underscore
+the need for patient
+are deployed across borders.
+Regulation (EU) 2021/2282 on Health
+Technology Assessment (HTA) is also increasingly relevant, particularly for
+evaluating cost-effectiveness
+and integrating bioprinted therapies into public
+health systems.
+5. Conclusion: Rethinking Regulation in the Age of Biosthetics
+The analysis presented in this article underscores the pressing need for a
+reorientation of regulatory frameworks in response to the
+ontological and
+practical complexities introduced by bioprinting technologies. As the European
+Union continues to rely on codified
+regulatory instruments – such as the
+MDR, the GDPR and ATMP Regulation – it becomes increasingly evident that
+these instruments,
+while comprehensive and grounded in principles of risk
+mitigation, patient safety and ethical oversight, lack the flexibility necessary
+to respond effectively to fast-paced technological innovation.
+This rigidity is not without cause. As discussed in the broader scholarly
+discourse, the EU regulatory model is shaped by foundational
+principles (proportionality, subsidiarity and legal certainty), bureaucratic
+complexity and a precautionary ethos rooted in
+diverse ethical cultures across
+member states. These characteristics contribute to a structurally conservative
+regulatory environment
+that excels in stability and coherence, yet often
+struggles with anticipatory governance and rapid responsiveness. Scholars such
+as Brownsword, Somsen and Jasanoff have highlighted the need for regulatory
+systems to evolve alongside the technologies they govern,
+advocating for
+reflexive, participatory and rights-driven regulatory approaches.
+Bioprinted products – here defined as biosthetics – epitomise the
+epistemic and material hybridity that challenges existing
+legal definitions.
+These constructs simultaneously embody characteristics of biological living
+matter and synthetically engineered
+materials, thereby destabilising traditional
+regulatory binaries such as natural/artificial, medicinal product/device and
+product/process.
+The European Union’s reliance on the ‘principal
+mode of action’ test as a primary classifier is illustrative of
+limitations of applying categorical logic to technologies that are inherently
+integrative and hybrid.
+In light of these dynamics, three regulatory pathways for bioprinting within
+the European Union can be envisaged. The first, a continuity
+model, retains the
+current fragmented system where legal classification hinges on functional
+assessments – most notably the
+principal mode of action. While this
+strategy preserves institutional stability, it risks inconsistent regulatory
+outcomes and imposes
+interpretive burdens on national authorities. The second
+pathway proposes targeted reforms to existing legal instruments, such as
+amending the MDR, ATMP Regulation and SoHO Regulation, to explicitly incorporate
+bioprinting and delineate clearer guidance. However,
+this option faces practical
+constraints due to the European Union’s procedural complexity and the need
+for consensus across
+27 member states.
+The third and most forward-looking trajectory involves constructing a
+dedicated regulatory framework for bioprinting and similar hybrid
+technologies. This novel architecture would draw upon the principles of adaptive
+governance, incorporating dynamic risk
+assessment, stakeholder co-governance and
+real-world evidence into regulatory design. Such a framework would recognise the
+biosthetics
+ontology of 3D bioprinting technologies and respond accordingly with
+modular, flexible and ethically embedded legal instruments.
+It would also enable
+the use of regulatory sandboxes, early scientific advice and conditional
+approval mechanisms, thereby aligning
+more closely with the innovation
+Ultimately, the governance of bioprinting in the European Union demands more
+than technical classification; it requires a conceptual
+shift. The law must
+become a co-productive partner in innovation, capable of evolving with
+scientific advances, mediating between
+market dynamics and ethical imperatives,
+and supporting the translation of biotechnological potential into socially
+legitimate outcomes.
+The concept of biosthetics introduced in this article not
+only captures the ontological novelty of bioprinting but also signals the
+for a jurisprudence that embraces hybridity, uncertainty and the co-construction
+of regulatory meaning. Such a shift will be
+essential if the European Union aims
+to maintain its leadership in biomedical innovation while safeguarding
+fundamental rights, democratic
+values and public trust.
+Bibliography
+Agarwala, Shweta. “A Perspective on 3D
+Bioprinting Technology: Present and Future.”
+American Journal of
+Engineering and Applied Sciences
+9, no 4 (2016): 985–90.
+https://doi.org/10.3844/ajeassp.2016.985.990
+Bache, Gordon, Mark L. Flear and Tamara K. Hervey. “The Defining
+Features of the European Union’s Approach to Regulating
+Technologies.” In
+European Law and New Health Technologies
+by Mark L. Flear, Anne-Maree Farrell, Tamara K. Hervey and Thérèse
+Murphy, 7–45. Oxford: Oxford University
+Press, 2013.
+Baldwin, Robert, Martin Cave and Martin Lodge.
+Understanding Regulation:
+Theory, Strategy, and Practice
+(2nd ed.). New York: Oxford University Press,
+Beck, Ulrich and Ciaran Cronin.
+World at Risk
+. Cambridge: Polity
+Press, 2009.
+Bennett Moses, Lyria. “Agents of Change: How the Law
+‘Copes’ with Technological Change.”
+Griffith Law Review
+20, no 4 (2011): 763–94.
+https://doi.org/10.1080/10383441.2011.10854720
+Bishop, Elliot S., Sami Mostafa, Mikhail Pakvasa, Hue H. Luu, Michael J. Lee,
+Jennifer Moriatis Wolf, Guillermo A. Ameer, Tong-Chuan
+He and Russell R. Reid.
+“3-D Bioprinting Technologies in Tissue Engineering and Regenerative
+Medicine: Current and Future Trends.”
+Genes & Diseases
+(2017): 185–95.
+https://doi.org/10.1016/j.gendis.2017.10.002
+Brownsword, Roger.
+Rights, Regulation, and the Technological
+. New York: Oxford University Press, 2011.
+Brownsword, Roger. “So What Does the World Need Now? Reflections on
+Regulating Technologies.” In
+Regulating Technologies Legal Futures,
+Regulatory Frames and Technological Fixes
+, edited by Roger Brownsword and
+Karen Yeung, 23–48. Oxford: Hart, 2008.
+Brownsword, Roger and Han Somsen. “Law, Innovation and Technology:
+Before We Fast Forward – A Forum for Debate.”
+Law, Innovation and
+1, no 1 (2009): 1–73.
+https://doi.org/10.1080/17579961.2009.11428364
+Charter of Fundamental Rights of the European Union, 326 OJ C § (2012).
+http://data.europa.eu/eli/treaty/char_2012/oj/eng
+Cioeta, Roberto, Andrea Cossu, Emiliano Giovagnoni, Marta Rigoni and Paola
+Muti. “A New Platform for Post-Marketing Surveillance
+and Real-World
+Evidence Data Collection for Substance-Based Medical Devices.”
+Frontiers in Drug Safety and Regulation
+2 (2022): 992359.
+https://doi.org/10.3389/fdsfr.2022.992359
+Consolidated version of the Treaty on European Union, 326 OJ C § (2012).
+http://data.europa.eu/eli/treaty/teu_2012/oj/eng
+Consolidated version of the Treaty on the Functioning of the European Union,
+326 OJ C § (2012).
+http://data.europa.eu/eli/treaty/tfeu_2012/oj/eng
+Dell, Annika C., Grayson Wagner, Jason Own, and John P. Geibel. “3D
+Bioprinting Using Hydrogels: Cell Inks and Tissue Engineering
+Applications.”
+Pharmaceutics
+14, no 12 (2022): 2596.
+https://doi.org/10.3390/pharmaceutics14122596
+Detela, Giulia and Anthony Lodge. “EU Regulatory Pathways for ATMPs:
+Standard, Accelerated and Adaptive Pathways to Marketing
+Authorisation.”
+Molecular Therapy: Methods & Clinical Development
+https://doi.org/10.1016/j.omtm.2019.01.010
+Directive 2001/83/EC of the European Parliament and of the Council of 6
+November 2001 on the Community Code Relating to Medicinal
+Products for Human
+Use, Pub. L. No. L–311 (2004).
+Đuković, Mirko. “No Sharp Line Between the Natural and the
+Synthetic: Biothetics and Challenges to Regulation.”
+BioLaw Journal
+– Revista Di BioDiritto
+1/2021, no. Spec. (2021): 343–58.
+https://doi.org/10.15168/2284-4503-790
+Đuković, Mirko. “Regulating Biomedicine: The Case of Human
+Tissues Bioprinting.” SJD, Central European University,
+EMA. “Adaptive Pathways.” European Medicines Agency, September
+https://www.ema.europa.eu/en/human-regulatory/research-development/adaptive-pathways
+Faramarzi, Negar, Iman K. Yazdi, Mahboubeh Nabavinia, Andrea Gemma, Adele
+Fanelli, Andrea Caizzone, Leon M. Ptaszek, et al. “Patient-Specific
+Bioinks for 3D Bioprinting of Tissue Engineering Scaffolds.”
+Healthcare Materials
+7, no 11: 1701347.
+https://doi.org/10.1002/adhm.201701347
+Ferrari, Arianna, Martina Baumann, Christopher Coenen, Daniel Frank and
+Leonhard Hennen. “Additive Bio-Manufacturing: 3D Printing
+for Medical
+Recovery and Human Enhancement.” Brussels: European Parliament’s
+Science and Technology Options Assessment
+STOA, July 2018.
+http://www.europarl.europa.eu/stoa
+Friedman, Milton and Rose D. Friedman.
+Capitalism and Freedom
+anniversary ed. Chicago: University of Chicago Press, 2002.
+Fukuyama, Francis.
+Our Posthuman Future: Consequences of the Biotechnology
+. New York: Farrar, Straus and Giroux, 2002.
+Hervey, Tamara K., and Jean V. McHale.
+European Union Health Law: Themes
+and Implications
+. Cambridge: Cambridge University Press, 2015.
+https://doi.org/10.1017/CBO9780511862410
+Jasanoff, Sheila.
+The Ethics of Invention: Technology and the Human
+. New York: W.W. Norton, 2016.
+Jasanoff, Sheila, ed.
+Reframing Rights: Bioconsitutionalism in the Genetic
+. Cambridge, MA: MIT Press, 2011.
+Jasanoff, Sheila. “Technologies of Humility: Citizen Participation in
+Governing Science.”
+41, no 3 (2003): 223–44.
+https://doi.org/10.1023/A:1025557512320
+Koops, Bert-Jaap. “Criteria for Normative Technology: The Acceptability
+of ‘Code as Law’ in Light of Democratic
+and Constitutional
+Values.” In
+Regulating Technologies Legal Futures, Regulatory Frames
+and Technological Fixes
+, edited by Roger Brownsword and Karen Yeung,
+157–74. Oxford: Hart, 2008.
+Lessig, Lawrence.
+. New York: Basic Books, 2006.
+López, Àngels. “Reducing Animal Testing with 3D
+Bioprinting: European Project BRIGHTER Brings New Light.”
+Institute for
+Bioengineering of Catalonia, February 4, 2022.
+https://ibecbarcelona.eu/reducing-animal-testing-with-3d-bioprinting-european-project-brighter-brings-new-light
+Mandrycky, Christian, Zongjie Wang, Keekyoung Kim and Deok-Ho Kim. “3D
+Bioprinting for Engineering Complex Tissues.”
+Biotechnology
+34, no 4 (2016): 422–34.
+https://doi.org/10.1016/j.biotechadv.2015.12.011
+Mirshafiei, Mojdeh, Hamid Rashedi, Fatemeh Yazdian, Abbas Rahdar and
+Francesco Baino. “Advancements in Tissue and Organ 3D Bioprinting:
+Techniques, Applications, and Future Perspectives.”
+Materials &
+240 (2024): 112853.
+https://doi.org/10.1016/j.matdes.2024.112853
+Mourby, Miranda, Jessica Bell, Michael Morrison, Alex Faulkner, Phoebe Li,
+Edison Bicudo, Andrew Webster and Jane Kaye. “Biomodifying
+‘Natural’: From Adaptive Regulation to Adaptive Societal
+Governance.”
+Journal of Law and the Biosciences
+9, no 1 (2022).
+https://doi.org/10.1093/jlb/lsac018
+Porter, Michael E.
+The Competitive Advantage of Nations
+Macmillan, 1998.
+Regulation (EC) No 1394/2007 of the European Parliament and of the Council of
+13 November 2007 on Advanced Therapy Medicinal Products
+and Amending Directive
+2001/83/EC and Regulation (EC) No 726/2004.
+Official Journal of the European
+, November 13, 2007.
+https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32007R1394
+Regulation (EU) 2016/679 of the European Parliament and of the Council of 27
+April 2016 on the protection of natural persons with
+regard to the processing of
+personal data and on the free movement of such data, Pub. L. No. 2016/679
+Regulation (EU) 2024/1938 of the European Parliament and the Council of 13
+June 2024 on standards of quality and safety for substances
+of human origin
+intended for human application and repealing Directives 2002/98/EC and
+2004/23/EC, Pub. L. No. 2024/1938 (2024).
+Regulation (EU) No 536/2014 of the European Parliament and of the Council on
+clinical trials on medicinal products for human use,
+and repealing Directive
+2001/20/EC Text with EEA relevance (n.d.).
+Sekar, Muthu Parkkavi, Harshavardhan Budharaju, Allen Zennifer, Swaminathan
+Sethuraman, Niki Vermeulen, Dhakshinamoorthy Sundaramurthi
+and Deepak M
+Kalaskar. “Current Standards and Ethical Landscape of Engineered Tissues
+– 3D Bioprinting Perspective.”
+Journal of Tissue Engineering
+12 (2021): 20417314211027677.
+https://doi.org/10.1177/20417314211027677
+Thaler, Richard H., and Cass R. Sunstein.
+Nudge: Improving Decisions about
+Health, Wealth, and Happiness
+. New Haven, CT: Yale University Press,
+van den Berg, Bibi and Ronald Leenes. “Abort, Retry, Fail: Scoping
+Techno-Regulation and Other Techno-Effects.” In
+Human Law and Computer
+Law: Comparative Perspectives
+, edited by Mireille Hildebrandt and A.M.P.
+Gaakeer, 67–87. London: Springer, 2013.
+Xia, Zengmin, Sha Jin and Kaiming Ye. “Tissue and Organ 3D
+Bioprinting.”
+SLAS Technology: Translating Life Sciences Innovation
+(February 23, 2018): 2472630318760515.
+https://doi.org/10.1177/2472630318760515
+Yeung, Karen. “Are Human Biomedical Interventions Legitimate Regulatory
+Policy Instruments?” In
+The Oxford Handbook of Law, Regulation and
+, edited by Roger Brownsword, Eloise Scotford and Karen Yeung,
+823–53. Oxford: Oxford University Press, 2016.
+Ferrari, “Additive
+Bio-Manufacturing,” 88.
+This should not be understood
+as ‘dual use’, which refers to the concept of certain technologies
+being applicable to
+both civilian and military purposes. This implies that
+innovations developed for peaceful applications could also be adapted for
+warfare or other forms of conflict.
+Đuković, “No
+Sharp Line”; Đuković, “Regulating Biomedicine.”
+Jasanoff, Reframing Rights.
+Xia, “Tissue and
+Agarwala, “A Perspective
+on 3D Bioprinting Technology.”
+“Patient-Specific Bioinks,” 1701347.
+Bishop, “3-D Bioprinting
+Technologies,” 189.
+Dell, “3D Bioprinting
+Using Hydrogels,” 2596.
+Mirshafiei,
+“Advancements in Tissue and Organ 3D Bioprinting,” 112853.
+Mandrycky, “3D
+Bioprinting,” 12.
+Mahmoudi, “In
+Situ 3D Bioprinting,” e00260.
+Bioprinting,” 609836.
+“Reducing Animal Testing.”
+Ingber, “Human
+Organs-on-Chips,” 467–491.
+Parkkavi Sekar,
+“Current Standards and Ethical Landscape.”
+For more detailed
+information, visit the EMA’s page on advanced therapy medicinal products:
+https://www.ema.europa.eu/en/human-regulatory-overview/advanced-therapy-medicinal-products-overview
+van den Berg, “Abort,
+Retry, Fail,” 67.
+Lessig, Code, 121.
+Koops, “Criteria for
+Normative Technology,” 157–158.
+Thaler, Nudge, 8.
+Porter, The Competitive
+Advantage of Nations, 82.
+Friedman, Capitalism and
+Brownsword, “Law,
+Innovation and Technology,” 73.
+Brownsword, Rights,
+Regulation, and the Technological Revolution, 24.
+Brownsword, Rights,
+Regulation, and the Technological Revolution, 32.
+Brownsword, “So What
+Does the World Need Now?” 24.
+Lessig, Code, 122.
+Yeung, “Are Human
+Biomedical Interventions Legitimate?” 840.
+Fukuyama, Our Posthuman
+Jasanoff, The Ethics of
+“Technologies of Humility,” 224.
+Beck, World at Risk.
+Baldwin, Understanding
+Regulation, 83.
+Bennett Moses, “Agents
+of Change,” 763.
+Brownsword, “So What
+Does the World Need Now?” 27.
+For reference, see the
+different levels of scrutiny in hESC research in Europe at The Hinxton Group
+– an International Consortium
+on Stem Cells, Ethics, and Law at
+http://www.hinxtongroup.org/index.html.
+Bennett Moses, “Agents
+of Change,” 788.
+Brownsword, “Law,
+Innovation and Technology,” 73.
+Mourby, “Biomodifying
+the ‘Natural’,” 1.
+Mourby, “Biomodifying
+the ‘Natural’,” 13.
+Brownsword, “Law,
+Innovation and Technology,” 31.
+Consolidated version of the
+Treaty on the Functioning of the European Union, OJ C 326, art. 114.
+Bache, “The Defining
+Features,” 8.
+Hervey, European Union
+Health Law, 343–48; Bache, “The Defining Features,” 18.
+Consolidated Version of the
+Treaty on the Functioning of the European Union,
+Official Journal of the
+European Union
+C 326/47 (2012), art. 168.
+Consolidated Version of the
+Treaty on the Functioning of the European Union,
+Official Journal of the
+European Union
+C 326/47 (2012).
+Charter of Fundamental
+Rights of the European Union,
+Official Journal of the European
+C 326/391 (2012) art. 35.
+EMA, “Adaptive
+Regulation (EC) No 1394/2007
+of the European Parliament and the Council of 13 November 2007 on Advanced
+Therapy Medicinal Products,
+Official Journal of the European
+L 324/121 (2007), arts. 24 and 25a.
+Mourby, “Biomodifying
+the ‘Natural,’” 15.
+Detela, “EU Regulatory
+Pathways for ATMPs.”
+ATMP Regulation, l. 5.
+Regulation (EU) 2024/1938 of
+the European Parliament and the Council of 13 June 2024 on standards of quality
+and safety for substances
+of human origin intended for human application and
+repealing Directives 2002/98/EC and 2004/23/EC,
+Official Journal of the
+European Union
+L 170/1 (2024), SoHO Regulation, ll. 5 and 6.
+SoHO Regulation, ll. 36 and
+SoHO Regulation, ll. 49 and
+Cioeta, “A New
+A bioprinted scaffold for
+bone regeneration that primarily provides structural support and is supplemented
+with natural materials
+could be considered a medical device.
+Ferrari, “Additive
+Bio-Manufacturing.”
+Regulation (EU) No 536/2014
+of the European Parliament and the Council of 16 April 2014 on clinical trials
+on medicinal products
+for human use, and repealing Directive
+2001/20/EC,
+Official Journal of the European Union
+(2014), art. 29.
+Regulation (EU) No 536/2014
+of the European Parliament and the Council of 16 April 2014 on clinical trials
+on medicinal products
+for human use, and repealing Directive
+2001/20/EC,
+Official Journal of the European Union
+(2014) art. 47.
+Regulation,” art. 5; Directive 2001/83/EC of the European Parliament and
+of the Council of 6 November 2001 on the
+Community Code Relating to Medicinal
+Products for Human Use, bk. 46f.
+Print (pretty)
+Print (eco-friendly)
+RTF format (234 KB)
+PDF format (380 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

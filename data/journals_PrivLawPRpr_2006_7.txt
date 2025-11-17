@@ -1,0 +1,490 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/PrivLawPRpr/2006/7.html
+Scraped: 2025-11-17 15:30:27
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Bygrave, Lee A --- "Strengthening privacy protection in the Internet environment: A modest program of action" [2006] PrivLawPRpr 7; (2006) 11(8) Privacy Law and Policy Reporter 222
+Strengthening Privacy Protection In The Internet Environment: A Modest Program Of Action
+Strengthening privacy protection in the Internet
+environment: A modest program of action
+Lee A Bygrave
+This is an extended and updated version of a speech titled ‘Ensuring
+Respect for Privacy on the Internet’ given at the
+26th International
+Conference on Privacy and Personal Data Protection, Wroclaw, Poland, 15th
+September 2004.
+Introduction
+In this paper, I reflect briefly on how best we can build up, and build in,
+norms for protecting privacy with respect to Internet
+transactions. I consider
+this issue first in the framework of traditional legal rules, specifically those
+in data privacy legislation.
+Thereafter, I consider other rule types such as
+‘netiquette’. Finally, I consider educational strategies to
+improvements can be made within all these frameworks in order
+to diminish the
+risk of privacy violations in the Internet environment.
+Application of law to Internet
+In the past, not so long ago, it was fashionable in some circles to claim
+that the Internet – and its related transactional
+realm of cyberspace
+– were beyond the reach of traditional laws.
+This claim is
+facetious and has rightly been consigned to the history books as one of the
+myths of digital libertarianism.
+For the Internet and cyberspace may
+be vast, they may be relatively new, they may be challenging for traditional
+values and norms,
+but they are and never have been beyond the reach of the law.
+Of course, some laws have been drafted in a manner that makes their
+application
+to the Internet difficult, but much law is sufficiently technologically neutral
+in its formulation as to permit application
+to new forms of information and
+communication technology (ICT). Hence, the basic question when assessing the
+applicability of laws
+to the Internet and cyberspace is usually not: do the laws
+apply? It is rather: how do they apply?
+The latter question breaks down into several other questions:
+• Do the laws apply with sensible results?
+• Do they achieve a desirable balancing of interests?
+• Are the results unexpected? Unforeseen? Awkward?
+• Do the laws give sensible guidance as to what Internet-related
+activity is permitted and what is not permitted?
+Answering all of these questions conclusively with respect to data privacy
+laws is difficult. In many cases, these laws can be applied
+with generally
+sensible and desirable results, but not in all cases – as I show further
+on. Moreover, as they currently stand,
+the bulk of the laws fail to give
+adequate prescriptive guidance with respect to processing of personal data in an
+Internet context.
+Concomitantly, it is often difficult to predict the results of
+their application in such a context.
+Looking at the main international instruments on data privacy, we see that
+these have been drafted sufficiently broadly as to apply
+to the Internet.
+However, most of them have been drafted with little, if any, conscious account
+taken of the Internet or digital
+environment more generally. This is so with the
+European Union’s (EU) 1995 Directive on data protection (DPD).
+It is also the case with the 1981 Council of Europe Convention on data
+protection,
+along with the 1980 OECD guidelines
+UN guidelines
+on the same topic.
+The one notable exception is the EU’s 2002 Directive on privacy and
+electronic communication (DPEC).
+The Directive covers some important
+ground and some controversial areas with respect to the online world – eg,
+use of cookie
+mechanisms, logging and use of traffic data (Articles 5, 6 and
+15). Yet the Directive applies only to electronic communication service
+providers (ie, those who facilitate transmission of content), not content
+providers (Article 3(1)). Hence, it has relatively little
+to say about the
+appropriate conditions – from a privacy perspective – for
+development and application of Digital Rights
+Management Systems, as such
+systems are focused, to a large extent, on provision of content.
+Somewhat surprisingly too the DPEC does not directly tackle several key
+definitional issues in an online context, such as the scope
+of the concept of
+‘personal data’ with respect to e-mail addresses, Internet Protocol
+(IP) addresses and attached clickstream
+data. It also leaves in the air the
+status of electronic agents – ie, software applications which, with some
+degree of autonomy,
+mobility and learning capacity, execute specific tasks for a
+computer user or computer system.
+The uncertainties surrounding the ways in which the bulk of the principal
+international instruments on data privacy apply to the Internet
+are, by and
+large, repeated with respect to the application of national data privacy laws.
+The judiciary to the rescue?
+These uncertainties are exacerbated by a paucity of clarifying case law.
+Court decisions treating in detail the provisions of data
+an offline or non-digital context are few and far between;
+decisions that consider these provisions in the digital context are almost
+non-existent.
+Fortunately, we now have a landmark decision by the European Court of Justice
+(ECJ) dealing precisely with the application of data
+protection norms to
+processing of personal data on the Internet – more specifically, the
+applicability of Directive 95/46/EC
+to certain website-publishing activities of
+a Swedish woman. I refer here to the judgment of 6.11.2003 in the case of
+Bodil Lindqvist
+Many of you will be familiar with the
+ruling. It has attracted widespread public attention principally on account of
+its relevance
+for the increasingly large number of people who, in an ostensibly
+private capacity, set up personal Internet ‘homepages’
+information about other persons can be spread.
+In my view, the decision of the ECJ is a sensible one. It helps clarify the
+application of DPD Articles 3(2) and 25 in the context
+of website publishing.
+Nevertheless, it leaves a range of important questions unanswered. One such
+question is: When may a webpage
+with personal data be sufficiently private to
+fall within the ambit of Article 3(2)? It will be recalled that the second
+Article 3(2) states that the Directive does not apply to data
+processing by a natural person ‘in the course of a purely personal
+household activity’. Using recital 12 in the preamble to the Directive as
+a point of departure, the Court tersely held that
+this exception ‘must ...
+be interpreted as relating only to activities which are carried out in the
+course of private or family
+life of individuals, which is clearly not the case
+with the processing of personal data consisting in publication on the internet
+so that those data are made accessible to an indefinite number of people’
+(paragraph 47 of the judgment). However, the Court
+gave no guidance as to
+whether a lesser degree of accessibility (eg, by a smaller and limited number of
+people) may make a website
+private for the purposes of Article 3(2).
+Concomitantly, it failed to provide guidance as to what mechanism might be
+sufficient to
+limit accessibility and thereby make a website private. Would, for
+instance, a password mechanism be sufficient? A host of further
+questions arise
+with respect to other parts of the Court’s judgment – particularly
+those parts dealing with the applicability
+of Article 25 to website publishing.
+The basic point, it suffices to say, is that the
+decision goes
+only a small (albeit significant) way to clarifying the application of the DPD
+to the Internet. And it has, of course,
+only limited relevance for construing
+data privacy law in jurisdictions outside the EU.
+The risk of regulatory over reaching
+As already intimated, the fact that data privacy law may apply to the
+Internet will not necessarily produce entirely sensible or desirable
+good example in point is provided by DPD Article 4(1)(c), which provides that
+the data protection law of an EU state may
+apply outside the EU in certain
+circumstances, most notably if a data controller, based outside the EU, utilises
+‘equipment’
+located in the state to process personal data for
+purposes other than merely transmitting the data through that state.
+This provision gives an impression that the EU is, in effect, legislating for
+the world. However, the provision is motivated in large
+part by the desire to
+prevent circumvention of EU data privacy norms by data controllers based in
+third countries. That is, of course,
+a reasonable motivation. Nevertheless,
+implementation of the provision carries a distinct risk of regulatory
+overreaching in the
+sense that EU member states’ data privacy laws are
+given so broad a field of application that there is little realistic chance
+enforcing them. This risk looms particularly large in the online environment
+where, eg, routine use of cookies mechanisms by website
+operators in third
+countries, may involve utilisation of ‘equipment’ in an EU state
+(assuming that the cookies are properly
+to be classified as personal data). Is
+it, for instance, realistic to expect a website operator in China that puts
+cookies on the
+browser programs of website visitors from the EU, to comply with
+EU member states’ privacy norms? Is it realistic to expect
+operator to be even aware of this compliance duty?
+The ultimate problem here is not so much one of regulatory overreaching but
+the fact that such overreaching may make a mockery of
+the law. Accordingly,
+greater thought should be given to amending Article 4(1)(c) – and the
+corresponding provisions in national
+laws – in order to ameliorate the
+risk of regulatory overreaching. This is just one facet of a broader program of
+legislative
+reform that is required to fine-tune and supplement the core
+principles of data privacy laws so that they better protect privacy-related
+interests in the Internet environment.
+Legislative support for PETs
+An important instance of another facet of this reform program concerns
+contain little
+direct support for PET development or usage.
+Again, the DPD is a
+significant case in point. Certainly the Directive contains provisions which
+come close to mandating PET usage
+– see particularly Article 17 along with
+recital 46 in the preamble. Yet these provisions are concerned prima facie with
+measures – ie, measures aimed primarily at maintaining the
+confidentiality, integrity and availability of personal data. While
+security and
+commensurate.
+At the same time, we must not forget that any attempts to introduce more
+direct legislative support for PETs risk conflicting with
+current regulatory
+mores, such as the principle that legal rules should be technology-neutral and
+not distort marketplace competition.
+These difficulties, though, are
+surmountable. As I have stressed before,
+rules encouraging PET
+development and usage could be drafted so that they simply stipulate the goals
+to be reached (eg, greater
+allowance for anonymity and/or pseudonymity) and then
+specify the means for reaching these goals in fairly general terms only (eg,
+terms of systems development). German legislation provides an instructive model
+for such rules. I refer here particularly to section
+3a of the Federal Data
+Protection Act of 1990 (
+Bundesdatenschutzgesetz
+– as amended in
+2001) which stipulates that ‘[t]he design and selection of data processing
+systems shall be oriented to
+the goal of collecting, processing or using no
+personal data or as little personal data as possible’. Moreover, it would
+be difficult to modify DPD Article 17 so that it more clearly embraces PETs.
+Role of ‘soft law’
+Our attention should not be directed solely at refining and extending the
+industry codes
+of conduct and other ‘soft law’ instruments have also an important
+role to play in fostering privacy in
+the online environment. They have several
+ostensible advantages over traditional legal instruments. First, they often
+permit more
+flexibility. Secondly, they engender a greater degree of user
+‘ownership’ of the norms they promote. Thirdly, the language
+employ is often simpler than the terminology of legislation.
+Notwithstanding these apparent advantages, it would be wrong to claim that
+such schemes are without problems. They do not necessarily
+give greater
+prescriptive guidance than legislation: their apparently simple language can
+often harbour considerable ambiguity, and
+uncertainty frequently arises over the
+extent to which their dispute resolution outcomes create binding or influential
+They tend also to be relatively transitory. An example is
+(Net Tribunal). This was established in early
+2001 with sponsorship from the Norwegian ICT industry, and was probably the
+first scheme
+in the world to offer both a set of ‘Ethical rules for the
+and a workable dispute resolution
+It is now – just a few years later –
+operationally defunct, for reasons outlined further below. There appear to be
+other equivalent schemes in long-term existence.
+The basic point, nevertheless, is that hard law must be supplemented by soft
+law; ‘top-down’ legislative action must be
+supplemented by
+‘bottom-up’ code making. In other words, we need to encourage
+co-regulation in the data privacy field.
+Concomitantly, self-regulation on its
+own is insufficient. Experience indicates that self-regulatory initiatives will
+usually only
+work fruitfully in the face of a sustained threat by government to
+‘cover the field’ through legislation. The demise
+of the Norwegian
+Net Tribunal scheme is, again, illustrative: the scheme was in large part an
+attempt by the local ICT industry to
+head off government regulatory interference
+by showing that the industry itself could adequately regulate the field. Once
+regulatory pressure was relaxed, the willingness to finance and
+sustain the scheme dissipated. Unfortunately, there seem to be few,
+co-regulatory privacy schemes currently working with respect to the Internet
+industry. Australia’s Internet Industry
+Association draft Privacy Code of
+which arguably embodies the most ambitious plan for such
+a scheme, has not yet been officially approved by the Australian federal
+Commissioner.
+Another important point concerns the involvement of Privacy Commissioners and
+other data protection authorities in the development
+of basic Internet
+architecture; ie, their involvement in the development of ‘code’ (in
+Lessig’s terms)
+or ‘lex informatica’ (in
+Reidenberg’s terms)
+. My hunch is that data protection
+authorities rarely participate in the forums which spawn or shape
+Recommendations for Consideration
+(RFCs) and other Internet-related
+If my hunch is correct, we are faced with a serious
+shortcoming on the part of privacy officialdom. It means essentially that the
+Reidenberg and others in their analyses of ‘code’
+informatica’. That lesson needs to be learned if we are to have a
+realistic chance of preserving, or improving,
+the privacy-friendly
+characteristics of Internet architecture.
+Mental ‘hardwiring’
+These references to learning dovetail neatly with the thrust of my final
+message. This message is that we need more education of the
+general populace
+digital context. Analogous to the
+above-indicated need to ‘hardwire’
+hardwire, as it were, privacy-friendly attitudes and perspectives in
+people’s mentality. If the latter hardwiring is to be
+successful, it must
+be directed to a much greater degree than it has been in the past at young
+persons. Courses on ‘information
+ethics’, embracing data privacy
+issues, should be made a compulsory part of the school curriculum. There is much
+done in this respect. Focus hitherto has largely been on getting more
+ICT into schools; relatively little focus has been directed
+at teaching youth
+imbalance in priorities are now
+increasingly manifest with the growing number of
+children who have mobile phones with cameras and ready connection to the
+It might be argued that secondary schools would be the natural place to
+introduce such educational measures, but I believe that primary
+school pupils
+can also be sensibly targeted. Learning about basic data privacy norms is, after
+all, a natural extension of learning
+others. We teach young children to say ‘please’, ‘thank
+you’, ‘excuse
+me’ etc. We teach them about the importance of
+their bodily integrity and space. We can also sensibly teach them about basic
+manners on the informational plane.
+There is growing interest on the part of secondary and primary schools for
+appropriate teaching materials on data privacy, and, fortunately,
+an increasing
+range of such materials is being produced. In the United Kingdom, for example,
+the Office of the Information Commissioner
+has developed an interactive CD-ROM,
+‘Protecting the Plumstones’, which it sent out to some 30,000
+primary and secondary
+schools in 2002.
+In Canada, the Media
+Awareness Network has created an educational games package, ‘Privacy
+playground’.
+In Norway, the Department of Education has
+recently sponsored development of a secondary schools’ course on data
+Complementing these initiatives are educational programs
+on ‘Internet safety’ for children which have been developed
+Ireland, Denmark and Norway under the auspices of the EU-sponsored SAFT (Safety,
+Awareness, Facts and Tools) project.
+Moreover, some commercially
+developed interactive packages exist, such as Disney’s ‘Surf Swell
+While such initiatives are praiseworthy, they must be augmented and
+replicated, not least in other jurisdictions. In Australia, for
+instance, there
+is an apparent paucity of suitable educational material for schools. The federal
+Human Rights and Equal Opportunity
+Commission has produced an online human
+rights education program for teachers of upper primary and secondary school
+students which,
+although valuable in its own right, scarcely focuses on privacy
+The gap does not seem to have been filled by the
+educational efforts of Privacy Commissioners at federal or state level, or by
+corresponding efforts of civil society groups, such as the Australian
+or that there is a complete absence of useful reference
+material for Australian school students;
+but my distinct impression
+is that insufficient material has been developed, particularly for primary
+To some extent, this shortcoming is both understandable and excusable given
+that Privacy Commissioners and privacy advocacy groups
+tend to suffer from a
+severe shortage of resources. In such a situation, it is far from easy to find
+the time, money and effort to
+develop or assist in developing course materials
+for schools. Nevertheless, giving greater priority to such initiatives will
+engender greater privacy protection in the long run.
+Dr Lee A Bygrave is Associate Professor at the Faculty of Law, University
+of Oslo, and a member of the PLPR editorial board.
+The most rhetorically grandiose version of the claim is
+contained in John Perry Barlow’s “A Declaration of the Independence
+of Cyberspace” posted on the Internet in February 1996; available at
+http://homes.eff.org/~barlow/Declaration-Final.html
+. This and all other
+URLs cited in this presentation were last visited 16.11.2005.
+See, eg, J Boyle, ‘Foucault in Cyberspace: Surveillance,
+Sovereignty, and Hardwired Censors’ (1997) 66
+University of Cinncinati
+, 177; G Greenleaf, ‘An Endnote on Regulating Cyberspace:
+Architecture vs Law?’
+[1998] UNSWLawJl 52
+University of NSW Law Journal
+Directive 95/46/EC on the protection of individuals with regard
+to the processing of personal data and on the free movement of
+such data (OJ No
+L 281, 23.11.1995, 31), adopted 24.10.1995.
+Convention for the Protection of Individuals with regard to
+Automatic Processing of Personal Data (European Treaty Series No 108),
+Guidelines Governing the Protection of
+Guidelines Concerning Computerized Personal Data Files (Doc
+E/CN.4/1990/72, 20.2.1990), adopted by the UN General Assembly 4.12.1990.
+Directive 2002/58/EC concerning the processing of personal data
+and the protection of privacy in the electronic communications
+sector (OJ L 201,
+31.7.2002, 37), adopted 12.7.2002.
+See further LA Bygrave, ‘Digital Rights Management and
+Digital Rights Management: Technological, Economic, Legal and
+Political Aspects
+(Berlin / Heidelberg: Springer, 2003), pp
+Further on the privacy issues raised by such agents, see JJ
+Borking, BMA van Eck & P Siepel,
+Intelligent Software Agents and Privacy
+(The Hague: Registratiekamer, 1999); LA Bygrave, ‘Electronic Agents
+and Privacy: A Cyberspace Odyssey 2001’
+International Journal
+of Law and Information Technology
+See generally LA Bygrave, ‘Where have all the judges
+gone? Reflections on judicial involvement in developing data protection
+Case C-101/01
+[2004] 1 CMLR 20.
+Further on these issues, see LA Bygrave, ‘Determining
+Applicable Law pursuant to European Data Protection Legislation’
+Computer Law & Security Report
+European Data
+(Oxford: Oxford University Press, 2003),
+See generally LA Bygrave,
+Data Protection Law: Approaching
+Its Rationale, Logic and Limits
+(The Hague / London / New York: Kluwer Law
+International, 2002), especially chapters 18–19.
+üSee further, eg, W Steinmüller,
+Informationstechnologie und Gesellschaft
+(Darmstadt: Wissenschaftliche
+Buchgesellschaft, 1993), especially p 472.
+See LA Bygrave, ‘Privacy-enhancing technologies –
+caught between a rock and a hard place’
+Policy Reporter
+n 13, p 371.
+http://www.nettnemda.no/netregler.html
+http://www.nettnemda.no/complaint.html
+http://www.iia.net.au/privacycode.html
+The draft Code was submitted for approval and registration by
+the Privacy Commissioner back in March 2003. Under Part IIIAA of
+the federal
+, the Commissioner is empowered to approve industry codes
+of practice that meet criteria specified in the Act and related guidelines.
+approved, a code replaces the National Privacy Principles (in Schedule 3 of the
+Act) as the standard to be observed by organisations
+that decide to subscribe to
+See L Lessig,
+Code, and Other Laws of Cyberspace
+York: Basic Books, 1999).
+See JR Reidenberg, ‘Lex Informatica: The Formulation of
+Information Policy Rules through Technology’
+For an exposition of the RFC standards development process, see
+AM Froomkin, ‘Habermas@discourse.net: Toward a Critical Theory
+Cyberspace’
+Harvard Law Review
+http://www.informationcommissioner.gov.uk/cms/DocumentUploads/270902%20Plumstones.pdf
+http://www.media-awareness.ca/english/games/privacy_playground/
+http://www2.skolenettet.no/personvern/
+http://www.saftonline.org/Education
+http://disney.go.com/surfswell/
+http://www.hreoc.gov.au/info_for_teachers/index.html
+http://www.hreoc.gov.au/info_for_students/index.html
+For instance, the Victorian Privacy Commissioner has entered
+into a sponsorship agreement with the Victorian Commercial Teachers’
+Association to facilitate links between students, teachers and the
+Commissioner’s office, and thereby stimulate greater youth
+interest in
+An example of a useful resource for secondary schools is the
+paper, ‘Hot Topics No 45: Privacy’
+http://www.austlii.edu.au/au/other/liac/hot_topic/hottopic/2004/2/
+commissioned in 2004 for the State Library Legal Information Access Centre of
+New South Wales. This paper and the others in
+the ‘Hot Topics’
+series are sent to all libraries and promoted as a student resource.
+Print (pretty)
+Print (eco-friendly)
+No downloadable files available
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter

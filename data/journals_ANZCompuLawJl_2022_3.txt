@@ -1,0 +1,1355 @@
+URL: https://www.austlii.edu.au/cgi-bin/viewdoc/au/journals/ANZCompuLawJl/2022/3.html
+Scraped: 2025-11-17 14:13:43
+================================================================================
+
+Cases & Legislation
+Journals & Scholarship
+Communities
+New Zealand
+Specific Year
+Potter, Wellett --- "Cryptokitties, Art Tokens and Bored Apes in the Metaverse: How Non-Fungible Tokens (NFTs) Challenge Australian Copyright Law during an Age of Disruption" [2022] ANZCompuLawJl 3; (2022) 94 Computers & Law, Article 3
+I INTRODUCTION
+A What is an NFT?
+B Record-Breaking NFTs
+C What Makes NFTs Valuable?
+II WHAT DOES IT MEAN TO OWN AN NFT? WHAT ARE
+BUYERS PAYING FOR?
+A The Minting of NFTs
+III AUSTRALIAN COPYRIGHT SUBSISTENCE, IMPLICATIONS & CHALLENGES
+A Subsistence in Associated Assets
+B Subsistence in Tokens
+C Licensing of Tokens & the BAYC Case Study
+D Infringement
+1 Token and Associated Assets
+2 Liability of NFT Platforms
+E Are Tokens Considered to be Property In
+Their Own Right?
+IV NFT CHALLENGES AND OPPORTUNITIES FOR THE FUTURE
+A The Tension Between Tangible Ownership and the
+Licensing of Digital Goods
+B Digital Kudos and the Emergence of a New Type of
+Meta-Property Right
+V CONCLUSION
+CRYPTOKITTIES
+, ART TOKENS AND
+BORED APES IN THE METAVERSE:
+HOW NON-FUNGIBLE TOKENS (NFTS) CHALLENGE AUSTRALIAN COPYRIGHT LAW DURING
+AN AGE OF DISRUPTION
+The post-COVID-19 era is an age of disruption, which presents significant
+social, cultural and technological challenges and opportunities
+for society at
+large. There has been substantial wealth generation fuelled from digital
+currencies, which has led to interest and
+sales of Non-Fungible Tokens
+(‘NFTs’) and their associated assets. This article will examine the
+growth and hype about
+artistic NFTs in the context of recent years. It will then
+examine the application of current Australian copyright laws to such NFTs
+their assets to determine subsistence and infringement of these works. The
+notion of what it means to ‘own’ an NFT
+will be examined. When
+applying traditional proprietary notions of ownership to NFTs, it will be seen
+that they have the capacity
+to challenge established norms which have evolved in
+a material, pre-technological world. Finally, this article will ponder the
+as to whether a new type of virtual ownership right is emerging for
+NFTs and their associated
+I INTRODUCTION
+The post-COVID-19 era is an age of disruption, which presents significant
+social, cultural and technological challenges for society
+at large. On one hand,
+while there has been supply-chain interruptions, food shortages and inflation in
+many countries, on the other,
+there has been substantial opportunities,
+increased digitalisation
+significant wealth generation fuelled by digital economies. One of the
+implications of this has been the growth, interest and
+(‘drops’) of Non-Fungible Tokens (hereafter ‘NFTs’).
+NFTs have been in existence for over a decade,
+but during the last year their
+popularity and notoriety has exploded. In 2021, global NFT sales topped $24.9
+billion, a massive increase
+from $94.9 million in
+Interestingly, 85% of all NFT
+transactions have been performed by 10% of traders, which indicates that a small
+minority are engaging
+in a large number of
+As of December 2022 in Australia, there are no specific regulations which
+have been developed for NFTs. Nor has there been any intellectual
+(‘IP’) litigation involving NFTs. Depending on its use, an NFT might
+fall under intellectual property, consumer
+and securities law. An NFT might also
+qualify under the general definition of a ‘financial product’,
+Corporations Act 2001
+(Cth) and be subject to the
+regulatory framework of the
+Australian Securities & Investment
+This article seeks to examine how NFTs and their associated assets challenge
+Australian copyright law and notions of proprietary ownership
+in the post-COVID
+era. To achieve this, firstly, this section will examine the growth and hype
+years. There will be discussion about what
+an NFT is and exploration of some of the most expensive and notable drops
+throughout 2021.
+This will lead into analysis in Section II about what it means
+to own an NFT, which will explore the process of token creation and
+Section III will then examine the application of current Australian copyright
+laws to NFTs to determine how copyright may protect
+them. This article will then
+focus upon the copyright protection of NFTs attached to digital art as a case
+study, using the example
+Bored Ape Yacht Club
+’). Then, the notion of NFT copyright infringement will
+be discussed. The issue as to whether tokens are considered property
+own right will also be considered. As there has not been any copyright
+litigation involving an NFT in Australia at the time
+of writing, recent cases
+from China, the US and UK will be used to analyse these issues.
+Finally, section IV will argue that from a legal perspective, NFTs challenge
+traditional notions of property, which originated in
+the pre-technological,
+material world, involving the fundamental concepts of ownership, control and
+what it means to possess an item.
+It will be pondered whether a new type of
+virtual ownership right – a meta-property right – for digital assets
+evolving in the NFT marketplace.
+Although the term ‘NFT’ is often used, there generally remains
+confusion about what it is and how it is used. When a good
+‘fungible’, it means that it is ‘easy to exchange or trade for
+something else of the same type and
+An example of a
+digital fungible product is bitcoin – like can be exchanged for like.
+However, by their very nature, NFTs are
+fungible, meaning that no two
+NFTs have the same properties – each is unique and it is this uniqueness
+that gives them value
+(emphasis added). It is very important to note that an NFT
+which is attached to an asset, rather than the asset itself
+(emphasis added). An NFT is defined as ‘a unique unit of data (=
+one existing of its type) that links to a particular piece of digital art,
+music, video, etc. and that can be bought and
+An analogy can be
+drawn to an auction ledger, which outlines the details of what has been
+auctioned, as distinct to the item which
+has been sold.
+Another way to describe an NFT is a type of digital deed or token on a
+blockchain platform, which is linked to a unique item. The
+blockchain acts as a
+(sometimes referred to as the underlying
+asset), by verifying its ownership and
+history. Each new transaction represents a new block on the chain. Blockchain
+registration
+results in NFT ownership being recorded in a decentralised and
+transparent way. Another benefit is that registration can assist the
+receive a resale royalty payment if the NFT is later resold – this
+instruction is coded into the contract so that
+it happens automatically upon
+The information which is
+recorded on the blockchain includes who created the asset, who linked it to the
+blockchain and its purchase
+history. This important and nuanced distinction
+between the NFT (i.e., the token/data on the blockchain) and the digital asset
+which it is linked is one which is not often well understood. For the
+purposes of this article, where relevant, the terms ‘NFT/token’
+‘asset/associated asset’ will be used to delineate these items.
+NFTs originated from the need in digital environments to be able to replicate
+the properties belonging to physical items, which include
+uniqueness, scarcity,
+being rivalrous and proving ownership. This began as a method for visual and
+digital artists to be able to
+prove digital ownership of their work on the
+blockchain and to be able to control their work’s
+Tokens have the capacity to
+enable scarcity for any associated
+For example, a token can
+make the ownership of digital art exclusive, and verify the ownership of such
+assets, which were issues
+that had previously been problematic. As the
+blockchain comprises of many computers working on complex algorithms to validate
+a transaction
+and all records are kept public, this means that it is very
+difficult to conduct fraud. The unique identity of the NFT on the blockchain
+cannot be replicated or replaced and this assists in proving/tracing ownership.
+The NFT concept has rapidly expanded to various types
+of items across many
+industries, including the gaming industry, where it is now commonplace for
+in-game purchases to be NFTs. Popular
+NFT games include ‘The
+Sandbox’, ‘Cryptokitties’, and ‘Axie
+Broadly, there are two categories of NFTs: those which are associated with
+digital, intangible works and those which are associated
+with tangible works. In
+the first category, many types of digital assets may be attached to NFTs –
+for example, any type of
+image/artwork, a video, an audio file, online
+real-estate, memes, gaming avatars/assets, or even a tweet. When a digital asset
+the subject of an NFT, it is important to note that what is usually stored on
+the blockchain is a link to it, rather than the asset
+itself (it is unusual to
+store the asset on the blockchain). Specific examples of digital NFTs include
+Cryptokitties
+which were created in 2017 by Dapper Labs,
+Cryptopunks,
+which were launched in 2017 by Larva Labs and the
+which was created in 2021 by Yuga Labs.
+The other category of NFTs are associated with tangible assets. They work
+through linking the asset with the NFT via a QR code or
+link. In this way, these
+NFTs have similar properties to a certificate of title for real property. When a
+purchase is made, no physical
+object changes hands, but the NFT guarantees the
+authenticity of the original asset and denotes ownership. It is possible for
+NFTs to be associated with many types of assets. Examples include tokens
+for tangible artwork, sound recordings, ticketing for events
+and certificates of
+title for real estate
+possibilities are almost limitless.
+Record-Breaking
+In the past year, NFTs have gained media attention due to record-breaking
+sales. In December of 2021, PAK’s NFT attached to
+an artwork titled
+‘The Merge’ sold for a record $91.8 million USD, which comprised of
+28,983 collectors purchasing 312,686
+NFTs to this
+The way that this drop
+worked was that over three days, purchasers could buy any number of tokens that
+they wished – this is
+known as an ‘open edition’ drop, where
+there is no limit on tokens.
+tokens began at a price of $75 USD and increased at six-hour intervals by $25
+Purchasers received their
+token to access the art once the drop
+Another token attached to artwork which sold in March of 2021 was a digital
+collage artwork (a digital JPEG file), titled ‘Everydays
+– the First
+5000 Days’ by Artist Beeple (Mike
+Winkleman).
+This sold at
+for $69 million
+It comprised of a collage
+of artworks, which Beeple had been producing each day for fourteen
+Similarly, another sale
+of distinction in November of 2021 was a token for virtual land in the online
+game ‘The Sandbox’,
+which was purchased by investor Republic Realm
+for $4.3 million.
+However, there appears to be volatility in the NFT marketplace and
+speculation is that growth has started to slow as of December
+An example is Twitter
+founder Jack Dorsey’s first tweet, which was linked to an NFT and sold for
+$2.9 million in 2021.
+was published on 21 March 2006 and stated ‘just setting up my
+Dorsey’s tweet NFT value dropped 99% in a
+which demonstrates that an
+NFT’s value is driven by market demand. Community engagement with tokens
+plays a critical role with
+There are cycles that expand and contract through time, with expensive NFTs
+pitched to a niche market. This parallels the situation
+with tangible
+collector’s assets, such as fine art.
+Makes NFTs Valuable?
+There are various economic and socio-cultural factors which prompt people to
+attribute value to NFTs. Such factors pertain to the
+digital file linked to the
+NFT and include utility, aesthetics/appeal to their owner, the uniqueness and
+scarcity, the fame of the
+creator/owner and the potential liquidity status of
+the asset itself. The purchase of NFTs as an investment has been attractive to
+wealthy individuals such as celebrities and singers, with examples including
+singer Justin Bieber owing a $625,130 USD portfolio
+and comedian Dave Chappelle
+a $262,000 USD portfolio.
+Part of the socio-cultural attraction of NFT ownership was explained by
+celebrity Paris Hilton, when interviewed in January of 2022
+with Jimmy Fallon. Both parties had purchased separate digital cartoon
+ape NFTs from the popular
+, with Ms Hilton purchasing her ape for
+approximately $300,000 USD.
+showing the audience a hard-copy digital print of her NFT
+) which was depicted wearing a hat and
+sunglasses, Ms Hilton explained what attracted her to purchase it.
+‘That’s my ape
+– it’s really cool... the hat, the
+shades... I was going through a lot of them, I was like, I want something that
+me of me, but this one, it does. We made, like, another version of it
+where he takes the hat off and blonde hair comes out... [an]
+Mr Fallon went on to further articulate his attraction to his token,
+‘We’re part of the community. This is my ape. It
+reminded me of me a
+little bit because I wear striped shirts, I’ve worn these heart sunglasses
+because my daughters, just as
+a joke, they have them and just as a joke - I put
+them on, so I’ve done this and I love yacht-rock and being breezy. And I
+like the blue.’
+be gleaned from this conversation is that these purchasers have bought their NFT
+apes for several reasons which will briefly
+be explored.
+Firstly, each of the tokens attached to digital ape images are an economic
+investment, due to their value, uniqueness and scarcity.
+Also, the fact that
+each token has been purchased by a celebrity will likely improve their liquidity
+status in the future, should
+they be sold. Secondly, these assets belong to a
+popular NFT collection, so they are a type of digital collector’s item
+are highly sought-after. Thirdly, the aesthetics of each individual ape
+has appealed to their purchasers, with each personally identifying
+This is similar to the reasons that attract people to buy tangible
+collector’s goods, such as baseball cards or
+vintage Smurf figurines.
+As mentioned earlier in this article, as a token is an intangible good
+– a record on a digital ledger - this begs the question
+as to what a buyer
+is actually paying for when they make a purchase. What does it mean to own a
+token when the asset exists in an
+intangible, digital environment or in the
+metaverse? The following section will unpack these issues in greater detail.
+DOES IT MEAN TO OWN AN NFT? WHAT ARE
+BUYERS PAYING
+Minting of NFTs
+In order to understand what it means to own a token, it is necessary to
+understand a general overview of the minting process. The
+first step is that a
+creator must have created some type of asset (for example, an artwork, literary
+work, etc) which they wish to
+A creator can upload the
+details about this asset to an NFT platform, and execute a smart contract. This
+involves deciding upon the
+conditions of the contract, coding this and uploading
+this data to the appropriate NFT platform. Doing this has given some creators
+greater freedom in setting their own cost and cutting out middle entities, which
+has been particularly exciting for the digital art
+The smart contract is
+usually programmed to self-execute if particular conditions of sale are
+which are based in contract
+It is also possible to
+program smart contracts to create new events or execute further contracts or
+tokens, or to embed cryptocurrencies
+or further digital assets (although this
+happens infrequently).
+Depending on the complexity and timing of the transaction, a compulsory
+registration fee is charged. This is known as a ‘gas
+fee’ and is
+often very expensive due to the carbon emission cost. This has meant that in the
+past, the token market has generally
+been geared towards the wealthy. This
+‘gas fee’ is usually paid to the network validators and it covers
+the cost of the
+blockchain services, including energy costs, validation and
+securing fees.
+There has been controversy associated with the amount of power and therefore
+carbon emissions that it takes to mint a token. The reason
+for this is that the
+underlying process of maintaining certain blockchains known as ‘proof of
+work’ is deliberately energy
+An example is
+Ethereum blockchain, where miners must solve an algorithm to add a new block of
+verified transactions. This is deliberately
+a high-energy and therefore
+expensive task, so as to dissuade fraudulent activity. An average NFT on the
+blockchain has been found
+to have a carbon footprint which is higher than an EU
+resident’s monthly electricity
+However, in recent times,
+some blockchain, such as Solana, are offering the opportunity to be carbon
+neutral and this results in
+lower ‘gas fees’.
+When a creator mints a token, after paying the ‘gas fee’, they
+are assigned a ‘public key’. This is used to
+verify that they minted
+(or authored) the digital item – it is a type of certificate of
+authenticity. The ‘public key’
+is recorded in the token’s
+metadata and on the blockchain, which gives it transparency. Minting on the
+decentralised blockchain
+also means that this data cannot be altered or deleted.
+The ‘public key’ has the additional utility of allowing a creator
+earn resale royalties, every time that their token is later resold to a new
+owner, which is a particularly attractive option to
+This has provided a
+solution to a long-standing problem of resale royalties, particularly for
+digital artists. It also fulfils one
+of the aims of copyright – to
+incentivise authors to continue producing their
+Because NFTs are secured on the blockchain, they are minted and traded using
+various forms of cryptocurrency, including Solana, Flow,
+Ethereum and Wax. Upon
+buying a token, a new owner is assigned a ‘private key’, which is
+stored in a digital wallet.
+This ‘private key’ provides security and
+verifies original ownership, proving that the new owner’s digital token
+the original.
+When a purchaser
+meets the conditions outlined in the smart contract (usually through purchasing
+the token with cryptocurrency) the
+smart contract is automatically
+It will distribute
+the NFT to the purchaser and record the transaction on the
+blockchain.
+A smart contract contains terms of sale – it provides a license, which
+outlines the permitted use of the associated digital
+file. When the purchaser
+executes the contract, the terms are typically grounded in pre-existing IP
+rights and can considerably vary.
+For example, a purchaser is usually not
+granted commercial rights to the digital file attached to the token. Instead,
+the IP rights
+to the associated asset are likely retained by the copyright
+owner, who may be the creator. In a similar situation to other creative
+which are the subject of IP rights, it is only the copyright owner who has the
+right to exercise those rights, including the
+right of reproduction.
+Alternatively, in a rarer number of situations, a token purchaser may be
+granted partial or full commercial rights to their associated
+asset, such as the
+right to exploit derivative works. The licensing of the
+is one such
+example which will be examined as a case study. The next section will unpack
+these issues by starting with a discussion
+linked digital assets under Australian law.
+III AUSTRALIAN
+When considering copyright subsistence in NFTs under Australian law, there
+are several issues to unpack. Again, it is important to
+delineate between
+Subsistence
+in Associated Assets
+When considering whether copyright subsists in an associated asset, there are
+a number of subsistence criteria that must be met and
+if they are satisfied,
+then copyright automatically vests. Firstly, it is necessary to consider how the
+associated asset would be
+classified as subject matter under the
+(Cth) (hereafter ‘
+’). Under the Act,
+works are divided into
+works are those
+which are historically more creative endeavours and fall within the scope of the
+Berne Convention
+incorporates literary, dramatic, musical and artistic
+works include
+more modern works, including sound
+recordings,
+television/sound
+and published
+editions of works.
+associated asset fell under one of these categories, then it may qualify for
+protection, as long as the other subsistence criteria
+Although the scope of subject matter that may be protected through copyright
+is broad, there are some associated assets which would
+likely fall outside of
+included perfume or customisable
+Such subject matter
+falls outside of copyright, but may be covered under other IP protection. Brands
+are increasingly using NFTs
+as another form of innovative revenue, with
+companies such as
+Dolce & Gabbana
+entering the metaverse and/or selling collectable items as tokens.
+For copyright to subsist under Australian law, it is important that an author
+is identifiable, they must have a territorial connection
+and they must
+demonstrate sufficient originality in the creation of the
+These issues will be
+unpacked in greater detail in the next section. As long as the associated asset
+falls within the scope of copyright
+subject matter and all of the subsistence
+criteria are met, copyright would vest separately in the asset. Of note is that
+the author of the associated asset is also the token creator, this means
+that authorship would vest in two different people for two
+different works
+– (1) for the creation of the associated asset; and (2) for the creation
+of the token. This fact is often not
+well understood by the public at large.
+Another issue is whether the token creator has the right to mint a token from
+an associated asset. Sometimes this can be straightforward,
+particularly if the
+associated asset is created or owned by the same person who mints the NFT.
+However, this issue can become complex
+if a copyright-protected work has already
+been licensed for particular uses, or where some rights have already been
+transferred,
+but a license has been retained for a particular use/s. It is
+debatable as to whether the minting of an NFT of an associated work
+covered under pre-existing licenses - terms would need to be closely
+interpreted.
+Subsistence
+As a token primarily comprises of text on the blockchain and can be reduced
+to zeros and ones in its most basic form, its subject
+matter may qualify as a
+literary work under
+However, the arrangement of
+the data underlying the token may be found to lack sufficient arrangement to
+qualify for copyright protection
+– this would require evaluation on a
+case-by-case basis.
+The other subsistence criteria denotes that a literary work must be an
+original work of human
+authorship,
+which is reduced to
+a tangible form by an author (i.e., the token creator or author). This reduction
+to tangible form is the process
+of being made; of being
+When a token creator
+mints their token, they are engaging in a process of reduction to tangible form,
+through the arrangement of
+the code for the smart contract.
+Also, the token creator must have a territorial link to Australia - at the
+time the token is made, as the author, they must be a qualified
+or the first publication
+(i.e., executing the smart contract/placing the token on the blockchain) must
+occur in Australia.
+Act, a qualified person is an Australian citizen or
+If a token became the subject of a judicial subsistence enquiry, it is likely
+that the process of the input of the creator (author)
+in expressing the data in
+a tangible form would be rigorously
+There would be a focus
+upon whether the process contained sufficient original authorial
+‘independent intellectual effort’
+through the expression of the
+arrangement of the token’s
+This is because copyright
+will only protect the
+of data, but not the data itself (i.e.,
+the idea/expression dichotomy).
+It is possible that some tokens may fail to meet this criterion due to a lack of
+established independent intellectual effort in the
+expression of the arrangement
+The future use of artificial intelligence (‘AI’) in token
+creation must also be considered. Unlike the UK’s copyright
+legislation,
+for any type of computer-generated work, the Act does not make provision for the
+author to be considered the person
+by whom the arrangements necessary for the
+creation are undertaken.
+the past ten years, there has been Australian jurisprudence which suggests that,
+if applied to NFTs which are created through
+AI processes, the expression of
+token data may be found to be too far removed from the actions of a
+person/people who arranged those
+processes, due to a lack of human
+‘independent intellectual
+situation, the result is that subsistence will fail for lack of establishing
+sufficient human authorship. As AI continues
+to advance at an astounding
+this is likely to be a
+relevant future issue. If the Act remains the same regarding authorship of
+computer generated works, then
+this matter requires judicial evaluation and is
+heavily fact dependant.
+Under copyright, when the subsistence criteria are sufficiently met, as the
+author of the work, the token creator is conferred a bundle
+of rights. These
+include the right to (1) reproduce the token in material
+(2) publish the
+(3) communicate the token
+to the public;
+and (4) make an
+adaptation of the token,
+is defined as ‘an arrangement or
+transcription.’
+Hypothetically, if any of these rights are infringed, then copyright litigation
+may commence. However, in executing the smart contract,
+the token creator
+decides which of these rights to retain and which to transfer to the purchaser.
+The next section will discuss licensing
+in further detail and will use the
+as a case study.
+of Tokens & the BAYC Case Study
+As previously mentioned, the terms of token licenses vary. Most involve a
+centralised collaboration model, where there is no transfer
+of commercial rights
+for the associated asset. The result is that a purchaser is not permitted to
+commercially exploit the associated
+asset or a derivative
+They can prove ownership
+of their token on the blockchain, but there are no intellectual or property
+rights for the associated asset.
+Under such conditions, in essence, what a token purchaser is buying is the
+right to be recorded on the blockchain as the official
+token owner, the right to
+access/use the associated asset non-commercially and the right to sell the token
+in the future. Interestingly,
+this directly contrasts with the way that NFT
+sales are marketed, which often suggest that tokens are personal property sold
+digital asset. The use of language in marketing often indicates that token
+ownership equates to full proprietary and/or IP ownership
+of the associated
+The issue of token
+marketing will be discussed in the next section.
+On the other end of the licensing spectrum, few token smart contracts use a
+decentralised collaboration license, which allow full
+commercial IP rights to
+derivative works of the associated asset. Such terms are unusual. It means that
+the token purchaser can commercially
+exploit derivative works based on the
+associated asset. The
+is an example. The license grants the
+purchaser an unlimited worldwide license to use, copy and display
+the art for the purpose of creating derivative works, without requiring
+permission from Yuga Labs.
+commercial success of such a business model seems promising. Firstly, the
+initial sale of the
+has exceeded $1 billion in a year and secondly,
+several ape owners have engaged in lucrative commercial projects involving
+include a partnership between music producer Timbaland for a
+metaverse band, the use of the
+to promote NBA basketball shoes, and
+a contract with Universal Music’s 10.22PM label to form a four-ape
+decentralised collaborative licenses become popular for future NFT sales remains
+to be seen.
+Whenever any commercial exploitation is involved, terms will always be
+closely scrutinised. A current example is from the US, involving
+Miramax and
+Quentin Tarantino. In January of 2022, Tarantino sold an NFT linked to a digital
+image of his original hand-written script
+of movie ‘Pulp Fiction’
+for 1.1 million USD.
+Tarantino owned the rights to the original screenplay and Miramax owned the
+rights to the screenplay, Tarantino was sued
+by Miramax for copyright and
+trademark infringement, breach of contract and unfair
+competition.
+Miramax argued that Tarantino did not have the right to mint NFTs, because
+they were captured under the term ‘emerging technology’
+and had been
+assigned to them under the screenplay contract. Tarantino argued that the tokens
+were not captured under those terms
+and therefore it was within his rights to
+mint the tokens from his hand-written screenplay. On 8 September 2022, the
+parties settled
+is uncertain what would have been ruled about the classification of NFTs had the
+case proceeded to trial. This case demonstrates
+that license disputes pertaining
+to terms of IP linked to NFTs will likely be fiercely litigated in the
+Infringement
+and Associated Assets
+As of December 2022, there has not been Australian litigation about the
+Currently, it seems
+unclear as to whether token infringement will become a prevalent future issue.
+It must be remembered that infringement
+can only be found if copyright subsists
+in a work to begin with. When considering subsistence in a token, as has been
+it may be found that this fails, due to insufficient originality
+and/or authorship of the data.
+A more pertinent issue is infringement of an associated asset when minting an
+NFT. Taking an artistic work as an example, it is hypothetically
+possible that a
+digital artist could have an artwork downloaded by an unauthorised person and
+minted on an NFT platform without their
+consent. This highlights a difficult
+issue – proof of authorship/ownership of the associated asset. How do NFT
+platforms know
+whether the associated asset is truly authored or owned by the
+person identified as the author or owner during the minting process?
+are concerned about the fact that their IP can be minted into NFTs by
+unauthorised people. DC and Marvel have issued warnings
+that NFT platforms
+should not mint tokens from their
+An asset which has been reproduced and communicated to the public without
+permission through minting on an NFT platform could amount
+to copyright
+infringement, because these actions would infringe upon an artist/owner’s
+In this situation, the
+artist/owner could litigate for infringement. If an artist’s moral rights
+were also somehow infringed,
+then this could also be litigated.
+as an example, the terms of licence include the right
+for an ape owner to engage in secondary uses and to create derivative works
+they wish. It is, however, hypothetically possible for anyone to run a Google
+ape on the internet and make a copy
+of a cartoon ape via screenshot, or via downloading the image to their computer
+as a JPEG file.
+This JPEG file could also be disseminated online via social
+media. Perpetrating these acts would technically infringe upon a
+owner’s copyright. However, it appears as though such infringing acts are
+often tolerated by token owners, as long as no commercial
+aspect is involved.
+This hypothetical example also highlights how easy the medium of the internet
+makes it to infringe copyright.
+It also raises the issue of the potential
+liability of the role of NFT platforms.
+of NFT Platforms
+As an NFT platform is the means through which a token is displayed,
+published, communicated, disseminated and sold, a relevant issue
+is whether the
+platform could be jointly liable if the rights to an associated asset is
+infringed by a third party user.
+On 23 March 2022, China’s first NFT platform infringement case was
+heard in the Hangzhou Internet Court (a specialised court
+for internet
+litigation).
+The associated
+asset was an artistic work - a cartoon from the popular ‘Fat Tiger’
+series. It depicted a tiger receiving
+a vaccination, which had been linked to an
+NFT and sold on a platform by a third
+The court found that the
+NFT platform had contributorily infringed the plaintiff’s rights to the
+cartoon through dissemination.
+It was ruled that the defendant had to destroy the NFT by sending it to an
+inaccessible address (it is not possible to remove NFTs
+from the blockchain) and
+damages of RMB 4,000 (USD $600) were
+The court emphasised
+the importance of NFT platforms implementing policies to check ownership of IP
+works on their platforms.
+In Australia, the current situation regarding online content platforms
+suggests that they could be held liable for NFTs which infringe
+NFTs which are linked to infringed associated assets. The 2017 case of
+Pokèmon Company International Inc v Redbubble
+’) considered the liability of Redbubble, an
+online marketplace, in relation to copyright infringement of an artistic work,
+as well as violation of Australian Consumer Law. Although this case did not
+pertain to NFTs, the underlying principles would likely
+be applicable in an NFT
+Redbubble allowed third parties to upload images to their website, which
+could then be printed onto products (such as mugs, clothing
+etc) when ordered by
+An unauthorised
+original artistic image of Pikachu belonging to the Pokèmon Company was
+uploaded to the Redbubble site and
+infringement.
+The Federal Court examined Redbubble’s actions in attempting to
+mitigate copyright infringement.
+This included user agreements declaring that the user owned or had permission to
+upload the works, a system of notification of infringing
+content, a take-down
+procedure and a content-monitoring
+After examining these
+methods, the Federal Court found that this was insufficient to mitigate
+Redbubble’s liability. The court
+stated ‘In each case the originator
+was the artist [user] who had placed the image on the Redbubble website.
+Redbubble, however,
+was responsible for determining that content through its
+processes, protocols and arrangements with the
+After analysis, the Federal Court found that Redbubble could have taken other
+steps to have prevented the infringement from occurring,
+but chose not
+Redbubble were found to have
+committed three forms of infringement, including (1) direct infringement through
+communication of the
+infringing works to the
+(2) knowingly exhibiting
+infringing works publicly to engage in
+and (3) indirectly
+infringing through the authorisation of the reproduction of the copyright
+material to manufacture and sell infringing
+The Federal Court rejected the awarding of an injunction and nominal damages
+were set at $1.
+This reflected
+the court’s finding that the
+Company had not
+sufficiently demonstrated that they had truly suffered loss, while taking into
+consideration the methods Redbubble
+used to mitigate infringement. In 2018, an
+appeal and cross appeal was filed, but this has been stayed until after a July
+2022 decision
+was handed down from a trademark infringement case involving
+The court’s analysis and ruling in
+suggest that
+it will be difficult for NFT platforms to argue ignorance of potential
+infringement by users. In Australia, there are
+no safe harbours for commercial
+online content platforms for when their users infringe. As seen in
+, having users agree to terms of service, including an
+agreement not to upload infringing material and/or providing indemnity to the
+NFT platform for infringement or illegal activity, will not necessarily allow
+online platforms to escape
+suggests it is important for NFT platforms to be able to
+prove to the court what measures they implement to mitigate copyright
+infringement.
+The next section will consider whether tokens are considered
+property in their own right.
+Tokens Considered to be Property In
+Their Own Right?
+Having explored the implications of infringement, another issue to ponder is
+whether a token may be considered to be property in its
+own right. As of
+December 2022, there has been no Australian cases directly on-point. However, on
+10 March 2022, the High Court of
+England and Wales passed judgement regarding
+two stolen NFTs.
+The proceedings
+were for a restraining order to prevent the dissipation of the tokens and for a
+Bankers Trust Disclosure Order.
+The Bankers Trust Disclosure Order was against Ozone Networks Inc, a
+peer-to-peer NFT marketplace based in the US, for information
+which would help
+to identify the unknown
+perpetrators.
+The two tokens
+were owned by the claimant, Laviniah Osbourne (‘LO’), a British
+citizen, and were stolen by unknown
+The background was that on 24 September 2021, in exchange for work, LO had
+been gifted some tokens which she stored in her crypto
+Two of these tokens
+represented artworks from the ‘Boss Beauties’ collection, depicting
+career women from a range of
+backgrounds.
+LO’s consent or knowledge, on 17 January 2022, unknown persons illegally
+accessed LO’s wallet and stole these
+tokens, transferring them to two
+other Ozone accounts.
+February 2022, LO discovered they were missing, traced them to the new accounts
+and commenced legal proceedings to freeze the
+accounts and to prevent any
+further transactions of these
+The English High Court found that the claim was a good cause of action,
+despite being lodged against unknown persons – clearly,
+the tokens had
+been defrauded from LO’s
+Because the order
+was directed at unknown persons, an issue that was material to this claim was
+the location of the tokens at the
+time they were
+The court described
+an NFT as ‘a stream of electrons resulting in a credit item to a crypto
+It was found
+that the physical manifestation of a token would likely be where their servers
+were located.
+However, in
+this instance it would have been impossible to litigate on that
+Instead it was found
+appropriate to follow other recent UK decisions involving crypto currency fraud,
+where the location (and therefore
+location of the server, but of the location of the owner’s domicile, which
+was Britain.
+Then, the High
+Court turned attention to the Bankers Trust Disclosure Order against Ozone,
+analysed the requisite tests and found
+this appropriate to
+When considering whether the tokens constituted property, his Honour Pelling
+J stated, ‘I am satisfied on the basis of the submissions
+made on behalf
+of the claimant that there is at least a realistically arguable case that such
+tokens are to be treated as property
+as a matter of English
+The injunction
+against unknown person/s was
+acknowledgement that if it was not, there was a ‘very real risk that these
+assets will be transferred through multiple
+different accounts at great speed,
+and in a way that will make it practically either very difficult, or possibly
+even impossible,
+for the claimant to trace and retrieve her
+Therefore the English High Court acknowledged that such tokens might be
+treated as legal property – a chose in action. This
+means that tokens are
+capable of being owned in their own right and have associated proprietary
+remedies, which allow their owner
+to enforce their rights. If a similar
+situation were to occur in Australia, the outcome may be the same.
+Now that the treatment of tokens as legal property has been analysed, the
+next section will explore the tension between tangible ownership
+rights and the
+licensing of digital goods. It will be seen that the digital environment
+presents interesting tensions when traditional
+proprietary ownership is
+considered in the context of intangible, licensed tokens.
+CHALLENGES AND OPPORTUNITIES FOR THE FUTURE
+Tension Between Tangible Ownership and the
+Licensing of Digital
+Historically, the notion of tangible property ownership spans centuries and
+is a foundation of capitalistic societies. Looking at
+artistic works and real
+estate as examples, it can be seen that the associated rights provide the
+owners/proprietors with a monopoly
+over their work through control. An
+owner’s monopoly rights include the right to use the work, to transfer or
+destroy it, or
+to exclude others from using it.
+Monopoly rights stem from the idea that the owner ought to be incentivised
+for investing in/creating that property, by receiving benefits
+from exploiting
+their rights. These rights have their origins in a non-technological era through
+Lockean justification,
+an owner exercises control over their work through exclusive possession and the
+right to sell that item, make a copy of it,
+destroy it etc. Because of the
+nature of tangible property, this involves a physical asset, which is
+controllable due to its exclusivity.
+When the asset is acquired and possessed, others are prevented from
+exercising control over that asset. A one-to-one relationship
+exists between the
+owner and the item, although there may be different categories of co-ownership
+involved. An analogy here can be
+made to a famous work of modern art, which
+hangs in a gallery – there is only one, authentic original, the monopoly
+is exercised through possession. Ownership of the original is clearly
+delineated through physical possession. If reproductions of
+the art are made,
+despite looking like the artwork, they are not the original. Nor may the owner
+who buys a reproduction claim ownership
+of the original, authentic work.
+When considering a tangible good, there are two different forms of property
+rights that might be controlled: (1) the property rights
+in the tangible item
+itself (i.e., the form of physical possession and control that can be exerted
+over the item) and (2) the IP
+rights that exist if the item is a work which
+falls under copyright. Taking the modern art example, (1) the property rights
+in the art itself as it hangs in the gallery. The art is possessed by a
+gallery and they exercise physical possession and control
+over it. (2) Secondly,
+there is a separate bundle of IP rights which vest in the owner of the work.
+Depending on the conditions of
+sale, this might be the gallery, or the artist.
+The artist would also possess moral rights attached to the art, which remain a
+personhood right for as long as copyright subsists and which cannot be
+sold. These rights are for attribution of
+authorship;
+against false
+attribution
+and for integrity
+of authorship.
+However, for any intangible, digital items which tokens are attached to, the
+tangible property rights of ownership do not exist in
+these works to begin with.
+Digital items cannot be possessed or appropriated in the same way as tangible
+items are, because by their
+very nature, they are intangible. Such items exist
+in an online environment and in their most basic format, they can be reduced to
+zeros and ones – to data, or information. Under Australian law, a tangible
+property right simply cannot vest in information.
+This means that the only rights that intangible items are likely to possess
+are IP rights, as has been explored in Section III. Whether
+such items exist as
+a digital artwork connected to a token, or as a piece of virtual property in the
+metaverse, it is fascinating
+that many people who purchase such items feel a
+sense of tangible possessory ownership over the item. This feeling of possession
+and ownership is akin to physically possessing a tangible good in the physical
+world. However, the reality is that this type of digital
+ownership can never
+truly be the same as physical ownership, due to the differences in medium. A
+person simply cannot possess an
+intangible work in an identical way to a
+tangible work due to its very nature. Although there is constant innovation in
+technology,
+it is currently impossible for digital items to replicate exactly
+the same property rights as tangible goods.
+Kudos and the Emergence of a New Type of
+Meta-Property Right
+The expectations of token purchasers and the reality of what they purchase
+are very different. The reality is that, under some smart
+contracts, when a
+purchaser believes that they ‘own’ an NFT, they do not
+‘own’ or possess the item at
+Instead, there are
+restrictive conditions, which, at the most, allow access to and personal use of
+the digital asset associated with
+the token. In most situations, the purchaser
+will not be granted any commercial IP rights to the associated asset –
+such rights
+are likely to be retained by the copyright owner.
+Of note here is that the marketing and branding of NFTs, often use words
+which denote physical ownership akin to a chose in action,
+rather than admitting
+that limited rights are instead licensed. However, many token creators market
+their tokens as personal property,
+when in reality, tokens are licensed (and
+would be litigated) under IP laws. When tokens are sold, what is often
+deliberately not
+emphasised is the fact that the digital items associated with
+the token cannot ever be truly possessed in the same way as a physical
+Instead, this myth of NFT ownership is perpetuated as being identical to
+physical possession, when in reality, often what a
+purchaser is granted are
+limited rights of access and personal use. The price that purchasers are willing
+to pay is usually for the
+opportunity to proclaim to the world at large that
+they ‘own’ the token, as affirmed by the blockchain, which gives
+access to the associated file. This is a type of kudos – a type of
+‘digital kudos’– and the price that some
+have been willing to
+pay for this has been staggering. What should also be noted is that when a
+person’s identity is usually
+logged on the blockchain, it is not by their
+identifiable name, but by a string of unique numbers or letters, known as the
+so it is not usually easy to identify a
+The reason for the perpetuation of this proprietary ownership myth of tokens
+is that sales can be highly profitable. Purchasers are
+more likely to buy a
+token if they can claim that they ‘own’ it, similar to owning and
+possessing a rare vintage Smurf
+or fine artwork, rather than conceding that all
+they have paid for is a license, often for limited, non-commercial rights.
+V CONCLUSION
+Having explored what constitutes creation, ownership and infringement of an
+NFT, this begs the question as to whether new forms of
+ownership will eventually
+be developed, particularly as humanity increasingly transitions into virtual
+environments such as the metaverse.
+The digital environment is already a place
+of entertainment, socialisation, work and commerce.
+NFT usage is representative of the shift in global economies from the
+tangible to the intangible.
+When global NFT productivity began in earnest, it was speculated that this would
+promote a substantial shift in the application of
+To-date, this has
+not occurred. Instead, what has happened is that tokens have become another
+method to promote the commercialisation
+of digital items through pre-existing IP
+However, the fact
+that the business of NFTs has boomed around the world appears to suggest that
+there has been a subtle shift in
+purchasers’ thinking. There appears to
+have been an acceptance of the differences in the concept of ownership regarding
+items and the differences in property rights that digital ownership
+entails, as compared to tangible items.
+Instead of needing to display a monopoly right over a work through physical
+possession and control, many NFT purchasers appear satisfied
+with claiming
+prized ownership on the blockchain by paying for what amounts to limited
+non-commercial rights under license. The fact
+is, that in many situations, token
+owners do not physically possess and control the digital item attached to their
+token in the same
+way as they could a tangible good. As global NFT sales
+continue to soar and the metaverse expands, it appears as though this virtual
+ownership right – what could be termed a type of meta-property right
+– is being heavily utilised and accepted in the
+marketing of NFT and
+digital asset sales.
+Concurrently, what is fascinating is that there appears to be a shift in
+collective consciousness about the notion of copying digital
+items such as
+tokens. Acts which technically infringe upon a token owner’s copyright are
+being tolerated, as long as no commercial
+aspect is involved. Activities such as
+reproduction and dissemination, that were once viewed as a major threat to
+innovation are
+often viewed as concepts that are acceptable as part of the
+creative activities of
+This collective
+shift in thinking has resulted in some NFTs adopting Creative Common licences,
+therefore by-passing copyright
+altogether.
+Although it is
+beyond the scope of this article, the development of tokens through Creative
+Commons will be an issue to watch with
+interest in the future, as will other
+licensing initiatives that promote collaboration, such as ‘can’t be
+Recent academic commentary has suggested that in marketing tokens, there
+ought to be a characterisation of tokens as choses in action
+(as occurred in the
+UK) rather than relying upon intellectual property and terms of
+This would result
+in the NFT purchaser being permitted a full bundle of property rights - to
+‘use, benefit from, capture the
+rise in value from, and otherwise benefit
+from the social value of being the owner of the
+However, this
+prospect will likely generate extensive debate by those whose interests are at
+In Australia, it will be interesting to observe whether, in the future,
+licensing will continue to primarily be used to determine
+the rights relating to
+ownership and use of tokens and their associated assets, or whether a new type
+of legal framework or regulatory
+regime will emerge. As the technology
+underlying tokens continues to develop, there is tremendous potential for new
+uses and innovation.
+As this article has explored, NFTs have the capacity to
+challenge and shift traditional notions of ownership and the limits of this
+trend are currently unknown. As to whether and how copyright responds remains to
+Lecturer, University of New
+England, Armidale, Australia. This article was developed from a presentation
+given online at the
+Asian Pacific Copyright Association 2022 Conference
+(National University of Singapore) 14 November 2022. The author can be contacted
+at wpotter2@une.edu.au.
+See generally, Daren Tang,
+‘The Future of Intellectual Property and WIPO in a Time of Crisis and
+Opportunity’ (2022) 32
+Australian Intellectual Property Journal
+Elizabeth Howcroft,
+NFT Sales Hit $25 Billion in 2021, But Growth Shows Signs of Slowing
+Page, 12 January 2022)
+<https://www.reuters.com/markets/europe/nft-sales-hit-25-billion-2021-growth-shows-signs-slowing-2022-01-10/>.
+Note: data was taken from market tracker DappRadar.
+Cambridge University Press,
+Cambridge Advanced Learner’s Dictionary and Thesaurus, Fungible
+(Web Page, 19 October 2022)
+<https://dictionary.cambridge.org/dictionary/english/fungible>.
+Cambridge University Press,
+Cambridge Advanced Learner’s Dictionary and Thesaurus, Non-Fungible
+(Web Page, 19 October 2022)
+<https://dictionary.cambridge.org/dictionary/english/non-fungible-token>.
+Logan Kugler,
+‘Non-Fungible Tokens and the Future of Art’ (2021) 64(9)
+Communications of the ACM
+19, 20. Also see generally, Michael D Murray,
+‘NFTs Rescue Resale Royalties? The Wonderfully Complicated Ability of NFT
+Contracts to Allow Resale Royalty Rights’ (July 15, 2022). Available
+at SSRN: <https://ssrn.com/abstract=4164029> or
+http://dx.doi.org/10.2139/ssrn.4164029
+See generally, Jessica Bookout,
+et al, 'A Brief Introduction to Digital Art & Blockchain' (2019) 37(3)
+Cardozo Arts & Entertainment Law Journal
+Joshua A T Fairfield,
+‘Tokenized: The Law of Non-Fungible Tokens and Unique Digital
+Property’ (2022) 97(4)
+Indiana Law Journal
+1261, 1262.
+Kent Barton, ‘New
+Frontiers, Enter the Metaverse: Challenges and Opportunities in NFTs’
+(Shapeshift Report, 29 May 2021)
+PAK’s NFT Artwork ‘The Merge’ Sells for $91.8
+Million – PENTA
+(Web Page, 7 December 2021)
+<https://www.barrons.com/articles/paks-nft-artwork-the-merge-sells-for-91-8-million-01638918205>.
+Jacob Kastrenakes,
+Sold a NFT for $69 Million – The Verge
+(Web Page, 12 March 2021)
+<https://www.theverge.com/2021/3/11/22325054/beeple-christies-nft-sale-cost-everydays-69-million>.
+Elizabeth Howcroft,
+Reuters: NFT Sales Hit $25 Billion in 2021, But Growth Shows Signs of
+(Web Page, 12 January 2022)
+<https://www.reuters.com/markets/europe/nft-sales-hit-25-billion-2021-growth-shows-signs-slowing-2022-01-10/>.
+Alex Wilhelm and Anna Heim,
+Are We Entering a NFT Downturn – TechCrunch
+(Web Page, 11 March
+<https://techcrunch.com/2022/03/10/are-we-entering-an-nft-downturn/>.
+Jeff Kauflin,
+Dorsey’s First-Tweet NFT Plummeted 99% In Value in a Year, Forbes
+Page, 14 April 2022)
+<https://www.forbes.com/sites/jeffkauflin/2022/04/14/why-jack-dorseys-first-tweet-nft-plummeted-99-in-value-in-a-year/?sh=525d80ef65cb>.
+Jack Dorsey,
+Just setting
+up my twttr - Twitter
+(Web Page, 21 March 2006)
+<https://twitter.com/jack/
+status/20>.
+Kauflin (n 19).
+Logan Kugler,
+‘Non-Fungible Tokens and the Future of Art’ (2021) 64(9)
+Communications of the ACM
+NFT’s most popular with celebrities like Madonna and Paris Hilton –
+Proactive Investor UK
+(Web Page, 24 June 2022)
+<https://www.proactiveinvestors.co.uk/companies/news/985805/bored-ape-nft-s-most-popular-with-celebrities-like-madonna-and-paris-hilton-985805.html>.
+Nate Kostar,
+Paris Hilton
+Announces BAYC #1294 Purchase on the Tonight Show – Rarity Sniper News
+(Web Page, January 2022)
+<https://raritysniper.com/news/paris-hilton-announces-bayc-1294-purchase-on-the-tonight-show/>.
+The Tonight Show With Jimmy
+Fallon, ‘Paris Hilton Surprises Tonight Show Audience Members By Giving
+Them Their Own NFTs’
+(YouTube, 25 January 2022) 00:04:25-00:04:55
+<https://www.youtube.com/watch?v=5zi12wrh5So&t=386s>.
+Ibid 00:04:55-00:05:22.
+Rebecca Carroll,
+‘NFTs: The Latest Technology Challenging Copyright Law's Relevance within
+a Decentralized System’ (2022)
+Fordham Intellectual Property,
+Media & Entertainment Law Journal
+Shaan Ray, ‘NFTs and
+Smart Contracts – LinkedIn’ (Web Page, 19 May 2021)
+<https://www.linkedin.com/
+pulse/nft-smart-contracts-shaan-ray-mba>.
+Fairfield, (n 8) 1290.
+Ray (n 29).
+Justine Calma,
+Climate Controversy Swirling Around NFTs – the Verge
+(Web Page, 16
+March 2021)
+<https://www.theverge.com/2021/3/15/22328203/nft-cryptoart-ethereum-blockchain-climate-change>.
+Ethereum Inc,
+Non-Fungible Tokens (NFT)
+(Web page, 25 October 2022)
+<https://ethereum.org/en/nft/>.
+John Locke,
+Treatise on Government
+Statute of Anne 1710
+(UK) 8 Anne, c
+19; Hettinger, ‘Justifying Intellectual Property’ (1989) 18(1)
+Philosophy & Public Affairs
+Ethereum Inc (n 34).
+Ray (n 29).
+Berne Convention for the
+Protection of
+and Artistic Works
+, opened for signature 9
+1886, 943 UNTS, 178
+’. The UK signed
+on behalf of its dominions (including Australia) on 5 December 1887.
+formally entered into force in Australia on 1 March 1978 and the US
+on 1 March 1989.
+Ibid ss 85 and 89.
+Ibid ss 86 and 90.
+Ibid ss 87 and 91.
+Ibid ss 88 and 92.
+Chris Williams,
+Bought RTFKT. Now Its NFTs Are Trading at a Premium
+(Web Page, 15 December
+<https://cryptobriefing.com/nike-bought-nft-now-its-nfts-are-trading-premium/>.
+ss 32(1)(a),
+IceTV Pty Limited v Nine
+Network Australia Pty Limited
+(2009) 239 CLR 458
+[47]–[48] (Gummow, Hayne and Heydon JJ) (‘
+Sands & McDougall Pty
+Ltd v Robinson
+[1917] HCA 14
+(1917) 23 CLR 49
+, 55 (Issacs J);
+Desktop Marketing
+(2002) 119 FCR 491 532 [160(2)] (Lindgren J), 593 [409] (Sackville J)
+Desktop Marketing
+[33]–[34] (French CJ, Crennan and Kiefel JJ);
+Telstra Corporation
+Limited v Phone Directories Company Pty Ltd
+[2010] FCAFC 149
+(2010) 194 FCR 142
+, 172 [100]
+(Perram J) (‘
+Telstra Appeal
+Ibid s 32(1)(a).
+Ibid s 32(2)(c).
+Ibid s 32(4).
+Neal F Burstyn,
+‘Creative Sparks: Works of Nature, Selection, and the Human Author’
+(2015) 39(2)
+Columbia Journal of Law & the Arts
+281, 299-303.
+478–9 [47]–[48] (Gummow, Hayne and Heydon JJ).
+Agreement on
+Trade-Related Aspects
+of Intellectual Property Rights
+signature 15 April
+1994, 1869 UNTS 299
+(entered into force 1 January 1995) art 9
+’); Omri Rachum-Twaig, ‘A Genre Theory
+of Copyright’ (2016) 33(1)
+Santa Clara High Technology Law Journal
+Patents Act 1988
+(UK) (ch 48) s 9(3).
+[33], 479 [48] and 494–5 [99] (French CJ, Crennan and Kiefel JJ);
+Telstra Corporation Limited v Phone Directories Company Pty Ltd
+[2010] FCA 44
+264 ALR 617
+, 685 [344] (Gordon J);
+Dynamic Supplies Pty Limited v Tonnex
+International Pty Limited
+[2011] FCA 362
+(2011) 91 IPR 488
+, 500 [49] (Yates J);
+Data Pty Ltd v Prozone Sports Australia Pty Ltd Sports Data Pty Ltd v Prozone
+Sports Australia Pty
+[2014] FCA 595
+(2014) 107 IPR 1
+, 13 [74], 14 [76] (Wigney J).
+Courtney White and Rita
+Matulionyte, ‘Artificial Intelligence: Painting the Bigger Picture for
+Australian Intellectual Property
+224, 224-228.
+31(1)(a)(i).
+31(1)(a)(ii).
+Ibid s 31(1)(a)(iv).
+Ibid s 31(1)(a)(vi).
+Fairfield (n 8) 1298.
+Farah Mukaddam,
+Intellectual Property Rights – Norton Rose Fulbright
+October 2021)
+<https://www.nortonrosefulbright.com/en/knowledge/publications/1a1abb9f/nfts-and-intellectual-property-rights>.
+Edward Lee,
+The Bored Ape
+Business Model: De-centralized Collaboration via Blockchain and NFTs
+16 November 2021)
+<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963881>.
+Pulp Fiction
+NFT Lawsuit (Miramax V. Tarantino, Et Al.): A Preview Of Coming
+Attractions
+(Web Page, 25 July 2022)
+<https://www.forbes.com/sites/legalentertainment/2022/07/25/pulp-fiction-nft-lawsuit-miramax-v-tarantino-et-al-a-preview-of-coming-attractions/?sh=9921fc6ca24d>.
+Miramax LLC v Quentin
+Tarantino and Visiona Romantica Inc
+(United States District Court, Central
+District of California, Case No. 2:21-cv-08979).
+Ibid, Notice of
+Settlement.
+Sunny Kumar, Georgina Rigg
+and Kira Green,
+The NFT Collection: The Rise of NFTs – Copyright
+Strikes Back? (Part 3) – K & L Gates
+(Web Page, 7 July 2022)
+<https://www.natlawreview.com/article/nft-collection-rise-nfts-copyright-strikes-back-part-3>.
+Adarsh Vjayakumaran,
+‘NFTs and Copyright Quandary’ (2021) 12(5)
+Intellectual Property, Information Technology and Electronic Commerce Law
+402, 410 [34].
+Shenzhen Qicedie Cultural
+Creativity Company Ltd v Hangzhou Yuanyuzhou Technology Company Limited
+(2022) Zhe 0192 Minchu No. 1008. Translation provided by TaylorWessing.
+[2017] FCA 1541
+(2017) 351 ALR 676 (Pagone
+Ibid 679 [5].
+Ibid 691-693 [32]-[35].
+Ibid 679 [6].
+Ibid 682-3 [15], 710-714
+Ibid 701 [48].
+Ibid 714 [67].
+Ibid 699-702 [45](a)-[49],
+contravening s 36 of the Act.
+Ibid 699 [45](b), 702-704
+[50]-[54] contravening s 132AG of the Act.
+Ibid 699 [45](c), 704-709
+Ibid 719, Orders.
+Hells Angels Motorcycle
+Corp (Australia) Pty Ltd v Redbubble Ltd (No 5)
+[2022] FCA 837 (Greenwood
+Lavinia Deborah Osbourne
+v Persons Unknown, Ozone
+[2022] EWHC 1021 (Comm)
+(Pelling J).
+Ibid [3]-[4].
+Ibid [8]-[10].
+Ibid [12]-[13].
+Ibid [15], following
+Ion Science Limited v Persons Unknown & Others (Unreported)
+(Comm) [15] (Butcher J).
+Ibid [32]-[55].
+Justin Hughes, ‘The
+Philosophy of Intellectual Property’ (1988 –
+Law Journal
+Ibid pt IX div 3.
+Ibid pt IX div 4.
+Capitol Records v
+, 910 F 3d 649, 659-660 (2
+Cir, 2018).
+Andrew Guadamuz,
+‘The Treachery of Images: Non-Fungible Tokens and Copyright’ (2021)
+Journal of Intellectual Property Law & Practice
+Tang (n 2) 205.
+See generally, Ifeanyi E
+Okonkwo, ‘NFT, Copyright and Intellectual Property
+Commercialization’ (2021) 29
+International Journal of Law and
+Information Technology
+Edward Lee, ‘NFTs
+As Decentralized Intellectual Property’ (Forthcoming) 2023
+of Illinois Law Review
+Ibid 46. Also see
+generally, Molly Marias, ‘I Want My NFT!: How a NFT Creative Commons
+Parallel Would Promote NFT Viability
+and Decrease Transaction Costs in NFT
+Sales’ (Forthcoming) 12(1)
+NYU Journal of Intellectual Property &
+Entertainment Law.
+Lee (n 121) 47.
+Fairfield (n 8)
+Lawrence J Trautman,
+‘Virtual Art and Non-Fungible Tokens’ (2022) 50(2)
+Hofstra Law
+361, 424-425.
+Print (pretty)
+Print (eco-friendly)
+RTF format (394 KB)
+PDF format (404 KB)
+LawCite records
+NoteUp references
+Join the discussion
+Tweet this page
+Follow @AustLII on Twitter
