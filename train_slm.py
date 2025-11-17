@@ -87,8 +87,7 @@ def main():
     MAX_SEQUENCE_LENGTH = 512
     
     # Training hyperparameters
-    # Using 1 epoch for quick end-to-end test (change to 5 for full training)
-    NUM_EPOCHS = 1
+    NUM_EPOCHS = 5
     LEARNING_RATE = 2e-5
     BATCH_SIZE = 4
     GRADIENT_ACCUMULATION_STEPS = 4  # Effective batch size = 4 * 4 = 16

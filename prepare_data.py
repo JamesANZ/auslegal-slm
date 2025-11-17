@@ -37,7 +37,7 @@ def load_legal_documents(data_dir: str) -> List[str]:
     
     for file_path in txt_files:
         try:
-            with open(file_path, 'r', encoding='utf-8') as f:
+            with open(file_path, 'r', encoding='utf-8', errors='replace') as f:
                 content = f.read().strip()
             
             # Files should already be cleaned, so just load the content
@@ -47,8 +47,11 @@ def load_legal_documents(data_dir: str) -> List[str]:
             else:
                 print(f"  Skipping short document: {file_path.name} ({len(content)} chars)")
                 
+        except UnicodeDecodeError as e:
+            print(f"  Error decoding {file_path.name}: {e} (skipping)")
+            continue
         except Exception as e:
-            print(f"  Error reading {file_path.name}: {e}")
+            print(f"  Error reading {file_path.name}: {e} (skipping)")
             continue
     
     print(f"Loaded {len(documents)} valid documents")
@@ -121,7 +124,9 @@ def tokenize_documents(
                 # Only add if it's the last window and has reasonable length
                 if len(window) > 50:  # Minimum meaningful length
                     padding_length = max_length - len(window)
-                    window = window + [tokenizer.pad_token_id] * padding_length
+                    # Ensure pad_token_id is set
+                    pad_token_id = tokenizer.pad_token_id if tokenizer.pad_token_id is not None else tokenizer.eos_token_id
+                    window = window + [pad_token_id] * padding_length
                 else:
                     break
             

@@ -199,9 +199,25 @@ def get_database_links(driver):
         traceback.print_exc()
         return []
 
-def get_document_links(driver, database_url):
-    """Get links to individual documents from a database page."""
-    print(f"  Fetching documents from {database_url}...")
+def get_document_links(driver, database_url, depth=0, max_depth=5):
+    """
+    Get links to individual documents from a database page.
+    
+    Args:
+        driver: Selenium WebDriver instance
+        database_url: URL of the database page
+        depth: Current recursion depth (default: 0)
+        max_depth: Maximum recursion depth to prevent stack overflow (default: 5)
+    
+    Returns:
+        List of document URLs
+    """
+    # Prevent infinite recursion
+    if depth >= max_depth:
+        print(f"    Maximum depth ({max_depth}) reached for {database_url}, stopping recursion")
+        return []
+    
+    print(f"  Fetching documents from {database_url}... (depth: {depth})")
     try:
         driver.get(database_url)
         time.sleep(2)  # Wait for page to load
@@ -272,7 +288,7 @@ def get_document_links(driver, database_url):
             if BASE_URL in next_url and next_url != database_url:  # Avoid infinite loops
                 # Recursively get more documents (with limit and depth check)
                 if len(document_links) < MAX_DOCUMENTS_PER_DATABASE:
-                    more_links = get_document_links(driver, next_url)
+                    more_links = get_document_links(driver, next_url, depth=depth + 1, max_depth=max_depth)
                     document_links.update(more_links)
                     if len(document_links) >= MAX_DOCUMENTS_PER_DATABASE:
                         break

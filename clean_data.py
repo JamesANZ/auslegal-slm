@@ -102,7 +102,7 @@ def clean_legal_text(text: str) -> str:
     return cleaned_text.strip()
 
 
-def clean_data_file(file_path: Path) -> bool:
+def clean_data_file(file_path: Path) -> tuple[bool, bool]:
     """
     Clean a single data file in place.
     
@@ -110,11 +110,13 @@ def clean_data_file(file_path: Path) -> bool:
         file_path: Path to the file to clean
         
     Returns:
-        True if file was cleaned successfully, False otherwise
+        Tuple of (success: bool, was_error: bool)
+        - success: True if file was cleaned successfully, False otherwise
+        - was_error: True if an exception occurred, False if just skipped (too short)
     """
     try:
-        # Read original file
-        with open(file_path, 'r', encoding='utf-8') as f:
+        # Read original file with error handling for encoding issues
+        with open(file_path, 'r', encoding='utf-8', errors='replace') as f:
             original_content = f.read()
         
         # Clean the content
@@ -123,17 +125,17 @@ def clean_data_file(file_path: Path) -> bool:
         # Skip if cleaned content is too short (likely an error or empty page)
         if len(cleaned_content) < 100:
             print(f"  Skipping {file_path.name}: cleaned content too short ({len(cleaned_content)} chars)")
-            return False
+            return False, False  # Not an error, just skipped
         
         # Write cleaned content back
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write(cleaned_content)
         
-        return True
+        return True, False  # Success, no error
         
     except Exception as e:
         print(f"  Error cleaning {file_path.name}: {e}")
-        return False
+        return False, True  # Failed due to error
 
 
 def main():
@@ -163,13 +165,16 @@ def main():
     error_count = 0
     
     for i, file_path in enumerate(txt_files, 1):
-        if clean_data_file(file_path):
+        success, was_error = clean_data_file(file_path)
+        if success:
             cleaned_count += 1
+        elif was_error:
+            error_count += 1
         else:
             skipped_count += 1
         
         if (i % 100 == 0) or (i == len(txt_files)):
-            print(f"  Progress: {i}/{len(txt_files)} files processed ({cleaned_count} cleaned, {skipped_count} skipped)")
+            print(f"  Progress: {i}/{len(txt_files)} files processed ({cleaned_count} cleaned, {skipped_count} skipped, {error_count} errors)")
     
     print()
     print("=" * 80)

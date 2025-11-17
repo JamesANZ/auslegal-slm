@@ -8,7 +8,7 @@ This project implements a Small Language Model (SLM) by fine-tuning DistilGPT2 (
 
 ### What This Is
 
-- ✅ **A true SLM**: Fine-tuning DistilGPT2 on the legal corpus *is* training a small language model - the model weights are updated during training
+- ✅ **A true SLM**: Fine-tuning DistilGPT2 on the legal corpus _is_ training a small language model - the model weights are updated during training
 - ✅ **Domain-adapted**: Domain knowledge is internalized in the model parameters (unlike RAG which relies on external document retrieval)
 - ✅ **Standalone**: This is fundamentally different from RAG - no external retrieval at inference time
 - ✅ **Learns patterns**: The model learns legal terminology, citation patterns, reasoning structures, and domain-specific syntax from the training corpus
@@ -16,7 +16,7 @@ This project implements a Small Language Model (SLM) by fine-tuning DistilGPT2 (
 ### What This Is Not
 
 - ⚠️ **Not trained from scratch**: DistilGPT2 still retains its original pre-training on a large generic corpus; fine-tuning adapts it to the legal domain rather than replacing its prior knowledge
-- ⚠️ **Not hallucination-proof**: Fine-tuning *reduces* general-domain hallucinations by biasing toward legal text, but does **not** prevent hallucinations entirely
+- ⚠️ **Not hallucination-proof**: Fine-tuning _reduces_ general-domain hallucinations by biasing toward legal text, but does **not** prevent hallucinations entirely
 - ⚠️ **Not a replacement for legal advice**: This is a research/educational tool for exploring domain-specific language modeling
 
 ## Architecture
@@ -46,17 +46,20 @@ This project implements a Small Language Model (SLM) by fine-tuning DistilGPT2 (
 ### Setup
 
 1. Clone or navigate to this repository:
+
 ```bash
 cd auslegal-slm
 ```
 
 2. Create a virtual environment (recommended):
+
 ```bash
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
 3. Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -72,6 +75,7 @@ python clean_data.py
 ```
 
 This script:
+
 - Processes all `.txt` files in the `data/` directory
 - Strips metadata headers (URL, scraped date, separators)
 - Removes navigation/UI elements and irrelevant text
@@ -89,6 +93,7 @@ python prepare_data.py
 ```
 
 This script:
+
 - Loads all cleaned `.txt` files from the `data/` directory
 - Tokenizes documents into fixed-length sequences (512 tokens)
 - Splits into training (90%) and validation (10%) sets
@@ -105,6 +110,7 @@ python train_slm.py
 ```
 
 **Training Configuration**:
+
 - Epochs: 5
 - Learning rate: 2e-5
 - Batch size: 4 (effective: 16 with gradient accumulation)
@@ -113,7 +119,8 @@ python train_slm.py
 
 **Output**: Trained model saved to `models/legal_slm/`
 
-**Training Time**: 
+**Training Time**:
+
 - CPU: Several hours (depending on corpus size)
 - GPU: 30-60 minutes (depending on GPU)
 
@@ -149,6 +156,7 @@ python query_slm.py \
 ```
 
 **Parameters**:
+
 - `--model-dir`: Path to fine-tuned model (default: `models/legal_slm`)
 - `--question`: Single question to ask
 - `--temperature`: Sampling temperature, 0.0-1.0 (lower = more deterministic, default: 0.4)
@@ -159,6 +167,7 @@ python query_slm.py \
 ### Data Format
 
 Legal documents are stored as plain text files with the following structure:
+
 ```
 URL: https://www.austlii.edu.au/...
 Scraped: YYYY-MM-DD HH:MM:SS
@@ -226,7 +235,8 @@ The following strategies are employed to reduce hallucinations and off-domain co
 - **Prompt engineering**: Prompts explicitly reference "Australian legal documents"
 - **Manual monitoring**: Test prompts should be used to detect off-domain or invented content
 
-**Important Note**: Fine-tuning and decoding settings *reduce* hallucinations and off-domain content but **cannot guarantee their absence**. The model may still:
+**Important Note**: Fine-tuning and decoding settings _reduce_ hallucinations and off-domain content but **cannot guarantee their absence**. The model may still:
+
 - Generate plausible-sounding but incorrect legal information
 - Mix general knowledge with legal domain knowledge
 - Produce responses that don't directly cite the training corpus
@@ -273,6 +283,7 @@ For learning and comparison purposes, additional training approaches can be impl
 - **Tiny transformer from scratch**: Fully custom transformer trained only on legal corpus
 
 These can be compared on:
+
 - Training time
 - Validation loss/perplexity
 - Qualitative sample quality
@@ -329,4 +340,3 @@ If you use this code or model, please cite:
 - Legal documents scraped from [AustLII](https://www.austlii.edu.au/)
 - Model architecture based on [DistilGPT2](https://huggingface.co/distilgpt2) by Hugging Face
 - Built with [Transformers](https://huggingface.co/docs/transformers) library
-

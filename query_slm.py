@@ -7,6 +7,7 @@ Interactive CLI for querying the fine-tuned legal SLM.
 
 import os
 import sys
+import re
 import torch
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 
@@ -35,6 +36,33 @@ class LegalSLM:
         
         print("Model loaded successfully!")
     
+    def _sanitize_input(self, text: str, max_length: int = 1000) -> str:
+        """
+        Sanitize user input to prevent prompt injection and ensure reasonable length.
+        
+        Args:
+            text: Input text to sanitize
+            max_length: Maximum allowed length
+            
+        Returns:
+            Sanitized text
+        """
+        if not text or not isinstance(text, str):
+            raise ValueError("Question must be a non-empty string")
+        
+        # Remove potentially harmful patterns (basic prompt injection prevention)
+        # Remove control characters except newlines and tabs
+        text = re.sub(r'[\x00-\x08\x0b-\x0c\x0e-\x1f]', '', text)
+        
+        # Limit length
+        text = text[:max_length].strip()
+        
+        # Minimum meaningful length check
+        if len(text) < 10:
+            raise ValueError("Question is too short. Please provide a more detailed question.")
+        
+        return text
+    
     def generate_answer(
         self,
         question: str,
@@ -55,9 +83,21 @@ class LegalSLM:
             
         Returns:
             Generated answer text
+            
+        Raises:
+            ValueError: If question is invalid or too short
         """
+        # Validate and sanitize input
+        sanitized_question = self._sanitize_input(question)
+        
+        # Validate generation parameters
+        if not (0.0 <= temperature <= 2.0):
+            raise ValueError("Temperature must be between 0.0 and 2.0")
+        if max_length < 1 or max_length > 1000:
+            raise ValueError("max_length must be between 1 and 1000")
+        
         # Build prompt
-        prompt = f"Based on Australian legal documents, answer the following.\n\nQuestion: {question}\nAnswer:"
+        prompt = f"Based on Australian legal documents, answer the following.\n\nQuestion: {sanitized_question}\nAnswer:"
         
         # Tokenize prompt
         inputs = self.tokenizer.encode(prompt, return_tensors='pt')
@@ -85,7 +125,12 @@ class LegalSLM:
             answer = full_response.split("Answer:")[-1].strip()
         else:
             # Fallback: return everything after the prompt
-            answer = full_response[len(prompt):].strip()
+            # Safety check: ensure prompt is not longer than response
+            if len(prompt) <= len(full_response):
+                answer = full_response[len(prompt):].strip()
+            else:
+                # If prompt is longer (shouldn't happen, but handle gracefully)
+                answer = full_response.strip()
         
         return answer
     
@@ -109,15 +154,23 @@ class LegalSLM:
                     continue
                 
                 print("\nGenerating answer...")
-                answer = self.generate_answer(question)
-                print(f"\nAnswer: {answer}\n")
-                print("-" * 80)
+                try:
+                    answer = self.generate_answer(question)
+                    print(f"\nAnswer: {answer}\n")
+                except ValueError as e:
+                    print(f"\nInvalid input: {e}\n")
+                    print("Please try again with a valid question.\n")
+                except torch.cuda.OutOfMemoryError:
+                    print("\nError: GPU out of memory. Try reducing max_length or restarting.\n")
+                except Exception as e:
+                    print(f"\nUnexpected error: {e}\n")
+                    print("Please try again or contact support if the issue persists.\n")
+                finally:
+                    print("-" * 80)
                 
             except KeyboardInterrupt:
                 print("\n\nGoodbye!")
                 break
-            except Exception as e:
-                print(f"\nError: {e}\n")
 
 
 def main():
@@ -179,13 +232,20 @@ def main():
     
     # Single question or interactive mode
     if args.question:
-        answer = slm.generate_answer(
-            args.question,
-            temperature=args.temperature,
-            max_length=args.max_length
-        )
-        print(f"\nQuestion: {args.question}")
-        print(f"Answer: {answer}\n")
+        try:
+            answer = slm.generate_answer(
+                args.question,
+                temperature=args.temperature,
+                max_length=args.max_length
+            )
+            print(f"\nQuestion: {args.question}")
+            print(f"Answer: {answer}\n")
+        except ValueError as e:
+            print(f"Error: {e}")
+            sys.exit(1)
+        except Exception as e:
+            print(f"Unexpected error: {e}")
+            sys.exit(1)
     else:
         slm.interactive_query()
 
