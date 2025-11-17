@@ -318,23 +318,15 @@ If you use this code or model, please cite:
 ```bibtex
 @software{auslegal_slm,
   title = {Australian Legal Small Language Model},
-  author = {Your Name},
+  author = {James Sangalli},
   year = {2025},
-  url = {https://github.com/yourusername/auslegal-slm}
+  url = {https://github.com/JamesANZ/auslegal-slm}
 }
 ```
-
-## License
-
-[Specify your license here]
 
 ## Acknowledgments
 
 - Legal documents scraped from [AustLII](https://www.austlii.edu.au/)
 - Model architecture based on [DistilGPT2](https://huggingface.co/distilgpt2) by Hugging Face
 - Built with [Transformers](https://huggingface.co/docs/transformers) library
-
-## Contact
-
-[Your contact information]
 
