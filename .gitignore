@@ -91,6 +91,16 @@ training.log
 # Scraper progress
 .scraper_progress.json
 
+# RAG vector store (large binary files)
+rag/vectorstore/
+rag/vectorstore/*.faiss
+rag/vectorstore/*.pkl
+rag/vectorstore_demo/
+
+# Test/demo data directories (should use main data/ directory)
+test_data/
+rag_demo_data/
+
 # Data directory (legal documents - large, may want to track or ignore)
 # Uncomment if you don't want to track the scraped data:
 # data/
